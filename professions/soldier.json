@@ -1,0 +1,20 @@
+{
+    "name": {
+        "en": "Soldier"
+    },
+    "desc": {
+        "en": "The Soldier is a Tier I evolution from the Archer Profession or a Tier II evolution from the Fighter Profession, while keeping all of the Archers abilities the soldier also gains the ability to <b>Dual Wield</b>.<br><br> As with the Archer the Soldier can use Daggers, Bows and Crossbows but also gains <b>Axes</b>, <b>Hand Guns</b>, <b>Swords</b> and <b>Shields</b>."
+    },
+    "skills": {
+        "swords": 5,
+        "axes": 5,
+        "shields": 5,
+        "dualWielding": 5,
+        "handGuns": 5,
+        "armor": 5,
+        "attackPower": 10
+    },
+    "evo": {
+        "sharpshooter": 350
+    }
+}

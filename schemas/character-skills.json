@@ -1,0 +1,12 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/character-skills.json",
+    "type": "object",
+    "patternProperties": {
+        "[a-z][a-zA-Z]*": {
+            "type": "integer"
+        }
+    },
+    "propertyNames": {
+        "$ref": "/schemas/skill-id.json"
+    }
+}

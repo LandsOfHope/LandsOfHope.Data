@@ -1,0 +1,20 @@
+{
+    "name": {
+        "en": "Veteran"
+    },
+    "desc": {
+        "en": "The Veteran is a Tier III evolution from the Fighter Profession via Grunt > Soldier keeping all of the Soldiers abilities the Veteran also gains the abilty to use <b>Two Handed Axes</b> and <b>Two Handed Shields</b>."
+    },
+    "skills": {
+        "daggers": 5,
+        "axes": 5,
+        "twoHandedAxes": 5,
+        "maces": 5,
+        "thrownWeapons": 5,
+        "shields": 5,
+        "twoHandedShields": 5,
+        "dualWielding": 5,
+        "armor": 10,
+        "attackPower": 5
+    }
+}

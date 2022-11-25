@@ -1,0 +1,12 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/profession-evolution.json",
+    "type": "object",
+    "patternProperties": {
+        "[a-z][a-zA-Z]*": {
+            "type": "integer"
+        }
+    },
+    "propertyNames": {
+        "$ref": "/schemas/profession-id.json"
+    }
+}

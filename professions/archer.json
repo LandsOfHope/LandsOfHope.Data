@@ -1,0 +1,21 @@
+{
+    "name": {
+        "en": "Archer"
+    },
+    "desc": {
+        "en": "The Archer is a dedicated ranged weapon user, skilled expertly in Bows and Crossbows they prefer to sit at the back of any encounter and shoot from range, however should ones enemy deflect an arrow or charge blindly through the maelstrom many an Archer has been known to quickly unsheath a Dagger and finish the foe."
+    },
+    "skills": {
+        "armor": 5,
+        "attackPower": 5,
+        "bows": 5,
+        "crossbows": 5,
+        "daggers": 5,
+        "fists": 5
+    },
+    "evo": {
+        "soldier": 50,
+        "scout": 50,
+        "tracker": 50
+    }
+}

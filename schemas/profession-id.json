@@ -1,0 +1,15 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/profession-id.json",
+    "enum": [
+        "archer",
+        "soldier",
+        "scout",
+        "tracker",
+        "sharpshooter",
+        "veteran",
+        "beastmaster",
+        "beastlord",
+        "hunter",
+        "ranger"
+    ]
+}

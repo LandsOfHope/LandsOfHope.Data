@@ -1,0 +1,9 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/localized-string.json",
+    "type": "object",
+    "properties": {
+        "en": {
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/skill-id.json",
+    "enum": [
+        "armor",
+        "attackPower",
+
+        "twoHandedShields",
+        "twoHandedAxes",
+        "thrownWeapons",
+        "twoHandedGuns",
+        "dualWielding",
+        "crossbows",
+        "handGuns",
+        "shields",
+        "daggers",
+        "swords",
+        "fists",
+        "maces",
+        "traps",
+        "bows",
+        "axes",
+
+        "beastBreeding",
+        "beastMastery",
+
+        "trackAndCaptureCriminals",
+        "trackHumanoids",
+        "detectHidden",
+        "trackBeasts",
+        "trackUndead",
+
+        "exploration"
+    ]
+}

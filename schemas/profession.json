@@ -1,0 +1,23 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/profession.json",
+    "type": "object",
+    "properties": {
+        "name": {
+            "$ref": "/schemas/localized-string.json"
+        },
+        "desc": {
+            "$ref": "/schemas/localized-string.json"
+        },
+        "skills": {
+            "$ref": "/schemas/character-skills.json"
+        },
+        "evo": {
+            "$ref": "/schemas/profession-evolution.json"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "name",
+        "desc"
+    ]
+}
