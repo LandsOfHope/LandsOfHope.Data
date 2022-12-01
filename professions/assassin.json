@@ -1,0 +1,22 @@
+{
+    "name": {
+        "en": "Assassin"
+    },
+    "desc": {
+        "en": "The Assassin is a Tier II evolution from the Rogue Profession via Shadowstalker, while keeping all of the Shadowstalkers abilities the Assassin also gains the abilty to use <b>Shadow-strike</b> allowing them to attack while stealthed and deal Shadow strike damage."
+    },
+    "skills": {
+        "armor": 5,
+        "attackPower": 5,
+        "daggers": 5,
+        "detectHidden": 5,
+        "dualWielding": 5,
+        "shadowStrike": 5,
+        "stealth": 5,
+        "swords": 5,
+        "thrownWeapons": 5
+    },
+    "evo": {
+        "killer": 200
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": {
+        "en": "Rogue"
+    },
+    "desc": {
+        "en": "The Rogue is a hard profession to classify, looked down upon by many as nefarious criminals the Rogue is often called upon or hired to perform questionable acts. The Rogue is skilled in the art of Stealth and Lockpicking, they also know how to wield a Dagger very well and can use Thrown Weapons."
+    },
+    "skills": {
+        "armor": 5,
+        "attackPower": 5,
+        "attackEvasion": 5,
+        "daggers": 5,
+        "dualWielding": 5,
+        "fists": 5,
+        "lockpicking": 5,
+        "stealth": 5,
+        "thrownWeapons": 5
+    },
+    "evo": {
+        "pickpocket": 50,
+        "shadowstalker": 50,
+        "trickster": 50
+    }
+}

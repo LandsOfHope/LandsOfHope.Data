@@ -1,0 +1,9 @@
+{
+    "name": {
+        "en": "Track Items"
+    },
+    "desc": {
+        "en": "<p>The <strong>Track&nbsp;Items</strong> skill allows you to track certain types of items that are currently&nbsp;spawned on the map. You can track the following:</p><ul><li>treasure maps in bottle (100 skill)</li><li>soil and seeds (1 skill)</li><li>bags (1 skill)</li><li>herbs and crystals (500 skill)</li><li>treasure chests (1000)</li><li>mushrooms (JW realm, 3000 skill)</li><li>cracks in the ground (Uncharted Waters, 250 skill)</li><li>rare resources (Uncharted Waters, 50 skill)</li></ul><p>You can only track currently spawned items using this skill, and as these items do not spawn in any fixed location but only when someone visits a tile you may find that there are times when nothing can be tracked.</p><p>This is a class skill that Treasure Hunters and Crimelords receive although it may be possible to use it through equipping items with bonuses. </p>"
+    },
+    "group": "world"
+}

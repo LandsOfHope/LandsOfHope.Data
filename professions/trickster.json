@@ -1,0 +1,20 @@
+{
+    "name": {
+        "en": "Trickster"
+    },
+    "desc": {
+        "en": "The Trickster is a Tier I evolution from the Rogue Profession, while keeping all of the Rogues abilities the Trickster also gains the ability to <b>Deceive</b> players by hiding the true identity of items and objects.<br><br> As with the Rogue the Trickster can use Daggers, Fists and Thrown Weapons but they also gain access to <b>Swords</b>."
+    },
+    "skills": {
+        "armor": 5,
+        "attackPower": 5,
+        "daggers": 5,
+        "deception": 5,
+        "dualWielding": 5,
+        "lockpicking": 5,
+        "swords": 5
+    },
+    "evo": {
+        "deceiver": 350
+    }
+}
