@@ -11,6 +11,8 @@ jobs:
     name: Deploy
     steps:
       - uses: actions/checkout@v2
+      - name: generate_all_json
+        run: node .scripts/generate_all_json images professions races skills
       - name: Publish
         run: aws s3 sync . s3://lohdata --endpoint-url ${{ secrets.AWS_ENDPOINT_URL }} --delete --exclude ".*" --exclude "*/.*"
         env:
