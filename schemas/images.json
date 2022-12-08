@@ -1,0 +1,42 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/images.json",
+    "type": "object",
+    "properties": {
+        "M": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "F": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "U": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        }
+    },
+    "additionalProperties": false,
+    "anyOf": [
+        {
+            "required": [
+                "M"
+            ]
+        },
+        {
+            "required": [
+                "F"
+            ]
+        },
+        {
+            "required": [
+                "U"
+            ]
+        }
+    ]
+}

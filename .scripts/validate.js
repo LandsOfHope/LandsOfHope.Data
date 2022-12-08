@@ -21,6 +21,7 @@ const main = async function () {
   return await Promise.all([
     validateAll("schemas/profession.json", "professions/*.json"),
     validateAll("schemas/skill.json", "skills/*.json"),
+    validateAll("schemas/race.json", "races/*.json"),
   ]);
 };
 
