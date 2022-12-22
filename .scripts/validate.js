@@ -19,9 +19,9 @@ const validateAll = async (schema, fileGlob) => {
 
 const main = async function () {
   return await Promise.all([
-    validateAll("schemas/profession.json", "professions/*.json"),
-    validateAll("schemas/skill.json", "skills/*.json"),
-    validateAll("schemas/race.json", "races/*.json"),
+    validateAll("schemas/profession.json", "professions/!(all).json"),
+    validateAll("schemas/skill.json", "skills/!(all).json"),
+    validateAll("schemas/race.json", "races/!(all).json"),
   ]);
 };
 
