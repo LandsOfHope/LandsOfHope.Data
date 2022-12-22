@@ -6,12 +6,12 @@
         "en": "The Sharpshooter is a Tier II evolution from the Archer Profession via Soldier, while keeping all of the Soldiers abilities the scout also gains the abilty to use <b>Two Handed Guns</b>."
     },
     "skills": {
-        "trackHumanoids": 5,
-        "twoHandedGuns": 5,
-        "detectHidden": 5,
-        "dualWielding": 5,
-        "handGuns": 5,
-        "attackPower": 10
+        "track-humanoids": 5,
+        "two-handed-guns": 5,
+        "detect-hidden": 5,
+        "dual-wielding": 5,
+        "hand-guns": 5,
+        "attack-power": 10
     },
     "evo": {
         "veteran": 650

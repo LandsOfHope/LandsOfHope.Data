@@ -1,0 +1,20 @@
+{
+    "name": {
+        "en": "Abbot"
+    },
+    "desc": {
+        "en": "The Abbot is a Tier III evolution from the Healer Profession via Friar > Monk,while keeping all of the Monks abilities the Abbot also gains the abilty to use <b>Blessing</b> magic spells."
+    },
+    "skills": {
+        "healing-magic": 5,
+        "first-aid": 5,
+        "blessing": 5,
+        "two-handed-staves": 5,
+        "staves": 5,
+        "preservation-magic": 5,
+        "armor": 5,
+        "attack-power": 5,
+        "martial-arts": 5
+    },
+    "evo": {}
+}

@@ -6,14 +6,14 @@
         "en": "The Hunter is a Tier II evolution from the Archer Profession via Tracker, while keeping all of the Trackers abilities the Hunter also gains the abilty to track <b>Beasts</b>, <b>Humanoids</b>, <b>Undeads</b> and to track <b>Criminals</b>."
     },
     "skills": {
-        "trackAndCaptureCriminals": 5,
+        "track-and-capture-criminals": 5,
         "traps": 5,
-        "trackHumanoids": 5,
-        "trackUndead": 5,
-        "detectHidden": 5,
-        "trackBeasts": 5,
+        "track-humanoids": 5,
+        "track-undead": 5,
+        "detect-hidden": 5,
+        "track-beasts": 5,
         "armor": 5,
-        "attackPower": 5
+        "attack-power": 5
     },
     "evo": {
         "beastlord": 650
