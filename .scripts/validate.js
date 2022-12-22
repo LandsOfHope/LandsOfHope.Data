@@ -9,10 +9,10 @@ const schemas = glob.sync("schemas/*.json");
 const validateAll = async (schema, fileGlob) => {
   const tmpSchemas = schemas
     .filter((value) => value !== schema)
-    .map((value) => `-r ${value}`);
+    .map((value) => `-r "${value}"`);
   return (
     await exec(
-      `npx --yes ajv-cli -s ${schema} -d ${fileGlob} -r ${tmpSchemas.join(" ")}`
+      `npx --yes ajv-cli -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")}`
     )
   ).exitCode;
 };
