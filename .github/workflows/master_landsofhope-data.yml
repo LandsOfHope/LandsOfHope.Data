@@ -12,7 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: generate_all_json
-        run: node .scripts/generate_all_json images/character professions races skills
+        run: node .scripts/generate_all_json images professions races skills
+      - name: generate_id_schemas
+        run: node .scripts/generate_id_schemas images professions races skills
+      - name: validate schemas
+        run: node .scripts/validate
       - name: Publish
         run: aws s3 sync . s3://lohdata --endpoint-url ${{ secrets.AWS_ENDPOINT_URL }} --delete --exclude ".*" --exclude "*/.*"
         env:
