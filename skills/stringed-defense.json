@@ -1,0 +1,9 @@
+{
+    "name": {
+        "en": "Stringed Defense"
+    },
+    "desc": {
+        "en": "The <strong>Stringed&nbsp;defense</strong> skill enables you to defend more easily against attacks from the following skills: <ul><li>BOWS</li><li>CROSSBOWS</li></ul><p>This skill is a passive skill that is used automatically when you are attacked by any of the above weapon skills. The skilll can not be raised and does not gives you any experience when used. You can improve your defense skill through the use of items and spells that raise it.</p><p><strong><font color=\"#ffa500\">Formula</font></strong><br />Damage Reduction = (STRINGED DEFENSE / 5)<br /><br />This means for every 5 points in this skill you take 1pt&nbsp;less damage when attacked with a&nbsp;stringed weapon.</p>"
+    },
+    "group": "weapon-defense"
+}
