@@ -11,6 +11,9 @@ jobs:
     name: Deploy
     steps:
       - uses: actions/checkout@v2
+      - name: npm ci
+        working-directory: .scripts
+        run: npm ci
       - name: generate_all_json
         run: node .scripts/generate_all_json images professions races skills
       - name: generate_id_schemas
