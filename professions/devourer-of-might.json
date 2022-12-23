@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Devourer of Might"
+    },
+    "desc": {
+        "en": "This ancient demon was born from the deepest parts of the Hell Plane. It feeds on might, devouring the strengths and fears of all it encounters."
+    },
+    "skills": {
+        "frenzy": 5,
+        "stamina-regen": 5,
+        "gun-defense": 5,
+        "fire-resistance": 5,
+        "bladed-defense": 5,
+        "projectile-defense": 5,
+        "h2h-defense": 5,
+        "bludgeon-defense": 5,
+        "stringed-defense": 5,
+        "two-handed-swords": 5,
+        "pole-defense": 5,
+        "armor": 5
+    },
+    "evo": {}
+}

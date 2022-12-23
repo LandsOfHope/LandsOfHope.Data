@@ -1,0 +1,14 @@
+{
+    "name": {
+        "en": "Blacksmith"
+    },
+    "desc": {
+        "en": "Blacksmith. An expert at creating metal items from ingots."
+    },
+    "skills": {
+        "blacksmithing": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

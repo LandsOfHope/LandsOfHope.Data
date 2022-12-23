@@ -1,0 +1,19 @@
+{
+    "name": {
+        "en": "Animator"
+    },
+    "desc": {
+        "en": "The Animator uses basic components to create golems and other automotrons. They are more defensively natured than most classes and instead rely on their creations to do all of the hard work for them."
+    },
+    "skills": {
+        "mining": 5,
+        "two-handed-staves": 5,
+        "fists": 5,
+        "geology": 5,
+        "armor": 5,
+        "attack-power": 5,
+        "animation": 5,
+        "reformation": 5
+    },
+    "evo": {}
+}

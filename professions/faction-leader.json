@@ -1,0 +1,30 @@
+{
+    "name": {
+        "en": "Faction Leader"
+    },
+    "desc": {
+        "en": "The Leader of a Faction."
+    },
+    "skills": {
+        "energy-magic": 5,
+        "mystical-resistance": 5,
+        "cold-resistance": 5,
+        "fire-resistance": 5,
+        "energy-resistance": 5,
+        "water-resistance": 5,
+        "poison-resistance": 5,
+        "earth-resistance": 5,
+        "terror": 5,
+        "bladed-defense": 5,
+        "projectile-defense": 5,
+        "h2h-defense": 5,
+        "bludgeon-defense": 5,
+        "stringed-defense": 5,
+        "pole-defense": 5,
+        "invoking-resistance": 5,
+        "debuff-resistance": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

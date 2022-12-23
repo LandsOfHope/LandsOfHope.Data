@@ -1,0 +1,13 @@
+{
+    "name": {
+        "en": "Leech Demon"
+    },
+    "desc": {
+        "en": "A demon that steals the life (health) of the enemy."
+    },
+    "skills": {
+        "health-stealing": 5,
+        "armor": 5
+    },
+    "evo": {}
+}

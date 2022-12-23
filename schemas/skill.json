@@ -3,13 +3,13 @@
     "type": "object",
     "properties": {
         "name": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "localized-string.json"
         },
         "desc": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "localized-string.json"
         },
         "group": {
-            "$ref": "/schemas/skill-group.json"
+            "$ref": "skill-group.json"
         }
     },
     "required": ["name", "desc", "group"],

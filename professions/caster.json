@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Caster"
+    },
+    "desc": {
+        "en": "Through the ages the Caster profession has existed in one form or another, Casters choose the way of magic over the way of melee weapons they may specialise in Mystical spells which affect the mind and body. Although should the need arise a Caster may fight with his trusty Staff or simply pummel you with his or her fists if they desire to do so."
+    },
+    "skills": {
+        "mystical-magic": 5,
+        "staves": 5,
+        "fists": 5,
+        "portal-mastery": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

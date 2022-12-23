@@ -1,0 +1,15 @@
+{
+    "name": {
+        "en": "Archaeologist"
+    },
+    "desc": {
+        "en": "The Archaeologist is a Tier IV evolution from the Salvager Profession via Adventurer > Treasure Hunter keeping all of the Treasure Hunters abilities the Archaeologist also gains the abilty to use <b>Archaeology</b>, which allows them to uncover relics from long ago.<br><br>The Archaeologist gets a +30% looted money bonus and access to Tier IV Salvage goods."
+    },
+    "skills": {
+        "appraisal": 5,
+        "archaeology": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

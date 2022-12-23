@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Apprentice"
+    },
+    "desc": {
+        "en": "The Apprentice is a dedicated crafter/gather, this class has no combat skills and can not participate in combat or dueling, however it does have enhanced gathering and crafting abilities and faster queue times."
+    },
+    "skills": {
+        "leatherworking": 5,
+        "fishing": 5,
+        "mining": 5,
+        "lumberjacking": 5,
+        "tailoring": 5,
+        "farming": 5,
+        "artisan": 5,
+        "foraging": 5,
+        "geology": 5,
+        "husbandry": 5
+    },
+    "evo": {
+        
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": {
+        "en": "Berserker"
+    },
+    "desc": {
+        "en": "The Berserker is a Tier II evolution from the Fighter Profession via Warrior, while keeping all of the Warriors abilities the Berserker also gains the abilty to use <b>Rocks and Boulders</b>, <b>Two Handed Axes</b> and <b>Two Handed Maces</b>."
+    },
+    "skills": {
+        "frenzy": 5,
+        "two-handed-axes": 5,
+        "two-handed-maces": 5,
+        "exotic-weapons": 5,
+        "dual-wielding": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

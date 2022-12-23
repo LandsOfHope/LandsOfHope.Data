@@ -1,0 +1,16 @@
+{
+    "name": {
+        "en": "Adventurer"
+    },
+    "desc": {
+        "en": "The Adventurer is a Tier II evolution from the Salvager Profession, while keeping all of the Salvager abilities the Adventurer also gains the ability to use <b>Track Dungeons</b>, a powerful skill which lets them track player and system dungeons.<br><Br>The Adventurer gets a +20% looted money bonus and access to Tier II Salvage goods.<br><br>As with the Salvager the Adventuer can use Crossbows, Swords, Fists and Shields."
+    },
+    "skills": {
+        "track-dungeons": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {
+        
+    }
+}

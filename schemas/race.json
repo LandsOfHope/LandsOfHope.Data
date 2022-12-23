@@ -3,19 +3,19 @@
     "type": "object",
     "properties": {
         "name": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "localized-string.json"
         },
         "desc": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "localized-string.json"
         },
         "appr": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "localized-string.json"
         },
         "hist": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "localized-string.json"
         },
         "pics": {
-            "$ref": "/schemas/images.json"
+            "$ref": "images.json"
         }
     },
     "additionalProperties": false,

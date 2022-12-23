@@ -1,0 +1,16 @@
+{
+    "name": {
+        "en": "Friar"
+    },
+    "desc": {
+        "en": "The Friar is a Tier I evolution from the Healer Profession, while keeping all of the Healers abilities the Friar also gains the ability to use <b>Healing</b> items and <b>Curing magic </b> spells.<br><br> As with the Healer the Friar can use Staves and Fists but also gains <b>Two Handed Staves</b>."
+    },
+    "skills": {
+        "first-aid": 5,
+        "two-handed-staves": 5,
+        "preservation-magic": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

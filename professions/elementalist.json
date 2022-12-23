@@ -1,0 +1,18 @@
+{
+    "name": {
+        "en": "Elementalist"
+    },
+    "desc": {
+        "en": "The Elementalist is a Tier II evolution from the Caster Profession via mage, while keeping all of the Mages abilities the Elementalist also gains the abilty to use <b>Cold</b>, <b>Water</b>, <b>Fire</b> and <b>Energy</b> magic spells ."
+    },
+    "skills": {
+        "fire-magic": 5,
+        "water-magic": 5,
+        "cold-magic": 5,
+        "energy-magic": 5,
+        "staves": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

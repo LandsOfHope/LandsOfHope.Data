@@ -1,0 +1,16 @@
+{
+    "name": {
+        "en": "Invoker"
+    },
+    "desc": {
+        "en": "The Invoker is a Tier I evolution from the Caster Profession, while keeping all of the Caster abilities the Invoker also gains the ability to use <b>Invocation magic</b> spells.<br><br> As with the Caster the Invoker can use Staves and Fists."
+    },
+    "skills": {
+        "invocation": 5,
+        "staves": 5,
+        "possession": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

@@ -1,0 +1,31 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/professions/*.json"
+            ],
+            "url": "./schemas/profession.json"
+        },
+        {
+            "fileMatch": [
+                "/skills/*.json"
+            ],
+            "url": "./schemas/skill.json"
+        },
+        {
+            "fileMatch": [
+                "/images/*.json"
+            ],
+            "url": "./schemas/image.json"
+        },
+        {
+            "fileMatch": [
+                "/races/*.json"
+            ],
+            "url": "./schemas/race.json"
+        },
+        {
+            "url": "./schemas/professon-evolution.json"
+        }
+    ]
+}
