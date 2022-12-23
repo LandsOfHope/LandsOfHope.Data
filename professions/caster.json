@@ -13,5 +13,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "evo": {
+        "invoker": 50,
+        "mage": 50,
+        "shaman": 50
+    }
 }
