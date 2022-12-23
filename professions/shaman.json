@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Shaman"
+    },
+    "desc": {
+        "en": "The Shaman is a Tier I evolution from the Caster Profession, while keeping all of the Caster abilities the Shaman also gains the ability to use <b>Acid</b>, <b>Spirit</b> and <b>Transmigration</b> magic spells.<br><br> As with the Caster the Shaman can use Staves and Fists."
+    },
+    "skills": {
+        "transmigration": 5,
+        "staves": 5,
+        "spirit-magic": 5,
+        "acid-magic": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

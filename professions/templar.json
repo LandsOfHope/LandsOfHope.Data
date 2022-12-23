@@ -1,0 +1,21 @@
+{
+    "name": {
+        "en": "Templar"
+    },
+    "desc": {
+        "en": "The Templar is a Tier II evolution from the Healer Profession via Protector, the Templar gains <b>Spell Evasion</b> and the ability to wield <b>Pole Blades</b> and <b>Two Handed Swords</b>."
+    },
+    "skills": {
+        "first-aid": 5,
+        "swords": 5,
+        "spell-evasion": 5,
+        "shields": 5,
+        "protection": 5,
+        "dual-wielding": 5,
+        "two-handed-swords": 5,
+        "pole-weapons": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

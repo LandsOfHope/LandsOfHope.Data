@@ -1,0 +1,18 @@
+{
+    "name": {
+        "en": "Spy"
+    },
+    "desc": {
+        "en": "The Spy is a Tier I evolution from the Farmer Profession, while keeping all of the Farmers abilities the Spy also gains the ability to <b>Track Items</b> and <b>Stealth</b>.<br><br> As with the Farmer the Spy can use Axes and Fists but also gains Daggers and Thrown Weapons."
+    },
+    "skills": {
+        "stealth": 5,
+        "daggers": 5,
+        "thrown-weapons": 5,
+        "dual-wielding": 5,
+        "track-items": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

@@ -1,0 +1,23 @@
+{
+    "name": {
+        "en": "Wizard"
+    },
+    "desc": {
+        "en": "The Wizard is a Tier III evolution from the Caster Profession via Mage > Elementalist keeping all of the Elementalists abilities the Wizard also gains the abilty to use <b>Air</b> and <b>Earth</b> magic, <b>Mana Draining</b> and <b>Maces</b>."
+    },
+    "skills": {
+        "fire-magic": 5,
+        "water-magic": 5,
+        "cold-magic": 5,
+        "energy-magic": 5,
+        "mystical-magic": 5,
+        "fire-survival": 5,
+        "mana-draining": 5,
+        "two-handed-staves": 5,
+        "earth-magic": 5,
+        "air-magic": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

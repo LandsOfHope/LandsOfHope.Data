@@ -1,0 +1,16 @@
+{
+    "name": {
+        "en": "Priest"
+    },
+    "desc": {
+        "en": "The Priest is a Tier II evolution from the Healer Profession via Cleric, while keeping all of the Clerics abilities the Priest also gains the abilty to use <b>Restoration</b> magic spells and to perform <b>Surgery</b> on Humanoid minions and monsters."
+    },
+    "skills": {
+        "staves": 5,
+        "maces": 5,
+        "intercession": 5,
+        "restoration-magic": 5,
+        "armor": 5
+    },
+    "evo": {}
+}

@@ -1,0 +1,19 @@
+{
+    "name": {
+        "en": "Protector"
+    },
+    "desc": {
+        "en": "The Protector is a Tier I evolution from the Healer Profession, while keeping all of the Healers abilities the Protector also gains the ability to use <b>Healing</b> items and <b>Protection magic </b> spells.<br><br> As with the Healer the Protector can use Staves and Fists but also gains <b>Two Handed Staves</b> and <b>Shields</b>."
+    },
+    "skills": {
+        "healing-magic": 5,
+        "first-aid": 5,
+        "two-handed-staves": 5,
+        "staves": 5,
+        "shields": 5,
+        "protection": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

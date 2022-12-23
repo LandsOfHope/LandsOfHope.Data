@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Mage"
+    },
+    "desc": {
+        "en": "The Mage is a Tier I evolution from the Caster Profession, while keeping all of the Caster abilities the Mage also gains the ability to use <b>Defensive</b> magic spells.<br><br> As with the Caster the Mage can use Staves and Fists."
+    },
+    "skills": {
+        "defensive-magic": 5,
+        "mystical-magic": 5,
+        "staves": 5,
+        "fists": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

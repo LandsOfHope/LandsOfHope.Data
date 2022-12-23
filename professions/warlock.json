@@ -1,0 +1,16 @@
+{
+    "name": {
+        "en": "Warlock"
+    },
+    "desc": {
+        "en": "The Warlock is a Tier III evolution from the Caster Profession via Invoker > Summoner keeping all of the Summoners abilities the Warlock also gains the abilty to use <b>Demonology</b> magic and to use <b>Mana Draining</b>."
+    },
+    "skills": {
+        "hell-magic": 5,
+        "demonology": 5,
+        "mana-draining": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

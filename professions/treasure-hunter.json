@@ -1,0 +1,15 @@
+{
+    "name": {
+        "en": "Treasure Hunter"
+    },
+    "desc": {
+        "en": "The Treasure Hunter is a Tier III evolution from the Salvager Profession, while keeping all of the Salvager abilities the Treasure Hunter also gains the ability to use <b>Track Items</b>.<br><br> Treasure Hunters can use Fists, Crossbows, Swords, Shields and Hand Guns, and they gets a +30% looted money bonus and access to Tier III Salvage goods."
+    },
+    "skills": {
+        "track-items": 5,
+        "hand-guns": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

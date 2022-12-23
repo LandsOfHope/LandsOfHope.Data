@@ -1,0 +1,19 @@
+{
+    "name": {
+        "en": "Salvager"
+    },
+    "desc": {
+        "en": "The Salvager is often regarded as someone who has no thought for preserving the relics of the past, they would rather smash a priceless vase on their hunt for gold and jewels than preserve it for future generations.<br><br>Salvagers can deconstruct items using the Deconstruction skill (starting skill), they can also Salvage corpses once they are out of the estate to gain additional resources.<br><br>Salvagers get a 10% looted money increase and access to Tier 1 Salvage goods."
+    },
+    "skills": {
+        "deconstruction": 5,
+        "swords": 5,
+        "crossbows": 5,
+        "fists": 5,
+        "shields": 5,
+        "dual-wielding": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

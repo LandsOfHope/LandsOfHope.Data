@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Woodworker"
+    },
+    "desc": {
+        "en": "Woodworkers are experts at Carpentry and Woodworking. They rely on there excellent skills to manufacture wooden objects such as Shields and wooden weapons."
+    },
+    "skills": {
+        "carpentry": 5,
+        "construction": 5,
+        "deconstruction": 5,
+        "lumberjacking": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

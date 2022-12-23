@@ -1,0 +1,19 @@
+{
+    "name": {
+        "en": "Warrior"
+    },
+    "desc": {
+        "en": "The Warrior is a Tier I evolution from the Fighter Profession, while keeping all of the Fighters abilities the Warrior also gains the ability to use <b>Shields</b>.<br><br> As with the Fighter the Warrior can use Axes, Swords, Daggers and Maces."
+    },
+    "skills": {
+        "daggers": 5,
+        "swords": 5,
+        "axes": 5,
+        "maces": 5,
+        "shields": 5,
+        "dual-wielding": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

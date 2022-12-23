@@ -1,0 +1,19 @@
+{
+    "name": {
+        "en": "Monk"
+    },
+    "desc": {
+        "en": "The Monk is a Tier II evolution from the Healer Profession via Friar, while keeping all of the Friars abilities the Monk also gains the abilty to use <b>Shields</b>."
+    },
+    "skills": {
+        "healing-magic": 5,
+        "two-handed-staves": 5,
+        "staves": 5,
+        "fists": 5,
+        "shields": 5,
+        "preservation-magic": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

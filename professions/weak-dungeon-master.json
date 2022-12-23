@@ -1,0 +1,27 @@
+{
+    "name": {
+        "en": "Weak Dungeon Master"
+    },
+    "desc": {
+        "en": "The lord of the dungeon."
+    },
+    "skills": {
+        "mystical-magic": 5,
+        "mystical-resistance": 5,
+        "hell-magic": 5,
+        "first-aid": 5,
+        "mana-draining": 5,
+        "health-stealing": 5,
+        "fists": 5,
+        "terror": 5,
+        "bladed-defense": 5,
+        "projectile-defense": 5,
+        "h2h-defense": 5,
+        "bludgeon-defense": 5,
+        "stringed-defense": 5,
+        "pole-defense": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

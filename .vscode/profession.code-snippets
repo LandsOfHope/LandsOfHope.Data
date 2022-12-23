@@ -28,11 +28,11 @@
 			"\t\t\"en\": \"${2:Description}\"",
 			"\t},",
 			"\t\"skills\": {",
-			"\t\t\"${3:skill}\": 5,",
-			"\t\t\"${skill}\": 5",
+			"\t\t\"${3:armor}\": 5,",
+			"\t\t\"attack-power\": 5",
 			"\t},",
 			"\t\"evo\": {",
-			"\t\t\"${4:evo_prof}\": 100",
+			"\t\t${4:\"evo_prof\": 100}",
 			"\t}",
 			"}"
 		]

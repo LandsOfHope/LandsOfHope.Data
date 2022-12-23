@@ -1,0 +1,21 @@
+{
+    "name": {
+        "en": "Undead Rogue"
+    },
+    "desc": {
+        "en": "An ancient rogue."
+    },
+    "skills": {
+        "stealth": 5,
+        "stealing": 5,
+        "lockpicking": 5,
+        "daggers": 5,
+        "swords": 5,
+        "spell-evasion": 5,
+        "bladed-defense": 5,
+        "dual-wielding": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

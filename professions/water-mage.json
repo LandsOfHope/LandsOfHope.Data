@@ -1,0 +1,16 @@
+{
+    "name": {
+        "en": "Water Mage"
+    },
+    "desc": {
+        "en": "Water Mage. An expert at casting Water Magic."
+    },
+    "skills": {
+        "water-magic": 5,
+        "mystical-magic": 5,
+        "water-resistance": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}

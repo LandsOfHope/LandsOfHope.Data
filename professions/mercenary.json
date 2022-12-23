@@ -1,0 +1,38 @@
+{
+    "name": {
+        "en": "Mercenary"
+    },
+    "desc": {
+        "en": "A hired hand, useful for certain encounters."
+    },
+    "skills": {
+        "leatherworking": 5,
+        "carpentry": 5,
+        "blacksmithing": 5,
+        "alchemy": 5,
+        "tinkering": 5,
+        "fishing": 5,
+        "construction": 5,
+        "deconstruction": 5,
+        "disguise": 5,
+        "mining": 5,
+        "lumberjacking": 5,
+        "tailoring": 5,
+        "cooking": 5,
+        "stonemasonry": 5,
+        "skinning": 5,
+        "inscription": 5,
+        "axes": 5,
+        "fists": 5,
+        "farming": 5,
+        "dual-wielding": 5,
+        "foraging": 5,
+        "geology": 5,
+        "husbandry": 5,
+        "armor": 5,
+        "attack-power": 5,
+        "floristry": 5,
+        "gods-favor": 5
+    },
+    "evo": {}
+}

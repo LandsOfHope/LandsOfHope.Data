@@ -1,0 +1,15 @@
+{
+    "name": {
+        "en": "Summoner"
+    },
+    "desc": {
+        "en": "The Summoner is a Tier II evolution from the Caster Profession via Invoker, while keeping all of the Invokers abilities the Summoner also gains the abilty to use <b>Summoning</b> magic spells and to use <b>Two Handed Staves</b>."
+    },
+    "skills": {
+        "summoning": 5,
+        "two-handed-staves": 5,
+        "armor": 5,
+        "attack-power": 5
+    },
+    "evo": {}
+}
