@@ -12,7 +12,7 @@ const validateAll = async (schema, fileGlob) => {
     .map((value) => `-r "${value}"`);
   return (
     await exec(
-      `npx --yes ajv-cli -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")}`
+      `npx --yes ajv-cli@latest -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")}`
     )
   ).exitCode;
 };
@@ -22,6 +22,7 @@ const main = async function () {
     validateAll("schemas/profession.json", "professions/!(all).json"),
     validateAll("schemas/skill.json", "skills/!(all).json"),
     validateAll("schemas/race.json", "races/!(all).json"),
+    validateAll("schemas/profession-list.json", "player-professions.json")
   ]);
 };
 

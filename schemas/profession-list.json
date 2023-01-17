@@ -1,0 +1,7 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/profession-list.json",
+    "type": "array",
+    "items": {
+        "$ref": "professions-id.json"
+    }
+}
