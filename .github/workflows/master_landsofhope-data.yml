@@ -15,9 +15,9 @@ jobs:
         working-directory: .scripts
         run: npm ci
       - name: generate_all_json
-        run: node .scripts/generate_all_json images professions races skills
+        run: node .scripts/generate_all_json images professions races skills terrains
       - name: generate_id_schemas
-        run: node .scripts/generate_id_schemas images professions races skills
+        run: node .scripts/generate_id_schemas images professions races skills terrains
       - name: validate schemas
         run: node .scripts/validate
       - name: Publish
@@ -25,4 +25,4 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: 'auto'
+          AWS_DEFAULT_REGION: "auto"

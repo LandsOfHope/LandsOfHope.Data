@@ -1,0 +1,37 @@
+{
+    "name": {
+        "en": "Wetlands"
+    },
+    "variants": [
+        {
+            "name": {
+                "en": "Salt Marsh"
+            },
+            "color": 6321997
+        },
+        {
+            "name": {
+                "en": "Bog"
+            },
+            "color": 4955288
+        },
+        {
+            "name": {
+                "en": "Fen"
+            },
+            "color": 5347207
+        },
+        {
+            "name": {
+                "en": "Quicksand"
+            },
+            "color": 162713
+        },
+        {
+            "name": {
+                "en": "Swamp"
+            },
+            "color": 175272
+        }
+    ]
+}

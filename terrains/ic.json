@@ -1,0 +1,37 @@
+{
+    "name": {
+        "en": "Ice"
+    },
+    "variants": [
+        {
+            "name": {
+                "en": "Ice"
+            },
+            "color": 16383408
+        },
+        {
+            "name": {
+                "en": "Glacier"
+            },
+            "color": 16383969
+        },
+        {
+            "name": {
+                "en": "Frozen Lake"
+            },
+            "color": 16708047
+        },
+        {
+            "name": {
+                "en": "Frozen River"
+            },
+            "color": 16774993
+        },
+        {
+            "name": {
+                "en": "Snow"
+            },
+            "color": 16777215
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/map-tile.json",
+    "type": "object",
+    "properties": {
+        "area": {
+            "$ref": "localized-string.json"
+        },
+        "color": {
+            "type": "number"
+        },
+        "img": {
+            "$ref": "map-tile-img.json"
+        },
+        "img2": {
+            "$ref": "map-tile-img.json"
+        },
+        "terrain": {
+            "$ref": "terrains-id.json"
+        },
+        "level": {
+            "type": "number"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "area",
+        "color",
+        "img",
+        "img2",
+        "terrain",
+        "level"
+    ]
+}
