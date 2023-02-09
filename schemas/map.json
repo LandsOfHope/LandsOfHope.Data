@@ -10,24 +10,12 @@
         },
         "starty": {
             "type": "integer"
-        },
-        "tiles": {
-            "type": "array",
-            "minItems": 100,
-            "maxItems": 100,
-            "items": {
-                "type": "array",
-                "minItems": 100,
-                "maxItems": 100,
-                "items": {
-                    "$ref": "map-tile.json"
-                }
-            }
         }
     },
     "additionalProperties": false,
     "required": [
         "name",
-        "tiles"
+        "startx",
+        "starty"
     ]
 }

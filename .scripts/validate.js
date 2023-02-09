@@ -24,6 +24,8 @@ const main = async function () {
     validateAll("schemas/race.json", "races/!(all).json"),
     validateAll("schemas/profession-list.json", "player-professions.json"),
     validateAll("schemas/map.json", "maps/!(all).json"),
+    validateAll("schemas/map-tiles.json", "maps/tiles/!(all).json"),
+    validateAll("schemas/map-resources.json", "maps/resources/!(all).json"),
     validateAll("schemas/terrain.json", "terrain/!(all).json")
   ]);
 };
