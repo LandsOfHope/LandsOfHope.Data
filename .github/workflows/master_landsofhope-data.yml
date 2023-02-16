@@ -15,9 +15,9 @@ jobs:
         working-directory: .scripts
         run: npm ci
       - name: generate_all_json
-        run: node .scripts/generate_all_json images professions races skills terrains maps materials
+        run: node .scripts/generate_all_json images professions races races/groups skills terrains maps materials
       - name: generate_id_schemas
-        run: node .scripts/generate_id_schemas images professions races skills terrains maps materials
+        run: node .scripts/generate_id_schemas images professions races races/groups skills terrains maps materials
       - name: validate schemas
         run: node .scripts/validate
       - name: Publish

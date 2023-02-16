@@ -1,10 +1,14 @@
 "use strict";
 
 const fs = require('fs');
+const path = require('path');
 
 const directories = process.argv.slice(2);
 
 directories.forEach(dir => {
+    const parentDir = path.join('schemas', path.dirname(dir));
+    if (!fs.existsSync(parentDir))
+        fs.mkdirSync(parentDir);
     const id_schema_file = `schemas/${dir}-id.json`;
     fs.readdir(dir, (err, files) => {
         if (err) {

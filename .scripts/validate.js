@@ -22,6 +22,7 @@ const main = async function () {
     validateAll("schemas/profession.json", "professions/!(all).json"),
     validateAll("schemas/skill.json", "skills/!(all).json"),
     validateAll("schemas/race.json", "races/!(all).json"),
+    validateAll("schemas/race-group.json", "races/groups/!(all).json"),
     validateAll("schemas/profession-list.json", "player-professions.json"),
     validateAll("schemas/map.json", "maps/!(all).json"),
     validateAll("schemas/map-tiles.json", "maps/tiles/!(all).json"),
