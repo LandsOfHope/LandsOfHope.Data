@@ -1,4 +1,5 @@
-mkdir -p /api/ts/
+#!/bin/bash
+mkdir -p api/ts/
 
 npm install -g json-schema-to-typescript@latest
-json2ts -i /schemas/ -o /api/ts/
+json2ts -i schemas/ -o api/ts/

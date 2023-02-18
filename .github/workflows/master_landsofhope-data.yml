@@ -24,7 +24,7 @@ jobs:
       - name: compile schemas
         run: node .scripts/compile_schemas.js
       - name: generate typescript api types
-        run: .scripts/generate_api_ts.sh
+        run: docker run --rm -v $PWD/schemas:/schemas -v $PWD/api:/api -v $PWD/.scripts/generate_api_ts.sh:/generate_api_ts.sh node sh generate_api_ts.sh
       - name: Publish
         run: aws s3 sync . s3://lohdata --endpoint-url ${{ secrets.AWS_ENDPOINT_URL }} --delete --exclude ".*" --exclude "*/.*"
         env:
