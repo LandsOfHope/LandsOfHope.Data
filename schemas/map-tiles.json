@@ -8,7 +8,7 @@
         "minItems": 100,
         "maxItems": 100,
         "items": {
-            "$ref": "map-tile.json"
+            "$ref": "/schemas/map-tile.json"
         }
     }
 }

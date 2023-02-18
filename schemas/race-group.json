@@ -2,6 +2,6 @@
     "$id": "https://data.landsofhope.com/schemas/race-group.json",
     "type": "array",
     "items": {
-        "$ref": "races-id.json"
+        "$ref": "/schemas/races-id.json"
     }
 }

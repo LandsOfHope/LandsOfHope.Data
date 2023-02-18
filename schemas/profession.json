@@ -3,16 +3,16 @@
     "type": "object",
     "properties": {
         "name": {
-            "$ref": "localized-string.json"
+            "$ref": "/schemas/localized-string.json"
         },
         "desc": {
-            "$ref": "localized-string.json"
+            "$ref": "/schemas/localized-string.json"
         },
         "skills": {
-            "$ref": "character-skills.json"
+            "$ref": "/schemas/character-skills.json"
         },
         "evo": {
-            "$ref": "profession-evolution.json"
+            "$ref": "/schemas/profession-evolution.json"
         }
     },
     "additionalProperties": false,

@@ -1,0 +1,23 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/buildings/dungeon-spawn.json",
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "raceId": {
+            "type": "integer"
+        },
+        "respawnTime": {
+            "$ref": "/schemas/respawn-time.json"
+        },
+        "boss": {
+            "type": "boolean"
+        }
+    },
+    "required": [
+        "boss",
+        "raceId",
+        "respawnTime"
+    ],
+    "title": "Spawn"
+}

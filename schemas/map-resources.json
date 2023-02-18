@@ -11,7 +11,7 @@
                 "type": "integer"
             },
             "material": {
-                "$ref": "materials-id.json"
+                "$ref": "/schemas/materials-id.json"
             },
             "respawn": {
                 "type": "string"

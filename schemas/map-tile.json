@@ -3,19 +3,19 @@
     "type": "object",
     "properties": {
         "area": {
-            "$ref": "localized-string.json"
+            "$ref": "/schemas/localized-string.json"
         },
         "color": {
             "type": "number"
         },
         "img": {
-            "$ref": "map-tile-img.json"
+            "$ref": "/schemas/map-tile-img.json"
         },
         "img2": {
-            "$ref": "map-tile-img.json"
+            "$ref": "/schemas/map-tile-img.json"
         },
         "terrain": {
-            "$ref": "terrains-id.json"
+            "$ref": "/schemas/terrains-id.json"
         },
         "level": {
             "type": "number"
