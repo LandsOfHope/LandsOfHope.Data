@@ -1,5 +1,6 @@
 {
     "$id": "https://data.landsofhope.com/schemas/map-tiles.json",
+    "title": "MapTiles",
     "type": "array",
     "minItems": 100,
     "maxItems": 100,

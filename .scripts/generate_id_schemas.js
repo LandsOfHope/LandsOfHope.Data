@@ -9,6 +9,7 @@ directories.forEach(dir => {
     const parentDir = path.join('schemas', path.dirname(dir));
     if (!fs.existsSync(parentDir))
         fs.mkdirSync(parentDir);
+
     const id_schema_file = `schemas/${dir}-id.json`;
     fs.readdir(dir, (err, files) => {
         if (err) {
@@ -22,9 +23,11 @@ directories.forEach(dir => {
             }
         });
 
+        var properTitle = `${path.basename(dir)}-id`.split('-').map(word => word.charAt(0).toUpperCase() + word.substring(1).toLowerCase()).join('');
         const schema_content = `
         {
             "$id": "https://data.landsofhope.com/${id_schema_file}",
+            "title": "${properTitle}",
             "enum": ${JSON.stringify(all_content)}
         }
         `;

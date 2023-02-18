@@ -1,5 +1,6 @@
 {
     "$id": "https://data.landsofhope.com/schemas/profession.json",
+    "title": "Profession",
     "type": "object",
     "properties": {
         "name": {

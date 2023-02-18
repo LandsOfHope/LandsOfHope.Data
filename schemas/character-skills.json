@@ -1,5 +1,6 @@
 {
     "$id": "https://data.landsofhope.com/schemas/character-skills.json",
+    "title": "CharacterSkills",
     "type": "object",
     "patternProperties": {
         ".*": {

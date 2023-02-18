@@ -1,5 +1,6 @@
 {
     "$id": "https://data.landsofhope.com/schemas/map-tile-img.json",
+    "title": "MapTileImg",
     "type": [
         "string",
         "null"

@@ -1,5 +1,6 @@
 {
     "$id": "https://data.landsofhope.com/schemas/skill.json",
+    "title": "Skill",
     "type": "object",
     "properties": {
         "name": {

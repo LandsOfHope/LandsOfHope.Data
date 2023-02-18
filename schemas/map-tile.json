@@ -1,5 +1,6 @@
 {
     "$id": "https://data.landsofhope.com/schemas/map-tile.json",
+    "title": "MapTile",
     "type": "object",
     "properties": {
         "area": {

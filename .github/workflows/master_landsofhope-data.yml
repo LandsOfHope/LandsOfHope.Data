@@ -23,6 +23,8 @@ jobs:
         run: node .scripts/validate
       - name: compile schemas
         run: node .scripts/compile_schemas.js
+      - name: generate typescript api types
+        run: .scripts/generate_api_ts.sh
       - name: Publish
         run: aws s3 sync . s3://lohdata --endpoint-url ${{ secrets.AWS_ENDPOINT_URL }} --delete --exclude ".*" --exclude "*/.*"
         env:

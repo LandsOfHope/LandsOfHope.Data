@@ -8,7 +8,7 @@ const path = require("path");
 
 const schemas = glob.sync("schemas/**/*.json");
 
-const validationRoot = "schemas/validation/";
+const validationRoot = "api/js/validation/";
 
 const compile = async (schema) => {
     const output = schema.replace('schemas/', validationRoot).replace('.json', '-validation.js');

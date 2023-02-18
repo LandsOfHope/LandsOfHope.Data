@@ -1,5 +1,6 @@
 {
     "$id": "https://data.landsofhope.com/schemas/map-resources.json",
+    "title": "MapResources",
     "type": "array",
     "items": {
         "type": "object",
