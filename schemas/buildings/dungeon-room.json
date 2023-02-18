@@ -4,6 +4,9 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
+        "id": {
+            "type": "number"
+        },
         "roomName": {
             "type": "string"
         },
@@ -27,6 +30,7 @@
         }
     },
     "required": [
+        "id",
         "img",
         "img2",
         "offsetX",

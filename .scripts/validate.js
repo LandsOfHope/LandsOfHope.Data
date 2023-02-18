@@ -4,7 +4,7 @@ const util = require("util");
 const exec = util.promisify(require("child_process").exec);
 const glob = require("glob");
 
-const schemas = glob.sync("schemas/*.json");
+const schemas = glob.sync("schemas/**/*.json");
 
 const validateAll = async (schema, fileGlob) => {
   const tmpSchemas = schemas

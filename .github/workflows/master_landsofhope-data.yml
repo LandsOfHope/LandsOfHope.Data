@@ -21,6 +21,8 @@ jobs:
         run: node .scripts/generate_id_schemas images professions races races/groups skills terrains maps materials
       - name: validate schemas
         run: node .scripts/validate
+      - name: compile schemas
+        run: node .scripts/compile_schemas.js
       - name: Publish
         run: aws s3 sync . s3://lohdata --endpoint-url ${{ secrets.AWS_ENDPOINT_URL }} --delete --exclude ".*" --exclude "*/.*"
         env:
