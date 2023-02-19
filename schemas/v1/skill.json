@@ -1,16 +1,16 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/skill.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/skill.json",
     "title": "Skill",
     "type": "object",
     "properties": {
         "name": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "/schemas/v1/localized-string.json"
         },
         "desc": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "/schemas/v1/localized-string.json"
         },
         "group": {
-            "$ref": "/schemas/skill-group.json"
+            "$ref": "/schemas/v1/skill-group.json"
         }
     },
     "required": [

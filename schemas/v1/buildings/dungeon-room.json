@@ -1,5 +1,5 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/buildings/dungeon-room.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/buildings/dungeon-room.json",
     "$schema": "http://json-schema.org/draft-06/schema#",
     "type": "object",
     "additionalProperties": false,
@@ -22,11 +22,14 @@
         "offsetY": {
             "type": "integer"
         },
+        "offsetZ": {
+            "type": "integer"
+        },
         "roomTypeId": {
             "type": "integer"
         },
         "spawn": {
-            "$ref": "/schemas/buildings/dungeon-spawn.json"
+            "$ref": "/schemas/v1/buildings/dungeon-spawn.json"
         }
     },
     "required": [

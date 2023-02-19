@@ -1,5 +1,5 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/buildings/dungeon.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/buildings/dungeon.json",
     "$schema": "http://json-schema.org/draft-06/schema#",
     "type": "object",
     "additionalProperties": false,
@@ -46,7 +46,7 @@
         "rooms": {
             "type": "array",
             "items": {
-                "$ref": "/schemas/buildings/dungeon-room.json"
+                "$ref": "/schemas/v1/buildings/dungeon-room.json"
             }
         }
     },

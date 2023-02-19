@@ -1,22 +1,22 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/race.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/race.json",
     "title": "Race",
     "type": "object",
     "properties": {
         "name": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "/schemas/v1/localized-string.json"
         },
         "desc": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "/schemas/v1/localized-string.json"
         },
         "appr": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "/schemas/v1/localized-string.json"
         },
         "hist": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "/schemas/v1/localized-string.json"
         },
         "pics": {
-            "$ref": "/schemas/images.json"
+            "$ref": "/schemas/v1/images.json"
         }
     },
     "additionalProperties": false,

@@ -1,5 +1,5 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/map-resources.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/map-resources.json",
     "title": "MapResources",
     "type": "array",
     "items": {
@@ -12,7 +12,7 @@
                 "type": "integer"
             },
             "material": {
-                "$ref": "/schemas/materials-id.json"
+                "$ref": "/schemas/v1/materials-id.json"
             },
             "respawn": {
                 "type": "string"

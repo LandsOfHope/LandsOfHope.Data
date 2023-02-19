@@ -1,5 +1,5 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/buildings/dungeon-spawn.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/buildings/dungeon-spawn.json",
     "$schema": "http://json-schema.org/draft-06/schema#",
     "type": "object",
     "additionalProperties": false,
@@ -8,7 +8,7 @@
             "type": "integer"
         },
         "respawnTime": {
-            "$ref": "/schemas/respawn-time.json"
+            "$ref": "/schemas/v1/respawn-time.json"
         },
         "boss": {
             "type": "boolean"

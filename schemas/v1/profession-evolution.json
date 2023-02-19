@@ -1,5 +1,5 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/profession-evolution.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/profession-evolution.json",
     "title": "ProfessionEvolution",
     "type": "object",
     "patternProperties": {
@@ -8,6 +8,6 @@
         }
     },
     "propertyNames": {
-        "$ref": "/schemas/professions-id.json"
+        "$ref": "/schemas/v1/professions-id.json"
     }
 }

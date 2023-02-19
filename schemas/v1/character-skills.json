@@ -1,5 +1,5 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/character-skills.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/character-skills.json",
     "title": "CharacterSkills",
     "type": "object",
     "patternProperties": {
@@ -8,6 +8,6 @@
         }
     },
     "propertyNames": {
-        "$ref": "/schemas/skills-id.json"
+        "$ref": "/schemas/v1/skills-id.json"
     }
 }

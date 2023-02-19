@@ -1,5 +1,5 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/skill-group.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/skill-group.json",
     "title": "SkillGroup",
     "enum": [
         "bladed-weapons",

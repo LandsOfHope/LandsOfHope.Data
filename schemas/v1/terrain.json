@@ -1,10 +1,10 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/terrain.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/terrain.json",
     "title": "Terrain",
     "type": "object",
     "properties": {
         "name": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "/schemas/v1/localized-string.json"
         },
         "variants": {
             "type": "array",
@@ -12,7 +12,7 @@
                 "type": "object",
                 "properties": {
                     "name": {
-                        "$ref": "/schemas/localized-string.json"
+                        "$ref": "/schemas/v1/localized-string.json"
                     },
                     "color": {
                         "type": "integer"

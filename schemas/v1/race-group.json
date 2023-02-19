@@ -1,0 +1,8 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/race-group.json",
+    "title": "RaceGroup",
+    "type": "array",
+    "items": {
+        "$ref": "/schemas/v1/races-id.json"
+    }
+}

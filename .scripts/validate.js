@@ -4,7 +4,7 @@ const util = require("util");
 const exec = util.promisify(require("child_process").exec);
 const glob = require("glob");
 
-const schemas = glob.sync("schemas/**/*.json");
+const schemas = glob.sync("schemas/v1/**/*.json");
 
 const validateAll = async (schema, fileGlob) => {
   const tmpSchemas = schemas
@@ -19,15 +19,15 @@ const validateAll = async (schema, fileGlob) => {
 
 const main = async function () {
   return await Promise.all([
-    validateAll("schemas/profession.json", "professions/!(all).json"),
-    validateAll("schemas/skill.json", "skills/!(all).json"),
-    validateAll("schemas/race.json", "races/!(all).json"),
-    validateAll("schemas/race-group.json", "races/groups/!(all).json"),
-    validateAll("schemas/profession-list.json", "player-professions.json"),
-    validateAll("schemas/map.json", "maps/!(all).json"),
-    validateAll("schemas/map-tiles.json", "maps/tiles/!(all).json"),
-    validateAll("schemas/map-resources.json", "maps/resources/!(all).json"),
-    validateAll("schemas/terrain.json", "terrain/!(all).json")
+    validateAll("schemas/v1/profession.json", "professions/!(all).json"),
+    validateAll("schemas/v1/skill.json", "skills/!(all).json"),
+    validateAll("schemas/v1/race.json", "races/!(all).json"),
+    validateAll("schemas/v1/race-group.json", "races/groups/!(all).json"),
+    validateAll("schemas/v1/profession-list.json", "player-professions.json"),
+    validateAll("schemas/v1/map.json", "maps/!(all).json"),
+    validateAll("schemas/v1/map-tiles.json", "maps/tiles/!(all).json"),
+    validateAll("schemas/v1/map-resources.json", "maps/resources/!(all).json"),
+    validateAll("schemas/v1/terrain.json", "terrain/!(all).json")
   ]);
 };
 

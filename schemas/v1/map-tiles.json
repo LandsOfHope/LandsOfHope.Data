@@ -1,5 +1,5 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/map-tiles.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/map-tiles.json",
     "title": "MapTiles",
     "type": "array",
     "minItems": 100,
@@ -9,7 +9,7 @@
         "minItems": 100,
         "maxItems": 100,
         "items": {
-            "$ref": "/schemas/map-tile.json"
+            "$ref": "/schemas/v1/map-tile.json"
         }
     }
 }

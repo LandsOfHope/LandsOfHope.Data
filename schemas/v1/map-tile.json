@@ -1,22 +1,22 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/map-tile.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/map-tile.json",
     "title": "MapTile",
     "type": "object",
     "properties": {
         "area": {
-            "$ref": "/schemas/localized-string.json"
+            "$ref": "/schemas/v1/localized-string.json"
         },
         "color": {
             "type": "number"
         },
         "img": {
-            "$ref": "/schemas/map-tile-img.json"
+            "$ref": "/schemas/v1/map-tile-img.json"
         },
         "img2": {
-            "$ref": "/schemas/map-tile-img.json"
+            "$ref": "/schemas/v1/map-tile-img.json"
         },
         "terrain": {
-            "$ref": "/schemas/terrains-id.json"
+            "$ref": "/schemas/v1/terrains-id.json"
         },
         "level": {
             "type": "number"

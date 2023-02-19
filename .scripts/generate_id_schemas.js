@@ -4,13 +4,15 @@ const fs = require('fs');
 const path = require('path');
 
 const directories = process.argv.slice(2);
+const schemas = 'schemas';
+const version = 'v1';
 
 directories.forEach(dir => {
-    const parentDir = path.join('schemas', path.dirname(dir));
+    const parentDir = path.join(schemas, version, path.dirname(dir));
     if (!fs.existsSync(parentDir))
         fs.mkdirSync(parentDir);
 
-    const id_schema_file = `schemas/${dir}-id.json`;
+    const id_schema_file = `${schemas}/${version}/${dir}-id.json`;
     fs.readdir(dir, (err, files) => {
         if (err) {
             console.log(err);
