@@ -10,6 +10,9 @@ const validateAll = async (schema, fileGlob) => {
   const tmpSchemas = schemas
     .filter((value) => value !== schema)
     .map((value) => `-r "${value}"`);
+  const files = glob.sync(fileGlob);
+  if (files.length == 0)
+    throw Error(`Could not find files matching glob ${fileGlob}`);
   return (
     await exec(
       `npx --yes ajv-cli@latest -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")}`
@@ -24,10 +27,10 @@ const main = async function () {
     validateAll("schemas/v1/race.json", "races/!(all).json"),
     validateAll("schemas/v1/race-group.json", "races/groups/!(all).json"),
     validateAll("schemas/v1/profession-list.json", "player-professions.json"),
-    validateAll("schemas/v1/map.json", "maps/!(all).json"),
-    validateAll("schemas/v1/map-tiles.json", "maps/tiles/!(all).json"),
-    validateAll("schemas/v1/map-resources.json", "maps/resources/!(all).json"),
-    validateAll("schemas/v1/terrain.json", "terrain/!(all).json")
+    validateAll("schemas/v1/maps/map.json", "maps/worlds/!(all).json"),
+    validateAll("schemas/v1/maps/map-tiles.json", "maps/worlds/*/tiles.json"),
+    validateAll("schemas/v1/maps/map-resources.json", "maps/worlds/*/resources.json"),
+    validateAll("schemas/v1/maps/terrain.json", "maps/terrains/!(all).json")
   ]);
 };
 

@@ -1,0 +1,15 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/maps/map-tiles.json",
+    "title": "MapTiles",
+    "type": "array",
+    "minItems": 1,
+    "maxItems": 100,
+    "items": {
+        "type": "array",
+        "minItems": 1,
+        "maxItems": 100,
+        "items": {
+            "$ref": "/schemas/v1/maps/map-tile.json"
+        }
+    }
+}

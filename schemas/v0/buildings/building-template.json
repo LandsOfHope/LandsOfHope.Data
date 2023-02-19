@@ -1,17 +1,32 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v0/buildings/building.json",
+    "$id": "https://data.landsofhope.com/schemas/v0/buildings/building-template.json",
     "$schema": "http://json-schema.org/draft-06/schema#",
     "type": "object",
     "additionalProperties": false,
     "properties": {
-        "buildingId": {
+        "roomId": {
             "type": "integer"
         },
-        "buildingParentId": {
-            "type": [
-                "integer",
-                "null"
-            ]
+        "parentBuildingTypeId": {
+            "type": "integer"
+        },
+        "parentRoomId": {
+            "type": "integer"
+        },
+        "buildingTypeId": {
+            "type": "integer"
+        },
+        "dungeon": {
+            "type": "integer"
+        },
+        "locked": {
+            "type": "boolean"
+        },
+        "pickable": {
+            "type": "boolean"
+        },
+        "locked": {
+            "type": "boolean"
         },
         "buildingName": {
             "type": "string"
@@ -35,7 +50,7 @@
             ]
         },
         "characterId": {
-            "type": "integer"
+            "type": "number"
         },
         "buildingTypeId": {
             "type": "integer"
@@ -412,5 +427,5 @@
         "happiness",
         "dirty"
     ],
-    "title": "Building"
+    "title": "Room"
 }

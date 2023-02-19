@@ -1,0 +1,37 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/maps/map-resources.json",
+    "title": "MapResources",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "x": {
+                "type": "integer"
+            },
+            "y": {
+                "type": "integer"
+            },
+            "material": {
+                "$ref": "/schemas/v1/materials-id.json"
+            },
+            "respawn": {
+                "type": "string"
+            },
+            "level": {
+                "type": "integer"
+            },
+            "quantity": {
+                "type": "integer"
+            }
+        },
+        "additionalProperties": false,
+        "required": [
+            "x",
+            "y",
+            "material",
+            "respawn",
+            "level",
+            "quantity"
+        ]
+    }
+}

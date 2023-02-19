@@ -1,0 +1,12 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/maps/map-id.json",
+    "title": "MapId",
+    "oneOf": [
+        {
+            "$ref": "/schemas/v1/maps/worlds-id.json"
+        },
+        {
+            "$ref": "/schemas/v1/uuid.json"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/uuid.json",
+    "title": "Uuid",
+    "type": "string",
+    "pattern": "^[0-9a-f]{8}-?[0-9a-f]{4}-?[0-9a-f]{4}-?[0-9a-f]{4}-?[0-9a-f]{12}$"
+}
