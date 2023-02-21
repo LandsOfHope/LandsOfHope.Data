@@ -1,0 +1,8 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v0/buildings/building-list.json",
+    "title": "BuildingList",
+    "type": "array",
+    "items": {
+        "$ref": "/schemas/v0/buildings/building.json"
+    }
+}
