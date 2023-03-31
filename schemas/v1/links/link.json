@@ -12,5 +12,10 @@
         "path": {
             "type": "string"
         }
-    }
+    },
+    "required": [
+        "text",
+        "domain",
+        "path"
+    ]
 }

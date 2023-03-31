@@ -9,5 +9,9 @@
         "room": {
             "$ref": "/schemas/v1/chat/chat-room.json"
         }
-    }
+    },
+    "required": [
+        "message",
+        "room"
+    ]
 }

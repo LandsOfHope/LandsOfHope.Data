@@ -9,5 +9,9 @@
         "color": {
             "$ref": "/schemas/v1/chat/chat-color.json"
         }
-    }
+    },
+    "required": [
+        "name",
+        "color"
+    ]
 }

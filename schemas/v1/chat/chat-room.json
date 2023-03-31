@@ -4,7 +4,7 @@
     "type": "object",
     "properties": {
         "id": {
-            "type": "integer"
+            "type": "string"
         },
         "name": {
             "type": "string"
@@ -12,5 +12,10 @@
         "owner": {
             "$ref": "/schemas/v1/uuid.json"
         }
-    }
+    },
+    "required": [
+        "id",
+        "name",
+        "owner"
+    ]
 }

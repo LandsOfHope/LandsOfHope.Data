@@ -4,7 +4,7 @@
     "type": "object",
     "properties": {
         "id": {
-            "type": "integer"
+            "type": "string"
         },
         "sender": {
             "$ref": "/schemas/v1/chat/sender-settings.json"
@@ -18,5 +18,10 @@
                 "$ref": "/schemas/v1/links/link.json"
             }
         }
-    }
+    },
+    "required": [
+        "id",
+        "sender",
+        "message"
+    ]
 }
