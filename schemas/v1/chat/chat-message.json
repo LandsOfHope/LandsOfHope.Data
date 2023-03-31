@@ -1,0 +1,22 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/chat/chat-message.json",
+    "title": "ChatMessage",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer"
+        },
+        "sender": {
+            "$ref": "/schemas/v1/chat/sender-settings.json"
+        },
+        "message": {
+            "type": "string"
+        },
+        "links": {
+            "type": "array",
+            "items": {
+                "$ref": "/schemas/v1/links/link.json"
+            }
+        }
+    }
+}

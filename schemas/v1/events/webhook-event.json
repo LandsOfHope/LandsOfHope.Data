@@ -1,0 +1,17 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/event/webhook-event.json",
+    "title": "WebhookEvent",
+    "type": "object",
+    "properties": {
+        "type": {
+            "$ref": "/schemas/v1/events/event-type.json"
+        },
+        "data": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/events/chat-message-event.json"
+                }
+            ]
+        }
+    }
+}

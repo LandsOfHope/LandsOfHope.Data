@@ -1,0 +1,16 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/chat/chat-room.json",
+    "title": "ChatRoom",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer"
+        },
+        "name": {
+            "type": "string"
+        },
+        "owner": {
+            "$ref": "/schemas/v1/uuid.json"
+        }
+    }
+}

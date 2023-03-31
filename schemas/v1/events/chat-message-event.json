@@ -1,0 +1,13 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/chat-message-event.json",
+    "title": "ChatMessageEvent",
+    "type": "object",
+    "properties": {
+        "message": {
+            "$ref": "/schemas/v1/chat/chat-message.json"
+        },
+        "room": {
+            "$ref": "/schemas/v1/chat/chat-room.json"
+        }
+    }
+}

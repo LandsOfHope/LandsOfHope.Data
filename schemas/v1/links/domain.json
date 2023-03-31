@@ -1,0 +1,9 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/links/domain.json",
+    "title": "Domain",
+    "enum": [
+        "external",
+        "guide",
+        "play"
+    ]
+}
