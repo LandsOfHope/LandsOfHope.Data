@@ -4,18 +4,30 @@
     "type": "object",
     "properties": {
         "id": {
-            "type": "string"
+            "$ref": "/schemas/v1/chat/chat-room-id.json"
         },
         "name": {
             "type": "string"
         },
+        "desc": {
+            "type": "string"
+        },
         "owner": {
             "$ref": "/schemas/v1/uuid.json"
+        },
+        "created": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "modified": {
+            "$ref": "/schemas/v0/datetime.json"
         }
     },
     "required": [
         "id",
         "name",
-        "owner"
+        "desc",
+        "owner",
+        "created",
+        "modified"
     ]
 }

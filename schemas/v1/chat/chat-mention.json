@@ -1,0 +1,17 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/chat/chat-mention.json",
+    "title": "ChatMention",
+    "type": "object",
+    "properties": {
+        "id": {
+            "$ref": "/schemas/v1/uuid.json"
+        },
+        "mention": {
+            "$ref": "/schemas/v1/chat/sender-settings.json"
+        }
+    },
+    "required": [
+        "id",
+        "mention"
+    ]
+}

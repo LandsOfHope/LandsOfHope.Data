@@ -7,7 +7,7 @@
             "$ref": "/schemas/v1/chat/chat-message.json"
         },
         "room": {
-            "$ref": "/schemas/v1/chat/chat-room.json"
+            "$ref": "/schemas/v1/chat/chat-room-id.json"
         }
     },
     "required": [

@@ -4,13 +4,25 @@
     "type": "object",
     "properties": {
         "id": {
-            "type": "string"
+            "$ref": "/schemas/v1/chat/chat-message-id.json"
         },
         "sender": {
-            "$ref": "/schemas/v1/chat/sender-settings.json"
+            "$ref": "/schemas/v1/chat/chat-message-sender.json"
         },
         "message": {
             "type": "string"
+        },
+        "type": {
+            "enum": [
+                "message",
+                "emote"
+            ]
+        },
+        "mentions": {
+            "type": "array",
+            "items": {
+                "$ref": "/schemas/v1/chat/chat-mention.json"
+            }
         },
         "links": {
             "type": "array",
