@@ -1,0 +1,34 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v0/fights/fight-session.json",
+    "title": "FightSession",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "id": {
+            "$ref": "/schemas/v0/fights/fight-session-id.json"
+        },
+        "leftF": {
+            "type": "integer"
+        },
+        "rightF": {
+            "type": "integer"
+        },
+        "sessionDateTime": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "sessionStarter": {
+            "type": "integer"
+        },
+        "monsterFight": {
+            "type": "boolean"
+        }
+    },
+    "required": [
+        "id",
+        "leftF",
+        "rightF",
+        "sessionDateTime",
+        "sessionStarter",
+        "monsterFight"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v0/fights/fight-round-log.json",
+    "title": "FightRoundLog",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "roundLogHtml": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "roundLogHtml"
+    ]
+}
