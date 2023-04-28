@@ -1,6 +1,5 @@
 {
     "$id": "https://data.landsofhope.com/schemas/v0/buildings/building.json",
-    "$schema": "http://json-schema.org/draft-06/schema#",
     "type": "object",
     "additionalProperties": false,
     "properties": {

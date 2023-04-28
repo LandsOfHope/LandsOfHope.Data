@@ -1,12 +1,8 @@
 {
     "$id": "https://data.landsofhope.com/schemas/v0/buildings/building-template.json",
-    "$schema": "http://json-schema.org/draft-06/schema#",
     "type": "object",
     "additionalProperties": false,
     "properties": {
-        "roomId": {
-            "type": "integer"
-        },
         "parentBuildingTypeId": {
             "type": "integer"
         },
@@ -18,15 +14,6 @@
         },
         "dungeon": {
             "type": "integer"
-        },
-        "locked": {
-            "type": "boolean"
-        },
-        "pickable": {
-            "type": "boolean"
-        },
-        "locked": {
-            "type": "boolean"
         },
         "buildingName": {
             "type": "string"
@@ -51,9 +38,6 @@
         },
         "characterId": {
             "type": "number"
-        },
-        "buildingTypeId": {
-            "type": "integer"
         },
         "mapX": {
             "type": "integer"
@@ -108,9 +92,6 @@
                 "integer",
                 "null"
             ]
-        },
-        "dungeon": {
-            "type": "integer"
         },
         "name": {
             "type": [
@@ -344,14 +325,15 @@
         }
     },
     "required": [
-        "buildingId",
-        "buildingParentId",
+        "parentBuildingTypeId",
+        "parentRoomId",
+        "buildingTypeId",
+        "dungeon",
         "buildingName",
         "img",
         "img1",
         "img2",
         "characterId",
-        "buildingTypeId",
         "mapX",
         "mapY",
         "mapZ",
@@ -367,7 +349,6 @@
         "playerBuilt",
         "completed",
         "pickable",
-        "dungeon",
         "name",
         "spawns",
         "respawnMins",
