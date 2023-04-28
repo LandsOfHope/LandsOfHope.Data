@@ -20,7 +20,7 @@ const compile = async (schema) => {
         .map((value) => `-r "${value}"`);
     return (
         await exec(
-            `npx --yes ajv-cli@latest compile ${tmpSchemas.join(" ")} -s "${schema}" -o ${output}`
+            `npx --yes ajv-cli@latest compile ${tmpSchemas.join(" ")} -s "${schema}" -o ${output} --strict=true --spec=draft2020`
         )
     ).exitCode;
 };

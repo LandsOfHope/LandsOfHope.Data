@@ -2,42 +2,41 @@
     "$id": "https://data.landsofhope.com/schemas/v1/images.json",
     "title": "Images",
     "type": "object",
-    "properties": {
-        "M": {
-            "type": "array",
-            "items": {
-                "type": "string"
-            }
-        },
-        "F": {
-            "type": "array",
-            "items": {
-                "type": "string"
-            }
-        },
-        "U": {
-            "type": "array",
-            "items": {
-                "type": "string"
-            }
-        }
-    },
-    "additionalProperties": false,
-    "anyOf": [
+    "oneOf": [
         {
+            "properties": {
+                "M": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "F": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
             "required": [
-                "M"
-            ]
-        },
-        {
-            "required": [
+                "M",
                 "F"
-            ]
+            ],
+            "additionalProperties": false
         },
         {
+            "properties": {
+                "U": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
             "required": [
                 "U"
-            ]
+            ],
+            "additionalProperties": false
         }
     ]
 }
