@@ -22,7 +22,9 @@ const main = async function () {
         const titleMap = {};
         const schemaFiles = schemas.map(s => JSON.parse(fs.readFileSync(s, { encoding: 'utf-8' })));
         const ajv = new Ajv({
-            code: { source: true, esm: true }
+            strict: true,
+            code: { source: true, esm: true },
+
         });
 
         schemaFiles.forEach(schema => {
