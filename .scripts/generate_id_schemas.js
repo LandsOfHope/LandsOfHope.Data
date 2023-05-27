@@ -3,7 +3,12 @@
 const fs = require('fs');
 const path = require('path');
 
-const directories = process.argv.slice(2);
+const directories = (() => {
+    const dirs = process.argv.slice(2);
+    if (dirs.length > 0)
+        return dirs;
+    return ['images', 'professions', 'races', 'races/groups', 'skills', 'maps/terrains', 'maps/worlds', 'materials'];;
+})();
 const schemas = 'schemas';
 const version = 'v1';
 

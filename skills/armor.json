@@ -1,9 +1,1 @@
-{
-    "name": {
-        "en": "Armor"
-    },
-    "desc": {
-        "en": "The armor skill represents your ability to absorb damage, while most races and professions start with a tiny amount of natural armor the bulk of your <B>ARMOR</B> rating will come from wearing items and using Abilities or Spells.<BR><BR>Having high armor will improve your chances of absorbing more damage from an enemy.<BR><BR><B><FONT color=orange>Formula</FONT></B><BR>Damage Absorbed = (ARMOR / 10)<BR><BR>This means for every 10 points in this skill you absorb 1pt of physical damage.<BR><BR><EM><FONT color=#ff6666>The DEFENSE series of skills are used in addition to this skill to determine how much damage is absorbed in combat.</FONT></EM>"
-    },
-    "group": "combat"
-}
+{"name":{"en":"Armor"},"desc":{"en":"The armor skill represents your ability to absorb damage, while most races and professions start with a tiny amount of natural armor the bulk of your <B>ARMOR</B> rating will come from wearing items and using Abilities or Spells.<BR><BR>Having high armor will improve your chances of absorbing more damage from an enemy.<BR><BR><B><FONT color=orange>Formula</FONT></B><BR>Damage Absorbed = (ARMOR / 10)<BR><BR>This means for every 10 points in this skill you absorb 1pt of physical damage.<BR><BR><EM><FONT color=#ff6666>The DEFENSE series of skills are used in addition to this skill to determine how much damage is absorbed in combat.</FONT></EM>"},"group":"combat"}
