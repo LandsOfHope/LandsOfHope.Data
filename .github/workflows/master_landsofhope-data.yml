@@ -18,7 +18,7 @@ jobs:
       - name: generate_all_json
         run: node .scripts/generate_all_json images professions races races/groups skills maps/terrains maps/worlds materials
       - name: generate_id_schemas
-        run: node .scripts/generate_id_schemas images professions races races/groups skills maps/terrains maps/worlds materials
+        run: node .scripts/generate_id_schemas
       - name: validate schemas
         run: node .scripts/validate
       - name: compile schemas
