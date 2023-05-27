@@ -2,7 +2,12 @@
 
 const fs = require('fs');
 
-const directories = process.argv.slice(2);
+const directories = (() => {
+    const dirs = process.argv.slice(2);
+    if (dirs.length > 0)
+        return dirs;
+    return ['images', 'professions', 'races', 'races/groups', 'skills', 'maps/terrains', 'maps/worlds', 'materials'];;
+})();
 
 directories.forEach(dir => {
     fs.readdir(dir, (err, files) => {
