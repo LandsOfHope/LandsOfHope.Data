@@ -12,28 +12,34 @@
         "message": {
             "type": "string"
         },
+        "parts": {
+            "type": "array",
+            "items": {
+                "oneOf": [
+                    {
+                        "type": "string"
+                    },
+                    {
+                        "$ref": "/schemas/v1/chat/chat-mention.json"
+                    },
+                    {
+                        "$ref": "/schemas/v1/links/link.json"
+                    }
+                ]
+            }
+        },
         "type": {
             "enum": [
                 "message",
                 "emote"
             ]
-        },
-        "mentions": {
-            "type": "array",
-            "items": {
-                "$ref": "/schemas/v1/chat/chat-mention.json"
-            }
-        },
-        "links": {
-            "type": "array",
-            "items": {
-                "$ref": "/schemas/v1/links/link.json"
-            }
         }
     },
     "required": [
         "id",
         "sender",
-        "message"
+        "message",
+        "parts",
+        "type"
     ]
 }
