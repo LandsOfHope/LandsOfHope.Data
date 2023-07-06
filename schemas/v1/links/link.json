@@ -3,19 +3,11 @@
     "title": "Link",
     "type": "object",
     "properties": {
-        "text": {
-            "type": "string"
-        },
-        "domain": {
-            "$ref": "/schemas/v1/links/domain.json"
-        },
-        "path": {
+        "href": {
             "type": "string"
         }
     },
     "required": [
-        "text",
-        "domain",
-        "path"
+        "href"
     ]
 }
