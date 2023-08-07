@@ -20,7 +20,7 @@
             ]
         },
         "pictureID": {
-            "$ref": "/schemas/v1/images-id.json"
+            "$ref": "/schemas/v1/characters/images-id.json"
         }
     },
     "required": [
