@@ -30,7 +30,8 @@ const main = async function () {
     validateAll("schemas/v1/maps/map.json", "maps/worlds/!(all).json"),
     validateAll("schemas/v1/maps/map-tiles.json", "maps/worlds/*/tiles.json"),
     validateAll("schemas/v1/maps/map-resources.json", "maps/worlds/*/resources.json"),
-    validateAll("schemas/v1/maps/terrain.json", "maps/terrains/!(all).json")
+    validateAll("schemas/v1/maps/terrain.json", "maps/terrains/!(all).json"),
+    validateAll("schemas/v1/characters/character-title.json", "titles/!(all).json")
   ]);
 };
 

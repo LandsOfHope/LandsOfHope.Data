@@ -6,7 +6,7 @@ const directories = (() => {
     const dirs = process.argv.slice(2);
     if (dirs.length > 0)
         return dirs;
-    return ['images', 'professions', 'races', 'races/groups', 'skills', 'maps/terrains', 'maps/worlds', 'materials'];;
+    return ['images', 'professions', 'races', 'races/groups', 'skills', 'maps/terrains', 'maps/worlds', 'materials', 'titles'];
 })();
 
 directories.forEach(dir => {

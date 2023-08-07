@@ -1,0 +1,32 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/appearance-profile.json",
+    "title": "AppearanceProfile",
+    "type": "object",
+    "properties": {
+        "id": {
+            "$ref": "/schemas/v1/characters/appearance-profile-id.json"
+        },
+        "name": {
+            "$ref": "/schemas/v1/characters/character-name.json"
+        },
+        "title": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/titles-id.json"
+                },
+                {
+                    "$ref": "/schemas/v1/professions-id.json"
+                }
+            ]
+        },
+        "pictureID": {
+            "$ref": "/schemas/v1/images.json"
+        }
+    },
+    "required": [
+        "id",
+        "name",
+        "title",
+        "pictureID"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-name.json",
+    "type": "string",
+    "pattern": "^[A-Za-z \\-\\.'`]{2,30}$",
+    "title": "CharacterName"
+}

@@ -1,0 +1,13 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-title.json",
+    "type": "object",
+    "title": "CharacterTitle",
+    "properties": {
+        "name": {
+            "$ref": "/schemas/v1/localized-string.json"
+        }
+    },
+    "required": [
+        "name"
+    ]
+}
