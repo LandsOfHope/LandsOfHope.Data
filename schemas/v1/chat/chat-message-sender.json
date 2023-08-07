@@ -3,15 +3,15 @@
     "title": "ChatMessageSender",
     "type": "object",
     "properties": {
-        "id": {
-            "$ref": "/schemas/v1/uuid.json"
+        "color": {
+            "$ref": "/schemas/v1/chat-color.json"
         },
-        "settings": {
-            "$ref": "/schemas/v1/chat/sender-settings.json"
+        "profile": {
+            "$ref": "/schemas/v1/characters/appearance-profile.json"
         }
     },
     "required": [
-        "id",
-        "settings"
+        "color",
+        "profile"
     ]
 }

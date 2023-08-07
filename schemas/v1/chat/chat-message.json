@@ -9,6 +9,9 @@
         "sender": {
             "$ref": "/schemas/v1/chat/chat-message-sender.json"
         },
+        "sent": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
         "message": {
             "type": "string"
         },
@@ -38,6 +41,7 @@
     "required": [
         "id",
         "sender",
+        "sent",
         "message",
         "parts",
         "type"
