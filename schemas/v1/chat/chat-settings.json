@@ -1,0 +1,17 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/chat/chat-settings.json",
+    "title": "ChatSettings",
+    "type": "object",
+    "properties": {
+        "color": {
+            "$ref": "/schemas/v1/chat/chat-color.json"
+        },
+        "profileId": {
+            "$ref": "/schemas/v1/characters/appearance-profile-id.json"
+        }
+    },
+    "required": [
+        "color",
+        "profileId"
+    ]
+}
