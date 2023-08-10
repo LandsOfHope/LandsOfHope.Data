@@ -25,7 +25,7 @@ directories.forEach(dir => {
         }
         let all_content = [];
         files.forEach(file => {
-            if (file != 'all.json' && file.slice(-5) === '.json') {
+            if (file != 'all.json' && file != 'all.inline.json' && file.slice(-5) === '.json') {
                 all_content.push(file.slice(0, -5));
             }
         });
