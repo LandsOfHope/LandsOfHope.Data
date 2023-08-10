@@ -16,12 +16,15 @@ directories.forEach(dir => {
             process.exit(1);
         }
         let all_content = [];
+        let all_inline_content = {};
         files.forEach(file => {
-            if (file !== "all.json" && file.slice(-5) === '.json') {
+            if (file !== "all.json" && file !== "all.inline.json" && file.slice(-5) === '.json') {
                 all_content.push(file.slice(0, -5));
+                all_inline_content[file.slice(0, -5)] = JSON.parse(fs.readFileSync(`${dir}/${file}`));
             }
         });
 
         fs.writeFileSync(`${dir}/all.json`, JSON.stringify(all_content));
+        fs.writeFileSync(`${dir}/all.inline.json`, JSON.stringify(all_inline_content));
     });
 });
