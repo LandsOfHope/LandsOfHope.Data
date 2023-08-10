@@ -22,16 +22,16 @@ const validateAll = async (schema, fileGlob) => {
 
 const main = async function () {
   return await Promise.all([
-    validateAll("schemas/v1/profession.json", "professions/!(all).json"),
-    validateAll("schemas/v1/skill.json", "skills/!(all).json"),
-    validateAll("schemas/v1/race.json", "races/!(all).json"),
-    validateAll("schemas/v1/race-group.json", "races/groups/!(all).json"),
+    validateAll("schemas/v1/profession.json", "professions/!(all|all.inline).json"),
+    validateAll("schemas/v1/skill.json", "skills/!(all|all.inline).json"),
+    validateAll("schemas/v1/race.json", "races/!(all|all.inline).json"),
+    validateAll("schemas/v1/race-group.json", "races/groups/!(all|all.inline).json"),
     validateAll("schemas/v1/profession-list.json", "player-professions.json"),
-    validateAll("schemas/v1/maps/map.json", "maps/worlds/!(all).json"),
+    validateAll("schemas/v1/maps/map.json", "maps/worlds/!(all|all.inline).json"),
     validateAll("schemas/v1/maps/map-tiles.json", "maps/worlds/*/tiles.json"),
     validateAll("schemas/v1/maps/map-resources.json", "maps/worlds/*/resources.json"),
-    validateAll("schemas/v1/maps/terrain.json", "maps/terrains/!(all).json"),
-    validateAll("schemas/v1/characters/character-title.json", "titles/!(all).json")
+    validateAll("schemas/v1/maps/terrain.json", "maps/terrains/!(all|all.inline).json"),
+    validateAll("schemas/v1/characters/character-title.json", "titles/!(all|all.inline).json")
   ]);
 };
 
