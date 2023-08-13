@@ -1,0 +1,2595 @@
+[
+    {
+        "type": "/schemas/v1/menus/menu.json",
+        "name": {
+            "en": "File"
+        },
+        "link": "fhcharc.asp",
+        "children": [
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Announcements"
+                },
+                "link": "fhan.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Calendar"
+                },
+                "link": "fhcal.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Links"
+                },
+                "link": "fhurl.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Buy Extras"
+                },
+                "link": "fhcharx.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Changed Appearance"
+                        },
+                        "link": "fhcharxr2.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Amazing Items"
+                        },
+                        "link": "fhcharxi.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Upgraded Item"
+                        },
+                        "link": "fhcharxz.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Enhancement"
+                        },
+                        "link": "fhcharxc.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "HC Marketplace"
+                },
+                "link": "fhmarkethc.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Claim Account Item"
+                },
+                "link": "fhaccountitem.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Your Trading Cards"
+                },
+                "link": "fhtradingcards.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Trophies Earned"
+                },
+                "link": "fhtrophies.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Options"
+                },
+                "link": "fhoption.asp?G=0"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Change Character"
+                },
+                "link": "fhcharc.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Logout"
+                },
+                "link": "fhlogout.asp"
+            }
+        ]
+    },
+    {
+        "type": "/schemas/v1/menus/menu.json",
+        "name": {
+            "en": "World"
+        },
+        "link": "fh.asp",
+        "children": [
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "World"
+                },
+                "link": "worldmap.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Maps"
+                },
+                "link": "map.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "NPC Locations"
+                },
+                "link": "mapnpc.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Treasure"
+                },
+                "link": "map2.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Keeps"
+                },
+                "link": "mapkeep.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Artifacts"
+                },
+                "link": "artifacts.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Territory"
+                },
+                "link": "mappirate.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Reveal"
+                },
+                "link": "fhreveal.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Players"
+                        },
+                        "link": "fhreveal.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Property"
+                        },
+                        "link": "fhrevealb.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Travel"
+                },
+                "link": "fhfav.asp?Test=A"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Mark"
+                },
+                "link": "fh.asp?Mark=1"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Make Portal"
+                },
+                "link": "fhmp.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Open Portal"
+                },
+                "link": "fhpor.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Landmarks"
+                },
+                "link": "fhland.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Challenges"
+                },
+                "link": "fhchallenges.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Dungeons"
+                },
+                "link": "fhlandd.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Rest"
+                },
+                "link": "fhrest.asp?Test=A"
+            }
+        ]
+    },
+    {
+        "type": "/schemas/v1/menus/menu.json",
+        "name": {
+            "en": "Inventory"
+        },
+        "link": "fhInv.asp?InventoryItemID=1&ItemTypeID=1",
+        "children": [
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Crafting Supplies"
+                },
+                "link": "fhinv.asp?F=-1"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Main Tradeskills"
+                },
+                "link": "fhcraft.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Alchemy"
+                        },
+                        "link": "fhmake2.asp?SkillID=26"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Blacksmithing"
+                        },
+                        "link": "fhmake2.asp?SkillID=25"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Carpentry"
+                        },
+                        "link": "fhmake2.asp?SkillID=23"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Construction"
+                        },
+                        "link": "fhmake2.asp?SkillID=32"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Cooking"
+                        },
+                        "link": "fhmake2.asp?SkillID=59"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Dungeon Mastery"
+                        },
+                        "link": "fhmake2.asp?SkillID=27"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Floristry"
+                        },
+                        "link": "fhmake2.asp?SkillID=189"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Furnishing"
+                        },
+                        "link": "fhmake2.asp?SkillID=140"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Leatherworking"
+                        },
+                        "link": "fhmake2.asp?SkillID=17"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Stonemasonry"
+                        },
+                        "link": "fhmake2.asp?SkillID=63"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Tailoring"
+                        },
+                        "link": "fhmake2.asp?SkillID=58"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Tinkering"
+                        },
+                        "link": "fhmake2.asp?SkillID=28"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Class Tradeskills"
+                },
+                "link": "fhcraft.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Animation"
+                        },
+                        "link": "fhmake2.asp?SkillID=180"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Artisan"
+                        },
+                        "link": "fhmake2.asp?SkillID=109"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Bewitching"
+                        },
+                        "link": "fhmake2.asp?SkillID=196"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Charms"
+                        },
+                        "link": "fhmake2.asp?SkillID=195"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Lordship"
+                        },
+                        "link": "fhmake2.asp?SkillID=202"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Parlor Tricks"
+                        },
+                        "link": "fhmake2.asp?SkillID=200"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Patchcrafting"
+                        },
+                        "link": "fhmake2.asp?SkillID=83"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Seamanship"
+                        },
+                        "link": "fhmake2.asp?SkillID=64"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Surgery"
+                        },
+                        "link": "fhmake2.asp?SkillID=107"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Bejeweling"
+                        },
+                        "link": "fhbejewel.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Grenades"
+                        },
+                        "link": "fhgrenade.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Poisoning"
+                        },
+                        "link": "fhpoison.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Subterfuge"
+                        },
+                        "link": "fhsubterfuge.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Trap"
+                        },
+                        "link": "fhtrap.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Augmenting"
+                        },
+                        "link": "fhmake2.asp?SkillID=209"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Blood over Beauty"
+                        },
+                        "link": "fhmake2.asp?SkillID=212"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Bolts over Brains"
+                        },
+                        "link": "fhmake2.asp?SkillID=211"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Other Tradeskills"
+                },
+                "link": "fhcraft.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Inscription"
+                        },
+                        "link": "fhinscribe.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Containers"
+                },
+                "link": "fhinv.asp?InventoryItemID=1&ItemTypeID=1",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "All"
+                        },
+                        "link": "fhinv.asp?InventoryItemID=1&ItemTypeID=1"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Backpack"
+                        },
+                        "link": "fhinv.asp?InventoryItemID=1&ItemTypeID=6"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Sell Bag"
+                        },
+                        "link": "fhinv.asp?InventoryItemID=1&ItemTypeID=67"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Equipped"
+                        },
+                        "link": "fhinv.asp?InventoryItemID=1&ItemTypeID=-1"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Trade Bag"
+                        },
+                        "link": "fhtb.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Bags"
+                        },
+                        "link": "fhbags.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Maps"
+                        },
+                        "link": "fhinvm.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Books"
+                        },
+                        "link": "fhbook.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Keys"
+                        },
+                        "link": "fhkey.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Equipment"
+                },
+                "link": "fhequip.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Expansion Items"
+                },
+                "link": "fhinv.asp?F=23",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Jurassic Wars"
+                        },
+                        "link": "fhinv.asp?F=23"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Uncharted Waters"
+                        },
+                        "link": "fhinv.asp?F=24"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Dragons of the East"
+                        },
+                        "link": "fhinv.asp?F=25"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Afterlife"
+                        },
+                        "link": "fhinv.asp?F=26"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Dark Depths"
+                        },
+                        "link": "fhinv.asp?F=27"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Auctions"
+                },
+                "link": "fhauc.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "All Auctions"
+                        },
+                        "link": "fhauc.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Browse"
+                        },
+                        "link": "fhauc2.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Comments"
+                        },
+                        "link": "fhauco.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Your Bids"
+                        },
+                        "link": "fhaucb.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Add Auction"
+                        },
+                        "link": "fhauca.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Edit Auction"
+                        },
+                        "link": "fhauce.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Manage"
+                        },
+                        "link": "fhaucm.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Completed"
+                        },
+                        "link": "fhaucmc.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Actions"
+                },
+                "link": "fhunlock.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Price"
+                        },
+                        "link": "fhvalue.asp?InventoryItemID=1&ItemTypeID=1"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Flags"
+                        },
+                        "link": "fhIFlag.asp?InventoryItemID=1&ItemTypeID=1"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Consume"
+                        },
+                        "link": "fheat.asp?InventoryItemID=1"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Ready Items"
+                        },
+                        "link": "fhiready.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Transmogrify"
+                        },
+                        "link": "fhtransmogrify.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Split"
+                        },
+                        "link": "fhsplit.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Stack"
+                        },
+                        "link": "fhstack.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Drop"
+                        },
+                        "link": "fhIDrop.asp?InventoryItemID=1&ItemTypeID=1"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Disguise"
+                        },
+                        "link": "fhdeception.asp?InventoryItemID=1&ItemTypeID=1"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Dismantle"
+                        },
+                        "link": "fhdis.asp?InventoryItemID=1&ItemTypeID=1"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Unlock"
+                        },
+                        "link": "fhunlock.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Uncover"
+                        },
+                        "link": "fharch.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Spells"
+                },
+                "link": "fhispells.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Bonuses"
+                },
+                "link": "fhextrai.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Bejeweling"
+                },
+                "link": "fhinvbejewel.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Bewitching"
+                },
+                "link": "fhbewitch.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Patches"
+                },
+                "link": "fhinvpatch.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Puzzle"
+                },
+                "link": "fhipuzzle.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Sets"
+                },
+                "link": "fhsspells.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Queue"
+                },
+                "link": "fhqueue.asp?Type=AA"
+            }
+        ]
+    },
+    {
+        "type": "/schemas/v1/menus/menu.json",
+        "name": {
+            "en": "Character"
+        },
+        "link": "fhstat.asp",
+        "children": [
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Info"
+                },
+                "link": "fhstat.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Skills"
+                },
+                "link": "fhskill.asp?B=&T=AA"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Jobs"
+                },
+                "link": "fhwant.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "All Jobs"
+                        },
+                        "link": "fhwant.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Browse"
+                        },
+                        "link": "fhwant2.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Add Job"
+                        },
+                        "link": "fhwanta.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Edit Job"
+                        },
+                        "link": "fhwante.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Storage"
+                },
+                "link": "fhstor.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Mount Bonuses"
+                },
+                "link": "fhmount.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Duels"
+                },
+                "link": "fhduelstatus.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Trade"
+                },
+                "link": "fhtrade.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Statistics"
+                },
+                "link": "fhsales.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Crimes"
+                        },
+                        "link": "fhcrimes.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Dungeons"
+                        },
+                        "link": "fhdungeons.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Kills"
+                        },
+                        "link": "fhkills.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Sales"
+                        },
+                        "link": "fhsales.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Tournaments"
+                        },
+                        "link": "fht2.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Fellowships"
+                },
+                "link": "fhgroups.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Quests"
+                },
+                "link": "fhquest.asp?Type=AA"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Friends"
+                },
+                "link": "fhfriend.asp?Type=AA"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Messages"
+                },
+                "link": "fhmess.asp?Type=AA"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Shortcuts"
+                },
+                "link": "fhmacro.asp?G=0"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Responses"
+                },
+                "link": "fhresp.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Appearance Profile"
+                },
+                "link": "fhcharxcp.asp"
+            }
+        ]
+    },
+    {
+        "type": "/schemas/v1/menus/menu.json",
+        "name": {
+            "en": "Abilities"
+        },
+        "link": "fhstyles.asp",
+        "children": [
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Styles"
+                },
+                "link": "fhstyles.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Ready Styles"
+                },
+                "link": "fhstylese.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Spellbook"
+                },
+                "link": "fhspells.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Ready Spells"
+                },
+                "link": "fhspellse.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Active"
+                },
+                "link": "fhaspells.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Allegiance"
+                },
+                "link": "fhals.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Guilds"
+                },
+                "link": "fhguilds.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "View"
+                        },
+                        "link": "fhguilds.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Manage / Create"
+                        },
+                        "link": "fhgum.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Roster"
+                        },
+                        "link": "fhgur.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Messages"
+                        },
+                        "link": "fhgume.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Property"
+                        },
+                        "link": "fhguildsp.asp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "/schemas/v1/menus/menu.json",
+        "name": {
+            "en": "Minions"
+        },
+        "link": "fhminions.asp",
+        "children": [
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Manage"
+                },
+                "link": "fhminions.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Tamed"
+                        },
+                        "link": "fhminions.asp?H=1"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Summons"
+                        },
+                        "link": "fhminions.asp?H=2"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Vendors"
+                        },
+                        "link": "fhminions.asp?H=3"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "NPCs"
+                        },
+                        "link": "fhmnpc.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Inventory"
+                        },
+                        "link": "fhmini.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Possess"
+                },
+                "link": "fhmip.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Shopkeep Trade"
+                },
+                "link": "fhtpop.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Dismiss"
+                },
+                "link": "fhminionsd.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Mounts"
+                },
+                "link": "fhmim.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Breeding"
+                },
+                "link": "fhbreed.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Beast Breeding"
+                        },
+                        "link": "fhbreed.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Insect Breeding"
+                        },
+                        "link": "fhbreedi.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Plant Breeding"
+                        },
+                        "link": "fhbreedp.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Breeding Queue"
+                        },
+                        "link": "fhmq.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Price Pets"
+                },
+                "link": "fhmvalue.asp"
+            }
+        ]
+    },
+    {
+        "type": "/schemas/v1/menus/menu.json",
+        "name": {
+            "en": "Property"
+        },
+        "link": "fhBM.asp",
+        "children": [
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Manage"
+                },
+                "link": "fhBM.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "All"
+                        },
+                        "link": "fhBM.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Owned"
+                        },
+                        "link": "fhBM.asp?Filter=2"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Managed"
+                        },
+                        "link": "fhBM.asp?Filter=3"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Dungeons"
+                },
+                "link": "fhbm.asp?Filter=1"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Lordship"
+                },
+                "link": "fhlordship.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Vessels"
+                },
+                "link": "fhvm.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Cargo"
+                        },
+                        "link": "fhcargo.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Price Property"
+                },
+                "link": "fhpvalue.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Trade"
+                },
+                "link": "fhBgt.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Build Deed"
+                },
+                "link": "fhmake2.asp?SkillID=32"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Build Dungeon"
+                },
+                "link": "fhmake2.asp?SkillID=27"
+            }
+        ]
+    },
+    {
+        "type": "/schemas/v1/menus/menu.json",
+        "name": {
+            "en": "Land"
+        },
+        "link": "fhtowns.asp",
+        "children": [
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Buy Land"
+                },
+                "link": "fhtowns.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Manage Land"
+                },
+                "link": "fhtm.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Info"
+                },
+                "link": "fhti.asp"
+            }
+        ]
+    },
+    {
+        "type": "/schemas/v1/menus/menu.json",
+        "name": {
+            "en": "Library"
+        },
+        "link": "fhlibraryr.asp",
+        "children": [
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Rankings"
+                },
+                "link": "rankings.asp",
+                "target": "_blank",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Wanted Criminals"
+                        },
+                        "link": "fhcriminals.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Player vs Player"
+                        },
+                        "link": "pvpstandings.asp",
+                        "target": "_blank"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Races"
+                },
+                "link": "fhlibraryr.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Races"
+                        },
+                        "link": "fhlibraryr.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Race Evolution"
+                        },
+                        "link": "fhlibraryre.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Tameable Races"
+                        },
+                        "link": "fhlibraryrt.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Dungeon Spawns"
+                        },
+                        "link": "fhlibraryrd.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Mounts"
+                        },
+                        "link": "fhlibraryrm.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Professions"
+                },
+                "link": "fhlibraryp.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Professions"
+                        },
+                        "link": "fhlibraryp.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Profession Evolution"
+                        },
+                        "link": "fhlibrarype.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Uncharted Waters"
+                },
+                "link": "fhlibraryv.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Vessels"
+                        },
+                        "link": "fhlibraryv.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Vessel Items"
+                        },
+                        "link": "fhlibraryvi.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Expansion Items"
+                        },
+                        "link": "fhlibraryiex.asp?E=2"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Bejeweling"
+                        },
+                        "link": "fhlibrarybj.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Jurassic Wars"
+                },
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Expansion Items"
+                        },
+                        "link": "fhlibraryiex.asp?E=1"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Dragons of the East"
+                },
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Dragon Factions"
+                        },
+                        "link": "fhlibrarydragp.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Expansion Items"
+                        },
+                        "link": "fhlibraryiex.asp?E=3"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "The Afterlife"
+                },
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Quests"
+                        },
+                        "link": "fhlibraryqt.asp?SN=&CharsAt=19&P=1"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Expansion Items"
+                        },
+                        "link": "fhlibraryiex.asp?E=4"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Bewitching"
+                        },
+                        "link": "fhlibrarypl2.asp?Type=BEWITCHING"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Charms"
+                        },
+                        "link": "fhlibrarypl2.asp?Type=CHARMS AND HEXES"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Hexes"
+                        },
+                        "link": "fhlibrarysp2.asp?CharsAt=195&SN=CHARMS AND HEXES"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Dark Depths"
+                },
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Expansion Items"
+                        },
+                        "link": "fhlibraryiex.asp?E=5"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Items"
+                },
+                "link": "fhlibraryi.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Sets"
+                        },
+                        "link": "fhlibraryset.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Plans"
+                        },
+                        "link": "fhlibrarypl.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Items"
+                        },
+                        "link": "fhlibraryi.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Armor"
+                        },
+                        "link": "fhlibrarya.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Tools"
+                        },
+                        "link": "fhlibraryit.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Weapons"
+                        },
+                        "link": "fhlibraryw.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Siege Weapons"
+                        },
+                        "link": "fhlibrarysw.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Steal Loot"
+                        },
+                        "link": "fhlibraryisl.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Materials"
+                        },
+                        "link": "fhlibrarym.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Enchantments"
+                        },
+                        "link": "fhlibrarye.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Trading Cards"
+                        },
+                        "link": "fhlibraryc.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Special Trophies"
+                        },
+                        "link": "fhlibrarystro.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Trophy Relics"
+                        },
+                        "link": "fhlibrarystror.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Buildings"
+                },
+                "link": "fhlibraryb.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Spells"
+                },
+                "link": "fhlibrarysp.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Styles"
+                },
+                "link": "fhlibraryst.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Skills"
+                },
+                "link": "fhlibrarysk.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Discoveries"
+                },
+                "link": "fhlibraryds.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Quests"
+                },
+                "link": "fhlibraryq.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Allegiance Quests"
+                        },
+                        "link": "fhlibraryqa.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "General Quests"
+                        },
+                        "link": "fhlibraryq.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Guild Quests"
+                        },
+                        "link": "fhlibrarygq.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Trophy Quests"
+                        },
+                        "link": "fhlibraryqt.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Vessel Quests"
+                        },
+                        "link": "fhlibraryqv.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Disguises"
+                },
+                "link": "fhlibrarydis.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Scrapbooks"
+                },
+                "link": "fhlibraryscrap.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Allegiances"
+                },
+                "link": "fhlibraryal.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Factions"
+                },
+                "link": "fhlibraryf.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "World"
+                },
+                "link": "forums/maps.asp",
+                "target": "_blank",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Maps"
+                        },
+                        "link": "forums/maps.asp",
+                        "target": "_blank"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Advanced Search"
+                },
+                "link": "fhsearcha.asp"
+            }
+        ]
+    },
+    {
+        "type": "/schemas/v1/menus/menu.json",
+        "name": {
+            "en": "Help"
+        },
+        "link": "https://guide.landsofhope.com/help",
+        "children": [
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Manual"
+                },
+                "link": "manualnew.asp",
+                "target": "_blank",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Knotwood Valley"
+                        },
+                        "link": "https://guide.landsofhope.com/World/10",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Sandydale Basin"
+                        },
+                        "link": "https://guide.landsofhope.com/World/7",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Riverscape"
+                        },
+                        "link": "https://guide.landsofhope.com/World/8",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Barren Downs"
+                        },
+                        "link": "https://guide.landsofhope.com/World/9",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Lakeview"
+                        },
+                        "link": "https://guide.landsofhope.com/World/6",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Three Glaciers"
+                        },
+                        "link": "https://guide.landsofhope.com/World/4",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Coldbreeze"
+                        },
+                        "link": "https://guide.landsofhope.com/World/3",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Frostvale"
+                        },
+                        "link": "https://guide.landsofhope.com/World/2",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Seven Sisters"
+                        },
+                        "link": "https://guide.landsofhope.com/World/5",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Royal Hollow"
+                        },
+                        "link": "https://guide.landsofhope.com/World/1",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Juratania"
+                        },
+                        "link": "https://guide.landsofhope.com/World/13",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Shrouded Islands"
+                        },
+                        "link": "https://guide.landsofhope.com/World/14",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Eternal Plains"
+                        },
+                        "link": "https://guide.landsofhope.com/World/16",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Eastern Lands"
+                        },
+                        "link": "https://guide.landsofhope.com/World/17",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Demonic Plains"
+                        },
+                        "link": "https://guide.landsofhope.com/World/18",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "The Underworld"
+                        },
+                        "link": "https://guide.landsofhope.com/World/19",
+                        "target": "_blank"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Heavenly Arena"
+                        },
+                        "link": "https://guide.landsofhope.com/World/20",
+                        "target": "_blank"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Walkthrough"
+                },
+                "link": "https://guide.landsofhope.com/start/",
+                "target": "_blank"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "FAQ Topics"
+                },
+                "link": "https://guide.landsofhope.com/faqs"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Help Topics"
+                },
+                "link": "https://guide.landsofhope.com/help"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Ideas"
+                },
+                "link": "fhfeature.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Submit Idea"
+                },
+                "link": "fhsubmit.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Idea Search"
+                },
+                "link": "fhfeatures.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Idea Search"
+                },
+                "link": "fhfeatures.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Report Bug"
+                },
+                "link": "fhbugn.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "View Bug"
+                },
+                "link": "fhbug.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Website"
+                },
+                "link": "https://www.landsofhope.com",
+                "target": "_blank"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Surveys"
+                },
+                "link": "fhsurvey.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Email Support"
+                },
+                "link": "mailto:support@landsofhope.com"
+            }
+        ]
+    },
+    {
+        "type": "/schemas/v1/menus/menu.json",
+        "name": {
+            "en": "GM"
+        },
+        "link": "gmec.asp",
+        "children": [
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Accounts"
+                },
+                "link": "gmea.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Accounts"
+                        },
+                        "link": "gmea.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "TOS Violators"
+                        },
+                        "link": "gmEAT.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Billing"
+                        },
+                        "link": "gmEA2.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "IP Block"
+                        },
+                        "link": "gmeipb.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Delete"
+                        },
+                        "link": "gmeasd.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Banned"
+                        },
+                        "link": "gmeab.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Characters"
+                },
+                "link": "gmec.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Player Characters"
+                        },
+                        "link": "gmec.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Pets"
+                        },
+                        "link": "gmec.asp?Type=2"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Non Player Characters"
+                        },
+                        "link": "gmec.asp?Type=1"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Possess"
+                        },
+                        "link": "gmpos.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Vessels"
+                },
+                "link": "gmev.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Buildings"
+                },
+                "link": "gmBuildings.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Dungeons"
+                        },
+                        "link": "gmdungeons.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Buildings"
+                        },
+                        "link": "gmBuildings.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Edit"
+                },
+                "link": "gmec.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Menus"
+                        },
+                        "link": "gmemenu.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Talk Text"
+                        },
+                        "link": "gmect.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Guilds"
+                        },
+                        "link": "gmeg.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Skills"
+                        },
+                        "link": "gmeskill.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Items"
+                        },
+                        "link": "gmei.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Item Descriptions"
+                        },
+                        "link": "gmeid.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Spells"
+                        },
+                        "link": "gmess.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Quests"
+                        },
+                        "link": "gmqueste.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Races"
+                        },
+                        "link": "gmer.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Professions"
+                        },
+                        "link": "gmep.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Vessel Types"
+                        },
+                        "link": "gmevt.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/horizontal-rule.json",
+                        "img": "hr.gif"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Lore"
+                        },
+                        "link": "gmLoreE.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "New"
+                },
+                "link": "gmec.asp",
+                "children": [
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Character"
+                        },
+                        "link": "gmNC.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Inventory Item"
+                        },
+                        "link": "gmNII.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Building"
+                        },
+                        "link": "gmBC.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Quest"
+                        },
+                        "link": "gmNQ.asp"
+                    },
+                    {
+                        "type": "/schemas/v1/menus/menu.json",
+                        "name": {
+                            "en": "Dungeon"
+                        },
+                        "link": "gmnewd.asp"
+                    }
+                ]
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Building Wizard"
+                },
+                "link": "gmblm.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Thefts"
+                },
+                "link": "gmITheft.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Messages"
+                },
+                "link": "gmIMessages.asp"
+            },
+            {
+                "type": "/schemas/v1/menus/horizontal-rule.json",
+                "img": "hr.gif"
+            },
+            {
+                "type": "/schemas/v1/menus/menu.json",
+                "name": {
+                    "en": "Item Renames"
+                },
+                "link": "gmCharxz.asp"
+            }
+        ]
+    }
+]

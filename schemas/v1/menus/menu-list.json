@@ -1,0 +1,8 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/menus/menu-list.json",
+    "title": "MenuList",
+    "type": "array",
+    "items": {
+        "$ref": "/schemas/v1/menus/menu.json"
+    }
+}

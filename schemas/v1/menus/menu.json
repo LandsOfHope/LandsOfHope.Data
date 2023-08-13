@@ -1,0 +1,55 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/menus/menu.json",
+    "title": "Menu",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "type": {
+            "const": "/schemas/v1/menus/menu.json"
+        },
+        "name": {
+            "$ref": "/schemas/v1/localized-string.json"
+        },
+        "link": {
+            "type": "string"
+        },
+        "target": {
+            "enum": [
+                "_blank",
+                "_self",
+                "_parent",
+                "_top"
+            ]
+        },
+        "children": {
+            "type": "array",
+            "items": {
+                "oneOf": [
+                    {
+                        "$ref": "/schemas/v1/menus/menu.json"
+                    },
+                    {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "properties": {
+                            "type": {
+                                "const": "/schemas/v1/menus/horizontal-rule.json"
+                            },
+                            "img": {
+                                "const": "hr.gif"
+                            }
+                        },
+                        "required": [
+                            "type",
+                            "img"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "required": [
+        "name",
+        "type"
+    ]
+}
