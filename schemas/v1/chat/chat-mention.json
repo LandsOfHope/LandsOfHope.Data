@@ -8,10 +8,14 @@
         },
         "mention": {
             "$ref": "/schemas/v1/characters/appearance-profile-id.json"
+        },
+        "name": {
+            "$ref": "/schemas/v1/characters/character-name.json"
         }
     },
     "required": [
         "id",
-        "mention"
+        "mention",
+        "name"
     ]
 }
