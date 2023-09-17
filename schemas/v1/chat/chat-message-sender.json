@@ -2,6 +2,7 @@
     "$id": "https://data.landsofhope.com/schemas/v1/chat/chat-message-sender.json",
     "title": "ChatMessageSender",
     "type": "object",
+    "additionalProperties": false,
     "properties": {
         "color": {
             "$ref": "/schemas/v1/chat/chat-color.json"
