@@ -13,7 +13,20 @@ jobs:
     runs-on: ubuntu-latest
     name: Deploy
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: install gitversion
+        uses: gittools/actions/gitversion/setup@v0
+        with:
+          versionSpec: "5.x"
+      - name: determine version
+        id: gitversion
+        uses: gittools/actions/gitversion/execute@v0
+        with:
+          useConfigFile: true
+      - name: Set package.json version
+        run: npm version --no-git-tag-version "${{steps.gitversion.outputs.fullSemVer}}"
       - name: npm ci
         working-directory: .scripts
         run: npm ci
@@ -28,7 +41,7 @@ jobs:
       - name: generate typescript api types
         run: docker run --rm -v $PWD/schemas:/schemas -v $PWD/api:/api -v $PWD/.scripts/generate_api_ts.sh:/generate_api_ts.sh node sh generate_api_ts.sh
       - name: generate health file
-        run: cp service.json health
+        run: node .scripts/generate_health.js
       - name: Publish
         run: aws s3 sync . s3://lohdata --endpoint-url ${{ secrets.AWS_ENDPOINT_URL }} --delete --exclude ".*" --exclude "*/.*"
         if: ${{ github.ref == 'refs/heads/master' }}
