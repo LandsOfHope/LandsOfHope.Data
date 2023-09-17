@@ -32,7 +32,8 @@ const main = async function () {
     validateAll("schemas/v1/maps/map-resources.json", "maps/worlds/*/resources.json"),
     validateAll("schemas/v1/maps/terrain.json", "maps/terrains/!(all|all.inline).json"),
     validateAll("schemas/v1/characters/character-title.json", "titles/!(all|all.inline).json"),
-    validateAll("schemas/v1/menus/menu-list.json", "menus/!(all|all.inline).json")
+    validateAll("schemas/v1/menus/menu-list.json", "menus/!(all|all.inline).json"),
+    validateAll("schemas/v1/services/service.json", "./service.json")
   ]);
 };
 

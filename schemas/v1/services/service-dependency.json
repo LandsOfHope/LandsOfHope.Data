@@ -1,0 +1,14 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/services/service-dependency.json",
+    "title": "ServiceDependency",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "type": {
+            "$ref": "/schemas/v1/services/service-dependency-type.json"
+        }
+    },
+    "required": [
+        "type"
+    ]
+}

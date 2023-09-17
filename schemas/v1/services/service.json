@@ -1,0 +1,41 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/services/service.json",
+    "title": "Service",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "name": {
+            "type": "string"
+        },
+        "version": {
+            "type": "string"
+        },
+        "svcDependencies": {
+            "type": "object",
+            "properties": {
+                "hard": {
+                    "type": "object",
+                    "patternProperties": {
+                        ".*": {
+                            "$ref": "/schemas/v1/services/service-dependency.json"
+                        }
+                    },
+                    "additionalProperties": false
+                },
+                "soft": {
+                    "type": "object",
+                    "patternProperties": {
+                        ".*": {
+                            "$ref": "/schemas/v1/services/service-dependency.json"
+                        }
+                    },
+                    "additionalProperties": false
+                }
+            }
+        }
+    },
+    "required": [
+        "name",
+        "version"
+    ]
+}
