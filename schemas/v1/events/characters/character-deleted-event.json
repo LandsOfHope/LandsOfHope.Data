@@ -1,0 +1,17 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/characters/character-deleted-event.json",
+    "title": "CharacterDeletedEvent",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/events/characters/character-deleted-event"
+        },
+        "character": {
+            "$ref": "/schemas/v1/characters/character-id.json"
+        }
+    },
+    "required": [
+        "$type",
+        "character"
+    ]
+}

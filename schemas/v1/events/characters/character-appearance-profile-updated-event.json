@@ -1,0 +1,21 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/characters/character-appearance-profile-updated-event.json",
+    "title": "CharacterAppearanceProfileUpdatedEvent",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/events/characters/character-appearance-profile-updated-event"
+        },
+        "character": {
+            "$ref": "/schemas/v1/characters/character-id.json"
+        },
+        "appearanceProfile": {
+            "$ref": "/schemas/v1/characters/appearance-profile.json"
+        }
+    },
+    "required": [
+        "$type",
+        "message",
+        "room"
+    ]
+}
