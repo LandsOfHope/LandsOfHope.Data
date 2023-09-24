@@ -1,0 +1,25 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/stats/ranking.json",
+    "title": "Ranking",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/stats/ranking"
+        },
+        "title": {
+            "$ref": "/schemas/v1/localized-string.json"
+        },
+        "desc": {
+            "$ref": "/schemas/v1/localized-string.json"
+        },
+        "group": {
+            "$ref": "/schemas/v1/stats/stat-categories-id.json"
+        }
+    },
+    "required": [
+        "$type",
+        "title",
+        "desc",
+        "group"
+    ]
+}

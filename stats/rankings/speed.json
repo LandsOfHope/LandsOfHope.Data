@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/stats/ranking",
+    "title": {
+        "en": "Speed"
+    },
+    "desc": {
+        "en": "The fastest characters."
+    },
+    "group": "character"
+}
