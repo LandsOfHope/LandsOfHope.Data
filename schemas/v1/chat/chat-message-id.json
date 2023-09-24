@@ -1,5 +1,5 @@
 {
     "$id": "https://data.landsofhope.com/schemas/v1/chat/chat-message-id.json",
     "title": "ChatMessageId",
-    "type": "string"
+    "$ref": "/schemas/v1/uuid.json"
 }

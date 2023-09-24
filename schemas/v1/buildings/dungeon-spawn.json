@@ -3,6 +3,9 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
+        "$type": {
+            "const": "/v1/buildings/dungeon-spawn"
+        },
         "raceId": {
             "type": "integer"
         },
@@ -14,9 +17,10 @@
         }
     },
     "required": [
-        "boss",
+        "$type",
         "raceId",
-        "respawnTime"
+        "respawnTime",
+        "boss"
     ],
     "title": "Spawn"
 }

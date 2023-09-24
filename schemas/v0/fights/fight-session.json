@@ -4,6 +4,9 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
+        "$type": {
+            "const": "/v0/fights/fight-session"
+        },
         "id": {
             "$ref": "/schemas/v0/fights/fight-session-id.json"
         },
@@ -24,6 +27,7 @@
         }
     },
     "required": [
+        "$type",
         "id",
         "leftF",
         "rightF",

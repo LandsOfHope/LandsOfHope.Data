@@ -3,8 +3,8 @@
     "title": "AppearanceProfile",
     "type": "object",
     "properties": {
-        "id": {
-            "$ref": "/schemas/v1/characters/appearance-profile-id.json"
+        "$type": {
+            "const": "/v1/characters/appearance-profile"
         },
         "name": {
             "$ref": "/schemas/v1/characters/character-name.json"
@@ -23,8 +23,9 @@
             "$ref": "/schemas/v1/characters/images-id.json"
         }
     },
+    "additionalProperties": false,
     "required": [
-        "id",
+        "$type",
         "name",
         "title",
         "pictureID"

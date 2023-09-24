@@ -4,8 +4,8 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
-        "type": {
-            "const": "/schemas/v1/menus/menu.json"
+        "$type": {
+            "const": "/v1/menus/menu"
         },
         "name": {
             "$ref": "/schemas/v1/localized-string.json"
@@ -32,15 +32,15 @@
                         "type": "object",
                         "additionalProperties": false,
                         "properties": {
-                            "type": {
-                                "const": "/schemas/v1/menus/horizontal-rule.json"
+                            "$type": {
+                                "const": "/v1/menus/horizontal-rule"
                             },
                             "img": {
                                 "const": "hr.gif"
                             }
                         },
                         "required": [
-                            "type",
+                            "$type",
                             "img"
                         ]
                     }
@@ -49,7 +49,7 @@
         }
     },
     "required": [
-        "name",
-        "type"
+        "$type",
+        "name"
     ]
 }

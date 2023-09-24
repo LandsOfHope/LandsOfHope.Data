@@ -4,6 +4,9 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
+        "$type": {
+            "const": "/v1/chat/chat-room"
+        },
         "id": {
             "$ref": "/schemas/v1/chat/chat-room-id.json"
         },
@@ -24,6 +27,7 @@
         }
     },
     "required": [
+        "$type",
         "id",
         "name",
         "desc",

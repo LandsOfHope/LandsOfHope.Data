@@ -4,6 +4,9 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
+        "$type": {
+            "const": "/v1/chat/chat-settings"
+        },
         "color": {
             "$ref": "/schemas/v1/chat/chat-color.json"
         },
@@ -12,6 +15,7 @@
         }
     },
     "required": [
+        "$type",
         "color",
         "profileId"
     ]

@@ -4,19 +4,19 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
-        "id": {
-            "$ref": "/schemas/v1/uuid.json"
+        "$type": {
+            "const": "/v1/chat/chat-mention"
         },
-        "mention": {
-            "$ref": "/schemas/v1/characters/appearance-profile-id.json"
+        "target": {
+            "$ref": "/schemas/v1/chat/chat-participant-id.json"
         },
-        "name": {
-            "$ref": "/schemas/v1/characters/character-name.json"
+        "profile": {
+            "$ref": "/schemas/v1/characters/appearance-profile.json"
         }
     },
     "required": [
-        "id",
-        "mention",
-        "name"
+        "$type",
+        "target",
+        "profile"
     ]
 }

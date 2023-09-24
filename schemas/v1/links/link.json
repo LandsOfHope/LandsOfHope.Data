@@ -3,11 +3,16 @@
     "title": "Link",
     "type": "object",
     "properties": {
+        "$type": {
+            "const": "/v1/links/link"
+        },
         "href": {
             "type": "string"
         }
     },
+    "additionalProperties": false,
     "required": [
+        "$type",
         "href"
     ]
 }
