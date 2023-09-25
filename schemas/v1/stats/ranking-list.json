@@ -2,14 +2,12 @@
     "$id": "https://data.landsofhope.com/schemas/v1/stats/ranking-list.json",
     "title": "RankingList",
     "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/stats/ranking-list"
-        }
-    },
     "oneOf": [
         {
             "properties": {
+                "$type": {
+                    "const": "/v1/stats/ranking-list"
+                },
                 "stat": {
                     "const": "level"
                 },
@@ -30,10 +28,14 @@
                         }
                     }
                 }
-            }
+            },
+            "additionalProperties": false
         },
         {
             "properties": {
+                "$type": {
+                    "const": "/v1/stats/ranking-list"
+                },
                 "stat": {
                     "const": "strength"
                 },
@@ -54,10 +56,14 @@
                         }
                     }
                 }
-            }
+            },
+            "additionalProperties": false
         },
         {
             "properties": {
+                "$type": {
+                    "const": "/v1/stats/ranking-list"
+                },
                 "stat": {
                     "const": "intelligence"
                 },
@@ -78,7 +84,8 @@
                         }
                     }
                 }
-            }
+            },
+            "additionalProperties": false
         }
     ],
     "required": [
