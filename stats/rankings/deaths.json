@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/stats/ranking",
+    "title": {
+        "en": "Deaths"
+    },
+    "desc": {
+        "en": "The most deaths."
+    },
+    "group": "character"
+}

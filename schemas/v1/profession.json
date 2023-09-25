@@ -3,6 +3,9 @@
     "title": "Profession",
     "type": "object",
     "properties": {
+        "$type": {
+            "const": "/v1/profession"
+        },
         "name": {
             "$ref": "/schemas/v1/localized-string.json"
         },

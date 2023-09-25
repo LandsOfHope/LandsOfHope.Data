@@ -6,5 +6,8 @@
         "en": {
             "type": "string"
         }
-    }
+    },
+    "required": [
+        "en"
+    ]
 }

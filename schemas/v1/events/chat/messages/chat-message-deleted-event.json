@@ -1,0 +1,21 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/chat/messages/chat-message-deleted-event.json",
+    "title": "ChatMessageDeletedEvent",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/events/chat/messages/chat-message-deleted-event"
+        },
+        "messageId": {
+            "$ref": "/schemas/v1/chat/chat-message-id.json"
+        },
+        "room": {
+            "$ref": "/schemas/v1/chat/chat-room-id.json"
+        }
+    },
+    "required": [
+        "$type",
+        "messageId",
+        "room"
+    ]
+}

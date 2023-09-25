@@ -4,11 +4,15 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
+        "$type": {
+            "const": "/v0/fights/fight-round-log"
+        },
         "roundLogHtml": {
             "type": "string"
         }
     },
     "required": [
+        "$type",
         "roundLogHtml"
     ]
 }

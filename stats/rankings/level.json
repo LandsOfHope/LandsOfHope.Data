@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/stats/ranking",
+    "title": {
+        "en": "Level"
+    },
+    "desc": {
+        "en": "The highest levelled characters."
+    },
+    "group": "character"
+}

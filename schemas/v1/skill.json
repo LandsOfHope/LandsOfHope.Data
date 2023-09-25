@@ -3,6 +3,9 @@
     "title": "Skill",
     "type": "object",
     "properties": {
+        "$type": {
+            "const": "/v1/skill"
+        },
         "name": {
             "$ref": "/schemas/v1/localized-string.json"
         },
@@ -14,6 +17,7 @@
         }
     },
     "required": [
+        "$type",
         "name",
         "desc",
         "group"

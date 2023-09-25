@@ -1,0 +1,36 @@
+{
+    "$type": "/v1/chat/chat-message",
+    "id": "00000000-0000-0000-0000-000000000000",
+    "sender": {
+        "$type": "/v1/chat/chat-message-sender",
+        "id": "TEST_PARTICIPANT_ID",
+        "profile": {
+            "$type": "/v1/characters/appearance-profile",
+            "name": "Test",
+            "title": "rogue",
+            "pictureID": "sohum1"
+        },
+        "color": "ffffff"
+    },
+    "sent": "2023-09-19T19:29:32Z",
+    "message": "Hello @WORLD_PARTICIPANT_ID, check out google.com",
+    "parts": [
+        "Hello ",
+        {
+            "$type": "/v1/chat/chat-mention",
+            "target": "WORLD_PARTICIPANT_ID",
+            "profile": {
+                "$type": "/v1/characters/appearance-profile",
+                "name": "World",
+                "title": "fighter",
+                "pictureID": "sohuf1"
+            }
+        },
+        " check out ",
+        {
+            "$type": "/v1/links/link",
+            "href": "https://google.com"
+        }
+    ],
+    "type": "message"
+}

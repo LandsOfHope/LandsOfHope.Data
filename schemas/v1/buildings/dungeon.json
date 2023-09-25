@@ -3,6 +3,9 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
+        "$type": {
+            "const": "/v1/buildings/dungeon"
+        },
         "characterId": {
             "type": "integer"
         },
@@ -50,6 +53,7 @@
         }
     },
     "required": [
+        "$type",
         "buildingName",
         "buildingTypeId",
         "characterId",

@@ -2,7 +2,6 @@
     "$id": "https://data.landsofhope.com/schemas/v1/services/service.json",
     "title": "Service",
     "type": "object",
-    "additionalProperties": false,
     "properties": {
         "name": {
             "type": "string"
@@ -34,6 +33,7 @@
             }
         }
     },
+    "additionalProperties": true,
     "required": [
         "name",
         "version"

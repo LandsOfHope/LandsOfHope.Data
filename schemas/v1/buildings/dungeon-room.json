@@ -3,6 +3,9 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
+        "$type": {
+            "const": "/v1/buildings/dungeon-room"
+        },
         "id": {
             "type": "number"
         },
@@ -32,12 +35,13 @@
         }
     },
     "required": [
+        "$type",
         "id",
+        "roomName",
         "img",
         "img2",
         "offsetX",
         "offsetY",
-        "roomName",
         "roomTypeId"
     ],
     "title": "Room"

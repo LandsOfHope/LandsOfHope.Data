@@ -1,8 +1,11 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/chat-message-event.json",
-    "title": "ChatMessageEvent",
+    "$id": "https://data.landsofhope.com/schemas/v1/events/chat/messages/chat-message-sent-event.json",
+    "title": "ChatMessageSentEvent",
     "type": "object",
     "properties": {
+        "$type": {
+            "const": "/v1/events/chat/messages/chat-message-sent-event"
+        },
         "message": {
             "$ref": "/schemas/v1/chat/chat-message.json"
         },
@@ -11,6 +14,7 @@
         }
     },
     "required": [
+        "$type",
         "message",
         "room"
     ]
