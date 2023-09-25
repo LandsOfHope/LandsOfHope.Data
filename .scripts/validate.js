@@ -103,6 +103,7 @@ const main = async function () {
     validateTestData("v1/chat/chat-message"),
     validateTestData("v1/events/chat/messages/chat-message-sent-event"),
     validateTestData("v1/events/webhook-event"),
+    validateTestData("v1/stats/ranking-list"),
 
     checkSchemaTypes()
   ]);

@@ -1,0 +1,89 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/stats/ranking-list.json",
+    "title": "RankingList",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/stats/ranking-list"
+        }
+    },
+    "oneOf": [
+        {
+            "properties": {
+                "stat": {
+                    "const": "level"
+                },
+                "data": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "name": {
+                                "$ref": "/schemas/v1/characters/character-name.json"
+                            },
+                            "level": {
+                                "type": "number"
+                            },
+                            "pictureID": {
+                                "$ref": "/schemas/v1/characters/images-id.json"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "properties": {
+                "stat": {
+                    "const": "strength"
+                },
+                "data": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "name": {
+                                "$ref": "/schemas/v1/characters/character-name.json"
+                            },
+                            "strength": {
+                                "type": "integer"
+                            },
+                            "pictureID": {
+                                "$ref": "/schemas/v1/characters/images-id.json"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "properties": {
+                "stat": {
+                    "const": "intelligence"
+                },
+                "data": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "name": {
+                                "$ref": "/schemas/v1/characters/character-name.json"
+                            },
+                            "intelligence": {
+                                "type": "integer"
+                            },
+                            "pictureID": {
+                                "$ref": "/schemas/v1/characters/images-id.json"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "required": [
+        "$type",
+        "stat",
+        "data"
+    ]
+}

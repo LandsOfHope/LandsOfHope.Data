@@ -1,0 +1,16 @@
+{
+    "$type": "/v1/stats/ranking-list",
+    "stat": "intelligence",
+    "data": [
+        {
+            "name": "Test-Character",
+            "intelligence": 5000,
+            "pictureID": "sohum2"
+        },
+        {
+            "name": "Test-Character-II",
+            "intelligence": 181,
+            "pictureID": "sohum1"
+        }
+    ]
+}
