@@ -11,7 +11,7 @@
             "$ref": "/schemas/v1/chat/chat-message-id.json"
         },
         "sender": {
-            "$ref": "/schemas/v1/chat/chat-message-sender.json"
+            "$ref": "/schemas/v1/chat/chat-participant.json"
         },
         "sent": {
             "$ref": "/schemas/v0/datetime.json"

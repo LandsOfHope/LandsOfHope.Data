@@ -1,0 +1,16 @@
+{
+    "$type": "/v1/events/chat/rooms/chat-room-presence-event",
+    "participant": {
+        "$type": "/v1/chat/chat-participant",
+        "id": "TEST_PARTICIPANT_ID",
+        "profile": {
+            "$type": "/v1/characters/appearance-profile",
+            "name": "Test",
+            "title": "rogue",
+            "pictureID": "sohum1"
+        },
+        "color": "ffffff"
+    },
+    "status": "entered",
+    "room": "CHAT_ROOM_ID"
+}

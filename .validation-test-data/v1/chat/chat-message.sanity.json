@@ -2,7 +2,7 @@
     "$type": "/v1/chat/chat-message",
     "id": "00000000-0000-0000-0000-000000000000",
     "sender": {
-        "$type": "/v1/chat/chat-message-sender",
+        "$type": "/v1/chat/chat-participant",
         "id": "TEST_PARTICIPANT_ID",
         "profile": {
             "$type": "/v1/characters/appearance-profile",

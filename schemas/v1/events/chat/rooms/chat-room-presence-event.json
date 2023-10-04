@@ -1,0 +1,29 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/chat/rooms/chat-room-presence-event.json",
+    "title": "ChatRoomPresenceEvent",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/events/chat/rooms/chat-room-presence-event"
+        },
+        "participant": {
+            "$ref": "/schemas/v1/chat/chat-participant.json"
+        },
+        "status": {
+            "enum": [
+                "entered",
+                "exited"
+            ]
+        },
+        "room": {
+            "$ref": "/schemas/v1/chat/chat-room-id.json"
+        }
+    },
+    "required": [
+        "$type",
+        "participant",
+        "status",
+        "room"
+    ]
+}
