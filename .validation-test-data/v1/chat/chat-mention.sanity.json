@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/chat/chat-mention",
+    "raw": "@WORLD_PARTICIPANT_ID",
+    "participant": "WORLD_PARTICIPANT_ID",
+    "profile": {
+        "$type": "/v1/characters/appearance-profile",
+        "name": "World",
+        "title": "fighter",
+        "pictureID": "sohuf1"
+    }
+}

@@ -100,6 +100,7 @@ const main = async function () {
 
     validateTestData("v1/characters/appearance-profile"),
     validateTestData("v1/characters/character-id"),
+    validateTestData("v1/chat/chat-mention"),
     validateTestData("v1/chat/chat-message"),
     validateTestData("v1/events/chat/rooms/chat-room-presence-event"),
     validateTestData("v1/events/chat/messages/chat-message-sent-event"),

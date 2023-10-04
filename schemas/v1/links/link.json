@@ -6,6 +6,9 @@
         "$type": {
             "const": "/v1/links/link"
         },
+        "raw": {
+            "type": "string"
+        },
         "href": {
             "type": "string"
         }
@@ -13,6 +16,7 @@
     "additionalProperties": false,
     "required": [
         "$type",
+        "raw",
         "href"
     ]
 }
