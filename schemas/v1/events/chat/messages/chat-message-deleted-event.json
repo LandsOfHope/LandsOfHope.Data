@@ -6,11 +6,11 @@
         "$type": {
             "const": "/v1/events/chat/messages/chat-message-deleted-event"
         },
-        "messageId": {
-            "$ref": "/schemas/v1/chat/chat-message-id.json"
-        },
         "room": {
             "$ref": "/schemas/v1/chat/chat-room-id.json"
+        },
+        "messageId": {
+            "$ref": "/schemas/v1/chat/chat-message-id.json"
         }
     },
     "required": [

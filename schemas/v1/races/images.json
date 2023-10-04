@@ -1,6 +1,6 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/images.json",
-    "title": "Images",
+    "$id": "https://data.landsofhope.com/schemas/v1/races/images.json",
+    "title": "RaceImages",
     "type": "object",
     "oneOf": [
         {
@@ -8,13 +8,13 @@
                 "M": {
                     "type": "array",
                     "items": {
-                        "type": "string"
+                        "$ref": "/schemas/v1/characters/images-id.json"
                     }
                 },
                 "F": {
                     "type": "array",
                     "items": {
-                        "type": "string"
+                        "$ref": "/schemas/v1/characters/images-id.json"
                     }
                 }
             },
@@ -29,7 +29,7 @@
                 "U": {
                     "type": "array",
                     "items": {
-                        "type": "string"
+                        "$ref": "/schemas/v1/characters/images-id.json"
                     }
                 }
             },

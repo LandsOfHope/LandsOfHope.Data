@@ -2,7 +2,7 @@
     "$type": "/v1/chat/chat-message",
     "id": "00000000-0000-0000-0000-000000000000",
     "sender": {
-        "$type": "/v1/chat/chat-message-sender",
+        "$type": "/v1/chat/chat-participant",
         "id": "TEST_PARTICIPANT_ID",
         "profile": {
             "$type": "/v1/characters/appearance-profile",
@@ -13,12 +13,15 @@
         "color": "ffffff"
     },
     "sent": "2023-09-19T19:29:32Z",
-    "message": "Hello @WORLD_PARTICIPANT_ID, check out google.com",
+    "raw": "Hello @WORLD_PARTICIPANT_ID, check out google.com",
     "parts": [
-        "Hello ",
+        {
+            "raw": "Hello "
+        },
         {
             "$type": "/v1/chat/chat-mention",
-            "target": "WORLD_PARTICIPANT_ID",
+            "raw": "@WORLD_PARTICIPANT_ID",
+            "participant": "WORLD_PARTICIPANT_ID",
             "profile": {
                 "$type": "/v1/characters/appearance-profile",
                 "name": "World",
@@ -26,9 +29,12 @@
                 "pictureID": "sohuf1"
             }
         },
-        " check out ",
+        {
+            "raw": ", check out "
+        },
         {
             "$type": "/v1/links/link",
+            "raw": "google.com",
             "href": "https://google.com"
         }
     ],

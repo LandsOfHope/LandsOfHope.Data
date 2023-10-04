@@ -16,7 +16,7 @@
             "$ref": "/schemas/v1/localized-string.json"
         },
         "pics": {
-            "$ref": "/schemas/v1/images.json"
+            "$ref": "/schemas/v1/races/images.json"
         }
     },
     "additionalProperties": false,

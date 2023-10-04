@@ -7,7 +7,10 @@
         "$type": {
             "const": "/v1/chat/chat-mention"
         },
-        "target": {
+        "raw": {
+            "type": "string"
+        },
+        "participant": {
             "$ref": "/schemas/v1/chat/chat-participant-id.json"
         },
         "profile": {
@@ -16,7 +19,8 @@
     },
     "required": [
         "$type",
-        "target",
+        "raw",
+        "participant",
         "profile"
     ]
 }

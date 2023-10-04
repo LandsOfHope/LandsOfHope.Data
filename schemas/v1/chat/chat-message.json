@@ -11,12 +11,12 @@
             "$ref": "/schemas/v1/chat/chat-message-id.json"
         },
         "sender": {
-            "$ref": "/schemas/v1/chat/chat-message-sender.json"
+            "$ref": "/schemas/v1/chat/chat-participant.json"
         },
         "sent": {
             "$ref": "/schemas/v0/datetime.json"
         },
-        "message": {
+        "raw": {
             "type": "string"
         },
         "parts": {
@@ -24,7 +24,28 @@
             "items": {
                 "oneOf": [
                     {
-                        "type": "string"
+                        "type": "object",
+                        "properties": {
+                            "raw": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "raw"
+                        ],
+                        "not": {
+                            "properties": {
+                                "$type": {
+                                    "enum": [
+                                        "/v1/chat/chat-mention",
+                                        "/v1/links/link"
+                                    ]
+                                }
+                            },
+                            "required": [
+                                "$type"
+                            ]
+                        }
                     },
                     {
                         "$ref": "/schemas/v1/chat/chat-mention.json"
@@ -47,7 +68,7 @@
         "id",
         "sender",
         "sent",
-        "message",
+        "raw",
         "parts",
         "type"
     ]
