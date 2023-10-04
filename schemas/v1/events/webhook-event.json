@@ -1,10 +1,10 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/event/webhook-event.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/events/webhook-event.json",
     "title": "WebhookEvent",
     "type": "object",
     "oneOf": [
         {
-            "$ref": "/schemas/v1/events/chat/messages/chat-message-sent-event.json"
+            "$ref": "/schemas/v1/events/chat/chat-event.json"
         }
     ]
 }
