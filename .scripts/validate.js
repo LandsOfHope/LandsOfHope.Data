@@ -42,7 +42,7 @@ const validateAll = async (schema, fileGlob) => {
     throw Error(`Could not find files matching glob ${fileGlob}`);
   return (
     await exec(
-      `npx --yes ajv-cli@latest -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")}`
+      `node ${__dirname}/node_modules/ajv-cli/dist -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")}`
     )
   ).exitCode;
 };
