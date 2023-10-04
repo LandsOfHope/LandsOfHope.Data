@@ -1,6 +1,6 @@
 {
     "$id": "https://data.landsofhope.com/schemas/v1/races/images.json",
-    "title": "Images",
+    "title": "RaceImages",
     "type": "object",
     "oneOf": [
         {
