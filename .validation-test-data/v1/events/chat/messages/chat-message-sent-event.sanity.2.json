@@ -1,0 +1,27 @@
+{
+    "$type": "/v1/events/chat/messages/chat-message-sent-event",
+    "message": {
+        "$type": "/v1/chat/chat-message",
+        "id": "be4331a3-1681-4ddc-b1e4-7271d7bbfb98",
+        "sender": {
+            "$type": "/v1/chat/chat-participant",
+            "id": "chatpartid_57851349",
+            "color": "00688B",
+            "profile": {
+                "name": "Cedrigord Drowslobberer",
+                "title": "master",
+                "pictureID": "gym",
+                "$type": "/v1/characters/appearance-profile"
+            }
+        },
+        "sent": "2023-10-05T18:55:18.577Z",
+        "raw": "abc",
+        "type": "message",
+        "parts": [
+            {
+                "raw": "abc"
+            }
+        ]
+    },
+    "room": "dab59fb06c0aeca5eefbf57777ef7d9e2e35f6b2f68e48b5749fd8675c243b5d"
+}
