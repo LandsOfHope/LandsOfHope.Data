@@ -3,7 +3,7 @@
     "id": "00000000-0000-0000-0000-000000000000",
     "sender": {
         "$type": "/v1/chat/chat-participant",
-        "id": "TEST_PARTICIPANT_ID",
+        "id": "chatpartid_TEST_PARTICIPANT_ID",
         "profile": {
             "$type": "/v1/characters/appearance-profile",
             "name": "Test",
@@ -21,7 +21,7 @@
         {
             "$type": "/v1/chat/chat-mention",
             "raw": "@WORLD_PARTICIPANT_ID",
-            "participant": "WORLD_PARTICIPANT_ID",
+            "participant": "chatpartid_WORLD_PARTICIPANT_ID",
             "profile": {
                 "$type": "/v1/characters/appearance-profile",
                 "name": "World",

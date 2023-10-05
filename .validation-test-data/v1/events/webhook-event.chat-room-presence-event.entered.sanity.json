@@ -2,7 +2,7 @@
     "$type": "/v1/events/chat/rooms/chat-room-presence-event",
     "participant": {
         "$type": "/v1/chat/chat-participant",
-        "id": "TEST_PARTICIPANT_ID",
+        "id": "chatpartid_TEST_PARTICIPANT_ID",
         "profile": {
             "$type": "/v1/characters/appearance-profile",
             "name": "Test",
