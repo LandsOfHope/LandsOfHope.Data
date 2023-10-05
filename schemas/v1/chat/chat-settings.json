@@ -11,7 +11,7 @@
             "$ref": "/schemas/v1/chat/chat-color.json"
         },
         "profileId": {
-            "$ref": "/schemas/v1/characters/appearance-profile-id.json"
+            "type": "integer"
         }
     },
     "required": [
