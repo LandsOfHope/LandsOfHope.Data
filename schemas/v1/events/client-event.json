@@ -8,6 +8,9 @@
         },
         {
             "$ref": "/schemas/v1/events/characters/character-client-event.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/live/live-client-event.json"
         }
     ]
 }
