@@ -124,6 +124,8 @@ const main = async function () {
     validateTestData("v1/events/any-event"),
     validateTestData("v1/events/client-event"),
     validateNegativeTestData("v1/events/client-event"),
+    validateTestData("v1/events/live/live-client-event"),
+    validateNegativeTestData("v1/events/live/live-client-event"),
     validateTestData("v1/stats/ranking-list"),
 
     checkSchemaTypes()
