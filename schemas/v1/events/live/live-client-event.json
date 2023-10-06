@@ -5,6 +5,9 @@
     "oneOf": [
         {
             "$ref": "/schemas/v1/events/live/protocol/live-pong-event.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/live/protocol/live-socket-status-event.json"
         }
     ]
 }
