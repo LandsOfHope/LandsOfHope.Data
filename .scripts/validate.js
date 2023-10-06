@@ -42,12 +42,28 @@ const validateAll = async (schema, fileGlob) => {
     throw Error(`Could not find files matching glob ${fileGlob}`);
   return (
     await exec(
-      `node ${__dirname}/node_modules/ajv-cli/dist -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")}`
+      `node ${__dirname}/node_modules/ajv-cli/dist test -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --valid`
     )
   ).exitCode;
 };
 
-const validateTestData = (path) => validateAll(`schemas/${path}.json`, `.validation-test-data/${path}.*.json`);
+const failAll = async (schema, fileGlob) => {
+  const tmpSchemas = schemas
+    .filter((value) => value !== schema)
+    .map((value) => `-r "${value}"`);
+  const files = glob.sync(fileGlob);
+  if (files.length == 0)
+    throw Error(`Could not find files matching glob ${fileGlob}`);
+  return (
+    await exec(
+      `node ${__dirname}/node_modules/ajv-cli/dist test -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --invalid`
+    )
+  ).exitCode;
+};
+
+const validateTestData = (path) => validateAll(`schemas/${path}.json`, `.validation-test-data/${path}!(.negative).*.json`);
+
+const validateNegativeTestData = (path) => failAll(`schemas/${path}.json`, `.validation-test-data/${path}.negative.*.json`)
 
 const checkSchemaTypes = async () => {
   const schemaObjects = Array.from(await Promise.all(schemas.map(schema => readFile(schema, { encoding: 'utf-8' }).then(txt => JSON.parse(txt)))));
@@ -105,7 +121,9 @@ const main = async function () {
     validateTestData("v1/chat/chat-settings"),
     validateTestData("v1/events/chat/rooms/chat-room-presence-event"),
     validateTestData("v1/events/chat/messages/chat-message-sent-event"),
-    validateTestData("v1/events/webhook-event"),
+    validateTestData("v1/events/any-event"),
+    validateTestData("v1/events/client-event"),
+    validateNegativeTestData("v1/events/client-event"),
     validateTestData("v1/stats/ranking-list"),
 
     checkSchemaTypes()

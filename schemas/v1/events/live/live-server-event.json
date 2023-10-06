@@ -1,0 +1,10 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/live/live-server-event.json",
+    "title": "LiveServerEvent",
+    "type": "object",
+    "oneOf": [
+        {
+            "$ref": "/schemas/v1/events/live/subscriptions/live-account-subscriptions-updated-event.json"
+        }
+    ]
+}

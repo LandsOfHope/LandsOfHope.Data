@@ -1,0 +1,46 @@
+{
+    "$type": "/v1/events/chat/messages/chat-message-sent-event",
+    "message": {
+        "$type": "/v1/chat/chat-message",
+        "id": "00000000-0000-0000-0000-000000000000",
+        "sender": {
+            "$type": "/v1/chat/chat-participant",
+            "id": "chatpartid_TEST_PARTICIPANT_ID",
+            "profile": {
+                "$type": "/v1/characters/appearance-profile",
+                "name": "Test",
+                "title": "rogue",
+                "pictureID": "sohum1"
+            },
+            "color": "ffffff"
+        },
+        "sent": "2023-09-19T19:29:32Z",
+        "raw": "Hello @WORLD_PARTICIPANT_ID, check out google.com",
+        "parts": [
+            {
+                "raw": "Hello "
+            },
+            {
+                "$type": "/v1/chat/chat-mention",
+                "raw": "@WORLD_PARTICIPANT_ID",
+                "participant": "chatpartid_WORLD_PARTICIPANT_ID",
+                "profile": {
+                    "$type": "/v1/characters/appearance-profile",
+                    "name": "World",
+                    "title": "fighter",
+                    "pictureID": "sohuf1"
+                }
+            },
+            {
+                "raw": " check out "
+            },
+            {
+                "$type": "/v1/links/link",
+                "raw": "google.com",
+                "href": "https://google.com"
+            }
+        ],
+        "type": "message"
+    },
+    "room": "CHAT_ROOM_ID"
+}

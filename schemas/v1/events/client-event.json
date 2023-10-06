@@ -1,0 +1,13 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/client-event.json",
+    "title": "ClientEvent",
+    "type": "object",
+    "oneOf": [
+        {
+            "$ref": "/schemas/v1/events/chat/chat-client-event.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/characters/character-client-event.json"
+        }
+    ]
+}

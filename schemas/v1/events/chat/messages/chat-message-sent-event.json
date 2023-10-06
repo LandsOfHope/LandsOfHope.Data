@@ -2,6 +2,7 @@
     "$id": "https://data.landsofhope.com/schemas/v1/events/chat/messages/chat-message-sent-event.json",
     "title": "ChatMessageSentEvent",
     "type": "object",
+    "additionalProperties": false,
     "properties": {
         "$type": {
             "const": "/v1/events/chat/messages/chat-message-sent-event"
