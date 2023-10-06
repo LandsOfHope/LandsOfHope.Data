@@ -7,7 +7,7 @@
             "const": "/v1/events/characters/character-appearance-profile-updated-event"
         },
         "character": {
-            "$ref": "/schemas/v1/characters/character-id.json"
+            "type": "integer"
         },
         "appearanceProfile": {
             "$ref": "/schemas/v1/characters/appearance-profile.json"

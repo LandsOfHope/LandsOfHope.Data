@@ -1,0 +1,14 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/live/protocol/live-pong-event.json",
+    "title": "LivePongEvent",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/events/live/protocol/live-pong-event"
+        }
+    },
+    "required": [
+        "$type"
+    ]
+}

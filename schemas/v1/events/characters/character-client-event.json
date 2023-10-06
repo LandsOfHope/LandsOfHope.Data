@@ -1,0 +1,13 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/characters/character-client-event.json",
+    "title": "CharacterClientEvent",
+    "type": "object",
+    "oneOf": [
+        {
+            "$ref": "/schemas/v1/events/characters/character-appearance-profile-updated-event.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/characters/character-deleted-event.json"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/any-event.json",
+    "title": "AnyEvent",
+    "type": "object",
+    "oneOf": [
+        {
+            "$ref": "/schemas/v1/events/client-event.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/server-event.json"
+        }
+    ]
+}

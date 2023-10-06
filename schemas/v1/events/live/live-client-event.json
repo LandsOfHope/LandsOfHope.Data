@@ -1,0 +1,10 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/live/live-client-event.json",
+    "title": "LiveClientEvent",
+    "type": "object",
+    "oneOf": [
+        {
+            "$ref": "/schemas/v1/events/live/protocol/live-pong-event.json"
+        }
+    ]
+}

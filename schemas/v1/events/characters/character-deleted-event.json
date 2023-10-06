@@ -7,7 +7,7 @@
             "const": "/v1/events/characters/character-deleted-event"
         },
         "character": {
-            "$ref": "/schemas/v1/characters/character-id.json"
+            "type": "integer"
         }
     },
     "required": [
