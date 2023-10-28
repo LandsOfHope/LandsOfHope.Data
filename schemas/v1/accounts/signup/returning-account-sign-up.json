@@ -1,0 +1,22 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/signup/returning-account-sign-up.json",
+    "title": "ReturningAccountSignUp",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/accounts/signup/returning-account-sign-up"
+        },
+        "signup": {
+            "$ref": "/schemas/v1/accounts/signup/account-sign-up.json"
+        },
+        "token": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "$type",
+        "signup",
+        "token"
+    ]
+}

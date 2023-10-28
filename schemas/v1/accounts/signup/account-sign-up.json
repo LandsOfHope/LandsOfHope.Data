@@ -1,0 +1,29 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/signup/account-sign-up.json",
+    "title": "AccountSignUp",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/accounts/signup/account-sign-up"
+        },
+        "email": {
+            "type": "string"
+        },
+        "username": {
+            "type": "string"
+        },
+        "password": {
+            "type": "string"
+        },
+        "referrer": {
+            "$ref": "/schemas/v1/accounts/account-id.json"
+        }
+    },
+    "required": [
+        "$type",
+        "email",
+        "username",
+        "password"
+    ]
+}
