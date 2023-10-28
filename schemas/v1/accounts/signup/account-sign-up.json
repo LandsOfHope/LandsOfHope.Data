@@ -17,7 +17,7 @@
             "type": "string"
         },
         "referrer": {
-            "$ref": "/v1/accounts/account-id"
+            "$ref": "/schemas/v1/accounts/account-id.json"
         }
     },
     "required": [

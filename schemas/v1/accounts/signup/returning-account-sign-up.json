@@ -8,7 +8,7 @@
             "const": "/v1/accounts/signup/returning-account-sign-up"
         },
         "signup": {
-            "$ref": "/v1/accounts/signup/account-sign-up"
+            "$ref": "/schemas/v1/accounts/signup/account-sign-up.json"
         },
         "token": {
             "type": "string"
