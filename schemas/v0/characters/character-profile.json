@@ -1,0 +1,80 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v0/characters/character-profile.json",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v0/characters/character-profile"
+        },
+        "CharacterProfileID": {
+            "type": "integer"
+        },
+        "CharacterID": {
+            "type": "integer"
+        },
+        "CPTitle": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 30
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "CPPictureID": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 15
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "CPName": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 50
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "CPDate": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "CPDefault": {
+            "type": "integer"
+        },
+        "CPRaceTitle": {
+            "oneOf": [
+                {
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "CPChatTag": {
+            "type": "string",
+            "maxLength": 25
+        },
+        "CPChatTagOff": {
+            "type": "integer"
+        }
+    },
+    "required": [
+        "$type",
+        "CharacterProfileID",
+        "CPDate",
+        "CPChatTag",
+        "CPChatTagOff"
+    ],
+    "title": "CharacterProfile"
+}

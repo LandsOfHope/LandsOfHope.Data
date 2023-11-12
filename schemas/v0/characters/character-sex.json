@@ -1,0 +1,9 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v0/characters/character-sex.json",
+    "enum": [
+        "U",
+        "F",
+        "M"
+    ],
+    "title": "CharacterSex"
+}
