@@ -1,0 +1,584 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v0/characters/character.json",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v0/characters/character"
+        },
+        "CharacterID": {
+            "type": "integer"
+        },
+        "CharacterName": {
+            "type": "string",
+            "maxLength": 50
+        },
+        "NPC": {
+            "type": "integer"
+        },
+        "Player": {
+            "type": "integer"
+        },
+        "Monster": {
+            "type": "integer"
+        },
+        "Sex": {
+            "$ref": "/schemas/v0/characters/character-sex.json"
+        },
+        "RaceID": {
+            "type": "integer"
+        },
+        "ProfessionID": {
+            "type": "integer"
+        },
+        "UserPword": {
+            "type": "string",
+            "maxLength": 10
+        },
+        "Experience": {
+            "type": "integer"
+        },
+        "Level": {
+            "type": "integer"
+        },
+        "Title": {
+            "type": "string"
+        },
+        "MapX": {
+            "type": "integer"
+        },
+        "MapY": {
+            "type": "integer"
+        },
+        "Credits": {
+            "type": "integer"
+        },
+        "KillCount": {
+            "type": "integer"
+        },
+        "SiegeCount": {
+            "type": "integer"
+        },
+        "DeathCount": {
+            "type": "integer"
+        },
+        "PKCount": {
+            "type": "integer"
+        },
+        "MasterCharacterID": {
+            "type": "integer"
+        },
+        "System": {
+            "type": "integer"
+        },
+        "MountedCharacterID": {
+            "type": "integer"
+        },
+        "Visible": {
+            "type": "integer"
+        },
+        "GuildID": {
+            "type": "integer"
+        },
+        "GuildJoined": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "Following": {
+            "type": "integer"
+        },
+        "GuildLevel": {
+            "type": "integer"
+        },
+        "GuildTitle": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 40
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "GuildFame": {
+            "type": "number"
+        },
+        "OrigName": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 60
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "OrigSex": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v0/characters/character-sex.json"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "OrigRaceID": {
+            "type": "integer"
+        },
+        "OrigProfessionID": {
+            "type": "integer"
+        },
+        "OrigTitle": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 30
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "SummonerID": {
+            "type": "integer"
+        },
+        "GameID": {
+            "type": "integer"
+        },
+        "CompletedQuests": {
+            "type": "integer"
+        },
+        "Bounty": {
+            "type": "number"
+        },
+        "TransactionID": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 17
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "LastActive": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "Jailed": {
+            "type": "integer"
+        },
+        "ReleaseDate": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v0/datetime.json"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "Dead": {
+            "type": "integer"
+        },
+        "Quest": {
+            "type": "integer"
+        },
+        "PosessedID": {
+            "type": "integer"
+        },
+        "DuelCount": {
+            "type": "integer"
+        },
+        "AvACount": {
+            "type": "integer"
+        },
+        "PictureID": {
+            "type": "string",
+            "maxLength": 15
+        },
+        "LastChange": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "LastAlter": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "Crimes": {
+            "type": "integer"
+        },
+        "Building": {
+            "type": "integer"
+        },
+        "ActiveFactionID": {
+            "type": "integer"
+        },
+        "GroupID": {
+            "type": "integer"
+        },
+        "LastDied": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "LastResurrected": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "SpecialBonus": {
+            "type": "integer"
+        },
+        "Mayor": {
+            "type": "integer"
+        },
+        "QuestID": {
+            "type": "integer"
+        },
+        "Tutorial": {
+            "type": "integer"
+        },
+        "Upgrade1": {
+            "type": "integer"
+        },
+        "Upgrade2": {
+            "type": "integer"
+        },
+        "OA": {
+            "type": "integer"
+        },
+        "QueueBonus": {
+            "type": "integer"
+        },
+        "PetBonus": {
+            "type": "integer"
+        },
+        "BuildingBonus": {
+            "type": "integer"
+        },
+        "VM": {
+            "type": "integer"
+        },
+        "AltPictureID": {
+            "type": "string",
+            "maxLength": 15
+        },
+        "AltPictureID2": {
+            "type": "string",
+            "maxLength": 15
+        },
+        "OrigItemID": {
+            "type": "integer"
+        },
+        "OrigSpellID": {
+            "type": "integer"
+        },
+        "OrigAllegiance": {
+            "type": "integer"
+        },
+        "OrigMaterial": {
+            "type": "string",
+            "maxLength": 25
+        },
+        "BonusCurrency": {
+            "type": "number"
+        },
+        "HeldCurrency": {
+            "type": "number"
+        },
+        "BornDate": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "Server": {
+            "type": "integer"
+        },
+        "AllowTame": {
+            "type": "boolean"
+        },
+        "CharacterStatus": {
+            "type": "integer"
+        },
+        "AllowedArmor": {
+            "type": "integer"
+        },
+        "Looter": {
+            "type": "integer"
+        },
+        "PetPrice": {
+            "type": "number"
+        },
+        "Allegiance": {
+            "type": "integer"
+        },
+        "AllegianceValue": {
+            "type": "integer"
+        },
+        "AllegianceRank": {
+            "type": "integer"
+        },
+        "AllegianceTitle": {
+            "type": "string",
+            "maxLength": 20
+        },
+        "Discoveries": {
+            "type": "integer"
+        },
+        "FirstRaceID": {
+            "type": "integer"
+        },
+        "FirstProfessionID": {
+            "type": "integer"
+        },
+        "AccountID": {
+            "type": "integer"
+        },
+        "DungeonMaster": {
+            "type": "integer"
+        },
+        "DungeonKills": {
+            "type": "integer"
+        },
+        "DungeonDeaths": {
+            "type": "integer"
+        },
+        "VisibleStealthed": {
+            "type": "integer"
+        },
+        "VisibleDead": {
+            "type": "integer"
+        },
+        "ForSale": {
+            "type": "integer"
+        },
+        "BankBonus": {
+            "type": "integer"
+        },
+        "Captures": {
+            "type": "integer"
+        },
+        "UnresolvedFights": {
+            "type": "integer"
+        },
+        "FontColor": {
+            "type": "string",
+            "maxLength": 6
+        },
+        "FontSize": {
+            "type": "integer"
+        },
+        "FontName": {
+            "type": "string",
+            "maxLength": 15
+        },
+        "CharacterMenu": {
+            "type": "integer"
+        },
+        "TownMapID": {
+            "type": "integer"
+        },
+        "ScriptID": {
+            "type": "integer"
+        },
+        "SkillValue1": {
+            "type": "integer"
+        },
+        "SkillValue2": {
+            "type": "integer"
+        },
+        "DM": {
+            "type": "integer"
+        },
+        "LegendToken": {
+            "type": "integer"
+        },
+        "LegendTotalTokens": {
+            "type": "integer"
+        },
+        "VisibleLevel": {
+            "type": "integer"
+        },
+        "Taunt": {
+            "type": "integer"
+        },
+        "LastLogout": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v0/datetime.json"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "PlayerLegend": {
+            "type": "integer"
+        },
+        "PKCountTotal": {
+            "type": "integer"
+        },
+        "EOff": {
+            "type": "integer"
+        },
+        "LastPlayerKilled": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v0/datetime.json"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "LastLevelled": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "SubLevel": {
+            "type": "integer"
+        },
+        "SubLevelPoints": {
+            "type": "integer"
+        },
+        "Thefts": {
+            "type": "integer"
+        },
+        "UnreadMail": {
+            "type": "integer"
+        },
+        "Spawner": {
+            "type": "integer"
+        },
+        "LastDiedBuilding": {
+            "type": "integer"
+        },
+        "AllowRide": {
+            "type": "boolean"
+        },
+        "TreasureHuntTotal": {
+            "type": "integer"
+        },
+        "ActualClass": {
+            "type": "string",
+            "maxLength": 15
+        },
+        "LootMoneyBonus": {
+            "type": "number"
+        },
+        "LootItemBonus": {
+            "type": "integer"
+        },
+        "GuildMessages": {
+            "type": "integer"
+        },
+        "AllegianceMessages": {
+            "type": "integer"
+        },
+        "QueueTimeBonus": {
+            "type": "integer"
+        },
+        "QueueItemBonus": {
+            "type": "integer"
+        },
+        "PirateNotoriety": {
+            "type": "integer"
+        },
+        "PirateFame": {
+            "type": "integer"
+        },
+        "PirateMoney": {
+            "type": "number"
+        },
+        "PirateRank": {
+            "type": "integer"
+        },
+        "CurrentFactionID": {
+            "type": "integer"
+        },
+        "HasPets": {
+            "type": "integer"
+        },
+        "PvPFame": {
+            "type": "integer"
+        },
+        "PvPRank": {
+            "type": "integer"
+        },
+        "PVPStatus": {
+            "type": "integer"
+        },
+        "PvPDate": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "BeenPossessed": {
+            "type": "integer"
+        },
+        "DemonPower": {
+            "type": "integer"
+        },
+        "StableSlots": {
+            "type": "integer"
+        },
+        "QuestOrTrophy": {
+            "type": "integer"
+        },
+        "MobileCharacter": {
+            "type": "integer"
+        },
+        "MobileFilter": {
+            "type": "integer"
+        }
+    },
+    "required": [
+        "$type",
+        "CharacterID",
+        "NPC",
+        "Player",
+        "Monster",
+        "MapX",
+        "MapY",
+        "System",
+        "Visible",
+        "Following",
+        "Jailed",
+        "Dead",
+        "Quest",
+        "PictureID",
+        "ActiveFactionID",
+        "GroupID",
+        "SpecialBonus",
+        "Mayor",
+        "QuestID",
+        "Tutorial",
+        "Upgrade1",
+        "Upgrade2",
+        "OA",
+        "QueueBonus",
+        "PetBonus",
+        "BuildingBonus",
+        "VM",
+        "AltPictureID",
+        "AltPictureID2",
+        "OrigItemID",
+        "OrigSpellID",
+        "OrigAllegiance",
+        "OrigMaterial",
+        "BonusCurrency",
+        "HeldCurrency",
+        "BornDate",
+        "Server",
+        "AllowTame",
+        "CharacterStatus",
+        "AllowedArmor",
+        "Looter",
+        "PetPrice",
+        "Allegiance",
+        "AllegianceValue",
+        "AllegianceRank",
+        "AllegianceTitle",
+        "Discoveries",
+        "FirstRaceID",
+        "FirstProfessionID",
+        "DungeonMaster",
+        "DungeonKills",
+        "DungeonDeaths",
+        "VisibleStealthed",
+        "VisibleDead"
+    ],
+    "title": "Character"
+}
