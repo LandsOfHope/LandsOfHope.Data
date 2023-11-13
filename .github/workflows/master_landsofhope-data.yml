@@ -43,10 +43,12 @@ jobs:
         run: docker run --rm -v $PWD/schemas:/schemas -v $PWD/api:/api -v $PWD/.scripts/generate_api_ts.sh:/generate_api_ts.sh node sh generate_api_ts.sh
       - name: generate health file
         run: node .scripts/generate_health.js
+      - run: pip install s3cmd
       - name: Publish
-        run: aws s3 sync . s3://lohdata --endpoint-url ${{ secrets.AWS_ENDPOINT_URL }} --delete --exclude ".*" --exclude "*/.*"
+        run: s3cmd sync --no-mime-magic --guess-mime-type --access_key=${{ secrets.AWS_ACCESS_KEY_ID }} --secret_key=${{ secrets.AWS_SECRET_ACCESS_KEY }} --host=${{ secrets.AWS_ENDPOINT_URL }} --host-bucket=${{ secrets.AWS_ENDPOINT_URL }} --bucket-location=auto --delete-removed --delete-after --no-preserve --recursive --rexclude "^\..*$" . 's3://lohdata'
+        # run: aws s3 sync . s3://lohdata --endpoint-url ${{ secrets.AWS_ENDPOINT_URL }} --delete --exclude ".*" --exclude "*/.*"
         if: ${{ github.ref == 'refs/heads/master' }}
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: "auto"
+        # env:
+        #   AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        #   AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        #   AWS_DEFAULT_REGION: "auto"
