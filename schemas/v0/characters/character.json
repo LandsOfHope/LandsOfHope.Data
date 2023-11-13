@@ -527,6 +527,8 @@
     "required": [
         "$type",
         "CharacterID",
+        "CharacterName",
+        "Sex",
         "NPC",
         "Player",
         "Monster",
