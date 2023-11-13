@@ -1,0 +1,258 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v0/accounts/account.json",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v0/accounts/account"
+        },
+        "AccountID": {
+            "type": "integer"
+        },
+        "AccountName": {
+            "type": "string",
+            "maxLength": 36
+        },
+        "AccountEmail": {
+            "type": "string",
+            "maxLength": 50
+        },
+        "TransactionID": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 50
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "System": {
+            "type": "integer"
+        },
+        "LastActive": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "FirstActive": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "Banned": {
+            "oneOf": [
+                {
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "BannedDate": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v0/datetime.json"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "LastIPAddress1": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 16
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "Type": {
+            "type": "integer"
+        },
+        "P2PDate": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "Donation": {
+            "type": "integer"
+        },
+        "Slots": {
+            "type": "integer"
+        },
+        "Referrer": {
+            "type": "integer"
+        },
+        "Dollars": {
+            "type": "number"
+        },
+        "InstallPath": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 65
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "BoughtRaces": {
+            "type": "string",
+            "maxLength": 65
+        },
+        "BoughtProfs": {
+            "type": "string",
+            "maxLength": 65
+        },
+        "CanEmail": {
+            "type": "integer"
+        },
+        "EmailVerified": {
+            "type": "integer"
+        },
+        "EVC": {
+            "type": "string",
+            "maxLength": 20
+        },
+        "FoundHow": {
+            "type": "integer"
+        },
+        "TrialPeriod": {
+            "type": "integer"
+        },
+        "EmailStatus": {
+            "type": "integer"
+        },
+        "PaidAmount": {
+            "type": "integer"
+        },
+        "Theme": {
+            "type": "string",
+            "maxLength": 20
+        },
+        "WebPaid": {
+            "type": "integer"
+        },
+        "WebMode": {
+            "type": "integer"
+        },
+        "AccountPermission": {
+            "type": "integer"
+        },
+        "LastPatchInstalled": {
+            "type": "number"
+        },
+        "CountryCode": {
+            "type": "string",
+            "maxLength": 2
+        },
+        "DateofBirth": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "ChatIsDisabled": {
+            "type": "integer"
+        },
+        "CharactersOnAccount": {
+            "type": "integer"
+        },
+        "ExpansionPacks": {
+            "type": "string",
+            "maxLength": 10
+        },
+        "CardLimit": {
+            "type": "integer"
+        },
+        "CanEmailAuction": {
+            "type": "integer"
+        },
+        "AccountChatOff": {
+            "type": "integer"
+        },
+        "FiveCount": {
+            "type": "integer"
+        },
+        "ReferralPoints": {
+            "type": "integer"
+        },
+        "ReferralGoldPoints": {
+            "type": "integer"
+        },
+        "MainStyle": {
+            "type": "integer"
+        },
+        "AccountCredits": {
+            "type": "integer"
+        },
+        "NewspaperPoints": {
+            "type": "integer"
+        },
+        "TotalNewspaperPoints": {
+            "type": "integer"
+        },
+        "WindowDetails": {
+            "type": "string",
+            "maxLength": 1000
+        },
+        "MiniCredits": {
+            "type": "integer"
+        },
+        "OldPassword": {
+            "type": "string",
+            "maxLength": 20
+        },
+        "OldPasswordReset": {
+            "type": "integer"
+        },
+        "AccountPassword": {
+            "type": "string",
+            "maxLength": 50
+        },
+        "Reward": {
+            "type": "integer"
+        },
+        "FacebookID": {
+            "type": "string",
+            "maxLength": 50
+        }
+    },
+    "required": [
+        "$type",
+        "AccountID",
+        "AccountName",
+        "AccountEmail",
+        "System",
+        "Type",
+        "Donation",
+        "Referrer",
+        "Dollars",
+        "EmailVerified",
+        "FoundHow",
+        "TrialPeriod",
+        "EmailStatus",
+        "PaidAmount",
+        "Theme",
+        "WebPaid",
+        "WebMode",
+        "AccountPermission",
+        "LastPatchInstalled",
+        "CountryCode",
+        "ChatIsDisabled",
+        "CharactersOnAccount",
+        "ExpansionPacks",
+        "CardLimit",
+        "CanEmailAuction",
+        "AccountChatOff",
+        "FiveCount",
+        "ReferralPoints",
+        "ReferralGoldPoints",
+        "MainStyle",
+        "AccountCredits",
+        "NewspaperPoints",
+        "TotalNewspaperPoints",
+        "WindowDetails",
+        "MiniCredits",
+        "AccountPassword"
+    ],
+    "title": "Account"
+}
