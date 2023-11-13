@@ -98,12 +98,26 @@
             ]
         },
         "BoughtRaces": {
-            "type": "string",
-            "maxLength": 65
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 65
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "BoughtProfs": {
-            "type": "string",
-            "maxLength": 65
+            "oneOf": [
+                {
+                    "type": "string",
+                    "maxLength": 65
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "CanEmail": {
             "type": "integer"
