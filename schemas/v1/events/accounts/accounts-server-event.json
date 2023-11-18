@@ -1,0 +1,10 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/accounts-server-event.json",
+    "title": "AccountsServerEvent",
+    "type": "object",
+    "oneOf": [
+        {
+            "$ref": "/schemas/v1/events/accounts/returning-account-imported.json"
+        }
+    ]
+}
