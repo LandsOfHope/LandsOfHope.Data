@@ -1,0 +1,27 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/returning-account-imported.json",
+    "title": "ReturningAccountImportedEvent",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/events/accounts/returning-account-imported"
+        },
+        "username": {
+            "type": "string"
+        },
+        "email": {
+            "type": "string"
+        },
+        "returningPlayerAccountToken": {
+            "type": "string",
+            "pattern": "^ret_[0-9a-f]{8}-?[0-9a-f]{4}-?[0-9a-f]{4}-?[0-9a-f]{4}-?[0-9a-f]{12}$"
+        }
+    },
+    "required": [
+        "$type",
+        "username",
+        "email",
+        "returningPlayerAccountToken"
+    ]
+}
