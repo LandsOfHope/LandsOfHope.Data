@@ -10,6 +10,12 @@
         "signup": {
             "$ref": "/schemas/v1/accounts/signup/account-sign-up.json"
         },
+        "originalUsername": {
+            "type": "string"
+        },
+        "originalEmail": {
+            "type": "string"
+        },
         "token": {
             "type": "string"
         }
@@ -17,6 +23,8 @@
     "required": [
         "$type",
         "signup",
-        "token"
+        "token",
+        "originalUsername",
+        "originalEmail"
     ]
 }
