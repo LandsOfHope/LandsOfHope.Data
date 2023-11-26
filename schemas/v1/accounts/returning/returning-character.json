@@ -11,7 +11,7 @@
             "type": "string"
         },
         "profession": {
-            "type": "string"
+            "$ref": "/schemas/v1/professions-id.json"
         },
         "sex": {
             "enum": [
