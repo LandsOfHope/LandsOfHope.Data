@@ -1,0 +1,36 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/returning/returning-character.json",
+    "title": "ReturningCharacter",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/accounts/returning/returning-character"
+        },
+        "name": {
+            "type": "string"
+        },
+        "profession": {
+            "type": "string"
+        },
+        "sex": {
+            "enum": [
+                "M",
+                "F"
+            ]
+        },
+        "images": {
+            "type": "array",
+            "items": {
+                "$ref": "/schemas/v1/characters/images-id.json"
+            }
+        }
+    },
+    "required": [
+        "$type",
+        "name",
+        "profession",
+        "sex",
+        "images"
+    ]
+}
