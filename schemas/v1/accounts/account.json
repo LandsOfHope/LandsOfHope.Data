@@ -8,7 +8,7 @@
             "const": "/v1/accounts/account"
         },
         "uid": {
-            "$ref": "/schemas/v1/uuid.json"
+            "$ref": "/schemas/v1/accounts/account-id.json"
         },
         "secret": {
             "$ref": "/schemas/v1/accounts/account-secret.json"
