@@ -1,6 +1,6 @@
 {
     "$id": "https://data.landsofhope.com/schemas/v1/chat/chat-participant-id.json",
     "type": "string",
-    "pattern": "chatpartid_[a-zA-Z0-9_\\-]+",
+    "pattern": "^chatpartid_[a-zA-Z0-9_\\-]+$",
     "title": "ChatParticipantId"
 }
