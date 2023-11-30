@@ -1,0 +1,30 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-account.json",
+    "title": "CognitoAccount",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/accounts/cognito/cognito-account"
+        },
+        "sub": {
+            "$ref": "/schemas/v1/accounts/cognito/cognito-account-id.json"
+        },
+        "username": {
+            "type": "string"
+        },
+        "email": {
+            "type": "string"
+        },
+        "created": {
+            "$ref": "/schemas/v0/datetime.json"
+        }
+    },
+    "required": [
+        "$type",
+        "sub",
+        "username",
+        "email",
+        "created"
+    ]
+}

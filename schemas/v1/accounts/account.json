@@ -1,0 +1,32 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/account.json",
+    "title": "Account",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/accounts/account"
+        },
+        "uid": {
+            "$ref": "/schemas/v1/uuid.json"
+        },
+        "secret": {
+            "type": "string",
+            "pattern": "[0-9a-fA-F]{16}"
+        },
+        "username": {
+            "type": "string",
+            "minLength": 1
+        },
+        "created": {
+            "$ref": "/schemas/v0/datetime.json"
+        }
+    },
+    "required": [
+        "$type",
+        "uid",
+        "secret",
+        "username",
+        "created"
+    ]
+}
