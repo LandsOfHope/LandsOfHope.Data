@@ -11,8 +11,7 @@
             "$ref": "/schemas/v1/uuid.json"
         },
         "secret": {
-            "type": "string",
-            "pattern": "^[0-9a-fA-F]{32,50}$"
+            "$ref": "/schemas/v1/accounts/account-secret.json"
         },
         "username": {
             "type": "string",
