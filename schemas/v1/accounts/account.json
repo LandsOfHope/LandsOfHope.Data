@@ -12,7 +12,7 @@
         },
         "secret": {
             "type": "string",
-            "pattern": "[0-9a-fA-F]{32}"
+            "pattern": "^[0-9a-fA-F]{32,50}$"
         },
         "username": {
             "type": "string",
