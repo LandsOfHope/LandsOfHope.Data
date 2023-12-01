@@ -10,12 +10,11 @@
         "uid": {
             "$ref": "/schemas/v1/accounts/account-id.json"
         },
+        "primarySource": {
+            "$ref": "/schemas/v1/accounts/account-source.json"
+        },
         "secret": {
             "$ref": "/schemas/v1/accounts/account-secret.json"
-        },
-        "username": {
-            "type": "string",
-            "minLength": 1
         },
         "created": {
             "$ref": "/schemas/v0/datetime.json"
@@ -24,8 +23,8 @@
     "required": [
         "$type",
         "uid",
+        "primarySource",
         "secret",
-        "username",
         "created"
     ]
 }
