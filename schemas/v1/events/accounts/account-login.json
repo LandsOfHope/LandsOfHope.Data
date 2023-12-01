@@ -1,0 +1,22 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/account-login.json",
+    "title": "AccountLoginEvent",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/events/accounts/account-login"
+        },
+        "source": {
+            "$ref": "/schemas/v1/accounts/account-source.json"
+        },
+        "idToken": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "$type",
+        "source",
+        "idToken"
+    ]
+}
