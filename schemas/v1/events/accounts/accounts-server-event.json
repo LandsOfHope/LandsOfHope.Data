@@ -5,6 +5,9 @@
     "oneOf": [
         {
             "$ref": "/schemas/v1/events/accounts/returning-account-imported.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/accounts/account-login.json"
         }
     ]
 }
