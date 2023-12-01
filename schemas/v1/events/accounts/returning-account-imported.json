@@ -14,8 +14,7 @@
             "type": "string"
         },
         "returningPlayerAccountToken": {
-            "type": "string",
-            "pattern": "^ret_[0-9a-f]{8}-?[0-9a-f]{4}-?[0-9a-f]{4}-?[0-9a-f]{4}-?[0-9a-f]{12}$"
+            "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
         }
     },
     "required": [

@@ -17,7 +17,7 @@
             "type": "string"
         },
         "token": {
-            "type": "string"
+            "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
         }
     },
     "required": [
