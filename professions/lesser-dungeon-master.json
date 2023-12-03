@@ -1,0 +1,27 @@
+{
+    "name": {
+        "en": "Lesser Dungone Master"
+    },
+    "desc": {
+        "en": "The lord of the dungeon."
+    },
+    "skills": {
+        "armor": 5,
+        "attack-power": 5,
+        "pole-defense": 5,
+        "dual-wielding": 5,
+        "stringed-defense": 5,
+        "bludgeon-defense": 5,
+        "h2h-defense": 5,
+        "projectile-defense": 5,
+        "bladed-defense": 5,
+        "terror": 5,
+        "health-stealing": 5,
+        "mana-draining": 5,
+        "first-aid": 5,
+        "mystical-resistance": 5,
+        "mystical-magic": 5,
+        "water-magic": 5
+    },
+    "evo": {}
+}
