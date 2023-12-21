@@ -11,7 +11,7 @@
             "type": "string"
         },
         "email": {
-            "type": "string"
+            "$ref": "/schemas/v1/email-address.json"
         },
         "returningPlayerAccountToken": {
             "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"

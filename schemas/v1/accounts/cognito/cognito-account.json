@@ -14,7 +14,7 @@
             "type": "string"
         },
         "email": {
-            "type": "string"
+            "$ref": "/schemas/v1/email-address.json"
         },
         "created": {
             "$ref": "/schemas/v0/datetime.json"
