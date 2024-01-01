@@ -14,7 +14,7 @@
             "type": "string"
         },
         "originalEmail": {
-            "type": "string"
+            "$ref": "/schemas/v1/email-address.json"
         },
         "token": {
             "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"

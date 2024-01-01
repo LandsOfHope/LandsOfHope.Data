@@ -8,7 +8,7 @@
             "const": "/v1/accounts/signup/account-sign-up"
         },
         "email": {
-            "type": "string"
+            "$ref": "/schemas/v1/email-address.json"
         },
         "username": {
             "type": "string"
