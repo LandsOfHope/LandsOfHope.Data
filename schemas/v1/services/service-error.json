@@ -1,0 +1,17 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/services/service-error.json",
+    "title": "ServiceError",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/services/service-error"
+        },
+        "code": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "$type",
+        "code"
+    ]
+}
