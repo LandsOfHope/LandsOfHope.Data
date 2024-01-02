@@ -1,0 +1,27 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/professions/profession-evolution-graph.json",
+    "title": "ProfessionEvolutionGraph",
+    "type": "object",
+    "properties": {
+        "edges": {
+            "type": "array",
+            "items": {
+                "type": "array",
+                "minItems": 2,
+                "maxItems": 2,
+                "items": [
+                    {
+                        "$ref": "/schemas/v1/professions-id.json"
+                    },
+                    {
+                        "$ref": "/schemas/v1/professions-id.json"
+                    }
+                ]
+            }
+        }
+    },
+    "required": [
+        "edges"
+    ],
+    "additionalProperties": false
+}

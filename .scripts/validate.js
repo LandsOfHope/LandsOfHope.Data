@@ -113,6 +113,8 @@ const main = async function () {
     validateAll("schemas/v1/stats/ranking.json", "stats/rankings/!(all|all.inline).json"),
     validateAll("schemas/v1/stats/stat-category.json", "stats/stat-categories/!(all|all.inline).json"),
     validateAll("schemas/v1/services/service.json", "./package.json"),
+    validateAll("schemas/v1/professions/profession-evolution-graph.json", "professions/evolution/profession-evolution.json"),
+    validateAll("schemas/v1/races/race-evolution-graph.json", "races/evolution/race-evolution.json"),
 
     validateTestData("v1/characters/appearance-profile"),
     validateTestData("v1/characters/character-id"),
