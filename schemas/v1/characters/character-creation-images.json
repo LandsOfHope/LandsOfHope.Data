@@ -1,0 +1,40 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-creation-images.json",
+    "title": "CharacterCreationImages",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/character-creation-images"
+        },
+        "M": {
+            "type": "object",
+            "patternProperties": {
+                ".*": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "/schemas/v1/characters/images-id.json"
+                    }
+                }
+            },
+            "additionalProperties": false
+        },
+        "F": {
+            "type": "object",
+            "patternProperties": {
+                ".*": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "/schemas/v1/characters/images-id.json"
+                    }
+                }
+            },
+            "additionalProperties": false
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "M",
+        "F"
+    ]
+}

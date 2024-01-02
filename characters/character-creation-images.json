@@ -1,0 +1,51 @@
+{
+    "$type": "/v1/characters/character-creation-images",
+    "M": {
+        "sohum": [
+            "sohum1",
+            "sohum2",
+            "sohum3",
+            "sohum4",
+            "sohum5",
+            "sohum6"
+        ],
+        "blam": [
+            "blam1",
+            "blam2",
+            "blam3",
+            "blam4",
+            "blam5"
+        ],
+        "asim": [
+            "asim1",
+            "asim2",
+            "asim3",
+            "asim4",
+            "asim5"
+        ]
+    },
+    "F": {
+        "sohuf": [
+            "sohuf1",
+            "sohuf2",
+            "sohuf3",
+            "sohuf4",
+            "sohuf5",
+            "sohuf6"
+        ],
+        "blaf": [
+            "blaf1",
+            "blaf2",
+            "blaf3",
+            "blaf4",
+            "blaf5"
+        ],
+        "asif": [
+            "asif1",
+            "asif2",
+            "asif3",
+            "asif4",
+            "asif5"
+        ]
+    }
+}
