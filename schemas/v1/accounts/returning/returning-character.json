@@ -32,6 +32,7 @@
     "required": [
         "$type",
         "name",
+        "race",
         "profession",
         "sex",
         "images"
