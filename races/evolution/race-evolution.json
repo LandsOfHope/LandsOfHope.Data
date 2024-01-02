@@ -1,0 +1,64 @@
+{
+    "$type": "/v1/races/race-evolution-graph",
+    "edges": [
+        ["human", "gnome"],
+        ["human", "elf"],
+        ["human", "dwarf"],
+        ["human", "halfling"],
+        ["human", "centaur"],
+
+        ["gnome", "goblin"],
+        ["goblin", "troll"],
+        ["troll", "sithanu"],
+
+        ["elf", "pixie"],
+        ["pixie", "lemurian"],
+        ["lemurian", "gyrian"],
+        
+        ["dwarf", "orc"],
+        ["orc", "ogre"],
+        ["ogre", "giant"],
+
+        ["halfling", "gelfling"],
+        ["gelfling", "moorlank"],
+        ["moorlank", "gorgon"],
+
+        ["centaur", "gryphon"],
+
+        ["necryte", "feralkin"],
+        ["necryte", "specter"],
+        ["necryte", "banshee"],
+        ["necryte", "mummy"],
+        ["necryte", "ghoul"],
+
+        ["feralkin", "werewolf"],
+        ["werewolf", "shadow"],
+        ["shadow", "hellspawn"],
+
+        ["banshee", "gibber"],
+        ["gibber", "ghast"],
+        ["ghast", "fury"],
+        
+        ["ghoul", "nightstalker"],
+        ["nightstalker", "vampire"],
+        ["vampire", "bloodmaster"],
+
+        ["mummy", "zombie"],
+        ["zombie", "wraith"],
+        ["wraith", "horror"],
+
+        ["specter", "skaven"],
+        ["skaven", "revenant"],
+        ["revenant", "fiend"],
+
+        ["watuman", "mermaid"],
+        ["mermaid", "turtle"],
+        ["turtle", "killer-whale"],
+        ["killer-whale", "water-wisp"],
+        
+        ["sea-wretch", "drowned-wretch"],
+        ["drowned-wretch", "death-lurer"],
+        ["death-lurer", "sea-spirit"],
+        ["sea-spirit", "mist-dweller"]
+    ]
+}

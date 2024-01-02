@@ -1,0 +1,113 @@
+{
+    "$type": "/v1/professions/profession-evolution-graph",
+    "edges": [
+        ["archer", "scout"],
+        ["archer", "trooper"],
+        ["archer", "tracker"],
+
+        ["scout", "beastmaster"],
+        ["beastmaster", "ranger"],
+
+        ["trooper", "sharpshooter"],
+        ["sharpshooter", "bombadier"],
+
+        ["tracker", "hunter"],
+        ["hunter", "beastlord"],
+
+        ["caster", "invoker"],
+        ["caster", "mage"],
+        ["caster", "shaman"],
+
+        ["invoker", "summoner"],
+        ["summoner", "warlock"],
+
+        ["mage", "elementalist"],
+        ["elementalist", "wizard"],
+        
+        ["shaman", "necromancer"],
+        ["necromancer", "dark-lord"],
+
+        ["fighter", "squire"],
+        ["fighter", "warrior"],
+        ["fighter", "grunt"],
+
+        ["squire", "knight"],
+        ["knight", "paladin"],
+
+        ["warrior", "berserker"],
+        ["berserker", "warlord"],
+
+        ["grunt", "soldier"],
+        ["soldier", "veteran"],
+
+        ["healer", "cleric"],
+        ["healer", "friar"],
+        ["healer", "protector"],
+
+        ["cleric", "priest"],
+        ["priest", "arch-priest"],
+
+        ["friar", "monk"],
+        ["monk", "abbot"],
+
+        ["protector", "paladin"],
+        ["paladin", "crusader"],
+
+        ["rogue", "pickpocket"],
+        ["rogue", "shadowstalker"],
+        ["rogue", "trickster"],
+
+        ["pickpocket", "thief"],
+        ["thief", "crimelord"],
+
+        ["shadowstalker", "assassin"],
+        ["assassin", "killer"],
+
+        ["trickster", "deceiver"],
+        ["deceiver", "bard"],
+
+        ["hermit", "diviner"],
+        ["diviner", "warden"],
+        ["warden", "druid"],
+
+        ["salvager", "adventurer"],
+        ["adventurer", "treasure-hunter"],
+        ["treasure-hunter", "archaeologist"],
+
+        ["hag", "enchantress"],
+        ["enchantress", "temptress"],
+        ["temptress", "witch"],
+
+        ["farmer", "spy"],
+        ["farmer", "conscript"],
+
+        ["spy", "denshi"],
+        ["denshi", "ninja"],
+
+        ["conscript", "samurai"],
+        ["samurai", "shogun"],
+
+        ["hermit", "diviner"],
+        ["diviner", "warden"],
+
+        ["stargazer", "stardreamer"],
+        ["stardreamer", "starchaser"],
+        ["starchaser", "star-catcher"],
+
+        ["league-privateer", "buccaneer"],
+        ["buccaneer", "raider"],
+        ["raider", "pirate"],
+
+        ["navy-privateer", "sailor"],
+        ["sailor", "swashbuckler"],
+        ["swashbuckler", "pirate-hunter"],
+
+        ["apprentice", "novice"],
+        ["novice", "adept"],
+        ["adept", "master"],
+
+        ["animator", "shaper"],
+        ["shaper", "manipulator"],
+        ["manipulator", "geomancer"]
+    ]
+}

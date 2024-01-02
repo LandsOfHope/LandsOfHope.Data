@@ -1,0 +1,31 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/races/race-evolution-graph.json",
+    "title": "RaceEvolutionGraph",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/races/race-evolution-graph"
+        },
+        "edges": {
+            "type": "array",
+            "items": {
+                "type": "array",
+                "minItems": 2,
+                "additionalItems": false,
+                "items": [
+                    {
+                        "$ref": "/schemas/v1/races-id.json"
+                    },
+                    {
+                        "$ref": "/schemas/v1/races-id.json"
+                    }
+                ]
+            }
+        }
+    },
+    "required": [
+        "$type",
+        "edges"
+    ],
+    "additionalProperties": false
+}
