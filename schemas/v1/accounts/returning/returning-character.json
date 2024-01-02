@@ -10,6 +10,9 @@
         "name": {
             "type": "string"
         },
+        "race": {
+            "$ref": "/schemas/v1/races-id.json"
+        },
         "profession": {
             "$ref": "/schemas/v1/professions-id.json"
         },
