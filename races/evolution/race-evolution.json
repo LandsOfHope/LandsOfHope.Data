@@ -1,4 +1,5 @@
 {
+    "$type": "/v1/races/race-evolution-graph",
     "edges": [
         ["human", "gnome"],
         ["human", "elf"],

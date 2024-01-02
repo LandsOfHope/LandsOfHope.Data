@@ -1,4 +1,5 @@
 {
+    "$type": "/v1/professions/profession-evolution-graph",
     "edges": [
         ["archer", "scout"],
         ["archer", "trooper"],

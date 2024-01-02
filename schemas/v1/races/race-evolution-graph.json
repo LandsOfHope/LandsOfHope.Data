@@ -3,6 +3,9 @@
     "title": "RaceEvolutionGraph",
     "type": "object",
     "properties": {
+        "$type": {
+            "const": "/v1/races/race-evolution-graph"
+        },
         "edges": {
             "type": "array",
             "items": {
@@ -21,6 +24,7 @@
         }
     },
     "required": [
+        "$type",
         "edges"
     ],
     "additionalProperties": false
