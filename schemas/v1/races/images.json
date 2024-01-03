@@ -7,6 +7,7 @@
             "properties": {
                 "M": {
                     "type": "array",
+                    "uniqueItems": true,
                     "items": {
                         "$ref": "/schemas/v1/characters/images-id.json"
                     }
@@ -28,6 +29,7 @@
             "properties": {
                 "U": {
                     "type": "array",
+                    "uniqueItems": true,
                     "items": {
                         "$ref": "/schemas/v1/characters/images-id.json"
                     }
