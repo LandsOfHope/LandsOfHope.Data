@@ -1,7 +1,7 @@
 {
     "$type": "/v1/characters/character-creation-images",
     "M": {
-        "sohum": [
+        "sohu": [
             "sohum1",
             "sohum2",
             "sohum3",
@@ -9,23 +9,45 @@
             "sohum5",
             "sohum6"
         ],
-        "blam": [
+        "bla": [
             "blam1",
             "blam2",
             "blam3",
             "blam4",
             "blam5"
         ],
-        "asim": [
+        "asi": [
             "asim1",
             "asim2",
             "asim3",
             "asim4",
             "asim5"
+        ],
+        "pirate": [
+            "pirate1",
+            "pirate2",
+            "pirate3",
+            "other4",
+            "other5",
+            "other6"
+        ],
+        "navy": [
+            "navy1",
+            "navy2",
+            "navy3",
+            "other4",
+            "other5",
+            "other6"
+        ],
+        "glad": [
+            "mjpgladm1",
+            "mjpgladm2",
+            "mjpgladm3",
+            "mjpgladm4"
         ]
     },
     "F": {
-        "sohuf": [
+        "sohu": [
             "sohuf1",
             "sohuf2",
             "sohuf3",
@@ -33,19 +55,51 @@
             "sohuf5",
             "sohuf6"
         ],
-        "blaf": [
+        "bla": [
             "blaf1",
             "blaf2",
             "blaf3",
             "blaf4",
             "blaf5"
         ],
-        "asif": [
+        "asi": [
             "asif1",
             "asif2",
             "asif3",
             "asif4",
             "asif5"
+        ],
+        "pirate": [
+            "pirate10",
+            "pirate9",
+            "pirate6",
+            "other1",
+            "other2",
+            "other3"
+        ],
+        "navy": [
+            "navy4",
+            "navy5",
+            "navy6",
+            "other1",
+            "other2",
+            "other3"
+        ],
+        "glad": [
+            "mjpgladf1",
+            "mjpgladf2",
+            "mjpgladf3",
+            "mjpgladf4"
+        ],
+        "hag": [
+            "mjphag",
+            "mjphag2",
+            "mjphag3",
+            "mjphag4",
+            "mjphag5",
+            "mjphag6",
+            "mjphag7",
+            "mjphag8"
         ]
     }
 }
