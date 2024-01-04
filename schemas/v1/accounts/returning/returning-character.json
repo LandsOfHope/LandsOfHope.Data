@@ -22,7 +22,10 @@
                 "F"
             ]
         },
-        "images": {
+        "currentImage": {
+            "$ref": "/schemas/v1/characters/images-id.json"
+        },
+        "importableImages": {
             "type": "array",
             "uniqueItems": true,
             "items": {
@@ -36,6 +39,7 @@
         "race",
         "profession",
         "sex",
-        "images"
+        "currentImage",
+        "importableImages"
     ]
 }
