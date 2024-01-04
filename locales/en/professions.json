@@ -1,0 +1,1494 @@
+{
+    "sharpshooter": {
+        "name": "Sharpshooter",
+        "desc": "The Sharpshooter is a Tier II evolution from the Archer Profession via Trooper, while keeping all of the Trooper's abilities the scout also gains the abilty to use <b>Two Handed Guns</b>."
+    },
+    "bombadier": {
+        "name": "Bombadier",
+        "desc": "The Bombadier is a Tier III evolution from the Archer Profession via Trooper > Sharpshooter, while keeping all of the Sharpshooter's abilities the Bombadier also gains the abilty to use <b>Heavy Munitions</b>."
+    },
+    "cleric": {
+        "name": "Cleric",
+        "desc": "The Cleric is a Tier I evolution from the Healer Profession, while keeping all of the Healers abilities the Cleric also gains the ability to use <b>Life</b> and <b>Curing magic </b> spells.<br><br> As with the Healer the Cleric can use Staves and Fists but also gains <b>Maces</b>."
+    },
+    "abbot": {
+        "name": "Abbot",
+        "desc": "The Abbot is a Tier III evolution from the Healer Profession via Friar > Monk, while keeping all of the Monks abilities the Abbot also gains the abilty to use <b>Blessing</b> magic spells."
+    },
+    "protector": {
+        "name": "Protector",
+        "desc": "The Protector is a Tier I evolution from the Healer Profession, while keeping all of the Healers abilities the Protector also gains the ability to use <b>Healing</b> items and <b>Protection magic </b> spells.<br><br> As with the Healer the Protector can use Staves and Fists but also gains <b>Two Handed Staves</b> and <b>Shields</b>."
+    },
+    "invoker": {
+        "name": "Invoker",
+        "desc": "The Invoker is a Tier I evolution from the Caster Profession, while keeping all of the Caster abilities the Invoker also gains the ability to use <b>Invocation magic</b> spells.<br><br> As with the Caster the Invoker can use Staves and Fists."
+    },
+    "warlock": {
+        "name": "Warlock",
+        "desc": "The Warlock is a Tier III evolution from the Caster Profession via Invoker > Summoner keeping all of the Summoners abilities the Warlock also gains the abilty to use <b>Demonology</b> magic and to use <b>Mana Draining</b>."
+    },
+    "dark-lord": {
+        "name": "Dark Lord",
+        "desc": "The Dark Lord is a Tier III evolution from the Caster Profession via Shaman > Necromancer keeping all of the Necromancers abilities the Dark Lord also gains the abilty to use <b>Dark</b> magic, <b>Mana Draining</b> and <b>Maces</b>."
+    },
+    "crusader": {
+        "name": "Crusader",
+        "desc": "The Crusader is a Tier III evolution from the Healer Profession via Protector > Paladin keeping all of the Paladins abilities the Crusader also gains the abilty to use <b>Divine Fury</b>."
+    },
+    "squire": {
+        "name": "Squire",
+        "desc": "The Squire is a Tier I evolution from the Fighter Profession, while keeping all of the Fighters abilities the Squire also gains the ability to use <b>Shields</b>.<br><br> As with the Fighter the Squire can use Axes, Swords, Daggers and Maces."
+    },
+    "knight": {
+        "name": "Knight",
+        "desc": "The Knight is a Tier II evolution from the Fighter Profession via squire, while keeping all of the Squires abilities the Knight also gains the abilty to use <b>Pole blades</b>, <b>Two Handed Shields</b>, <b>Two Handed Maces</b> and <b>Two Handed Swords</b>."
+    },
+    "grunt": {
+        "name": "Grunt",
+        "desc": "The Grunt is a Tier I evolution from the Fighter Profession, while keeping all of the Fighters abilities the Grunt also gains the ability to use <b>Shields</b> and <b>Hand Guns</b>.<br><br> As with the Fighter the Grunt can use Axes, Swords, Daggers and Maces."
+    },
+    "soldier": {
+        "name": "Soldier",
+        "desc": "The Soldier is a Tier II evolution from the Fighter Profession via Grunt."
+    },
+    "veteran": {
+        "name": "Veteran",
+        "desc": "The Veteran is a Tier III evolution from the Fighter Profession via Grunt > Soldier keeping all of the Soldiers abilities the Veteran also gains the abilty to use <b>Two Handed Axes</b> and <b>Two Handed Shields</b>."
+    },
+    "quest-trigger": {
+        "name": "Quest Trigger",
+        "desc": "The dealer of quests."
+    },
+    "lumberjack": {
+        "name": "Lumberjack",
+        "desc": "Lumberjack. An expert at chopping the trees of Saloa to make logs."
+    },
+    "miner": {
+        "name": "Miner",
+        "desc": "Miner. An expert at mining the rocks of Saloa to find ore."
+    },
+    "skinner": {
+        "name": "Skinner",
+        "desc": "Skinner. An expert at tending the animals and creatures of Saloa to gain hides, eggs and meats."
+    },
+    "harvestor": {
+        "name": "Harvestor",
+        "desc": "Harvestor. An expert at tending the plants of Saloa to gain fibers."
+    },
+    "spearmen": {
+        "name": "Spearmen",
+        "desc": "Archers are experts with stringed weapons they specialise in Long/Short and Cross bows. Although preferring the size and power of the Long/Short bows over the Cross bows. They are skilled marksmen and should never be underestimated."
+    },
+    "training-dummy": {
+        "name": "Training Dummy",
+        "desc": "This dummy helps you experiment with skills."
+    },
+    "guild-manager": {
+        "name": "Guild Manager",
+        "desc": "This NPC can be setup to manage various Guild aspects."
+    },
+    "guild-trophy-collector": {
+        "name": "Guild Trophy Collector",
+        "desc": "This vendor can be used to unlock special Guild Items."
+    },
+    "luminary-mage": {
+        "name": "Luminary Mage",
+        "desc": "Master of the Lights and the Stars."
+    },
+    "hell-mage": {
+        "name": "Hell Mage",
+        "desc": "Master of the Darkness and the depths of hell."
+    },
+    "historian": {
+        "name": "Historian",
+        "desc": "The studier of ancient ways and cultures."
+    },
+    "port-master": {
+        "name": "Port Master",
+        "desc": "Responsible for the day to day runnings of the port."
+    },
+    "profession-trainer": {
+        "name": "Profession Trainer",
+        "desc": "Trains in Spells and Styles"
+    },
+    "craft-trainer": {
+        "name": "Craft Trainer",
+        "desc": "Trains in Plans for Crafting"
+    },
+    "rogue": {
+        "name": "Rogue",
+        "desc": "The Rogue is a hard profession to classify, looked down upon by many as nefarious criminals the Rogue is often called upon or hired to perform questionable acts. The Rogue is skilled in the art of Stealth and Lockpicking, they also know how to wield a Dagger very well and can use Thrown Weapons."
+    },
+    "priest": {
+        "name": "Priest",
+        "desc": "The Priest is a Tier II evolution from the Healer Profession via Cleric, while keeping all of the Clerics abilities the Priest also gains the abilty to use <b>Restoration</b> magic spells and to perform <b>Surgery</b> on Humanoid minions and monsters."
+    },
+    "monk": {
+        "name": "Monk",
+        "desc": "The Monk is a Tier II evolution from the Healer Profession via Friar, while keeping all of the Friars abilities the Monk also gains the abilty to use <b>Shields</b>."
+    },
+    "wizard": {
+        "name": "Wizard",
+        "desc": "The Wizard is a Tier III evolution from the Caster Profession via Mage > Elementalist keeping all of the Elementalists abilities the Wizard also gains the abilty to use <b>Air</b> and <b>Earth</b> magic, <b>Mana Draining</b> and <b>Maces</b>."
+    },
+    "woundtender": {
+        "name": "Woundtender",
+        "desc": "Healer"
+    },
+    "caster": {
+        "name": "Caster",
+        "desc": "Through the ages the Caster profession has existed in one form or another, Casters choose the way of magic over the way of melee weapons they may specialise in Mystical spells which affect the mind and body. Although should the need arise a Caster may fight with his trusty Staff or simply pummel you with his or her fists if they desire to do so."
+    },
+    "fighter": {
+        "name": "Fighter",
+        "desc": "Throughout history we have known many wars each one tainted by the blood of the fallen souls who died defending their \"point of view\", the Fighter profession would in most wars be the first to die or the last person standing at the end of the conflict. They are skilled expertly in most one handed weapons to the point where they can dual wield and still be effective."
+    },
+    "scout": {
+        "name": "Scout",
+        "desc": "The Scout is a Tier I evolution from the Archer Profession, while keeping all of the Archers abilities the scout also gains abilities to detect places and beings that perhaps otherwise would perhaps not normally be seen.<br><br>As with the Archer the Scout can use Daggers, Bows and Crossbows."
+    },
+    "tracker": {
+        "name": "Tracker",
+        "desc": "The Tracker is a Tier I evolution from the Archer Profession, while keeping all of the Archers abilities the tracker also gains the ability to <b>Track Beasts</b> and make <b>Traps</b>.<br><br> As with the Archer the Tracker can use Daggers, Bows and Crossbows but also gains <b>Axes</b>."
+    },
+    "spirit-being": {
+        "name": "Spirit Being",
+        "desc": "Lala"
+    },
+    "memorial": {
+        "name": "Memorial",
+        "desc": "A Statue."
+    },
+    "supply-master": {
+        "name": "Supply Master",
+        "desc": "A Quest NPC for supplying outposts."
+    },
+    "devourer-of-might": {
+        "name": "Devourer of Might",
+        "desc": "This ancient demon was born from the deepest parts of the Hell Plane. It feeds on might, devouring the strengths and fears of all it encounters."
+    },
+    "close-combat": {
+        "name": "Close Combat",
+        "desc": "Close Combateers rely on there fast reflexes, keen eye and advanced melee skills to pound there enemies into dust. Close Combat fighters rarely use weapons and when they do they are normally very light and small."
+    },
+    "treasure-hunter": {
+        "name": "Treasure Hunter",
+        "desc": "The Treasure Hunter is a Tier III evolution from the Salvager Profession, while keeping all of the Salvager abilities the Treasure Hunter also gains the ability to use <b>Track Items</b>.<br><br> Treasure Hunters can use Fists, Crossbows, Swords, Shields and Hand Guns, and they gets a +30% looted money bonus and access to Tier III Salvage goods."
+    },
+    "guard-crossbowyer": {
+        "name": "Guard Crossbowyer",
+        "desc": "Guard Crossbowyer"
+    },
+    "guard-battle-healer": {
+        "name": "Guard Battle Healer",
+        "desc": "Guard Healer"
+    },
+    "guard-fighter": {
+        "name": "Guard Fighter",
+        "desc": "Guard Fighter"
+    },
+    "guard-archer": {
+        "name": "Guard Archer",
+        "desc": "Guard Archer"
+    },
+    "guard-mage": {
+        "name": "Guard Mage",
+        "desc": "Guard Mage"
+    },
+    "guild-tourney-host": {
+        "name": "Guild Tourney Host",
+        "desc": "The master of Guild Tourneys"
+    },
+    "djinn": {
+        "name": "Djinn",
+        "desc": "Master of the 7 Winds and Weather of Saloa."
+    },
+    "undoer-of-things": {
+        "name": "Undoer of Things",
+        "desc": "-"
+    },
+    "locksmith": {
+        "name": "Locksmith",
+        "desc": "Someone who can unlock items."
+    },
+    "enchanter": {
+        "name": "Enchanter",
+        "desc": "Someone who can enchant items."
+    },
+    "hellish-fiend": {
+        "name": "Hellish Fiend",
+        "desc": "Hellish Fiend"
+    },
+    "cloth-goods-vendor": {
+        "name": "Cloth Goods Vendor",
+        "desc": "Elven Carpenter. An expert at creating wooden items from planks."
+    },
+    "tailor": {
+        "name": "Tailor",
+        "desc": "Maker of clothes and cloth materials."
+    },
+    "leather-goods-vendor": {
+        "name": "Leather Goods Vendor",
+        "desc": "Pixie Tailor. An expert at creating tailored items from cloth and hide and feathers."
+    },
+    "blacksmith": {
+        "name": "Blacksmith",
+        "desc": "Blacksmith. An expert at creating metal items from ingots."
+    },
+    "plate-goods-vendor": {
+        "name": "Plate Goods Vendor",
+        "desc": "Dwarven Smith. An expert at creating metal and magmite items."
+    },
+    "stonemason": {
+        "name": "Stonemason",
+        "desc": "An expert sculpter, brick maker and general miner."
+    },
+    "mail-goods-vendor": {
+        "name": "Mail Goods Vendor",
+        "desc": "Centaur Mason. An expert at creating stone items from quarried stone."
+    },
+    "alchemist": {
+        "name": "Alchemist",
+        "desc": "Alchemists are experts at making potions and special items for use by everyone. An alchemis often travels throughout the land to gather his ingredients and manufactures his special brew."
+    },
+    "spellslinger": {
+        "name": "Spellslinger",
+        "desc": null
+    },
+    "farmer": {
+        "name": "Farmer",
+        "desc": "Throughout history we have known many wars each one tainted by the blood of the fallen souls who died defending their \"point of view\", the Fighter profession would in most wars be the first to die or the last person standing at the end of the conflict. They are skilled expertly in most one handed weapons to the point where they can dual wield and still be effective."
+    },
+    "cook": {
+        "name": "Cook",
+        "desc": "An expert food and drink maker, who likes nothing more than to bake a good cake every now and then."
+    },
+    "fisher": {
+        "name": "Fisher",
+        "desc": "Fisher. An expert at fishing in the rivers, lakes and seas to catch fish."
+    },
+    "ice-mage": {
+        "name": "Ice Mage",
+        "desc": "Ice Mage. An expert at casting Ice Magic."
+    },
+    "fire-mage": {
+        "name": "Fire Mage",
+        "desc": "Fire Mage. An expert at casting Fire Magic."
+    },
+    "earth-mage": {
+        "name": "Earth Mage",
+        "desc": "Earth Mage. An expert at casting Earth Magic."
+    },
+    "water-mage": {
+        "name": "Water Mage",
+        "desc": "Water Mage. An expert at casting Water Magic."
+    },
+    "energy-mage": {
+        "name": "Energy Mage",
+        "desc": "Energy Mage"
+    },
+    "hoodlum": {
+        "name": "Hoodlum",
+        "desc": null
+    },
+    "port-storekeeper": {
+        "name": "Port Storekeeper",
+        "desc": "Keeper of the port stores"
+    },
+    "seeker": {
+        "name": "Seeker",
+        "desc": "The seeker of strange things."
+    },
+    "gift-vendor": {
+        "name": "Gift Vendor",
+        "desc": "Sells various trinkets and goods for holidays."
+    },
+    "ranger": {
+        "name": "Ranger",
+        "desc": "The Ranger is a Tier III evolution from the Archer Profession via Scout > Beastmaster, while keeping all of the Beastmasters abilities the Ranger also gains the abilty to use <b>Wildlife</b> magic and to wield <b>Two Handed Swords</b>."
+    },
+    "assassin-npc": {
+        "name": "Assassin NPC",
+        "desc": "Assassin NPC"
+    },
+    "skill-trainer": {
+        "name": "Skill Trainer",
+        "desc": "Trains players in skills"
+    },
+    "tourney-host": {
+        "name": "Tourney Host",
+        "desc": "Responsible for Running Tournaments."
+    },
+    "port-shipmaster": {
+        "name": "Port Shipmaster",
+        "desc": "Responsible for improving ships and buying or selling new ships."
+    },
+    "quest-marker": {
+        "name": "Quest Marker",
+        "desc": "The fixer of quests."
+    },
+    "statue": {
+        "name": "Statue",
+        "desc": "A Statue."
+    },
+    "crime-master": {
+        "name": "Crime Master",
+        "desc": "The dealer of trouble and crimes."
+    },
+    "necromancer": {
+        "name": "Necromancer",
+        "desc": "The Necromancer is a Tier II evolution from the Caster Profession via Shaman, while keeping all of the Shamans abilities the Necromancer also gains the abilty to use <b>Necromancy</b> magic spells and to use <b>Two Handed Staves</b>."
+    },
+    "appraiser": {
+        "name": "Appraiser",
+        "desc": "The appraiser is a master of discovering the truth about items, buildings and players"
+    },
+    "tinkerer": {
+        "name": "Tinkerer",
+        "desc": "Someone who is skilled in the manufacture of items and machines for advanced use."
+    },
+    "creature": {
+        "name": "Creature",
+        "desc": "A creature which has no set profession."
+    },
+    "warrior": {
+        "name": "Warrior",
+        "desc": "The Warrior is a Tier I evolution from the Fighter Profession, while keeping all of the Fighters abilities the Warrior also gains the ability to use <b>Shields</b>.<br><br> As with the Fighter the Warrior can use Axes, Swords, Daggers and Maces."
+    },
+    "paladin": {
+        "name": "Paladin",
+        "desc": "The Paladin is a Tier III evolution from the Fighter Profession via Squire > Knight > Paladin, the Paladin gains the ability to <b>Track Undead</b> and wield <b>Pole Blades</b> and <b>Two Handed Swords</b>."
+    },
+    "lesser-dungeon-master": {
+        "name": "Lesser Dungeon Master",
+        "desc": "The lord of the dungeon."
+    },
+    "dungeon-master": {
+        "name": "Dungeon Master",
+        "desc": "The lord of the dungeon."
+    },
+    "supreme-dungeon-master": {
+        "name": "Supreme Dungeon Master",
+        "desc": "The lord of the dungeon."
+    },
+    "nest-queen": {
+        "name": "Nest Queen",
+        "desc": "Nest Queen"
+    },
+    "shaman": {
+        "name": "Shaman",
+        "desc": "The Shaman is a Tier I evolution from the Caster Profession, while keeping all of the Caster abilities the Shaman also gains the ability to use <b>Acid</b>, <b>Spirit</b> and <b>Transmigration</b> magic spells.<br><br> As with the Caster the Shaman can use Staves and Fists."
+    },
+    "stable-master": {
+        "name": "Stable Master",
+        "desc": "The seller and keeper of pets and creatures."
+    },
+    "quest-master": {
+        "name": "Quest Master",
+        "desc": "The dealer of quests."
+    },
+    "child": {
+        "name": "Child",
+        "desc": "A smaller version of a full grown person."
+    },
+    "friar": {
+        "name": "Friar",
+        "desc": "The Friar is a Tier I evolution from the Healer Profession, while keeping all of the Healers abilities the Friar also gains the ability to use <b>Healing</b> items and <b>Curing magic </b> spells.<br><br> As with the Healer the Friar can use Staves and Fists but also gains <b>Two Handed Staves</b>."
+    },
+    "weak-dungeon-master": {
+        "name": "Weak Dungeon Master",
+        "desc": "The lord of the dungeon."
+    },
+    "deity": {
+        "name": "Deity",
+        "desc": "The ruler of a religion."
+    },
+    "scavenger": {
+        "name": "Scavenger",
+        "desc": "Scavenger"
+    },
+    "worker": {
+        "name": "Worker",
+        "desc": "Worker"
+    },
+    "town-guard": {
+        "name": "Town Guard",
+        "desc": "The guardian of a town."
+    },
+    "evolved-spirit": {
+        "name": "Evolved Spirit",
+        "desc": "Teaches you how to evolve."
+    },
+    "skill-detrainer": {
+        "name": "Skill Detrainer",
+        "desc": null
+    },
+    "trophy-master": {
+        "name": "Trophy Master",
+        "desc": null
+    },
+    "questor": {
+        "name": "Questor",
+        "desc": "Questor"
+    },
+    "quartermaster": {
+        "name": "Quartermaster",
+        "desc": "An NPC that gives out rewards based on the amount of tokens or required items a player has found."
+    },
+    "legend-reward-seller": {
+        "name": "Legend Reward Seller",
+        "desc": null
+    },
+    "pet-master": {
+        "name": "Pet Master",
+        "desc": null
+    },
+    "guard": {
+        "name": "Guard",
+        "desc": null
+    },
+    "magic-master": {
+        "name": "Magic Master",
+        "desc": null
+    },
+    "assassin": {
+        "name": "Assassin",
+        "desc": "The Assassin is a Tier II evolution from the Rogue Profession via Shadowstalker, while keeping all of the Shadowstalkers abilities the Assassin also gains the abilty to use <b>Shadow-strike</b> allowing them to attack while stealthed and deal Shadow strike damage."
+    },
+    "seven-seas-leader": {
+        "name": "Seven Seas Leader",
+        "desc": "Promotes pirates."
+    },
+    "wavestormer": {
+        "name": "Wavestormer",
+        "desc": "An ancient guardian"
+    },
+    "hunter": {
+        "name": "Hunter",
+        "desc": "The Hunter is a Tier II evolution from the Archer Profession via Tracker, while keeping all of the Trackers abilities the Hunter also gains the abilty to track <b>Beasts</b>, <b>Humanoids</b>, <b>Undeads</b> and to track <b>Criminals</b>."
+    },
+    "post-master": {
+        "name": "Post Master",
+        "desc": "The manager of a post office."
+    },
+    "marketeer": {
+        "name": "Marketeer",
+        "desc": "The manager of a Market."
+    },
+    "guide": {
+        "name": "Guide",
+        "desc": "A helper/guide in the land of Saloa."
+    },
+    "hunt-master": {
+        "name": "Hunt Master",
+        "desc": "Someone who hides items and makes people hunt for them."
+    },
+    "tempest-mage": {
+        "name": "Tempest Mage",
+        "desc": "Master of the 7 Winds and Weather of Saloa."
+    },
+    "faction-leader": {
+        "name": "Faction Leader",
+        "desc": "The Leader of a Faction."
+    },
+    "demonic-follower": {
+        "name": "Demonic Follower",
+        "desc": "A follower of the ways of the demon plane."
+    },
+    "salvage-expert": {
+        "name": "Salvage Expert",
+        "desc": null
+    },
+    "fiend": {
+        "name": "Fiend",
+        "desc": "????"
+    },
+    "missionary": {
+        "name": "Missionary",
+        "desc": "The dealer of Holy Missions."
+    },
+    "trialmaster": {
+        "name": "Trialmaster",
+        "desc": "The dealer of Guild Trials."
+    },
+    "monster-hunter": {
+        "name": "Monster Hunter",
+        "desc": "The killer of things."
+    },
+    "fleshcraver": {
+        "name": "Fleshcraver",
+        "desc": "The scariest of all the undead, even there own bretherin fear the mention of there names."
+    },
+    "wild-animal": {
+        "name": "Wild Animal",
+        "desc": "A animal  which has no set profession."
+    },
+    "mudslinger": {
+        "name": "Mudslinger",
+        "desc": "A profession dedicated to throwing mud and other gooey things."
+    },
+    "animal": {
+        "name": "Animal",
+        "desc": "A wild or domesticated creature."
+    },
+    "powerseeker": {
+        "name": "Powerseeker",
+        "desc": "Those that seek ultimate control over magic often turn towards this profession."
+    },
+    "begrimmer": {
+        "name": "Begrimmer",
+        "desc": "None"
+    },
+    "slimeoozer": {
+        "name": "Slimeoozer",
+        "desc": "None"
+    },
+    "sludgedrencher": {
+        "name": "Sludgedrencher",
+        "desc": "None"
+    },
+    "arch-priest": {
+        "name": "Arch Priest",
+        "desc": "The Arch Priest is a Tier III evolution from the Healer Profession via Cleric > Priest, while keeping all of the Priests abilities the Arch Priest also gains the abilty to use <b>Blessing</b> magic spells."
+    },
+    "berserker": {
+        "name": "Berserker",
+        "desc": "The Berserker is a Tier II evolution from the Fighter Profession via Warrior, while keeping all of the Warriors abilities the Berserker also gains the abilty to use <b>Rocks and Boulders</b>, <b>Two Handed Axes</b> and <b>Two Handed Maces</b>."
+    },
+    "athlete": {
+        "name": "Athlete",
+        "desc": "Athletes are the general profession. They offer great speed and dexterity benefits and are often very rounded. They do not specialise in one particular area but instead revel at doing many things."
+    },
+    "trooper": {
+        "name": "Trooper",
+        "desc": "The Trooper is a Tier I evolution from the Archer Profession or a Tier II evolution from the Fighter Profession, while keeping all of the Archers abilities the Trooper also gains the ability to <b>Dual Wield</b>.<br><br> As with the Archer the Trooper can use Daggers, Bows and Crossbows but also gains <b>Axes</b>, <b>Hand Guns</b>, <b>Swords</b> and <b>Shields</b>."
+    },
+    "general-store": {
+        "name": "General Store",
+        "desc": ""
+    },
+    "trophy-collector": {
+        "name": "Trophy Collector",
+        "desc": "Collects creature and quest trophys."
+    },
+    "banker": {
+        "name": "Banker",
+        "desc": "Stores gold and items for a small price."
+    },
+    "vicar": {
+        "name": "Vicar",
+        "desc": "A religious soul who can marry characters, divorce them and bury them."
+    },
+    "guild-promoter": {
+        "name": "Guild Promoter",
+        "desc": "The leader of a guild."
+    },
+    "estate-agent": {
+        "name": "Estate Agent",
+        "desc": "The seller of houses and house deeds."
+    },
+    "inn-keeper": {
+        "name": "Inn Keeper",
+        "desc": "Owner of an Inn"
+    },
+    "elementalist": {
+        "name": "Elementalist",
+        "desc": "The Elementalist is a Tier II evolution from the Caster Profession via mage, while keeping all of the Mages abilities the Elementalist also gains the abilty to use <b>Cold</b>, <b>Water</b>, <b>Fire</b> and <b>Energy</b> magic spells ."
+    },
+    "librarian": {
+        "name": "Librarian",
+        "desc": "One who studies books and collates manuscripts and records of history."
+    },
+    "bounty-master": {
+        "name": "Bounty Master",
+        "desc": "A person responsible for handling bounty and the assignment of criminal capture."
+    },
+    "flamecaller": {
+        "name": "Flamecaller",
+        "desc": "Lala"
+    },
+    "summoner": {
+        "name": "Summoner",
+        "desc": "The Summoner is a Tier II evolution from the Caster Profession via Invoker, while keeping all of the Invokers abilities the Summoner also gains the abilty to use <b>Summoning</b> magic spells and to use <b>Two Handed Staves</b>."
+    },
+    "beastmaster": {
+        "name": "Beastmaster",
+        "desc": "The Beastmaster is a Tier II evolution from the Archer Profession via Scout, the Beastmaster gains the ability to <b>Breed Beasts</b> and <b>Tame Beasts</b>.<br><br>This allows the Beastmaster to tame any Beast type monster to be their loyal and loving minion and also to breed minions to make new pets.<br><br>You can sell or trade these pets on to other players."
+    },
+    "minstrel": {
+        "name": "Minstrel",
+        "desc": "Minstrels are those happy singing souls that can be found sitting at a crossroads playing a lute or harp and singing peacefully to themselves or the animals. Minstrels can and often do strike fear into the hearts of many with there magics."
+    },
+    "player-vendor": {
+        "name": "Player Vendor",
+        "desc": "A vendor owned by a player."
+    },
+    "conjurer": {
+        "name": "Conjurer",
+        "desc": "Conjurer"
+    },
+    "gamemaster": {
+        "name": "Gamemaster",
+        "desc": "One who controls the world."
+    },
+    "dungeon-keeper": {
+        "name": "Dungeon Keeper",
+        "desc": "Master of Dungeons"
+    },
+    "chamberlain": {
+        "name": "Chamberlain",
+        "desc": "Responsible for Administering the guild Credit System."
+    },
+    "trainer": {
+        "name": "Trainer",
+        "desc": "Responsible for Guild Levelling."
+    },
+    "spellmaster": {
+        "name": "Spellmaster",
+        "desc": "Responsible for Administering guild Abilities."
+    },
+    "lottery-prize-giver": {
+        "name": "Lottery Prize Giver",
+        "desc": null
+    },
+    "treasurer": {
+        "name": "Treasurer",
+        "desc": "Responsible for Administering guild Treasury."
+    },
+    "ancient-warrior": {
+        "name": "Ancient Warrior",
+        "desc": "An ancient warrior."
+    },
+    "ancient-mage": {
+        "name": "Ancient Mage",
+        "desc": "An ancient mage."
+    },
+    "ancient-creature": {
+        "name": "Ancient Creature",
+        "desc": "An ancient creature."
+    },
+    "trophy-seeker": {
+        "name": "Trophy Seeker",
+        "desc": "Collects creature and quest trophys."
+    },
+    "guard-paladin": {
+        "name": "Guard Paladin",
+        "desc": "Guard Paladin"
+    },
+    "godly-innocent": {
+        "name": "Godly Innocent",
+        "desc": "Godly Innocent"
+    },
+    "blowbringer": {
+        "name": "Blowbringer",
+        "desc": "Warriors are weapons experts specialising in large weapons such as Double Axes and Clubs. Warriors are not known for there accuracy instead prefer to go for damage and there fearsome battle cries to strike fear into the enemy."
+    },
+    "battler": {
+        "name": "Battler",
+        "desc": ""
+    },
+    "man-at-arms": {
+        "name": "Man-at-arms",
+        "desc": ""
+    },
+    "whelp-demon": {
+        "name": "Whelp Demon",
+        "desc": "An all round pet, with reasonable stats and a varied amount of skills."
+    },
+    "willpower-demon": {
+        "name": "Willpower Demon",
+        "desc": "A demon that steals the Willpower (stamina) of the enemy."
+    },
+    "devourer-of-magic": {
+        "name": "Devourer of Magic",
+        "desc": "This ancient demon was born from the deepest parts of the Hell Plane. It feeds on magic, devouring the energies of those that it encounters."
+    },
+    "seven-seas-promoter": {
+        "name": "Seven Seas Promoter",
+        "desc": "Rewards pirates/navy."
+    },
+    "faction-recruiter": {
+        "name": "Faction Recruiter",
+        "desc": "Responsible for getting a player to participate in a faction based event."
+    },
+    "shrouded-isles-trainer": {
+        "name": "Shrouded Isles Trainer",
+        "desc": "Trains players in skills"
+    },
+    "majestic-healer": {
+        "name": "Majestic Healer",
+        "desc": "Bought extra pet Healer class."
+    },
+    "fistfury": {
+        "name": "Fistfury",
+        "desc": "Close Combateers rely on there fast reflexes, keen eye and advanced melee skills to pound there enemies into dust. Close Combat fighters rarely use weapons and when they do they are normally very light and small."
+    },
+    "spellsage": {
+        "name": "Spellsage",
+        "desc": "Those that seek ultimate control over magic often turn towards this profession."
+    },
+    "archer": {
+        "name": "Archer",
+        "desc": "The Archer is a dedicated ranged weapon user, skilled expertly in Bows and Crossbows they prefer to sit at the back of any encounter and shoot from range, however should ones enemy deflect an arrow or charge blindly through the maelstrom many an Archer has been known to quickly unsheath a Dagger and finish the foe."
+    },
+    "healer": {
+        "name": "Healer",
+        "desc": "Reverred and worshipped throughout the ages, the Healer profession has been known to perform many miracles, some believe the Healers to be merely angels (or demons) who walk the lands doing the work of the gods. While a healer is not skilled enough to revive dead people they can bring the wounded or sick back to full life as easily as one might draw breath."
+    },
+    "thief": {
+        "name": "Thief",
+        "desc": "The Thief is a Tier II evolution from the Rogue Profession via Pickpocket, while keeping all of the Pickpockets abilities the Thief also gains the abilty to use <b>Deception</b> and <b>Swords</b>."
+    },
+    "mage": {
+        "name": "Mage",
+        "desc": "The Mage is a Tier I evolution from the Caster Profession, while keeping all of the Caster abilities the Mage also gains the ability to use <b>Defensive</b> magic spells.<br><br> As with the Caster the Mage can use Staves and Fists."
+    },
+    "forager": {
+        "name": "Forager",
+        "desc": "Foragers are the loners of Saloa, they shun people and civilisations and are normally very unfriendly to people they meet on there travels. They are experts at self survival."
+    },
+    "nobleman": {
+        "name": "Nobleman",
+        "desc": "Noblemen are the upper class, born into a rich family or lifestyle, they don't have to work very hard and can often talk there enemies around or bribe them till they submit. They are trained in Blades by some of the finest blade masters in all of Saloa."
+    },
+    "jailer": {
+        "name": "Jailer",
+        "desc": "Jailer"
+    },
+    "woodworker": {
+        "name": "Woodworker",
+        "desc": "Woodworkers are experts at Carpentry and Woodworking. They rely on there excellent skills to manufacture wooden objects such as Shields and wooden weapons."
+    },
+    "carpenter": {
+        "name": "Carpenter",
+        "desc": "Carpenter. An expert at creating wooden items from planks."
+    },
+    "quarrier": {
+        "name": "Quarrier",
+        "desc": "Quarrier. An expert at Quarrying rocks for stone."
+    },
+    "peasant": {
+        "name": "Peasant",
+        "desc": "The mark of a thievery attempt."
+    },
+    "despicable-one": {
+        "name": "Despicable One",
+        "desc": "The spawn from a big big questy."
+    },
+    "prophet": {
+        "name": "Prophet",
+        "desc": "Someone who sees things."
+    },
+    "skill-task-master": {
+        "name": "Skill Task Master",
+        "desc": "Skill Task Master"
+    },
+    "free-enchanter": {
+        "name": "Free Enchanter",
+        "desc": "A person with the ability to enchant items."
+    },
+    "warlord": {
+        "name": "Warlord",
+        "desc": "The Warlord is a Tier III evolution from the Fighter Profession via Warrior > Berserker keeping all of the Berserkers abilities the Warlord also gains the abilty to use <b>Devotion</b>."
+    },
+    "majestic-creature": {
+        "name": "Majestic Creature",
+        "desc": "Bought extra pet Creature class."
+    },
+    "majestic-thief": {
+        "name": "Majestic Thief",
+        "desc": "Bought extra pet Thief class."
+    },
+    "ancient-rogue": {
+        "name": "Ancient Rogue",
+        "desc": "An ancient rogue."
+    },
+    "island-creature": {
+        "name": "Island Creature",
+        "desc": "Found in the Pirate Expansion."
+    },
+    "pickpocket": {
+        "name": "Pickpocket",
+        "desc": "The Pickpocket is a Tier I evolution from the Rogue Profession, while keeping all of the Rogues abilities the Pickpocket also gains the ability to use <b>Disguise</b> and to <b>Steal</b>.<br><br> As with the Rogue the Pickpocket can use Daggers, Fists and Thrown Weapons."
+    },
+    "crimelord": {
+        "name": "Crimelord",
+        "desc": "The Crimelord is a Tier III evolution from the Rogue Profession via Pickpocket > Thief keeping all of the Thieves abilities the Crimelord also gains the abilty to use <b>Hand Guns</b>."
+    },
+    "shadowstalker": {
+        "name": "Shadowstalker",
+        "desc": "The Shadowstalker is a Tier I evolution from the Rogue Profession, while keeping all of the Rogues abilities the Shadowstalker also gains the ability to <b>Detect Hidden</b> enemies and buildings.<br><br> As with the Rogue the Shadowstalker can use Daggers, Fists and Thrown Weapons but they also gain access to <b>Swords</b>."
+    },
+    "dimension-keeper": {
+        "name": "Dimension Keeper",
+        "desc": "Keeper of Dimensions of course"
+    },
+    "trickster": {
+        "name": "Trickster",
+        "desc": "The Trickster is a Tier I evolution from the Rogue Profession, while keeping all of the Rogues abilities the Trickster also gains the ability to <b>Deceive</b> players by hiding the true identity of items and objects.<br><br> As with the Rogue the Trickster can use Daggers, Fists and Thrown Weapons but they also gain access to <b>Swords</b>."
+    },
+    "deceiver": {
+        "name": "Deceiver",
+        "desc": "The Deceiver is a Tier II evolution from the Rogue Profession via Trickster, while keeping all of the Tricksters abilities the Deceiver also gains the abilty to use <b>Disguise</b>."
+    },
+    "bard": {
+        "name": "Bard",
+        "desc": "The Bard is a Tier III evolution from the Rogue Profession via Trickster > Deceiver keeping all of the Deceivers abilities the Bard also gains the abilty to use <b>Instruments and Songs</b>."
+    },
+    "killer": {
+        "name": "Killer",
+        "desc": "The Killer is a Tier III evolution from the Rogue Profession via Shadowstalker > Assassin keeping all of the Assassins abilities the Killer also gains the abilty to use <b>Track Humanoids</b> and to use <b>Crossbows</b>."
+    },
+    "hermit": {
+        "name": "Hermit",
+        "desc": "The Hermit lives a life of isolation, often they will spend countless hours in the woods ... no one knows what they do out there but you can often hear strange noises. Hermits dedicate themselves to the study of plants and nature. Although should the need arise a Hermit may fight with his trusty 2Handed Staff or simply pummel you with his or her fists if they desire to do so.you are likely to see a first hand demonstration of a Hermits skills."
+    },
+    "diviner": {
+        "name": "Diviner",
+        "desc": "The Diviner is a Tier I evolution from the Hermit Profession, while keeping all of the Hermits abilities the Diviner also gains the ability to use <b>Warding</b> spells.<br><br> As with the Hermit the Diviner can use 2H Staves and Fists."
+    },
+    "warden": {
+        "name": "Warden",
+        "desc": "The Warden is a Tier II evolution from the Diviner Profession, while keeping all of the Diviners abilities the Warder also gains the ability to use <b>Botany</b> magic spells.<br><br> As with the Diviner the Warden can use 2H Staves and Fists."
+    },
+    "druid": {
+        "name": "Druid",
+        "desc": "The Druid is a Tier III evolution from the Hermit Profession via Diviner > Warden keeping all of the Warders abilities the Druid also gains the abilty to use <b>Druid</b> magic."
+    },
+    "island-shadowcreeper": {
+        "name": "Island Shadowcreeper",
+        "desc": "Found in the Pirate Expansion."
+    },
+    "island-brute": {
+        "name": "Island Brute",
+        "desc": "Found in the Pirate Expansion."
+    },
+    "island-healer": {
+        "name": "Island Healer",
+        "desc": "Found in the Pirate Expansion."
+    },
+    "island-earthshatterer": {
+        "name": "Island Earthshatterer",
+        "desc": "Found in the Pirate Expansion."
+    },
+    "navy-privateer": {
+        "name": "Navy Privateer",
+        "desc": "xx"
+    },
+    "beastlord": {
+        "name": "Beastlord",
+        "desc": "The Beastlord is a Tier III evolution via Tracker > Hunter, the Beastlordr gains the ability to <b>Breed Beasts</b> and <b>Tame Beasts</b>.<br><br>This allows the Beastlord to tame any Beast type monster to be their loyal and loving minion and also to breed minions to make new pets.<br><br>You can sell or trade these pets on to other players."
+    },
+    "axeman": {
+        "name": "Axeman",
+        "desc": ""
+    },
+    "clawstriker": {
+        "name": "Clawstriker",
+        "desc": ""
+    },
+    "rampager": {
+        "name": "Rampager",
+        "desc": ""
+    },
+    "knife-thrower": {
+        "name": "Knife Thrower",
+        "desc": ""
+    },
+    "vagabond": {
+        "name": "Vagabond",
+        "desc": ""
+    },
+    "mystic": {
+        "name": "Mystic",
+        "desc": ""
+    },
+    "protection-demon": {
+        "name": "Protection Demon",
+        "desc": "A demon that can do no physical damage, yet blocks attacks against its master."
+    },
+    "leech-demon": {
+        "name": "Leech Demon",
+        "desc": "A demon that steals the life (health) of the enemy."
+    },
+    "soul-demon": {
+        "name": "Soul Demon",
+        "desc": "A demon that steals the soul (mana power) of the enemy."
+    },
+    "pit-demon": {
+        "name": "Pit Demon",
+        "desc": "A demon that uses spells on the enemy."
+    },
+    "salvager": {
+        "name": "Salvager",
+        "desc": "The Salvager is often regarded as someone who has no thought for preserving the relics of the past, they would rather smash a priceless vase on their hunt for gold and jewels than preserve it for future generations.<br><br>Salvagers can deconstruct items using the Deconstruction skill (starting skill), they can also Salvage corpses once they are out of the estate to gain additional resources.<br><br>Salvagers get a 10% looted money increase and access to Tier 1 Salvage goods."
+    },
+    "adventurer": {
+        "name": "Adventurer",
+        "desc": "The Adventurer is a Tier II evolution from the Salvager Profession, while keeping all of the Salvager abilities the Adventurer also gains the ability to use <b>Track Dungeons</b>, a powerful skill which lets them track player and system dungeons.<br><Br>The Adventurer gets a +20% looted money bonus and access to Tier II Salvage goods.<br><br>As with the Salvager the Adventuer can use Crossbows, Swords, Fists and Shields."
+    },
+    "archaeologist": {
+        "name": "Archaeologist",
+        "desc": "The Archaeologist is a Tier IV evolution from the Salvager Profession via Adventurer > Treasure Hunter keeping all of the Treasure Hunters abilities the Archaeologist also gains the abilty to use <b>Archaeology</b>, which allows them to uncover relics from long ago.<br><br>The Archaeologist gets a +30% looted money bonus and access to Tier IV Salvage goods."
+    },
+    "ocean-store": {
+        "name": "Ocean Store",
+        "desc": ""
+    },
+    "firework-supplies": {
+        "name": "Firework Supplies",
+        "desc": ""
+    },
+    "routemaster": {
+        "name": "Routemaster",
+        "desc": "Responsible for the logistics of managing a trade route."
+    },
+    "apprentice": {
+        "name": "Apprentice",
+        "desc": "The Apprentice is a dedicated crafter/gather, this class has no combat skills and can not participate in combat or dueling, however it does have enhanced gathering and crafting abilities and faster queue times."
+    },
+    "novice": {
+        "name": "Novice",
+        "desc": "The Novice is a Tier I evolution from the Apprentice  Profession."
+    },
+    "adept": {
+        "name": "Adept",
+        "desc": "The Adept is a Tier II evolution from the Novice Profession."
+    },
+    "master": {
+        "name": "Master",
+        "desc": "The Master  is a Tier III evolution from the Apprentice Profession via Novice > Adept."
+    },
+    "league-privateer": {
+        "name": "League Privateer",
+        "desc": "xx"
+    },
+    "buccaneer": {
+        "name": "Buccaneer",
+        "desc": "The Novice is a Tier I evolution from the Privateer Profession."
+    },
+    "sailor": {
+        "name": "Sailor",
+        "desc": "The Novice is a Tier I evolution from the Privateer Profession."
+    },
+    "raider": {
+        "name": "Raider",
+        "desc": "The Adept is a Tier II evolution from the Buccaneer Profession."
+    },
+    "swashbuckler": {
+        "name": "Swashbuckler",
+        "desc": "The Adept is a Tier II evolution from the Sailor Profession."
+    },
+    "pirate": {
+        "name": "Pirate",
+        "desc": "The Master is a Tier III evolution from the Privateer Profession via Buccaneer> Raider."
+    },
+    "pirate-hunter": {
+        "name": "Pirate Hunter",
+        "desc": "The Master is a Tier III evolution from the Privateer Profession via Sailor > Swashbuckler."
+    },
+    "devourer-of-cookies": {
+        "name": "Devourer of Cookies",
+        "desc": "This ancient demon was born from the deepest darkest parts of the kitchen. It`s mission in life is to seek out and destroy all of the cookies in the world!"
+    },
+    "majestic-fighter": {
+        "name": "Majestic Fighter",
+        "desc": "Bought extra pet Fighter class."
+    },
+    "majestic-caster": {
+        "name": "Majestic Caster",
+        "desc": "Bought extra pet Caster class."
+    },
+    "island-wavecaller": {
+        "name": "Island Wavecaller",
+        "desc": "Found in the Pirate Expansion."
+    },
+    "majestic-minstrel": {
+        "name": "Majestic Minstrel",
+        "desc": "Bought extra pet Minstrel class."
+    },
+    "majestic-songsmith": {
+        "name": "Majestic Songsmith",
+        "desc": "Bought extra pet Songsmith class."
+    },
+    "referral-rewarder": {
+        "name": "Referral Rewarder",
+        "desc": ""
+    },
+    "crew-agent": {
+        "name": "Crew Agent",
+        "desc": "Provides access to crew."
+    },
+    "artifact-imbuer": {
+        "name": "Artifact Imbuer",
+        "desc": "Imbues artifacts with strange powers."
+    },
+    "pvp-resetter": {
+        "name": "PVP Resetter",
+        "desc": "PVP Resetter"
+    },
+    "guardian": {
+        "name": "Guardian",
+        "desc": "An ancient guardian"
+    },
+    "glade-keeper": {
+        "name": "Glade Keeper",
+        "desc": "An ancient guardian"
+    },
+    "cloudmaker": {
+        "name": "Cloudmaker",
+        "desc": "An ancient guardian"
+    },
+    "earthstriker": {
+        "name": "Earthstriker",
+        "desc": "An ancient guardian"
+    },
+    "champion": {
+        "name": "Champion",
+        "desc": "The Champion is a Tier III evolution from the Mercenary Profession by way of Gladiator > Vanquisher, gaining enhanced stats."
+    },
+    "pit-master": {
+        "name": "Pit Master",
+        "desc": "An ancient guardian"
+    },
+    "earthshaker": {
+        "name": "Earthshaker",
+        "desc": "An ancient guardian"
+    },
+    "hellcaller": {
+        "name": "Hellcaller",
+        "desc": "An ancient guardian"
+    },
+    "templar": {
+        "name": "Templar",
+        "desc": "The Templar is a Tier II evolution from the Healer Profession via Protector, the Templar gains <b>Spell Evasion</b> and the ability to wield <b>Pole Blades</b> and <b>Two Handed Swords</b>."
+    },
+    "legend-guardian": {
+        "name": "Legend Guardian",
+        "desc": "An ancient guardian"
+    },
+    "blizzard-golem": {
+        "name": "Blizzard Golem",
+        "desc": "Blizzard Golem Pet Class"
+    },
+    "tile-trophy-npc": {
+        "name": "Tile Trophy NPC",
+        "desc": ""
+    },
+    "advanced-collector": {
+        "name": "Advanced Collector",
+        "desc": "A paid bonus NPC, with special quests."
+    },
+    "pvp-rewarder": {
+        "name": "PVP Rewarder",
+        "desc": "Rewards PVPers"
+    },
+    "corruptor-of-worlds": {
+        "name": "Corruptor of Worlds",
+        "desc": "The ancient leader of the Demons."
+    },
+    "shaper": {
+        "name": "Shaper",
+        "desc": "The Shaper is a Tier I evolution from the Animator Profession."
+    },
+    "manipulator": {
+        "name": "Manipulator",
+        "desc": "The  Manipulator is a Tier II evolution from the Animator Profession via Shaper."
+    },
+    "geomancer": {
+        "name": "Geomancer",
+        "desc": "The Geomancer is a Tier III evolution from the Animator Profession via Shaper > Manipulator."
+    },
+    "animator": {
+        "name": "Animator",
+        "desc": "The Animator uses basic components to create golems and other automotrons. They are more defensively natured than most classes and instead rely on their creations to do all of the hard work for them."
+    },
+    "volcanic-golem": {
+        "name": "Volcanic Golem",
+        "desc": "Volcanic Golem Pet Class"
+    },
+    "storm-golem": {
+        "name": "Storm Golem",
+        "desc": "Storm Golem Pet Class"
+    },
+    "flood-golem": {
+        "name": "Flood Golem",
+        "desc": "Flood Golem Pet Class"
+    },
+    "lightning-golem": {
+        "name": "Lightning Golem",
+        "desc": "Lightning Golem Pet Class"
+    },
+    "red-golem": {
+        "name": "Red Golem",
+        "desc": "Red Golem Pet Class"
+    },
+    "blue-golem": {
+        "name": "Blue Golem",
+        "desc": "Blue Golem Pet Class"
+    },
+    "bone-golem": {
+        "name": "Bone Golem",
+        "desc": "Bone Golem Pet Class"
+    },
+    "dark-golem": {
+        "name": "Dark Golem",
+        "desc": "Dark Golem Pet Class"
+    },
+    "light-golem": {
+        "name": "Light Golem",
+        "desc": "Light Golem Pet Class"
+    },
+    "tainted-golem": {
+        "name": "Tainted Golem",
+        "desc": "Tainted Golem Pet Class"
+    },
+    "dragon-beast": {
+        "name": "Dragon Beast",
+        "desc": "An ancient guardian"
+    },
+    "majestic-cutey": {
+        "name": "Majestic Cutey",
+        "desc": "Bought extra pet Cutey class."
+    },
+    "mentalist": {
+        "name": "Mentalist",
+        "desc": "A mentalist."
+    },
+    "dementalist": {
+        "name": "Dementalist",
+        "desc": "A demented mentalist."
+    },
+    "vengeful-summon": {
+        "name": "Vengeful Summon",
+        "desc": "A vengeful summon."
+    },
+    "vengeful-spirit": {
+        "name": "Vengeful Spirit",
+        "desc": "A vengeful spirit."
+    },
+    "skydenizen": {
+        "name": "Skydenizen",
+        "desc": null
+    },
+    "rampaging-beast": {
+        "name": "Rampaging Beast",
+        "desc": ""
+    },
+    "mindfreak": {
+        "name": "Mindfreak",
+        "desc": null
+    },
+    "ancient-spirit": {
+        "name": "Ancient Spirit",
+        "desc": "An ancient mage."
+    },
+    "ancient-manifestation": {
+        "name": "Ancient Manifestation",
+        "desc": "An ancient warrior."
+    },
+    "stargazer": {
+        "name": "Stargazer",
+        "desc": "The Stargazer spends their time gazing intently up at the heavens, watching the stars and wondering what fate they might have in store for them."
+    },
+    "demon-beast": {
+        "name": "Demon Beast",
+        "desc": "An ancient guardian"
+    },
+    "demon-soldier": {
+        "name": "Demon Soldier",
+        "desc": "An ancient guardian"
+    },
+    "ancient-insect": {
+        "name": "Ancient Insect",
+        "desc": "An ancient guardian"
+    },
+    "ancient-guardian": {
+        "name": "Ancient Guardian",
+        "desc": "An ancient guardian"
+    },
+    "undead-rogue": {
+        "name": "Undead Rogue",
+        "desc": "An ancient rogue."
+    },
+    "undead-archer": {
+        "name": "Undead Archer",
+        "desc": "An ancient rogue."
+    },
+    "undead-warrior": {
+        "name": "Undead Warrior",
+        "desc": "An ancient warrior."
+    },
+    "undead-lifetaker": {
+        "name": "Undead Lifetaker",
+        "desc": "An ancient mage."
+    },
+    "stardreamer": {
+        "name": "Stardreamer",
+        "desc": "The Stardreamer is a Tier I evolution from the Stargazer Profession, while keeping all of the Stargazers abilities the Stardreamer also gains the ability to choose an additional constellation."
+    },
+    "baneseller": {
+        "name": "Baneseller",
+        "desc": "Sells bane items."
+    },
+    "starchaser": {
+        "name": "Starchaser",
+        "desc": "The Starchaser is a Tier II evolution from the Stargazer Profession via the Stardreamer Profession, while keeping all of the Stardreamers abilities the Starchaser also gains the ability to choose an additional constellation."
+    },
+    "undead-nuker": {
+        "name": "Undead Nuker",
+        "desc": "An ancient mage."
+    },
+    "star-catcher": {
+        "name": "Star Catcher",
+        "desc": "The Star Catcher is a Tier III evolution from the Stargazer Profession via Stardreamer > Starchaser while keeping all of the Starchasers abilities the Star Catcher can also choose an additional constellation."
+    },
+    "enchantress": {
+        "name": "Enchantress",
+        "desc": "The Enchantress is a Tier I evolution from the Hag Profession."
+    },
+    "toy-box-bully": {
+        "name": "Toy Box Bully",
+        "desc": "Wintersvale Product 2008."
+    },
+    "toy-boxer": {
+        "name": "Toy Boxer",
+        "desc": "Wintersvale Product 2008."
+    },
+    "toy-steed": {
+        "name": "Toy Steed",
+        "desc": "Wintersvale Product 2008."
+    },
+    "christmas-decoration": {
+        "name": "Christmas Decoration",
+        "desc": "Wintersvale Product 2008."
+    },
+    "christmas-ornament": {
+        "name": "Christmas Ornament",
+        "desc": "Wintersvale Product 2008."
+    },
+    "christmas-snack": {
+        "name": "Christmas Snack",
+        "desc": "Wintersvale Product 2008."
+    },
+    "christmas-trinket": {
+        "name": "Christmas Trinket",
+        "desc": "Wintersvale Product 2008."
+    },
+    "christmas-bauble": {
+        "name": "Christmas Bauble",
+        "desc": "Wintersvale Product 2008."
+    },
+    "christmas-plant": {
+        "name": "Christmas Plant",
+        "desc": "Wintersvale Product 2008"
+    },
+    "toy-popgunner": {
+        "name": "Toy Popgunner",
+        "desc": "Wintersvale Product 2008."
+    },
+    "riddler": {
+        "name": "Riddler",
+        "desc": "Riddler"
+    },
+    "witch-store": {
+        "name": "Witch Store",
+        "desc": ""
+    },
+    "drow-trainer": {
+        "name": "Drow Trainer",
+        "desc": ""
+    },
+    "siege-monster": {
+        "name": "Siege Monster",
+        "desc": "Bought extra pet Fighter class."
+    },
+    "siege-wizard": {
+        "name": "Siege Wizard",
+        "desc": "Bought extra pet Fighter class."
+    },
+    "spy": {
+        "name": "Spy",
+        "desc": "The Spy is a Tier I evolution from the Farmer Profession, while keeping all of the Farmers abilities the Spy also gains the ability to <b>Track Items</b> and <b>Stealth</b>.<br><br> As with the Farmer the Spy can use Axes and Fists but also gains Daggers and Thrown Weapons."
+    },
+    "conscript": {
+        "name": "Conscript",
+        "desc": "The Conscript is a Tier I evolution from the Farmer Profession, while keeping all of the Farmer abilities the Conscript also gains the ability to use <b>Swords</b>.<br><br> As with the Farmer the Conscript can use Axes and Fists."
+    },
+    "majestic-master": {
+        "name": "Majestic Master",
+        "desc": "Bought extra pet Master class."
+    },
+    "majestic-crafter": {
+        "name": "Majestic Crafter",
+        "desc": "Bought extra pet Crafter class."
+    },
+    "shadow-collective-agent": {
+        "name": "Shadow Collective Agent",
+        "desc": "An agent of the Shadow Collective."
+    },
+    "massive-monster": {
+        "name": "Massive Monster",
+        "desc": null
+    },
+    "massive-obstacle": {
+        "name": "Massive Obstacle",
+        "desc": null
+    },
+    "basic-equipment-store": {
+        "name": "Basic Equipment Store",
+        "desc": ""
+    },
+    "basic-garment-store": {
+        "name": "Basic Garment Store",
+        "desc": null
+    },
+    "temptress": {
+        "name": "Temptress",
+        "desc": "The  Temptress is a Tier II evolution from the Hag Profession via Enchantress"
+    },
+    "witch": {
+        "name": "Witch",
+        "desc": "The Witch is a Tier III evolution from the Hag Profession via Enchantress > Temptress."
+    },
+    "hag": {
+        "name": "Hag",
+        "desc": "The Hag is a hybrid combat class primarily using melee combat at lower levels and then a mix of magic and melee at higher levels."
+    },
+    "denshi": {
+        "name": "Denshi",
+        "desc": "The Denshi is a Tier II evolution from the Farmer Profession via spy, while keeping all of the Spies abilities the Denshi also gains the abilty to use <b>Targeted Combat</b>."
+    },
+    "samurai": {
+        "name": "Samurai",
+        "desc": "The Samurai is a Tier II evolution from the Farmer Profession via conscript, while keeping all of the Conscripts abilities the Samurai also gains the abilty to use <b>Way of the Warrior</b>, <b>Taunting</b> and <b>Two Handed Swords</b>."
+    },
+    "ninja": {
+        "name": "Ninja",
+        "desc": "The Ninja is a Tier III evolution from the Farmer Profession via Spy > Denshi > Ninja, the Ninja gains the ability to use <b>Parlor Tricks</b> and <b>Lockpick</b>."
+    },
+    "shogun": {
+        "name": "Shogun",
+        "desc": "The Shogun is a Tier III evolution from the Farmer Profession via Conscript > Samurai > Shogun, the Shogun gains the ability to claim taxes via <b>Lordship</b> and to wield <b>Pole Weapons</b>."
+    },
+    "bad-food": {
+        "name": "Bad Food",
+        "desc": null
+    },
+    "tiny-monster": {
+        "name": "Tiny Monster",
+        "desc": null
+    },
+    "mercenary": {
+        "name": "Mercenary",
+        "desc": "A hired hand, useful for certain encounters."
+    },
+    "gladiator": {
+        "name": "Gladiator",
+        "desc": "The Gladiator is a Tier I evolution from the Mercenary Profession, gaining enhanced stats."
+    },
+    "basic-armor-store": {
+        "name": "Basic Armor Store",
+        "desc": null
+    },
+    "vanquisher": {
+        "name": "Vanquisher",
+        "desc": "The Vanquisher is a Tier II evolution from the Mercenary Profession by way of Gladiator, gaining enhanced stats."
+    },
+    "gladiator-rewarder": {
+        "name": "Gladiator Rewarder",
+        "desc": "Rewards good Gladiators."
+    },
+    "gladiator-appraiser": {
+        "name": "Gladiator Appraiser",
+        "desc": "The appraiser is a master of discovering the truth about items, buildings and players"
+    },
+    "gunner": {
+        "name": "Gunner",
+        "desc": "Gunner"
+    },
+    "ancient-hunter": {
+        "name": "Ancient Hunter",
+        "desc": "4th Anniversary"
+    },
+    "ancient-scavenger": {
+        "name": "Ancient Scavenger",
+        "desc": "4th Anniversary"
+    },
+    "majestic-mini-boss": {
+        "name": "Majestic Mini Boss",
+        "desc": "Bought extra pet Mini boss class."
+    },
+    "legendary-warrior": {
+        "name": "Legendary Warrior",
+        "desc": "Bought extra pet Warrior class."
+    },
+    "legendary-wizard": {
+        "name": "Legendary Wizard",
+        "desc": "Bought extra pet Wizard class."
+    },
+    "legendary-bloodmage": {
+        "name": "Legendary Bloodmage",
+        "desc": "Bought extra pet Bloodmage class."
+    },
+    "inventor": {
+        "name": "Inventor",
+        "desc": "Testing"
+    },
+    "alien-slinker": {
+        "name": "Alien Slinker",
+        "desc": "An alien rogue."
+    },
+    "alien-spitter": {
+        "name": "Alien Spitter",
+        "desc": "An alien archer."
+    },
+    "alien-squabbler": {
+        "name": "Alien Squabbler",
+        "desc": "An alien warrior."
+    },
+    "alien-curer": {
+        "name": "Alien Curer",
+        "desc": "An alien healer."
+    },
+    "alien-zapper": {
+        "name": "Alien Zapper",
+        "desc": "An alien mage."
+    },
+    "alien-guardian": {
+        "name": "Alien Guardian",
+        "desc": "An elite alien guardian of ubernation!"
+    },
+    "summer-vendor": {
+        "name": "Summer Vendor",
+        "desc": "Sells some refreshing items."
+    },
+    "ancient-cook": {
+        "name": "Ancient Cook",
+        "desc": "4th Anniversary"
+    },
+    "stitchworker": {
+        "name": "Stitchworker",
+        "desc": "The Stitchworker is a Tier I evolution from the Inventor Profession, while keeping all of the Inventor abilities the Stitchworker also gains the ability to use <b>Blood over Beauty</b> and a <b>weapon skill</b> of your choosing."
+    },
+    "flesh-dealer": {
+        "name": "Flesh Dealer",
+        "desc": "The Flesh Dealer is a Tier II evolution from the Inventor Profession via Stitchworker."
+    },
+    "mutilator": {
+        "name": "Mutilator",
+        "desc": "The Warmachine is a Tier III evolution from the Inventor Profession via Stitchworker > Flesh Dealer."
+    },
+    "junker": {
+        "name": "Junker",
+        "desc": "The Junker is a Tier I evolution from the Inventor Profession, while keeping all of the Inventor abilities the Junker also gains the ability to use <b>Bolts over Brains</b> and a <b>weapon skill</b> of your choosing."
+    },
+    "clockwork": {
+        "name": "Clockwork",
+        "desc": "The Flesh Dealer is a Tier II evolution from the Inventor Profession via Junker."
+    },
+    "war-machine": {
+        "name": "War Machine",
+        "desc": "The War Machine is a Tier III evolution from the Inventor Profession via Junker > Clockwork."
+    }
+}
