@@ -7,6 +7,9 @@
         "$type": {
             "const": "/v1/accounts/returning/returning-account"
         },
+        "token": {
+            "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
+        },
         "username": {
             "type": "string"
         },
@@ -19,6 +22,7 @@
     },
     "required": [
         "$type",
+        "token",
         "username",
         "characters"
     ]
