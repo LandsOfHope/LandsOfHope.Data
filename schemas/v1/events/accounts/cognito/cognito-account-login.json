@@ -1,0 +1,18 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/cognito/cognito-account-login.json",
+    "title": "CognitoAccountLoginEvent",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/events/accounts/cognito/cognito-account-login"
+        },
+        "idToken": {
+            "$ref": "/schemas/v1/accounts/cognito/cognito-id-token.json"
+        }
+    },
+    "required": [
+        "$type",
+        "idToken"
+    ]
+}

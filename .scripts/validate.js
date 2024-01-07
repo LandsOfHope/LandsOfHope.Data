@@ -85,7 +85,7 @@ const checkSchemaTypes = async () => {
           console.error(`schema ${schema.$id} is missing $type`);
           return ret || 1;
         }
-      } else if (!schema.required.find(req => req === "$type")) {
+      } else if (!schema.required?.find(req => req === "$type")) {
         if (schemasWithOptionalTypeSpecifier.find(s => s == schema.$id) == undefined) {
           console.error(`schema ${schema.$id} does not mark $type as required`);
           return ret || 1;

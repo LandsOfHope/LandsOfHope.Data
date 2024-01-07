@@ -18,6 +18,9 @@
         },
         "created": {
             "$ref": "/schemas/v0/datetime.json"
+        },
+        "sources": {
+            "$ref": "/schemas/v1/accounts/account-sources.json"
         }
     },
     "required": [
@@ -25,6 +28,7 @@
         "uid",
         "primarySource",
         "secret",
-        "created"
+        "created",
+        "sources"
     ]
 }

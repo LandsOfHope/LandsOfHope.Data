@@ -7,16 +7,12 @@
         "$type": {
             "const": "/v1/events/accounts/account-login"
         },
-        "source": {
-            "$ref": "/schemas/v1/accounts/account-source.json"
-        },
-        "idToken": {
-            "$ref": "/schemas/v1/accounts/cognito/cognito-id-token.json"
+        "account": {
+            "$ref": "/schemas/v1/accounts/account.json"
         }
     },
     "required": [
         "$type",
-        "source",
-        "idToken"
+        "account"
     ]
 }
