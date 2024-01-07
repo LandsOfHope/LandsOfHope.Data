@@ -1,0 +1,11 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/services/service-log-level.json",
+    "title": "ServiceLogLevel",
+    "enum": [
+        "trace",
+        "debug",
+        "information",
+        "warning",
+        "error"
+    ]
+}
