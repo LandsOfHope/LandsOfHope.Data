@@ -11,7 +11,7 @@
             "$ref": "/schemas/v1/accounts/account-source.json"
         },
         "idToken": {
-            "type": "string"
+            "$ref": "/schemas/v1/accounts/cognito/cognito-id-token.json"
         }
     },
     "required": [
