@@ -1,0 +1,20 @@
+{
+    "sub": "00000000-0000-0000-0000-000000000000",
+    "cognito:groups": [
+        "gamemasters",
+        "moderators",
+        "admins"
+    ],
+    "email_verified": true,
+    "iss": "https://cognito-idp.region.amazonaws.com/region_aaaaaaa",
+    "custom:returning_player_id": "ret_0",
+    "origin_jti": "aaaaaaaaaaaaaa",
+    "aud": "bbbbbbbbbbbbbb",
+    "event_id": "00000000-0000-0000-0000-000000000000",
+    "token_use": "id",
+    "auth_time": 1,
+    "exp": 1,
+    "iat": 1,
+    "jti": "cccccccccccccc",
+    "email": "test@landsofhope.com"
+}

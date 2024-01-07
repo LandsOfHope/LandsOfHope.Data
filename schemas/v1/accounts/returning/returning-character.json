@@ -17,10 +17,7 @@
             "$ref": "/schemas/v1/professions-id.json"
         },
         "sex": {
-            "enum": [
-                "M",
-                "F"
-            ]
+            "$ref": "/schemas/v0/characters/character-sex.json"
         },
         "currentImage": {
             "$ref": "/schemas/v1/characters/images-id.json"

@@ -31,6 +31,8 @@ const schemasWithOptionalTypeSpecifier = [
   'https://data.landsofhope.com/schemas/v1/coordinate2.json',
   'https://data.landsofhope.com/schemas/v1/coordinate3.json',
 
+  'https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-id-token.json'
+
 ]
 
 const validateAll = async (schema, fileGlob) => {
@@ -117,6 +119,7 @@ const main = async function () {
     validateAll("schemas/v1/races/race-evolution-graph.json", "races/evolution/race-evolution.json"),
     validateAll("schemas/v1/characters/character-creation-images.json", "characters/character-creation-images.json"),
 
+    validateTestData("v1/accounts/cognito/cognito-id-token"),
     validateTestData("v1/characters/appearance-profile"),
     validateTestData("v1/characters/character-id"),
     validateTestData("v1/chat/chat-mention"),
