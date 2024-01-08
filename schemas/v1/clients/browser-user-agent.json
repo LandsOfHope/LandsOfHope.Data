@@ -28,6 +28,6 @@
     },
     "required": [
         "$type",
-        "userAgentString"
+        "ua"
     ]
 }
