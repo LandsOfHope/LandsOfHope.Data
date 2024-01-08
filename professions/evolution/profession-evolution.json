@@ -105,6 +105,10 @@
 
         ["animator", "shaper"],
         ["shaper", "manipulator"],
-        ["manipulator", "geomancer"]
+        ["manipulator", "geomancer"],
+
+        ["mercenary", "gladiator"],
+        ["gladiator", "vanquisher"],
+        ["vanquisher", "champion"]
     ]
 }
