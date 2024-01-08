@@ -1,0 +1,7 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/clients/country-code.json",
+    "title": "CountryCode",
+    "type": "string",
+    "minLength": 2,
+    "maxLength": 2
+}
