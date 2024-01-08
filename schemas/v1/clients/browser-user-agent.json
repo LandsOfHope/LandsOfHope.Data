@@ -1,0 +1,33 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/clients/browser-user-agent.json",
+    "title": "BrowserUserAgent",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/clients/browser-user-agent"
+        },
+        "ua": {
+            "type": "string"
+        },
+        "browser": {
+            "type": "string"
+        },
+        "device": {
+            "type": "string"
+        },
+        "engine": {
+            "type": "string"
+        },
+        "os": {
+            "type": "string"
+        },
+        "cpu": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "$type",
+        "ua"
+    ]
+}
