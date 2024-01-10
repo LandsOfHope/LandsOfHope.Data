@@ -1,0 +1,18 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/returning/returning-account-unsubscribe.json",
+    "title": "ReturningAccountUnsubscribeEvent",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/events/accounts/returning/returning-account-unsubscribe"
+        },
+        "token": {
+            "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
+        }
+    },
+    "required": [
+        "$type",
+        "token"
+    ]
+}
