@@ -19,7 +19,7 @@ jobs:
           persist-credentials: false
       - uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: "8.x"
+          dotnet-version: 8
       - name: install gitversion
         uses: gittools/actions/gitversion/setup@v0
         with:
@@ -43,7 +43,13 @@ jobs:
       - name: compile schemas
         run: node .scripts/compile_schemas.js
       - name: generate typescript api types
-        run: docker run --rm -v $PWD/schemas:/schemas -v $PWD/api:/api -v $PWD/.scripts/generate_api_ts.sh:/generate_api_ts.sh node sh generate_api_ts.sh
+        uses: addnab/docker-run-action@v3
+        with:
+          image: node
+          options: --volumes-from ${{ env.JOB_CONTAINER_NAME }}
+          run: |
+            cd ${{ github.workspace }}
+            ./scripts/generate_api_ts.sh
       - name: generate health file
         run: node .scripts/generate_health.js
       - run: pip install s3cmd
