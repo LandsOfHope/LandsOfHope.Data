@@ -11,6 +11,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    container: ghcr.io/catthehacker/ubuntu:runner-latest
     name: Deploy
     steps:
       - uses: actions/checkout@v4
@@ -55,7 +56,7 @@ jobs:
         run: node .scripts/generate_health.js
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.10.13"
+          python-version: "3.10"
       - run: pip install s3cmd
       - name: Publish
         run: s3cmd sync --no-mime-magic --guess-mime-type --access_key=${{ secrets.AWS_ACCESS_KEY_ID }} --secret_key=${{ secrets.AWS_SECRET_ACCESS_KEY }} --host=${{ secrets.AWS_ENDPOINT_URL }} --host-bucket=${{ secrets.AWS_ENDPOINT_URL }} --bucket-location=auto --delete-removed --delete-after --no-preserve --recursive --rexclude "^\..*$" . 's3://lohdata'
