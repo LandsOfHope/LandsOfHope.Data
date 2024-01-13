@@ -1,0 +1,22 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/cognito/cognito-account-email-update-requested.json",
+    "title": "CognitoAccountEmailUpdateRequestedEvent",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/events/accounts/cognito/cognito-account-email-update-requested"
+        },
+        "account": {
+            "$ref": "/schemas/v1/accounts/cognito/cognito-account.json"
+        },
+        "client": {
+            "$ref": "/schemas/v1/clients/client.json"
+        }
+    },
+    "required": [
+        "$type",
+        "account",
+        "client"
+    ]
+}
