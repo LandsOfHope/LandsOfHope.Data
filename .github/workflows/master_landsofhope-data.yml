@@ -17,6 +17,8 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: false
+      - name: install dotnet
+        run: apt install dotnet-sdk-8.0
       - name: install gitversion
         uses: gittools/actions/gitversion/setup@v0
         with:
