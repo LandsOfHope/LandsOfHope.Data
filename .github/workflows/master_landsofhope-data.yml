@@ -49,7 +49,7 @@ jobs:
           options: --volumes-from ${{ env.JOB_CONTAINER_NAME }}
           run: |
             cd ${{ github.workspace }}
-            ./scripts/generate_api_ts.sh
+            ./.scripts/generate_api_ts.sh
       - name: generate health file
         run: node .scripts/generate_health.js
       - run: pip install s3cmd
