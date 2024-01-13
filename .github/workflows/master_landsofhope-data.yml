@@ -11,7 +11,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    container: ghcr.io/catthehacker/ubuntu:runner-latest
+    container: ghcr.io/catthehacker/ubuntu:act-latest
     name: Deploy
     steps:
       - uses: actions/checkout@v4
