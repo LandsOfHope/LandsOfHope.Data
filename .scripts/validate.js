@@ -67,8 +67,21 @@ const validateTestData = (path) => validateAll(`schemas/${path}.json`, `.validat
 
 const validateNegativeTestData = (path) => failAll(`schemas/${path}.json`, `.validation-test-data/${path}.negative.*.json`)
 
+const readSchema = async (schema) => {
+  return [schema, await readFile(schema, { encoding: 'utf-8' })];
+}
+
+const parseSchema = ([schema, content]) => {
+  try {
+    return JSON.parse(content);
+  } catch (err) {
+    console.log('schema failed to parse', schema);
+    throw err;
+  }
+}
+
 const checkSchemaTypes = async () => {
-  const schemaObjects = Array.from(await Promise.all(schemas.map(schema => readFile(schema, { encoding: 'utf-8' }).then(txt => JSON.parse(txt)))));
+  const schemaObjects = Array.from(await Promise.all(schemas.map(readSchema)).then(res => res.map(parseSchema)));
   return schemaObjects.reduce((ret, schema) => {
     if (schema.type == 'object') {
       if (schema.oneOf) {
