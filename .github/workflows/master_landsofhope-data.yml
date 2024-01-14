@@ -11,7 +11,10 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    container: ghcr.io/catthehacker/ubuntu:act-latest
+    container:
+      image: ghcr.io/catthehacker/ubuntu:act-latest
+      volumes:
+        - act-toolcache:/opt/hostedtoolcache
     name: Deploy
     steps:
       - uses: actions/checkout@v4
