@@ -109,6 +109,10 @@
 
         ["mercenary", "gladiator"],
         ["gladiator", "vanquisher"],
-        ["vanquisher", "champion"]
+        ["vanquisher", "champion"],
+
+        ["inventor", "junker"],
+        ["junker", "clockwork"],
+        ["clockwork", "war-machine"]
     ]
 }
