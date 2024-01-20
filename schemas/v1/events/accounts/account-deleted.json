@@ -7,12 +7,12 @@
         "$type": {
             "const": "/v1/events/accounts/account-deleted"
         },
-        "uid": {
-            "$ref": "/schemas/v1/accounts/account-id.json"
+        "account": {
+            "$ref": "/schemas/v1/accounts/account.json"
         }
     },
     "required": [
         "$type",
-        "uid"
+        "account"
     ]
 }
