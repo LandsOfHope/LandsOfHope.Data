@@ -6,6 +6,7 @@ const glob = require("glob");
 const fs = require("fs");
 const path = require("path");
 const Ajv = require("ajv");
+const addFormats = require('ajv-formats');
 const standaloneCode = require("ajv/dist/standalone").default
 
 const schemaVersions = glob.sync('schemas/*');
@@ -24,8 +25,8 @@ const main = async function () {
         const ajv = new Ajv({
             strict: true,
             code: { source: true, esm: true },
-
         });
+        addFormats(ajv);
 
         schemaFiles.forEach(schema => {
             ajv.addSchema(schema);
