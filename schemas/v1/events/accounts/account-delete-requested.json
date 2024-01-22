@@ -12,11 +12,16 @@
         },
         "client": {
             "$ref": "/schemas/v1/clients/client.json"
+        },
+        "deleteConfirmationLink": {
+            "type": "string",
+            "format": "uri"
         }
     },
     "required": [
         "$type",
         "account",
-        "client"
+        "client",
+        "deleteConfirmationLink"
     ]
 }
