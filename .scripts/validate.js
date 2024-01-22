@@ -44,7 +44,7 @@ const validateAll = async (schema, fileGlob) => {
     throw Error(`Could not find files matching glob ${fileGlob}`);
   return (
     await exec(
-      `node ${__dirname}/node_modules/ajv-cli/dist test -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --valid`
+      `node ${__dirname}/node_modules/ajv-cli/dist test -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --valid`
     )
   ).exitCode;
 };
@@ -58,7 +58,7 @@ const failAll = async (schema, fileGlob) => {
     throw Error(`Could not find files matching glob ${fileGlob}`);
   return (
     await exec(
-      `node ${__dirname}/node_modules/ajv-cli/dist test -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --invalid`
+      `node ${__dirname}/node_modules/ajv-cli/dist test -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --invalid`
     )
   ).exitCode;
 };
