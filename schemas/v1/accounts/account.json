@@ -21,6 +21,9 @@
         },
         "sources": {
             "$ref": "/schemas/v1/accounts/account-sources.json"
+        },
+        "deleteRequested": {
+            "$ref": "/schemas/v0/datetime.json"
         }
     },
     "required": [
