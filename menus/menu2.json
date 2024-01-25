@@ -1814,17 +1814,6 @@
             {
                 "$type": "/v1/menus/menu",
                 "name": {
-                    "en": "Idea Search"
-                },
-                "link": "fhfeatures.asp"
-            },
-            {
-                "$type": "/v1/menus/horizontal-rule",
-                "img": "hr.gif"
-            },
-            {
-                "$type": "/v1/menus/menu",
-                "name": {
                     "en": "Report Bug"
                 },
                 "link": "fhbugn.asp"
