@@ -1,0 +1,6 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/account-delete-token.json",
+    "title": "AccountDeleteToken",
+    "type": "string",
+    "pattern": "^accdel_[0-9a-fA-F]{64}$"
+}

@@ -13,15 +13,14 @@
         "client": {
             "$ref": "/schemas/v1/clients/client.json"
         },
-        "deleteConfirmationLink": {
-            "type": "string",
-            "format": "uri"
+        "deleteToken": {
+            "$ref": "/schemas/v1/accounts/account-delete-token.json"
         }
     },
     "required": [
         "$type",
         "account",
         "client",
-        "deleteConfirmationLink"
+        "deleteToken"
     ]
 }
