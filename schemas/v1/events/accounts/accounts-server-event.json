@@ -10,7 +10,25 @@
             "$ref": "/schemas/v1/events/accounts/cognito/cognito-account-login.json"
         },
         {
+            "$ref": "/schemas/v1/events/accounts/cognito/cognito-account-email-update-requested.json"
+        },
+        {
             "$ref": "/schemas/v1/events/accounts/account-login.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/accounts/account-delete-requested.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/accounts/account-deleted.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/accounts/signup/account-sign-up.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/accounts/signup/returning-account-sign-up.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/accounts/returning/returning-account-unsubscribe.json"
         }
     ]
 }
