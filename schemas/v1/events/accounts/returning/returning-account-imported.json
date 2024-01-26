@@ -1,11 +1,11 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/returning-account-imported.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/returning/returning-account-imported.json",
     "title": "ReturningAccountImportedEvent",
     "type": "object",
     "additionalProperties": false,
     "properties": {
         "$type": {
-            "const": "/v1/events/accounts/returning-account-imported"
+            "const": "/v1/events/accounts/returning/returning-account-imported"
         },
         "username": {
             "type": "string"

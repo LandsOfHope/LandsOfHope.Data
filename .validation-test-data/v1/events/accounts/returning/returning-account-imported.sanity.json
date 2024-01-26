@@ -1,5 +1,5 @@
 {
-    "$type": "/v1/events/accounts/returning-account-imported",
+    "$type": "/v1/events/accounts/returning/returning-account-imported",
     "username": "test",
     "email": "test@landsofhope.com",
     "returningPlayerAccountToken": "ret_8b7b9e6d-a6e5-4d15-888e-fe55904521bd"

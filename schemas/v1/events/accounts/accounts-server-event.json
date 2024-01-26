@@ -4,9 +4,6 @@
     "type": "object",
     "oneOf": [
         {
-            "$ref": "/schemas/v1/events/accounts/returning-account-imported.json"
-        },
-        {
             "$ref": "/schemas/v1/events/accounts/cognito/cognito-account-login.json"
         },
         {
@@ -28,7 +25,10 @@
             "$ref": "/schemas/v1/events/accounts/signup/returning-account-sign-up.json"
         },
         {
-            "$ref": "/schemas/v1/events/accounts/returning/returning-account-unsubscribe.json"
+            "$ref": "/schemas/v1/events/accounts/returning/returning-account-unsubscribed.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/accounts/returning/returning-account-imported.json"
         }
     ]
 }
