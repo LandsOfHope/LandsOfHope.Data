@@ -132,6 +132,7 @@ const main = async function () {
     validateAll("schemas/v1/races/race-evolution-graph.json", "races/evolution/race-evolution.json"),
     validateAll("schemas/v1/characters/character-creation-images.json", "characters/character-creation-images.json"),
 
+    validateTestData("v1/accounts/account"),
     validateTestData("v1/accounts/cognito/cognito-id-token"),
     validateTestData("v1/characters/appearance-profile"),
     validateTestData("v1/characters/character-id"),

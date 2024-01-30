@@ -1,0 +1,18 @@
+{
+    "$type": "/v1/accounts/account",
+    "uid": "00000000-0000-0000-0000-000000000000",
+    "primarySource": "cognito",
+    "secret": "00000000000000000000000000000000",
+    "created": "2024-01-07T17:27:48.750Z",
+    "deleteRequested": null,
+    "sources": {
+        "$type": "/v1/accounts/account-sources",
+        "cognito": {
+            "$type": "/v1/accounts/cognito/cognito-account",
+            "sub": "00000000-0000-0000-0000-000000000000",
+            "username": "test",
+            "email": "test@landsofhope.com",
+            "created": "2024-01-07T17:27:48.750Z"
+        }
+    }
+}
