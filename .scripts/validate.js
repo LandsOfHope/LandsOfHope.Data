@@ -31,7 +31,8 @@ const schemasWithOptionalTypeSpecifier = [
   'https://data.landsofhope.com/schemas/v1/coordinate2.json',
   'https://data.landsofhope.com/schemas/v1/coordinate3.json',
 
-  'https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-id-token.json'
+  'https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-id-token.json',
+  'https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-access-token.json'
 
 ]
 
