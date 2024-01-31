@@ -1,0 +1,22 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/delete/account-reactivated.json",
+    "title": "AccountReactivatedEvent",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/events/accounts/delete/account-reactivated"
+        },
+        "account": {
+            "$ref": "/schemas/v1/accounts/account.json"
+        },
+        "client": {
+            "$ref": "/schemas/v1/clients/client.json"
+        }
+    },
+    "required": [
+        "$type",
+        "account",
+        "client"
+    ]
+}

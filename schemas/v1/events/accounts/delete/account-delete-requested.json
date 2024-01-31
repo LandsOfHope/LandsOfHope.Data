@@ -1,11 +1,11 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/account-delete-requested.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/delete/account-delete-requested.json",
     "title": "AccountDeleteRequestedEvent",
     "type": "object",
     "additionalProperties": false,
     "properties": {
         "$type": {
-            "const": "/v1/events/accounts/account-delete-requested"
+            "const": "/v1/events/accounts/delete/account-delete-requested"
         },
         "account": {
             "$ref": "/schemas/v1/accounts/account.json"
@@ -14,7 +14,7 @@
             "$ref": "/schemas/v1/clients/client.json"
         },
         "deleteToken": {
-            "$ref": "/schemas/v1/accounts/account-delete-token.json"
+            "$ref": "/schemas/v1/accounts/delete/account-delete-token.json"
         }
     },
     "required": [

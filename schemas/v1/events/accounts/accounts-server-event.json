@@ -13,10 +13,13 @@
             "$ref": "/schemas/v1/events/accounts/account-login.json"
         },
         {
-            "$ref": "/schemas/v1/events/accounts/account-delete-requested.json"
+            "$ref": "/schemas/v1/events/accounts/delete/account-delete-requested.json"
         },
         {
-            "$ref": "/schemas/v1/events/accounts/account-deleted.json"
+            "$ref": "/schemas/v1/events/accounts/delete/account-reactivated.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/accounts/delete/account-deleted.json"
         },
         {
             "$ref": "/schemas/v1/events/accounts/signup/account-sign-up.json"
