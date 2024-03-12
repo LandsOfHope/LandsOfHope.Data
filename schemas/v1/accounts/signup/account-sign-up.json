@@ -16,6 +16,9 @@
         "password": {
             "type": "string"
         },
+        "dateOfBirth": {
+            "$ref": "/schemas/v0/date.json"
+        },
         "referrer": {
             "$ref": "/schemas/v1/accounts/account-id.json"
         }
@@ -24,6 +27,7 @@
         "$type",
         "email",
         "username",
-        "password"
+        "password",
+        "dateOfBirth"
     ]
 }
