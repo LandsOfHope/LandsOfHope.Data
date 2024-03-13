@@ -47,14 +47,7 @@ jobs:
       - name: compile schemas
         run: node .scripts/compile_schemas.js
       - name: generate typescript api types
-        uses: addnab/docker-run-action@v3
-        with:
-          image: node
-          options: --volumes-from ${{ env.JOB_CONTAINER_NAME }}
-          run: |
-            cd ${{ github.workspace }}
-            ln -s ${{ github.workspace }}/schemas /schemas
-            ./.scripts/generate_api_ts.sh
+        run: docker run --rm --volumes-from ${{ env.JOB_CONTAINER_NAME }} --entrypoint "sh -c" node@latest cd ${{ github.workspace }} && ln -s ${{ github.workspace }}/schemas /schemas && ./.scripts/generate_api_ts.sh
       - name: generate health file
         run: node .scripts/generate_health.js
       - uses: actions/setup-python@v5
