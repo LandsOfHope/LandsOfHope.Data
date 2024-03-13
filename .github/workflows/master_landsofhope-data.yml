@@ -46,10 +46,8 @@ jobs:
         run: node .scripts/validate
       - name: compile schemas
         run: node .scripts/compile_schemas.js
-      - name: debug
-        run: echo docker run --rm --volumes-from ${{ env.JOB_CONTAINER_NAME }} --entrypoint "sh -c" node@latest cd ${{ github.workspace }} && ln -s ${{ github.workspace }}/schemas /schemas && ./.scripts/generate_api_ts.sh
       - name: generate typescript api types
-        run: docker run --rm --volumes-from ${{ env.JOB_CONTAINER_NAME }} --entrypoint "sh -c" node@latest cd ${{ github.workspace }} && ln -s ${{ github.workspace }}/schemas /schemas && ./.scripts/generate_api_ts.sh
+        run: ln -s ${{ github.workspace }}/schemas /schemas && ./.scripts/generate_api_ts.sh
       - name: generate health file
         run: node .scripts/generate_health.js
       - uses: actions/setup-python@v5
