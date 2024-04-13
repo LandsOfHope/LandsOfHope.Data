@@ -10,6 +10,9 @@
         "account": {
             "$ref": "/schemas/v1/accounts/account-id.json"
         },
+        "secret": {
+            "$ref": "/schemas/v1/accounts/account-secret.json"
+        },
         "credits": {
             "type": "integer",
             "minimum": 1
@@ -21,6 +24,7 @@
     "required": [
         "$type",
         "account",
+        "secret",
         "credits",
         "stripeCheckoutId"
     ]

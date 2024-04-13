@@ -10,6 +10,9 @@
         "account": {
             "$ref": "/schemas/v1/accounts/account-id.json"
         },
+        "secret": {
+            "$ref": "/schemas/v1/accounts/account-secret.json"
+        },
         "status": {
             "$ref": "/schemas/v1/payments/subscriptions/subscription-status.json"
         },
@@ -20,6 +23,7 @@
     "required": [
         "$type",
         "account",
+        "secret",
         "status",
         "stripeSubscriptionId"
     ]
