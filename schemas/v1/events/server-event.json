@@ -8,6 +8,9 @@
         },
         {
             "$ref": "/schemas/v1/events/accounts/accounts-server-event.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/payments/payment-server-event.json"
         }
     ]
 }

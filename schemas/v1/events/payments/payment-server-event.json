@@ -1,0 +1,13 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/payments/payment-server-event.json",
+    "title": "PaymentServerEvent",
+    "type": "object",
+    "oneOf": [
+        {
+            "$ref": "/schemas/v1/events/payments/stripe/subscriptions/subscription-updated-event.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/payments/stripe/credits/credit-purchase-completed-event.json"
+        }
+    ]
+}
