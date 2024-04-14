@@ -1,0 +1,33 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/payments/stripe/stripe-event.json",
+    "title": "StripeEvent",
+    "type": "object",
+    "additionalProperties": true,
+    "properties": {
+        "id": {
+            "type": "string"
+        },
+        "object": {
+            "const": "event"
+        },
+        "api_version": {
+            "$ref": "/schemas/v0/date.json"
+        },
+        "data": {
+            "type": "object",
+            "additionalProperties": true,
+            "properties": {
+                "object": {
+                    "type":"object",
+                    "additionalProperties": true
+                }
+            }
+        }
+    },
+    "required": [
+        "id",
+        "object",
+        "api_version",
+        "data"
+    ]
+}
