@@ -34,7 +34,9 @@ const schemasWithOptionalTypeSpecifier = [
   'https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-id-token.json',
   'https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-access-token.json',
   
-  'https://data.landsofhope.com/schemas/v1/events/payments/stripe/stripe-event.json'
+  'https://data.landsofhope.com/schemas/v1/events/payments/stripe/stripe-event.json',
+
+  "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history.json"
 
 ]
 
@@ -152,6 +154,8 @@ const main = async function () {
     validateTestData("v1/events/live/live-client-event"),
     validateNegativeTestData("v1/events/live/live-client-event"),
     validateTestData("v1/stats/ranking-list"),
+
+    validateTestData("v1/payments/credits/credit-history-support-adjustment"),
 
     checkSchemaTypes()
   ]);

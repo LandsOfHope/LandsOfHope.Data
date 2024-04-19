@@ -1,0 +1,23 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-stripe-purchase.json",
+    "title": "CreditHistoryStripePurchase",
+    "type": "object",
+    "allOf": [
+        {
+            "$ref": "/schemas/v1/payments/credits/credit-history.json"
+        }
+    ],
+    "properties": {
+        "$type": {
+            "const": "/v1/payments/credits/credit-history-stripe-purchase"
+        },
+        "stripe_id": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "$type",
+        "stripe_id"
+    ],
+    "additionalProperties": false
+}

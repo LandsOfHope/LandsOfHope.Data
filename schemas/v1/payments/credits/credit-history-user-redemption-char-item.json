@@ -1,0 +1,26 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-user-redemption-char-item.json",
+    "title": "CreditHistoryUserRedemptionCharItem",
+    "type": "object",
+    "allOf": [
+        {
+            "$ref": "/schemas/v1/payments/credits/credit-history.json"
+        }
+    ],
+    "properties": {
+        "$type": {
+            "const": "/v1/payments/credits/credit-history-user-redemption-char-item"
+        },
+        "item_character_id": {
+            "$ref": "/schemas/v1/characters/character-id.json"
+        },
+        "inventory_item_id": {
+            "type": "number"
+        }
+    },
+    "required": [
+        "$type",
+        "item_character_id",
+        "inventory_item_id"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history.json",
+    "title": "CreditHistory",
+    "type": "object",
+    "properties": {
+        "created": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "amount_transferrable": {
+            "type": "integer"
+        },
+        "amount_nontransferrable": {
+            "type": "integer"
+        }
+    },
+    "required": [
+        "created",
+        "amount_transferrable",
+        "amount_nontransferrable"
+    ]
+}
