@@ -12,7 +12,7 @@
             "const": "/v1/payments/credits/credit-history-user-redemption-char-enhancement"
         },
         "enhancement_character_id": {
-            "$ref": "/schemas/v1/characters/character-id.json"
+            "type": "integer"
         },
         "enhancement_type": {
             "type": "string"

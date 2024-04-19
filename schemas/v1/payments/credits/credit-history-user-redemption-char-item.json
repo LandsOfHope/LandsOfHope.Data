@@ -12,10 +12,10 @@
             "const": "/v1/payments/credits/credit-history-user-redemption-char-item"
         },
         "item_character_id": {
-            "$ref": "/schemas/v1/characters/character-id.json"
+            "type": "integer"
         },
         "inventory_item_id": {
-            "type": "number"
+            "type": "integer"
         }
     },
     "required": [
