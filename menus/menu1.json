@@ -64,13 +64,6 @@
             {
                 "$type": "/v1/menus/menu",
                 "name": {
-                    "en": "HC Marketplace"
-                },
-                "link": "fhmarkethc.asp"
-            },
-            {
-                "$type": "/v1/menus/menu",
-                "name": {
                     "en": "Claim Account Item"
                 },
                 "link": "fhaccountitem.asp"
