@@ -1,0 +1,10 @@
+{
+    "id": "queue-speed",
+    "max": 3,
+    "levels": {
+        "1": {
+            "value": 1,
+            "hc": 1
+        }
+    }
+}

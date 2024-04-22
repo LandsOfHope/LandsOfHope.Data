@@ -1,0 +1,30 @@
+{
+    "stable-limit": {
+        "name": "Stable Limit",
+        "desc": "Increases the number of pets that your character can store in the stable."
+    },
+    "queue-limit": {
+        "name": "Queue Limit",
+        "desc": "Increases the maximum size of your character's queue, allowing you to queue more things at once."
+    },
+    "queue-speed": {
+        "name": "Queue Speed",
+        "desc": "Decreases the time it takes for queued items to complete."
+    },
+    "bank-limit": {
+        "name": "Bank Limit",
+        "desc": "Increases the number of items that your character can store in the bank."
+    },
+    "backpack-limit": {
+        "name": "Backpack Limit",
+        "desc": "Increases the number of items that your character can carry in their backpack."
+    },
+    "pet-limit": {
+        "name": "Pet Limit",
+        "desc": "Increases the number of pets that can follow your character."
+    },
+    "building-limit": {
+        "name": "Building Limit",
+        "desc": "Increases the number of buildings your character can have."
+    }
+}

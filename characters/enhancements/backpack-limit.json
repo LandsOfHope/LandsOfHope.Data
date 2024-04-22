@@ -1,0 +1,10 @@
+{
+    "id": "backpack-limit",
+    "max": 500,
+    "levels": {
+        "50": {
+            "value": 50,
+            "hc": 1
+        }
+    }
+}

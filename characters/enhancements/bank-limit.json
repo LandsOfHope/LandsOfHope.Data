@@ -1,0 +1,10 @@
+{
+    "id": "bank-limit",
+    "max": 150,
+    "levels": {
+        "5": {
+            "value": 5,
+            "hc": 1
+        }
+    }
+}

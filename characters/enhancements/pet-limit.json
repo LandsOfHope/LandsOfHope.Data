@@ -1,0 +1,10 @@
+{
+    "id": "pet-limit",
+    "max": 60,
+    "levels": {
+        "5": {
+            "value": 5,
+            "hc": 1
+        }
+    }
+}

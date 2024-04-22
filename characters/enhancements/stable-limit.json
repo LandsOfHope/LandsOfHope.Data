@@ -1,0 +1,10 @@
+{
+    "id": "stable-limit",
+    "max": 20,
+    "levels": {
+        "10": {
+            "value": 10,
+            "hc": 1
+        }
+    }
+}

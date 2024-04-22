@@ -1,0 +1,10 @@
+{
+    "id": "queue-limit",
+    "max": 100,
+    "levels": {
+        "5": {
+            "value": 5,
+            "hc": 1
+        }
+    }
+}
