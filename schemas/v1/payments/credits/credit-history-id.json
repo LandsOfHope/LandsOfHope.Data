@@ -2,6 +2,7 @@
     "$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-id.json",
     "title": "CreditHistoryId",
     "type": "string",
-    "minLength": 16,
-    "maxLength": 16
+    "minLength": 32,
+    "maxLength": 32,
+    "pattern": "^[0-9a-f]{32}$"
 }
