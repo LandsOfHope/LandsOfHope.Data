@@ -11,20 +11,20 @@
         "$type": {
             "const": "/v1/payments/credits/credit-history-user-redemption-char-enhancement"
         },
-        "enhancement_character_id": {
+        "enhancementCharacterId": {
             "type": "integer"
         },
-        "enhancement_type": {
+        "enhancementType": {
             "$ref": "/schemas/v1/characters/enhancements-id.json"
         },
-        "enhancement_level": {
+        "enhancementLevel": {
             "type": "integer"
         }
     },
     "required": [
         "$type",
-        "enhancement_character_id",
-        "enhancement_type",
-        "enhancement_level"
+        "enhancementCharacterId",
+        "enhancementType",
+        "enhancementLevel"
     ]
 }

@@ -11,13 +11,13 @@
         "$type": {
             "const": "/v1/payments/credits/credit-history-stripe-purchase"
         },
-        "stripe_id": {
+        "stripeId": {
             "type": "string"
         }
     },
     "required": [
         "$type",
-        "stripe_id"
+        "stripeId"
     ],
     "additionalProperties": false
 }

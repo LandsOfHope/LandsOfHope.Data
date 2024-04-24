@@ -11,12 +11,12 @@
         "$type": {
             "const": "/v1/payments/credits/credit-history-support-adjustment"
         },
-        "support_adjustment_description": {
+        "supportAdjustmentDescription": {
             "type": "string"
         }
     },
     "required": [
         "$type",
-        "support_adjustment_description"
+        "supportAdjustmentDescription"
     ]
 }

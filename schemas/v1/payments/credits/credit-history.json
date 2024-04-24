@@ -6,16 +6,16 @@
         "created": {
             "$ref": "/schemas/v0/datetime.json"
         },
-        "amount_transferrable": {
+        "amountTransferrable": {
             "type": "integer"
         },
-        "amount_nontransferrable": {
+        "amountNontransferrable": {
             "type": "integer"
         }
     },
     "required": [
         "created",
-        "amount_transferrable",
-        "amount_nontransferrable"
+        "amountTransferrable",
+        "amountNontransferrable"
     ]
 }

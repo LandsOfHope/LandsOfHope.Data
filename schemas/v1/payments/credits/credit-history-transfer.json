@@ -11,16 +11,16 @@
         "$type": {
             "const": "/v1/payments/credits/credit-history-transfer"
         },
-        "transfer_account": {
+        "transferAccount": {
             "$ref": "/schemas/v1/accounts/account-id.json"
         },
-        "transfer_message": {
+        "transferMessage": {
             "type": "string"
         }
     },
     "required": [
         "$type",
-        "transfer_account",
-        "transfer_message"
+        "transferAccount",
+        "transferMessage"
     ]
 }

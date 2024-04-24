@@ -11,16 +11,16 @@
         "$type": {
             "const": "/v1/payments/credits/credit-history-user-redemption-char-image"
         },
-        "image_character_id": {
+        "imageCharacterId": {
             "type": "integer"
         },
-        "image_id": {
+        "imageId": {
             "$ref": "/schemas/v1/characters/images-id.json"
         }
     },
     "required": [
         "$type",
-        "image_character_id",
-        "image_id"
+        "imageCharacterId",
+        "imageId"
     ]
 }

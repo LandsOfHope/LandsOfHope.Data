@@ -11,16 +11,16 @@
         "$type": {
             "const": "/v1/payments/credits/credit-history-user-redemption-char-item"
         },
-        "item_character_id": {
+        "itemCharacterId": {
             "type": "integer"
         },
-        "inventory_item_id": {
+        "inventoryItemId": {
             "type": "integer"
         }
     },
     "required": [
         "$type",
-        "item_character_id",
-        "inventory_item_id"
+        "itemCharacterId",
+        "inventoryItemId"
     ]
 }

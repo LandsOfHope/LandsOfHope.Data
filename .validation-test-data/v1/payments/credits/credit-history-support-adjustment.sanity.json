@@ -1,7 +1,7 @@
 {
     "$type": "/v1/payments/credits/credit-history-support-adjustment",
     "created": "2019-01-01T00:00:00Z",
-    "amount_transferrable": 1,
-    "amount_nontransferrable": 0,
-    "support_adjustment_description": "Support adjustment"
+    "amountTransferrable": 1,
+    "amountNontransferrable": 0,
+    "supportAdjustmentDescription": "Support adjustment"
 }
