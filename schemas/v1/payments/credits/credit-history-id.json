@@ -1,0 +1,7 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-id.json",
+    "title": "CreditHistoryId",
+    "type": "string",
+    "minLength": 16,
+    "maxLength": 16
+}

@@ -3,6 +3,9 @@
     "title": "CreditHistory",
     "type": "object",
     "properties": {
+        "id": {
+            "$ref": "/schemas/v1/payments/credits/credit-history-id.json"
+        },
         "created": {
             "$ref": "/schemas/v0/datetime.json"
         },
@@ -14,6 +17,7 @@
         }
     },
     "required": [
+        "id",
         "created",
         "amountTransferrable",
         "amountNontransferrable"
