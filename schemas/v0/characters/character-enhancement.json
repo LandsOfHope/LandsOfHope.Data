@@ -1,0 +1,37 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v0/characters/character-enhancement.json",
+    "title": "CharacterEnhancement",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v0/characters/character-enhancement"
+        },
+        "max": {
+            "type": "integer"
+        },
+        "levels": {
+            "type": "object",
+            "patternProperties": {
+                "\\d+": {
+                    "type": "object",
+                    "title": "CharacterEnhancementLevel",
+                    "properties": {
+                        "value": {
+                            "type": "integer"
+                        },
+                        "hc": {
+                            "type": "integer"
+                        }
+                    }
+                }
+            },
+            "additionalProperties": false
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "max",
+        "levels"
+    ]
+}
