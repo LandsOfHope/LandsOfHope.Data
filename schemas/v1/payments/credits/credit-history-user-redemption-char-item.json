@@ -14,13 +14,13 @@
         "itemCharacterId": {
             "type": "integer"
         },
-        "inventoryItemId": {
-            "type": "integer"
+        "itemExtraId": {
+            "$ref": "/schemas/v0/items/extras-id.json"
         }
     },
     "required": [
         "$type",
         "itemCharacterId",
-        "inventoryItemId"
+        "itemExtraId"
     ]
 }
