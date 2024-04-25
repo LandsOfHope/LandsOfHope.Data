@@ -1,0 +1,484 @@
+{
+    "grabthar`s-hammer": {
+        "name": "Grabthar`s Hammer",
+        "desc": "Grabthar`s Hammer is an item which can be equipped to either of the Special slots. The primary use of the hammer is for providing 5000 deconstruction skill by way of a magic spell on the item. This will allow you to deconstruct any building or item in the game (with no natural skill required). After equipping the Hammer via the Inventory > Equipment screen (Special slot) you can activate the Grabthars Hammer spell via the Inventory > Spells screen (only while it is equipped).<br><br>\r\n<b>The item also has a bonus to Stamina while equipped, to get a higher Stamina bonus you simply need to Adjust the item using the Inventory > Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</b>"
+    },
+    "categories": {
+        "general": {
+            "name": "General"
+        },
+        "trading-card": {
+            "name": "Trading Card"
+        },
+        "pets": {
+            "name": "Pets"
+        },
+        "building-storage": {
+            "name": "Building Storage"
+        },
+        "world": {
+            "name": "World"
+        },
+        "storage-slot-6-thru-7": {
+            "name": "Storage - Slot 6 thru 7"
+        },
+        "aura": {
+            "name": "Aura"
+        },
+        "tiny-tom-addition": {
+            "name": "Tiny Tom Addition"
+        },
+        "dark-depths-addon": {
+            "name": "Dark Depths AddOn"
+        },
+        "cookie-summoning": {
+            "name": "Cookie Summoning"
+        },
+        "keys": {
+            "name": "Keys"
+        },
+        "storage-slot-1-thru-5": {
+            "name": "Storage - Slot 1 thru 5"
+        }
+    },
+    "card-collection-folder": {
+        "name": "Card Collection Folder",
+        "desc": "The Card Collection Folder bought extra can not be equipped, and does not contain any bonuses. This item is intended for people that wish to display all the cards they own by showing them to other people.<br /><br />To use the Collection Folder simply go to the Inventory screen (after taking it out of your Trade Bag) click on the item and click Link, this will send a clickable link to chat and everyone can view the cards you currently have.<br /><br />This item also adds +400 to your card carry limit (default 600) this means you can place more cards into your File &gt; Your Trading Cards list than normal. This bonus is stackable."
+    },
+    "5-card-booster-pack": {
+        "name": "5 Card Booster Pack",
+        "desc": "The 5 Card Booster Pack bought extra can not be equipped, and does not contain any bonuses. This item is a disposable item that is intended for people who collect the trading cards to buy and use. When you use the pack you gain 5 random cards made up of 1 Boss, 2 Ultra Rare and&nbsp;2 Hero cards and the pack itself is destroyed so it only has one use.<br /><br />To use the Pack simply go to the Inventory screen (after taking it out of your Trade Bag) click on the item and click the Use button."
+    },
+    "2-card-booster-pack": {
+        "name": "2 Card Booster Pack",
+        "desc": "The 2 Card Booster Pack bought extra can not be equipped, and does not contain any bonuses. This item is a disposable item that is intended for people who collect the trading cards to buy and use. When you use the pack you gain 2 random Hero cards and the pack itself is destroyed so it only has one use.<br><br>\r\nTo use the Pack simply go to the Inventory screen (after taking it out of your Trade Bag) click on the item and click the Use button."
+    },
+    "ethereal-bindings": {
+        "name": "Ethereal Bindings",
+        "desc": "Ethereal Bindings is an equippable item which can be equipped to the stomach slot. The primary use of this item is for allowing you to tame magical based monsters. This ability needs to be activated after you purchase the item and move it out of your Trade Bag.<br><br><font id=tred>Please note there are very limited spawns of Magical based monsters in the game at the moment with the most being in the Riverscape (+200) realm, there may also be some in selected dungeons.</font><br><br>To activate the ability use the Inventory > Equipment screen to equip it then go to Inventory > Spells and select and activate the Ethereal Knowledge spell.<br><br>\r\n<b>The item also has bonuses to HP and Mana and to get a higher bonus you simply need to Adjust the item using the Inventory > Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</b>"
+    },
+    "sea-dragon": {
+        "name": "Sea Dragon",
+        "desc": "<p>This special item allows its owner to hatch a Sea Dragon.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.<br><br><b>Racial Bonuses</b><br>Intelligence Bonus.</p>"
+    },
+    "polymorphic-belt": {
+        "name": "Polymorphic Belt",
+        "desc": "The Polymorphic Belt is an equippable item which can be equipped to the stomach slot. The primary use of this item is a 5000 point disguise buff. This ability needs to be activated after you purchase the item and move it out of your Trade Bag.<br><br>To activate the ability use the Inventory > Equipment screen to equip it then go to Inventory > Spells and select and activate the Polymorphic Shield spell.<br><br>\r\n<b>The item also has a bonuse to HP, to get a higher bonus you simply need to Adjust the item using the Inventory > Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</b>"
+    },
+    "pegasus": {
+        "name": "Pegasus",
+        "desc": "<p>This special item allows its owner to hatch a Pegasus.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.<br><br><b>Racial Bonuses</b><br>Pegasus Flight and Pegasus Evasion bonuses.</p>"
+    },
+    "cookie-monster": {
+        "name": "Cookie Monster",
+        "desc": "<p>This special item allows its owner to create the special Anniversary event pet the cookie monster.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.<br><br><b>Racial Bonuses</b><br>Overbaked Cookies, Dough Fingers and Blessing of Cookies.</p>"
+    },
+    "nightmare": {
+        "name": "Nightmare",
+        "desc": "<p>This special item allows its owner to hatch a Nightmare.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.<br><br><b>Racial Bonuses</b><br>Nightmare Flight and Nightmare Dexterity bonuses.</p>"
+    },
+    "pet-training-ticket": {
+        "name": "Pet Training Ticket",
+        "desc": "The Pet Training Ticket can not be equipped, so therefore does not contain any bonuses. This item allows you to change the class of one of your existing pets from its current class to that of another class that the race supports. <b>The item contains one charge, and is destroyed upon use, you can however use different tickets to change a pets class repeatedly if you grow tired of its current class and seek to change it.</b><br><br>\r\nTo use the Pet Training Ticket simply go to the Inventory screen (after taking it out of your Trade Bag) click on the item and click use. You must then pick the pet you wish to change, and click the Select button and on the final screen choose the new class you wish to make this pet.<br><br>For more information on the available classes for a race you should visit the Library > Races screen.<br><br><font id=tred>When using this ticket your pet will lose any spells and styles it currently knows but will preserve its taught skills and plans for things like Carpentry etc ...</font>"
+    },
+    "necklace-of-life": {
+        "name": "Necklace of Life",
+        "desc": "The Necklace of Life is an equippable item which can be equipped to the neck slot. It is an excellent item for players that may require the need to ressurrect a fallen comrade or  pet. After equipping the Necklace of Life via the Inventory > Equipment screen (Neck slot) you can activate a magic spell on the necklace of life via the Inventory > Spells screen (only while it is equipped).\r\n<br><br>\r\nThe item also has bonuses to Healing Magic and First Aid, while the Healing Magic bonus will not enable you to cast healing spells unless you know the skill naturally the First Aid bonus will allow you to use Bandages in combat up to the level range allowed for the skill value you have.<br><br>\r\n<b>To get a higher First Aid skill value you simply need to Adjust the item using the Inventory > Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</b>"
+    },
+    "genie-lamp": {
+        "name": "Genie Lamp",
+        "desc": "The Genie Lamp is an equippable item which can be equipped to the Left Hand slot. The primary use of the Genie Lamp is for summoning a Genie pet, the Genie comes as a Djinn profession which has Mystical and Air magic spells. It also has a really cool looking picture. After equipping the Genie Lamp via the Inventory > Equipment screen (Left hand slot) you can activate the Genie magic spell via the Inventory > Spells screen (only while it is equipped). After summoning the Genie you can unequip the item and equip a weapon and your summoned pet will not disappear.\r\n<br><br>\r\nThe item also has a bonus to Appraisal skill, the bonus to appraisal is not as good as the Monacle of Lore bought extra but should help those people that can not purchase the Monacle of Lore.<br><br>\r\n<b>To get a higher Appraisal skill value you simply need to Adjust the item using the Inventory > Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</b>"
+    },
+    "skull-of-corruption": {
+        "name": "Skull of Corruption",
+        "desc": "The Skull of Corruption is an equippable item which can be equipped to either of the two bonus slots. The primary use of the Skull of Corruption is for casting a possession spell, the possession spell allows you to possess&nbsp;your pets as if you had the possession skill (Necromancy). After equipping the Skull of Corruption via the Inventory &gt; Equipment screen you can activate the Possession spell via the Inventory &gt; Spells screen (only while it is equipped).<br /><br />When you possess something you will play the game as if you were playing that character rather than your own, to return to your own body click the button that looks like your character in the bar at the top of the screen. <br /><br />The item also has a bonus to the Necromancy skill which allows you to tame Undead monsters as your pets up to the skill value provided by the item. <br /><br /><strong>To get a higher skill value you simply need to Adjust the item using the Inventory &gt; Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</strong>"
+    },
+    "necronomicon": {
+        "name": "Necronomicon",
+        "desc": "The Necronomicon is an equippable items that allows you to do two things. After equipping the Necronomicon via the Inventory > Equipment screen (Bonus slot) you can activate a magic spell on the book which allows you to summon a Lich minion.\r\n<br><br>\r\nWhen equipped the books main function is to provide a modest bonus to Necromancy, it is possible to use this bonus to augment a Necromancers existing skill or in the case of people with no necromancy skill it allows them to tame Undead monsters as their pets up to the skill value provided by the item.\r\n<br><br>\r\n<b>To get a higher skill value you simply need to Adjust the item using the Inventory > Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</b>"
+    },
+    "preystalker": {
+        "name": "Preystalker",
+        "desc": "<p>This special item allows its owner to hatch a Preystalker.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.<br><br><b>Racial Bonuses</b><br>Preystalker Sight and Preystalker Feral Reflex bonuses.</p>"
+    },
+    "adventurers-compass": {
+        "name": "Adventurers Compass",
+        "desc": "The Adventurers compass is an equippable item which can be equipped to either of the Special slots. The primary use of the Compass is for providing 5000 exploration skill by way of a magic spell on the item. This will allow you to explore any building in the game. After equipping the Compass via the Inventory > Equipment screen (Special slot) you can activate the Adventurer spell via the Inventory > Spells screen (only while it is equipped).<br><br>\r\n<b>The item also has a bonus to Intelligence while equipped, to get a higher Intelligence bonus you simply need to Adjust the item using the Inventory > Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</b>"
+    },
+    "book-of-wonders": {
+        "name": "Book of Wonders",
+        "desc": "The Book of Wonders bought extra can not be equipped, and does not contain any bonuses. This item is intended for people that wish to make a book/scrapbook of there favourite things in Lands of Hope.<br><br>Each Book of Wonders allows you to make one scrapbook which can contain text on your favourite things, pictures from the game, information on items, pets, friends and your characters as well as links to screenshots and other images you have placed up on a website somewhere.<br><br>\r\nTo use the Book of Wonders simply go to the Inventory screen (after taking it out of your Trade Bag) click on the item and click use.<br><br>\r\nYou can link to the scrapbook via the Link button on the Inventory screen, this sends a clickable link to the Shoutbox that other players can click on to view your scrapbook. Also players can use the Library > Scrapbooks screen to view any scrapbook in the game at any time."
+    },
+    "mini-vault": {
+        "name": "Mini Vault",
+        "desc": "The Mini Vault is a useful item for players that might need to access their bank vault from a remote location to either put items into it or take items out.<br /><br />After you have moved this item out of your trade bag, use it from your inventory screen to show the Bank vault screen where you can place items into the vault or take them out.<br /><br />It can be used from any location even inside dungeons."
+    },
+    "a-phoenix-egg": {
+        "name": "A Phoenix Egg",
+        "desc": "<p>This special item allows its owner to hatch a beautiful and very rare Phoenix.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.<br><br><b>Racial Bonuses</b><br>Phoenix Flight and Phoenix Ressurrection bonuses.</p>"
+    },
+    "monacle-of-lore": {
+        "name": "Monacle of Lore",
+        "desc": "The Monacle of Lore is an equippable item which can be equipped to the eye slot. The primary use of the Monacle of Lore is for allowing you to appraise any item or monster in the game. This ability is passive and will work from the moment you purchase the item and move it out of your Trade Bag. The only time the bonus is not active is if the Monacle has been placed inside a Bank vault.<br><br>You can also equip the Monacle via the Inventory > Equipment screen as it has a bonus to Mana on it that is quite a nice boost for most players.<br><br>\r\n<b>To get a higher mana bonus you simply need to Adjust the item using the Inventory > Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</b>"
+    },
+    "statue-permits-10": {
+        "name": "Statue Permits * 10",
+        "desc": "The Statue Permit may be used to place special NPC statues on tiles you own and now also special item based statues inside a Statue Monument room you own. After you buy the item and remove it from your Trade Bag, go to the tile you wish to build the statue on (or the room you wish to build the statue in) and then use the item from your Inventory screen.<br><br>You will then be given the ability to choose what character you wish to base the statue on, and you can choose any character on your server so you can make a statue of a friend or loved one who plays Lands of Hope or perhaps a statue of someone you despise so you can throw things at it<br><br>This item has 10charges, once all 10charges are used up (after placing 10statues)! the item is removed from your inventory."
+    },
+    "wand-of-alteration": {
+        "name": "Wand of Alteration",
+        "desc": "The Wand of Alteration is a simple way for players to gain advanced ways to make their character, pets and buildings stand out from others. The Wand is not an equippable item, after you have moved this item out of your trade bag, use it from your inventory screen to show the Wand of Alteration screen where you can choose the following five options:<ul><li>Alter Appearance - Changes the font, font size and style your name appears to others in game.</li><li>Alter Color - Changes the color that your name appears to others, may also be used to change the color you use in chat using more unique colors ordinary players can not chat with.</li><li>Alter Picture - Change your picture to one available to your race as an alternate. Note: There may not be any bonus pictures for your race.</li><li>Alter Pet Picture - Same as Alter Picture except can be applied to your pets.</li><li>Alter Building - Allows you to change the picture your buildings use to one of over 40 in the game.</li></ul>\r\nThis item does not have charges so you are free to use it as many times as you want."
+    },
+    "scarecrow": {
+        "name": "Scarecrow",
+        "desc": "<p>This special item allows its owner to make a Scarecrow.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.</p>"
+    },
+    "chest-of-commerce": {
+        "name": "Chest of Commerce",
+        "desc": "The Chest of Commerce is an essential item for players that find themselves having to make frequent trips to go sell items.<br><br>After you have moved this item out of your trade bag, use it from your inventory screen to show the Chest of Commerce sell screen where you can sell your items as if you were talking to an NPC Vendor, this means you no longer have to make sell trips to town as you can sell your items right there and then."
+    },
+    "medium-storage-chest": {
+        "name": "Medium Storage Chest",
+        "desc": "The Medium Storage chest is an item that can be placed inside a room you own or have the necessary admin permission on to access the Furnish screen.<br><br>When placed the storage chest has a capacity of 100 items, it is much better than a standard storage chest in terms of capacity but less than a Large Storage chest.<br><br>\r\nTo place this item take it out of your Trade Bag using the Inventory > Containers > Trade Bag screen, it will then be in your inventory use the Furnish button at the bottom of the screen to furnish the room you are standing in to add the chest, if you need to move the chest to another room you can use the Furnish button to take it out of the room and put it back in your inventory."
+    },
+    "large-storage-chest": {
+        "name": "Large Storage Chest",
+        "desc": "The Large Storage chest is an item that can be placed inside a room you own or have the necessary admin permission on to access the Furnish screen.<br><br>When placed the storage chest has a capacity of 200 items, it is much better than a standard storage chest and a medium chest.<br><br>\r\nTo place this item take it out of your Trade Bag using the Inventory > Containers > Trade Bag screen, it will then be in your inventory use the Furnish button at the bottom of the screen to furnish the room you are standing in to add the chest, if you need to move the chest to another room you can use the Furnish button to take it out of the room and put it back in your inventory."
+    },
+    "auctioneers-cudgel": {
+        "name": "Auctioneers Cudgel",
+        "desc": "The Auctioneers Cudgel is a bonus that is intended for players that hold a lot of auctions. The Auctioneers Cudgel provides you with an extra 10 auction slots, and allows you to enter a teaser description to your auction as well as use one of four different colors ... these features allow your auction to stand out from the other ones and might improve the chances of someone purchasing.<br><br>There is no special way to activate the item, after purchase simply take it out of your Trade Bag and it will work right away.<br><br>The item can also be equipped to the left hand slot and provides a bonus to max stamina, although it does not need to be equipped to work as intended."
+    },
+    "orb-of-gateways": {
+        "name": "Orb of Gateways",
+        "desc": "The Orb of Gateways is a bought extra which allows players who own buildings to relocate them across both realms and tiles. You can for example take a building you built on one tile way back in Knotwood Valley and move it to a new location in a new realm that you prefer.<br><br>Tile Owners get a similar ability called a relocation permit that lets people move buildings to a specific tile the permit is for but this bought extra works for any tile in the game that does not require permit placement.<br><br>This bought extra is not equippable.<br><br>To use the item take it out of your Trade Bag after purchasing it, go to the Inventory screen click on the item and then click the Use button."
+    },
+    "unicorn": {
+        "name": "Unicorn",
+        "desc": "<p>This special item allows its owner to hatch a Unicorn.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.<br><br><b>Racial Bonuses</b><br>Unicorn Blessing and Unicorn Protection bonuses.</p>"
+    },
+    "darfurk": {
+        "name": "Darfurk",
+        "desc": "<p>This special item allows its owner to hatch a Darfurk.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.<br><br><b>Racial Bonuses</b><br>Darfurk Blessing and Darfurk Hatred bonuses.</p>"
+    },
+    "elder-dragon": {
+        "name": "Elder Dragon",
+        "desc": "<p>This special item allows its owner to hatch an Elder Dragon.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.<br><br><b>Racial Bonuses</b><br>Fury bonus.</p>"
+    },
+    "master-key": {
+        "name": "Master Key",
+        "desc": "The Master Key can not be equipped, and does not contain any bonuses. The Master Key does however allow you to unlock any locked item in your inventory, that means no more having to pay another player to unlock Battered chests.<br><br>\r\nTo use the Master Key simply go to the Inventory screen (after taking it out of your Trade Bag) click on the Key and click use. The Master Key Unlocking screen will then be shown and list all of the locked items in your inventory."
+    },
+    "orb-of-terraforming": {
+        "name": "Orb of Terraforming",
+        "desc": "The Orb of Terraforming is a bought extra which allows players to purchase unclaimed land. The Orb of Terraforming comes with five charges and allows you to claim five tiles of land as your own. Note: Only unclaimed tiles that do not contain system content such as exploration buildings can be claimed as a tile.<br><br>This bought extra is not equippable.<br><br>To use the item take it out of your Trade Bag after purchasing it, go to the Inventory screen click on the item and then click the Use button, you will then be shown a screen which lets you pick the tile(s) you wish to claim.<br><br>Once you claim a tile a charge is used up."
+    },
+    "genesis-orb": {
+        "name": "Genesis Orb",
+        "desc": "The Genesis Orb is a bought extra which allows players to purchase unclaimed land. The Genesis Orb comes with ten charges and allows you to claim ten tiles of land as your own. Note: Only unclaimed tiles that do not contain system content such as exploration buildings can be claimed as a tile.<br><br>This bought extra is not equippable.<br><br>To use the item take it out of your Trade Bag after purchasing it, go to the Inventory screen click on the item and then click the Use button, you will then be shown a screen which lets you pick the tile(s) you wish to claim.<br><br>Once you claim a tile a charge is used up."
+    },
+    "carrier-pigeon": {
+        "name": "Carrier Pigeon",
+        "desc": "The Carrier Pigeon bought extra can not be equipped, and does not contain any bonuses. The purpose of the Carrier Pigeon is to let you send items to other characters you own (or take them from characters you own)&nbsp;for free, using the regular post master service it may cost you money to send items but using the carrier pigeon it is free.<br /><br />Also with this extra you can send bought extra items to characters on your account. This means to save money you can just buy one bought extra item and trade it between your characters whenever you need it.<br /><br />To use the Carrier Pigeon simply go to the Inventory screen (after taking it out of your Trade Bag) click on the Key and click use. The Carrier Pigeon screen will then be shown and list all of the items you can send from your inventory.<br /><br />Items traded using the carrier pigeon can not be retraded to other players."
+    },
+    "mystical-tent": {
+        "name": "Mystical Tent",
+        "desc": "<p>The Mystical Tent&nbsp;can be used to rest in an area where normal resting is not allowed. You can use the tent inside Player and&nbsp;special NPC dungeons to rest and regenerate to full, in addition the Mystical Tent may cast a special blessing on you to improve your Natural Regeneration once you use it to rest..</p><p>The special blessing will add to your Health, Mana and Stamina Regeneration.</p>"
+    },
+    "sculptors-waxen-block": {
+        "name": "Sculptors waxen block",
+        "desc": "<p>The Sculptors waxen block is an item that can be equipped to your sixth bag slot, it is intended only for the Animator and later evolutions, while the item will still work for other classes the special spell it has on it will not provide any effect for non Animators.</p><p>After buying the item remove it from your Inventory &gt; Containers &gt; Trade Bag screen, then equip it via the Inventory &gt; Equipment screen (6th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag as well as gain the extra 50 inventory slots.<br /><br />The bag has a spell effect on it which can be activated via Inventory &gt; Spells once equipped, the spell provides +50 to Animation skill which will help you get over skill gaps as well as enable you to learn and use higher plans.</p>"
+    },
+    "master`s-blueprints": {
+        "name": "Master`s blueprints",
+        "desc": "Master`s blueprints&nbsp;is an item which can be equipped to either of the Special slots. The only use of the item is to provide a bonus to the Construction skill to help people get over Material gaps.<br /><br /><strong>The item also has a bonus to Intelligence while equipped, to get a higher Intelligence/Construction bonus you simply need to Adjust the item using the Inventory &gt; Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</strong>"
+    },
+    "book-of-legends": {
+        "name": "Book of Legends",
+        "desc": "Book of Legends&nbsp;is an item which can be equipped to either of the Special slots. The item provides a bonus to the Myth and Legends skill, this skill allows you to tame Mythical type monsters. Please only buy this item if you are fully aware of how taming works and the skill requirements needed to tame a specific monsters because this item does not provide a full 5000 bonus but is simply an item bonus.<br /><br /><strong>The item also has a bonus to Maxhitpoints while equipped, to get a higher Health/Myth and Legends bonus you simply need to Adjust the item using the Inventory &gt; Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</strong>"
+    },
+    "hellhound": {
+        "name": "Hellhound",
+        "desc": "<p>This special item allows its owner to hatch a Hellhound.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.<br><br><b>Racial Bonuses</b><br>Lava Walk bonus.</p>"
+    },
+    "ring-of-the-elements": {
+        "name": "Ring of the Elements",
+        "desc": "The Ring of the Elements is an equippable item which can be equipped to either of the two ring slots. The primary purpose of the Ring is for providing bonuses to all four of the survival skills which allows you to travel across any type of terrain in the game. After equipping the Ring via the Inventory > Equipment screen (ring slot) you will gain the effect of these bonuses immediately."
+    },
+    "scales-of-worth": {
+        "name": "Scales of Worth",
+        "desc": "The Scales of Worth bought extra can not be equipped, and does not contain any bonuses. The item does however allow you to raise the item capacity limit on vendors you may own, the default capacity for player vendors is 75 items. As vendors can not level up this limit will never change, however with this bought extra you can raise the capacity of any / all vendors you own to 275 an increase of 200 items.<br><br>\r\nTo use the Scales of Worth simply go to the Inventory screen (after taking it out of your Trade Bag) click on the item and click use. The Scales of Worth screen will then be shown and list all of the player vendors you own that can have their carry capacity raised.."
+    },
+    "scroll-of-knowledge": {
+        "name": "Scroll of Knowledge",
+        "desc": "<p>The Scroll of Knowledge bought extra can not be equipped, and does not contain any bonuses. This item allows you to learn crafting plans or styles or spells that are not available on trainers and is therefore an excellent purchase, you may choose the specific plan/style or spell you are missing.</p><p><strong>The item contains five charges, and each time you learn a plan/spell or style from it one charge is used up so in this way it is important you plan ahead as to what you wish to learn before buying one.</strong></p><p>Note: You can <strong>not</strong> obtain artifact plans with this item.<br /><br />To use the Scroll of Knowledge simply go to the Inventory screen (after taking it out of your Trade Bag) click on the item and click use. The Scroll of Knowledge screen will then be shown with options to learn plans, styles or spells.</p><p>For an item with more charges see the &quot;The Answer to Life, the Universe and Everything bought extra.</p>"
+    },
+    "magnalian": {
+        "name": "Magnalian",
+        "desc": "<p>This special item allows its owner to hatch a Magnalian.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.<br><br><b>Racial Bonuses</b><br>Magnalian Fire Survival and Magma Shield bonuses.</p>"
+    },
+    "greater-palace-deed": {
+        "name": "Greater Palace deed",
+        "desc": "This item contains one charge and erects a Greater Palace, the palace itself starts with one room but can be expanded to have up to 105 rooms inside, 30 more than the craftable Palace."
+    },
+    "endless-bag": {
+        "name": "Endless bag",
+        "desc": "<p>The Endless Bag is an item that can be equipped to your sixth bag slot, it is one of&nbsp;only three items that can currently be equipped to that slot and therefore buying this item gives you the advantage of knowing that very few people will have it, and have the extra storage (50 slots)&nbsp;and inventory sorting capacity it gives.</p><p>After buying the item remove it from your Inventory &gt; Containers &gt; Trade Bag screen, then equip it via the Inventory &gt; Equipment screen (6th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p>"
+    },
+    "elder-pocket-gnome": {
+        "name": "Elder Pocket Gnome",
+        "desc": "<p>The&nbsp;Elder Pocket Gnome&nbsp;can not be equipped, and does not contain any bonuses. The Elder Pocket Gnome is an advanced version of the standard Pocket Gnome, it allows you to remotely administer all of your automations (furnishing skill is still required)&nbsp;without having to be in the same room.</p><p>You can purchase a standard Pocket Gnome for ingame money via the NPC at 32, 62 however that pocket gnome has a short lifespan and will die after 7 days, where as the Elder Pocket Gnome is a hearty gnome and will live forever!<br /><br />To use the Gnome simply go to the Inventory screen (after taking it out of your Trade Bag) click on the Gnome and click use.</p>"
+    },
+    "player-training-ticket": {
+        "name": "Player Training Ticket",
+        "desc": "<p>This magical item comes with two charges, and lets you reset your character.</p><p>This item can only be used at level 1000, purchasing this item before level 1000 is not advisable.</p><p>Resetting your character will require you to unequip all of your items (including bags) so make sure you have prepared your inventory for this and put things neatly in storage.</p><p>Upon using the training ticket you can choose which final tier class from your starting tier you wish to become, your characters stats and skills are then converted across and you will learn all spells and styles you should know.</p><p>You keep your pets, and all your items although it is worth noting that if you are changing to a class with different armor limits you may not be able to wear the same armor.</p><p>It comes with two charges so that if you feel you made a mistake you can change back to the class you previously were.</p><p>Note: Sub Level points are also reset in this process.</p>"
+    },
+    "young-weaver": {
+        "name": "Young Weaver",
+        "desc": "<p>This special item allows its owner to hatch a Young Weaver.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.</p>"
+    },
+    "weaver": {
+        "name": "Weaver",
+        "desc": "<p>This special item allows its owner to hatch a Weaver.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Creature, Fighter, Healer, Thief.</p>"
+    },
+    "badge-of-destiny": {
+        "name": "Badge of Destiny",
+        "desc": "<p>The Badge of Destiny is an equippable item which can be equipped to the Bonus 2 slot only. The primary purpose of the badge is to provide a bonus to the Experience Bonus skill, as this item is adjustable it means you can continue to gain this bonus as your character levels up. After equipping the Badge via the Inventory &gt; Equipment screen (ring slot) you will gain the effect of these bonuses immediately.</p><p>This item is part of a set, and can be bought along with the Glasses of Destiny for enhanced effects via the Inventory &gt; Sets system.</p>"
+    },
+    "glasses-of-destiny": {
+        "name": "Glasses of Destiny",
+        "desc": "<p>The Glasses of Destiny are an equippable item which can be equipped to the Eyes slot only. The primary purpose of the badge is to provide a bonus to the Experience Bonus skill, as this item is adjustable it means you can continue to gain this bonus as your character levels up. After equipping the Glasses via the Inventory &gt; Equipment screen (ring slot) you will gain the effect of these bonuses immediately.</p><p>This item is part of a set, and can be bought along with the Badge of Destiny for enhanced effects via the Inventory &gt; Sets system.</p>"
+    },
+    "box-of-treats": {
+        "name": "Box of Treats",
+        "desc": "<p>The&nbsp;Box of Treats is currently the only buyable extra available for Pet Owners, this bought extra costs 5USD.&nbsp;After buying this item and taking it out of your Trade Bag, use it from your Inventory. It will then be destroyed but spawn 3 unique items:</p><p><strong>Fattening pet treat</strong><br />Adds to Max stamina and Stamina regeneration, equip it to your pets Pet Bought Extra slot.</p><p><strong>Gooey pet treat</strong><br />Adds to Max Health and Health regeneration, equip it to your pets Pet Bought Extra slot.</p><p><strong>Sticky pet treat</strong><br />Adds to Max Mana and Mana regeneration, equip it to your pets Pet Bought Extra slot.</p><p>These items are adjustable so you can upgrade them to suit your pet, however as you can not normally trade adjustable items a special mechanism has been added to allow you to move the item to a pet.</p><p>Use the Gooey/Fattening or Sticky treat from your inventory and it will allow you to select the pet to give it.</p><p>Then use the Minions &gt; Manage scree, choose the Pet and click the Equip button.</p>"
+    },
+    "metal-dragon": {
+        "name": "Metal Dragon",
+        "desc": "<p>This special item allows its owner to hatch a Metal Dragon.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Fighter, Healer, Songsmith, Thief.<br><br><b>Racial Bonuses</b><br>Not mountable.</p>"
+    },
+    "pet-equipment-box": {
+        "name": "Pet Equipment Box",
+        "desc": "<p>After buying the Item take it out of your trade bag and then use it from your Inventory screen. It will present you with a list of your pets and let you pick one of them (you can use the item over and over again so do not worry about the item being used up as it will never happen).</p><p>After selecting the pet you will have a number of buttons to choose from these correspond to the bonuses the items will come with, you can either choose the random button or select one of the available options to sway the system in that bonuses favor. Please note that selecting a bonus will alter the stats of at least 6 items but several of the remaining items have fixed stats not affected by the buttons.</p><p><strong>The box will then spawn the 11 items in the selected pets inventory at the level of the pet and you can equip them via the Minions &gt; Manage&nbsp; screen Equip button.</strong></p>"
+    },
+    "drow": {
+        "name": "Drow",
+        "desc": "<p>This special item allows its owner to hatch a Drow.<br><br><b>Available Professions</b><br>You can choose the following normal professions:<br>Archer, Axeman, Battler, Close Combat, Conjurer, Flamecaller, Forager, Man-at-arms, Minstrel, Mystic, Nobleman, Spellslinger, Thief, Woundtender.<br><br><b>Racial Bonuses</b><br>Not mountable.</p>"
+    },
+    "dragonkin": {
+        "name": "Dragonkin",
+        "desc": "<p>This special item allows its owner to hatch a Dragonkin.<br><br><b>Available Professions</b><br>You can choose the following normal professions:<br>Blowbringer, Fistfury, Spellsage.<br><br><b>Racial Bonuses</b><br>Not mountable.</p>"
+    },
+    "philosopher`s-stone": {
+        "name": "Philosopher`s stone",
+        "desc": "<p>The Philosopher`s stone&nbsp;can be used to transmogrify (lower the level) of a resource in your inventory. The benefit of this is that if you have say 50 level 100 resources and really need level 90 you can use this item to adjust them down to level 90.</p><p>Note: This is the same function as the Alchemy (Inventory &gt; Actions &gt; Transmogrify)&nbsp; feature, so if you plan on getting Alchemy this extra is likely not for you.</p><p>Use the&nbsp;stone from your inventory or shortcut it for fast access, then select the resource you wish to lower and use the buttons on the right of the screen to adjust the level.</p><p>As with Alchemy materials can only be lowered and not raised using this method.</p>"
+    },
+    "trackers-bag": {
+        "name": "Trackers bag",
+        "desc": "<p>The Trackers Bag is an item that can be equipped to your sixth bag slot, it is one of&nbsp;only three items that can currently be equipped to that slot and therefore buying this item gives you the advantage of knowing that very few people will have it, and have the extra storage (100 slots)&nbsp;and inventory sorting capacity it gives.</p><p>After buying the item remove it from your Inventory &gt; Containers &gt; Trade Bag screen, then equip it via the Inventory &gt; Equipment screen (6th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p><p>Also this bag contains bonuses to Track Items, Track Beasts, Track Humanoids and Track Undeads allowing you limited tracking capabilities. </p>"
+    },
+    "meteorite-magnet": {
+        "name": "Meteorite magnet",
+        "desc": "<p>This item is for the Stargazer&nbsp;(and later evo`s)&nbsp; ONLY as it requires Celestial powers to equip.</p><p>The Meteorite magnet&nbsp;is an item that can be equipped to your&nbsp;special slots, it provides bonuses to both Celestial weapons and Celestial magic and its primary use is that during meteor storms it will attract one meteorite for you so you do not have to go looking for one.</p><p>You can only carry one meteorite at a time so this item will not do anything if you already have a meteorite in your inventory during a storm.</p><p>After buying the item remove it from your Inventory &gt; Containers &gt; Trade Bag screen, then equip it via the Inventory &gt; Equipment screen.</p>"
+    },
+    "wyvern": {
+        "name": "Wyvern",
+        "desc": "<p>This special item allows its owner to hatch a Wyvern.<br><br><b>Available Professions</b><br>You can choose the following Majestic professions:<br>Caster, Fighter, Healer, Songsmith, Thief.<br><br><b>Racial Bonuses</b><br>Not mountable.</p>"
+    },
+    "pack-rat": {
+        "name": "Pack Rat",
+        "desc": "<p>This special item allows its owner to hatch a Pack Rat.<br><br><b>Available Professions</b><br>You can choose the following professions:<br>Majestic Creature, Majestic Cutey, Majestic Fighter, Majestic Songsmith, Majestic Thief.<br><br><b>Racial Bonuses</b><br>Stamina and Dex bonuses when ridden</p>"
+    },
+    "answer-to-life,-the-universe-and-everything": {
+        "name": "Answer to Life, the Universe and Everything",
+        "desc": "<p>The AtLtUaE bought extra can not be equipped, and does not contain any bonuses. This item allows you to learn crafting plans or styles or spells that are not available on trainers and is therefore an excellent purchase, you may choose the specific plan/style or spell you are missing.</p><p><strong>The item contains fourty-two charges, and each time you learn a plan/spell or style from it one charge is used up so in this way it is important you plan ahead as to what you wish to learn before buying one.</strong></p><p><strong><u>Unlike the Scroll of Knowledge this item will regain one charge every month.</u></strong></p><p>Note: You can <strong>not</strong> obtain artifact plans with this item.<br /><br />To use this item&nbsp;simply go to the Inventory screen (after taking it out of your Trade Bag) click on the item and click use. The Scroll of Knowledge screen will then be shown with options to learn plans, styles or spells.</p>"
+    },
+    "boogie-man": {
+        "name": "Boogie Man",
+        "desc": "<p>This special item allows its owner to hatch a Boogie Man.<br><br><b>Available Professions</b><br>You can choose the following normal professions:<br>Archer, Axeman, Battler, Close Combat, Creature, Forager, Man-at-arms, Minstrel, Thief.<br><br><b>Racial Bonuses</b><br>Not mountable.</p>"
+    },
+    "royal-palace-deed": {
+        "name": "Royal Palace deed",
+        "desc": "This item contains one charge and erects a Royal Palace, the palace itself starts with one room but can be expanded to have up to 180 rooms inside, 105 more than the craftable Palace."
+    },
+    "killer-whale": {
+        "name": "Killer Whale",
+        "desc": "<p>This special item allows its owner to hatch a Killer Whale.<br><br><b>Available Professions</b><br>You can choose the following professions:<br>Killer, Majestic Creature, Majestic Healer, Majestic Songsmith.<br><br><b>Racial Bonuses</b><br>Strength bonuses when ridden.</p>"
+    },
+    "champions-aura": {
+        "name": "Champions Aura",
+        "desc": "<p>The Champions aura&nbsp;is a special item which can be equipped to&nbsp;the Aura slot.&nbsp;The item provides a bonus to Maxhitpoints as well as Health Regeneration.</p><p>Other Auras include the Aura of the Generous, Champions Aura, Oracles Aura, Vigors Aura, Aura of Understanding.<br /><br /><strong>You can&nbsp;Adjust the item using the Inventory &gt; Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</strong></p>"
+    },
+    "oracles-aura": {
+        "name": "Oracles Aura",
+        "desc": "<p>The Oracles aura&nbsp;is a special item which can be equipped to&nbsp;the Aura slot.&nbsp;The item provides a bonus to Intelligence as well as Mana Regeneration.</p><p>Other Auras include the Aura of the Generous, Champions Aura, Oracles Aura, Vigors Aura, Aura of Understanding.<br /><br /><strong>You can&nbsp;Adjust the item using the Inventory &gt; Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</strong></p>"
+    },
+    "vigors-aura": {
+        "name": "Vigors Aura",
+        "desc": "<p>The Vigors aura&nbsp;is a special item which can be equipped to&nbsp;the Aura slot.&nbsp;The item provides a bonus to Max stamina as well as Stamina Regeneration.</p><p>Other Auras include the Aura of the Generous, Champions Aura, Oracles Aura, Vigors Aura, Aura of Understanding.<br /><br /><strong>You can&nbsp;Adjust the item using the Inventory &gt; Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</strong></p>"
+    },
+    "aura-of-understanding": {
+        "name": "Aura of Understanding",
+        "desc": "<p>The Aura of Understanding&nbsp;is a special item which can be equipped to&nbsp;the Aura slot.&nbsp;The item provides a bonus to Maxhitpoints as well as Experience Bonus.</p><p>Other Auras include the Aura of the Generous, Champions Aura, Oracles Aura, Vigors Aura, Aura of Understanding.<br /><br /><strong>You can&nbsp;Adjust the item using the Inventory &gt; Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</strong></p>"
+    },
+    "spectral-snow-cat": {
+        "name": "Spectral Snow Cat",
+        "desc": "<p>This special item allows its owner to hatch a Spectral Snow Cat.<br><br><b>Available Professions</b><br>You can choose the following professions:<br>Majestic Creature, Majestic Fighter, Majestic Healer, Majestic Songsmith, Majestic Thief.<br><br><b>Racial Bonuses</b><br>Detect hidden bonuses when ridden.</p>"
+    },
+    "lie-land-item-expander": {
+        "name": "L.I.E. Land Item Expander",
+        "desc": "The L.I.E. (Land Item Expander)&nbsp;is a bought extra which is intended for&nbsp;Land/Tile owners and&nbsp;allows you to upgrade the amount of items your tile can hold from 5 items to 10 items. The L.I.E comes with five charges. Note: Only a tile you are the owner of can be upgraded using this item, you can not upgrade a friends tile - unless of course you own that tile.<br /><br />This bought extra is not equippable.<br /><br />To use the item&nbsp;take it out of your Trade Bag after purchasing it, go to the tile you wish to upgrade then&nbsp;go to the Inventory screen click on the item and then click the Use button, you will then upgrade the tile item limit or else receive a message explaining why it couldnt upgrade the tile.<br /><br />Once you increase the tile limit&nbsp;a charge is used up, when the charges reach zero the item is destroyed."
+    },
+    "skeletal-horse": {
+        "name": "Skeletal horse",
+        "desc": "<p>This special item allows its owner to hatch a Skeletal horse.<br><br><b>Available Professions</b><br>You can choose the following professions:<br>Majestic Caster, Majestic Creature, Majestic Fighter, Majestic Healer, Majestic Songsmith.<br><br><b>Racial Bonuses</b><br>Necromancy and Intelligence bonuses when ridden.</p>"
+    },
+    "hunters-whetstone": {
+        "name": "Hunters Whetstone",
+        "desc": "<p>The Hunters Whetstone is an equippable items that allows you to do two things. After equipping the Hunters Whetstone via the Inventory &gt; Equipment screen (Special slot). <br /><br />When equipped the whetstone provides a bonus to Health and to Track Beasts it also activates a +5000 skinning bonus automatic spell.</p><p>The intended use of this item is for Artisans who wish to Skin in the Dragon of the East realm, although it is available to everyone.&nbsp;</p><p><strong>To get a higher skill value you simply need to Adjust the item using the Inventory &gt; Bonuses screen when the item is unequipped, you can adjust the item as you level ensuring you always get a good bonus for your level.</strong></p>"
+    },
+    "hrrtani": {
+        "name": "Hrrtani",
+        "desc": "<p>This special item allows its owner to hatch a Hrrtani.<br><br><b>Available Professions</b><br>You can choose the following professions:<br>Majestic Creature, Majestic Healer, Majestic Songsmith, Majestic Thief.<br><br><b>Racial Bonuses</b><br>None.</p>"
+    },
+    "warephant": {
+        "name": "Warephant",
+        "desc": "<p>This special item allows its owner to hatch a Warephant, one of the few pets that can truly hold its own in sieging.<br><br><b>Available Professions</b><br>You can choose the following professions:<br>Siege Monster, Siege Wizard.<br><br><b>Racial Bonuses</b><br>Stamina and Speed bonuses when ridden.</p>"
+    },
+    "antique-jewelry-box": {
+        "name": "Antique Jewelry Box",
+        "desc": "<p>The Antique Jewelry Box is a special item, this box contains 5 different pieces of jewelry which have Maxhealth as well as other stats of your choosing on them.</p><p>These items are adjustable so they can level up when you do, this means after buying this jewelry box you may never need another set of jewelry ever again. The box has unlimited charges and can be sent via Pidgeon to your other characters. </p>"
+    },
+    "stargate": {
+        "name": "Stargate",
+        "desc": "<p>Use this item from your Inventory after taking it out of your Trade Bag.</p><p>The Stargate is used to link 2 building rooms, 2 dungeon rooms or 1 building room/1 dungeon room together.</p><p>After using the item when standing inside the Source room you wish to link from, you can then select a destination building you own/admin and link to a specific room of the building.</p>"
+    },
+    "starbeing": {
+        "name": "Starbeing",
+        "desc": "<p>This special item allows its owner to hatch a Starbeing.<br><br><b>Available Professions</b><br>You can choose the following professions:<br>Majestic Caster, Majestic Fighter, Majestic Healer, Majestic Songsmith, Majestic Thief.<br><br><b>Racial Bonuses</b><br>None.</p>"
+    },
+    "time-flies": {
+        "name": "Time Flies",
+        "desc": "<p>Use this item from your Inventory after taking it out of your Trade Bag.</p><p>The Time Flies item has two main uses:</p><ul><li>World Times, can tell you the different times in real world time zones. This can be useful in monitoring the game time and or keeping tabs on friends in different countries.</li><li>Timers, the second use accessible by clicking the Timers button on the World Time screen lets you setup a bunch of timers that you can use to set reminders to ingame or out of game things. While playing any timer you set will show a message in your status window when it goes off. You can set up repeating and non-repeating timers.</li></ul>"
+    },
+    "advertising-poster": {
+        "name": "Advertising poster",
+        "desc": "Can be used with Tiny Tom (the ingame hourly clock), allows you to advertise on a specific day of the year. Advertise anything you want and for any reason you want as long as it is not rude/crude/obscene or in some other way a threat to the game or its players.<br><br>Please prod Decius to enable a submitted advert."
+    },
+    "red-dark-depths-control-crystal": {
+        "name": "Red Dark Depths Control Crystal",
+        "desc": "<p><b>Requires Dark Depths Expansion Pack</b></p><p>This special control crystal has the following effect.<br><br>Increases the chance of special items being found inside Dark Depth chests.</p>"
+    },
+    "blue-dark-depths-control-crystal": {
+        "name": "Blue Dark Depths Control Crystal",
+        "desc": "<p><b>Requires Dark Depths Expansion Pack</b></p><p>This special control crystal has the following effect.<br><br>Increases the chance of loot such as powders dropping on Dark Depth monsters.</p>"
+    },
+    "gold-dark-depths-control-crystal": {
+        "name": "Gold Dark Depths Control Crystal",
+        "desc": "<p><b>Requires Dark Depths Expansion Pack</b></p><p>This special control crystal has the following effect.<br><br>Increases the amount of money monsters in the Dark Depths drop by up to 400%.</p>"
+    },
+    "gamemaster": {
+        "name": "Gamemaster",
+        "desc": "<p>This special item allows its owner to hatch a Gamemaster.<br><br><b>Available Professions</b><br>You can choose the following professions:<br>Majestic Master.<br><br><b>Racial Bonuses</b><br>Strength and Stamina.</p>"
+    },
+    "pet-weapon-box": {
+        "name": "Pet Weapon Box",
+        "desc": "<p>After buying the Item take it out of your trade bag and then use it from your Inventory screen. It will present you with a list of your pets and let you pick one of them (you can use the item over and over again so do not worry about the item being used up as it will never happen).</p><p><strong>The box will then spawn weapons&nbsp;in the selected pets inventory at the level of the pet and you can equip them via the Minions &gt; Manage&nbsp; screen Equip button. The box knows what skills your pet has so provides exactly what it needs ....</strong></p><p>All weapons come with ATTACK POWER and the base weapon stat, and <u>no other bonuses</u>. This means there are better weapons available if you look for them but these should be as good as if not better than most.</p>"
+    },
+    "ultimate-key-chain": {
+        "name": "Ultimate key chain",
+        "desc": "<p>The Ultimate key chain is an item that can be equipped to your seventh bag slot, it is one of&nbsp;only two items that can currently be equipped to that slot and therefore buying this item gives you the advantage of knowing that very few people will have it, and have the extra storage (75 slots)&nbsp;and inventory sorting capacity it gives.</p><p>Please note that while equipping this item will grant an extra 75 storage slots in general, that only KEYS can be placed inside this bag.</p><p>After buying the item remove it from your Inventory &gt; Containers &gt; Trade Bag screen, then equip it via the Inventory &gt; Equipment screen (7th bag slot). You will then be able to place keys into the bag and use it for key storage like any other seventh&nbsp;bag slot.</p>"
+    },
+    "bloodhound": {
+        "name": "Bloodhound",
+        "desc": "<p>This special item allows its owner to hatch a Bloodhound.<br><br><b>Available Professions</b><br>You can choose the following professions:<br>Majestic Fighter, Majestic Healer, Majestic Songsmith, Majestic Thief.<br><br><b>Racial Bonuses</b><br>Track Items, Beasts and Humanoids.</p>"
+    },
+    "creator": {
+        "name": "Creator",
+        "desc": "<p>This special item allows its owner to hatch a Creator.<br><br><b>Available Professions</b><br>You can choose the following professions:<br>Majestic Crafter.<br><br><b>Racial Bonuses</b><br>Gathering buffs.</p>"
+    },
+    "key-ring-of-devilry": {
+        "name": "Key ring of Devilry",
+        "desc": "<p>The&nbsp;Key ring of&nbsp;Devilry&nbsp;is an item that can be equipped to your seventh bag slot, it is one of&nbsp;only two items that can currently be equipped to that slot and therefore buying this item gives you the advantage of knowing that very few people will have it, and have the extra storage (70 slots, for more try the Ultimate key chain)&nbsp;and inventory sorting capacity it gives.</p><p>Please note that while equipping this item will grant an extra 70 storage slots in general, that only KEYS can be placed inside this bag.</p><p>After buying the item remove it from your Inventory &gt; Containers &gt; Trade Bag screen, then equip it via the Inventory &gt; Equipment screen (7th bag slot). You will then be able to place keys into the bag and use it for key storage like any other seventh&nbsp;bag slot.</p><p>Level 1000/5000 skill Dungeon Masters can also get a passive bonus from this item that allows them to spawn up to level 1515 monsters in their dungeons with pets.</p>"
+    },
+    "monster-teeth": {
+        "name": "Monster Teeth",
+        "desc": "<p>Use this item from your Inventory after taking it out of your Trade Bag.</p><p>Upon using the Monster Teeth from your inventory you can choose any player standing at the same tile as you to &quot;bite&quot;. Biting has the following chance of effect:</p><ul><li>Cute Infection, Your target turns into a Platypus.</li><li>Nasty Infection, Your target turns into a Glimmer.</li><li>Nightly Infection, Your target turns into a Nightstalker (allowing them to join the Reapers).</li></ul><p>This item is meant to be a fun novelty item!</p><p>Note: You can not bite yourself.</p>"
+    },
+    "scroll-of-cookie-summoning": {
+        "name": "Scroll of Cookie Summoning",
+        "desc": "<p>Use this item from your Inventory after taking it out of your Trade Bag. Contains 50 charges.</p><p>Upon using the Scroll of Cookie Summoning from your inventory you will spawn a powerful Devourer of Cookies monster on the current tile.</p><p>Your scroll will lose one charge, and once all charges are used up the scroll will be destroyed.</p><p>Warning: These devourers are HARD to kill and may best you so be warned.</p><p>The Devourer of Cookies drops a special trophy item that can not be gained any other way and can be redeemed for special rewards.</p>"
+    },
+    "rhino": {
+        "name": "Rhino",
+        "desc": "<p>This special item allows its owner to hatch a Rhino.<br><br><b>Available Professions</b><br>You can choose the following professions:<br>Majestic Caster, Majestic Creature, Majestic Cutey, Majestic Fighter, Majestic Healer.<br><br><b>Racial Bonuses</b><br>Thick Skin (Armor / Health buff) and an Automatic Speed/Strength buff.</p>"
+    },
+    "decius`s-quote-book": {
+        "name": "Decius`s Quote Book",
+        "desc": "<p>This is a novelty item and offers no uber buffs, bonuses or similar advantages.<br><br>What it will do is allow you to spit off random quotes to people you come across.<br><br>Warning: Decius`s quotes are dangerous to the untrained!</p>"
+    },
+    "bag-of-1000-thieves": {
+        "name": "Bag of 1000 Thieves",
+        "desc": "<p>The Bag of 1000 Thieves is an item that can be equipped to your sixth bag slot, it is one of&nbsp;several items that can currently be equipped to that slot and therefore buying this item gives you the advantage of knowing that very few people will have it, and have the extra storage (50 slots)&nbsp;and inventory sorting capacity it gives.</p><p>But that is not the real purpose of this item, the item is intended for Thieves (players with Stealing to use) as it provides up to double the base steal money than someone without would and it also provides&nbsp;up to a&nbsp;1gp or 2gp bonus when stealing ontop of this even if your target does not have that amount of hidden purse.</p><p>Furthermore it also increases the random gained item quantity up to 2 from 1, meaning you get more money and more items to sell or use.</p><p>After buying the item remove it from your Inventory &gt; Containers &gt; Trade Bag screen, then equip it via the Inventory &gt; Equipment screen (6th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p>"
+    },
+    "shrine-of-the-gods-key": {
+        "name": "Shrine of the Gods key",
+        "desc": "This is a passive effect item, once bought it will sit in your inventory and allow you access to the Shrine of the Gods at 32, 58 KV.<br><br>Inside the Shrine you will find an NPC that has at least 2 quests to unlock a Gem of Skillfullness.<br><br>These quests require turning in gathered resources or crafted items and may prove a challenge to some or force you to put up jobs and use your hard earned cash to complete them!<br><br>A Gem of Skillfullness can be used to max out a skill so it is recommended you save them and use them at level 1000 otherwise it might be considered a waste."
+    },
+    "noble-bag-of-strength": {
+        "name": "Noble bag of Strength",
+        "desc": "<p>The Noble bag is an item that can be equipped to your sixth bag slot, it is intended only for the Shogun and later evolutions.</p><p>After buying the item remove it from your Inventory &gt; Containers &gt; Trade Bag screen, then equip it via the Inventory &gt; Equipment screen (6th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag as well as gain the extra 50 inventory slots.<br /><br />The bag has a spell effect on it which can be activated via Inventory &gt; Spells once equipped, the spell provides +50 to Lordship skill.</p>"
+    },
+    "brown-bag-of-compression": {
+        "name": "Brown Bag of Compression",
+        "desc": "<p>The Bag of Compression is an item that can be equipped to your 1st, 2nd, 3rd, 4th or 5th bag slot, it is unique in that the Bag of Compression is the only item with 250 slots of storage space, owning this item gives you the advantage of knowing that very few people will have it, and have the extra storage (250 slots) and inventory sorting capacity it gives.<br><br>The Bag of Compression is available in eight different shades of awesomeness.</p>\r\n<p>After buying the item remove it from your Inventory > Containers > Trade Bag screen, then equip it via the Inventory > Equipment screen (1st thru 5th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p>\r\n"
+    },
+    "blue-bag-of-compression": {
+        "name": "Blue Bag of Compression",
+        "desc": "<p>The Bag of Compression is an item that can be equipped to your 1st, 2nd, 3rd, 4th or 5th bag slot, it is unique in that the Bag of Compression is the only item with 250 slots of storage space, owning this item gives you the advantage of knowing that very few people will have it, and have the extra storage (250 slots) and inventory sorting capacity it gives.<br><br>The Bag of Compression is available in eight different shades of awesomeness.</p>\r\n<p>After buying the item remove it from your Inventory > Containers > Trade Bag screen, then equip it via the Inventory > Equipment screen (1st thru 5th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p>\r\n"
+    },
+    "cyan-bag-of-compression": {
+        "name": "Cyan Bag of Compression",
+        "desc": "<p>The Bag of Compression is an item that can be equipped to your 1st, 2nd, 3rd, 4th or 5th bag slot, it is unique in that the Bag of Compression is the only item with 250 slots of storage space, owning this item gives you the advantage of knowing that very few people will have it, and have the extra storage (250 slots) and inventory sorting capacity it gives.<br><br>The Bag of Compression is available in eight different shades of awesomeness.</p>\r\n<p>After buying the item remove it from your Inventory > Containers > Trade Bag screen, then equip it via the Inventory > Equipment screen (1st thru 5th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p>\r\n"
+    },
+    "green-bag-of-compression": {
+        "name": "Green Bag of Compression",
+        "desc": "<p>The Bag of Compression is an item that can be equipped to your 1st, 2nd, 3rd, 4th or 5th bag slot, it is unique in that the Bag of Compression is the only item with 250 slots of storage space, owning this item gives you the advantage of knowing that very few people will have it, and have the extra storage (250 slots) and inventory sorting capacity it gives.<br><br>The Bag of Compression is available in eight different shades of awesomeness.</p>\r\n<p>After buying the item remove it from your Inventory > Containers > Trade Bag screen, then equip it via the Inventory > Equipment screen (1st thru 5th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p>\r\n"
+    },
+    "orange-bag-of-compression": {
+        "name": "Orange Bag of Compression",
+        "desc": "<p>The Bag of Compression is an item that can be equipped to your 1st, 2nd, 3rd, 4th or 5th bag slot, it is unique in that the Bag of Compression is the only item with 250 slots of storage space, owning this item gives you the advantage of knowing that very few people will have it, and have the extra storage (250 slots) and inventory sorting capacity it gives.<br><br>The Bag of Compression is available in eight different shades of awesomeness.</p>\r\n<p>After buying the item remove it from your Inventory > Containers > Trade Bag screen, then equip it via the Inventory > Equipment screen (1st thru 5th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p>\r\n"
+    },
+    "pink-bag-of-compression": {
+        "name": "Pink Bag of Compression",
+        "desc": "<p>The Bag of Compression is an item that can be equipped to your 1st, 2nd, 3rd, 4th or 5th bag slot, it is unique in that the Bag of Compression is the only item with 250 slots of storage space, owning this item gives you the advantage of knowing that very few people will have it, and have the extra storage (250 slots) and inventory sorting capacity it gives.<br><br>The Bag of Compression is available in eight different shades of awesomeness.</p>\r\n<p>After buying the item remove it from your Inventory > Containers > Trade Bag screen, then equip it via the Inventory > Equipment screen (1st thru 5th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p>\r\n"
+    },
+    "puple-bag-of-compression": {
+        "name": "Puple Bag of Compression",
+        "desc": "<p>The Bag of Compression is an item that can be equipped to your 1st, 2nd, 3rd, 4th or 5th bag slot, it is unique in that the Bag of Compression is the only item with 250 slots of storage space, owning this item gives you the advantage of knowing that very few people will have it, and have the extra storage (250 slots) and inventory sorting capacity it gives.<br><br>The Bag of Compression is available in eight different shades of awesomeness.</p>\r\n<p>After buying the item remove it from your Inventory > Containers > Trade Bag screen, then equip it via the Inventory > Equipment screen (1st thru 5th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p>\r\n"
+    },
+    "red-bag-of-compression": {
+        "name": "Red Bag of Compression",
+        "desc": "<p>The Bag of Compression is an item that can be equipped to your 1st, 2nd, 3rd, 4th or 5th bag slot, it is unique in that the Bag of Compression is the only item with 250 slots of storage space, owning this item gives you the advantage of knowing that very few people will have it, and have the extra storage (250 slots) and inventory sorting capacity it gives.<br><br>The Bag of Compression is available in eight different shades of awesomeness.</p>\r\n<p>After buying the item remove it from your Inventory > Containers > Trade Bag screen, then equip it via the Inventory > Equipment screen (1st thru 5th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p>\r\n"
+    },
+    "inventor`s-toolbox": {
+        "name": "Inventor`s Toolbox",
+        "desc": "<p>The Inventors Toolbox is an item that can be equipped to your sixth bag slot, it is intended only for the&nbsp;Inventor and later evolutions.</p><p>After buying the item remove it from your Inventory &gt; Containers &gt; Trade Bag screen, then equip it via the Inventory &gt; Equipment screen (6th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag as well as gain the extra 50 inventory slots.<br /><br />The bag has an equip bonus that raises Augmenting, Blood over Beauty and Bolts over Brains skills!</p>"
+    },
+    "key-to-dark-camelot": {
+        "name": "Key to Dark Camelot",
+        "desc": "<p>The Key to Dark Camelot can not be equipped, and does not contain any bonuses. The Key does however allow you to unlock a special dungeon called Dark Camelot at 27, 61 KV.<br /><br />To use the Key go to this location and click on Dark Camelot!</p>\r\n<p>The monsters in the dungeon are dynamic based on your level, this means level 10 players will see level 10 monsters while level 1000 players will see level 1000 monsters. <em>Of course if you are in the dungeon at the same time as another player the level of monsters might be erratic as the other player might have a spawn.</em></p>\r\n<p>There are 140 rooms in this dungeon, and several trophy quests / repeatable quests.</p>\r\n<p>You will unlock an epic King Arthur pet if you complete a moderate turn in quest.</p>\r\n<p>At level 1000 you will also unlock an Artifact ring for a more time consuming quest.</p>\r\n<p>The King Arthur pet is the best pet in the game for out and out tankage purposes.</p>"
+    },
+    "key-to-lost-avelon": {
+        "name": "Key to Lost Avelon",
+        "desc": "<p>The Key to Lost Avalon can not be equipped, and does not contain any bonuses. The Key does however allow you to unlock a special dungeon called Lost Avalon at 27, 61 KV.<br /><br />To use the Key go to this location and click on Lost Avalon!</p>\r\n<p>The monsters in the dungeon are dynamic based on your level, this means level 10 players will see level 10 monsters while level 1000 players will see level 1000 monsters. <em>Of course if you are in the dungeon at the same time as another player the level of monsters might be erratic as the other player might have a spawn.</em></p>\r\n<p>There are 130 rooms in this dungeon, and several trophy quests / repeatable quests.</p>\r\n<p>You will unlock an epic Merlic pet if you complete a moderate turn in quest.</p>\r\n<p>At level 1000 you will also unlock an Artifact necklace for a more time consuming quest.</p>\r\n<p>The Merlin pet is the best pet in the game for magical damage purposes.</p>"
+    },
+    "key-to-frozen-north": {
+        "name": "Key to Frozen North",
+        "desc": "<p>The Key to Frozen North can not be equipped, and does not contain any bonuses. The Key does however allow you to unlock a special dungeon called Frozen North at 27, 61 KV.<br /><br />To use the Key go to this location and click on Frozen North!</p>\r\n<p>The monsters in the dungeon are dynamic based on your level, this means level 10 players will see level 10 monsters while level 1000 players will see level 1000 monsters. <em>Of course if you are in the dungeon at the same time as another player the level of monsters might be erratic as the other player might have a spawn.</em></p>\r\n<p>There are 130 rooms in this dungeon, and several trophy quests / repeatable quests.</p>\r\n<p>You will unlock an epic Morgana pet if you complete a moderate turn in quest.</p>\r\n<p>At level 1000 you will also unlock an Artifact earring for a more time consuming quest.</p>\r\n<p>The Morgana pet is the best pet in the game for hybrid mage purposes.</p>"
+    },
+    "behexxled-cauldron": {
+        "name": "Behexxled Cauldron",
+        "desc": "<p>The Behexxled Cauldron is an item that can be equipped to your sixth bag slot, it is one of&nbsp;several items that can currently be equipped to that slot and therefore buying this item gives you the advantage of knowing that very few people will have it, and have the extra storage (60 slots)&nbsp;and inventory sorting capacity it gives.</p>\r\n<p>But that is not the real purpose of this item, the item is intended for Hags to augment their Bewitching and Charms and Hexes skill.</p>\r\n<p>After buying the item remove it from your Inventory &gt; Containers &gt; Trade Bag screen, then equip it via the Inventory &gt; Equipment screen (6th bag slot). You will then be able to place items into the bag and use it for storage like any other ordinary bag.</p>"
+    }
+}

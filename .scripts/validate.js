@@ -119,6 +119,8 @@ const checkSchemaTypes = async () => {
 
 const main = async function () {
   return await Promise.all([
+    validateAll("schemas/v0/items/extra-item.json", "items/extras/!(all|all.inline).json"),
+
     validateAll("schemas/v1/profession.json", "professions/!(all|all.inline).json"),
     validateAll("schemas/v1/skill.json", "skills/!(all|all.inline).json"),
     validateAll("schemas/v1/race.json", "races/!(all|all.inline).json"),

@@ -7,12 +7,15 @@ const directories = (() => {
     const dirs = process.argv.slice(2);
     if (dirs.length > 0)
         return dirs;
-    return ['professions', 'races', 'races/groups', 'skills', 'maps/terrains', 'maps/worlds', 'materials', 'titles', 'characters/images', 'characters/enhancements', 'stats/stat-categories', 'stats/rankings'];
+    return ['professions', 'races', 'races/groups', 'skills', 'maps/terrains', 'maps/worlds', 'materials', 'titles', 'items/extras', 'characters/images', 'characters/enhancements', 'stats/stat-categories', 'stats/rankings'];
 })();
 const schemas = 'schemas';
-const version = 'v1';
+const versions = {
+    'items/extras': 'v0',
+}
 
 directories.forEach(dir => {
+    const version = versions[dir] ?? 'v1';
     const parentDir = path.join(schemas, version, path.dirname(dir));
     if (!fs.existsSync(parentDir))
         fs.mkdirSync(parentDir);
