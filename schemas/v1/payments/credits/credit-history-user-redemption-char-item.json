@@ -20,7 +20,7 @@
         "itemId": {
             "type": "integer"
         },
-        "quantity": {
+        "itemQuantity": {
             "type": "integer"
         }
     },
