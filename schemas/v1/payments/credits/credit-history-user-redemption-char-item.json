@@ -16,11 +16,19 @@
         },
         "itemExtraId": {
             "$ref": "/schemas/v0/items/extras-id.json"
+        },
+        "itemId": {
+            "type": "integer"
+        },
+        "quantity": {
+            "type": "integer"
         }
     },
     "required": [
         "$type",
         "itemCharacterId",
-        "itemExtraId"
+        "itemExtraId",
+        "itemId",
+        "quantity"
     ]
 }
