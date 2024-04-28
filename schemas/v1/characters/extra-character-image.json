@@ -1,0 +1,32 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/extra-character-image.json",
+    "type": "object",
+    "title": "ExtraCharacterImage",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/extra-character-image"
+        },
+        "image": {
+            "$ref": "/schemas/v1/characters/images-id.json"
+        },
+        "sex": {
+            "type": "array",
+            "items": {
+                "$ref": "/schemas/v0/characters/character-sex.json"
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        },
+        "hc": {
+            "type": "integer",
+            "minimum": 1
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "image",
+        "sex",
+        "hc"
+    ]
+}
