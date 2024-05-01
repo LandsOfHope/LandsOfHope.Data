@@ -14,13 +14,17 @@
         "imageCharacterId": {
             "type": "integer"
         },
-        "imageId": {
+        "imageExtraId": {
             "$ref": "/schemas/v1/characters/extra-images-id.json"
+        },
+        "imageId": {
+            "$ref": "/schemas/v1/characters/images-id.json"
         }
     },
     "required": [
         "$type",
         "imageCharacterId",
+        "imageExtraId",
         "imageId"
     ]
 }
