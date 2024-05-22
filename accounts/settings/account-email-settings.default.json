@@ -3,6 +3,7 @@
     "transactional": {
         "$type": "/v1/accounts/settings/account-transactional-email-settings",
         "accountDeleted": true,
+        "accountBanned": true,
         "passwordChanged": true,
         "emailChanged": true,
         "loggedIn": true

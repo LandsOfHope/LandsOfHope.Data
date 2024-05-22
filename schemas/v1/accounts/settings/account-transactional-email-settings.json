@@ -10,6 +10,9 @@
         "accountDeleted": {
             "const": true
         },
+        "accountBanned": {
+            "const": true
+        },
         "passwordChanged": {
             "const": true
         },
