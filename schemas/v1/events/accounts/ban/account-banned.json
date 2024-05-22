@@ -1,0 +1,29 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/ban/account-banned.json",
+    "title": "AccountBannedEvent",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/events/accounts/ban/account-banned"
+        },
+        "account": {
+            "$ref": "/schemas/v1/accounts/account.json"
+        },
+        "bannedBy": {
+            "$ref": "/schemas/v1/accounts/account-id.json"
+        },
+        "reason": {
+            "type": "string"
+        },
+        "expiry": {
+            "$ref": "/schemas/v0/datetime.json"
+        }
+    },
+    "required": [
+        "$type",
+        "account",
+        "bannedBy",
+        "reason"
+    ]
+}
