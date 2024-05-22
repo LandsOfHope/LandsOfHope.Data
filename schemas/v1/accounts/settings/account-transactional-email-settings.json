@@ -26,6 +26,7 @@
     "required": [
         "$type",
         "accountDeleted",
+        "accountBanned",
         "passwordChanged",
         "emailChanged",
         "loggedIn"
