@@ -10,6 +10,9 @@
         "account": {
             "$ref": "/schemas/v1/accounts/account.json"
         },
+        "type": {
+            "$ref": "/schemas/v1/accounts/ban/account-ban-type.json"
+        },
         "unbannedBy": {
             "$ref": "/schemas/v1/accounts/account-id.json"
         },
@@ -20,6 +23,7 @@
     "required": [
         "$type",
         "account",
+        "type",
         "unbannedBy",
         "reason"
     ]

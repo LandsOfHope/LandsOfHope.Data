@@ -1,0 +1,8 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/ban/account-ban-type.json",
+    "title": "AccountBanType",
+    "enum": [
+        "account",
+        "chat"
+    ]
+}
