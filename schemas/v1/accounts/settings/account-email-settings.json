@@ -1,0 +1,22 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/settings/account-email-settings.json",
+    "title": "AccountEmailSettings",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/accounts/settings/account-email-settings"
+        },
+        "transactional": {
+            "$ref": "/schemas/v1/accounts/settings/account-transactional-email-settings.json"
+        },
+        "marketing": {
+            "$ref": "/schemas/v1/accounts/settings/account-marketing-email-settings.json"
+        }
+    },
+    "required": [
+        "$type",
+        "transactional",
+        "marketing"
+    ]
+}

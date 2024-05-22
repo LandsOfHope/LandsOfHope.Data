@@ -1,0 +1,30 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/settings/account-transactional-email-settings.json",
+    "title": "AccountTransactionalEmailSettings",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/accounts/settings/account-transactional-email-settings"
+        },
+        "accountDeleted": {
+            "const": true
+        },
+        "passwordChanged": {
+            "const": true
+        },
+        "emailChanged": {
+            "const": true
+        },
+        "loggedIn": {
+            "type": "boolean"
+        }
+    },
+    "required": [
+        "$type",
+        "accountDeleted",
+        "passwordChanged",
+        "emailChanged",
+        "loggedIn"
+    ]
+}

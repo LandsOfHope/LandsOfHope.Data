@@ -40,6 +40,18 @@ const schemasWithOptionalTypeSpecifier = [
 
 ]
 
+const validate = async(schema, file) => {
+  const tmpSchemas = schemas
+    .filter((value) => value !== schema)
+    .map((value) => `-r "${value}"`);
+  return (
+    await exec(
+      `node ${__dirname}/node_modules/ajv-cli/dist test -c ajv-formats -s "${schema}" -d "${file}" ${tmpSchemas.join(" ")} --valid`
+    )
+  ).exitCode;
+
+}
+
 const validateAll = async (schema, fileGlob) => {
   const tmpSchemas = schemas
     .filter((value) => value !== schema)
@@ -140,6 +152,8 @@ const main = async function () {
     validateAll("schemas/v1/professions/profession-evolution-graph.json", "professions/evolution/profession-evolution.json"),
     validateAll("schemas/v1/races/race-evolution-graph.json", "races/evolution/race-evolution.json"),
     validateAll("schemas/v1/characters/character-creation-images.json", "characters/character-creation-images.json"),
+
+    validate("schemas/v1/accounts/settings/account-email-settings.json", "accounts/settings/account-email-settings.default.json"),
 
     validateTestData("v1/accounts/account"),
     validateTestData("v1/accounts/cognito/cognito-id-token"),

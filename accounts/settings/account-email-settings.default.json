@@ -1,0 +1,14 @@
+{
+    "$type": "/v1/accounts/settings/account-email-settings",
+    "transactional": {
+        "$type": "/v1/accounts/settings/account-transactional-email-settings",
+        "accountDeleted": true,
+        "passwordChanged": true,
+        "emailChanged": true,
+        "loggedIn": true
+    },
+    "marketing": {
+        "$type": "/v1/accounts/settings/account-marketing-email-settings",
+        "frequency": "daily"
+    }
+}

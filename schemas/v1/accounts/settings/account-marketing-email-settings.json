@@ -1,0 +1,26 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/settings/account-marketing-email-settings.json",
+    "title": "AccountMarketingEmailSettings",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/accounts/settings/account-marketing-email-settings"
+        },
+        "frequency": {
+            "type": "string",
+            "enum": [
+                "immediate",
+                "daily",
+                "weekly",
+                "monthly",
+                "yearly",
+                "never"
+            ]
+        }
+    },
+    "required": [
+        "$type",
+        "frequency"
+    ]
+}
