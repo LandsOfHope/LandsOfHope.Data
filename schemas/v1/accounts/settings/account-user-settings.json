@@ -1,0 +1,18 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/settings/account-user-settings.json",
+    "title": "AccountUserSettings",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/accounts/settings/account-user-settings"
+        },
+        "dateOfBirth": {
+            "$ref": "/schemas/v0/date.json"
+        }
+    },
+    "required": [
+        "$type",
+        "dateOfBirth"
+    ]
+}
