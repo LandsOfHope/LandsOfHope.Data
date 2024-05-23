@@ -16,6 +16,9 @@
         "cognito:username": {
             "type": "string"
         },
+        "preferred_username": {
+            "type": "string"
+        },
         "custom:returning_player_id": {
             "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
         },
@@ -24,12 +27,17 @@
         },
         "email": {
             "$ref": "/schemas/v1/email-address.json"
+        },
+        "birthdate": {
+            "$ref": "/schemas/v0/date.json"
         }
     },
     "required": [
         "sub",
         "cognito:username",
+        "preferred_username",
+        "token_use",
         "email",
-        "token_use"
+        "birthdate"
     ]
 }
