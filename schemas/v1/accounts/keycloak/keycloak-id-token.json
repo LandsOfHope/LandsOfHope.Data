@@ -1,0 +1,44 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/keycloak/keycloak-id-token.json",
+    "title": "KeycloakIdToken",
+    "type": "object",
+    "additionalProperties": true,
+    "properties": {
+        "sub": {
+            "$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
+        },
+        "groups": {
+            "type": "array",
+            "items": {
+                "$ref": "/schemas/v1/accounts/account-group.json"
+            }
+        },
+        "iss": {
+            "type": "string",
+            "format": "uri"
+        },
+        "typ": {
+            "const": "ID"
+        },
+        "preferred_username": {
+            "type": "string"
+        },
+        "returning_player_id": {
+            "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
+        },
+        "email": {
+            "$ref": "/schemas/v1/email-address.json"
+        },
+        "birthdate": {
+            "$ref": "/schemas/v0/date.json"
+        }
+    },
+    "required": [
+        "sub",
+        "iss",
+        "typ",
+        "preferred_username",
+        "email",
+        "birthdate"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "exp": 1716766435,
+    "iat": 1716766135,
+    "auth_time": 0,
+    "jti": "00000000-0000-0000-0000-000000000000",
+    "iss": "https://idp.landsofhope.local/realms/lands-of-hope",
+    "aud": "https://landsofhope.com",
+    "sub": "00000000-0000-0000-0000-000000000000",
+    "typ": "ID",
+    "azp": "https://landsofhope.com",
+    "session_state": "00000000-0000-0000-0000-000000000000",
+    "at_hash": "000000000-000000000000",
+    "sid": "00000000-0000-0000-0000-000000000000",
+    "upn": "kuno",
+    "birthdate": "2000-01-01",
+    "email_verified": true,
+    "groups": [
+      "default-roles-lands-of-hope",
+      "gamemasters",
+      "admins",
+      "moderators"
+    ],
+    "preferred_username": "test_user",
+    "locale": "en",
+    "email": "test@landsofhope.com"
+  }
