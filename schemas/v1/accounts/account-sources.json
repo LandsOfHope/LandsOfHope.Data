@@ -9,6 +9,9 @@
         },
         "cognito": {
             "$ref": "/schemas/v1/accounts/cognito/cognito-account.json"
+        },
+        "keycloak": {
+            "$ref": "/schemas/v1/accounts/keycloak/keycloak-account.json"
         }
     },
     "required": [
