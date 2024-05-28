@@ -84,9 +84,6 @@
                 "iat": {
                     "type": "number"
                 },
-                "preferred_username": {
-                    "type": "string"
-                },
                 "scope": {
                     "type": "string"
                 }
