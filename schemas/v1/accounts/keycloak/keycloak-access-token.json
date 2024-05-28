@@ -7,6 +7,21 @@
         "sub": {
             "$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
         },
+        "aud": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "format": "uri"
+                },
+                {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "format": "uri"
+                    }
+                }
+            ]
+        },
         "groups": {
             "type": "array",
             "items": {
@@ -31,15 +46,35 @@
         },
         "preferred_username": {
             "type": "string"
+        },
+        "scope": {
+            "type": "string"
         }
     },
-    "required": [
-        "sub",
-        "iss",
-        "azp",
-        "typ",
-        "exp",
-        "iat",
-        "preferred_username"
+    "oneOf": [
+        {
+            "required": [
+                "sub",
+                "iss",
+                "azp",
+                "typ",
+                "exp",
+                "iat",
+                "preferred_username"
+            ]
+        },
+        {
+            "required": [
+                "sub",
+                "aud",
+                "scope",
+                "iss",
+                "azp",
+                "typ",
+                "exp",
+                "iat"
+            ]
+        }
+    
     ]
 }
