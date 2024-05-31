@@ -11,7 +11,14 @@
             "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
         },
         "linked_account": {
-            "$ref": "/schemas/v1/accounts/account-id.json"
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/accounts/account-id.json"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "username": {
             "type": "string"
