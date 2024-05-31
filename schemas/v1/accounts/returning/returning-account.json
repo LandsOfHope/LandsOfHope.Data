@@ -10,6 +10,9 @@
         "token": {
             "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
         },
+        "linked_account": {
+            "$ref": "/schema/v1/accounts/account-id.json"
+        },
         "username": {
             "type": "string"
         },
@@ -23,6 +26,7 @@
     "required": [
         "$type",
         "token",
+        "linked_account",
         "username",
         "characters"
     ]
