@@ -1,0 +1,17 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/keycloak/keycloak-required-action.json",
+    "title": "KeycloakRequiredAction",
+    "enum": [
+        "CONFIGURE_RECOVERY_AUTHN_CODES",
+        "CONFIGURE_TOTP",
+        "DELETE_ACCOUNT",
+        "TERMS_AND_CONDITIONS",
+        "UPDATE_EMAIL",
+        "UPDATE_PASSWORD",
+        "UPDATE_PROFILE",
+        "UPDATE_USER_LOCALE",
+        "VERIFY_EMAIL",
+        "WEBAUTHN_PASSWORDLESS_REGISTER",
+        "WEBAUTHN_REGISTER"
+    ]
+}

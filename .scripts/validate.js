@@ -33,6 +33,7 @@ const schemasWithOptionalTypeSpecifier = [
 
   'https://data.landsofhope.com/schemas/v1/accounts/keycloak/keycloak-id-token.json',
   'https://data.landsofhope.com/schemas/v1/accounts/keycloak/keycloak-access-token.json',
+  'https://data.landsofhope.com/schemas/v1/accounts/keycloak/keycloak-user.json',
 
   'https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-id-token.json',
   'https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-access-token.json',
@@ -163,6 +164,7 @@ const main = async function () {
     validateTestData("v1/accounts/keycloak/keycloak-id-token"),
     validateTestData("v1/accounts/keycloak/keycloak-access-token"),
     validateNegativeTestData("v1/accounts/keycloak/keycloak-access-token"),
+    validateTestData("v1/accounts/keycloak/keycloak-user"),
     validateTestData("v1/characters/appearance-profile"),
     validateTestData("v1/characters/character-id"),
     validateTestData("v1/chat/chat-mention"),

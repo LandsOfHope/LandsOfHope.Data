@@ -1,0 +1,26 @@
+{
+    "id": "00000000-0000-0000-0000-000000000000",
+    "username": "test",
+    "email": "test@landsofhope.com",
+    "emailVerified": false,
+    "attributes": {
+      "birthdate": [
+        "2000-01-01"
+      ]
+    },
+    "createdTimestamp": 1717255214799,
+    "enabled": true,
+    "totp": false,
+    "disableableCredentialTypes": [],
+    "requiredActions": [
+      "VERIFY_EMAIL"
+    ],
+    "notBefore": 0,
+    "access": {
+      "manageGroupMembership": true,
+      "view": true,
+      "mapRoles": true,
+      "impersonate": false,
+      "manage": true
+    }
+  }

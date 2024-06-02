@@ -1,0 +1,94 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/accounts/keycloak/keycloak-user.json",
+    "title": "KeycloakUser",
+    "type": "object",
+    "additionalProperties": true,
+    "properties": {
+        "id": {
+            "$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
+        },
+        "username": {
+            "type": "string"
+        },
+        "email": {
+            "$ref": "/schemas/v1/email-address.json"
+        },
+        "emailVerified": {
+            "type": "boolean"
+        },
+        "attributes": {
+            "type": "object",
+            "additionalProperties": true,
+            "properties": {
+                "birthdate": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "/schemas/v0/date.json"
+                    },
+                    "maxItems": 1
+                },
+                "returning_player_id": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
+                    },
+                    "maxItems": 1
+                }
+            }
+        },
+        "createdTimestamp": {
+            "type": "integer"
+        },
+        "enabled": {
+            "type": "boolean"
+        },
+        "totp": {
+            "type": "boolean"
+        },
+        "disableableCredentialTypes": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "requiredActions": {
+            "type": "array",
+            "items": {
+                "$ref": "/schemas/v1/accounts/keycloak/keycloak-required-action.json"
+            }
+        },
+        "notBefore": {
+            "type": "integer"
+        },
+        "access": {
+            "type": "object",
+            "additionalProperties": true,
+            "properties": {
+                "manageGroupMembership": {
+                    "type": "boolean"
+                },
+                "view": {
+                    "type": "boolean"
+                },
+                "mapRoles": {
+                    "type": "boolean"
+                },
+                "impersonate": {
+                    "type": "boolean"
+                },
+                "manage": {
+                    "type": "boolean"
+                }
+            }
+        }
+    },
+    "required": [
+        "id",
+        "username",
+        "email",
+        "emailVerified",
+        "createdTimestamp",
+        "requiredActions",
+        "attributes"
+    ]
+}
