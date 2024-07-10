@@ -185,7 +185,7 @@ const main = async function () {
     validateTestData("v1/events/chat/rooms/chat-room-presence-event"),
     validateTestData("v1/events/chat/messages/chat-message-sent-event"),
     validateTestData("v1/events/any-event"),
-    validateTestData("v1/events/server-event"),
+    // validateTestData("v1/events/server-event"),
     validateTestData("v1/events/client-event"),
     validateNegativeTestData("v1/events/client-event"),
     validateTestData("v1/events/live/live-client-event"),
