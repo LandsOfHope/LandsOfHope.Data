@@ -23,7 +23,8 @@
                                 "subscription.activated",
                                 "subscription.trialing",
                                 "subscription.canceled",
-                                "subscription.paused"
+                                "subscription.paused",
+                                "subscription.resumed"
                             ]
                         },
                         "data": {

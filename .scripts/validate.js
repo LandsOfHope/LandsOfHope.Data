@@ -116,7 +116,7 @@ const checkSchemaTypes = async () => {
   return schemaObjects.reduce((ret, schema) => {
     if (schema.type == 'object') {
       if (schema.oneOf || schema.allOf) {
-        // ignore oneOf for the time being
+        // ignore oneOf and allOf for the time being
       }
       else if (!schema.properties) {
         if (!(schema.patternProperties || schema.propertyNames)) {
