@@ -3,6 +3,7 @@
 const util = require("util");
 const exec = util.promisify(require("child_process").exec);
 const glob = require("glob");
+const { basename, dirname } = require("path");
 const readFile = util.promisify(require("fs").readFile);
 
 const schemas = glob.sync("schemas/v*/**/*.json");
@@ -37,17 +38,22 @@ const schemasWithOptionalTypeSpecifier = [
 
   'https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-id-token.json',
   'https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-access-token.json',
-  
+
   'https://data.landsofhope.com/schemas/v1/events/payments/stripe/stripe-event.json',
+  'https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-event.json',
+  'https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-subscription.json',
+  'https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-transaction.json',
 
   "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history.json"
 
 ]
 
-const validate = async(schema, file) => {
+const validate = async (schema, file) => {
   const tmpSchemas = schemas
     .filter((value) => value !== schema)
-    .map((value) => `-r "${value}"`);
+    .map((value) => `-r "${dirname(value)}/!(${basename(schema).replace('.json', '')}).json"`)
+    .filter((v, i, arr) => arr.indexOf(v) === i);
+  // const tmpSchemas = ["-r \"schemas/v*/**/*.json\""]
   return (
     await exec(
       `node ${__dirname}/node_modules/ajv-cli/dist test -c ajv-formats -s "${schema}" -d "${file}" ${tmpSchemas.join(" ")} --valid`
@@ -59,7 +65,9 @@ const validate = async(schema, file) => {
 const validateAll = async (schema, fileGlob) => {
   const tmpSchemas = schemas
     .filter((value) => value !== schema)
-    .map((value) => `-r "${value}"`);
+    .map((value) => `-r "${dirname(value)}/!(${basename(schema).replace('.json', '')}).json"`)
+    .filter((v, i, arr) => arr.indexOf(v) === i);
+  // const tmpSchemas = ["-r \"schemas/v*/**/*.json\""]
   const files = glob.sync(fileGlob);
   if (files.length == 0)
     throw Error(`Could not find files matching glob ${fileGlob}`);
@@ -73,7 +81,9 @@ const validateAll = async (schema, fileGlob) => {
 const failAll = async (schema, fileGlob) => {
   const tmpSchemas = schemas
     .filter((value) => value !== schema)
-    .map((value) => `-r "${value}"`);
+    .map((value) => `-r "${dirname(value)}/!(${basename(schema).replace('.json', '')}).json"`)
+    .filter((v, i, arr) => arr.indexOf(v) === i);
+  // const tmpSchemas = ["-r \"schemas/v*/**/*.json\""]
   const files = glob.sync(fileGlob);
   if (files.length == 0)
     throw Error(`Could not find files matching glob ${fileGlob}`);
@@ -105,7 +115,7 @@ const checkSchemaTypes = async () => {
   const schemaObjects = Array.from(await Promise.all(schemas.map(readSchema)).then(res => res.map(parseSchema)));
   return schemaObjects.reduce((ret, schema) => {
     if (schema.type == 'object') {
-      if (schema.oneOf) {
+      if (schema.oneOf || schema.allOf) {
         // ignore oneOf for the time being
       }
       else if (!schema.properties) {
@@ -175,11 +185,13 @@ const main = async function () {
     validateTestData("v1/events/chat/rooms/chat-room-presence-event"),
     validateTestData("v1/events/chat/messages/chat-message-sent-event"),
     validateTestData("v1/events/any-event"),
+    validateTestData("v1/events/server-event"),
     validateTestData("v1/events/client-event"),
     validateNegativeTestData("v1/events/client-event"),
     validateTestData("v1/events/live/live-client-event"),
     validateNegativeTestData("v1/events/live/live-client-event"),
     validateTestData("v1/stats/ranking-list"),
+    validateTestData("v1/events/payments/paddle/paddle-event"),
 
     validateTestData("v1/payments/credits/credit-history-support-adjustment"),
 

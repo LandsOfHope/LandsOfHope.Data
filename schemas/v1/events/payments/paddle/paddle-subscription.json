@@ -1,0 +1,39 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-subscription.json",
+    "title": "PaddleSubscription",
+    "type": "object",
+    "additionalProperties": true,
+    "properties": {
+        "id": {
+            "type": "string"
+        },
+        "status": {
+            "enum": [
+                "active",
+                "canceled",
+                "past_due",
+                "paused",
+                "trialing"
+            ]
+        },
+        "customer_id": {
+            "type": "string"
+        },
+        "custom_data": {
+            "oneOf": [
+                {
+                    "type": "object"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        }
+    },
+    "required": [
+        "id",
+        "status",
+        "customer_id",
+        "custom_data"
+    ]
+}
