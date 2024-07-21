@@ -50,6 +50,7 @@
     "required": [
         "event_id",
         "occurred_at",
+        "event_type",
         "data"
     ]
 }
