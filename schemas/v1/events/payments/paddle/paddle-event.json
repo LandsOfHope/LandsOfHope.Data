@@ -12,7 +12,11 @@
                 "occurred_at": {
                     "$ref": "/schemas/v0/datetime.json"
                 }
-            }
+            },
+            "required": [
+                "event_id",
+                "occurred_at"
+            ]
         },
         {
             "oneOf": [
@@ -30,7 +34,11 @@
                         "data": {
                             "$ref": "/schemas/v1/events/payments/paddle/paddle-subscription.json"
                         }
-                    }
+                    },
+                    "required": [
+                        "event_type",
+                        "data"
+                    ]
                 },
                 {
                     "properties": {
@@ -42,7 +50,11 @@
                         "data": {
                             "$ref": "/schemas/v1/events/payments/paddle/paddle-transaction.json"
                         }
-                    }
+                    },
+                    "required": [
+                        "event_type",
+                        "data"
+                    ]
                 }
             ]
         }
