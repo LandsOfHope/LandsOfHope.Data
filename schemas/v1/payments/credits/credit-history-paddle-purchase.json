@@ -1,0 +1,23 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-paddle-purchase.json",
+    "title": "CreditHistoryStripePurchase",
+    "type": "object",
+    "allOf": [
+        {
+            "$ref": "/schemas/v1/payments/credits/credit-history.json"
+        }
+    ],
+    "properties": {
+        "$type": {
+            "const": "/v1/payments/credits/credit-history-paddle-purchase"
+        },
+        "paddleTransactionId": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "$type",
+        "paddleTransactionId"
+    ],
+    "additionalProperties": false
+}
