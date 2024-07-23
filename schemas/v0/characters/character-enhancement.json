@@ -22,7 +22,11 @@
                         "hc": {
                             "type": "integer"
                         }
-                    }
+                    },
+                    "required": [
+                        "value",
+                        "hc"
+                    ]
                 }
             },
             "additionalProperties": false
