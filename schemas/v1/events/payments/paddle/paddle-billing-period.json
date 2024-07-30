@@ -1,0 +1,17 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-billing-period.json",
+    "title": "PaddleBillingPeriod",
+    "type": "object",
+    "properties": {
+        "starts_at": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "ends_at": {
+            "$ref": "/schemas/v0/datetime.json"
+        }
+    },
+    "required": [
+        "starts_at",
+        "ends_at"
+    ]
+}

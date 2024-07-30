@@ -43,6 +43,7 @@ const schemasWithOptionalTypeSpecifier = [
   'https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-event.json',
   'https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-subscription.json',
   'https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-transaction.json',
+  'https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-billing-period.json',
 
   "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history.json"
 

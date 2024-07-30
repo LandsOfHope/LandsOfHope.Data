@@ -19,6 +19,16 @@
         "customer_id": {
             "type": "string"
         },
+        "current_billing_period": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/events/payments/paddle/paddle-billing-period.json"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
         "custom_data": {
             "oneOf": [
                 {
