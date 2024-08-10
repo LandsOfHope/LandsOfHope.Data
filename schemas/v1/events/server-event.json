@@ -11,9 +11,6 @@
         },
         {
             "$ref": "/schemas/v1/events/payments/payment-server-event.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/client-event.json"
         }
     ]
 }
