@@ -4,10 +4,13 @@
     "type": "object",
     "oneOf": [
         {
-            "$ref": "/schemas/v1/events/accounts/cognito/cognito-account-login.json"
+            "$ref": "/schemas/v1/events/accounts/keycloak/keycloak-account-deleted.json"
         },
         {
-            "$ref": "/schemas/v1/events/accounts/cognito/cognito-account-email-update-requested.json"
+            "$ref": "/schemas/v1/events/accounts/keycloak/keycloak-account-email-updated.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/accounts/keycloak/keycloak-account-login.json"
         },
         {
             "$ref": "/schemas/v1/events/accounts/account-login.json"
