@@ -21,6 +21,12 @@
         },
         "referrer": {
             "$ref": "/schemas/v1/accounts/account-id.json"
+        },
+        "tos": {
+            "type": "string"
+        },
+        "privacy": {
+            "type": "string"
         }
     },
     "required": [
@@ -28,6 +34,8 @@
         "email",
         "username",
         "password",
-        "dateOfBirth"
+        "dateOfBirth",
+        "tos",
+        "privacy"
     ]
 }
