@@ -10,6 +10,9 @@
             "$ref": "/schemas/v1/events/chat/messages/chat-message-sent-event.json"
         },
         {
+            "$ref": "/schemas/v1/events/chat/messages/chat-messages-cleared-event.json"
+        },
+        {
             "$ref": "/schemas/v1/events/chat/messages/chat-messages-deleted-event.json"
         }
     ]
