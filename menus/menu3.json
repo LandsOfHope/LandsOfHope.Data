@@ -14,20 +14,6 @@
                 "link": "fhan.asp"
             },
             {
-                "$type": "/v1/menus/menu",
-                "name": {
-                    "en": "Calendar"
-                },
-                "link": "fhcal.asp"
-            },
-            {
-                "$type": "/v1/menus/menu",
-                "name": {
-                    "en": "Links"
-                },
-                "link": "fhurl.asp"
-            },
-            {
                 "$type": "/v1/menus/horizontal-rule",
                 "img": "hr.gif"
             },
