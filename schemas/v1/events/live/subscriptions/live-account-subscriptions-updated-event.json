@@ -7,16 +7,12 @@
         "$type": {
             "const": "/v1/events/live/subscriptions/live-account-subscriptions-updated-event"
         },
-        "origin": {
-            "type": "string"
-        },
         "account": {
             "$ref": "/schemas/v1/accounts/account-id.json"
         }
     },
     "required": [
         "$type",
-        "origin",
         "account"
     ]
 }
