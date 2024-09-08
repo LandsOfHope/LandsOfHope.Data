@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "ajv": "^8.14.0",
+    "ajv": "^8.17.1",
     "ajv-cli": "^5.0.0",
     "ajv-formats": "^3.0.1",
-    "fetch-retry": "^5.0.3",
-    "glob": "^8.0.3",
-    "mssql": "^9.1.1",
-    "node-fetch": "^3.3.0",
+    "fetch-retry": "^6.0.0",
+    "glob": "^11.0.0",
+    "json-schema-to-typescript": "^15.0.2",
+    "mssql": "^11.0.1",
+    "node-fetch": "^3.3.2",
     "slugify": "^1.6.6"
   }
 }
