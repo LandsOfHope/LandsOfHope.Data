@@ -2242,35 +2242,35 @@
         "name": {
             "en": "GM"
         },
-        "link": "gmec.asp",
+        "link": "gm/gmec.asp",
         "children": [
             {
                 "$type": "/v1/menus/menu",
                 "name": {
                     "en": "Accounts"
                 },
-                "link": "gmea.asp",
+                "link": "gm/gmea.asp",
                 "children": [
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Accounts"
                         },
-                        "link": "gmea.asp"
+                        "link": "gm/gmea.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "TOS Violators"
                         },
-                        "link": "gmEAT.asp"
+                        "link": "gm/gmEAT.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Billing"
                         },
-                        "link": "gmEA2.asp"
+                        "link": "gm/gmEA2.asp"
                     },
                     {
                         "$type": "/v1/menus/horizontal-rule",
@@ -2281,21 +2281,21 @@
                         "name": {
                             "en": "IP Block"
                         },
-                        "link": "gmeipb.asp"
+                        "link": "gm/gmeipb.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Delete"
                         },
-                        "link": "gmeasd.asp"
+                        "link": "gm/gmeasd.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Banned"
                         },
-                        "link": "gmeab.asp"
+                        "link": "gm/gmeab.asp"
                     }
                 ]
             },
@@ -2304,28 +2304,28 @@
                 "name": {
                     "en": "Characters"
                 },
-                "link": "gmec.asp",
+                "link": "gm/gmec.asp",
                 "children": [
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Player Characters"
                         },
-                        "link": "gmec.asp"
+                        "link": "gm/gmec.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Pets"
                         },
-                        "link": "gmec.asp?Type=2"
+                        "link": "gm/gmec.asp?Type=2"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Non Player Characters"
                         },
-                        "link": "gmec.asp?Type=1"
+                        "link": "gm/gmec.asp?Type=1"
                     },
                     {
                         "$type": "/v1/menus/horizontal-rule",
@@ -2336,7 +2336,7 @@
                         "name": {
                             "en": "Possess"
                         },
-                        "link": "gmpos.asp"
+                        "link": "gm/gmpos.asp"
                     }
                 ]
             },
@@ -2345,28 +2345,28 @@
                 "name": {
                     "en": "Vessels"
                 },
-                "link": "gmev.asp"
+                "link": "gm/gmev.asp"
             },
             {
                 "$type": "/v1/menus/menu",
                 "name": {
                     "en": "Buildings"
                 },
-                "link": "gmBuildings.asp",
+                "link": "gm/gmBuildings.asp",
                 "children": [
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Dungeons"
                         },
-                        "link": "gmdungeons.asp"
+                        "link": "gm/gmdungeons.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Buildings"
                         },
-                        "link": "gmBuildings.asp"
+                        "link": "gm/gmBuildings.asp"
                     }
                 ]
             },
@@ -2375,63 +2375,63 @@
                 "name": {
                     "en": "Edit"
                 },
-                "link": "gmec.asp",
+                "link": "gm/gmec.asp",
                 "children": [
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Menus"
                         },
-                        "link": "gmemenu.asp"
+                        "link": "gm/gmemenu.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Talk Text"
                         },
-                        "link": "gmect.asp"
+                        "link": "gm/gmect.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Guilds"
                         },
-                        "link": "gmeg.asp"
+                        "link": "gm/gmeg.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Skills"
                         },
-                        "link": "gmeskill.asp"
+                        "link": "gm/gmeskill.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Items"
                         },
-                        "link": "gmei.asp"
+                        "link": "gm/gmei.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Item Descriptions"
                         },
-                        "link": "gmeid.asp"
+                        "link": "gm/gmeid.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Spells"
                         },
-                        "link": "gmess.asp"
+                        "link": "gm/gmess.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Quests"
                         },
-                        "link": "gmqueste.asp"
+                        "link": "gm/gmqueste.asp"
                     },
                     {
                         "$type": "/v1/menus/horizontal-rule",
@@ -2442,21 +2442,21 @@
                         "name": {
                             "en": "Races"
                         },
-                        "link": "gmer.asp"
+                        "link": "gm/gmer.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Professions"
                         },
-                        "link": "gmep.asp"
+                        "link": "gm/gmep.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Vessel Types"
                         },
-                        "link": "gmevt.asp"
+                        "link": "gm/gmevt.asp"
                     },
                     {
                         "$type": "/v1/menus/horizontal-rule",
@@ -2467,7 +2467,7 @@
                         "name": {
                             "en": "Lore"
                         },
-                        "link": "gmLoreE.asp"
+                        "link": "gm/gmLoreE.asp"
                     }
                 ]
             },
@@ -2476,42 +2476,42 @@
                 "name": {
                     "en": "New"
                 },
-                "link": "gmec.asp",
+                "link": "gm/gmec.asp",
                 "children": [
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Character"
                         },
-                        "link": "gmNC.asp"
+                        "link": "gm/gmNC.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Inventory Item"
                         },
-                        "link": "gmNII.asp"
+                        "link": "gm/gmNII.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Building"
                         },
-                        "link": "gmBC.asp"
+                        "link": "gm/gmBC.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Quest"
                         },
-                        "link": "gmNQ.asp"
+                        "link": "gm/gmNQ.asp"
                     },
                     {
                         "$type": "/v1/menus/menu",
                         "name": {
                             "en": "Dungeon"
                         },
-                        "link": "gmnewd.asp"
+                        "link": "gm/gmnewd.asp"
                     }
                 ]
             },
@@ -2524,21 +2524,21 @@
                 "name": {
                     "en": "Building Wizard"
                 },
-                "link": "gmblm.asp"
+                "link": "gm/gmblm.asp"
             },
             {
                 "$type": "/v1/menus/menu",
                 "name": {
                     "en": "Thefts"
                 },
-                "link": "gmITheft.asp"
+                "link": "gm/gmITheft.asp"
             },
             {
                 "$type": "/v1/menus/menu",
                 "name": {
                     "en": "Messages"
                 },
-                "link": "gmIMessages.asp"
+                "link": "gm/gmIMessages.asp"
             },
             {
                 "$type": "/v1/menus/horizontal-rule",
@@ -2549,7 +2549,7 @@
                 "name": {
                     "en": "Item Renames"
                 },
-                "link": "gmCharxz.asp"
+                "link": "gm/gmCharxz.asp"
             }
         ]
     }
