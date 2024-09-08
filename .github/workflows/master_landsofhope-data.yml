@@ -50,8 +50,9 @@ jobs:
       - name: compile schemas
         run: node .scripts/compile_schemas.js
       - name: generate typescript api types
+        working-directory: .scripts
         # run: ln -s ${{ github.workspace }}/schemas /schemas && ./.scripts/generate_api_ts.sh
-        run: ./.scripts/generate_api_ts.sh
+        run: ./generate_api_ts.sh
       - name: generate health file
         run: node .scripts/generate_health.js
       - uses: actions/setup-python@v5
