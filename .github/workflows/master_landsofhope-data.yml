@@ -12,9 +12,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/catthehacker/ubuntu:act-latest
+      image: ghcr.io/catthehacker/ubuntu:runner-latest
       volumes:
         - act-toolcache:/opt/hostedtoolcache
+      env:
+        DOTNET_INSTALL_DIR: /opt/hostedtoolcache/dotnet
+        DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
     name: Deploy
     steps:
       - uses: actions/checkout@v4
