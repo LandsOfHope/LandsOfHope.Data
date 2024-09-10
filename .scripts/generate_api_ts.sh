@@ -1,6 +1,6 @@
 #!/bin/bash
 mkdir -p ../api/ts/
 
-ln -s /schemas/ $PWD/schemas
+ln -s $PWD/schemas /schemas
 
 npm run generate-api-ts
