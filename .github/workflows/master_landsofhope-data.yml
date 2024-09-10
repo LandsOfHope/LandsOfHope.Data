@@ -12,13 +12,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/catthehacker/ubuntu:act-latest
+      image: ghcr.io/catthehacker/ubuntu:runner-latest
       volumes:
         - act-toolcache:/opt/hostedtoolcache
       env:
         DOTNET_INSTALL_DIR: /opt/hostedtoolcache/dotnet
         DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
-        HOME: /tmp/home
     name: Deploy
     steps:
       - uses: actions/checkout@v4
@@ -51,9 +50,7 @@ jobs:
       - name: compile schemas
         run: node .scripts/compile_schemas.js
       - name: generate typescript api types
-        working-directory: .scripts
-        # run: ln -s ${{ github.workspace }}/schemas /schemas && ./.scripts/generate_api_ts.sh
-        run: ./generate_api_ts.sh
+        run: docker run --rm -v "$PWD/schemas:/schemas" -v "${{ github.workspace }}:/work" --workdir "/work/.scripts" node sh ./generate_api_ts.sh
       - name: generate health file
         run: node .scripts/generate_health.js
       - uses: actions/setup-python@v5
