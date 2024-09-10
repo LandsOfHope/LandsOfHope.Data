@@ -18,7 +18,7 @@ jobs:
       env:
         DOTNET_INSTALL_DIR: /opt/hostedtoolcache/dotnet
         DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
-        HOME: /home/runner
+        HOME: /tmp/home
     name: Deploy
     steps:
       - uses: actions/checkout@v4
