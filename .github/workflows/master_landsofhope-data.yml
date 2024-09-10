@@ -12,7 +12,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/catthehacker/ubuntu:runner-latest
+      image: ghcr.io/catthehacker/ubuntu:act-latest
       volumes:
         - act-toolcache:/opt/hostedtoolcache
       env:
