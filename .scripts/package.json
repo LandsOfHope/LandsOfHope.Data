@@ -11,6 +11,6 @@
     "slugify": "^1.6.6"
   },
   "scripts": {
-    "generate-api-ts": "json2ts --cwd $PWD/.. -i ./schemas/ -o ./api/ts/"
+    "generate-api-ts": "json2ts --cwd $PWD/.. -i $PWD/../schemas/ -o $PWD/../api/ts/"
   }
 }
