@@ -18,6 +18,7 @@ jobs:
       env:
         DOTNET_INSTALL_DIR: /opt/hostedtoolcache/dotnet
         DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
+        DOTNET_CLI_TELEMETRY_OPTOUT: 1
     name: Deploy
     steps:
       - uses: actions/checkout@v4
@@ -50,7 +51,7 @@ jobs:
       - name: compile schemas
         run: node .scripts/compile_schemas.js
       - name: generate typescript api types
-        run: docker run --rm -v "./schemas:/schemas" -v "./:/work" --workdir "/work/.scripts" node sh ./generate_api_ts.sh
+        run: node .scripts/generate_api_ts.js
       - name: generate health file
         run: node .scripts/generate_health.js
       - uses: actions/setup-python@v5
