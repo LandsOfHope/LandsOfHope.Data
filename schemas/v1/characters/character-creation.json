@@ -4,6 +4,7 @@
     "title": "CharacterCreation",
     "oneOf": [
         {
+            "type": "object",
             "properties": {
                 "character": {
                     "allOf": [
@@ -11,6 +12,7 @@
                             "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
                         },
                         {
+                            "type": "object",
                             "properties": {
                                 "profession": {
                                     "enum": [
@@ -48,6 +50,7 @@
             "additionalProperties": false
         },
         {
+            "type": "object",
             "properties": {
                 "character": {
                     "allOf": [
@@ -55,6 +58,7 @@
                             "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
                         },
                         {
+                            "type": "object",
                             "properties": {
                                 "sex": {
                                     "const": "F"
@@ -78,6 +82,7 @@
             "additionalProperties": false
         },
         {
+            "type": "object",
             "properties": {
                 "character": {
                     "allOf": [
@@ -85,6 +90,7 @@
                             "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
                         },
                         {
+                            "type": "object",
                             "properties": {
                                 "profession": {
                                     "const": "apprentice"
@@ -100,6 +106,7 @@
             "additionalProperties": false
         },
         {
+            "type": "object",
             "properties": {
                 "character": {
                     "allOf": [
@@ -109,6 +116,7 @@
                         {
                             "oneOf": [
                                 {
+                                    "type": "object",
                                     "properties": {
                                         "profession": {
                                             "const": "navy-privateer"
@@ -133,6 +141,7 @@
                                     ]
                                 },
                                 {
+                                    "type": "object",
                                     "properties": {
                                         "profession": {
                                             "const": "league-privateer"
@@ -180,6 +189,7 @@
             "additionalProperties": false
         },
         {
+            "type": "object",
             "properties": {
                 "character": {
                     "allOf": [
@@ -187,6 +197,7 @@
                             "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
                         },
                         {
+                            "type": "object",
                             "properties": {
                                 "profession": {
                                     "const": "stargazer"
