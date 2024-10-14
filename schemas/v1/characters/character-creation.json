@@ -79,6 +79,9 @@
                     ]
                 }
             },
+            "required": [
+                "character"
+            ],
             "additionalProperties": false
         },
         {
@@ -103,6 +106,9 @@
                     ]
                 }
             },
+            "required": [
+                "character"
+            ],
             "additionalProperties": false
         },
         {
