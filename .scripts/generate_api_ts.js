@@ -36,7 +36,7 @@ const main = async function () {
         schemaFiles.forEach(([schemaPath, schema]) => {
             const outDir = path.join(apiRoot, path.dirname(schemaPath).substring('schemas/'.length));
             fs.mkdirSync(outDir, { recursive: true });
-            const outSchemaPath = path.join(outDir, path.basename(schemaPath).replace('.json', '.d.ts'));
+            const outSchemaPath = path.join(outDir, path.basename(schemaPath).replace('.gen.', '.').replace('.json', '.d.ts'));
             jsonschematots.compile(schema, schema['title'], { $refOptions: { dereference: { externalReferenceResolution: 'root' }, resolve: { external: true, file: false, http: false, myresolver: resolver } } })
                 .then(ts => {
                     fs.writeFileSync(outSchemaPath, ts)
