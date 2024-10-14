@@ -1,0 +1,10 @@
+{
+    "character": {
+        "$type": "/v1/characters/creation/common-creation-args",
+        "name": "Happy",
+        "profession": "archer",
+        "sex": "M",
+        "pictureId": "sohum1"
+    },
+    "skipTutorial": false
+}

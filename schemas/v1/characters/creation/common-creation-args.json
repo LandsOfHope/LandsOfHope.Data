@@ -1,0 +1,30 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/common-creation-args.json",
+    "title": "CommonCreationArgs",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/creation/common-creation-args"
+        },
+        "name": {
+            "$ref": "/schemas/v1/characters/character-name.json"
+        },
+        "profession": {
+            "$ref": "/schemas/v1/professions-id.json"
+        },
+        "sex": {
+            "$ref": "/schemas/v0/characters/character-sex.json"
+        },
+        "pictureId": {
+            "$ref": "/schemas/v1/characters/images-id.json"
+        }
+    },
+    "required": [
+        "$type",
+        "name",
+        "profession",
+        "sex",
+        "pictureId"
+    ],
+    "additionalProperties": false
+}

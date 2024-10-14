@@ -1,0 +1,37 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/uncharted-waters/vessel-args.json",
+    "title": "UnchartedWatersVesselCreationArgs",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/creation/uncharted-waters/vessel-args"
+        },
+        "name": {
+            "type": "string",
+            "minLength": 2,
+            "maxLength": 50,
+            "pattern": "^[A-Za-z \\-\\.'`]{2,30}$"
+        },
+        "flagColor": {
+            "enum": [
+                "000000",
+                
+                "330000",
+                "660000",
+                "990000",
+                "CC0000",
+
+                "000099",
+                "330099",
+                "660099",
+                "990099"
+            ]
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "name",
+        "flagColor"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "character": {
+        "$type": "/v1/characters/creation/common-creation-args",
+        "name": "Happy",
+        "profession": "league-privateer",
+        "sex": "M",
+        "pictureId": "pirate7"
+    },
+    "vessel": {
+        "$type": "/v1/characters/creation/uncharted-waters/vessel-args",
+        "name": "The Black Pearl",
+        "flagColor": "000000"
+    },
+    "bonus": "wealth"
+}

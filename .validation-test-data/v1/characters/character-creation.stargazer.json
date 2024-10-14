@@ -1,0 +1,10 @@
+{
+    "character": {
+        "$type": "/v1/characters/creation/common-creation-args",
+        "name": "Happy",
+        "sex": "M",
+        "profession": "stargazer",
+        "pictureId": "starm1"
+    },
+    "constellation": "fox"
+}

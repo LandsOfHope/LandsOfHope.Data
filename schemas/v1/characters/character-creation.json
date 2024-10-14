@@ -1,0 +1,230 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-creation.json",
+    "type": "object",
+    "title": "CharacterCreation",
+    "oneOf": [
+        {
+            "properties": {
+                "character": {
+                    "allOf": [
+                        {
+                            "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
+                        },
+                        {
+                            "properties": {
+                                "profession": {
+                                    "enum": [
+                                        "archer",
+                                        "caster",
+                                        "figher",
+                                        "healer",
+                                        "rogue",
+                                        "animator",
+                                        "farmer",
+                                        "inventor",
+                                        "salvager",
+                                        "hermit"
+                                    ]
+                                },
+                                "pictureId": {
+                                    "$ref": "/schemas/v1/characters/creation/standard-images.json"
+                                }
+                            },
+                            "required": [
+                                "profession",
+                                "pictureId"
+                            ]
+                        }
+                    ]
+                },
+                "skipTutorial": {
+                    "type": "boolean"
+                }
+            },
+            "required": [
+                "character",
+                "skipTutorial"
+            ],
+            "additionalProperties": false
+        },
+        {
+            "properties": {
+                "character": {
+                    "allOf": [
+                        {
+                            "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
+                        },
+                        {
+                            "properties": {
+                                "sex": {
+                                    "const": "F"
+                                },
+                                "profession": {
+                                    "const": "hag"
+                                },
+                                "pictureId": {
+                                    "$ref": "/schemas/v1/characters/creation/hag-images.json"
+                                }
+                            },
+                            "required": [
+                                "sex",
+                                "profession",
+                                "pictureId"
+                            ]
+                        }
+                    ]
+                }
+            },
+            "additionalProperties": false
+        },
+        {
+            "properties": {
+                "character": {
+                    "allOf": [
+                        {
+                            "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
+                        },
+                        {
+                            "properties": {
+                                "profession": {
+                                    "const": "apprentice"
+                                }
+                            },
+                            "required": [
+                                "profession"
+                            ]
+                        }
+                    ]
+                }
+            },
+            "additionalProperties": false
+        },
+        {
+            "properties": {
+                "character": {
+                    "allOf": [
+                        {
+                            "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
+                        },
+                        {
+                            "oneOf": [
+                                {
+                                    "properties": {
+                                        "profession": {
+                                            "const": "navy-privateer"
+                                        },
+                                        "pictureId": {
+                                            "oneOf": [
+                                                {
+                                                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/navy-images.json"
+                                                },
+                                                {
+                                                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/other-images.json"
+                                                },
+                                                {
+                                                    "$ref": "/schemas/v1/characters/creation/standard-images.json"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "required": [
+                                        "profession",
+                                        "pictureId"
+                                    ]
+                                },
+                                {
+                                    "properties": {
+                                        "profession": {
+                                            "const": "league-privateer"
+                                        },
+                                        "pictureId": {
+                                            "oneOf": [
+                                                {
+                                                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/pirate-images.json"
+                                                },
+                                                {
+                                                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/other-images.json"
+                                                },
+                                                {
+                                                    "$ref": "/schemas/v1/characters/creation/standard-images.json"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "required": [
+                                        "profession",
+                                        "pictureId"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "vessel": {
+                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/vessel-args.json"
+                },
+                "bonus": {
+                    "enum": [
+                        "wealth",
+                        "attack",
+                        "defense",
+                        "cargo"
+                    ]
+                }
+            },
+            "required": [
+                "character",
+                "vessel",
+                "bonus"
+            ],
+            "additionalProperties": false
+        },
+        {
+            "properties": {
+                "character": {
+                    "allOf": [
+                        {
+                            "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
+                        },
+                        {
+                            "properties": {
+                                "profession": {
+                                    "const": "stargazer"
+                                },
+                                "pictureId": {
+                                    "oneOf": [
+                                        {
+                                            "$ref": "/schemas/v1/characters/creation/stargazer-images.json"
+                                        },
+                                        {
+                                            "$ref": "/schemas/v1/characters/creation/standard-images.json"
+                                        }
+                                    ]
+                                }
+                            },
+                            "required": [
+                                "profession",
+                                "pictureId"
+                            ]
+                        }
+                    ]
+                },
+                "constellation": {
+                    "enum": [
+                        "fox",
+                        "bear",
+                        "eagle",
+                        "turtle",
+                        "rat",
+                        "chameleon"
+                    ]
+                }
+            },
+            "required": [
+                "character",
+                "constellation"
+            ],
+            "additionalProperties": false
+        }
+    ]
+}
