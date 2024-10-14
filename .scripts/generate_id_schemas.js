@@ -20,7 +20,7 @@ directories.forEach(dir => {
     if (!fs.existsSync(parentDir))
         fs.mkdirSync(parentDir);
 
-    const id_schema_file = `${schemas}/${version}/${dir}-id.json`;
+    const id_schema_file = `${schemas}/${version}/${dir}-id.gen.json`;
     fs.readdir(dir, (err, files) => {
         if (err) {
             console.log(err);

@@ -29,7 +29,7 @@
                                     ]
                                 },
                                 "pictureId": {
-                                    "$ref": "/schemas/v1/characters/creation/standard-images.json"
+                                    "$ref": "/schemas/v1/characters/creation/standard-images.gen.json"
                                 }
                             },
                             "required": [
@@ -67,7 +67,7 @@
                                     "const": "hag"
                                 },
                                 "pictureId": {
-                                    "$ref": "/schemas/v1/characters/creation/hag-images.json"
+                                    "$ref": "/schemas/v1/characters/creation/hag-images.gen.json"
                                 }
                             },
                             "required": [
@@ -124,13 +124,10 @@
                                         "pictureId": {
                                             "oneOf": [
                                                 {
-                                                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/navy-images.json"
+                                                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/navy-images.gen.json"
                                                 },
                                                 {
-                                                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/other-images.json"
-                                                },
-                                                {
-                                                    "$ref": "/schemas/v1/characters/creation/standard-images.json"
+                                                    "$ref": "/schemas/v1/characters/creation/standard-images.gen.json"
                                                 }
                                             ]
                                         }
@@ -149,13 +146,10 @@
                                         "pictureId": {
                                             "oneOf": [
                                                 {
-                                                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/pirate-images.json"
+                                                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/pirate-images.gen.json"
                                                 },
                                                 {
-                                                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/other-images.json"
-                                                },
-                                                {
-                                                    "$ref": "/schemas/v1/characters/creation/standard-images.json"
+                                                    "$ref": "/schemas/v1/characters/creation/standard-images.gen.json"
                                                 }
                                             ]
                                         }
@@ -205,10 +199,10 @@
                                 "pictureId": {
                                     "oneOf": [
                                         {
-                                            "$ref": "/schemas/v1/characters/creation/stargazer-images.json"
+                                            "$ref": "/schemas/v1/characters/creation/stargazer-images.gen.json"
                                         },
                                         {
-                                            "$ref": "/schemas/v1/characters/creation/standard-images.json"
+                                            "$ref": "/schemas/v1/characters/creation/standard-images.gen.json"
                                         }
                                     ]
                                 }

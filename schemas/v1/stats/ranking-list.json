@@ -23,7 +23,7 @@
                                 "type": "number"
                             },
                             "pictureID": {
-                                "$ref": "/schemas/v1/characters/images-id.json"
+                                "$ref": "/schemas/v1/characters/images-id.gen.json"
                             }
                         }
                     }
@@ -51,7 +51,7 @@
                                 "type": "integer"
                             },
                             "pictureID": {
-                                "$ref": "/schemas/v1/characters/images-id.json"
+                                "$ref": "/schemas/v1/characters/images-id.gen.json"
                             }
                         }
                     }
@@ -79,7 +79,7 @@
                                 "type": "integer"
                             },
                             "pictureID": {
-                                "$ref": "/schemas/v1/characters/images-id.json"
+                                "$ref": "/schemas/v1/characters/images-id.gen.json"
                             }
                         }
                     }

@@ -11,22 +11,22 @@
             "type": "string"
         },
         "race": {
-            "$ref": "/schemas/v1/races-id.json"
+            "$ref": "/schemas/v1/races-id.gen.json"
         },
         "profession": {
-            "$ref": "/schemas/v1/professions-id.json"
+            "$ref": "/schemas/v1/professions-id.gen.json"
         },
         "sex": {
             "$ref": "/schemas/v0/characters/character-sex.json"
         },
         "currentImage": {
-            "$ref": "/schemas/v1/characters/images-id.json"
+            "$ref": "/schemas/v1/characters/images-id.gen.json"
         },
         "importableImages": {
             "type": "array",
             "uniqueItems": true,
             "items": {
-                "$ref": "/schemas/v1/characters/images-id.json"
+                "$ref": "/schemas/v1/characters/images-id.gen.json"
             }
         }
     },

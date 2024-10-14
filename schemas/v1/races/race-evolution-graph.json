@@ -14,10 +14,10 @@
                 "additionalItems": false,
                 "items": [
                     {
-                        "$ref": "/schemas/v1/races-id.json"
+                        "$ref": "/schemas/v1/races-id.gen.json"
                     },
                     {
-                        "$ref": "/schemas/v1/races-id.json"
+                        "$ref": "/schemas/v1/races-id.gen.json"
                     }
                 ]
             }

@@ -13,7 +13,7 @@
             "$ref": "/schemas/v1/localized-string.json"
         },
         "group": {
-            "$ref": "/schemas/v1/stats/stat-categories-id.json"
+            "$ref": "/schemas/v1/stats/stat-categories-id.gen.json"
         }
     },
     "required": [

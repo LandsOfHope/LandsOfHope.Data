@@ -1,6 +1,6 @@
 **/all.json
 **/all.inline.json
-schemas/**/*s-id.json
+schemas/**/*.gen.json
 schemas/validation/
 api/
 health

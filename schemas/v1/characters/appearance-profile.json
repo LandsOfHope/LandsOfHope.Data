@@ -12,15 +12,15 @@
         "title": {
             "oneOf": [
                 {
-                    "$ref": "/schemas/v1/titles-id.json"
+                    "$ref": "/schemas/v1/titles-id.gen.json"
                 },
                 {
-                    "$ref": "/schemas/v1/professions-id.json"
+                    "$ref": "/schemas/v1/professions-id.gen.json"
                 }
             ]
         },
         "pictureID": {
-            "$ref": "/schemas/v1/characters/images-id.json"
+            "$ref": "/schemas/v1/characters/images-id.gen.json"
         }
     },
     "additionalProperties": false,

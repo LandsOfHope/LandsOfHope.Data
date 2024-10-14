@@ -19,7 +19,7 @@
             "$ref": "/schemas/v1/maps/map-tile-img.json"
         },
         "terrain": {
-            "$ref": "/schemas/v1/maps/terrains-id.json"
+            "$ref": "/schemas/v1/maps/terrains-id.gen.json"
         },
         "level": {
             "type": "number"

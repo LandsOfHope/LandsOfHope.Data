@@ -3,6 +3,6 @@
     "title": "ProfessionList",
     "type": "array",
     "items": {
-        "$ref": "/schemas/v1/professions-id.json"
+        "$ref": "/schemas/v1/professions-id.gen.json"
     }
 }

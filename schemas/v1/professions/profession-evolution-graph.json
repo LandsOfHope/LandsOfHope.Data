@@ -14,10 +14,10 @@
                 "additionalItems": false,
                 "items": [
                     {
-                        "$ref": "/schemas/v1/professions-id.json"
+                        "$ref": "/schemas/v1/professions-id.gen.json"
                     },
                     {
-                        "$ref": "/schemas/v1/professions-id.json"
+                        "$ref": "/schemas/v1/professions-id.gen.json"
                     }
                 ]
             }

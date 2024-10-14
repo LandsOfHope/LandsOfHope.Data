@@ -10,13 +10,13 @@
             "$ref": "/schemas/v1/characters/character-name.json"
         },
         "profession": {
-            "$ref": "/schemas/v1/professions-id.json"
+            "$ref": "/schemas/v1/professions-id.gen.json"
         },
         "sex": {
             "$ref": "/schemas/v0/characters/character-sex.json"
         },
         "pictureId": {
-            "$ref": "/schemas/v1/characters/images-id.json"
+            "$ref": "/schemas/v1/characters/images-id.gen.json"
         }
     },
     "required": [

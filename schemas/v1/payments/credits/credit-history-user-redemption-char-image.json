@@ -15,10 +15,10 @@
             "type": "integer"
         },
         "imageExtraId": {
-            "$ref": "/schemas/v1/characters/extra-images-id.json"
+            "$ref": "/schemas/v1/characters/extra-images-id.gen.json"
         },
         "imageId": {
-            "$ref": "/schemas/v1/characters/images-id.json"
+            "$ref": "/schemas/v1/characters/images-id.gen.json"
         }
     },
     "required": [

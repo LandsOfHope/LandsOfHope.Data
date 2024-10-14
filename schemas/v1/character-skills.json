@@ -8,6 +8,6 @@
         }
     },
     "propertyNames": {
-        "$ref": "/schemas/v1/skills-id.json"
+        "$ref": "/schemas/v1/skills-id.gen.json"
     }
 }

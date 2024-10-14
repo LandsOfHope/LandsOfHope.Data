@@ -12,7 +12,7 @@
                 "type": "integer"
             },
             "material": {
-                "$ref": "/schemas/v1/materials-id.json"
+                "$ref": "/schemas/v1/materials-id.gen.json"
             },
             "respawn": {
                 "type": "string"

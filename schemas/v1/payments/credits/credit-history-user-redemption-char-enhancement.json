@@ -15,7 +15,7 @@
             "type": "integer"
         },
         "enhancementType": {
-            "$ref": "/schemas/v1/characters/enhancements-id.json"
+            "$ref": "/schemas/v1/characters/enhancements-id.gen.json"
         },
         "enhancementLevel": {
             "type": "integer"
