@@ -27,6 +27,7 @@ const main = async function () {
             code: { source: true, esm: true },
         });
         addFormats(ajv);
+        ajv.addKeyword("tsEnumNames");
 
         schemaFiles.forEach(schema => {
             ajv.addSchema(schema);
