@@ -6,5 +6,8 @@
         "sex": "M",
         "pictureId": "sohum1"
     },
-    "skipTutorial": false
+    "additionalArgs": {
+        "$type": "/v1/characters/creation/standard-additional-creation-args",
+        "skipTutorial": false
+    }
 }

@@ -6,5 +6,9 @@
         "profession": "stargazer",
         "pictureId": "starm1"
     },
-    "constellation": "fox"
+    "additionalArgs": {
+        "$type": "/v1/characters/creation/stargazer-creation-args",
+        "constellation": "fox",
+        "skipTutorial": false
+    }
 }

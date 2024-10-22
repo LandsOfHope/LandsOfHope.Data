@@ -6,10 +6,13 @@
         "sex": "M",
         "pictureId": "pirate7"
     },
-    "vessel": {
-        "$type": "/v1/characters/creation/uncharted-waters/vessel-args",
-        "name": "The Black Pearl",
-        "flagColor": "000000"
-    },
-    "bonus": "wealth"
+    "additionalArgs": {
+        "$type": "/v1/characters/creation/uncharted-waters/uncharted-waters-creation-args",
+        "vessel": {
+            "$type": "/v1/characters/creation/uncharted-waters/uncharted-waters-vessel-creation-args",
+            "name": "The Black Pearl",
+            "flagColor": "000000"
+        },
+        "bonus": "wealth"
+    }
 }

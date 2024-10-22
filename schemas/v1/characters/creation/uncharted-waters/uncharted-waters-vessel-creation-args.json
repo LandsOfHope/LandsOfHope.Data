@@ -1,10 +1,10 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/uncharted-waters/vessel-args.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/uncharted-waters/uncharted-waters-vessel-creation-args.json",
     "title": "UnchartedWatersVesselCreationArgs",
     "type": "object",
     "properties": {
         "$type": {
-            "const": "/v1/characters/creation/uncharted-waters/vessel-args"
+            "const": "/v1/characters/creation/uncharted-waters/uncharted-waters-vessel-creation-args"
         },
         "name": {
             "type": "string",

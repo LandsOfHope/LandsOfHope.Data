@@ -39,13 +39,13 @@
                         }
                     ]
                 },
-                "skipTutorial": {
-                    "type": "boolean"
+                "additionalArgs": {
+                    "$ref": "/schemas/v1/characters/creation/standard-additional-creation-args.json"
                 }
             },
             "required": [
                 "character",
-                "skipTutorial"
+                "additionalArgs"
             ],
             "additionalProperties": false
         },
@@ -169,22 +169,13 @@
                         }
                     ]
                 },
-                "vessel": {
-                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/vessel-args.json"
-                },
-                "bonus": {
-                    "enum": [
-                        "wealth",
-                        "attack",
-                        "defense",
-                        "cargo"
-                    ]
+                "additionalArgs": {
+                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/uncharted-waters-creation-args.json"
                 }
             },
             "required": [
                 "character",
-                "vessel",
-                "bonus"
+                "additionalArgs"
             ],
             "additionalProperties": false
         },
@@ -220,20 +211,13 @@
                         }
                     ]
                 },
-                "constellation": {
-                    "enum": [
-                        "fox",
-                        "bear",
-                        "eagle",
-                        "turtle",
-                        "rat",
-                        "chameleon"
-                    ]
+                "additionalArgs": {
+                    "$ref": "/schemas/v1/characters/creation/stargazer-creation-args.json"
                 }
             },
             "required": [
                 "character",
-                "constellation"
+                "additionalArgs"
             ],
             "additionalProperties": false
         }

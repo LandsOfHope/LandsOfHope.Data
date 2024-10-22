@@ -7,5 +7,8 @@
         "pictureId": "sohum1",
         "NOTVALID": "NOTVALID"
     },
-    "skipTutorial": false
+    "additionalArgs": {
+        "$type": "/v1/characters/creation/standard-additional-creation-args",
+        "skipTutorial": false
+    }
 }

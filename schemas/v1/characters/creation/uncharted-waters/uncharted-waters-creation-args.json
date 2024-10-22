@@ -1,0 +1,22 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/uncharted-waters/uncharted-waters-creation-args.json",
+    "title": "UnchartedWatersCreationArgs",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/creation/uncharted-waters/uncharted-waters-creation-args"
+        },
+        "vessel": {
+            "$ref": "/schemas/v1/characters/creation/uncharted-waters/uncharted-waters-vessel-creation-args.json"
+        },
+        "bonus": {
+            "$ref": "/schemas/v1/characters/creation/uncharted-waters/uncharted-waters-bonus.json"
+        }
+    },
+    "required": [
+        "$type",
+        "vessel",
+        "bonus"
+    ],
+    "additionalProperties": false
+}
