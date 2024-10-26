@@ -26,6 +26,7 @@ const schemasWithOptionalTypeSpecifier = [
   'https://data.landsofhope.com/schemas/v1/maps/map.json',
   'https://data.landsofhope.com/schemas/v1/maps/terrain.json',
   'https://data.landsofhope.com/schemas/v1/maps/map-tile.json',
+  'https://data.landsofhope.com/schemas/v1/maps/map-resource.json',
   // coordinate types are used in maps, so also laziness; could also be argued that {x:1, y:1} is
   // significantly cleaner than {$type:'/v1/coordinate2', x: 1, y: 1} and jusifies being included
   // here
