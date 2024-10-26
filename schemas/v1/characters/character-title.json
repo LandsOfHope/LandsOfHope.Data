@@ -5,13 +5,9 @@
     "properties": {
         "$type": {
             "const": "/v1/characters/character-title"
-        },
-        "name": {
-            "$ref": "/schemas/v1/localized-string.json"
         }
     },
     "required": [
-        "$type",
-        "name"
+        "$type"
     ]
 }
