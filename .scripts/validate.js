@@ -23,7 +23,6 @@ const schemasWithOptionalTypeSpecifier = [
 
   // the following map types are ignored primarily due to laziness and not due to techinal reasons
   // the export needs to be updated to include the types
-  'https://data.landsofhope.com/schemas/v1/maps/map.json',
   'https://data.landsofhope.com/schemas/v1/maps/terrain.json',
   'https://data.landsofhope.com/schemas/v1/maps/map-tile.json',
   'https://data.landsofhope.com/schemas/v1/maps/map-resource.json',

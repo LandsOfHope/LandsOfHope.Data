@@ -3,23 +3,31 @@
     "title": "Map",
     "type": "object",
     "properties": {
-        "id": {
-            "$ref": "/schemas/v1/maps/map-id.json"
-        },
-        "name": {
-            "$ref": "/schemas/v1/localized-string.json"
+        "$type": {
+            "const": "/v1/maps/map"
         },
         "entry": {
             "$ref": "/schemas/v1/coordinate.json"
         },
         "extents": {
-            "$ref": "/schemas/v1/coordinate.json"
+            "type": "object",
+            "properties": {
+                "topLeft": {
+                    "$ref": "/schemas/v1/coordinate.json"
+                },
+                "bottomRight": {
+                    "$ref": "/schemas/v1/coordinate.json"
+                }
+            },
+            "required": [
+                "topLeft",
+                "bottomRight"
+            ]
         }
     },
     "additionalProperties": false,
     "required": [
-        "id",
-        "name",
+        "$type",
         "entry",
         "extents"
     ]

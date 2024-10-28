@@ -3,6 +3,22 @@
     "title": "MapResources",
     "type": "array",
     "items": {
-        "$ref": "/schemas/v1/maps/map-resource.json"
+        "type": "array",
+        "items": [
+            {
+                "type": "array",
+                "items": {
+                    "type": "integer"
+                },
+                "minItems": 2,
+                "maxItems": 2
+            },
+            {
+                "$ref": "/schemas/v1/maps/map-resource.json"
+            }
+        ],
+        "additionalItems": false,
+        "minItems": 2,
+        "maxItems": 2
     }
 }

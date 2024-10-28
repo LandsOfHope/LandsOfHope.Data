@@ -3,14 +3,8 @@
     "title": "MapResource",
     "type": "object",
     "properties": {
-        "x": {
-            "type": "integer"
-        },
-        "y": {
-            "type": "integer"
-        },
-        "material": {
-            "$ref": "/schemas/v1/materials-id.gen.json"
+        "resource": {
+            "$ref": "/schemas/v1/items/resources-id.gen.json"
         },
         "respawn": {
             "type": "string",
@@ -25,9 +19,7 @@
     },
     "additionalProperties": false,
     "required": [
-        "x",
-        "y",
-        "material",
+        "resource",
         "respawn",
         "level",
         "quantity"
