@@ -1,0 +1,40 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/items/resource.json",
+    "title": "Resource",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/items/resource"
+        },
+        "skill": {
+            "$ref": "/schemas/v1/skills-id.gen.json"
+        },
+        "items": {
+            "type": "array",
+            "items": {
+                "$ref": "/schemas/v1/items-id.gen.json"
+            },
+            "minItems": 1
+        },
+        "bonuses": {
+            "type": "array",
+            "items": {
+                "$ref": "/schemas/v1/items-id.gen.json"
+            }
+        },
+        "material": {
+            "$ref": "/schemas/v1/items/materials-id.gen.json"
+        },
+        "image": {
+            "$ref": "/schemas/v1/items/images-id.gen.json"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "skill",
+        "items",
+        "material",
+        "image"
+    ]
+}

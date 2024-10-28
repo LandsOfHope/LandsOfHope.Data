@@ -1,0 +1,18 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/item.json",
+    "title": "Item",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/item"
+        },
+        "image": {
+            "$ref": "/schemas/v1/items/images-id.gen.json"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "image"
+    ]
+}

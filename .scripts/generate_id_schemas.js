@@ -7,7 +7,25 @@ const directories = (() => {
     const dirs = process.argv.slice(2);
     if (dirs.length > 0)
         return dirs;
-    return ['professions', 'races', 'races/groups', 'skills', 'maps/terrains', 'maps/worlds', 'materials', 'titles', 'items/extras', 'characters/images', 'characters/extra-images', 'characters/enhancements', 'stats/stat-categories', 'stats/rankings'];
+    return [
+        'professions',
+        'races',
+        'races/groups',
+        'skills',
+        'maps/terrains',
+        'maps/worlds',
+        'titles',
+        'items',
+        'items/images',
+        'items/extras',
+        'items/materials',
+        'items/resources',
+        'characters/images',
+        'characters/extra-images',
+        'characters/enhancements',
+        'stats/stat-categories',
+        'stats/rankings'
+    ];
 })();
 const schemas = 'schemas';
 const versions = {
