@@ -19,6 +19,7 @@ const directories = (() => {
         'items/extras',
         'items/resources',
         'items/materials',
+        'items/qualities',
         'characters/images',
         'characters/extra-images',
         'characters/enhancements',

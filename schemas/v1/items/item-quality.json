@@ -1,0 +1,13 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/items/item-quality.json",
+    "title": "ItemQuality",
+    "type": "enum",
+    "enum": [
+        "common",
+        "uncommon",
+        "rare",
+        "very-rare",
+        "unique",
+        "artifact"
+    ]
+}
