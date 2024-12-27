@@ -173,6 +173,8 @@ const main = async function () {
     validateAll("schemas/v1/items/material.json", "items/materials/!(all|all.inline).json"),
     validateAll("schemas/v1/items/resource.json", "items/resources/!(all|all.inline).json"),
 
+    validateAll("schemas/v1/skills/crafting/recipe.json", "crafts/recipes/*/!(all|all.inline).json"),
+
     validate("schemas/v1/accounts/settings/account-email-settings.json", "accounts/settings/account-email-settings.default.json"),
 
     validateTestData("v1/accounts/account"),

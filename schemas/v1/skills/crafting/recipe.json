@@ -1,0 +1,56 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/skills/crafting/recipe.json",
+    "title": "CraftingRecipe",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/skills/crafting/plan"
+        },
+        "image": {
+            "$ref": "/schemas/v1/items/images-id.gen.json"
+        },
+        "time": {
+            "$ref": "/schemas/v0/duration.json"
+        },
+        "quantity": {
+            "type": "integer",
+            "minimum": 1
+        },
+        "skill": {
+            "$ref": "/schemas/v1/skills-id.gen.json"
+        },
+        "skillValue": {
+            "type": "integer",
+            "minimum": 1
+        },
+        "ingredients": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "$ref": "/schemas/v1/items-id.gen.json"
+                    },
+                    "quantity": {
+                        "type": "integer",
+                        "minimum": 0
+                    }
+                },
+                "required": [
+                    "id",
+                    "quantity"
+                ],
+                "additionalProperties": false
+            }
+        }
+    },
+    "required": [
+        "$type",
+        "time",
+        "quantity",
+        "skill",
+        "skillValue",
+        "ingredients"
+    ],
+    "additionalProperties": false
+}

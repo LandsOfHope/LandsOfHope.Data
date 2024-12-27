@@ -1,0 +1,6 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v0/duration.json",
+    "title": "Duration",
+    "type": "string",
+    "format": "duration"
+}

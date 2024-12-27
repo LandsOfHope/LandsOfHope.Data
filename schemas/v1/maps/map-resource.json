@@ -7,8 +7,7 @@
             "$ref": "/schemas/v1/items/resources-id.gen.json"
         },
         "respawn": {
-            "type": "string",
-            "format": "duration"
+            "$ref": "/schemas/v0/duration.json"
         },
         "level": {
             "type": "integer"
