@@ -16,6 +16,7 @@ const directories = (() => {
         'maps/worlds',
         'titles',
         'items',
+        'items/types',
         'items/images',
         'items/extras',
         'items/materials',

@@ -8,11 +8,14 @@
         },
         "image": {
             "$ref": "/schemas/v1/items/images-id.gen.json"
+        },
+        "type": {
+            "$ref": "/schemas/v1/items/types-id.gen.json"
         }
     },
     "additionalProperties": false,
     "required": [
         "$type",
-        "image"
+        "type"
     ]
 }

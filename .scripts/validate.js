@@ -168,6 +168,7 @@ const main = async function () {
     validateAll("schemas/v1/races/race-evolution-graph.json", "races/evolution/race-evolution.json"),
     validateAll("schemas/v1/characters/character-creation-images.json", "characters/character-creation-images.json"),
     validateAll("schemas/v1/item.json", "items/!(all|all.inline).json"),
+    validateAll("schemas/v1/items/type.json", "items/types/!(all|all.inline).json"),
     validateAll("schemas/v1/items/image.json", "items/images/!(all|all.inline).json"),
     validateAll("schemas/v1/items/material.json", "items/materials/!(all|all.inline).json"),
     validateAll("schemas/v1/items/resource.json", "items/resources/!(all|all.inline).json"),
