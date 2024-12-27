@@ -4,7 +4,7 @@
     "type": "object",
     "properties": {
         "$type": {
-            "const": "/v1/skills/crafting/plan"
+            "const": "/v1/skills/crafting/recipe"
         },
         "image": {
             "$ref": "/schemas/v1/items/images-id.gen.json"
@@ -46,6 +46,7 @@
     },
     "required": [
         "$type",
+        "image",
         "time",
         "quantity",
         "skill",

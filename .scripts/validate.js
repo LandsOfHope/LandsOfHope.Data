@@ -151,6 +151,7 @@ const main = async function () {
 
     validateAll("schemas/v1/profession.json", "professions/!(all|all.inline).json"),
     validateAll("schemas/v1/skill.json", "skills/!(all|all.inline).json"),
+    validateAll("schemas/v1/skills/crafting/recipe.json", "skills/crafting/recipes/*/!(all|all.inline).json"),
     validateAll("schemas/v1/race.json", "races/!(all|all.inline).json"),
     validateAll("schemas/v1/race-group.json", "races/groups/!(all|all.inline).json"),
     validateAll("schemas/v1/profession-list.json", "player-professions.json"),
@@ -172,8 +173,6 @@ const main = async function () {
     validateAll("schemas/v1/items/image.json", "items/images/!(all|all.inline).json"),
     validateAll("schemas/v1/items/material.json", "items/materials/!(all|all.inline).json"),
     validateAll("schemas/v1/items/resource.json", "items/resources/!(all|all.inline).json"),
-
-    validateAll("schemas/v1/skills/crafting/recipe.json", "crafts/recipes/*/!(all|all.inline).json"),
 
     validate("schemas/v1/accounts/settings/account-email-settings.json", "accounts/settings/account-email-settings.default.json"),
 
