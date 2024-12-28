@@ -28,7 +28,7 @@ jobs:
           persist-credentials: false
       - uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: 8
+          dotnet-version: 9
       - name: install gitversion
         uses: gittools/actions/gitversion/setup@v0
         with:
