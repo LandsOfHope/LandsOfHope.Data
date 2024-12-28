@@ -19,13 +19,14 @@ jobs:
         DOTNET_INSTALL_DIR: /opt/hostedtoolcache/dotnet
         DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
         DOTNET_CLI_TELEMETRY_OPTOUT: 1
+    timeout-minutes: 5
     name: Deploy
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           persist-credentials: false
-      - uses: actions/setup-dotnet@v3
+      - uses: actions/setup-dotnet@v4
         with:
           dotnet-version: 8
       - name: install gitversion
