@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","image":"c1f","time":"PT15S","quantity":5,"skill":"cooking","skillValue":50,"ingredients":[{"id":"fish","quantity":5},{"id":"small-stove","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"cooked-fillet","image":"c1f","time":"PT15S","quantity":5,"skill":"cooking","skillValue":50,"ingredients":[{"id":"fish","quantity":5},{"id":"small-stove","quantity":0}]}

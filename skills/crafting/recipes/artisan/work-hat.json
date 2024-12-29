@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","image":"awhat","time":"PT15S","quantity":1,"skill":"artisan","skillValue":15,"ingredients":[{"id":"cloth","quantity":5},{"id":"thread","quantity":5},{"id":"artisan-tool","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"work-hat","image":"awhat","time":"PT15S","quantity":1,"skill":"artisan","skillValue":15,"ingredients":[{"id":"cloth","quantity":5},{"id":"thread","quantity":5},{"id":"artisan-tool","quantity":0}]}

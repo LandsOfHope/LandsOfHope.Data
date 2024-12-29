@@ -6,6 +6,9 @@
         "$type": {
             "const": "/v1/skills/crafting/recipe"
         },
+        "item": {
+            "$ref": "/schemas/v1/items-id.gen.json"
+        },
         "image": {
             "$ref": "/schemas/v1/items/images-id.gen.json"
         },
@@ -46,6 +49,7 @@
     },
     "required": [
         "$type",
+        "item",
         "image",
         "time",
         "quantity",

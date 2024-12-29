@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","image":"rck","time":"PT15S","quantity":1,"skill":"stonemasonry","skillValue":75,"ingredients":[{"id":"masons-tools","quantity":0},{"id":"gem","quantity":2},{"id":"stone-block","quantity":2}]}
+{"$type":"/v1/skills/crafting/recipe","item":"rock","image":"rck","time":"PT15S","quantity":1,"skill":"stonemasonry","skillValue":75,"ingredients":[{"id":"masons-tools","quantity":0},{"id":"gem","quantity":2},{"id":"stone-block","quantity":2}]}

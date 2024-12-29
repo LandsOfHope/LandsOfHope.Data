@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","image":"mizza","time":"PT15S","quantity":1,"skill":"cooking","skillValue":95,"ingredients":[{"id":"dough","quantity":2},{"id":"vegetable","quantity":1},{"id":"small-stove","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"mizza","image":"mizza","time":"PT15S","quantity":1,"skill":"cooking","skillValue":95,"ingredients":[{"id":"dough","quantity":2},{"id":"vegetable","quantity":1},{"id":"small-stove","quantity":0}]}
