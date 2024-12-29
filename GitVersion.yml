@@ -3,4 +3,4 @@ branches:
   master:
     regex: ^latest$
   pull-request:
-    tag: pr
+    label: pr
