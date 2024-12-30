@@ -40,6 +40,9 @@
                     "quantity": {
                         "type": "integer",
                         "minimum": 0
+                    },
+                    "primary": {
+                        "const": true
                     }
                 },
                 "required": [
