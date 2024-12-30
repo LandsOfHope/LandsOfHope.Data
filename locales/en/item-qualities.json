@@ -1,1 +1,20 @@
-{"common": "Common","uncommon": "Uncommon","rare": "Rare","epic": "Very Rare","unique": "Unique","artifact": "Artifact"}
+{
+    "common": {
+        "name": "Common"
+    },
+    "uncommon": {
+        "name": "Uncommon"
+    },
+    "rare": {
+        "name": "Rare"
+    },
+    "epic": {
+        "name": "Very Rare"
+    },
+    "unique": {
+        "name": "Unique"
+    },
+    "artifact": {
+        "name": "Artifact"
+    }
+}
