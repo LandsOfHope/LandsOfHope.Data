@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"crackers","image":"chs","time":"PT15S","quantity":5,"skill":"cooking","skillValue":300,"ingredients":[{"id":"grain","quantity":5},{"id":"milk","quantity":2},{"id":"bowl","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"crackers","image":"chs","time":"PT15S","quantity":5,"skill":"cooking","skillValue":300,"quality":"common","ingredients":[{"id":"grain","quantity":5},{"id":"milk","quantity":2},{"id":"bowl","quantity":0}]}

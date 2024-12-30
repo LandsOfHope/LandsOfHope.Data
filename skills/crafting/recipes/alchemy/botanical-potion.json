@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"botanical-potion","image":"pe5","time":"PT15S","quantity":20,"skill":"alchemy","skillValue":2315,"ingredients":[{"id":"mortar-and-pestle","quantity":0},{"id":"empty-potion-bottle","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","item":"botanical-potion","image":"pe5","time":"PT15S","quantity":20,"skill":"alchemy","skillValue":2315,"quality":"common","ingredients":[{"id":"mortar-and-pestle","quantity":0},{"id":"empty-potion-bottle","quantity":5}]}

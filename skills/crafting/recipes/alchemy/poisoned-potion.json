@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"poisoned-potion","image":"pe5","time":"PT15S","quantity":20,"skill":"alchemy","skillValue":425,"ingredients":[{"id":"empty-potion-bottle","quantity":5},{"id":"mortar-and-pestle","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"poisoned-potion","image":"pe5","time":"PT15S","quantity":20,"skill":"alchemy","skillValue":425,"quality":"common","ingredients":[{"id":"empty-potion-bottle","quantity":5},{"id":"mortar-and-pestle","quantity":0}]}

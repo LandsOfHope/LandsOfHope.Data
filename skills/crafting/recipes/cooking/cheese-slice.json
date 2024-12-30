@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"cheese-slice","image":"ch2","time":"PT15S","quantity":1,"skill":"cooking","skillValue":1750,"ingredients":[{"id":"milk","quantity":5},{"id":"dough","quantity":1},{"id":"bowl","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"cheese-slice","image":"ch2","time":"PT15S","quantity":1,"skill":"cooking","skillValue":1750,"quality":"common","ingredients":[{"id":"milk","quantity":5},{"id":"dough","quantity":1},{"id":"bowl","quantity":0}]}

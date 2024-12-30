@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"biscuit","image":"bis","time":"PT15S","quantity":3,"skill":"cooking","skillValue":220,"ingredients":[{"id":"fruit","quantity":6},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"biscuit","image":"bis","time":"PT15S","quantity":3,"skill":"cooking","skillValue":220,"quality":"common","ingredients":[{"id":"fruit","quantity":6},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}
