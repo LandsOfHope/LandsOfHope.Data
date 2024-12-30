@@ -26,6 +26,9 @@
             "type": "integer",
             "minimum": 1
         },
+        "quality": {
+            "$ref": "/schemas/v1/items/item-quality.json"
+        },
         "ingredients": {
             "type": "array",
             "items": {
@@ -55,6 +58,7 @@
         "quantity",
         "skill",
         "skillValue",
+        "quality",
         "ingredients"
     ],
     "additionalProperties": false
