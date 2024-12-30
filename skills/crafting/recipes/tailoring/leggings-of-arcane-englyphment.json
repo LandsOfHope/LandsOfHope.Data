@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"leggings-of-arcane-englyphment","image":"1375","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":625,"quality":"uncommon","ingredients":[{"id":"prepared-hide","quantity":8},{"id":"thread","quantity":20}]}
+{"$type":"/v1/skills/crafting/recipe","item":"leggings-of-arcane-englyphment","image":"1375","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":625,"quality":"uncommon","ingredients":[{"id":"prepared-hide","quantity":8},{"id":"thread","quantity":20,"primary":true}]}

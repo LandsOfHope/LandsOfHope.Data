@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"fiery-potion","image":"pe5","time":"PT15S","quantity":20,"skill":"alchemy","skillValue":4205,"quality":"common","ingredients":[{"id":"empty-potion-bottle","quantity":5},{"id":"mortar-and-pestle","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"fiery-potion","image":"pe5","time":"PT15S","quantity":20,"skill":"alchemy","skillValue":4205,"quality":"common","ingredients":[{"id":"empty-potion-bottle","quantity":5,"primary":true},{"id":"mortar-and-pestle","quantity":0}]}

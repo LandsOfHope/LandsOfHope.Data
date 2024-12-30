@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"leg","image":"wlg","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":225,"quality":"common","ingredients":[{"id":"ingot","quantity":2},{"id":"large-stock","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"leg","image":"wlg","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":225,"quality":"common","ingredients":[{"id":"ingot","quantity":2,"primary":true},{"id":"large-stock","quantity":1}]}

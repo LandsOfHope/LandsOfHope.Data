@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"journal","image":"zubobb","time":"PT15S","quantity":2,"skill":"seamanship","skillValue":600,"quality":"common","ingredients":[{"id":"gunpowder","quantity":7}]}
+{"$type":"/v1/skills/crafting/recipe","item":"journal","image":"zubobb","time":"PT15S","quantity":2,"skill":"seamanship","skillValue":600,"quality":"common","ingredients":[{"id":"gunpowder","quantity":7,"primary":true}]}

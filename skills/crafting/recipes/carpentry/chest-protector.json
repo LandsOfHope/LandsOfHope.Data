@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"chest-protector","image":"l1","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":350,"quality":"common","ingredients":[{"id":"plank","quantity":8}]}
+{"$type":"/v1/skills/crafting/recipe","item":"chest-protector","image":"l1","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":350,"quality":"common","ingredients":[{"id":"plank","quantity":8,"primary":true}]}

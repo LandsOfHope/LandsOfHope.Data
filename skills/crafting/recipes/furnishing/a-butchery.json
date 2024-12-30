@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"butchery","image":"rl3","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":4700,"quality":"common","ingredients":[{"id":"ingot","quantity":11},{"id":"furnishing-tool","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"butchery","image":"rl3","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":4700,"quality":"common","ingredients":[{"id":"ingot","quantity":11,"primary":true},{"id":"furnishing-tool","quantity":0}]}

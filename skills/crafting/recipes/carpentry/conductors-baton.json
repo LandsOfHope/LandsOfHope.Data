@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"conductors-baton","image":"zucoba01 ","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":5,"quality":"common","ingredients":[{"id":"plank","quantity":10},{"id":"string","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"conductors-baton","image":"zucoba01 ","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":5,"quality":"common","ingredients":[{"id":"plank","quantity":10,"primary":true},{"id":"string","quantity":1}]}

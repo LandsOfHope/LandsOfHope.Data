@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"web-bolt","image":"na","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":4600,"quality":"common","ingredients":[{"id":"weathered-plank","quantity":50},{"id":"ships-hook","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"web-bolt","image":"na","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":4600,"quality":"common","ingredients":[{"id":"weathered-plank","quantity":50,"primary":true},{"id":"ships-hook","quantity":0}]}

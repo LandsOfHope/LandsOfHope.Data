@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"smoke-bomb","image":"6412","time":"PT15S","quantity":1,"skill":"parlor-tricks","skillValue":3650,"quality":"uncommon","ingredients":[{"id":"ninja-tools","quantity":0},{"id":"mystery-compound","quantity":2}]}
+{"$type":"/v1/skills/crafting/recipe","item":"smoke-bomb","image":"6412","time":"PT15S","quantity":1,"skill":"parlor-tricks","skillValue":3650,"quality":"uncommon","ingredients":[{"id":"ninja-tools","quantity":0},{"id":"mystery-compound","quantity":2,"primary":true}]}

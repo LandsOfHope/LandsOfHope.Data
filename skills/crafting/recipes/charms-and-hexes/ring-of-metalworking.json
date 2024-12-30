@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"ring-of-metalworking","image":"rgh","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":1175,"quality":"common","ingredients":[{"id":"gem","quantity":1},{"id":"egg-of-roc","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"ring-of-metalworking","image":"rgh","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":1175,"quality":"common","ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"egg-of-roc","quantity":1}]}

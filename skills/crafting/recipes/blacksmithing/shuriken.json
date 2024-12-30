@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"shuriken","image":"shk","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":50,"quality":"common","ingredients":[{"id":"ingot","quantity":2}]}
+{"$type":"/v1/skills/crafting/recipe","item":"shuriken","image":"shk","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":50,"quality":"common","ingredients":[{"id":"ingot","quantity":2,"primary":true}]}

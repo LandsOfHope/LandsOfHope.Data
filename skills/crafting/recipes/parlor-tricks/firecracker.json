@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"firecracker","image":"6411","time":"PT15S","quantity":1,"skill":"parlor-tricks","skillValue":3500,"quality":"uncommon","ingredients":[{"id":"ninja-tools","quantity":0},{"id":"mystery-compound","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"firecracker","image":"6411","time":"PT15S","quantity":1,"skill":"parlor-tricks","skillValue":3500,"quality":"uncommon","ingredients":[{"id":"ninja-tools","quantity":0},{"id":"mystery-compound","quantity":1,"primary":true}]}

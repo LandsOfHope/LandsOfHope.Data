@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"dough","image":"dou","time":"PT15S","quantity":1,"skill":"cooking","skillValue":5,"quality":"common","ingredients":[{"id":"flour","quantity":1},{"id":"milk","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"dough","image":"dou","time":"PT15S","quantity":1,"skill":"cooking","skillValue":5,"quality":"common","ingredients":[{"id":"flour","quantity":1,"primary":true},{"id":"milk","quantity":1}]}

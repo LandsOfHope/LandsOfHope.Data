@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"snipers-rifle","image":"re3","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":200,"quality":"common","ingredients":[{"id":"large-stock","quantity":1},{"id":"ingot","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","item":"snipers-rifle","image":"re3","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":200,"quality":"common","ingredients":[{"id":"large-stock","quantity":1},{"id":"ingot","quantity":5,"primary":true}]}

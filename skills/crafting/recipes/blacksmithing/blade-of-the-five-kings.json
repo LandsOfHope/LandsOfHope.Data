@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"blade-of-the-five-kings","image":"dg4","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":425,"quality":"uncommon","ingredients":[{"id":"blade-hilt","quantity":1},{"id":"ingot","quantity":3}]}
+{"$type":"/v1/skills/crafting/recipe","item":"blade-of-the-five-kings","image":"dg4","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":425,"quality":"uncommon","ingredients":[{"id":"blade-hilt","quantity":1},{"id":"ingot","quantity":3,"primary":true}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"smiths-hammer","image":"dbh","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":5,"quality":"common","ingredients":[{"id":"tinker-tools","quantity":0},{"id":"ingot","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"smiths-hammer","image":"dbh","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":5,"quality":"common","ingredients":[{"id":"tinker-tools","quantity":0},{"id":"ingot","quantity":1,"primary":true}]}

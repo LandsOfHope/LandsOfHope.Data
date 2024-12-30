@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"ring-of-the-luminos-hearth","image":"ring8","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":1600,"quality":"common","ingredients":[{"id":"gem","quantity":1},{"id":"midnight-flower","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"ring-of-the-luminos-hearth","image":"ring8","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":1600,"quality":"common","ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"midnight-flower","quantity":1}]}

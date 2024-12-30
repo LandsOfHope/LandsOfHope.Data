@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"cut-gem","image":"457","time":"PT15S","quantity":1,"skill":"stonemasonry","skillValue":50,"quality":"common","ingredients":[{"id":"gem","quantity":1},{"id":"stone-block","quantity":2},{"id":"masons-tools","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"cut-gem","image":"457","time":"PT15S","quantity":1,"skill":"stonemasonry","skillValue":50,"quality":"common","ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"stone-block","quantity":2},{"id":"masons-tools","quantity":0}]}

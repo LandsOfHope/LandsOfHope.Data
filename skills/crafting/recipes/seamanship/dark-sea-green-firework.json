@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"firework","image":"fdarkseagre","time":"PT15S","quantity":5,"skill":"seamanship","skillValue":725,"quality":"common","ingredients":[{"id":"gunpowder","quantity":1},{"id":"paper","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"firework","image":"fdarkseagre","time":"PT15S","quantity":5,"skill":"seamanship","skillValue":725,"quality":"common","ingredients":[{"id":"gunpowder","quantity":1},{"id":"paper","quantity":1,"primary":true}]}

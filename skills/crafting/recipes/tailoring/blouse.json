@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"blouse","image":"blo","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":700,"quality":"common","ingredients":[{"id":"cloth","quantity":10},{"id":"thread","quantity":15}]}
+{"$type":"/v1/skills/crafting/recipe","item":"blouse","image":"blo","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":700,"quality":"common","ingredients":[{"id":"cloth","quantity":10},{"id":"thread","quantity":15,"primary":true}]}

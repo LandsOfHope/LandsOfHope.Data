@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"grimey-carving","image":"1013","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":1975,"quality":"common","ingredients":[{"id":"plank","quantity":12}]}
+{"$type":"/v1/skills/crafting/recipe","item":"grimey-carving","image":"1013","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":1975,"quality":"common","ingredients":[{"id":"plank","quantity":12,"primary":true}]}

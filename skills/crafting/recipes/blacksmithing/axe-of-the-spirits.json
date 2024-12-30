@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"axe-of-the-spirits","image":"d","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":275,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":2},{"id":"small-axe-handle","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"axe-of-the-spirits","image":"d","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":275,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":2,"primary":true},{"id":"small-axe-handle","quantity":1}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"leeching-hand-art","image":"6231","time":"PT15S","quantity":1,"skill":"alchemy","skillValue":3750,"quality":"uncommon","ingredients":[{"id":"empty-potion-bottle","quantity":1},{"id":"toadroot","quantity":10}]}
+{"$type":"/v1/skills/crafting/recipe","item":"leeching-hand-art","image":"6231","time":"PT15S","quantity":1,"skill":"alchemy","skillValue":3750,"quality":"uncommon","ingredients":[{"id":"empty-potion-bottle","quantity":1,"primary":true},{"id":"toadroot","quantity":10}]}

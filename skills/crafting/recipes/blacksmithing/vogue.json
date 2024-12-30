@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"vogue","image":"1592","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":5,"quality":"common","ingredients":[{"id":"long-handle","quantity":1},{"id":"ingot","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","item":"vogue","image":"1592","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":5,"quality":"common","ingredients":[{"id":"long-handle","quantity":1},{"id":"ingot","quantity":5,"primary":true}]}

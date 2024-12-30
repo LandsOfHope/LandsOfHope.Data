@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"curry","image":"stw.jpg","time":"PT15S","quantity":1,"skill":"cooking","skillValue":4000,"quality":"common","ingredients":[{"id":"meat","quantity":5},{"id":"vegetable","quantity":1},{"id":"small-stove","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"curry","image":"stw.jpg","time":"PT15S","quantity":1,"skill":"cooking","skillValue":4000,"quality":"common","ingredients":[{"id":"meat","quantity":5,"primary":true},{"id":"vegetable","quantity":1},{"id":"small-stove","quantity":0}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"cooked-lobster","image":"gmcolo","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":200,"quality":"common","ingredients":[{"id":"lobster","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"cooked-lobster","image":"gmcolo","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":200,"quality":"common","ingredients":[{"id":"lobster","quantity":1,"primary":true}]}

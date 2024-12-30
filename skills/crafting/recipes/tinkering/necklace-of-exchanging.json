@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"necklace-of-exchanging","image":"zuneex","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":200,"quality":"uncommon","ingredients":[{"id":"gem","quantity":10},{"id":"ingot","quantity":25},{"id":"lining","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","item":"necklace-of-exchanging","image":"zuneex","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":200,"quality":"uncommon","ingredients":[{"id":"gem","quantity":10},{"id":"ingot","quantity":25,"primary":true},{"id":"lining","quantity":5}]}

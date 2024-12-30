@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"charm-of-the-earth","image":"zuchea","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":1625,"quality":"common","ingredients":[{"id":"plank","quantity":8},{"id":"aqua-crystal","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"charm-of-the-earth","image":"zuchea","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":1625,"quality":"common","ingredients":[{"id":"plank","quantity":8,"primary":true},{"id":"aqua-crystal","quantity":0}]}

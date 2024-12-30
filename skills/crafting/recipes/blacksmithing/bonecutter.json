@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"bonecutter","image":"boc","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":250,"quality":"uncommon","ingredients":[{"id":"large-axe-handle","quantity":1},{"id":"ingot","quantity":4}]}
+{"$type":"/v1/skills/crafting/recipe","item":"bonecutter","image":"boc","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":250,"quality":"uncommon","ingredients":[{"id":"large-axe-handle","quantity":1},{"id":"ingot","quantity":4,"primary":true}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"pancake","image":"pan","time":"PT15S","quantity":3,"skill":"cooking","skillValue":60,"quality":"common","ingredients":[{"id":"fruit","quantity":5},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"pancake","image":"pan","time":"PT15S","quantity":3,"skill":"cooking","skillValue":60,"quality":"common","ingredients":[{"id":"fruit","quantity":5,"primary":true},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}

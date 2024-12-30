@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"novice-toolbelt","image":"anbet","time":"PT15S","quantity":1,"skill":"artisan","skillValue":550,"quality":"uncommon","ingredients":[{"id":"prepared-hide","quantity":4},{"id":"thread","quantity":5},{"id":"artisan-tool","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"novice-toolbelt","image":"anbet","time":"PT15S","quantity":1,"skill":"artisan","skillValue":550,"quality":"uncommon","ingredients":[{"id":"prepared-hide","quantity":4,"primary":true},{"id":"thread","quantity":5},{"id":"artisan-tool","quantity":0}]}

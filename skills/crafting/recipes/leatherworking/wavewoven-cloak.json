@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"wavewoven-cloak","image":"zuwacl","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":4500,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":3},{"id":"aqua-crystal","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"wavewoven-cloak","image":"zuwacl","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":4500,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":3,"primary":true},{"id":"aqua-crystal","quantity":1}]}

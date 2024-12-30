@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"aqua-crystal","image":"yac","time":"PT15S","quantity":1,"skill":"alchemy","skillValue":100,"quality":"uncommon","ingredients":[{"id":"blue-crystal","quantity":1},{"id":"mortar-and-pestle","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"aqua-crystal","image":"yac","time":"PT15S","quantity":1,"skill":"alchemy","skillValue":100,"quality":"uncommon","ingredients":[{"id":"blue-crystal","quantity":1,"primary":true},{"id":"mortar-and-pestle","quantity":0}]}

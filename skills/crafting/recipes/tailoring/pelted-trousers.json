@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"pelted-trousers","image":"ptro11","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":425,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":8},{"id":"thread","quantity":20}]}
+{"$type":"/v1/skills/crafting/recipe","item":"pelted-trousers","image":"ptro11","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":425,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":8},{"id":"thread","quantity":20,"primary":true}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"baker","image":"zubare","time":"PT15S","quantity":3,"skill":"cooking","skillValue":350,"quality":"common","ingredients":[{"id":"vegetable","quantity":6},{"id":"pot-of-water","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"baker","image":"zubare","time":"PT15S","quantity":3,"skill":"cooking","skillValue":350,"quality":"common","ingredients":[{"id":"vegetable","quantity":6,"primary":true},{"id":"pot-of-water","quantity":0}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"lava-wand","image":"wand12","time":"PT15S","quantity":1,"skill":"stonemasonry","skillValue":3645,"quality":"common","ingredients":[{"id":"gem","quantity":2},{"id":"stone-block","quantity":5},{"id":"masons-tools","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"lava-wand","image":"wand12","time":"PT15S","quantity":1,"skill":"stonemasonry","skillValue":3645,"quality":"common","ingredients":[{"id":"gem","quantity":2},{"id":"stone-block","quantity":5,"primary":true},{"id":"masons-tools","quantity":0}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"executioners-axe","image":"exa","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":75,"quality":"common","ingredients":[{"id":"large-axe-handle","quantity":1},{"id":"ingot","quantity":4}]}
+{"$type":"/v1/skills/crafting/recipe","item":"executioners-axe","image":"exa","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":75,"quality":"common","ingredients":[{"id":"large-axe-handle","quantity":1},{"id":"ingot","quantity":4,"primary":true}]}

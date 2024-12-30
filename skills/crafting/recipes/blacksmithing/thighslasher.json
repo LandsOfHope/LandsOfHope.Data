@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"thighslasher","image":"sw6","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":500,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":5},{"id":"large-blade-hilt","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"thighslasher","image":"sw6","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":500,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"large-blade-hilt","quantity":1}]}

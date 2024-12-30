@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"ingot","image":"it","time":"PT15S","quantity":2,"skill":"blacksmithing","skillValue":5,"quality":"common","ingredients":[{"id":"ore","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"ingot","image":"it","time":"PT15S","quantity":2,"skill":"blacksmithing","skillValue":5,"quality":"common","ingredients":[{"id":"ore","quantity":1,"primary":true}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"cello","image":"5982","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":1000,"quality":"common","ingredients":[{"id":"plank","quantity":10},{"id":"string","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"cello","image":"5982","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":1000,"quality":"common","ingredients":[{"id":"plank","quantity":10,"primary":true},{"id":"string","quantity":1}]}

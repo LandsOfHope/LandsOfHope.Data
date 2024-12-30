@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"witches-amulet","image":"6172","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":75,"quality":"common","ingredients":[{"id":"gem","quantity":1},{"id":"midnight-flower","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"witches-amulet","image":"6172","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":75,"quality":"common","ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"midnight-flower","quantity":1}]}

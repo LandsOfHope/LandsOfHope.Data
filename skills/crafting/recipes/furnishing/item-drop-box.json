@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"item-drop-box","image":"bx5","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":500,"quality":"common","ingredients":[{"id":"plank","quantity":10},{"id":"furnishing-tool","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"item-drop-box","image":"bx5","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":500,"quality":"common","ingredients":[{"id":"plank","quantity":10,"primary":true},{"id":"furnishing-tool","quantity":0}]}

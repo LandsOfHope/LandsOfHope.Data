@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"putrified-shroud","image":"998","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":575,"quality":"common","ingredients":[{"id":"cloth","quantity":10},{"id":"thread","quantity":15}]}
+{"$type":"/v1/skills/crafting/recipe","item":"putrified-shroud","image":"998","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":575,"quality":"common","ingredients":[{"id":"cloth","quantity":10},{"id":"thread","quantity":15,"primary":true}]}

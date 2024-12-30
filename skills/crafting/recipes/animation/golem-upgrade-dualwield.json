@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"golem-upgrade-dualwield","image":"2673","time":"PT15S","quantity":1,"skill":"animation","skillValue":10,"quality":"common","ingredients":[{"id":"gem","quantity":2}]}
+{"$type":"/v1/skills/crafting/recipe","item":"golem-upgrade-dualwield","image":"2673","time":"PT15S","quantity":1,"skill":"animation","skillValue":10,"quality":"common","ingredients":[{"id":"gem","quantity":2,"primary":true}]}

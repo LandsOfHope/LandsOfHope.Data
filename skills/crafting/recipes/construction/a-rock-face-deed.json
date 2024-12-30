@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"generic-deed","image":"1070","time":"PT15S","quantity":1,"skill":"construction","skillValue":900,"quality":"common","ingredients":[{"id":"plank","quantity":26}]}
+{"$type":"/v1/skills/crafting/recipe","item":"generic-deed","image":"1070","time":"PT15S","quantity":1,"skill":"construction","skillValue":900,"quality":"common","ingredients":[{"id":"plank","quantity":26,"primary":true}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"detonating-ordnance","image":"ss6","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":4250,"quality":"common","ingredients":[{"id":"powder","quantity":1},{"id":"ingot","quantity":2},{"id":"tinker-tools","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"detonating-ordnance","image":"ss6","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":4250,"quality":"common","ingredients":[{"id":"powder","quantity":1,"primary":true},{"id":"ingot","quantity":2},{"id":"tinker-tools","quantity":0}]}

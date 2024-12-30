@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"weathered-rope","image":"zuwero","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":50,"quality":"common","ingredients":[{"id":"frayed-rope","quantity":2}]}
+{"$type":"/v1/skills/crafting/recipe","item":"weathered-rope","image":"zuwero","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":50,"quality":"common","ingredients":[{"id":"frayed-rope","quantity":2,"primary":true}]}

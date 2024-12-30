@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"spitting-flower-head","image":"na","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":225,"quality":"common","ingredients":[{"id":"large-stock","quantity":1},{"id":"ingot","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","item":"spitting-flower-head","image":"na","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":225,"quality":"common","ingredients":[{"id":"large-stock","quantity":1},{"id":"ingot","quantity":5,"primary":true}]}

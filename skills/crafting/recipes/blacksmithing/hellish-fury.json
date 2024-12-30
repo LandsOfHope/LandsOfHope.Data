@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"hellish-fury","image":"ft3","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":425,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":2}]}
+{"$type":"/v1/skills/crafting/recipe","item":"hellish-fury","image":"ft3","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":425,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":2,"primary":true}]}

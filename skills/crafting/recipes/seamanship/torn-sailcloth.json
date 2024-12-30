@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"torn-sailcloth","image":"zutosa","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":5,"quality":"common","ingredients":[{"id":"rotten-sailcloth","quantity":4}]}
+{"$type":"/v1/skills/crafting/recipe","item":"torn-sailcloth","image":"zutosa","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":5,"quality":"common","ingredients":[{"id":"rotten-sailcloth","quantity":4,"primary":true}]}

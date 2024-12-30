@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"sleek-feet","image":"189","time":"PT15S","quantity":1,"skill":"surgery","skillValue":600,"quality":"common","ingredients":[{"id":"foot","quantity":2},{"id":"scalpel","quantity":0},{"id":"prepared-hide","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"sleek-feet","image":"189","time":"PT15S","quantity":1,"skill":"surgery","skillValue":600,"quality":"common","ingredients":[{"id":"foot","quantity":2},{"id":"scalpel","quantity":0},{"id":"prepared-hide","quantity":1,"primary":true}]}

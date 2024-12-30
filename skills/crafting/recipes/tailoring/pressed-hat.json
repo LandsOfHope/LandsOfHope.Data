@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"pressed-hat","image":"4522","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":3550,"quality":"common","ingredients":[{"id":"cloth","quantity":15},{"id":"thread","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","item":"pressed-hat","image":"4522","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":3550,"quality":"common","ingredients":[{"id":"cloth","quantity":15,"primary":true},{"id":"thread","quantity":5}]}

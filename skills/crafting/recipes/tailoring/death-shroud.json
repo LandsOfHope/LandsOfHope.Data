@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"death-shroud","image":"cl6","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":1000,"quality":"uncommon","ingredients":[{"id":"cloth","quantity":10},{"id":"thread","quantity":15}]}
+{"$type":"/v1/skills/crafting/recipe","item":"death-shroud","image":"cl6","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":1000,"quality":"uncommon","ingredients":[{"id":"cloth","quantity":10},{"id":"thread","quantity":15,"primary":true}]}

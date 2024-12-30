@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"lucerne-hammer","image":"1594","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":375,"quality":"common","ingredients":[{"id":"large-stock","quantity":1},{"id":"ingot","quantity":2}]}
+{"$type":"/v1/skills/crafting/recipe","item":"lucerne-hammer","image":"1594","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":375,"quality":"common","ingredients":[{"id":"large-stock","quantity":1},{"id":"ingot","quantity":2,"primary":true}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"witches-bangle","image":"6173","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":75,"quality":"common","ingredients":[{"id":"ingot","quantity":1},{"id":"blood-of-evil","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"witches-bangle","image":"6173","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":75,"quality":"common","ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"blood-of-evil","quantity":1}]}

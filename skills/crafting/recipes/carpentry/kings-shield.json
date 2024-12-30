@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"kings-shield","image":"sd2","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":25,"quality":"common","ingredients":[{"id":"carved-handle","quantity":1},{"id":"plank","quantity":6}]}
+{"$type":"/v1/skills/crafting/recipe","item":"kings-shield","image":"sd2","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":25,"quality":"common","ingredients":[{"id":"carved-handle","quantity":1},{"id":"plank","quantity":6,"primary":true}]}
