@@ -11,6 +11,9 @@
         },
         "type": {
             "$ref": "/schemas/v1/items/types-id.gen.json"
+        },
+        "material": {
+            "$ref": "/schemas/v1/items/materials-id.gen.json"
         }
     },
     "additionalProperties": false,
