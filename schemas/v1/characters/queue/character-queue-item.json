@@ -19,7 +19,7 @@
             "$ref": "/schemas/v1/items/images-id.gen.json"
         },
         "item": {
-            "$ref": "/schemas/v1/items/items-id.gen.json"
+            "$ref": "/schemas/v1/items-id.gen.json"
         },
         "quantity": {
             "type": "integer"
