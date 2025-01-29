@@ -55,6 +55,8 @@ jobs:
         run: node .scripts/compile_schemas.js
       - name: generate typescript api types
         run: node .scripts/generate_api_ts.js
+      - name: generate search indexes
+        run: node .scripts/generate_search_indexes.js
       - name: generate health file
         run: node .scripts/generate_health.js
       - uses: actions/setup-python@v5
