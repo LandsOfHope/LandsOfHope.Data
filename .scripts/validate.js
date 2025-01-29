@@ -185,6 +185,7 @@ const main = async function () {
     validateTestData("v1/characters/appearance-profile"),
     validateTestData("v1/characters/character-creation"),
     validateNegativeTestData("v1/characters/character-creation"),
+    validateTestData("v1/characters/character-skills"),
     validateTestData("v1/chat/chat-mention"),
     validateTestData("v1/chat/chat-message"),
     validateTestData("v1/chat/chat-settings"),

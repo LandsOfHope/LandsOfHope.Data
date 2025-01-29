@@ -1,0 +1,14 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-skills.json",
+    "title": "CharacterSkills",
+    "type": "object",
+    "patternProperties": {
+        ".*": {
+            "$ref": "/schemas/v1/characters/character-skill.json"
+        }
+    },
+    "propertyNames": {
+        "$ref": "/schemas/v1/skills-id.gen.json"
+    },
+    "additionalProperties": false
+}

@@ -1,0 +1,26 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-skill.json",
+    "title": "CharacterSkill",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/character-skill"
+        },
+        "natural": {
+            "type": "integer"
+        },
+        "bonus": {
+            "type": "integer"
+        },
+        "limit": {
+            "type": "integer"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "natural",
+        "bonus",
+        "limit"
+    ]
+}

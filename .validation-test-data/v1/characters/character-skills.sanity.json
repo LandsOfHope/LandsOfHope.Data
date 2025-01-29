@@ -1,0 +1,8 @@
+{
+    "carpentry": {
+        "$type": "/v1/characters/character-skill",
+        "natural": 5,
+        "bonus": 0,
+        "limit": 5
+    }
+}
