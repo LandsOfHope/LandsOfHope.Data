@@ -1,0 +1,65 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-item.json",
+    "title": "CharacterQueueItem",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/queue/character-queue-item"
+        },
+        "id": {
+            "type": "integer"
+        },
+        "character": {
+            "type": "integer"
+        },
+        "recipient": {
+            "type": "integer"
+        },
+        "image": {
+            "$ref": "/schemas/v1/items/images-id.gen.json"
+        },
+        "item": {
+            "$ref": "/schemas/v1/items/items-id.gen.json"
+        },
+        "quantity": {
+            "type": "integer"
+        },
+        "material": {
+            "$ref": "/schemas/v1/items/materials-id.gen.json"
+        },
+        "level": {
+            "type": "integer"
+        },
+        "xp": {
+            "type": "integer"
+        },
+        "started": {
+            "$ref": "/schemas/v1/datetime.json"
+        },
+        "finished": {
+            "$ref": "/schemas/v1/datetime.json"
+        },
+        "cancellable": {
+            "type": "boolean"
+        },
+        "bonus": {
+            "type": "boolean"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "id",
+        "character",
+        "recipient",
+        "image",
+        "item",
+        "quantity",
+        "level",
+        "xp",
+        "started",
+        "finished",
+        "cancellable",
+        "bonus"
+    ]
+}
