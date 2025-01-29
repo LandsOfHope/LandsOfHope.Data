@@ -34,10 +34,10 @@
             "type": "integer"
         },
         "started": {
-            "$ref": "/schemas/v1/datetime.json"
+            "$ref": "/schemas/v0/datetime.json"
         },
         "finished": {
-            "$ref": "/schemas/v1/datetime.json"
+            "$ref": "/schemas/v0/datetime.json"
         },
         "cancellable": {
             "type": "boolean"
