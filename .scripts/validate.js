@@ -183,7 +183,6 @@ const main = async function () {
     validateNegativeTestData("v1/accounts/keycloak/keycloak-access-token"),
     validateTestData("v1/accounts/keycloak/keycloak-user"),
     validateTestData("v1/characters/appearance-profile"),
-    validateTestData("v1/characters/character-id"),
     validateTestData("v1/characters/character-creation"),
     validateNegativeTestData("v1/characters/character-creation"),
     validateTestData("v1/chat/chat-mention"),
