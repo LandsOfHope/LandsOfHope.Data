@@ -6,6 +6,9 @@
         "$type": {
             "const": "/v1/item"
         },
+        "id": {
+            "$ref": "/schemas/v1/items-id.gen.json"
+        },
         "image": {
             "$ref": "/schemas/v1/items/images-id.gen.json"
         },
@@ -19,6 +22,7 @@
     "additionalProperties": false,
     "required": [
         "$type",
+        "image",
         "type"
     ]
 }

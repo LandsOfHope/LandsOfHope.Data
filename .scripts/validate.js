@@ -144,6 +144,34 @@ const checkSchemaTypes = async () => {
   }, 0);
 }
 
+const checkMappingsAreValidMap = async (mappingFile) => {
+  const mapping = JSON.parse(await readFile(mappingFile, { encoding: 'utf-8' }));
+  if(!Array.isArray(mapping)) {
+    console.error(`mapping file ${mappingFile} is not an array`);
+    return false;
+  }
+  if(!mapping.every(entry => Array.isArray(entry) && entry.length == 2 && (typeof entry[0] == 'string' || typeof entry[0] === 'number') && (typeof entry[1] == 'string' || typeof entry[1] === 'number'))) {
+    console.error(`mapping file ${mappingFile} is not an array of [string|number, string|number]`);
+    return false;
+  }
+  const forwardMap = new Map();
+  const reverseMap = new Map();
+  let hasDupe = false;
+  mapping.forEach(entry => {
+    if(forwardMap.has(entry[0])) {
+      console.error(`mapping file ${mappingFile} has duplicate key ${entry[0]}`);
+      hasDupe = true;
+    }
+    if(reverseMap.has(entry[1])) {
+      console.error(`mapping file ${mappingFile} has duplicate value ${entry[1]}`);
+      hasDupe = true;
+    }
+    forwardMap.set(entry[0], entry[1]);
+    reverseMap.set(entry[1], entry[0]);
+  });
+  return !hasDupe;
+}
+
 const main = async function () {
   return await Promise.all([
     validateAll("schemas/v0/items/extra-item.json", "items/extras/!(all|all.inline).json"),
@@ -204,7 +232,32 @@ const main = async function () {
 
     validateTestData("v1/payments/credits/credit-history-support-adjustment"),
 
-    checkSchemaTypes()
+    checkSchemaTypes(),
+
+    checkMappingsAreValidMap("maps/worlds/mappings/id-to-slug.json"),
+    checkMappingsAreValidMap("maps/worlds/mappings/slug-to-id.json"),
+
+    // checkMappingsAreValidMap("items/mappings/id-to-slug.json"),
+    // checkMappingsAreValidMap("items/mappings/slug-to-id.json"),
+
+    // checkMappingsAreValidMap("races/mappings/id-to-slug.json"),
+    // checkMappingsAreValidMap("races/mappings/slug-to-id.json"),
+
+    checkMappingsAreValidMap("skills/mappings/id-to-slug.json"),
+    checkMappingsAreValidMap("skills/mappings/slug-to-id.json"),
+
+    // checkMappingsAreValidMap("items/types/mappings/id-to-slug.json"),
+    // checkMappingsAreValidMap("items/types/mappings/slug-to-id.json"),
+
+    // checkMappingsAreValidMap("professions/mappings/id-to-slug.json"),
+    // checkMappingsAreValidMap("professions/mappings/slug-to-id.json"),
+
+    ...['alchemy', 'animation', 'artisan', 'cooking', 'augmenting', 'bewitching', 'blacksmithing', 'blood-over-beauty', 'bolts-over-brains', 'carpentry', 'charms-and-hexes', 'construction', 'cooking', 'dungeon-mastery', 'floristry', 'furnishing', 'gamemastery', 'leatherworking', 'lordship', 'parlor-tricks', 'patchcrafting', 'seamanship', 'stonemasonry', 'surgery', 'tailoring', 'tinkering'].flatMap(skill => {
+      return [
+        checkMappingsAreValidMap(`skills/crafting/recipes/${skill}/mappings/id-to-slug.json`),
+        checkMappingsAreValidMap(`skills/crafting/recipes/${skill}/mappings/slug-to-id.json`)
+      ]
+    })
   ]);
 };
 
