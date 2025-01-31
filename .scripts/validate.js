@@ -148,11 +148,11 @@ const checkMappingsAreValidMap = async (mappingFile) => {
   const mapping = JSON.parse(await readFile(mappingFile, { encoding: 'utf-8' }));
   if(!Array.isArray(mapping)) {
     console.error(`mapping file ${mappingFile} is not an array`);
-    return false;
+    return 1;
   }
   if(!mapping.every(entry => Array.isArray(entry) && entry.length == 2 && (typeof entry[0] == 'string' || typeof entry[0] === 'number') && (typeof entry[1] == 'string' || typeof entry[1] === 'number'))) {
     console.error(`mapping file ${mappingFile} is not an array of [string|number, string|number]`);
-    return false;
+    return 1;
   }
   const forwardMap = new Map();
   const reverseMap = new Map();
@@ -169,7 +169,7 @@ const checkMappingsAreValidMap = async (mappingFile) => {
     forwardMap.set(entry[0], entry[1]);
     reverseMap.set(entry[1], entry[0]);
   });
-  return !hasDupe;
+  return hasDupe ? 1 : 0;
 }
 
 const main = async function () {
