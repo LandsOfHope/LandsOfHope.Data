@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"ring-of-assault","image":"asr","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":425,"quality":"common","ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"egg-of-roc","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"ring-of-assault","image":"asr","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":425,"quality":"common","singleUse":true,"failureChance":60,"ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"egg-of-roc","quantity":1}]}

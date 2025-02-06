@@ -29,6 +29,14 @@
         "quality": {
             "$ref": "/schemas/v1/items/item-quality.json"
         },
+        "singleUse": {
+            "const": true
+        },
+        "failureChance": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 100
+        },
         "ingredients": {
             "type": "array",
             "items": {

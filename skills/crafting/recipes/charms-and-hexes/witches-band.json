@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"witches-band","image":"6150","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":5,"quality":"common","ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"spawn-of-frog","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","item":"witches-band","image":"6150","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":5,"quality":"common","failureChance":60,"ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"spawn-of-frog","quantity":1}]}

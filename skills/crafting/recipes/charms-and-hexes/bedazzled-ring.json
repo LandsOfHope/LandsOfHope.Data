@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"bedazzled-ring","image":"6163","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":750,"quality":"common","ingredients":[{"id":"midnight-flower","quantity":1},{"id":"ingot","quantity":1,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","item":"bedazzled-ring","image":"6163","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":750,"quality":"common","failureChance":60,"ingredients":[{"id":"midnight-flower","quantity":1},{"id":"ingot","quantity":1,"primary":true}]}

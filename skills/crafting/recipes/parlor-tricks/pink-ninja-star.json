@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"pink-ninja-star","image":"6407","time":"PT15S","quantity":1,"skill":"parlor-tricks","skillValue":3600,"quality":"uncommon","ingredients":[{"id":"ninja-star","quantity":1,"primary":true},{"id":"ninja-tools","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","item":"pink-ninja-star","image":"6407","time":"PT15S","quantity":1,"skill":"parlor-tricks","skillValue":3600,"quality":"uncommon","failureChance":60,"ingredients":[{"id":"ninja-star","quantity":1,"primary":true},{"id":"ninja-tools","quantity":0}]}
