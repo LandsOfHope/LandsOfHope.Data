@@ -7,7 +7,7 @@
             "const": "/v1/characters/extra-character-image"
         },
         "image": {
-            "$ref": "/schemas/v1/characters/images-id.gen.json"
+            "$ref": "/schemas/v1/characters-images-id.gen.json"
         },
         "sex": {
             "type": "array",

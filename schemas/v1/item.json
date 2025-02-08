@@ -10,13 +10,13 @@
             "$ref": "/schemas/v1/items-id.gen.json"
         },
         "image": {
-            "$ref": "/schemas/v1/items/images-id.gen.json"
+            "$ref": "/schemas/v1/items-images-id.gen.json"
         },
         "type": {
-            "$ref": "/schemas/v1/items/types-id.gen.json"
+            "$ref": "/schemas/v1/items-types-id.gen.json"
         },
         "material": {
-            "$ref": "/schemas/v1/items/materials-id.gen.json"
+            "$ref": "/schemas/v1/items-materials-id.gen.json"
         }
     },
     "additionalProperties": false,

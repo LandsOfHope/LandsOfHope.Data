@@ -7,12 +7,12 @@ const schemaRoot = path.join(__dirname, '../schemas');
 const creationImages = JSON.parse(fs.readFileSync(path.join(__dirname, '../characters/character-creation-images.json')));
 
 function generateStandardCharacterCreationImages() {
-    fs.mkdirSync(path.join(schemaRoot, './v1/characters/creation'), { recursive: true });
+    fs.mkdirSync(path.join(schemaRoot, './v1/'), { recursive: true });
     fs.writeFileSync(
-        path.join(schemaRoot, './v1/characters/creation/standard-images.gen.json'),
+        path.join(schemaRoot, './v1/characters-creation-standard-images.gen.json'),
         JSON.stringify(
             {
-                "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/standard-images.gen.json",
+                "$id": "https://data.landsofhope.com/schemas/v1/characters-creation-standard-images.gen.json",
                 "title": "StandardCharacterCreationImages",
                 "enum": Array.from(new Set(
                     Array.prototype.concat(
@@ -30,12 +30,12 @@ function generateStandardCharacterCreationImages() {
 }
 
 function generateStargazerCharacterCreationImages() {
-    fs.mkdirSync(path.join(schemaRoot, './v1/characters/creation'), { recursive: true });
+    fs.mkdirSync(path.join(schemaRoot, './v1'), { recursive: true });
     fs.writeFileSync(
-        path.join(schemaRoot, './v1/characters/creation/stargazer-images.gen.json'),
+        path.join(schemaRoot, './v1/characters-creation-stargazer-images.gen.json'),
         JSON.stringify(
             {
-                "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/stargazer-images.gen.json",
+                "$id": "https://data.landsofhope.com/schemas/v1/characters-creation-stargazer-images.gen.json",
                 "title": "StargazerCharacterCreationImages",
                 "enum": Array.from(new Set(
                     Array.prototype.concat(
@@ -49,12 +49,12 @@ function generateStargazerCharacterCreationImages() {
 }
 
 function generateHagCharacterCreationImages() {
-    fs.mkdirSync(path.join(schemaRoot, './v1/characters/creation'), { recursive: true });
+    fs.mkdirSync(path.join(schemaRoot, './v1/'), { recursive: true });
     fs.writeFileSync(
-        path.join(schemaRoot, './v1/characters/creation/hag-images.gen.json'),
+        path.join(schemaRoot, './v1/characters-creation-hag-images.gen.json'),
         JSON.stringify(
             {
-                "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/hag-images.gen.json",
+                "$id": "https://data.landsofhope.com/schemas/v1/characters-creation-hag-images.gen.json",
                 "title": "HagCharacterCreationImages",
                 "enum": Array.from(new Set(
                     creationImages.F.hag
@@ -65,13 +65,13 @@ function generateHagCharacterCreationImages() {
 }
 
 function generateUnchartedWatersCharacterCreationImages() {
-    fs.mkdirSync(path.join(schemaRoot, './v1/characters/creation/uncharted-waters'), { recursive: true });
+    fs.mkdirSync(path.join(schemaRoot, './v1/'), { recursive: true });
     function generatePirateCharacterCreationImages() {
         fs.writeFileSync(
-            path.join(schemaRoot, './v1/characters/creation/uncharted-waters/pirate-images.gen.json'),
+            path.join(schemaRoot, './v1/characters-creation-uncharted-waters-pirate-images.gen.json'),
             JSON.stringify(
                 {
-                    "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/uncharted-waters/pirate-images.gen.json",
+                    "$id": "https://data.landsofhope.com/schemas/v1/characters-creation-uncharted-waters-pirate-images.gen.json",
                     "title": "PirateCharacterCreationImages",
                     "enum": Array.from(new Set(
                         Array.prototype.concat(
@@ -86,10 +86,10 @@ function generateUnchartedWatersCharacterCreationImages() {
 
     function generateNavyCharacterCreationImages() {
         fs.writeFileSync(
-            path.join(schemaRoot, './v1/characters/creation/uncharted-waters/navy-images.gen.json'),
+            path.join(schemaRoot, './v1/characters-creation-uncharted-waters-navy-images.gen.json'),
             JSON.stringify(
                 {
-                    "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/uncharted-waters/navy-images.gen.json",
+                    "$id": "https://data.landsofhope.com/schemas/v1/characters-creation-uncharted-waters-navy-images.gen.json",
                     "title": "NavyCharacterCreationImages",
                     "enum": Array.from(new Set(
                         Array.prototype.concat(

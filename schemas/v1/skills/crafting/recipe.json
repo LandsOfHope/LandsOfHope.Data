@@ -1,16 +1,19 @@
 {
     "$id": "https://data.landsofhope.com/schemas/v1/skills/crafting/recipe.json",
-    "title": "CraftingRecipe",
+    "title": "SkillsCraftingRecipe",
     "type": "object",
     "properties": {
         "$type": {
             "const": "/v1/skills/crafting/recipe"
         },
+        "id": {
+            "$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
+        },
         "item": {
             "$ref": "/schemas/v1/items-id.gen.json"
         },
         "image": {
-            "$ref": "/schemas/v1/items/images-id.gen.json"
+            "$ref": "/schemas/v1/items-images-id.gen.json"
         },
         "time": {
             "$ref": "/schemas/v0/duration.json"

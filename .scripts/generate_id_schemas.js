@@ -12,31 +12,7 @@ const directories = (() => {
         'races',
         'races/groups',
         'skills',
-        'skills/crafting/recipes/alchemy',
-        'skills/crafting/recipes/animation',
-        'skills/crafting/recipes/artisan',
-        'skills/crafting/recipes/augmenting',
-        'skills/crafting/recipes/bewitching',
-        'skills/crafting/recipes/blacksmithing',
-        'skills/crafting/recipes/blood-over-beauty',
-        'skills/crafting/recipes/bolts-over-brains',
-        'skills/crafting/recipes/carpentry',
-        'skills/crafting/recipes/charms-and-hexes',
-        'skills/crafting/recipes/construction',
-        'skills/crafting/recipes/cooking',
-        'skills/crafting/recipes/dungeon-mastery',
-        'skills/crafting/recipes/floristry',
-        'skills/crafting/recipes/furnishing',
-        'skills/crafting/recipes/gamemastery',
-        'skills/crafting/recipes/leatherworking',
-        'skills/crafting/recipes/lordship',
-        'skills/crafting/recipes/parlor-tricks',
-        'skills/crafting/recipes/patchcrafting',
-        'skills/crafting/recipes/seamanship',
-        'skills/crafting/recipes/stonemasonry',
-        'skills/crafting/recipes/surgery',
-        'skills/crafting/recipes/tailoring',
-        'skills/crafting/recipes/tinkering',
+        'skills/crafting/recipes/*',
         'maps/terrains',
         'maps/worlds',
         'titles',
@@ -60,31 +36,72 @@ const versions = {
 
 directories.forEach(dir => {
     const version = versions[dir] ?? 'v1';
-    const parentDir = path.join(schemas, version, path.dirname(dir));
-    if (!fs.existsSync(parentDir))
-        fs.mkdirSync(parentDir, {recursive: true});
+    const isGlob = dir.endsWith('*');
 
-    const id_schema_file = `${schemas}/${version}/${dir}-id.gen.json`;
-    fs.readdir(dir, (err, files) => {
-        if (err) {
-            console.log(err);
-            process.exit(1);
-        }
-        let all_content = [];
-        files.forEach(file => {
-            if (file != 'all.json' && file != 'all.inline.json' && file.slice(-5) === '.json') {
-                all_content.push(file.slice(0, -5));
+    const parentOutputDir = path.join(schemas, version, path.dirname(dir));
+    if (!fs.existsSync(parentOutputDir))
+        fs.mkdirSync(parentOutputDir, { recursive: true } );
+
+    console.log(`Generating ID schema for ${dir} in ${version}`, { isGlob, parentOutputDir });
+
+    const idNameBase = dir.replaceAll('/', ' ').replace('*', '').trim().replaceAll(' ', '-');
+    const idName = `${idNameBase}-id`;
+    const properTitle = idName.split('-').map(word => word.charAt(0).toUpperCase() + word.substring(1).toLowerCase()).join('');
+
+    const id_schema_file = `${schemas}/${version}/${idName}.gen.json`;
+    
+    const enumValues = [];
+    if (isGlob) {
+        const parentDir = path.dirname(dir);
+        const subdirs = fs.readdirSync(parentDir);
+        subdirs.forEach(subdir => {
+            const subDirPath = path.join(parentDir, subdir);
+            const stat = fs.statSync(subDirPath);
+            if (stat.isDirectory()) {
+                const scopedEnumValues = [];
+                const scopedProperTitle = subdir.split('-').map(word => word.charAt(0).toUpperCase() + word.substring(1).toLowerCase()).join('') + properTitle;
+                const scoped_id_schema_file = `${schemas}/${version}/${subdir}-${idName}.gen.json`;
+                const files = fs.readdirSync(subDirPath);
+
+                for (const file of files) {
+                    if (file != 'all.json' && file != 'all.inline.json' && file.slice(-5) === '.json') {
+                        scopedEnumValues.push(`${subdir}/${file.slice(0, -5)}`);
+                    }
+                }
+
+                if (scopedEnumValues.length > 0) {
+                    enumValues.push(...scopedEnumValues);
+                }
+
+                fs.writeFileSync(
+                    path.join(parentOutputDir, `${subdir}-${idName}.gen.json`),
+                    JSON.stringify(
+                        {
+                            "$id": `https://data.landsofhope.com/${scoped_id_schema_file}`,
+                            "title": scopedProperTitle,
+                            "enum": scopedEnumValues
+                        }
+                    )
+                );
             }
         });
-
-        var properTitle = `${path.basename(dir)}-id`.split('-').map(word => word.charAt(0).toUpperCase() + word.substring(1).toLowerCase()).join('');
-        const schema_content = `
-        {
-            "$id": "https://data.landsofhope.com/${id_schema_file}",
-            "title": "${properTitle}",
-            "enum": ${JSON.stringify(all_content)}
+    } else {
+        const files = fs.readdirSync(dir);
+        for (const file of files) {
+            if (file != 'all.json' && file != 'all.inline.json' && file.slice(-5) === '.json') {
+                enumValues.push(file.slice(0, -5));
+            }
         }
-        `;
-        fs.writeFileSync(id_schema_file, schema_content);
-    });
+    }
+
+    fs.writeFileSync(
+        id_schema_file,
+        JSON.stringify(
+            {
+                "$id": `https://data.landsofhope.com/${id_schema_file}`,
+                "title": properTitle,
+                "enum": enumValues
+            }
+        )
+    );
 });

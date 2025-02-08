@@ -23,10 +23,10 @@
             }
         },
         "material": {
-            "$ref": "/schemas/v1/items/materials-id.gen.json"
+            "$ref": "/schemas/v1/items-materials-id.gen.json"
         },
         "image": {
-            "$ref": "/schemas/v1/items/images-id.gen.json"
+            "$ref": "/schemas/v1/items-images-id.gen.json"
         }
     },
     "additionalProperties": false,

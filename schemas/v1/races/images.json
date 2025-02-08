@@ -9,13 +9,13 @@
                     "type": "array",
                     "uniqueItems": true,
                     "items": {
-                        "$ref": "/schemas/v1/characters/images-id.gen.json"
+                        "$ref": "/schemas/v1/characters-images-id.gen.json"
                     }
                 },
                 "F": {
                     "type": "array",
                     "items": {
-                        "$ref": "/schemas/v1/characters/images-id.gen.json"
+                        "$ref": "/schemas/v1/characters-images-id.gen.json"
                     }
                 }
             },
@@ -31,7 +31,7 @@
                     "type": "array",
                     "uniqueItems": true,
                     "items": {
-                        "$ref": "/schemas/v1/characters/images-id.gen.json"
+                        "$ref": "/schemas/v1/characters-images-id.gen.json"
                     }
                 }
             },

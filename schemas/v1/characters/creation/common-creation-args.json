@@ -16,7 +16,7 @@
             "$ref": "/schemas/v0/characters/character-sex.json"
         },
         "pictureId": {
-            "$ref": "/schemas/v1/characters/images-id.gen.json"
+            "$ref": "/schemas/v1/characters-images-id.gen.json"
         }
     },
     "required": [
