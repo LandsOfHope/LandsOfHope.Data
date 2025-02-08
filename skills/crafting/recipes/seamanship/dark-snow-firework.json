@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"firework","image":"fdarksnow","time":"PT15S","quantity":5,"skill":"seamanship","skillValue":3775,"quality":"common","ingredients":[{"id":"paper","quantity":1,"primary":true},{"id":"gunpowder","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"seamanship/dark-snow-firework","item":"firework","image":"fdarksnow","time":"PT15S","quantity":5,"skill":"seamanship","skillValue":3775,"quality":"common","ingredients":[{"id":"paper","quantity":1,"primary":true},{"id":"gunpowder","quantity":1}]}

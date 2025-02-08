@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"large-lava-cave-deed","image":"1070","time":"PT15S","quantity":1,"skill":"construction","skillValue":2000,"quality":"common","ingredients":[{"id":"ingot","quantity":70},{"id":"brick","quantity":80,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"construction/a-large-lava-cave-deed","item":"large-lava-cave-deed","image":"1070","time":"PT15S","quantity":1,"skill":"construction","skillValue":2000,"quality":"common","ingredients":[{"id":"ingot","quantity":70},{"id":"brick","quantity":80,"primary":true}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"orc-club-blackout","image":"hr2","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":325,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":2,"primary":true},{"id":"large-stock","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/orc-club-blackout","item":"orc-club-blackout","image":"hr2","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":325,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":2,"primary":true},{"id":"large-stock","quantity":1}]}

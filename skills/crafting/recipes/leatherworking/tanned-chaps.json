@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"tanned-chaps","image":"502","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":40,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"leatherworking/tanned-chaps","item":"tanned-chaps","image":"502","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":40,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}

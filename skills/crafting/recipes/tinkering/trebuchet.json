@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"trebuchet","image":"ss1","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":250,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"plank","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tinkering/trebuchet","item":"trebuchet","image":"ss1","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":250,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"plank","quantity":5}]}

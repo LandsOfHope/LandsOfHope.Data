@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"kasha-flower","image":"5749","time":"PT15S","quantity":1,"skill":"floristry","skillValue":350,"quality":"common","ingredients":[{"id":"flower-pot","quantity":1,"primary":true},{"id":"flower-seed","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"floristry/kasha-flower","item":"kasha-flower","image":"5749","time":"PT15S","quantity":1,"skill":"floristry","skillValue":350,"quality":"common","ingredients":[{"id":"flower-pot","quantity":1,"primary":true},{"id":"flower-seed","quantity":1}]}

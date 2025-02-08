@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"cleaveasunder","image":"ax12","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":275,"quality":"uncommon","ingredients":[{"id":"large-axe-handle","quantity":1},{"id":"ingot","quantity":4,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/cleaveasunder","item":"cleaveasunder","image":"ax12","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":275,"quality":"uncommon","ingredients":[{"id":"large-axe-handle","quantity":1},{"id":"ingot","quantity":4,"primary":true}]}

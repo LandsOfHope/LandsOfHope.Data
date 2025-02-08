@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"thread-mill","image":"4841","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":4550,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":9,"primary":true},{"id":"furnishing-tool","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"furnishing/a-thread-mill","item":"thread-mill","image":"4841","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":4550,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":9,"primary":true},{"id":"furnishing-tool","quantity":0}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"travellers-headband","image":"4533","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":250,"quality":"common","ingredients":[{"id":"cloth","quantity":13,"primary":true},{"id":"lining","quantity":6}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tailoring/travellers-headband","item":"travellers-headband","image":"4533","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":250,"quality":"common","ingredients":[{"id":"cloth","quantity":13,"primary":true},{"id":"lining","quantity":6}]}

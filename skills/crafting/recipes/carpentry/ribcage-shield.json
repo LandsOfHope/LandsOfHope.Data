@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"ribcage-shield","image":"sdd","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":75,"quality":"uncommon","ingredients":[{"id":"carved-handle","quantity":1},{"id":"plank","quantity":6,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"carpentry/ribcage-shield","item":"ribcage-shield","image":"sdd","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":75,"quality":"uncommon","ingredients":[{"id":"carved-handle","quantity":1},{"id":"plank","quantity":6,"primary":true}]}

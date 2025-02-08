@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"dagger","image":"dg","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":5,"quality":"common","ingredients":[{"id":"ingot","quantity":2,"primary":true},{"id":"small-blade-hilt","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/dagger","item":"dagger","image":"dg","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":5,"quality":"common","ingredients":[{"id":"ingot","quantity":2,"primary":true},{"id":"small-blade-hilt","quantity":1}]}

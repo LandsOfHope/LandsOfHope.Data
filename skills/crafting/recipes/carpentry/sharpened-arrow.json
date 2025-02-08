@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"sharpened-arrow","image":"na","time":"PT15S","quantity":20,"skill":"carpentry","skillValue":530,"quality":"common","ingredients":[{"id":"plank","quantity":5,"primary":true},{"id":"arrowhead","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"carpentry/sharpened-arrow","item":"sharpened-arrow","image":"na","time":"PT15S","quantity":20,"skill":"carpentry","skillValue":530,"quality":"common","ingredients":[{"id":"plank","quantity":5,"primary":true},{"id":"arrowhead","quantity":5}]}

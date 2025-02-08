@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"training-box","image":"bx","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":50,"quality":"common","ingredients":[{"id":"plank","quantity":1,"primary":true},{"id":"tinker-tools","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tinkering/training-box","item":"training-box","image":"bx","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":50,"quality":"common","ingredients":[{"id":"plank","quantity":1,"primary":true},{"id":"tinker-tools","quantity":0}]}

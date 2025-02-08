@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"harvestor-knife","image":"fehakn","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":5,"quality":"common","ingredients":[{"id":"ingot","quantity":9,"primary":true},{"id":"tinker-tools","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tinkering/harvestor-knife","item":"harvestor-knife","image":"fehakn","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":5,"quality":"common","ingredients":[{"id":"ingot","quantity":9,"primary":true},{"id":"tinker-tools","quantity":0}]}

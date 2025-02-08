@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"artisan-tool","image":"hr2","time":"PT15S","quantity":1,"skill":"artisan","skillValue":5,"quality":"uncommon","ingredients":[{"id":"log","quantity":1,"primary":true},{"id":"ingot","quantity":2}]}
+{"$type":"/v1/skills/crafting/recipe","id":"artisan/artisan-tool","item":"artisan-tool","image":"hr2","time":"PT15S","quantity":1,"skill":"artisan","skillValue":5,"quality":"uncommon","ingredients":[{"id":"log","quantity":1,"primary":true},{"id":"ingot","quantity":2}]}

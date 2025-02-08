@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"firework","image":"fsaddlebrow","time":"PT15S","quantity":5,"skill":"seamanship","skillValue":4500,"quality":"common","ingredients":[{"id":"paper","quantity":1,"primary":true},{"id":"gunpowder","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"seamanship/saddle-brown-firework","item":"firework","image":"fsaddlebrow","time":"PT15S","quantity":5,"skill":"seamanship","skillValue":4500,"quality":"common","ingredients":[{"id":"paper","quantity":1,"primary":true},{"id":"gunpowder","quantity":1}]}

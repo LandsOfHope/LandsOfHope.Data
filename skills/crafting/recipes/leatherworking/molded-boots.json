@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"molded-boots","image":"4417","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":1450,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"leatherworking/molded-boots","item":"molded-boots","image":"4417","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":1450,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}

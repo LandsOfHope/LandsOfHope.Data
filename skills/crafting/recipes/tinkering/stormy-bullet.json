@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"stormy-bullet","image":"zustbu","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":3605,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"bullet-mold","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tinkering/stormy-bullet","item":"stormy-bullet","image":"zustbu","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":3605,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"bullet-mold","quantity":5}]}

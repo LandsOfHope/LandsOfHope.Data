@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"victualers-boots","image":"bot","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":300,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"leatherworking/victualers-boots","item":"victualers-boots","image":"bot","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":300,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}

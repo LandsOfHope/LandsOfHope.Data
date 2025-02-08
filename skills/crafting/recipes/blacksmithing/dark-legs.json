@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"dark-legs","image":"1555","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":125,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"lining","quantity":7}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/dark-legs","item":"dark-legs","image":"1555","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":125,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"lining","quantity":7}]}

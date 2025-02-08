@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"youthful-shirt","image":"4528","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":4750,"quality":"common","ingredients":[{"id":"cloth","quantity":15,"primary":true},{"id":"thread","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tailoring/youthful-shirt","item":"youthful-shirt","image":"4528","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":4750,"quality":"common","ingredients":[{"id":"cloth","quantity":15,"primary":true},{"id":"thread","quantity":5}]}

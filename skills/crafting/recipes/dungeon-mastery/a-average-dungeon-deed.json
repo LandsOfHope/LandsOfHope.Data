@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"generic-deed","image":"1070","time":"PT15S","quantity":1,"skill":"dungeon-mastery","skillValue":1000,"quality":"common","ingredients":[{"id":"brick","quantity":10},{"id":"plank","quantity":10,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"dungeon-mastery/a-average-dungeon-deed","item":"generic-deed","image":"1070","time":"PT15S","quantity":1,"skill":"dungeon-mastery","skillValue":1000,"quality":"common","ingredients":[{"id":"brick","quantity":10},{"id":"plank","quantity":10,"primary":true}]}

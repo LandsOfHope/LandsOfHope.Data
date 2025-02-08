@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"foul-blouse","image":"1811","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":950,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":8},{"id":"thread","quantity":20,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tailoring/foul-blouse","item":"foul-blouse","image":"1811","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":950,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":8},{"id":"thread","quantity":20,"primary":true}]}

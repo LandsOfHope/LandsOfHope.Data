@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"lila-flower","image":"5770","time":"PT15S","quantity":1,"skill":"floristry","skillValue":1400,"quality":"common","ingredients":[{"id":"flower-pot","quantity":1,"primary":true},{"id":"flower-seed","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"floristry/lila-flower","item":"lila-flower","image":"5770","time":"PT15S","quantity":1,"skill":"floristry","skillValue":1400,"quality":"common","ingredients":[{"id":"flower-pot","quantity":1,"primary":true},{"id":"flower-seed","quantity":1}]}

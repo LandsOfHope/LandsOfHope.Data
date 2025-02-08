@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"rippling-dart","image":"drt","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":4505,"quality":"common","ingredients":[{"id":"plank","quantity":5,"primary":true},{"id":"dart-tip","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tinkering/rippling-dart","item":"rippling-dart","image":"drt","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":4505,"quality":"common","ingredients":[{"id":"plank","quantity":5,"primary":true},{"id":"dart-tip","quantity":5}]}

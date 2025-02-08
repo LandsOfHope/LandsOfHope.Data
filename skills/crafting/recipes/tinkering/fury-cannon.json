@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"fury-cannon","image":"ss2","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":1500,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"plank","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tinkering/fury-cannon","item":"fury-cannon","image":"ss2","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":1500,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"plank","quantity":5}]}

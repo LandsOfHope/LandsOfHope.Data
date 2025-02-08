@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"apple-cake","image":"ac1","time":"PT15S","quantity":1,"skill":"cooking","skillValue":3800,"quality":"common","ingredients":[{"id":"fruit","quantity":6,"primary":true},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"cooking/apple-cake","item":"apple-cake","image":"ac1","time":"PT15S","quantity":1,"skill":"cooking","skillValue":3800,"quality":"common","ingredients":[{"id":"fruit","quantity":6,"primary":true},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}

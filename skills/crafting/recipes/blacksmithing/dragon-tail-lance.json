@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"dragon-tail-lance","image":"dtl","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":250,"quality":"uncommon","ingredients":[{"id":"large-stock","quantity":1},{"id":"ingot","quantity":2,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/dragon-tail-lance","item":"dragon-tail-lance","image":"dtl","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":250,"quality":"uncommon","ingredients":[{"id":"large-stock","quantity":1},{"id":"ingot","quantity":2,"primary":true}]}

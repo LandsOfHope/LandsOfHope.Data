@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"cape-of-the-balistraria","image":"cob","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":1200,"quality":"common","ingredients":[{"id":"cloth","quantity":10},{"id":"thread","quantity":15,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tailoring/cape-of-the-balistraria","item":"cape-of-the-balistraria","image":"cob","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":1200,"quality":"common","ingredients":[{"id":"cloth","quantity":10},{"id":"thread","quantity":15,"primary":true}]}

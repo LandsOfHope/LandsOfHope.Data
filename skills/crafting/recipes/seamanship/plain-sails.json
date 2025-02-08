@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"short-bow","image":"shb","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":70,"quality":"common","ingredients":[{"id":"weathered-sailcloth","quantity":10,"primary":true},{"id":"ships-hook","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"seamanship/plain-sails","item":"short-bow","image":"shb","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":70,"quality":"common","ingredients":[{"id":"weathered-sailcloth","quantity":10,"primary":true},{"id":"ships-hook","quantity":0}]}

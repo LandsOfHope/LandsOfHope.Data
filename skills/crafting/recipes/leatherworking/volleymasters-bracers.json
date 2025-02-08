@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"volleymasters-bracers","image":"bcs","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":175,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"leatherworking/volleymasters-bracers","item":"volleymasters-bracers","image":"bcs","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":175,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}

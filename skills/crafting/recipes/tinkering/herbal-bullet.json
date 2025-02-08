@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"herbal-bullet","image":"4156","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":1880,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"bullet-mold","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tinkering/herbal-bullet","item":"herbal-bullet","image":"4156","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":1880,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"bullet-mold","quantity":5}]}

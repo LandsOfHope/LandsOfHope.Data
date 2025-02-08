@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"catapult","image":"ss4","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":5,"quality":"common","ingredients":[{"id":"ingot","quantity":5},{"id":"plank","quantity":5,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tinkering/catapult","item":"catapult","image":"ss4","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":5,"quality":"common","ingredients":[{"id":"ingot","quantity":5},{"id":"plank","quantity":5,"primary":true}]}

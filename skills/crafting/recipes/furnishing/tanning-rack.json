@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"tanning-rack","image":"5553","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":75,"quality":"common","ingredients":[{"id":"ingot","quantity":10,"primary":true},{"id":"furnishing-tool","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"furnishing/tanning-rack","item":"tanning-rack","image":"5553","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":75,"quality":"common","ingredients":[{"id":"ingot","quantity":10,"primary":true},{"id":"furnishing-tool","quantity":0}]}

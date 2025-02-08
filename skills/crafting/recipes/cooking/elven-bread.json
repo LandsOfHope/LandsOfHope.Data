@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"elven-bread","image":"zuelbr","time":"PT15S","quantity":1,"skill":"cooking","skillValue":3500,"quality":"common","ingredients":[{"id":"fruit","quantity":5,"primary":true},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"cooking/elven-bread","item":"elven-bread","image":"zuelbr","time":"PT15S","quantity":1,"skill":"cooking","skillValue":3500,"quality":"common","ingredients":[{"id":"fruit","quantity":5,"primary":true},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"haggard-hat","image":"what2","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":1050,"quality":"common","ingredients":[{"id":"cloth","quantity":15,"primary":true},{"id":"thread","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tailoring/haggard-hat","item":"haggard-hat","image":"what2","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":1050,"quality":"common","ingredients":[{"id":"cloth","quantity":15,"primary":true},{"id":"thread","quantity":5}]}

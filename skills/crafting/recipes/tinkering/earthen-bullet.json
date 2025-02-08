@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"earthen-bullet","image":"zueabu","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":2105,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"bullet-mold","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tinkering/earthen-bullet","item":"earthen-bullet","image":"zueabu","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":2105,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"bullet-mold","quantity":5}]}

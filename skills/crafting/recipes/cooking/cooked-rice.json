@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"cooked-rice","image":"c1r","time":"PT15S","quantity":5,"skill":"cooking","skillValue":200,"quality":"common","ingredients":[{"id":"grain","quantity":6,"primary":true},{"id":"flour","quantity":2},{"id":"bowl","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"cooking/cooked-rice","item":"cooked-rice","image":"c1r","time":"PT15S","quantity":5,"skill":"cooking","skillValue":200,"quality":"common","ingredients":[{"id":"grain","quantity":6,"primary":true},{"id":"flour","quantity":2},{"id":"bowl","quantity":0}]}

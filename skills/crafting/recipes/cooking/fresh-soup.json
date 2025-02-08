@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"fresh-soup","image":"sou","time":"PT15S","quantity":3,"skill":"cooking","skillValue":150,"quality":"common","ingredients":[{"id":"vegetable","quantity":5,"primary":true},{"id":"pot-of-water","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"cooking/fresh-soup","item":"fresh-soup","image":"sou","time":"PT15S","quantity":3,"skill":"cooking","skillValue":150,"quality":"common","ingredients":[{"id":"vegetable","quantity":5,"primary":true},{"id":"pot-of-water","quantity":0}]}

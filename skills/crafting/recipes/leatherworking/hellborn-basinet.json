@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"hellborn-basinet","image":"cse","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":3150,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"leatherworking/hellborn-basinet","item":"hellborn-basinet","image":"cse","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":3150,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}

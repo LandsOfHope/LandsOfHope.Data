@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"boned-helmet","image":"515","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":25,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"leatherworking/boned-helmet","item":"boned-helmet","image":"515","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":25,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}

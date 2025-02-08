@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"observatory-deed","image":"1070","time":"PT15S","quantity":1,"skill":"construction","skillValue":5000,"quality":"uncommon","ingredients":[{"id":"plank","quantity":80,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"construction/a-observatory-deed","item":"observatory-deed","image":"1070","time":"PT15S","quantity":1,"skill":"construction","skillValue":5000,"quality":"uncommon","ingredients":[{"id":"plank","quantity":80,"primary":true}]}

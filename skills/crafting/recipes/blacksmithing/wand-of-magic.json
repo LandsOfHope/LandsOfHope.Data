@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"wand-of-magic","image":"wand02","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":275,"quality":"common","ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"small-stock","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/wand-of-magic","item":"wand-of-magic","image":"wand02","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":275,"quality":"common","ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"small-stock","quantity":1}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"claw-hammer","image":"zuclha","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":515,"quality":"common","ingredients":[{"id":"ingot","quantity":7,"primary":true},{"id":"tinker-tools","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tinkering/claw-hammer","item":"claw-hammer","image":"zuclha","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":515,"quality":"common","ingredients":[{"id":"ingot","quantity":7,"primary":true},{"id":"tinker-tools","quantity":0}]}

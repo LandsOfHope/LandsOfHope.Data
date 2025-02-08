@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"verdant-bullet","image":"zuvebu","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":2330,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"bullet-mold","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tinkering/verdant-bullet","item":"verdant-bullet","image":"zuvebu","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":2330,"quality":"common","ingredients":[{"id":"ingot","quantity":5,"primary":true},{"id":"bullet-mold","quantity":5}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"haggard-trousers","image":"ptro6","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":1300,"quality":"common","ingredients":[{"id":"cloth","quantity":15,"primary":true},{"id":"thread","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tailoring/haggard-trousers","item":"haggard-trousers","image":"ptro6","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":1300,"quality":"common","ingredients":[{"id":"cloth","quantity":15,"primary":true},{"id":"thread","quantity":5}]}

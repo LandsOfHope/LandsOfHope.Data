@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"fruit-cookies","image":"c1k","time":"PT15S","quantity":1,"skill":"cooking","skillValue":3400,"quality":"common","ingredients":[{"id":"fruit","quantity":6,"primary":true},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"cooking/fruit-cookies","item":"fruit-cookies","image":"c1k","time":"PT15S","quantity":1,"skill":"cooking","skillValue":3400,"quality":"common","ingredients":[{"id":"fruit","quantity":6,"primary":true},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}

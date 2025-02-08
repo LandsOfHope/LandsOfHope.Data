@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"jitte","image":"255","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":150,"quality":"common","ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"stock","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/jitte","item":"jitte","image":"255","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":150,"quality":"common","ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"stock","quantity":1}]}

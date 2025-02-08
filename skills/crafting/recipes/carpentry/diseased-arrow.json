@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"diseased-arrow","image":"643","time":"PT15S","quantity":20,"skill":"carpentry","skillValue":455,"quality":"common","ingredients":[{"id":"plank","quantity":5,"primary":true},{"id":"arrowhead","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"carpentry/diseased-arrow","item":"diseased-arrow","image":"643","time":"PT15S","quantity":20,"skill":"carpentry","skillValue":455,"quality":"common","ingredients":[{"id":"plank","quantity":5,"primary":true},{"id":"arrowhead","quantity":5}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"frigid-smoothstone","image":"sms","time":"PT15S","quantity":20,"skill":"stonemasonry","skillValue":905,"quality":"common","ingredients":[{"id":"masons-tools","quantity":0},{"id":"stone-block","quantity":5,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"stonemasonry/frigid-smoothstone","item":"frigid-smoothstone","image":"sms","time":"PT15S","quantity":20,"skill":"stonemasonry","skillValue":905,"quality":"common","ingredients":[{"id":"masons-tools","quantity":0},{"id":"stone-block","quantity":5,"primary":true}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"black-rod","image":"zublro","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":225,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"small-stock","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/black-rod","item":"black-rod","image":"zublro","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":225,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"small-stock","quantity":1}]}

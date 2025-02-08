@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"charm-of-the-darkness","image":"zuchda","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":4125,"quality":"common","ingredients":[{"id":"plank","quantity":7,"primary":true},{"id":"orange-crystal","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"carpentry/charm-of-the-darkness","item":"charm-of-the-darkness","image":"zuchda","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":4125,"quality":"common","ingredients":[{"id":"plank","quantity":7,"primary":true},{"id":"orange-crystal","quantity":0}]}

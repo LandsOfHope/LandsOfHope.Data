@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"large-shell","image":"2425","time":"PT15S","quantity":1,"skill":"animation","skillValue":5,"quality":"common","ingredients":[{"id":"stone-block","quantity":20,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"animation/large-shell","item":"large-shell","image":"2425","time":"PT15S","quantity":1,"skill":"animation","skillValue":5,"quality":"common","ingredients":[{"id":"stone-block","quantity":20,"primary":true}]}

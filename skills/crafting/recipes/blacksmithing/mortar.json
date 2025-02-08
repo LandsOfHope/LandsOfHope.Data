@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"mortar","image":"4636","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":4500,"quality":"common","ingredients":[{"id":"ingot","quantity":8,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/mortar","item":"mortar","image":"4636","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":4500,"quality":"common","ingredients":[{"id":"ingot","quantity":8,"primary":true}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"moss-arrow","image":"arr1","time":"PT15S","quantity":20,"skill":"carpentry","skillValue":905,"quality":"common","ingredients":[{"id":"plank","quantity":5,"primary":true},{"id":"arrowhead","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"carpentry/moss-arrow","item":"moss-arrow","image":"arr1","time":"PT15S","quantity":20,"skill":"carpentry","skillValue":905,"quality":"common","ingredients":[{"id":"plank","quantity":5,"primary":true},{"id":"arrowhead","quantity":5}]}

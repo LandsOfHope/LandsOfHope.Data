@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"dried-boots","image":"cbt","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":1950,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"leatherworking/dried-boots","item":"dried-boots","image":"cbt","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":1950,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}

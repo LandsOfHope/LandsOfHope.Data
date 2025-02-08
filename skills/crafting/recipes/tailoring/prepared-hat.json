@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"prepared-hat","image":"what6","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":2050,"quality":"common","ingredients":[{"id":"cloth","quantity":15,"primary":true},{"id":"thread","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tailoring/prepared-hat","item":"prepared-hat","image":"what6","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":2050,"quality":"common","ingredients":[{"id":"cloth","quantity":15,"primary":true},{"id":"thread","quantity":5}]}

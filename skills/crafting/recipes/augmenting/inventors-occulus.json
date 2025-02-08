@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"inventors-occulus","image":"6929","time":"PT15S","quantity":1,"skill":"augmenting","skillValue":55,"quality":"common","failureChance":50,"ingredients":[{"id":"gem","quantity":25,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"augmenting/inventors-occulus","item":"inventors-occulus","image":"6929","time":"PT15S","quantity":1,"skill":"augmenting","skillValue":55,"quality":"common","failureChance":50,"ingredients":[{"id":"gem","quantity":25,"primary":true}]}

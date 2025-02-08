@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"stitched-trousers","image":"ptro7","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":1800,"quality":"common","ingredients":[{"id":"cloth","quantity":15,"primary":true},{"id":"thread","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tailoring/stitched-trousers","item":"stitched-trousers","image":"ptro7","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":1800,"quality":"common","ingredients":[{"id":"cloth","quantity":15,"primary":true},{"id":"thread","quantity":5}]}

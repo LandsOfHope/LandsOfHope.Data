@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"short-staff","image":"lsf","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":1600,"quality":"common","ingredients":[{"id":"weathered-plank","quantity":50,"primary":true},{"id":"ships-hook","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"seamanship/redesigned-hull","item":"short-staff","image":"lsf","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":1600,"quality":"common","ingredients":[{"id":"weathered-plank","quantity":50,"primary":true},{"id":"ships-hook","quantity":0}]}

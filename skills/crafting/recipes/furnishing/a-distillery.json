@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"distillery","image":"1034","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":2400,"quality":"common","ingredients":[{"id":"ingot","quantity":14,"primary":true},{"id":"furnishing-tool","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"furnishing/a-distillery","item":"distillery","image":"1034","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":2400,"quality":"common","ingredients":[{"id":"ingot","quantity":14,"primary":true},{"id":"furnishing-tool","quantity":0}]}

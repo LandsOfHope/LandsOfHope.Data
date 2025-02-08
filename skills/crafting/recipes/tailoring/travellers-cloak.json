@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"travellers-cloak","image":"cl7","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":300,"quality":"common","ingredients":[{"id":"cloth","quantity":13,"primary":true},{"id":"lining","quantity":6}]}
+{"$type":"/v1/skills/crafting/recipe","id":"tailoring/travellers-cloak","item":"travellers-cloak","image":"cl7","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":300,"quality":"common","ingredients":[{"id":"cloth","quantity":13,"primary":true},{"id":"lining","quantity":6}]}

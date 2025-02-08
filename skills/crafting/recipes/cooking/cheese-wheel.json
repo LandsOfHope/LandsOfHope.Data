@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"cheese-wheel","image":"ch3","time":"PT15S","quantity":1,"skill":"cooking","skillValue":2000,"quality":"common","ingredients":[{"id":"milk","quantity":6,"primary":true},{"id":"dough","quantity":1},{"id":"bowl","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"cooking/cheese-wheel","item":"cheese-wheel","image":"ch3","time":"PT15S","quantity":1,"skill":"cooking","skillValue":2000,"quality":"common","ingredients":[{"id":"milk","quantity":6,"primary":true},{"id":"dough","quantity":1},{"id":"bowl","quantity":0}]}

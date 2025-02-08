@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"beer","image":"febebe","time":"PT15S","quantity":1,"skill":"cooking","skillValue":1100,"quality":"common","ingredients":[{"id":"grain","quantity":5,"primary":true},{"id":"egg","quantity":2},{"id":"bowl","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"cooking/beer","item":"beer","image":"febebe","time":"PT15S","quantity":1,"skill":"cooking","skillValue":1100,"quality":"common","ingredients":[{"id":"grain","quantity":5,"primary":true},{"id":"egg","quantity":2},{"id":"bowl","quantity":0}]}

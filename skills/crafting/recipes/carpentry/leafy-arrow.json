@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"leafy-arrow","image":"arr1","time":"PT15S","quantity":20,"skill":"carpentry","skillValue":1730,"quality":"common","ingredients":[{"id":"plank","quantity":5,"primary":true},{"id":"arrowhead","quantity":5}]}
+{"$type":"/v1/skills/crafting/recipe","id":"carpentry/leafy-arrow","item":"leafy-arrow","image":"arr1","time":"PT15S","quantity":20,"skill":"carpentry","skillValue":1730,"quality":"common","ingredients":[{"id":"plank","quantity":5,"primary":true},{"id":"arrowhead","quantity":5}]}

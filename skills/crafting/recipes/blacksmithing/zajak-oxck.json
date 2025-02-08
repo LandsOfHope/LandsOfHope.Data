@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"zajak-oxck","image":"zk","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":250,"quality":"uncommon","ingredients":[{"id":"blade-hilt","quantity":1},{"id":"ingot","quantity":3,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/zajak-oxck","item":"zajak-oxck","image":"zk","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":250,"quality":"uncommon","ingredients":[{"id":"blade-hilt","quantity":1},{"id":"ingot","quantity":3,"primary":true}]}

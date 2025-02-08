@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"bolt","image":"febotl","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":1600,"quality":"common","ingredients":[{"id":"weathered-plank","quantity":35,"primary":true},{"id":"ships-hook","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"seamanship/clean-hold","item":"bolt","image":"febotl","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":1600,"quality":"common","ingredients":[{"id":"weathered-plank","quantity":35,"primary":true},{"id":"ships-hook","quantity":0}]}

@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"underwater-shop-blueprint","image":"1936","time":"PT15S","quantity":1,"skill":"construction","skillValue":655,"quality":"common","ingredients":[{"id":"ingot","quantity":40,"primary":true},{"id":"brick","quantity":40}]}
+{"$type":"/v1/skills/crafting/recipe","id":"construction/a-underwater-shop-blueprint","item":"underwater-shop-blueprint","image":"1936","time":"PT15S","quantity":1,"skill":"construction","skillValue":655,"quality":"common","ingredients":[{"id":"ingot","quantity":40,"primary":true},{"id":"brick","quantity":40}]}

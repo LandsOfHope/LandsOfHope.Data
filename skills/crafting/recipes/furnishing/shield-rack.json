@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"shield-rack","image":"hwk","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":625,"quality":"common","ingredients":[{"id":"plank","quantity":8,"primary":true},{"id":"furnishing-tool","quantity":0}]}
+{"$type":"/v1/skills/crafting/recipe","id":"furnishing/shield-rack","item":"shield-rack","image":"hwk","time":"PT15S","quantity":1,"skill":"furnishing","skillValue":625,"quality":"common","ingredients":[{"id":"plank","quantity":8,"primary":true},{"id":"furnishing-tool","quantity":0}]}

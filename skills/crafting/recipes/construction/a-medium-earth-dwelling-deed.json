@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"medium-earth-dwelling-deed","image":"1070","time":"PT15S","quantity":1,"skill":"construction","skillValue":300,"quality":"common","ingredients":[{"id":"plank","quantity":60,"primary":true},{"id":"brick","quantity":60}]}
+{"$type":"/v1/skills/crafting/recipe","id":"construction/a-medium-earth-dwelling-deed","item":"medium-earth-dwelling-deed","image":"1070","time":"PT15S","quantity":1,"skill":"construction","skillValue":300,"quality":"common","ingredients":[{"id":"plank","quantity":60,"primary":true},{"id":"brick","quantity":60}]}

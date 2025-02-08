@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"balanced-short-staff","image":"st1","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":50,"quality":"common","ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"small-stock","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/balanced-short-staff","item":"balanced-short-staff","image":"st1","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":50,"quality":"common","ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"small-stock","quantity":1}]}

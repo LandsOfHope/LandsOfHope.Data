@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"half-moon-axe","image":"ham","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":5,"quality":"common","ingredients":[{"id":"ingot","quantity":2,"primary":true},{"id":"small-axe-handle","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/half-moon-axe","item":"half-moon-axe","image":"ham","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":5,"quality":"common","ingredients":[{"id":"ingot","quantity":2,"primary":true},{"id":"small-axe-handle","quantity":1}]}

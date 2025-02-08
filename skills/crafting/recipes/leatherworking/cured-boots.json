@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"cured-boots","image":"494","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":200,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}
+{"$type":"/v1/skills/crafting/recipe","id":"leatherworking/cured-boots","item":"cured-boots","image":"494","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":200,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}

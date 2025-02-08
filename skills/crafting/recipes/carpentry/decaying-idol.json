@@ -1,1 +1,1 @@
-{"$type":"/v1/skills/crafting/recipe","item":"decaying-idol","image":"1001","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":200,"quality":"common","ingredients":[{"id":"plank","quantity":8,"primary":true}]}
+{"$type":"/v1/skills/crafting/recipe","id":"carpentry/decaying-idol","item":"decaying-idol","image":"1001","time":"PT15S","quantity":1,"skill":"carpentry","skillValue":200,"quality":"common","ingredients":[{"id":"plank","quantity":8,"primary":true}]}
