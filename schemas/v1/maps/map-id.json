@@ -3,7 +3,7 @@
     "title": "MapId",
     "oneOf": [
         {
-            "$ref": "/schemas/v1/maps/worlds-id.gen.json"
+            "$ref": "/schemas/v1/maps-worlds-id.gen.json"
         },
         {
             "$ref": "/schemas/v1/uuid.json"

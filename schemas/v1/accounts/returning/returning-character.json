@@ -20,13 +20,13 @@
             "$ref": "/schemas/v0/characters/character-sex.json"
         },
         "currentImage": {
-            "$ref": "/schemas/v1/characters/images-id.gen.json"
+            "$ref": "/schemas/v1/characters-images-id.gen.json"
         },
         "importableImages": {
             "type": "array",
             "uniqueItems": true,
             "items": {
-                "$ref": "/schemas/v1/characters/images-id.gen.json"
+                "$ref": "/schemas/v1/characters-images-id.gen.json"
             }
         }
     },

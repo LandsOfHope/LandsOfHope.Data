@@ -16,7 +16,7 @@
             "type": "integer"
         },
         "image": {
-            "$ref": "/schemas/v1/items/images-id.gen.json"
+            "$ref": "/schemas/v1/items-images-id.gen.json"
         },
         "item": {
             "$ref": "/schemas/v1/items-id.gen.json"
@@ -25,7 +25,7 @@
             "type": "integer"
         },
         "material": {
-            "$ref": "/schemas/v1/items/materials-id.gen.json"
+            "$ref": "/schemas/v1/items-materials-id.gen.json"
         },
         "level": {
             "type": "integer"
