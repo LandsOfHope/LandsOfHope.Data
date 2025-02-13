@@ -54,6 +54,18 @@ const directories = (() => {
     ];
 })();
 
+function inlineContent(dir, file) {
+    if(dir.startsWith('skills/crafting/recipes/')) {
+        const recipe = JSON.parse(fs.readFileSync(`${dir}/${file}`));
+        return {
+            ...recipe,
+            item: inlineContent('items', `${recipe.item}.json`)
+        }
+    }
+
+    return JSON.parse(fs.readFileSync(`${dir}/${file}`));
+}
+
 directories.forEach(dir => {
     fs.readdir(dir, (err, files) => {
         if (err) {
@@ -63,13 +75,13 @@ directories.forEach(dir => {
         let all_content = [];
         let all_inline_content = {};
         files.forEach(file => {
-            if (file !== "all.json" && file !== "all.inline.json" && file.slice(-5) === '.json') {
+            if (file.endsWith('.json') && !file.endsWith(".gen.json")) {
                 all_content.push(file.slice(0, -5));
-                all_inline_content[file.slice(0, -5)] = JSON.parse(fs.readFileSync(`${dir}/${file}`));
+                all_inline_content[file.slice(0, -5)] = inlineContent(dir, file);
             }
         });
 
-        fs.writeFileSync(`${dir}/all.json`, JSON.stringify(all_content));
-        fs.writeFileSync(`${dir}/all.inline.json`, JSON.stringify(all_inline_content));
+        fs.writeFileSync(`${dir}/all.gen.json`, JSON.stringify(all_content));
+        fs.writeFileSync(`${dir}/all.inline.gen.json`, JSON.stringify(all_inline_content));
     });
 });

@@ -64,7 +64,7 @@ directories.forEach(dir => {
                 const files = fs.readdirSync(subDirPath);
 
                 for (const file of files) {
-                    if (file != 'all.json' && file != 'all.inline.json' && file.slice(-5) === '.json') {
+                    if (file.endsWith('.json') && !file.endsWith('.gen.json')) {
                         scopedEnumValues.push(`${subdir}/${file.slice(0, -5)}`);
                     }
                 }
@@ -88,7 +88,7 @@ directories.forEach(dir => {
     } else {
         const files = fs.readdirSync(dir);
         for (const file of files) {
-            if (file != 'all.json' && file != 'all.inline.json' && file.slice(-5) === '.json') {
+            if (file.endsWith('.json') && !file.endsWith('.gen.json')) {
                 enumValues.push(file.slice(0, -5));
             }
         }

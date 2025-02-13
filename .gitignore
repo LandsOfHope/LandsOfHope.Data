@@ -1,6 +1,3 @@
-**/all.json
-**/all.inline.json
-schemas/**/*.gen.json
-schemas/validation/
+**/*.gen.json
 api/
 health
