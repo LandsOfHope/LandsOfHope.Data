@@ -41,7 +41,7 @@ const makeMaterialsSearchIndex = async function () {
             }
         }
 
-        await writeFileAsync(path.join(locale, "search.materials.index.json"), JSON.stringify(index.toJSON()));
+        await writeFileAsync(path.join(locale, "search.materials.index.gen.json"), JSON.stringify(index.toJSON()));
     }
 }
 
@@ -81,7 +81,7 @@ const makeRecipesSearchIndex = async function () {
             }
         }
 
-        writeFileAsync(path.join(locale, "search.crafting-recipes.index.json"), JSON.stringify(index.toJSON()));
+        writeFileAsync(path.join(locale, "search.crafting-recipes.index.gen.json"), JSON.stringify(index.toJSON()));
     }
 }
 
@@ -119,7 +119,7 @@ const makeSkillsSearchIndex = async function () {
             });
         }
 
-        writeFileAsync(path.join(locale, "search.skills.index.json"), JSON.stringify(index.toJSON()));
+        writeFileAsync(path.join(locale, "search.skills.index.gen.json"), JSON.stringify(index.toJSON()));
     }
 }
 
@@ -155,7 +155,7 @@ const makeProfessionsSearchIndex = async function () {
             });
         }
 
-        writeFileAsync(path.join(locale, "search.professions.index.json"), JSON.stringify(index.toJSON()));
+        writeFileAsync(path.join(locale, "search.professions.index.gen.json"), JSON.stringify(index.toJSON()));
     }
 }
 
@@ -189,7 +189,7 @@ const makeItemsSearchIndex = async function () {
             });
         }
 
-        writeFileAsync(path.join(locale, "search.items.index.json"), JSON.stringify(index.toJSON()));
+        writeFileAsync(path.join(locale, "search.items.index.gen.json"), JSON.stringify(index.toJSON()));
     }
 }
 
@@ -225,7 +225,7 @@ const makeItemTypesSearchIndex = async function () {
             });
         }
 
-        writeFileAsync(path.join(locale, "search.item-types.index.json"), JSON.stringify(index.toJSON()));
+        writeFileAsync(path.join(locale, "search.item-types.index.gen.json"), JSON.stringify(index.toJSON()));
     }
 }
 
