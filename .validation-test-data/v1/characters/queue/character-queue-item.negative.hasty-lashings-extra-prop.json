@@ -1,0 +1,16 @@
+{
+    "$type": "/v1/characters/queue/character-queue-item",
+    "id": 81812,
+    "character": 56697338,
+    "recipient": 56697338,
+    "image": "na",
+    "vesselItem": "hasty-lashings",
+    "quantity": 1,
+    "level": 1,
+    "xp": 220,
+    "started": "2025-02-15T20:58:59.917Z",
+    "finished": "2025-02-15T20:59:11.917Z",
+    "cancellable": true,
+    "bonus": false,
+    "notExpected": "extra-prop"
+}

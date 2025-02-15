@@ -215,6 +215,7 @@ const main = async function () {
     validateNegativeTestData("v1/characters/character-creation"),
     validateTestData("v1/characters/character-skills"),
     validateTestData("v1/characters/queue/character-queue-item"),
+    validateNegativeTestData("v1/characters/queue/character-queue-item"),
     validateTestData("v1/chat/chat-mention"),
     validateTestData("v1/chat/chat-message"),
     validateTestData("v1/chat/chat-settings"),
