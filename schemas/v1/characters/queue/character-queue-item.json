@@ -21,6 +21,9 @@
         "item": {
             "$ref": "/schemas/v1/items-id.gen.json"
         },
+        "vesselItem": {
+            "$ref": "/schemas/v1/vessel-items-id.gen.json"
+        },
         "quantity": {
             "type": "integer"
         },
@@ -53,7 +56,6 @@
         "character",
         "recipient",
         "image",
-        "item",
         "quantity",
         "level",
         "xp",
@@ -61,5 +63,27 @@
         "finished",
         "cancellable",
         "bonus"
+    ],
+    "oneOf": [
+        {
+            "properties": {
+                "vesselItem": {
+                    "$ref": "/schemas/v1/vessel-items-id.gen.json"
+                }
+            },
+            "required": [
+                "vesselItem"
+            ]
+        },
+        {
+            "properties": {
+                "item": {
+                    "$ref": "/schemas/v1/items-id.gen.json"
+                }
+            },
+            "required": [
+                "item"
+            ]
+        }
     ]
 }
