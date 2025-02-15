@@ -12,6 +12,9 @@
         "item": {
             "$ref": "/schemas/v1/items-id.gen.json"
         },
+        "vesselItem": {
+            "$ref": "/schemas/v1/vessel-items-id.gen.json"
+        },
         "image": {
             "$ref": "/schemas/v1/items-images-id.gen.json"
         },
@@ -64,17 +67,33 @@
             }
         }
     },
-    "required": [
-        "$type",
-        "id",
-        "item",
-        "image",
-        "time",
-        "quantity",
-        "skill",
-        "skillValue",
-        "quality",
-        "ingredients"
+    "allOf": [
+        {
+            "required": [
+                "$type",
+                "id",
+                "image",
+                "time",
+                "quantity",
+                "skill",
+                "skillValue",
+                "quality",
+                "ingredients"
+            ],
+
+            "oneOf": [
+                {
+                    "required": [
+                        "vesselItem"
+                    ]
+                },
+                {
+                    "required": [
+                        "item"
+                    ]
+                }
+            ]
+        }
     ],
     "additionalProperties": false
 }

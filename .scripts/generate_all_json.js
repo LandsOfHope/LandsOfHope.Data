@@ -59,7 +59,8 @@ function inlineContent(dir, file) {
         const recipe = JSON.parse(fs.readFileSync(`${dir}/${file}`));
         return {
             ...recipe,
-            item: inlineContent('items', `${recipe.item}.json`)
+            item: recipe.item ? inlineContent('items', `${recipe.item}.json`) : undefined,
+            vesselItem: recipe.vesselItem ? inlineContent('vessel-items', `${recipe.vesselItem}.json`) : undefined,
         }
     }
 
