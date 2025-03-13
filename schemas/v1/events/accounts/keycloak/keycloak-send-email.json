@@ -1,0 +1,41 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/keycloak/keycloak-send-email.json",
+    "title": "KeycloakSendEmailEvent",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/events/accounts/keycloak/keycloak-send-email"
+        },
+        "template": {
+            "type": "string"
+        },
+        "locale": {
+            "type": "string"
+        },
+        "attributes": {
+            "type": "object"
+        },
+        "subjectAttributes": {
+            "type": "object"
+        },
+        "email": {
+            "$ref": "/schemas/v1/email-address.json"
+        },
+        "username": {
+            "type": "string"
+        },
+        "userId": {
+            "$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
+        }
+    },
+    "required": [
+        "$type",
+        "template",
+        "locale",
+        "attributes",
+        "email",
+        "username",
+        "userId"
+    ]
+}

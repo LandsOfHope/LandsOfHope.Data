@@ -13,6 +13,9 @@
             "$ref": "/schemas/v1/events/accounts/keycloak/keycloak-account-login.json"
         },
         {
+            "$ref": "/schemas/v1/events/accounts/keycloak/keycloak-send-email.json"
+        },
+        {
             "$ref": "/schemas/v1/events/accounts/account-login.json"
         },
         {
