@@ -95,7 +95,7 @@ const failAll = async (schema, fileGlob) => {
   ).exitCode;
 };
 
-const validateTestData = (path) => validateAll(`schemas/${path}.json`, `.validation-test-data/${path}!(.negative).*.json`);
+const validateTestData = (path) => validateAll(`schemas/${path}.json`, `.validation-test-data/${path}.!(negative)*.json`);
 
 const validateNegativeTestData = (path) => failAll(`schemas/${path}.json`, `.validation-test-data/${path}.negative.*.json`)
 
@@ -213,6 +213,8 @@ const main = async function () {
     validateTestData("v1/characters/appearance-profile"),
     validateTestData("v1/characters/character-creation"),
     validateNegativeTestData("v1/characters/character-creation"),
+    validateTestData("v1/characters/character-skill"),
+    validateNegativeTestData("v1/characters/character-skill"),
     validateTestData("v1/characters/character-skills"),
     validateTestData("v1/characters/queue/character-queue-item"),
     validateNegativeTestData("v1/characters/queue/character-queue-item"),

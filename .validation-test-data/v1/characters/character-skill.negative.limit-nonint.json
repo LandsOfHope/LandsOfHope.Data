@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/characters/character-skill",
+    "natural": 5,
+    "bonus": {
+        "item": 0,
+        "spell": 0
+    },
+    "limit": 5.5
+}

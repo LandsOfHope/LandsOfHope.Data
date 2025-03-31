@@ -2,7 +2,10 @@
     "carpentry": {
         "$type": "/v1/characters/character-skill",
         "natural": 5,
-        "bonus": 0,
+        "bonus": {
+            "item": 1,
+            "spell": 1
+        },
         "limit": 5
     }
 }

@@ -10,10 +10,31 @@
             "type": "integer"
         },
         "bonus": {
-            "type": "integer"
+            "type": "object",
+            "properties": {
+                "item": {
+                    "type": "number"
+                },
+                "spell": {
+                    "type": "number"
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "item",
+                "spell"
+            ]
         },
         "limit": {
-            "type": "integer"
+            "oneOf": [
+                {
+                    "type": "integer",
+                    "exclusiveMinimum": 0
+                },
+                {
+                    "type": "null"
+                }
+            ]
         }
     },
     "additionalProperties": false,
