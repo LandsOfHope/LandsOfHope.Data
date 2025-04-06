@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "forgunli-ironforger"
     }
   },
-  "image": "dwm"
+  "$type": "/v1/characters/character",
+  "image": "dwm",
+  "name": "Forgunli Ironforger"
 }

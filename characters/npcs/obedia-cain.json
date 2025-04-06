@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "obedia-cain"
     }
   },
-  "image": "asim4"
+  "$type": "/v1/characters/character",
+  "image": "asim4",
+  "name": "Obedia Cain"
 }

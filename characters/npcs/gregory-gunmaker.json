@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "gregory-gunmaker"
     }
   },
-  "image": "uwam"
+  "$type": "/v1/characters/character",
+  "image": "uwam",
+  "name": "Gregory Gunmaker"
 }

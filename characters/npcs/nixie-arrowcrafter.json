@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "nixie-arrowcrafter"
     }
   },
-  "image": "pif"
+  "$type": "/v1/characters/character",
+  "image": "pif",
+  "name": "Nixie Arrowcrafter"
 }

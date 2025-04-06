@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "aleria-bubblesalot"
     }
   },
-  "image": "wi2"
+  "$type": "/v1/characters/character",
+  "image": "wi2",
+  "name": "Aleria Bubblesalot"
 }

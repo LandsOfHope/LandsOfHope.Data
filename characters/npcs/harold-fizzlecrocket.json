@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "harold-fizzlecrocket"
     }
   },
-  "image": "hum"
+  "$type": "/v1/characters/character",
+  "image": "hum",
+  "name": "Harold Fizzlecrocket"
 }

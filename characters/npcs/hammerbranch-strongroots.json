@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "hammerbranch-strongroots"
     }
   },
-  "image": "wd1"
+  "$type": "/v1/characters/character",
+  "image": "wd1",
+  "name": "Hammerbranch Strongroots"
 }

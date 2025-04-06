@@ -49,6 +49,8 @@ const directories = (() => {
         'characters/images',
         'characters/extra-images',
         'characters/enhancements',
+        'characters/npcs',
+        'characters/npcs/recipes',
         'stats/stat-categories',
         'stats/rankings'
     ];

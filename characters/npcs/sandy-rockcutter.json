@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "sandy-rockcutter"
     }
   },
-  "image": "smf"
+  "$type": "/v1/characters/character",
+  "image": "smf",
+  "name": "Sandy Rockcutter"
 }

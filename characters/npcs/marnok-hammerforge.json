@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "marnok-hammerforge"
     }
   },
-  "image": "dwm"
+  "$type": "/v1/characters/character",
+  "image": "dwm",
+  "name": "Marnok Hammerforge"
 }

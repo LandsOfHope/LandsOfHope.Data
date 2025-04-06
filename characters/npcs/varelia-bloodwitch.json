@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "varelia-bloodwitch"
     }
   },
-  "image": "vas"
+  "$type": "/v1/characters/character",
+  "image": "vas",
+  "name": "Varelia Bloodwitch"
 }

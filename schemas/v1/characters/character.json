@@ -1,0 +1,25 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character.json",
+    "type": "object",
+    "title": "Character",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/character"
+        },
+        "image": {
+            "$ref": "/schemas/v1/characters-images-id.gen.json"
+        },
+        "name": {
+            "$ref": "/schemas/v1/characters/character-name.json"
+        },
+        "interactions": {
+            "$ref": "/schemas/v1/characters/interactions/character-interactions.json"
+        }
+    },
+    "required": [
+        "$type",
+        "name",
+        "image",
+        "interactions"
+    ]
+}

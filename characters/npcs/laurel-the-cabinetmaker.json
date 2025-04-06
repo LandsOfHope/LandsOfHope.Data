@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "laurel-the-cabinetmaker"
     }
   },
-  "image": "lc1"
+  "$type": "/v1/characters/character",
+  "image": "lc1",
+  "name": "Laurel the Cabinetmaker"
 }

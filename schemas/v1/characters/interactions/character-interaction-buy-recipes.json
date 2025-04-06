@@ -1,14 +1,18 @@
 {
     "$id": "https://data.landsofhope.com/schemas/v1/characters/interactions/character-interaction-buy-recipes.json",
-    "title": "CharacterInteractionBuyPlans",
+    "title": "CharacterInteractionBuyRecipes",
     "type": "object",
     "properties": {
         "$type": {
             "const": "/v1/characters/interactions/character-interaction-buy-recipes"
+        },
+        "id": {
+            "$ref": "/schemas/v1/characters-npcs-recipes-id.gen.json"
         }
     },
     "additionalProperties": false,
     "required": [
-        "$type"
+        "$type",
+        "id"
     ]
 }

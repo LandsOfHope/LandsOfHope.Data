@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "molly-moonshine"
     }
   },
-  "image": "pirate9"
+  "$type": "/v1/characters/character",
+  "image": "pirate9",
+  "name": "Molly Moonshine"
 }

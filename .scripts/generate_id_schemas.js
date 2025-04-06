@@ -26,6 +26,8 @@ const directories = (() => {
         'characters/images',
         'characters/extra-images',
         'characters/enhancements',
+        'characters/npcs',
+        'characters/npcs/recipes',
         'stats/stat-categories',
         'stats/rankings'
     ];
@@ -50,7 +52,7 @@ directories.forEach(dir => {
     const properTitle = idName.split('-').map(word => word.charAt(0).toUpperCase() + word.substring(1).toLowerCase()).join('');
 
     const id_schema_file = `${schemas}/${version}/${idName}.gen.json`;
-    
+
     const enumValues = [];
     if (isGlob) {
         const parentDir = path.dirname(dir);

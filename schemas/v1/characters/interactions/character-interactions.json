@@ -1,0 +1,21 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/interactions/character-interactions.json",
+    "title": "CharacterInteractions",
+    "type": "object",
+    "propertyNames": {
+        "enum": [
+            "talk",
+            "quests"
+        ]
+    },
+    "patternProperties": {
+        ".*": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/characters/interactions/character-interaction-buy-recipes.json"
+                }
+            ]
+        }
+    },
+    "additionalProperties": false
+}

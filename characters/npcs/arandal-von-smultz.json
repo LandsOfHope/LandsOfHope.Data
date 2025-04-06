@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "arandal-von-smultz"
     }
   },
-  "image": "hmcr1"
+  "$type": "/v1/characters/character",
+  "image": "hmcr1",
+  "name": "Arandal von Smultz"
 }

@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "george-cannonmaker"
     }
   },
-  "image": "pirate7"
+  "$type": "/v1/characters/character",
+  "image": "pirate7",
+  "name": "George Cannonmaker"
 }

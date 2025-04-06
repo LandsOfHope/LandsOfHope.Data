@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "william-weeds"
     }
   },
-  "image": "mcleric"
+  "$type": "/v1/characters/character",
+  "image": "mcleric",
+  "name": "William Weeds"
 }

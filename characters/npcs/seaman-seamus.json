@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "seaman-seamus"
     }
   },
-  "image": "pirate8"
+  "$type": "/v1/characters/character",
+  "image": "pirate8",
+  "name": "Seaman Seamus"
 }

@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "tarra-hidecutter"
     }
   },
-  "image": "gef"
+  "$type": "/v1/characters/character",
+  "image": "gef",
+  "name": "Tarra Hidecutter"
 }

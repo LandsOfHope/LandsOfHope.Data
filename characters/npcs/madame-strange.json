@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "madame-strange"
     }
   },
-  "image": "huf"
+  "$type": "/v1/characters/character",
+  "image": "huf",
+  "name": "Madame Strange"
 }

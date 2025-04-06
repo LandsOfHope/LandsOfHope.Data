@@ -1,8 +1,11 @@
 {
   "interactions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes"
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "trance-bag-o-tricks"
     }
   },
-  "image": "pim"
+  "$type": "/v1/characters/character",
+  "image": "pim",
+  "name": "Trance Bag-o-Tricks"
 }

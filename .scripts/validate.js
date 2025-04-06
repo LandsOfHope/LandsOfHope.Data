@@ -189,6 +189,7 @@ const main = async function () {
     validateAll("schemas/v1/maps/terrain.json", "maps/terrains/!(*.gen).json"),
     validateAll("schemas/v1/characters/character-title.json", "titles/!(*.gen).json"),
     validateAll("schemas/v1/characters/extra-character-image.json", "characters/extra-images/!(*.gen).json"),
+    validateAll("schemas/v1/characters/character.json", "characters/npcs/!(*.gen).json"),
     validateAll("schemas/v1/menus/menu-list.json", "menus/!(*.gen).json"),
     validateAll("schemas/v1/stats/ranking.json", "stats/rankings/!(*.gen).json"),
     validateAll("schemas/v1/stats/stat-category.json", "stats/stat-categories/!(*.gen).json"),
