@@ -1,0 +1,14 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/interactions/character-interaction-buy-recipes.json",
+    "title": "CharacterInteractionBuyPlans",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/interactions/character-interaction-buy-recipes"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type"
+    ]
+}
