@@ -5,7 +5,11 @@
       "id": "ociasa-the-mason"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Ociasa the Mason"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Ociasa the Mason",
+    "title": "stonemason",
+    "image": "huf"
+  }
 }

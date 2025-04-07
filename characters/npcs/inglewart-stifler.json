@@ -5,7 +5,11 @@
       "id": "inglewart-stifler"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "asim5",
-  "name": "Inglewart Stifler"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Inglewart Stifler",
+    "title": "war-mongerer",
+    "image": "asim5"
+  }
 }

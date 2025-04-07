@@ -5,7 +5,11 @@
       "id": "pizzi-cookiebaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pif",
-  "name": "Pizzi Cookiebaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Pizzi Cookiebaker",
+    "title": "cook",
+    "image": "pif"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "sprogs"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pif",
-  "name": "Sprogs"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Sprogs",
+    "title": "inventor",
+    "image": "pif"
+  }
 }

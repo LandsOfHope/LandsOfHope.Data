@@ -5,7 +5,11 @@
       "id": "crabby-shirtmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Crabby Shirtmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Crabby Shirtmaker",
+    "title": "tailor",
+    "image": "gem"
+  }
 }

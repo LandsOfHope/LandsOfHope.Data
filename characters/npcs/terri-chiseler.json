@@ -5,7 +5,11 @@
       "id": "terri-chiseler"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Terri Chiseler"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Terri Chiseler",
+    "title": "stonemason",
+    "image": "gef"
+  }
 }

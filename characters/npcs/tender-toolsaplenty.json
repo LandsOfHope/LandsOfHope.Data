@@ -5,7 +5,11 @@
       "id": "tender-toolsaplenty"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Tender Toolsaplenty"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Tender Toolsaplenty",
+    "title": "tinkerer",
+    "image": "pim"
+  }
 }

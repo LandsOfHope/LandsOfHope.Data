@@ -5,7 +5,11 @@
       "id": "orchidnam-chestmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Orchidnam Chestmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Orchidnam Chestmaker",
+    "title": "furnisher",
+    "image": "pim"
+  }
 }

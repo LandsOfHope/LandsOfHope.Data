@@ -5,7 +5,11 @@
       "id": "qiravia-the-inventor"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Qiravia the Inventor"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Qiravia the Inventor",
+    "title": "inventor",
+    "image": "huf"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "lomiothien-baker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Lomiothien Baker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Lomiothien Baker",
+    "title": "cook",
+    "image": "gef"
+  }
 }

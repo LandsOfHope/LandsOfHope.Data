@@ -5,7 +5,11 @@
       "id": "hammerbranch-strongroots"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "wd1",
-  "name": "Hammerbranch Strongroots"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Hammerbranch Strongroots",
+    "title": "construction-plan-trainer",
+    "image": "wd1"
+  }
 }

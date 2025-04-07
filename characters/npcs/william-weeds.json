@@ -5,7 +5,11 @@
       "id": "william-weeds"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "mcleric",
-  "name": "William Weeds"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "William Weeds",
+    "title": "floristry-trainer",
+    "image": "mcleric"
+  }
 }

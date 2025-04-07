@@ -5,7 +5,11 @@
       "id": "thrandil-spearcarver"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Thrandil Spearcarver"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Thrandil Spearcarver",
+    "title": "master-carpenter",
+    "image": "gem"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "lalijan-splintmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Lalijan Splintmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Lalijan Splintmaker",
+    "title": "blacksmith",
+    "image": "hum"
+  }
 }

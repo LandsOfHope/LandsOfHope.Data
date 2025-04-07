@@ -5,7 +5,11 @@
       "id": "emma-missystitch"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pirate6",
-  "name": "Emma Missystitch"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Emma Missystitch",
+    "title": "craft-trainer",
+    "image": "pirate6"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "prissa-seamstress"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Prissa Seamstress"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Prissa Seamstress",
+    "title": "tailor",
+    "image": "haf"
+  }
 }

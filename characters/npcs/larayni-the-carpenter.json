@@ -5,7 +5,11 @@
       "id": "larayni-the-carpenter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Larayni the Carpenter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Larayni the Carpenter",
+    "title": "carpenter",
+    "image": "haf"
+  }
 }

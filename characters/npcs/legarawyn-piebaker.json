@@ -5,7 +5,11 @@
       "id": "legarawyn-piebaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Legarawyn Piebaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Legarawyn Piebaker",
+    "title": "cook",
+    "image": "gem"
+  }
 }

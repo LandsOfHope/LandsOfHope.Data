@@ -5,7 +5,11 @@
       "id": "gilinydd-piemaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Gilinydd Piemaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Gilinydd Piemaker",
+    "title": "cook",
+    "image": "hum"
+  }
 }

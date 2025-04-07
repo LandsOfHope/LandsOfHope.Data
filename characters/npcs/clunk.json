@@ -5,7 +5,11 @@
       "id": "clunk"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Clunk"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Clunk",
+    "title": "tinkerer",
+    "image": "hum"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "urorfilith-coifforger"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Urorfilith Coifforger"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Urorfilith Coifforger",
+    "title": "blacksmith",
+    "image": "elf"
+  }
 }

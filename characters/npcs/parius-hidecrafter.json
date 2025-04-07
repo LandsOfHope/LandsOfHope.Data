@@ -5,7 +5,11 @@
       "id": "parius-hidecrafter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Parius Hidecrafter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Parius Hidecrafter",
+    "title": "leatherworker",
+    "image": "pim"
+  }
 }

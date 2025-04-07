@@ -5,7 +5,11 @@
       "id": "deladrielith-bulletcrafter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Deladrielith Bulletcrafter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Deladrielith Bulletcrafter",
+    "title": "tinkerer",
+    "image": "elf"
+  }
 }

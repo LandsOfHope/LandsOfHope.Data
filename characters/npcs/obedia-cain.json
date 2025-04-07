@@ -5,7 +5,11 @@
       "id": "obedia-cain"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "asim4",
-  "name": "Obedia Cain"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Obedia Cain",
+    "title": "automotron-guide",
+    "image": "asim4"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "errin-sailmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pirate6",
-  "name": "Errin Sailmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Errin Sailmaker",
+    "title": "seamanship-trainer",
+    "image": "pirate6"
+  }
 }

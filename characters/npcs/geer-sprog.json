@@ -5,7 +5,11 @@
       "id": "geer-sprog"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Geer Sprog"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Geer Sprog",
+    "title": "master-inventor",
+    "image": "pim"
+  }
 }

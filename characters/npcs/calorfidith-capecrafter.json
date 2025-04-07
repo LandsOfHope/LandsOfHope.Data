@@ -5,7 +5,11 @@
       "id": "calorfidith-capecrafter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Calorfidith Capecrafter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Calorfidith Capecrafter",
+    "title": "tailor",
+    "image": "gef"
+  }
 }

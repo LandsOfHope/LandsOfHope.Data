@@ -5,7 +5,11 @@
       "id": "luna-cookiemaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Luna Cookiemaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Luna Cookiemaker",
+    "title": "cook",
+    "image": "elf"
+  }
 }

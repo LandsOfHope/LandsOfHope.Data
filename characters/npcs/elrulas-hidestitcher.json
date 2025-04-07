@@ -5,7 +5,11 @@
       "id": "elrulas-hidestitcher"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elm",
-  "name": "Elrulas Hidestitcher"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Elrulas Hidestitcher",
+    "title": "master-leatherworker",
+    "image": "elm"
+  }
 }

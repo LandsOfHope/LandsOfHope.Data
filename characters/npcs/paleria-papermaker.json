@@ -5,7 +5,11 @@
       "id": "paleria-papermaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pif",
-  "name": "Paleria Papermaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Paleria Papermaker",
+    "title": "furnisher",
+    "image": "pif"
+  }
 }

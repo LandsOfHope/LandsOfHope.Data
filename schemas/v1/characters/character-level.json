@@ -1,0 +1,40 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-level.json",
+    "type": "object",
+    "title": "CharacterLevel",
+    "oneOf": [
+        {
+            "type": "object",
+            "properties": {
+                "primary": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "exclusiveMaximum": 1000
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "primary"
+            ]
+        },
+        {
+            "type": "object",
+            "properties": {
+                "primary": {
+                    "const": 1000
+                },
+                "sub": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 10000
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "primary",
+                "sub"
+            ]
+        }
+    ],
+    "additionalProperties": false
+}

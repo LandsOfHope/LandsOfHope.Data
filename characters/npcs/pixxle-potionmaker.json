@@ -5,7 +5,11 @@
       "id": "pixxle-potionmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Pixxle Potionmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Pixxle Potionmaker",
+    "title": "alchemist",
+    "image": "pim"
+  }
 }

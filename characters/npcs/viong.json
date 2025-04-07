@@ -5,7 +5,11 @@
       "id": "viong"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Viong"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Viong",
+    "title": "leatherworker",
+    "image": "gef"
+  }
 }

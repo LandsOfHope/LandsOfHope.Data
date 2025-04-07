@@ -5,7 +5,11 @@
       "id": "urethiel-stonecarver"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Urethiel Stonecarver"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Urethiel Stonecarver",
+    "title": "stonemason",
+    "image": "elf"
+  }
 }

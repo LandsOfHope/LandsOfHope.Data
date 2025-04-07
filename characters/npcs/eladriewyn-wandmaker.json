@@ -5,7 +5,11 @@
       "id": "eladriewyn-wandmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Eladriewyn Wandmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Eladriewyn Wandmaker",
+    "title": "stonemason",
+    "image": "gem"
+  }
 }

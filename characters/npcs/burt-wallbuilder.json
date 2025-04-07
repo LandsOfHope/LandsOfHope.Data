@@ -5,7 +5,11 @@
       "id": "burt-wallbuilder"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Burt Wallbuilder"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Burt Wallbuilder",
+    "title": "architect",
+    "image": "hum"
+  }
 }

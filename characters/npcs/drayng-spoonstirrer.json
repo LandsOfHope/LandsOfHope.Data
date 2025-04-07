@@ -5,7 +5,11 @@
       "id": "drayng-spoonstirrer"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Drayng Spoonstirrer"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Drayng Spoonstirrer",
+    "title": "alchemist",
+    "image": "huf"
+  }
 }

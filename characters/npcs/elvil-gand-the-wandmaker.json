@@ -5,7 +5,11 @@
       "id": "elvil-gand-the-wandmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Elvil-Gand the Wandmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Elvil-Gand the Wandmaker",
+    "title": "stonemason",
+    "image": "gem"
+  }
 }

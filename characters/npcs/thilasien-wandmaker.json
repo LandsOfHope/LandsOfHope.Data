@@ -5,7 +5,11 @@
       "id": "thilasien-wandmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Thilasien Wandmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Thilasien Wandmaker",
+    "title": "stonemason",
+    "image": "haf"
+  }
 }

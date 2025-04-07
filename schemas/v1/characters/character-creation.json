@@ -28,13 +28,13 @@
                                         "hermit"
                                     ]
                                 },
-                                "pictureId": {
+                                "image": {
                                     "$ref": "/schemas/v1/characters-creation-standard-images.gen.json"
                                 }
                             },
                             "required": [
                                 "profession",
-                                "pictureId"
+                                "image"
                             ]
                         }
                     ]
@@ -66,14 +66,14 @@
                                 "profession": {
                                     "const": "hag"
                                 },
-                                "pictureId": {
+                                "image": {
                                     "$ref": "/schemas/v1/characters-creation-hag-images.gen.json"
                                 }
                             },
                             "required": [
                                 "sex",
                                 "profession",
-                                "pictureId"
+                                "image"
                             ]
                         }
                     ]
@@ -127,7 +127,7 @@
                                         "profession": {
                                             "const": "navy-privateer"
                                         },
-                                        "pictureId": {
+                                        "image": {
                                             "oneOf": [
                                                 {
                                                     "$ref": "/schemas/v1/characters-creation-uncharted-waters-navy-images.gen.json"
@@ -140,7 +140,7 @@
                                     },
                                     "required": [
                                         "profession",
-                                        "pictureId"
+                                        "image"
                                     ]
                                 },
                                 {
@@ -149,7 +149,7 @@
                                         "profession": {
                                             "const": "league-privateer"
                                         },
-                                        "pictureId": {
+                                        "image": {
                                             "oneOf": [
                                                 {
                                                     "$ref": "/schemas/v1/characters-creation-uncharted-waters-pirate-images.gen.json"
@@ -162,7 +162,7 @@
                                     },
                                     "required": [
                                         "profession",
-                                        "pictureId"
+                                        "image"
                                     ]
                                 }
                             ]
@@ -193,7 +193,7 @@
                                 "profession": {
                                     "const": "stargazer"
                                 },
-                                "pictureId": {
+                                "image": {
                                     "oneOf": [
                                         {
                                             "$ref": "/schemas/v1/characters-creation-stargazer-images.gen.json"
@@ -206,7 +206,7 @@
                             },
                             "required": [
                                 "profession",
-                                "pictureId"
+                                "image"
                             ]
                         }
                     ]

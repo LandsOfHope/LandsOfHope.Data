@@ -5,7 +5,11 @@
       "id": "uronia-castlebuilder"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Uronia Castlebuilder"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Uronia Castlebuilder",
+    "title": "architect",
+    "image": "gef"
+  }
 }

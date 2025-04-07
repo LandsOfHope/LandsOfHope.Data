@@ -5,7 +5,11 @@
       "id": "woamma-vestmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Woamma Vestmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Woamma Vestmaker",
+    "title": "blacksmith",
+    "image": "haf"
+  }
 }

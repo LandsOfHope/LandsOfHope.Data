@@ -5,7 +5,11 @@
       "id": "elvithiel-steelhands"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Elvithiel Steelhands"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Elvithiel Steelhands",
+    "title": "blacksmith",
+    "image": "elf"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "lothig-the-surgeon"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "ham",
-  "name": "Lothig the Surgeon"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Lothig the Surgeon",
+    "title": "surgery-trainer",
+    "image": "ham"
+  }
 }

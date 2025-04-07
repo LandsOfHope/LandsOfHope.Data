@@ -5,7 +5,11 @@
       "id": "frohaband-tonicbrewer"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Frohaband Tonicbrewer"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Frohaband Tonicbrewer",
+    "title": "alchemist",
+    "image": "hum"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "curali-the-woodshaper"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Curali the Woodshaper"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Curali the Woodshaper",
+    "title": "carpenter",
+    "image": "elf"
+  }
 }

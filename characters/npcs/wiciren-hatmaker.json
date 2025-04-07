@@ -5,7 +5,11 @@
       "id": "wiciren-hatmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Wiciren Hatmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Wiciren Hatmaker",
+    "title": "tailor",
+    "image": "haf"
+  }
 }

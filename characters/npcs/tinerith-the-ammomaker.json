@@ -5,7 +5,11 @@
       "id": "tinerith-the-ammomaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Tinerith the Ammomaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Tinerith the Ammomaker",
+    "title": "inventor",
+    "image": "gef"
+  }
 }

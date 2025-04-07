@@ -5,7 +5,11 @@
       "id": "tarra-hidecutter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Tarra Hidecutter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Tarra Hidecutter",
+    "title": "leatherworker",
+    "image": "gef"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "misty-dartmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pif",
-  "name": "Misty Dartmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Misty Dartmaker",
+    "title": "tinkerer",
+    "image": "pif"
+  }
 }

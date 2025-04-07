@@ -5,7 +5,11 @@
       "id": "threbrind-rockdigger"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elm",
-  "name": "Threbrind Rockdigger"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Threbrind Rockdigger",
+    "title": "stonemason",
+    "image": "elm"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "sally-shipmistress"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pirate6",
-  "name": "Sally Shipmistress"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Sally Shipmistress",
+    "title": "seamanship-trainer",
+    "image": "pirate6"
+  }
 }

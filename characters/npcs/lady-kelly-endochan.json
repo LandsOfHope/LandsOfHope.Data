@@ -5,7 +5,11 @@
       "id": "lady-kelly-endochan"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "asif2",
-  "name": "Lady Kelly Endochan"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Lady Kelly Endochan",
+    "title": "lordship-trainer",
+    "image": "asif2"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "legendra-guildbuilder"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Legendra Guildbuilder"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Legendra Guildbuilder",
+    "title": "architect",
+    "image": "gef"
+  }
 }

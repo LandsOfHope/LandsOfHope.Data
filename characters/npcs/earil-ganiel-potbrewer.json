@@ -5,7 +5,11 @@
       "id": "earil-ganiel-potbrewer"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Earil-Ganiel Potbrewer"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Earil-Ganiel Potbrewer",
+    "title": "alchemist",
+    "image": "gef"
+  }
 }

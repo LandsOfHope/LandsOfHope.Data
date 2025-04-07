@@ -5,7 +5,11 @@
       "id": "rhiali-gadgetmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Rhiali Gadgetmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Rhiali Gadgetmaker",
+    "title": "inventor",
+    "image": "hum"
+  }
 }

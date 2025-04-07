@@ -5,7 +5,11 @@
       "id": "delana-deskmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Delana Deskmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Delana Deskmaker",
+    "title": "furnisher",
+    "image": "gef"
+  }
 }

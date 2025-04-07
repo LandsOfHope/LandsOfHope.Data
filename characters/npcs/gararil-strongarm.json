@@ -5,7 +5,11 @@
       "id": "gararil-strongarm"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Gararil Strongarm"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Gararil Strongarm",
+    "title": "blacksmith",
+    "image": "gem"
+  }
 }

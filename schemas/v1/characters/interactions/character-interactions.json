@@ -5,7 +5,10 @@
     "propertyNames": {
         "enum": [
             "talk",
-            "quests"
+            "quests",
+            "emote",
+            "appraise",
+            "trade"
         ]
     },
     "patternProperties": {
@@ -13,6 +16,18 @@
             "oneOf": [
                 {
                     "$ref": "/schemas/v1/characters/interactions/character-interaction-buy-recipes.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/interactions/character-interaction-emote.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/interactions/character-interaction-appraise.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/interactions/character-interaction-message.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/interactions/character-interaction-trade.json"
                 }
             ]
         }

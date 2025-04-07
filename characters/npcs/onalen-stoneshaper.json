@@ -5,7 +5,11 @@
       "id": "onalen-stoneshaper"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Onalen Stoneshaper"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Onalen Stoneshaper",
+    "title": "stonemason",
+    "image": "huf"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "aymwen-strongstitch"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Aymwen Strongstitch"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Aymwen Strongstitch",
+    "title": "leatherworker",
+    "image": "haf"
+  }
 }

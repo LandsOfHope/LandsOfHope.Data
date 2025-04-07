@@ -5,7 +5,11 @@
       "id": "thrydith"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Thrydith"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Thrydith",
+    "title": "architect",
+    "image": "elf"
+  }
 }

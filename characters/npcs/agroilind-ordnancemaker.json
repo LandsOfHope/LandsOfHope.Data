@@ -5,7 +5,11 @@
       "id": "agroilind-ordnancemaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Agroilind Ordnancemaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Agroilind Ordnancemaker",
+    "title": "tinkerer",
+    "image": "huf"
+  }
 }

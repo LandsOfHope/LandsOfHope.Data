@@ -5,7 +5,11 @@
       "id": "gladriede-wandcrafter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Gladriedë Wandcrafter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Gladriedë Wandcrafter",
+    "title": "stonemason",
+    "image": "elf"
+  }
 }

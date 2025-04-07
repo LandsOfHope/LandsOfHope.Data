@@ -5,7 +5,11 @@
       "id": "eduth-stonechiseler"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "ham",
-  "name": "Eduth Stonechiseler"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Eduth Stonechiseler",
+    "title": "stonemason",
+    "image": "ham"
+  }
 }

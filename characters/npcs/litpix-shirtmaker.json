@@ -5,7 +5,11 @@
       "id": "litpix-shirtmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pif",
-  "name": "Litpix Shirtmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Litpix Shirtmaker",
+    "title": "tailor",
+    "image": "pif"
+  }
 }

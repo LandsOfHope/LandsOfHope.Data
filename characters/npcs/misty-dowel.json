@@ -5,7 +5,11 @@
       "id": "misty-dowel"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Misty Dowel"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Misty Dowel",
+    "title": "carpenter",
+    "image": "elf"
+  }
 }

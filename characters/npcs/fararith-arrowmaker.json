@@ -5,7 +5,11 @@
       "id": "fararith-arrowmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Fararith Arrowmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Fararith Arrowmaker",
+    "title": "carpenter",
+    "image": "gef"
+  }
 }

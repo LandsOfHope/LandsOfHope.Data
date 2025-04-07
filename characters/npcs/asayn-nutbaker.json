@@ -5,7 +5,11 @@
       "id": "asayn-nutbaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Asayn Nutbaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Asayn Nutbaker",
+    "title": "cook",
+    "image": "huf"
+  }
 }

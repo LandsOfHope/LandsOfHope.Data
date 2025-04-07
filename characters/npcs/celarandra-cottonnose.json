@@ -5,7 +5,11 @@
       "id": "celarandra-cottonnose"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Celarandra Cottonnose"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Celarandra Cottonnose",
+    "title": "cook",
+    "image": "elf"
+  }
 }

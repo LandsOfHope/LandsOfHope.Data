@@ -5,7 +5,11 @@
       "id": "afigonia-the-cook"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Afigonia the Cook"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Afigonia the Cook",
+    "title": "master-cook",
+    "image": "huf"
+  }
 }

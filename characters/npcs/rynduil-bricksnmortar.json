@@ -5,7 +5,11 @@
       "id": "rynduil-bricksnmortar"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elm",
-  "name": "Rynduil Bricksnmortar"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Rynduil Bricksnmortar",
+    "title": "architect",
+    "image": "elm"
+  }
 }

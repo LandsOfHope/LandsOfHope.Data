@@ -5,7 +5,11 @@
       "id": "gregory-gunmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "uwam",
-  "name": "Gregory Gunmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Gregory Gunmaker",
+    "title": "seaman",
+    "image": "uwam"
+  }
 }

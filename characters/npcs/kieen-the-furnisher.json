@@ -5,7 +5,11 @@
       "id": "kieen-the-furnisher"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Kieen the Furnisher"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Kieen the Furnisher",
+    "title": "furnisher",
+    "image": "pim"
+  }
 }

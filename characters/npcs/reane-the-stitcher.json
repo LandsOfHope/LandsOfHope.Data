@@ -5,7 +5,11 @@
       "id": "reane-the-stitcher"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pif",
-  "name": "Reane the Stitcher"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Reane the Stitcher",
+    "title": "tailor",
+    "image": "pif"
+  }
 }

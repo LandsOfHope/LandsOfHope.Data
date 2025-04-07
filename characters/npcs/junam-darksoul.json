@@ -5,7 +5,11 @@
       "id": "junam-darksoul"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "ham",
-  "name": "Junam Darksoul"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Junam Darksoul",
+    "title": "dungeon-builder",
+    "image": "ham"
+  }
 }

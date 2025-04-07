@@ -5,7 +5,11 @@
       "id": "crank"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "sohuf2",
-  "name": "Crank"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Crank",
+    "title": "bolt-trainer",
+    "image": "sohuf2"
+  }
 }

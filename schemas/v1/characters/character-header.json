@@ -1,0 +1,24 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-header.json",
+    "type": "object",
+    "title": "CharacterHeader",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/character-header"
+        },
+        "appearance": {
+            "$ref": "/schemas/v1/characters/appearance-profile.json"
+        },
+        "level": {
+            "$ref": "/schemas/v1/characters/character-level.json"
+        },
+        "interactions": {
+            "$ref": "/schemas/v1/characters/interactions/character-interactions.json"
+        }
+    },
+    "required": [
+        "$type",
+        "appearance",
+        "interactions"
+    ]
+}

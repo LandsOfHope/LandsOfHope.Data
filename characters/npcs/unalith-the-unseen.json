@@ -5,7 +5,11 @@
       "id": "unalith-the-unseen"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elm",
-  "name": "Unalith the Unseen"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Unalith the Unseen",
+    "title": "alchemist",
+    "image": "elm"
+  }
 }

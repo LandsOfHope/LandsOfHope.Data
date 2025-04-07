@@ -5,7 +5,11 @@
       "id": "aleria-bubblesalot"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "wi2",
-  "name": "Aleria Bubblesalot"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Aleria Bubblesalot",
+    "title": "alchemist",
+    "image": "wi2"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "seaman-seamus"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pirate8",
-  "name": "Seaman Seamus"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Seaman Seamus",
+    "title": "seamanship-trainer",
+    "image": "pirate8"
+  }
 }

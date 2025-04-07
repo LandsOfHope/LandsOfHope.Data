@@ -5,7 +5,11 @@
       "id": "melisa-hellborn"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Melisa Hellborn"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Melisa Hellborn",
+    "title": "leatherworker",
+    "image": "haf"
+  }
 }

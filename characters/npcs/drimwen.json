@@ -5,7 +5,11 @@
       "id": "drimwen"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Drimwen"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Drimwen",
+    "title": "furnisher",
+    "image": "huf"
+  }
 }

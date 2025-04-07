@@ -5,7 +5,11 @@
       "id": "fil-garil-pantstitcher"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elm",
-  "name": "Fil-Garil Pantstitcher"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Fil-Garil Pantstitcher",
+    "title": "tailor",
+    "image": "elm"
+  }
 }

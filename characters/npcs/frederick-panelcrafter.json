@@ -5,7 +5,11 @@
       "id": "frederick-panelcrafter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "ham",
-  "name": "Frederick Panelcrafter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Frederick Panelcrafter",
+    "title": "master-furnisher",
+    "image": "ham"
+  }
 }

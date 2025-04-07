@@ -5,7 +5,11 @@
       "id": "trixie-threadfitter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pif",
-  "name": "Trixie Threadfitter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Trixie Threadfitter",
+    "title": "tailor",
+    "image": "pif"
+  }
 }

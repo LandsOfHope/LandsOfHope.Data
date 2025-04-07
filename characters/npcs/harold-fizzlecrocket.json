@@ -5,7 +5,11 @@
       "id": "harold-fizzlecrocket"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Harold Fizzlecrocket"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Harold Fizzlecrocket",
+    "title": "tinkerer",
+    "image": "hum"
+  }
 }

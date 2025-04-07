@@ -5,7 +5,11 @@
       "id": "pedazzle-vestmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Pedazzle Vestmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Pedazzle Vestmaker",
+    "title": "blacksmith",
+    "image": "pim"
+  }
 }

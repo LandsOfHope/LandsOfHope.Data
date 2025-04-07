@@ -7,10 +7,10 @@
             "$type": "/v1/chat/chat-participant",
             "id": "chatpartid_57851349",
             "color": "00688B",
-            "profile": {
+            "appearance": {
                 "name": "Cedrigord Drowslobberer",
                 "title": "master",
-                "pictureID": "gym",
+                "image": "gym",
                 "$type": "/v1/characters/appearance-profile"
             }
         },

@@ -5,7 +5,11 @@
       "id": "danielsan"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "asim2",
-  "name": "Danielsan"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Danielsan",
+    "title": "parlor-trick-trainer",
+    "image": "asim2"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "gubbins"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "blam1",
-  "name": "Gubbins"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Gubbins",
+    "title": "bloody-trainer",
+    "image": "blam1"
+  }
 }

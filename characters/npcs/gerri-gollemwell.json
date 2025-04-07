@@ -5,7 +5,11 @@
       "id": "gerri-gollemwell"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "artf1",
-  "name": "Gerri Gollemwell"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Gerri Gollemwell",
+    "title": "animation-trainer",
+    "image": "artf1"
+  }
 }

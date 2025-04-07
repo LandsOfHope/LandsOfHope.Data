@@ -4,7 +4,7 @@
         "name": "Happy",
         "sex": "M",
         "profession": "stargazer",
-        "pictureId": "starm1"
+        "image": "starm1"
     },
     "additionalArgs": {
         "$type": "/v1/characters/creation/stargazer-creation-args",

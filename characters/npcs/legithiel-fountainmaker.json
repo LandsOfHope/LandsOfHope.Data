@@ -5,7 +5,11 @@
       "id": "legithiel-fountainmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Legithiel Fountainmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Legithiel Fountainmaker",
+    "title": "furnisher",
+    "image": "elf"
+  }
 }

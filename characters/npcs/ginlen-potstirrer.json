@@ -5,7 +5,11 @@
       "id": "ginlen-potstirrer"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Ginlen Potstirrer"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Ginlen Potstirrer",
+    "title": "alchemist",
+    "image": "pim"
+  }
 }

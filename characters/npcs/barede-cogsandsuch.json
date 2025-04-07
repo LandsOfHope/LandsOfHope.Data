@@ -5,7 +5,11 @@
       "id": "barede-cogsandsuch"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Barede Cogsandsuch"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Barede Cogsandsuch",
+    "title": "inventor",
+    "image": "huf"
+  }
 }

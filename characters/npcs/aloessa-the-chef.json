@@ -5,7 +5,11 @@
       "id": "aloessa-the-chef"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Aloessa the Chef"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Aloessa the Chef",
+    "title": "cook",
+    "image": "haf"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "lars-beatenhammer"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Lars Beatenhammer"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Lars Beatenhammer",
+    "title": "blacksmith",
+    "image": "pim"
+  }
 }

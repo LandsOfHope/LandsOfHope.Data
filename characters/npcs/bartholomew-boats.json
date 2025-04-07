@@ -5,7 +5,11 @@
       "id": "bartholomew-boats"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pirate5",
-  "name": "Bartholomew Boats"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Bartholomew Boats",
+    "title": "odd-plan-peddler",
+    "image": "pirate5"
+  }
 }

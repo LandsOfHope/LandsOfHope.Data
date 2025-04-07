@@ -5,7 +5,11 @@
       "id": "laren-silverbeard"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "dwf",
-  "name": "Laren Silverbeard"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Laren Silverbeard",
+    "title": "blacksmith",
+    "image": "dwf"
+  }
 }

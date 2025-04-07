@@ -5,7 +5,11 @@
       "id": "bawen-stonecarver"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Bawen Stonecarver"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Bawen Stonecarver",
+    "title": "stonemason",
+    "image": "huf"
+  }
 }

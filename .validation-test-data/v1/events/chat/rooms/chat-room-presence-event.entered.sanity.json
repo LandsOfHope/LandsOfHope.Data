@@ -3,11 +3,11 @@
     "participant": {
         "$type": "/v1/chat/chat-participant",
         "id": "chatpartid_TEST_PARTICIPANT_ID",
-        "profile": {
+        "appearance": {
             "$type": "/v1/characters/appearance-profile",
             "name": "Test",
             "title": "rogue",
-            "pictureID": "sohum1"
+            "image": "sohum1"
         },
         "color": "ffffff"
     },

@@ -5,7 +5,11 @@
       "id": "clawsitch"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gym",
-  "name": "Clawsitch"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Clawsitch",
+    "title": "leatherworker",
+    "image": "gym"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "haeilith-the-charmmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Haeilith the Charmmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Haeilith the Charmmaker",
+    "title": "carpenter",
+    "image": "huf"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "cibeth-towermaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Cibeth Towermaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Cibeth Towermaker",
+    "title": "architect",
+    "image": "haf"
+  }
 }

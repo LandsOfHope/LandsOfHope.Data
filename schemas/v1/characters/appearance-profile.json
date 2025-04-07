@@ -19,7 +19,7 @@
                 }
             ]
         },
-        "pictureID": {
+        "image": {
             "$ref": "/schemas/v1/characters-images-id.gen.json"
         }
     },
@@ -28,6 +28,6 @@
         "$type",
         "name",
         "title",
-        "pictureID"
+        "image"
     ]
 }

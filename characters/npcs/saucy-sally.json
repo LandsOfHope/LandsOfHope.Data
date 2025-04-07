@@ -5,7 +5,11 @@
       "id": "saucy-sally"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pirate6",
-  "name": "Saucy Sally"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Saucy Sally",
+    "title": "serving-wench",
+    "image": "pirate6"
+  }
 }

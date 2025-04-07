@@ -1,0 +1,15 @@
+{
+  "interactions": {
+    "talk": {
+      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "id": "ralf-the-renovator"
+    }
+  },
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Ralf the Renovator",
+    "title": "renovator",
+    "image": "lem"
+  }
+}

@@ -5,7 +5,11 @@
       "id": "cil-galas"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Cil-Galas"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Cil-Galas",
+    "title": "dungeon-keeper",
+    "image": "gem"
+  }
 }

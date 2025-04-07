@@ -5,7 +5,11 @@
       "id": "sader-dartmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Sader Dartmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Sader Dartmaker",
+    "title": "tinkerer",
+    "image": "pim"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "eroedus-shirtmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "ham",
-  "name": "Eroedus Shirtmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Eroedus Shirtmaker",
+    "title": "tailor",
+    "image": "ham"
+  }
 }

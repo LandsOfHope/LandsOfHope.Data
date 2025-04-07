@@ -5,7 +5,11 @@
       "id": "bannerina-bibbity"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "mjphag2",
-  "name": "Bannerina Bibbity"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Bannerina Bibbity",
+    "title": "bewitching-trainer",
+    "image": "mjphag2"
+  }
 }

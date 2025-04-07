@@ -13,7 +13,7 @@
         "color": {
             "$ref": "/schemas/v1/chat/chat-color.json"
         },
-        "profile": {
+        "appearance": {
             "$ref": "/schemas/v1/characters/appearance-profile.json"
         }
     },
@@ -21,6 +21,6 @@
         "$type",
         "id",
         "color",
-        "profile"
+        "appearance"
     ]
 }

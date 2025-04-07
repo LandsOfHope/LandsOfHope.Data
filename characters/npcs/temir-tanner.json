@@ -5,7 +5,11 @@
       "id": "temir-tanner"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Temir Tanner"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Temir Tanner",
+    "title": "leatherworker",
+    "image": "gem"
+  }
 }

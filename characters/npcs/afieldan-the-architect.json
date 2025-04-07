@@ -5,7 +5,11 @@
       "id": "afieldan-the-architect"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Afieldan the Architect"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Afieldan the Architect",
+    "title": "architect",
+    "image": "hum"
+  }
 }

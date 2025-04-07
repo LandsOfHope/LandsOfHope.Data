@@ -5,7 +5,11 @@
       "id": "april-the-cook"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "April the Cook"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "April the Cook",
+    "title": "cook",
+    "image": "elf"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "monny"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Monny"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Monny",
+    "title": "architect",
+    "image": "pim"
+  }
 }

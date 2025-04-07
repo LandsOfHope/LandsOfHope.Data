@@ -5,7 +5,11 @@
       "id": "varren-the-smith"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "dwm",
-  "name": "Varren the Smith"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Varren the Smith",
+    "title": "blacksmith",
+    "image": "dwm"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "uleragord-towncrafter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Uleragord Towncrafter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Uleragord Towncrafter",
+    "title": "architect",
+    "image": "hum"
+  }
 }

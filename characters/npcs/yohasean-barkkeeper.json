@@ -5,7 +5,11 @@
       "id": "yohasean-barkkeeper"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Yohasean Barkkeeper"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Yohasean Barkkeeper",
+    "title": "carpenter",
+    "image": "hum"
+  }
 }

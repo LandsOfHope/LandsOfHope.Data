@@ -5,7 +5,11 @@
       "id": "brayllan-the-furnisher"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Brayllan the Furnisher"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Brayllan the Furnisher",
+    "title": "furnisher",
+    "image": "haf"
+  }
 }

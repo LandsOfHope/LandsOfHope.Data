@@ -5,7 +5,11 @@
       "id": "isebrilith-breadbaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Isebrilith Breadbaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Isebrilith Breadbaker",
+    "title": "cook",
+    "image": "gef"
+  }
 }

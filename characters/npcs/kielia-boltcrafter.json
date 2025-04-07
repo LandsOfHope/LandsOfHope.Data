@@ -5,7 +5,11 @@
       "id": "kielia-boltcrafter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Kielia Boltcrafter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Kielia Boltcrafter",
+    "title": "tinkerer",
+    "image": "haf"
+  }
 }

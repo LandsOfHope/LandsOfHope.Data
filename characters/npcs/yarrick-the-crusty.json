@@ -5,7 +5,11 @@
       "id": "yarrick-the-crusty"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pirate8",
-  "name": "Yarrick the Crusty"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Yarrick the Crusty",
+    "title": "seamanship-trainer",
+    "image": "pirate8"
+  }
 }

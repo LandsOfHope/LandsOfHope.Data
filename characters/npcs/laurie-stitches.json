@@ -5,7 +5,11 @@
       "id": "laurie-stitches"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Laurie Stitches"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Laurie Stitches",
+    "title": "leatherworker",
+    "image": "haf"
+  }
 }

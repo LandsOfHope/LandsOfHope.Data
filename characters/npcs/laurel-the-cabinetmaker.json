@@ -5,7 +5,11 @@
       "id": "laurel-the-cabinetmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "lc1",
-  "name": "Laurel the Cabinetmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Laurel the Cabinetmaker",
+    "title": "furnisher",
+    "image": "lc1"
+  }
 }

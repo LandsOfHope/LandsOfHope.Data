@@ -5,7 +5,11 @@
       "id": "vewiel-planmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Vewiel Planmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Vewiel Planmaker",
+    "title": "architect",
+    "image": "elf"
+  }
 }

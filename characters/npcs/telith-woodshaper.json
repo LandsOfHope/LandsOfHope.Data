@@ -5,7 +5,11 @@
       "id": "telith-woodshaper"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Telith Woodshaper"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Telith Woodshaper",
+    "title": "furnisher",
+    "image": "haf"
+  }
 }

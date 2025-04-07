@@ -5,7 +5,11 @@
       "id": "veawyn-tanners"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Veawyn Tanners"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Veawyn Tanners",
+    "title": "leatherworker",
+    "image": "hum"
+  }
 }

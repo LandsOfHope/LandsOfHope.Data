@@ -5,7 +5,11 @@
       "id": "barty-dredger"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pirate7",
-  "name": "Barty Dredger"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Barty Dredger",
+    "title": "old-sea-dog",
+    "image": "pirate7"
+  }
 }

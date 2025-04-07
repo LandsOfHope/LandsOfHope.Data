@@ -5,7 +5,11 @@
       "id": "asealdan-hidemaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Asealdan Hidemaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Asealdan Hidemaker",
+    "title": "leatherworker",
+    "image": "hum"
+  }
 }

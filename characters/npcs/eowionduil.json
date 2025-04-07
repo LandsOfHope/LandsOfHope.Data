@@ -5,7 +5,11 @@
       "id": "eowionduil"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Eowionduil"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Eowionduil",
+    "title": "architect",
+    "image": "gem"
+  }
 }

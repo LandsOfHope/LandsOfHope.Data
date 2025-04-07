@@ -13,7 +13,7 @@
         "participant": {
             "$ref": "/schemas/v1/chat/chat-participant-id.json"
         },
-        "profile": {
+        "appearance": {
             "$ref": "/schemas/v1/characters/appearance-profile.json"
         }
     },
@@ -21,6 +21,6 @@
         "$type",
         "raw",
         "participant",
-        "profile"
+        "appearance"
     ]
 }

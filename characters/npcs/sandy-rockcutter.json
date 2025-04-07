@@ -5,7 +5,11 @@
       "id": "sandy-rockcutter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "smf",
-  "name": "Sandy Rockcutter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Sandy Rockcutter",
+    "title": "stonemason",
+    "image": "smf"
+  }
 }

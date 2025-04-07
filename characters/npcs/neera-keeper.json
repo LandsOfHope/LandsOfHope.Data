@@ -5,7 +5,11 @@
       "id": "neera-keeper"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "dwf",
-  "name": "Neera Keeper"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Neera Keeper",
+    "title": "dungeon-designer",
+    "image": "dwf"
+  }
 }

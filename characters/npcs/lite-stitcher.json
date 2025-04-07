@@ -5,7 +5,11 @@
       "id": "lite-stitcher"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Lite Stitcher"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Lite Stitcher",
+    "title": "master-tailor",
+    "image": "pim"
+  }
 }

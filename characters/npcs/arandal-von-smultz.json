@@ -5,7 +5,11 @@
       "id": "arandal-von-smultz"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hmcr1",
-  "name": "Arandal von Smultz"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Arandal von Smultz",
+    "title": "artisan-trainer",
+    "image": "hmcr1"
+  }
 }

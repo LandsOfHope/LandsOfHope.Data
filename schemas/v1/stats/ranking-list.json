@@ -22,7 +22,7 @@
                             "level": {
                                 "type": "number"
                             },
-                            "pictureID": {
+                            "image": {
                                 "$ref": "/schemas/v1/characters-images-id.gen.json"
                             }
                         }
@@ -50,7 +50,7 @@
                             "strength": {
                                 "type": "integer"
                             },
-                            "pictureID": {
+                            "image": {
                                 "$ref": "/schemas/v1/characters-images-id.gen.json"
                             }
                         }
@@ -78,7 +78,7 @@
                             "intelligence": {
                                 "type": "integer"
                             },
-                            "pictureID": {
+                            "image": {
                                 "$ref": "/schemas/v1/characters-images-id.gen.json"
                             }
                         }

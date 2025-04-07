@@ -5,7 +5,11 @@
       "id": "earorfin-the-hatmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elm",
-  "name": "Earorfin the Hatmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Earorfin the Hatmaker",
+    "title": "tailor",
+    "image": "elm"
+  }
 }

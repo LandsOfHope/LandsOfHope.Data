@@ -5,7 +5,11 @@
       "id": "rardodien-the-cook"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Rardodien the Cook"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Rardodien the Cook",
+    "title": "cook",
+    "image": "haf"
+  }
 }

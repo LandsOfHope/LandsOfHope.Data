@@ -5,7 +5,11 @@
       "id": "rong-pyramidbuilder"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Rong Pyramidbuilder"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Rong Pyramidbuilder",
+    "title": "architect",
+    "image": "gef"
+  }
 }

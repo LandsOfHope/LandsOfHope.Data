@@ -5,7 +5,11 @@
       "id": "unand-arrowcrafter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Unand Arrowcrafter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Unand Arrowcrafter",
+    "title": "carpenter",
+    "image": "gem"
+  }
 }

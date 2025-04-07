@@ -5,7 +5,11 @@
       "id": "qilildan-girthmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "ham",
-  "name": "Qilildan Girthmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Qilildan Girthmaker",
+    "title": "leatherworker",
+    "image": "ham"
+  }
 }

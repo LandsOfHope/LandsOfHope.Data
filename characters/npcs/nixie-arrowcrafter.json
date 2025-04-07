@@ -5,7 +5,11 @@
       "id": "nixie-arrowcrafter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pif",
-  "name": "Nixie Arrowcrafter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Nixie Arrowcrafter",
+    "title": "carpenter",
+    "image": "pif"
+  }
 }

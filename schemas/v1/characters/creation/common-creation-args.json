@@ -15,7 +15,7 @@
         "sex": {
             "$ref": "/schemas/v0/characters/character-sex.json"
         },
-        "pictureId": {
+        "image": {
             "$ref": "/schemas/v1/characters-images-id.gen.json"
         }
     },
@@ -24,7 +24,7 @@
         "name",
         "profession",
         "sex",
-        "pictureId"
+        "image"
     ],
     "additionalProperties": false
 }

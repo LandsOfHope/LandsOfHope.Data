@@ -5,7 +5,11 @@
       "id": "anynduil-such"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elm",
-  "name": "Anynduil Such"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Anynduil Such",
+    "title": "tailor",
+    "image": "elm"
+  }
 }

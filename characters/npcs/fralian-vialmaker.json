@@ -5,7 +5,11 @@
       "id": "fralian-vialmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "haf",
-  "name": "Fralian Vialmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Fralian Vialmaker",
+    "title": "alchemist",
+    "image": "haf"
+  }
 }

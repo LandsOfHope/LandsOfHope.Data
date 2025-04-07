@@ -5,7 +5,11 @@
       "id": "gyndil-cloakmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Gyndil Cloakmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Gyndil Cloakmaker",
+    "title": "tailor",
+    "image": "gem"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "davina"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "ipf",
-  "name": "Davina"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Davina",
+    "title": "ignors-apprentice",
+    "image": "ipf"
+  }
 }

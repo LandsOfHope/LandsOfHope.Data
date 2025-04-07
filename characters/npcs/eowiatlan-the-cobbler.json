@@ -5,7 +5,11 @@
       "id": "eowiatlan-the-cobbler"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Eowiatlan the Cobbler"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Eowiatlan the Cobbler",
+    "title": "leatherworker",
+    "image": "hum"
+  }
 }

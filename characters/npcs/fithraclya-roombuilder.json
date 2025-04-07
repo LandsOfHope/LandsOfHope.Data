@@ -5,7 +5,11 @@
       "id": "fithraclya-roombuilder"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Fithraclya Roombuilder"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Fithraclya Roombuilder",
+    "title": "renovator",
+    "image": "elf"
+  }
 }

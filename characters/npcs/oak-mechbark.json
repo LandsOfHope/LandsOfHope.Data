@@ -5,7 +5,11 @@
       "id": "oak-mechbark"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "tem",
-  "name": "Oak Mechbark"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Oak Mechbark",
+    "title": "inventor",
+    "image": "tem"
+  }
 }

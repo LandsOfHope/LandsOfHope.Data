@@ -5,7 +5,11 @@
       "id": "nydelassi-hammerfist"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Nydelassi Hammerfist"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Nydelassi Hammerfist",
+    "title": "blacksmith",
+    "image": "huf"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "wizzlefixit"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Wizzlefixit"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Wizzlefixit",
+    "title": "carpenter",
+    "image": "hum"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "rachel-the-architect"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Rachel the Architect"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Rachel the Architect",
+    "title": "architect",
+    "image": "gef"
+  }
 }

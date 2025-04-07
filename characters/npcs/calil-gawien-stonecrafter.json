@@ -5,7 +5,11 @@
       "id": "calil-gawien-stonecrafter"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "elf",
-  "name": "Calil-Gawien Stonecrafter"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Calil-Gawien Stonecrafter",
+    "title": "stonemason",
+    "image": "elf"
+  }
 }

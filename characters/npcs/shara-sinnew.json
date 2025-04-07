@@ -5,7 +5,11 @@
       "id": "shara-sinnew"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "lef",
-  "name": "Shara Sinnew"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Shara Sinnew",
+    "title": "leatherworker",
+    "image": "lef"
+  }
 }

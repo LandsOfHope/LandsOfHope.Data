@@ -5,7 +5,11 @@
       "id": "ceolorion"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Ceolorion"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Ceolorion",
+    "title": "renovator",
+    "image": "gem"
+  }
 }

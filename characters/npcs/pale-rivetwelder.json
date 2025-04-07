@@ -5,7 +5,11 @@
       "id": "pale-rivetwelder"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Pale Rivetwelder"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Pale Rivetwelder",
+    "title": "blacksmith",
+    "image": "pim"
+  }
 }

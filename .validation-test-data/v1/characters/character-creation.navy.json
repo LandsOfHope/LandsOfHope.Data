@@ -4,7 +4,7 @@
         "name": "Happy",
         "profession": "navy-privateer",
         "sex": "M",
-        "pictureId": "navy1"
+        "image": "navy1"
     },
     "additionalArgs": {
         "$type": "/v1/characters/creation/uncharted-waters/uncharted-waters-creation-args",

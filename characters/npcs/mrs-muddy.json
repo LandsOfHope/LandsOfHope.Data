@@ -5,7 +5,11 @@
       "id": "mrs-muddy"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "huf",
-  "name": "Mrs Muddy"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Mrs Muddy",
+    "title": "cook",
+    "image": "huf"
+  }
 }

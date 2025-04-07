@@ -5,7 +5,11 @@
       "id": "broev-townmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "hum",
-  "name": "Broev Townmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Broev Townmaker",
+    "title": "architect",
+    "image": "hum"
+  }
 }

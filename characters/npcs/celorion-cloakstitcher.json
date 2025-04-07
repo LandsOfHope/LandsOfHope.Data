@@ -5,7 +5,11 @@
       "id": "celorion-cloakstitcher"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gem",
-  "name": "Celorion Cloakstitcher"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Celorion Cloakstitcher",
+    "title": "tailor",
+    "image": "gem"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "fararith"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "gef",
-  "name": "Fararith"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Fararith",
+    "title": "furnisher",
+    "image": "gef"
+  }
 }

@@ -5,7 +5,11 @@
       "id": "george-cannonmaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pirate7",
-  "name": "George Cannonmaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "George Cannonmaker",
+    "title": "seamanship-trainer",
+    "image": "pirate7"
+  }
 }

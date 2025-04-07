@@ -6,11 +6,11 @@
         "sender": {
             "$type": "/v1/chat/chat-participant",
             "id": "chatpartid_TEST_PARTICIPANT_ID",
-            "profile": {
+            "appearance": {
                 "$type": "/v1/characters/appearance-profile",
                 "name": "Test",
                 "title": "rogue",
-                "pictureID": "sohum1"
+                "image": "sohum1"
             },
             "color": "ffffff"
         },
@@ -24,11 +24,11 @@
                 "$type": "/v1/chat/chat-mention",
                 "raw": "@WORLD_PARTICIPANT_ID",
                 "participant": "chatpartid_WORLD_PARTICIPANT_ID",
-                "profile": {
+                "appearance": {
                     "$type": "/v1/characters/appearance-profile",
                     "name": "World",
                     "title": "fighter",
-                    "pictureID": "sohuf1"
+                    "image": "sohuf1"
                 }
             },
             {

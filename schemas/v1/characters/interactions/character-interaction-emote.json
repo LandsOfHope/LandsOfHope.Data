@@ -1,0 +1,14 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/interactions/character-interaction-emote.json",
+    "title": "CharacterInteractionEmote",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/interactions/character-interaction-emote"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type"
+    ]
+}

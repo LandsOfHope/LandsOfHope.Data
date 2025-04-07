@@ -5,7 +5,11 @@
       "id": "teeter-roommaker"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "pim",
-  "name": "Teeter Roommaker"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Teeter Roommaker",
+    "title": "renovator",
+    "image": "pim"
+  }
 }

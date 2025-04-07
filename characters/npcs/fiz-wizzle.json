@@ -5,7 +5,11 @@
       "id": "fiz-wizzle"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "mjpmgo",
-  "name": "Fiz Wizzle"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Fiz Wizzle",
+    "title": "inventor",
+    "image": "mjpmgo"
+  }
 }

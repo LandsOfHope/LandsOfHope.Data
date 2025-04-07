@@ -5,7 +5,11 @@
       "id": "lance-the-chefs-assistant"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "ham",
-  "name": "Lance the Chefs Assistant"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Lance the Chefs Assistant",
+    "title": "cook",
+    "image": "ham"
+  }
 }

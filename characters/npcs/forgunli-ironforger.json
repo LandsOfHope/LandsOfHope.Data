@@ -5,7 +5,11 @@
       "id": "forgunli-ironforger"
     }
   },
-  "$type": "/v1/characters/character",
-  "image": "dwm",
-  "name": "Forgunli Ironforger"
+  "$type": "/v1/characters/character-header",
+  "appearance": {
+    "$type": "/v1/characters/appearance-profile",
+    "name": "Forgunli Ironforger",
+    "title": "blacksmith",
+    "image": "dwm"
+  }
 }
