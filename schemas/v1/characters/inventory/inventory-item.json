@@ -9,7 +9,7 @@
         "item": {
             "oneOf": [
                 {
-                    "$ref": "https://data.landsofhope.com/schemas/v1/item.json"
+                    "$ref": "/schemas/v1/item.json"
                 },
                 {
                     "$ref": "/schemas/v1/items-id.gen.json"
