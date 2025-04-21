@@ -6,6 +6,10 @@
         "$type": {
             "const": "/v1/characters/inventory/inventory-item"
         },
+        "id": {
+            "type": "integer",
+            "minimum": 1
+        },
         "item": {
             "oneOf": [
                 {
@@ -72,6 +76,7 @@
     "additionalProperties": false,
     "required": [
         "$type",
+        "id",
         "item",
         "level",
         "quantity"
