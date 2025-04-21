@@ -1,0 +1,67 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item-flags.json",
+    "title": "CharacterInventoryItemFlags",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/inventory/inventory-item-flags"
+        },
+        "canSet": {
+            "type": "object",
+            "properties": {
+                "noDecon": {
+                    "type": "boolean"
+                },
+                "noDrop": {
+                    "type": "boolean"
+                },
+                "noSell": {
+                    "type": "boolean"
+                },
+                "noTrade": {
+                    "type": "boolean"
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "noDecon",
+                "noDrop",
+                "noSell",
+                "noTrade"
+            ]
+        },
+        "noAuction": {
+            "type": "boolean"
+        },
+        "noBank": {
+            "type": "boolean"
+        },
+        "noChest": {
+            "type": "boolean"
+        },
+        "noDecon": {
+            "type": "boolean"
+        },
+        "noDrop": {
+            "type": "boolean"
+        },
+        "noSell": {
+            "type": "boolean"
+        },
+        "noTrade": {
+            "type": "boolean"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "canSet",
+        "noAuction",
+        "noBank",
+        "noChest",
+        "noDecon",
+        "noDrop",
+        "noSell",
+        "noTrade"
+    ]
+}

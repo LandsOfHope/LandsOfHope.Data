@@ -1,0 +1,23 @@
+{}{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/unidentified-item.json",
+    "title": "CharacterUnidentifiedItem",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/inventory/unidentified-item"
+        },
+        "image": {
+            "$ref": "/schemas/v1/items-images-id.gen.json"
+        },
+        "appraisal": {
+            "type": "integer",
+            "minimum": 5
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "image",
+        "appraisal"
+    ]
+}

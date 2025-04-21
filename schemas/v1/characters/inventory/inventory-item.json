@@ -1,0 +1,79 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item.json",
+    "title": "CharacterInventoryItem",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/inventory/inventory-item"
+        },
+        "item": {
+            "oneOf": [
+                {
+                    "$ref": "https://data.landsofhope.com/schemas/v1/item.json"
+                },
+                {
+                    "$ref": "/schemas/v1/items-id.gen.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/inventory/unidentified-item.json"
+                }
+            ]
+        },
+        "level": {
+            "type": "integer",
+            "minimum": 0
+        },
+        "quantity": {
+            "type": "integer",
+            "minimum": 1
+        },
+        "locked": {
+            "type": "object",
+            "properties": {
+                "lockpicking": {
+                    "type": "integer",
+                    "minimum": 5
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "lockpicking"
+            ]
+        },
+        "expiry": {
+            "$ref": "/schemas/v0/datetime.json"
+        },
+        "guild": {
+            "type": "integer",
+            "minimum": 1
+        },
+        "enhancements": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "bejewel": {
+                    "type": "string"
+                },
+                "imbue": {
+                    "type": "string"
+                },
+                "spell": {
+                    "type": "string"
+                },
+                "quality": {
+                    "type": "integer",
+                    "minimum": 0
+                }
+            }
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "item",
+        "level",
+        "quantity"
+    ]
+}
