@@ -31,6 +31,9 @@
             "type": "integer",
             "minimum": 1
         },
+        "location": {
+            "$ref": "/schemas/v1/items-locations-id.gen.json"
+        },
         "locked": {
             "type": "object",
             "properties": {
@@ -80,6 +83,7 @@
         "id",
         "item",
         "level",
-        "quantity"
+        "quantity",
+        "location"
     ]
 }

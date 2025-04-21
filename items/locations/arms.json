@@ -1,0 +1,12 @@
+{
+  "$type": "/v1/items/location",
+  "image": "arm",
+  "slot": {
+    "player": true,
+    "pet": false,
+    "pos": {
+      "x": 60,
+      "y": 60
+    }
+  }
+}
