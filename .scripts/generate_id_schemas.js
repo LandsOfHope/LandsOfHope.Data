@@ -30,7 +30,8 @@ const directories = (() => {
         'characters/npcs',
         'characters/npcs/recipes',
         'stats/stat-categories',
-        'stats/rankings'
+        'stats/rankings',
+        'expansions'
     ];
 })();
 const schemas = 'schemas';
