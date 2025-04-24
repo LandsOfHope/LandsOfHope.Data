@@ -12,13 +12,13 @@
         "level": {
             "$ref": "/schemas/v1/characters/character-level.json"
         },
-        "interactions": {
-            "$ref": "/schemas/v1/characters/interactions/character-interactions.json"
+        "actions": {
+            "$ref": "/schemas/v1/characters/actions/character-actions.json"
         }
     },
     "required": [
         "$type",
         "appearance",
-        "interactions"
+        "actions"
     ]
 }

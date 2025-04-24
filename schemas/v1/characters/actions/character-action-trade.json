@@ -1,0 +1,14 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/actions/character-action-trade.json",
+    "title": "CharacterActionTrade",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/actions/character-action-trade"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type"
+    ]
+}

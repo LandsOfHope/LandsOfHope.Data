@@ -1,0 +1,36 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/actions/character-actions.json",
+    "title": "CharacterActions",
+    "type": "object",
+    "propertyNames": {
+        "enum": [
+            "talk",
+            "quests",
+            "emote",
+            "appraise",
+            "trade"
+        ]
+    },
+    "patternProperties": {
+        ".*": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/characters/actions/character-action-buy-recipes.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/actions/character-action-emote.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/actions/character-action-appraise.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/actions/character-action-message.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/actions/character-action-trade.json"
+                }
+            ]
+        }
+    },
+    "additionalProperties": false
+}

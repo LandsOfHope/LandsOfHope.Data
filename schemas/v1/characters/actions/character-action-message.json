@@ -1,0 +1,14 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/actions/character-action-message.json",
+    "title": "CharacterActionMessage",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/actions/character-action-message"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type"
+    ]
+}

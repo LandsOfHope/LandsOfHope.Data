@@ -1,7 +1,7 @@
 {
-  "interactions": {
+  "actions": {
     "talk": {
-      "$type": "/v1/characters/interactions/character-interaction-buy-recipes",
+      "$type": "/v1/characters/actions/character-action-buy-recipes",
       "id": "gwirameth"
     }
   },

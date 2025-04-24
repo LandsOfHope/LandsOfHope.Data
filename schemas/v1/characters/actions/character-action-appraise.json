@@ -1,0 +1,14 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/actions/character-action-appraise.json",
+    "title": "CharacterActionAppraise",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/actions/character-action-appraise"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type"
+    ]
+}
