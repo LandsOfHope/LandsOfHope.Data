@@ -1,0 +1,50 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/items/item-location.json",
+    "title": "ItemLocation",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/items/item-location"
+        },
+        "image": {
+            "type": "string"
+        },
+        "slot": {
+            "type": "object",
+            "properties": {
+                "player": {
+                    "type": "boolean"
+                },
+                "pet": {
+                    "type": "boolean"
+                },
+                "pos": {
+                    "type": "object",
+                    "properties": {
+                        "x": {
+                            "type": "integer"
+                        },
+                        "y": {
+                            "type": "integer"
+                        }
+                    },
+                    "required": [
+                        "x",
+                        "y"
+                    ],
+                    "additionalProperties": false
+                }
+            },
+            "required": [
+                "player",
+                "pet",
+                "pos"
+            ],
+            "additionalProperties": false
+        }
+    },
+    "required": [
+        "$type"
+    ],
+    "additionalProperties": false
+}

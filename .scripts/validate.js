@@ -202,6 +202,7 @@ const main = async function () {
     validateAll("schemas/v1/items/image.json", "items/images/!(*.gen).json"),
     validateAll("schemas/v1/items/material.json", "items/materials/!(*.gen).json"),
     validateAll("schemas/v1/items/resource.json", "items/resources/!(*.gen).json"),
+    validateAll("schemas/v1/items/item-location.json", "items/locations/!(*.gen).json"),
 
     validate("schemas/v1/accounts/settings/account-email-settings.json", "accounts/settings/account-email-settings.default.json"),
 
