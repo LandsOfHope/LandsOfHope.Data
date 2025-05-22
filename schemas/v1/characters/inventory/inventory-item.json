@@ -7,8 +7,7 @@
             "const": "/v1/characters/inventory/inventory-item"
         },
         "id": {
-            "type": "integer",
-            "minimum": 1
+            "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
         },
         "item": {
             "oneOf": [
@@ -36,6 +35,18 @@
         },
         "location": {
             "$ref": "/schemas/v1/items-locations-id.gen.json"
+        },
+        "bag": {
+            "enum": [
+                "bag-slot-1",
+                "bag-slot-2",
+                "bag-slot-3",
+                "bag-slot-4",
+                "bag-slot-5",
+                "bag-slot-6",
+                "bag-slot-7",
+                "bag-slot-8"
+            ]
         },
         "locked": {
             "type": "object",
@@ -78,6 +89,12 @@
                 }
             },
             "additionalProperties": false
+        },
+        "actions": {
+            "$ref": "/schemas/v1/characters/inventory/actions/inventory-item-actions.json"
+        },
+        "stackHash": {
+            "$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
         }
     },
     "additionalProperties": false,
@@ -87,6 +104,8 @@
         "item",
         "level",
         "quantity",
-        "location"
+        "location",
+        "actions",
+        "stackHash"
     ]
 }

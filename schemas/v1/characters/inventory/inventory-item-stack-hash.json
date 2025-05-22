@@ -1,0 +1,7 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item-stack-hash.json",
+    "title": "CharacterInventoryItemStackHash",
+    "type": "string",
+    "minLength": 16,
+    "maxLength": 16
+}

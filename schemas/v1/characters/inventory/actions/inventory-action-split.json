@@ -1,0 +1,27 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-action-split.json",
+    "title": "InventoryActionSplit",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/inventory/actions/inventory-action-split"
+        },
+        "splitFromInventoryItemId": {
+            "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+        },
+        "splitToStackSizes": {
+            "type": "array",
+            "items": {
+                "type": "integer",
+                "minimum": 1
+            },
+            "minItems": 1
+        }
+    },
+    "required": [
+        "$type",
+        "splitFromInventoryItemId",
+        "splitToStackSizes"
+    ],
+    "additionalProperties": false
+}

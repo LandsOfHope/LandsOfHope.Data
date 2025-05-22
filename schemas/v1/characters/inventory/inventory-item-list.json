@@ -1,0 +1,8 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item-list.json",
+    "title": "CharacterInventoryItemList",
+    "type": "array",
+    "items": {
+        "$ref": "/schemas/v1/characters/inventory/inventory-item.json"
+    }
+}

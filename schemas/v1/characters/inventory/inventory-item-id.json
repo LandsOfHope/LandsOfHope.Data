@@ -1,0 +1,6 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item-id.json",
+    "title": "CharacterInventoryItemId",
+    "type": "integer",
+    "minimum": 1
+}

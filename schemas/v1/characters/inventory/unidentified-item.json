@@ -11,7 +11,7 @@
         },
         "appraisal": {
             "type": "integer",
-            "minimum": 5
+            "minimum": 0
         }
     },
     "additionalProperties": false,

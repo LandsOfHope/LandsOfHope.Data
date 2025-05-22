@@ -1,0 +1,18 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-action-identify.json",
+    "title": "InventoryActionIdentify",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/inventory/actions/inventory-action-identify"
+        },
+        "inventoryItemId": {
+            "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+        }
+    },
+    "required": [
+        "$type",
+        "inventoryItemId"
+    ],
+    "additionalProperties": false
+}

@@ -1,0 +1,15 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-item-actions.json",
+    "title": "InventoryItemActions",
+    "type": "array",
+    "items": {
+        "enum": [
+            "use",
+            "consume",
+            "disguise",
+            "identify",
+            "drop"
+        ]
+    },
+    "uniqueItems": true
+}
