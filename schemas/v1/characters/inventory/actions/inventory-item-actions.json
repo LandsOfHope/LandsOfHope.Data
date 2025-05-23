@@ -1,15 +1,45 @@
 {
     "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-item-actions.json",
     "title": "InventoryItemActions",
-    "type": "array",
-    "items": {
-        "enum": [
-            "use",
-            "consume",
-            "disguise",
-            "identify",
-            "drop"
-        ]
+    "type": "object",
+    "properties": {
+        "use": {
+            "type": "object",
+            "additionalProperties": false
+        },
+        "use_redir": {
+            "type": "object",
+            "properties": {
+                "host": {
+                    "enum": [
+                        "play"
+                    ]
+                },
+                "page": {
+                    "type": "string"
+                },
+                "query": {
+                    "type": "object"
+                }
+            },
+            "additionalProperties": false
+        },
+        "consume": {
+            "type": "object",
+            "additionalProperties": false
+        },
+        "disguise": {
+            "type": "object",
+            "additionalProperties": false
+        },
+        "identify": {
+            "type": "object",
+            "additionalProperties": false
+        },
+        "drop": {
+            "type": "object",
+            "additionalProperties": false
+        }
     },
-    "uniqueItems": true
+    "additionalProperties": false
 }
