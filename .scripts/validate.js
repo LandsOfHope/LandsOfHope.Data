@@ -45,8 +45,9 @@ const schemasWithOptionalTypeSpecifier = [
   'https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-transaction.json',
   'https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-billing-period.json',
 
-  "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history.json"
-
+  "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history.json",
+  
+  "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-item-actions.json"
 ]
 
 const validate = async (schema, file) => {
