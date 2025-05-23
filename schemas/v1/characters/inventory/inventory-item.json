@@ -95,6 +95,10 @@
         },
         "stackHash": {
             "$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
+        },
+        "nickname": {
+            "type": "string",
+            "maxLength": 30
         }
     },
     "additionalProperties": false,
