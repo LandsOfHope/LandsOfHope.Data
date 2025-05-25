@@ -72,7 +72,7 @@
             "type": "object",
             "properties": {
                 "name": {
-                    "$ref": "https://data.landsofhope.com/schemas/v1/items-names-id.gen.json"
+                    "$ref": "/schemas/v1/items-names-id.gen.json"
                 },
                 "bejewel": {
                     "type": "string"

@@ -26,7 +26,7 @@
                 }
             },
             "propertyNames": {
-                "$ref": "https://data.landsofhope.com/schemas/v1/characters/character-property-name.json"
+                "$ref": "/schemas/v1/characters/character-property-name.json"
             },
             "additionalProperties": false
         }
