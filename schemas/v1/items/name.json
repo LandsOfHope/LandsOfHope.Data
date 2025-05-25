@@ -1,0 +1,40 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/items/name.json",
+    "title": "ItemName",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/items/name"
+        },
+        "skills": {
+            "type": "object",
+            "patternProperties": {
+                ".*": {
+                    "type": "number"
+                }
+            },
+            "propertyNames": {
+                "$ref": "/schemas/v1/skills-id.gen.json"
+            },
+            "additionalProperties": false
+        },
+        "properties": {
+            "type": "object",
+            "patternProperties": {
+                ".*": {
+                    "type": "number"
+                }
+            },
+            "propertyNames": {
+                "$ref": "https://data.landsofhope.com/schemas/v1/characters/character-property-name.json"
+            },
+            "additionalProperties": false
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "skills",
+        "properties"
+    ]
+}
