@@ -1,0 +1,51 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-property.json",
+    "title": "CharacterProperty",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/character-property"
+        },
+        "natural": {
+            "type": "integer"
+        },
+        "bonus": {
+            "type": "object",
+            "properties": {
+                "item": {
+                    "type": "number"
+                },
+                "spell": {
+                    "type": "number"
+                },
+                "modifier": {
+                    "type": "number"
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "item",
+                "spell",
+                "modifier"
+            ]
+        },
+        "limit": {
+            "oneOf": [
+                {
+                    "type": "integer",
+                    "exclusiveMinimum": 0
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "natural",
+        "bonus",
+        "limit"
+    ]
+}

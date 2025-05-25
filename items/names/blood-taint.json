@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/items/name",
+    "skills": {
+        "mana-regen": 0.2
+    },
+    "properties": {
+        "INTELLIGENCE": 0.3,
+        "MAXHITPOINTS": 0.4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/items/name",
+    "skills": {
+        "frenzy": 0.3,
+        "health-regen": 0.2
+    },
+    "properties": {
+        "MAXHITPOINTS": 0.4
+    }
+}

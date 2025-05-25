@@ -1,0 +1,14 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-properties.json",
+    "title": "CharacterProperties",
+    "type": "object",
+    "patternProperties": {
+        ".*": {
+            "$ref": "/schemas/v1/characters/character-property.json"
+        }
+    },
+    "propertyNames": {
+        "$ref": "/schemas/v1/characters/character-property-name.json"
+    },
+    "additionalProperties": false
+}

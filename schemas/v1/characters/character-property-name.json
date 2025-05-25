@@ -1,0 +1,16 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-property-name.json",
+    "title": "CharacterPropertyName",
+    "enum": [
+        "DEXTERITY",
+        "HITPOINTS",
+        "INTELLIGENCE",
+        "MANA",
+        "MAXHITPOINTS",
+        "MAXMANA",
+        "MAXSTAMINA",
+        "SPEED",
+        "STAMINA",
+        "STRENGTH"
+    ]
+}

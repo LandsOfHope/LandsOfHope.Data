@@ -200,6 +200,7 @@ const main = async function () {
     validateAll("schemas/v1/characters/character-creation-images.json", "characters/character-creation-images.json"),
     validateAll("schemas/v1/item.json", "items/!(*.gen).json"),
     validateAll("schemas/v1/items/type.json", "items/types/!(*.gen).json"),
+    validateAll("schemas/v1/items/name.json", "items/names/!(*.gen).json"),
     validateAll("schemas/v1/items/image.json", "items/images/!(*.gen).json"),
     validateAll("schemas/v1/items/material.json", "items/materials/!(*.gen).json"),
     validateAll("schemas/v1/items/resource.json", "items/resources/!(*.gen).json"),

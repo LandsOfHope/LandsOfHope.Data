@@ -41,6 +41,7 @@ const directories = (() => {
         'titles',
         'items',
         'items/types',
+        'items/names',
         'items/images',
         'items/extras',
         'items/resources',
