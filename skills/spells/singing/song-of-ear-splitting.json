@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-ear-splitting",
+    "requirements": {
+        "skill": 4360,
+        "mana": 1744
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1533
+    }
+}

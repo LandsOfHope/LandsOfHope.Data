@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/failing-poison-shield",
+    "requirements": {
+        "skill": 2745,
+        "mana": 2745
+    },
+    "duration": "PT175M",
+    "skills": {
+        "poison-resistance": 96
+    }
+}

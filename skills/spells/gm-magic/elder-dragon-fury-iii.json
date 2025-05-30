@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/elder-dragon-fury-iii",
+    "requirements": {
+        "skill": 596,
+        "mana": 596
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "STRENGTH": 900
+    }
+}

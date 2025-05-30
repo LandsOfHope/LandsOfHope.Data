@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-shields/mastered-pulverise-v",
+    "requirements": {
+        "skill": 4801,
+        "stamina": 4800
+    },
+    "effects": {
+        "damage": 2404
+    }
+}

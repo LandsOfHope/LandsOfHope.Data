@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "life-magic/healing-haze-iv",
+    "requirements": {
+        "skill": 4492,
+        "mana": 4492
+    },
+    "duration": 6,
+    "effects": {
+        "heal": 3371
+    }
+}

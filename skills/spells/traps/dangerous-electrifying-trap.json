@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/dangerous-electrifying-trap",
+    "requirements": {
+        "skill": 4294,
+        "mana": 4294
+    },
+    "effects": {
+        "damage": 3020
+    }
+}

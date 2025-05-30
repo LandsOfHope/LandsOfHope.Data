@@ -1,0 +1,8 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/summon-liche-lord-envoker",
+    "requirements": {
+        "skill": 4100,
+        "mana": 4100
+    }
+}

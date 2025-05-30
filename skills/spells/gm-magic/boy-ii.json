@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/boy-ii",
+    "requirements": {
+        "skill": 193,
+        "mana": 193
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "begging": 97
+    }
+}

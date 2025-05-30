@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/pixish-female-i",
+    "requirements": {
+        "skill": 40,
+        "mana": 40
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "air-survival": 21
+    },
+    "properties": {
+        "MAXMANA": 21
+    }
+}

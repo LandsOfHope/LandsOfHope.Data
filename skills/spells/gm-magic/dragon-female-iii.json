@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/dragon-female-iii",
+    "requirements": {
+        "skill": 556,
+        "mana": 556
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "attack-power": 279
+    },
+    "properties": {
+        "STRENGTH": 279
+    }
+}

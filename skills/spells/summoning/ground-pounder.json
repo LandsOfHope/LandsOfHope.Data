@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "summoning/ground-pounder",
+    "requirements": {
+        "skill": 1544,
+        "mana": 1544
+    },
+    "duration": "PT225M"
+}

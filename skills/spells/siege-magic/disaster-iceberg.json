@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "siege-magic/disaster-iceberg",
+    "requirements": {
+        "skill": 1500,
+        "mana": 230
+    },
+    "effects": {
+        "damage": 370
+    }
+}

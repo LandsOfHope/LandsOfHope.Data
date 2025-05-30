@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "summoning/head-knocker",
+    "requirements": {
+        "skill": 900,
+        "mana": 900
+    },
+    "duration": "PT150M"
+}

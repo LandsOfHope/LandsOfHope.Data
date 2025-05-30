@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/strengthening-wits",
+    "requirements": {
+        "skill": 321,
+        "mana": 321
+    },
+    "duration": "PT500M",
+    "properties": {
+        "MAXMANA": 161
+    }
+}

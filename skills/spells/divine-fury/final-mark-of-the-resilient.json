@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "divine-fury/final-mark-of-the-resilient",
+    "requirements": {
+        "skill": 5000,
+        "mana": 751
+    },
+    "duration": "PT120M",
+    "skills": {
+        "arcane-resistance": -1400
+    }
+}

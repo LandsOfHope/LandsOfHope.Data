@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/strong-ice-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 3500
+    },
+    "duration": "PT700M",
+    "skills": {
+        "cold-resistance": 700
+    }
+}

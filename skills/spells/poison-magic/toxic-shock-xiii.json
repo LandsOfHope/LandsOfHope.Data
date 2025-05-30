@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poison-magic/toxic-shock-xiii",
+    "requirements": {
+        "skill": 2521,
+        "mana": 2521
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 1779
+    }
+}

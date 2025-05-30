@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/temptress-iv",
+    "requirements": {
+        "skill": 679,
+        "mana": 679
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "INTELLIGENCE": 340
+    }
+}

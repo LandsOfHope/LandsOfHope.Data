@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "dark-magic/dark-matter-iii",
+    "requirements": {
+        "skill": 2323,
+        "mana": 2323
+    },
+    "effects": {
+        "damage": 1641
+    }
+}

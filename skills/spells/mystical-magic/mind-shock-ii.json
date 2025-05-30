@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "mystical-magic/mind-shock-ii",
+    "requirements": {
+        "skill": 37,
+        "mana": 37
+    },
+    "effects": {
+        "damage": 40
+    }
+}

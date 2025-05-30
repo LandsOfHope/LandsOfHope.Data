@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/change-into-a-woode",
+    "requirements": {
+        "skill": 973,
+        "mana": 973
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "attack-power": 487
+    },
+    "properties": {
+        "MAXSTAMINA": 487
+    }
+}

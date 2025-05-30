@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/snow-monster-coldtoes-iv",
+    "requirements": {
+        "skill": 862,
+        "mana": 862
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "cold-survival": 432
+    }
+}

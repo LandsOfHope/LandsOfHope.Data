@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "celestial-magic/sun-storm-iv",
+    "requirements": {
+        "skill": 4691,
+        "mana": 4691
+    },
+    "effects": {
+        "damage": 3298
+    }
+}

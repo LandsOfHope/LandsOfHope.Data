@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "invocation/call-forth-spirits-vii",
+    "requirements": {
+        "skill": 4287,
+        "mana": 4287
+    },
+    "effects": {
+        "damage": 3015
+    }
+}

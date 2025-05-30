@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/trollish-female-iii",
+    "requirements": {
+        "skill": 511,
+        "mana": 511
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "attack-power": 256
+    },
+    "properties": {
+        "MAXSTAMINA": 256
+    }
+}

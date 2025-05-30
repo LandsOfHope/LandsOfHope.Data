@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "life-magic/group-heal-vi",
+    "requirements": {
+        "skill": 2568,
+        "mana": 2568
+    },
+    "duration": "PT6M",
+    "effects": {
+        "heal": 1928
+    }
+}

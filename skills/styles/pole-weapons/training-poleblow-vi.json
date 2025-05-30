@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "pole-weapons/training-poleblow-vi",
+    "requirements": {
+        "skill": 181,
+        "stamina": 180
+    },
+    "effects": {
+        "damage": 94
+    }
+}

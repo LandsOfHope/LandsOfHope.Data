@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "protection/protect-from-evil-v",
+    "requirements": {
+        "skill": 667,
+        "mana": 667
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 433
+    },
+    "effects": {
+        "damage": 481
+    }
+}

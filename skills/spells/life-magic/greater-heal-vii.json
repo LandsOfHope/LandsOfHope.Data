@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "life-magic/greater-heal-vii",
+    "requirements": {
+        "skill": 1216,
+        "mana": 1216
+    },
+    "duration": "PT7M",
+    "effects": {
+        "heal": 914
+    }
+}

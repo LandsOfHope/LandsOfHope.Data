@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "preservation-magic/nature-resistance-xiv",
+    "requirements": {
+        "skill": 4369,
+        "mana": 4369
+    },
+    "duration": "PT75M",
+    "skills": {
+        "nature-resistance": 439
+    }
+}

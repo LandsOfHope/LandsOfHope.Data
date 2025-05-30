@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/poisoner-iv",
+    "requirements": {
+        "skill": 664,
+        "mana": 664
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "poison-magic": 333
+    },
+    "properties": {
+        "DEXTERITY": 333
+    }
+}

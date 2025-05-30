@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "siege-weapons/bombardment-ii",
+    "requirements": {
+        "skill": 3000,
+        "stamina": 950
+    },
+    "effects": {
+        "damage": 320
+    }
+}

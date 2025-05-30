@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "summoning/fire-starter",
+    "requirements": {
+        "skill": 2510,
+        "mana": 2510
+    },
+    "duration": "PT150M"
+}

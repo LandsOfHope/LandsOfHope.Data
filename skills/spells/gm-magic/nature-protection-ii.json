@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/nature-protection-ii",
+    "requirements": {
+        "skill": 100,
+        "level": 301,
+        "mana": 2
+    },
+    "duration": "PT302M",
+    "skills": {
+        "nature-resistance": 240
+    }
+}

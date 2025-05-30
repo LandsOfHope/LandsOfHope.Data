@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "earth-magic/rockfall-iv",
+    "requirements": {
+        "skill": 4236,
+        "mana": 4236
+    },
+    "effects": {
+        "damage": 2980
+    }
+}

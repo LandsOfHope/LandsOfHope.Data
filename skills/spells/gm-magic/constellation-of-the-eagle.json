@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/constellation-of-the-eagle",
+    "requirements": {
+        "skill": 50,
+        "mana": 50
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "detect-hidden": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 10
+    }
+}

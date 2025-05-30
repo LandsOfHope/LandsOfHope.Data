@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/polymorphic-shield",
+    "requirements": {
+        "level": 1,
+        "mana": 1
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "disguise": 5000
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "spirit-magic/spirit-revenge-ix",
+    "requirements": {
+        "skill": 2689,
+        "mana": 2689
+    },
+    "duration": "PT13M",
+    "effects": {
+        "damage": 1897
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/unicorn-protection-iv",
+    "requirements": {
+        "skill": 827,
+        "mana": 827
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "armor": 414
+    }
+}

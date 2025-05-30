@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/smouldering-nimbus",
+    "requirements": {
+        "skill": 596,
+        "mana": 596
+    },
+    "effects": {
+        "damage": 432
+    }
+}

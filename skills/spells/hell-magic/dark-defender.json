@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/dark-defender",
+    "requirements": {
+        "skill": 505,
+        "mana": 505
+    },
+    "duration": "PT30M"
+}

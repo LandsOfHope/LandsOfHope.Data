@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "martial-arts/drunken-style-x",
+    "requirements": {
+        "skill": 3361,
+        "stamina": 3360
+    },
+    "effects": {
+        "damage": 1684
+    }
+}

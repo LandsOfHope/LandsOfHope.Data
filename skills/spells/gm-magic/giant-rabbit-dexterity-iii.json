@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/giant-rabbit-dexterity-iii",
+    "requirements": {
+        "skill": 652,
+        "mana": 652
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "DEXTERITY": 327
+    }
+}

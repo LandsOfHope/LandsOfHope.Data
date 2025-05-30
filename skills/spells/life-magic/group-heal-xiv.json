@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "life-magic/group-heal-xiv",
+    "requirements": {
+        "skill": 3192,
+        "mana": 3192
+    },
+    "duration": "PT14M",
+    "effects": {
+        "heal": 2396
+    }
+}

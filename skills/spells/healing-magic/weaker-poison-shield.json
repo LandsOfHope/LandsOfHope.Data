@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/weaker-poison-shield",
+    "requirements": {
+        "skill": 3305,
+        "mana": 3305
+    },
+    "duration": "PT540M",
+    "skills": {
+        "poison-resistance": 231
+    }
+}

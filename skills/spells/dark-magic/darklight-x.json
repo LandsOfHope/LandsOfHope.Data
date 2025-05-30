@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "dark-magic/darklight-x",
+    "requirements": {
+        "skill": 388,
+        "mana": 388
+    },
+    "effects": {
+        "damage": 286
+    }
+}

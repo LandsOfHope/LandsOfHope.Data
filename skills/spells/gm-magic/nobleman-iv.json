@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/nobleman-iv",
+    "requirements": {
+        "skill": 811,
+        "mana": 811
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "swords": 406
+    },
+    "properties": {
+        "MAXHITPOINTS": 406
+    }
+}

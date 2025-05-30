@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "reformation/golem-fury-ii",
+    "requirements": {
+        "skill": 750,
+        "mana": 750
+    },
+    "duration": "PT120M",
+    "skills": {
+        "frenzy": 300
+    }
+}

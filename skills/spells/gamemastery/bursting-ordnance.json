@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/bursting-ordnance",
+    "requirements": {
+        "level": 725,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 362
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "botany/new-growth-i",
+    "requirements": {
+        "skill": 1750,
+        "mana": 1750
+    },
+    "effects": {
+        "heal": 1052
+    }
+}

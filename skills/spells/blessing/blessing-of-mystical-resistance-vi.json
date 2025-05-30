@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "blessing/blessing-of-mystical-resistance-vi",
+    "requirements": {
+        "skill": 4134,
+        "mana": 4134
+    },
+    "duration": "PT75M",
+    "skills": {
+        "mystical-resistance": 428
+    }
+}

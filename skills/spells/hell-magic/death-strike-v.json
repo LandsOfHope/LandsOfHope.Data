@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/death-strike-v",
+    "requirements": {
+        "skill": 1506,
+        "mana": 1506
+    },
+    "effects": {
+        "damage": 1069
+    }
+}

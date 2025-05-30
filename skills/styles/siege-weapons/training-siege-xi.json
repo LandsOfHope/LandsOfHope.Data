@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "siege-weapons/training-siege-xi",
+    "requirements": {
+        "skill": 1500,
+        "stamina": 230
+    },
+    "effects": {
+        "damage": 123
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cold-magic/frozen-skin-v",
+    "requirements": {
+        "skill": 2449,
+        "mana": 2449
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 1729
+    },
+    "effects": {
+        "damage": 1729
+    }
+}

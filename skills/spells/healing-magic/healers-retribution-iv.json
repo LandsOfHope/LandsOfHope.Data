@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/healers-retribution-iv",
+    "requirements": {
+        "skill": 3301,
+        "mana": 3301
+    },
+    "duration": "PT25M",
+    "properties": {
+        "HITPOINTS": 1655
+    },
+    "effects": {
+        "damage": 2325
+    }
+}

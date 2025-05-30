@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/465-dexterity",
+    "requirements": {
+        "skill": 4650,
+        "level": 930,
+        "mana": 93
+    },
+    "duration": "PT60M",
+    "properties": {
+        "DEXTERITY": 465
+    }
+}

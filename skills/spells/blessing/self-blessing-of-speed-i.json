@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "blessing/self-blessing-of-speed-i",
+    "requirements": {
+        "skill": 4890,
+        "mana": 4890
+    },
+    "duration": "PT120M",
+    "properties": {
+        "SPEED": 504
+    }
+}

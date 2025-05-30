@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/trollish-male-ii",
+    "requirements": {
+        "skill": 310,
+        "mana": 310
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "attack-power": 156
+    },
+    "properties": {
+        "STRENGTH": 156
+    }
+}

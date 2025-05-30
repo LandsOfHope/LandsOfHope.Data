@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/inferior-whirling-blades",
+    "requirements": {
+        "skill": 1405,
+        "mana": 1405
+    },
+    "effects": {
+        "damage": 998
+    }
+}

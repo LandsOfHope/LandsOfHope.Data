@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "exotic-weapons/mud-in-the-eye-xii",
+    "requirements": {
+        "skill": 1051,
+        "stamina": 1050
+    },
+    "effects": {
+        "damage": 529
+    }
+}

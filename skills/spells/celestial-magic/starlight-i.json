@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "celestial-magic/starlight-i",
+    "requirements": {
+        "skill": 1401,
+        "mana": 1401
+    },
+    "effects": {
+        "damage": 995
+    }
+}

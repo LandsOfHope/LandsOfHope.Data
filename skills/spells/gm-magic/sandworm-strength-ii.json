@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/sandworm-strength-ii",
+    "requirements": {
+        "skill": 337,
+        "mana": 337
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "STRENGTH": 169
+    }
+}

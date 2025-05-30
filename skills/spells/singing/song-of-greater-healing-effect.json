@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-greater-healing-effect",
+    "requirements": {
+        "skill": 4890,
+        "mana": 1956
+    },
+    "duration": "PT1M",
+    "effects": {
+        "heal": 1712
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shields/mastered-shield-blow-iv",
+    "requirements": {
+        "skill": 4771,
+        "stamina": 4770
+    },
+    "effects": {
+        "damage": 2389
+    }
+}

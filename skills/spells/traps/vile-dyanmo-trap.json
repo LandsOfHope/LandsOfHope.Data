@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/vile-dyanmo-trap",
+    "requirements": {
+        "skill": 622,
+        "mana": 622
+    },
+    "effects": {
+        "damage": 450
+    }
+}

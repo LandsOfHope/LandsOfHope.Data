@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/werewolf-combat-iii",
+    "requirements": {
+        "skill": 736,
+        "mana": 736
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "attack-power": 369
+    }
+}

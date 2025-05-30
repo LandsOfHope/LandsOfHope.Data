@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "health-stealing/health-drain-iv",
+    "requirements": {
+        "skill": 2710,
+        "mana": 2710
+    },
+    "duration": "PT25M",
+    "properties": {
+        "HITPOINTS": -1350
+    },
+    "effects": {
+        "damage": 113
+    }
+}

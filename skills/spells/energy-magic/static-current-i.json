@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/static-current-i",
+    "requirements": {
+        "skill": 169,
+        "mana": 169
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 24
+    }
+}

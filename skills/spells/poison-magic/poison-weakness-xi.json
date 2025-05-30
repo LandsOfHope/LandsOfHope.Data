@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poison-magic/poison-weakness-xi",
+    "requirements": {
+        "skill": 737,
+        "mana": 737
+    },
+    "duration": "PT10M",
+    "skills": {
+        "poison-resistance": -245
+    }
+}

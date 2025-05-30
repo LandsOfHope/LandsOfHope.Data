@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "martial-arts/twelve-crosses-xi",
+    "requirements": {
+        "skill": 4201,
+        "stamina": 4200
+    },
+    "effects": {
+        "damage": 2104
+    }
+}

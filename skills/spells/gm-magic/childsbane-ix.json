@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/childsbane-ix",
+    "requirements": {
+        "skill": 450,
+        "level": 801,
+        "mana": 9
+    },
+    "duration": "PT24M",
+    "skills": {
+        "earth-resistance": 900
+    }
+}

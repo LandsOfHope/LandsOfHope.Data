@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "crossbows/crossbolt-xiii",
+    "requirements": {
+        "skill": 1471,
+        "stamina": 1470
+    },
+    "effects": {
+        "damage": 739
+    }
+}

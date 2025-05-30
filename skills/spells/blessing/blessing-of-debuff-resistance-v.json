@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "blessing/blessing-of-debuff-resistance-v",
+    "requirements": {
+        "skill": 3918,
+        "mana": 3918
+    },
+    "duration": "PT75M",
+    "skills": {
+        "debuff-resistance": 406
+    }
+}

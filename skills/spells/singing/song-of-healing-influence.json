@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-healing-influence",
+    "requirements": {
+        "skill": 3945,
+        "mana": 1578
+    },
+    "duration": "PT1M",
+    "effects": {
+        "heal": 1382
+    }
+}

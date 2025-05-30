@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "celestial-weapons/star-strike-ix",
+    "requirements": {
+        "skill": 541,
+        "stamina": 540
+    },
+    "effects": {
+        "damage": 274
+    }
+}

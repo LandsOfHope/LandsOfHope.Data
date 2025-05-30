@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/flesh-desecration-iii",
+    "requirements": {
+        "skill": 3812,
+        "mana": 3812
+    },
+    "effects": {
+        "damage": 2683
+    }
+}

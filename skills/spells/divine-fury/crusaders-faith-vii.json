@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "divine-fury/crusaders-faith-vii",
+    "requirements": {
+        "skill": 4200,
+        "mana": 620
+    },
+    "duration": "PT120M",
+    "properties": {
+        "SPEED": 1400
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/bladed-defense-supplement",
+    "requirements": {
+        "skill": 91,
+        "mana": 91
+    },
+    "duration": "PT30M",
+    "skills": {
+        "bladed-defense": 200
+    }
+}

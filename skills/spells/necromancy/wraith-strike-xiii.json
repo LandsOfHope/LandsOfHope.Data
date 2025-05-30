@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/wraith-strike-xiii",
+    "requirements": {
+        "skill": 2524,
+        "mana": 2524
+    },
+    "effects": {
+        "damage": 1781
+    }
+}

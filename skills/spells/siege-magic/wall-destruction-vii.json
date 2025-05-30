@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "siege-magic/wall-destruction-vii",
+    "requirements": {
+        "skill": 2400,
+        "mana": 650
+    },
+    "effects": {
+        "damage": 720
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/oceans-fury-xii",
+    "requirements": {
+        "skill": 3681,
+        "mana": 3681
+    },
+    "effects": {
+        "damage": 2591
+    }
+}

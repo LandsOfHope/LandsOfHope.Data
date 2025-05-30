@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "celestial-magic/glimmering-bolt-x",
+    "requirements": {
+        "skill": 1261,
+        "mana": 1261
+    },
+    "effects": {
+        "damage": 897
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/volatile-trap",
+    "requirements": {
+        "skill": 568,
+        "mana": 568
+    },
+    "effects": {
+        "damage": 412
+    }
+}

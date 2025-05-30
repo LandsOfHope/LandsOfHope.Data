@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "siege-magic/plague-termites",
+    "requirements": {
+        "skill": 2500,
+        "mana": 700
+    },
+    "effects": {
+        "damage": 760
+    }
+}

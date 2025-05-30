@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/volatile-parasite",
+    "requirements": {
+        "skill": 997,
+        "mana": 997
+    },
+    "duration": "PT105M",
+    "skills": {
+        "attack-power": -497
+    },
+    "properties": {
+        "STRENGTH": -497
+    }
+}

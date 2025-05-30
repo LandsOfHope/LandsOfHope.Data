@@ -1,0 +1,8 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "summoning/random-elder-elemental",
+    "requirements": {
+        "skill": 3660,
+        "mana": 3660
+    }
+}

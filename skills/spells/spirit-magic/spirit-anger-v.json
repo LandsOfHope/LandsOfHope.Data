@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "spirit-magic/spirit-anger-v",
+    "requirements": {
+        "skill": 513,
+        "mana": 513
+    },
+    "duration": "PT3M",
+    "effects": {
+        "damage": 374
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "warding/natures-camouflage-viii",
+    "requirements": {
+        "skill": 1130,
+        "mana": 1051
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 802
+    },
+    "effects": {
+        "damage": 802
+    }
+}

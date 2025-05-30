@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/orange-daisy-curse",
+    "requirements": {
+        "skill": 1,
+        "mana": 1
+    },
+    "effects": {
+        "raceid2": 164
+    }
+}

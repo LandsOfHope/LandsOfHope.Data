@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/rainstrike-xii",
+    "requirements": {
+        "skill": 4097,
+        "mana": 4097
+    },
+    "effects": {
+        "damage": 2882
+    }
+}

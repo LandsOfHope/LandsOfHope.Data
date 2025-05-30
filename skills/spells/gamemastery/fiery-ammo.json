@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/fiery-ammo",
+    "requirements": {
+        "level": 871,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 435
+    }
+}

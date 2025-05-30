@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/blossoming-ammo",
+    "requirements": {
+        "level": 406,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 203
+    }
+}

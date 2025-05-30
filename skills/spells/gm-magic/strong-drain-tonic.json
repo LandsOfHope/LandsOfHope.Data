@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/strong-drain-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 3350
+    },
+    "duration": "PT670M",
+    "skills": {
+        "drain-resistance": 670
+    }
+}

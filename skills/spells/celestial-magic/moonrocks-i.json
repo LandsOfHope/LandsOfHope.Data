@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "celestial-magic/moonrocks-i",
+    "requirements": {
+        "skill": 2311,
+        "mana": 2311
+    },
+    "effects": {
+        "damage": 1632
+    }
+}

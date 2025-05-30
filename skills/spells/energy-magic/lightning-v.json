@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/lightning-v",
+    "requirements": {
+        "skill": 2721,
+        "mana": 2721
+    },
+    "duration": "PT11M",
+    "effects": {
+        "damage": 1919
+    }
+}

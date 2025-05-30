@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/weaker-fire-rain",
+    "requirements": {
+        "skill": 2731,
+        "mana": 2731
+    },
+    "duration": "PT3M",
+    "effects": {
+        "damage": 1926
+    }
+}

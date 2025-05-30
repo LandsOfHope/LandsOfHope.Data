@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/sprinter-v",
+    "requirements": {
+        "skill": 862,
+        "mana": 862
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "SPEED": 432
+    }
+}

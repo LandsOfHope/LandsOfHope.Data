@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "blessing/self-blessing-of-intelligence-iii",
+    "requirements": {
+        "skill": 4692,
+        "mana": 4692
+    },
+    "duration": "PT120M",
+    "properties": {
+        "INTELLIGENCE": 484
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-madness",
+    "requirements": {
+        "skill": 4760,
+        "mana": 1904
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1673
+    }
+}

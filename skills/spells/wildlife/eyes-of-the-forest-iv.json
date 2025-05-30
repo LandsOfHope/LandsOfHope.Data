@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "wildlife/eyes-of-the-forest-iv",
+    "requirements": {
+        "skill": 3594,
+        "mana": 359
+    },
+    "duration": "PT220M",
+    "skills": {
+        "exploration": 374
+    }
+}

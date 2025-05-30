@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/hell-storm-ix",
+    "requirements": {
+        "skill": 4831,
+        "mana": 4831
+    },
+    "effects": {
+        "damage": 3396
+    }
+}

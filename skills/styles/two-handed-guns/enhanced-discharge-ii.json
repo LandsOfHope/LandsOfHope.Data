@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-guns/enhanced-discharge-ii",
+    "requirements": {
+        "skill": 2341,
+        "stamina": 2340
+    },
+    "effects": {
+        "damage": 1174
+    }
+}

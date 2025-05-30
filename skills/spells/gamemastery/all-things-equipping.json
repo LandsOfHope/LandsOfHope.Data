@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/all-things-equipping",
+    "requirements": {
+        "skill": 37,
+        "mana": 37
+    },
+    "duration": "PT5M",
+    "properties": {
+        "STRENGTH": 19
+    }
+}

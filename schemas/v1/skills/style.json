@@ -1,0 +1,40 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/skills/style.json",
+    "title": "SkillsStyle",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/skills/style"
+        },
+        "id": {
+            "type": "string"
+        },
+        "requirements": {
+            "type": "object",
+            "properties": {
+                "skill": {
+                    "type": "integer",
+                    "minimum": 1
+                },
+                "level": {
+                    "type": "integer",
+                    "minimum": 1
+                },
+                "stamina": {
+                    "type": "integer",
+                    "minimum": 0
+                }
+            },
+            "required": [
+                "stamina"
+            ],
+            "additionalProperties": false
+        }
+    },
+    "required": [
+        "$type",
+        "id",
+        "requirements"
+    ],
+    "additionalProperties": false
+}

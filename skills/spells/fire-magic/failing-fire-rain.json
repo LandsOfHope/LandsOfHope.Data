@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/failing-fire-rain",
+    "requirements": {
+        "skill": 666,
+        "mana": 666
+    },
+    "effects": {
+        "damage": 481
+    }
+}

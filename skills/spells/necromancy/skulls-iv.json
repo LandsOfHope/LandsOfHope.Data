@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/skulls-iv",
+    "requirements": {
+        "skill": 2748,
+        "mana": 2748
+    },
+    "effects": {
+        "damage": 1938
+    }
+}

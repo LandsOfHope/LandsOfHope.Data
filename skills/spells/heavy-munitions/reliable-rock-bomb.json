@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "heavy-munitions/reliable-rock-bomb",
+    "requirements": {
+        "skill": 3756,
+        "mana": 3756
+    },
+    "effects": {
+        "damage": 2044
+    }
+}

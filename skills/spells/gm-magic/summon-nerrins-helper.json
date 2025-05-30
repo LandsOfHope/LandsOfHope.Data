@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/summon-nerrins-helper",
+    "requirements": {
+        "skill": 1,
+        "mana": 1
+    },
+    "duration": "PT60M"
+}

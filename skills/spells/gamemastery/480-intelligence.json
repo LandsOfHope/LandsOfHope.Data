@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/480-intelligence",
+    "requirements": {
+        "skill": 4800,
+        "level": 960,
+        "mana": 96
+    },
+    "duration": "PT60M",
+    "properties": {
+        "INTELLIGENCE": 480
+    }
+}

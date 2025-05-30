@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/blazing-fireball",
+    "requirements": {
+        "skill": 2066,
+        "mana": 2066
+    },
+    "effects": {
+        "damage": 1461
+    }
+}

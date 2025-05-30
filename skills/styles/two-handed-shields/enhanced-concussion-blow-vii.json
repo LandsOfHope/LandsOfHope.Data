@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-shields/enhanced-concussion-blow-vii",
+    "requirements": {
+        "skill": 2491,
+        "stamina": 2490
+    },
+    "effects": {
+        "damage": 1249
+    }
+}

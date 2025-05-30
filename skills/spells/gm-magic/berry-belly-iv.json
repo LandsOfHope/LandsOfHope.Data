@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/berry-belly-iv",
+    "requirements": {
+        "skill": 200,
+        "level": 701,
+        "mana": 4
+    },
+    "duration": "PT304M",
+    "properties": {
+        "MAXHITPOINTS": -1200
+    }
+}

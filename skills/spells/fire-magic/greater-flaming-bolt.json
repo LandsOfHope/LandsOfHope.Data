@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/greater-flaming-bolt",
+    "requirements": {
+        "skill": 1436,
+        "mana": 1436
+    },
+    "duration": "PT9M",
+    "effects": {
+        "damage": 1020
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/lesser-parasite",
+    "requirements": {
+        "skill": 989,
+        "mana": 989
+    },
+    "duration": "PT90M",
+    "skills": {
+        "attack-power": -493
+    },
+    "properties": {
+        "STRENGTH": -493
+    }
+}

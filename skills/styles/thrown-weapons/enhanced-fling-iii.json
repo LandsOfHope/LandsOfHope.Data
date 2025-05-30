@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "thrown-weapons/enhanced-fling-iii",
+    "requirements": {
+        "skill": 2371,
+        "stamina": 2370
+    },
+    "effects": {
+        "damage": 1189
+    }
+}

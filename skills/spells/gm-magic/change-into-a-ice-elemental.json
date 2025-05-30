@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/change-into-a-ice-elemental",
+    "requirements": {
+        "skill": 655,
+        "mana": 655
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "cold-resistance": 328
+    },
+    "properties": {
+        "INTELLIGENCE": 328
+    }
+}

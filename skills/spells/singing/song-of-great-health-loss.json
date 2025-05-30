@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-great-health-loss",
+    "requirements": {
+        "skill": 4682,
+        "mana": 1872
+    },
+    "duration": "PT10M",
+    "properties": {
+        "MAXHITPOINTS": -2340
+    }
+}

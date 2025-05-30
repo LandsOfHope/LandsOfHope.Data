@@ -1,0 +1,92 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/skills/spell.json",
+    "title": "SkillsSpell",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/skills/spell"
+        },
+        "id": {
+            "type": "string"
+        },
+        "requirements": {
+            "type": "object",
+            "properties": {
+                "skill": {
+                    "type": "integer",
+                    "minimum": 1
+                },
+                "level": {
+                    "type": "integer",
+                    "minimum": 1
+                },
+                "mana": {
+                    "type": "integer",
+                    "minimum": 1
+                }
+            },
+            "required": [
+                "mana"
+            ],
+            "additionalProperties": false
+        },
+        "duration": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v0/duration.json"
+                },
+                {
+                    "type": "integer",
+                    "minimum": 1
+                }
+            ]
+        },
+        "skills": {
+            "type": "object",
+            "patternProperties": {
+                ".*": {
+                    "type": "integer"
+                }
+            },
+            "propertyNames": {
+                "$ref": "/schemas/v1/skills-id.gen.json"
+            },
+            "additionalProperties": false
+        },
+        "properties": {
+            "type": "object",
+            "patternProperties": {
+                ".*": {
+                    "type": "integer"
+                }
+            },
+            "propertyNames": {
+                "$ref": "/schemas/v1/characters/character-property-name.json"
+            },
+            "additionalProperties": false
+        },
+        "effects": {
+            "type": "object",
+            "patternProperties": {
+                ".*": {
+                    "type": "integer"
+                }
+            },
+            "propertyNames": {
+                "enum": [
+                    "dead",
+                    "heldcurrency",
+                    "queuebonus",
+                    "raceid2"
+                ]
+            },
+            "additionalProperties": false
+        }
+    },
+    "required": [
+        "$type",
+        "id",
+        "requirements"
+    ],
+    "additionalProperties": false
+}

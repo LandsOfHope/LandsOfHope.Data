@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "martial-arts/snake-x",
+    "requirements": {
+        "skill": 991,
+        "stamina": 990
+    },
+    "effects": {
+        "damage": 499
+    }
+}

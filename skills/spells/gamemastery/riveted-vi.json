@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/riveted-vi",
+    "requirements": {
+        "skill": 30,
+        "mana": 30
+    },
+    "duration": "PT140000M",
+    "properties": {
+        "MAXSTAMINA": 300
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/blistering-furnace",
+    "requirements": {
+        "skill": 1856,
+        "mana": 1856
+    },
+    "effects": {
+        "damage": 1314
+    }
+}

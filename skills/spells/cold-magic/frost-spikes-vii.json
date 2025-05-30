@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cold-magic/frost-spikes-vii",
+    "requirements": {
+        "skill": 3163,
+        "mana": 3163
+    },
+    "effects": {
+        "damage": 2229
+    }
+}

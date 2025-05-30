@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/spellbound-energized-iii",
+    "requirements": {
+        "skill": 1150,
+        "mana": 5
+    },
+    "duration": "PT50000M",
+    "properties": {
+        "SPEED": 50
+    }
+}

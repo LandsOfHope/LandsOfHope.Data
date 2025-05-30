@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/fire-mage-v",
+    "requirements": {
+        "skill": 895,
+        "mana": 895
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "fire-resistance": 448
+    },
+    "properties": {
+        "INTELLIGENCE": 448
+    }
+}

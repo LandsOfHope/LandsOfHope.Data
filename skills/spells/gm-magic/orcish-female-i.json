@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/orcish-female-i",
+    "requirements": {
+        "skill": 31,
+        "mana": 31
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "MAXSTAMINA": 16
+    }
+}

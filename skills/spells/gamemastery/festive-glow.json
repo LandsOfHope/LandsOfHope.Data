@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/festive-glow",
+    "requirements": {
+        "skill": 1,
+        "mana": 1
+    },
+    "duration": "PT1440M",
+    "skills": {
+        "toy-snatching": 500
+    }
+}

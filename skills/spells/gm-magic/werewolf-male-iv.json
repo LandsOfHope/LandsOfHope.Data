@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/werewolf-male-iv",
+    "requirements": {
+        "skill": 805,
+        "mana": 805
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "attack-power": 403
+    },
+    "properties": {
+        "MAXHITPOINTS": 403
+    }
+}

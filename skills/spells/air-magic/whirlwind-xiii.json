@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/whirlwind-xiii",
+    "requirements": {
+        "skill": 4516,
+        "mana": 4516
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 3176
+    }
+}

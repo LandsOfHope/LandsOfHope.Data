@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "acid-magic/corrosive-cloud-vi",
+    "requirements": {
+        "skill": 3132,
+        "mana": 3132
+    },
+    "duration": 6,
+    "effects": {
+        "damage": 2207
+    }
+}

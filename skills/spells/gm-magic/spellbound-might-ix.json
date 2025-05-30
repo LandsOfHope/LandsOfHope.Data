@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/spellbound-might-ix",
+    "requirements": {
+        "skill": 4050,
+        "mana": 5
+    },
+    "duration": "PT50000M",
+    "skills": {
+        "armor": 225
+    },
+    "properties": {
+        "STRENGTH": 450
+    }
+}

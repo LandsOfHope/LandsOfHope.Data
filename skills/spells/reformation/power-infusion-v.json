@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "reformation/power-infusion-v",
+    "requirements": {
+        "skill": 2200,
+        "mana": 1400
+    },
+    "duration": "PT120M",
+    "properties": {
+        "MAXMANA": 900
+    }
+}

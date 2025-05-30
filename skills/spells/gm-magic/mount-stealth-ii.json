@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/mount-stealth-ii",
+    "requirements": {
+        "skill": 344,
+        "mana": 344
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "stealth": 173
+    }
+}

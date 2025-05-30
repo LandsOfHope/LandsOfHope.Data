@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/stirring-whirlwind",
+    "requirements": {
+        "skill": 441,
+        "mana": 441
+    },
+    "duration": "PT750M",
+    "properties": {
+        "MAXMANA": 221
+    }
+}

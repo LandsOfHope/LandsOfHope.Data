@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/tsunami-xii",
+    "requirements": {
+        "skill": 2081,
+        "mana": 2081
+    },
+    "duration": "PT88M",
+    "effects": {
+        "damage": 1471
+    }
+}

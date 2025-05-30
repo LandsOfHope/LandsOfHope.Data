@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "pole-weapons/poleblow-ix",
+    "requirements": {
+        "skill": 571,
+        "stamina": 570
+    },
+    "effects": {
+        "damage": 289
+    }
+}

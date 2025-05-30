@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/deathspeed",
+    "requirements": {
+        "skill": 685,
+        "mana": 685
+    },
+    "duration": "PT120M",
+    "properties": {
+        "SPEED": 343
+    }
+}

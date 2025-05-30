@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "inscription/burning-pain-xiv",
+    "requirements": {
+        "skill": 3966,
+        "mana": 16
+    },
+    "effects": {
+        "damage": 1792
+    }
+}

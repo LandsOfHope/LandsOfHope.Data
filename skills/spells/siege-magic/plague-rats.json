@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "siege-magic/plague-rats",
+    "requirements": {
+        "skill": 2800,
+        "mana": 850
+    },
+    "effects": {
+        "damage": 880
+    }
+}

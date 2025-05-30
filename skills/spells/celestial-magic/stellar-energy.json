@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "celestial-magic/stellar-energy",
+    "requirements": {
+        "skill": 841,
+        "mana": 841
+    },
+    "duration": "PT40M"
+}

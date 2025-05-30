@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/frosty-enchantment",
+    "requirements": {
+        "level": 136,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 68
+    }
+}

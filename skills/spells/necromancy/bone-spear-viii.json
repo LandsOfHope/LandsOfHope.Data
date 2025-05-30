@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/bone-spear-viii",
+    "requirements": {
+        "skill": 1404,
+        "mana": 1404
+    },
+    "effects": {
+        "damage": 997
+    }
+}

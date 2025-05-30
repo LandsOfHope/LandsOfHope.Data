@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/tropical-storm-vi",
+    "requirements": {
+        "skill": 2906,
+        "mana": 2906
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 2049
+    }
+}

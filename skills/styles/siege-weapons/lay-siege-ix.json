@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "siege-weapons/lay-siege-ix",
+    "requirements": {
+        "skill": 2500,
+        "stamina": 700
+    },
+    "effects": {
+        "damage": 253
+    }
+}

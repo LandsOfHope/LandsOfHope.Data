@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/evaporation-iv",
+    "requirements": {
+        "skill": 640,
+        "mana": 640
+    },
+    "duration": "PT60M",
+    "skills": {
+        "fire-resistance": -319
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/rhino-thick-skin-iii",
+    "requirements": {
+        "skill": 638,
+        "mana": 638
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "armor": 150
+    },
+    "properties": {
+        "MAXHITPOINTS": 400
+    }
+}

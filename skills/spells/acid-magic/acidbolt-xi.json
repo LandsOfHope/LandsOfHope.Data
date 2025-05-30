@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "acid-magic/acidbolt-xi",
+    "requirements": {
+        "skill": 342,
+        "mana": 342
+    },
+    "duration": "PT11M",
+    "effects": {
+        "damage": 254
+    }
+}

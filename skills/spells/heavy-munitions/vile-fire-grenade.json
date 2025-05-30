@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "heavy-munitions/vile-fire-grenade",
+    "requirements": {
+        "skill": 3432,
+        "mana": 3432
+    },
+    "effects": {
+        "damage": 1817
+    }
+}

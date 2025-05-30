@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/morphish-female-ii",
+    "requirements": {
+        "skill": 376,
+        "mana": 376
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "INTELLIGENCE": 189
+    }
+}

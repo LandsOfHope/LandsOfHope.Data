@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "siege-offense/arrows",
+    "requirements": {
+        "skill": 40,
+        "mana": 75
+    },
+    "effects": {
+        "damage": 30
+    }
+}

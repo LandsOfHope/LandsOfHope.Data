@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/deadly-caustic-trap",
+    "requirements": {
+        "skill": 3916,
+        "mana": 3916
+    },
+    "effects": {
+        "damage": 2756
+    }
+}

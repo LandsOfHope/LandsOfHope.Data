@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "transformation/form-of-the-triceratops",
+    "requirements": {
+        "skill": 1,
+        "mana": 1
+    },
+    "duration": "PT1500M",
+    "properties": {
+        "STRENGTH": 200
+    }
+}

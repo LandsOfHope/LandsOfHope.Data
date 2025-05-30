@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "spirit-magic/curse-of-the-spirits-xii",
+    "requirements": {
+        "skill": 4609,
+        "mana": 4609
+    },
+    "duration": "PT14M",
+    "effects": {
+        "damage": 3241
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/searing-shower",
+    "requirements": {
+        "skill": 421,
+        "mana": 421
+    },
+    "effects": {
+        "damage": 309
+    }
+}

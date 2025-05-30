@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "mystical-magic/mana-boost-ix",
+    "requirements": {
+        "skill": 325,
+        "mana": 325
+    },
+    "duration": "PT1170M",
+    "properties": {
+        "MAXMANA": 163
+    }
+}

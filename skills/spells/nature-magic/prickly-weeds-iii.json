@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "nature-magic/prickly-weeds-iii",
+    "requirements": {
+        "skill": 1151,
+        "mana": 1151
+    },
+    "effects": {
+        "damage": 820
+    }
+}

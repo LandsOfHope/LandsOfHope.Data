@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "earth-magic/dust-ix",
+    "requirements": {
+        "skill": 456,
+        "mana": 456
+    },
+    "effects": {
+        "damage": 334
+    }
+}

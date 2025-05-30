@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/exile-holiday",
+    "requirements": {
+        "skill": 5,
+        "mana": 33
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "experience-bonus": 200
+    },
+    "properties": {
+        "STRENGTH": 100
+    }
+}

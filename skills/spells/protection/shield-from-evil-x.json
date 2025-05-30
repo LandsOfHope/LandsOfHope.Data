@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "protection/shield-from-evil-x",
+    "requirements": {
+        "skill": 1888,
+        "mana": 1888
+    },
+    "duration": 4,
+    "skills": {
+        "damage-absorption": 1202
+    },
+    "effects": {
+        "damage": 1336
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "siege-magic/disaster-flash-flood",
+    "requirements": {
+        "skill": 500,
+        "mana": 30
+    },
+    "effects": {
+        "damage": 100
+    }
+}

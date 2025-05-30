@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/inferior-parasite",
+    "requirements": {
+        "skill": 917,
+        "mana": 917
+    },
+    "duration": "PT30M",
+    "skills": {
+        "attack-power": -457
+    },
+    "properties": {
+        "STRENGTH": -457
+    }
+}

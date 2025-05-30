@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "bows/mastered-aimed-shot-v",
+    "requirements": {
+        "skill": 4411,
+        "stamina": 4410
+    },
+    "effects": {
+        "damage": 2209
+    }
+}

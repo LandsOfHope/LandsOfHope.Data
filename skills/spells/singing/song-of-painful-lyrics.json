@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-painful-lyrics",
+    "requirements": {
+        "skill": 3640,
+        "mana": 1456
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1281
+    }
+}

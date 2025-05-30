@@ -1,0 +1,8 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "demonology/summon-green-candle",
+    "requirements": {
+        "skill": 3600,
+        "mana": 150
+    }
+}

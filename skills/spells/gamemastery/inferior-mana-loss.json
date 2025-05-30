@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/inferior-mana-loss",
+    "requirements": {
+        "skill": 817,
+        "mana": 817
+    },
+    "duration": "PT30M",
+    "properties": {
+        "MAXMANA": -407
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "druid-magic/insect-possession",
+    "requirements": {
+        "skill": 5000,
+        "mana": 1
+    }
+}

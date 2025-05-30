@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-weak-mana-loss",
+    "requirements": {
+        "skill": 3580,
+        "mana": 1432
+    },
+    "duration": "PT10M",
+    "properties": {
+        "MAXMANA": -1789
+    }
+}

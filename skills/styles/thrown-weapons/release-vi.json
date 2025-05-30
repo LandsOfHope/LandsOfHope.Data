@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "thrown-weapons/release-vi",
+    "requirements": {
+        "skill": 1261,
+        "stamina": 1260
+    },
+    "effects": {
+        "damage": 634
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "siege-weapons/training-siege-viii",
+    "requirements": {
+        "skill": 1200,
+        "stamina": 170
+    },
+    "effects": {
+        "damage": 93
+    }
+}

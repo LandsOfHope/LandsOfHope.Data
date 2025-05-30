@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "axes/hack-vii",
+    "requirements": {
+        "skill": 901,
+        "stamina": 900
+    },
+    "effects": {
+        "damage": 454
+    }
+}

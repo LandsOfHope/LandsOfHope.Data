@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "celestial-magic/white-light-x",
+    "requirements": {
+        "skill": 2171,
+        "mana": 2171
+    },
+    "effects": {
+        "damage": 1534
+    }
+}

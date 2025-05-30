@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/wintersvale-blessing-happy",
+    "requirements": {
+        "skill": 1,
+        "mana": 1
+    },
+    "duration": "PT240M",
+    "properties": {
+        "MAXSTAMINA": 50
+    }
+}

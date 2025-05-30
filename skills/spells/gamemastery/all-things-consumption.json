@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/all-things-consumption",
+    "requirements": {
+        "skill": 41,
+        "mana": 1
+    },
+    "duration": "PT5M",
+    "properties": {
+        "MAXMANA": 21
+    }
+}

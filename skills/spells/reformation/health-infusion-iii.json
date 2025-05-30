@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "reformation/health-infusion-iii",
+    "requirements": {
+        "skill": 900,
+        "mana": 400
+    },
+    "duration": "PT120M",
+    "properties": {
+        "MAXHITPOINTS": 500
+    }
+}

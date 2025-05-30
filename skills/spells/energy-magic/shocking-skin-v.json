@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/shocking-skin-v",
+    "requirements": {
+        "skill": 579,
+        "mana": 579
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 420
+    },
+    "effects": {
+        "damage": 420
+    }
+}

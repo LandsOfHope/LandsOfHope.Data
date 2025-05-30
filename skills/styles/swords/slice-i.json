@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "swords/slice-i",
+    "requirements": {
+        "skill": 1501,
+        "stamina": 1500
+    },
+    "effects": {
+        "damage": 754
+    }
+}

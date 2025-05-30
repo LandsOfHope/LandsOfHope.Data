@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poisoning/spoiling-vi",
+    "requirements": {
+        "skill": 4100,
+        "level": 4100,
+        "mana": 11
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 1245
+    }
+}

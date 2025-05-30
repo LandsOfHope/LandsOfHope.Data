@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "mana-draining/energy-drain-xii",
+    "requirements": {
+        "skill": 4852,
+        "mana": 4852
+    },
+    "duration": "PT25M",
+    "properties": {
+        "MANA": -2421
+    },
+    "effects": {
+        "damage": 109
+    }
+}

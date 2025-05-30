@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/smouldering-furnace",
+    "requirements": {
+        "skill": 2276,
+        "mana": 2276
+    },
+    "effects": {
+        "damage": 1608
+    }
+}

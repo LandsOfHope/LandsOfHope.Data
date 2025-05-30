@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/change-into-a-rat",
+    "requirements": {
+        "skill": 217,
+        "mana": 217
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "DEXTERITY": 109
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/phoenix-resist-to-fire",
+    "requirements": {
+        "skill": 148,
+        "mana": 148
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "fire-resistance": 75
+    }
+}

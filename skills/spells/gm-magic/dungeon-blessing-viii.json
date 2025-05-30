@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/dungeon-blessing-viii",
+    "requirements": {
+        "skill": 520,
+        "mana": 5
+    },
+    "duration": "PT25M",
+    "properties": {
+        "MAXHITPOINTS": 270
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shields/counterattack-vii",
+    "requirements": {
+        "skill": 511,
+        "stamina": 510
+    },
+    "effects": {
+        "damage": 259
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/vampish-female-ii",
+    "requirements": {
+        "skill": 364,
+        "mana": 364
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "armor": 183
+    },
+    "properties": {
+        "MAXHITPOINTS": 183
+    }
+}

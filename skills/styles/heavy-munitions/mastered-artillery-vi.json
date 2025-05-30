@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "heavy-munitions/mastered-artillery-vi",
+    "requirements": {
+        "skill": 4831,
+        "stamina": 4830
+    },
+    "effects": {
+        "damage": 2419
+    }
+}

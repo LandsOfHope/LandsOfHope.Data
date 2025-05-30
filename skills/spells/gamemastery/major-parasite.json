@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/major-parasite",
+    "requirements": {
+        "skill": 1017,
+        "mana": 1017
+    },
+    "duration": "PT150M",
+    "skills": {
+        "attack-power": -507
+    },
+    "properties": {
+        "STRENGTH": -507
+    }
+}

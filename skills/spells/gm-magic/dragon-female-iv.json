@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/dragon-female-iv",
+    "requirements": {
+        "skill": 742,
+        "mana": 742
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "attack-power": 372
+    },
+    "properties": {
+        "STRENGTH": 372
+    }
+}

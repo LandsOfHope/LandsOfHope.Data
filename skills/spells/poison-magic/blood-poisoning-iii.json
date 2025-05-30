@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poison-magic/blood-poisoning-iii",
+    "requirements": {
+        "skill": 2761,
+        "mana": 2761
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 1947
+    }
+}

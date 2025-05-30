@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poisoning/tainting-xi",
+    "requirements": {
+        "skill": 3900,
+        "level": 3900,
+        "mana": 16
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 1185
+    }
+}

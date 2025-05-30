@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/raindrops-v",
+    "requirements": {
+        "skill": 161,
+        "mana": 161
+    },
+    "effects": {
+        "damage": 127
+    }
+}

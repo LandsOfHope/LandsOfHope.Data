@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/stoning-trap",
+    "requirements": {
+        "skill": 1486,
+        "mana": 1486
+    },
+    "effects": {
+        "damage": 1055
+    }
+}

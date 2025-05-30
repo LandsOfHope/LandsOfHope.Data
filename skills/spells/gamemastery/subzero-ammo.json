@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/subzero-ammo",
+    "requirements": {
+        "level": 706,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 353
+    }
+}

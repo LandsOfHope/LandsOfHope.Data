@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/reliable-parasite",
+    "requirements": {
+        "skill": 1033,
+        "mana": 1033
+    },
+    "duration": "PT195M",
+    "skills": {
+        "attack-power": -515
+    },
+    "properties": {
+        "STRENGTH": -515
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "botany/nightshade",
+    "requirements": {
+        "skill": 2130,
+        "mana": 426
+    },
+    "duration": "PT50M"
+}

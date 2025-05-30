@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/spider-bite",
+    "requirements": {
+        "skill": 3,
+        "level": 10,
+        "mana": 10
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 10
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/painful-wash",
+    "requirements": {
+        "skill": 1162,
+        "mana": 1162
+    },
+    "effects": {
+        "damage": 828
+    }
+}

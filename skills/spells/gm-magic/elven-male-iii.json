@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/elven-male-iii",
+    "requirements": {
+        "skill": 409,
+        "mana": 409
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "MAXMANA": 205
+    }
+}

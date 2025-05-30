@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/weak-arcane-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 450
+    },
+    "duration": "PT90M",
+    "skills": {
+        "arcane-resistance": 90
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/gorgon-female-iii",
+    "requirements": {
+        "skill": 721,
+        "mana": 721
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "poison-resistance": 361
+    },
+    "properties": {
+        "MAXMANA": 361
+    }
+}

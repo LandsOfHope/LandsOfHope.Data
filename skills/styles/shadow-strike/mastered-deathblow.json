@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/mastered-deathblow",
+    "requirements": {
+        "skill": 4285,
+        "stamina": 4285
+    },
+    "effects": {
+        "damage": 2581
+    }
+}

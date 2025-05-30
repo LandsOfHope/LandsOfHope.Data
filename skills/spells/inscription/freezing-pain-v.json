@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "inscription/freezing-pain-v",
+    "requirements": {
+        "skill": 1282,
+        "mana": 7
+    },
+    "effects": {
+        "damage": 585
+    }
+}

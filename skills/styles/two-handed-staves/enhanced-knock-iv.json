@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-staves/enhanced-knock-iv",
+    "requirements": {
+        "skill": 2011,
+        "stamina": 2010
+    },
+    "effects": {
+        "damage": 1009
+    }
+}

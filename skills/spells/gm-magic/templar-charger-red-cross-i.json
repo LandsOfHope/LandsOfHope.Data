@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/templar-charger-red-cross-i",
+    "requirements": {
+        "skill": 50,
+        "mana": 50
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "health-regen": 20
+    },
+    "properties": {
+        "MAXSTAMINA": 30
+    }
+}

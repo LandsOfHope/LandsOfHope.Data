@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/dark-touch-iv",
+    "requirements": {
+        "skill": 106,
+        "mana": 106
+    },
+    "effects": {
+        "damage": 89
+    }
+}

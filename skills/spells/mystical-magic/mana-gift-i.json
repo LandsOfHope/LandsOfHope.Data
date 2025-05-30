@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "mystical-magic/mana-gift-i",
+    "requirements": {
+        "skill": 58,
+        "mana": 58
+    },
+    "duration": "PT20M",
+    "properties": {
+        "MAXMANA": 30
+    }
+}

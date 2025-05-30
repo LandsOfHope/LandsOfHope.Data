@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/mount-mind-meld-iii",
+    "requirements": {
+        "skill": 708,
+        "mana": 708
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "INTELLIGENCE": 355
+    }
+}

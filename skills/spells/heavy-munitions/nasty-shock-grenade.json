@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "heavy-munitions/nasty-shock-grenade",
+    "requirements": {
+        "skill": 4485,
+        "mana": 4485
+    },
+    "effects": {
+        "damage": 2554
+    }
+}

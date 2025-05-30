@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/fragmenting-ordnance",
+    "requirements": {
+        "level": 750,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 376
+    }
+}

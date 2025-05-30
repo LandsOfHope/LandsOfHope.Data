@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poisoning/infection-xiii",
+    "requirements": {
+        "skill": 3625,
+        "level": 3625,
+        "mana": 18
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 1102
+    }
+}

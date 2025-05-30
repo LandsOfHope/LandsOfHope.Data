@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/calming-influence",
+    "requirements": {
+        "skill": 5,
+        "mana": 5
+    },
+    "duration": "PT2M",
+    "effects": {
+        "damage": 2
+    }
+}

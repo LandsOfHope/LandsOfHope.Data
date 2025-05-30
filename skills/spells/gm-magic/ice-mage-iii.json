@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/ice-mage-iii",
+    "requirements": {
+        "skill": 496,
+        "mana": 496
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "cold-resistance": 249
+    },
+    "properties": {
+        "INTELLIGENCE": 249
+    }
+}

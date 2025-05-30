@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "preservation-magic/invocation-resistance-ii",
+    "requirements": {
+        "skill": 477,
+        "mana": 477
+    },
+    "duration": "PT75M",
+    "skills": {
+        "invoking-resistance": 50
+    }
+}

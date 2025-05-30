@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "swords/enhanced-slash-xi",
+    "requirements": {
+        "skill": 2221,
+        "stamina": 2220
+    },
+    "effects": {
+        "damage": 1114
+    }
+}

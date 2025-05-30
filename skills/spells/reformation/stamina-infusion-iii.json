@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "reformation/stamina-infusion-iii",
+    "requirements": {
+        "skill": 1100,
+        "mana": 600
+    },
+    "duration": "PT120M",
+    "properties": {
+        "STAMINA": 500
+    }
+}

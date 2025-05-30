@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "wildlife/hitting-the-mark-iv",
+    "requirements": {
+        "skill": 3495,
+        "mana": 349
+    },
+    "duration": "PT620M",
+    "skills": {
+        "bows": 364
+    }
+}

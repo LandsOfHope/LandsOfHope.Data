@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/familiarity-ii",
+    "requirements": {
+        "skill": 10,
+        "mana": 10
+    },
+    "duration": "PT300M",
+    "skills": {
+        "experience-bonus": 80
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cold-magic/icicles-ix",
+    "requirements": {
+        "skill": 2109,
+        "mana": 2109
+    },
+    "effects": {
+        "damage": 1491
+    }
+}

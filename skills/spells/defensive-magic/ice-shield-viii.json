@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "defensive-magic/ice-shield-viii",
+    "requirements": {
+        "skill": 323,
+        "mana": 323
+    },
+    "duration": "PT440M",
+    "skills": {
+        "cold-resistance": 176
+    }
+}

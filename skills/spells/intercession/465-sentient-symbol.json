@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "intercession/465-sentient-symbol",
+    "requirements": {
+        "skill": 4650,
+        "level": 930,
+        "mana": 4650
+    },
+    "duration": "PT999M",
+    "properties": {
+        "INTELLIGENCE": 465
+    }
+}

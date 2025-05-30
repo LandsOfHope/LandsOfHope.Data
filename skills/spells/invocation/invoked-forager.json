@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "invocation/invoked-forager",
+    "requirements": {
+        "skill": 1750,
+        "mana": 1750
+    },
+    "duration": "PT40M"
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "health-stealing/final-life-drain",
+    "requirements": {
+        "skill": 5000,
+        "mana": 5001
+    },
+    "duration": "PT25M",
+    "properties": {
+        "HITPOINTS": -2652
+    },
+    "effects": {
+        "damage": 248
+    }
+}

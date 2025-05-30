@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "siege-magic/disaster-lava-flow",
+    "requirements": {
+        "skill": 1100,
+        "mana": 150
+    },
+    "effects": {
+        "damage": 250
+    }
+}

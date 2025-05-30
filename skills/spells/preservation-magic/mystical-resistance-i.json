@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "preservation-magic/mystical-resistance-i",
+    "requirements": {
+        "skill": 225,
+        "mana": 225
+    },
+    "duration": "PT75M",
+    "skills": {
+        "mystical-resistance": 25
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/maminal-female-ii",
+    "requirements": {
+        "skill": 304,
+        "mana": 304
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "attack-power": 153
+    }
+}

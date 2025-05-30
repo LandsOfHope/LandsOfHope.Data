@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "siege-weapons/training-siege-iii",
+    "requirements": {
+        "skill": 700,
+        "stamina": 70
+    },
+    "effects": {
+        "damage": 53
+    }
+}

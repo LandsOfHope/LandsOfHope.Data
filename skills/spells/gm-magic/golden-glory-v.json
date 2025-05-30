@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/golden-glory-v",
+    "requirements": {
+        "skill": 250,
+        "level": 401,
+        "mana": 5
+    },
+    "duration": "PT20M",
+    "skills": {
+        "armor": 250
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "earth-magic/sandstorm-xi",
+    "requirements": {
+        "skill": 3081,
+        "mana": 3081
+    },
+    "effects": {
+        "damage": 2171
+    }
+}

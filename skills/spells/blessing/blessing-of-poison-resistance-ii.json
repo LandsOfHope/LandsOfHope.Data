@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "blessing/blessing-of-poison-resistance-ii",
+    "requirements": {
+        "skill": 3252,
+        "mana": 3252
+    },
+    "duration": "PT75M",
+    "skills": {
+        "poison-resistance": 340
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "preservation-magic/arcane-resistance-iii",
+    "requirements": {
+        "skill": 869,
+        "mana": 869
+    },
+    "duration": "PT75M",
+    "skills": {
+        "arcane-resistance": 89
+    }
+}

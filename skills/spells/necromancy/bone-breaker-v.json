@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/bone-breaker-v",
+    "requirements": {
+        "skill": 3140,
+        "mana": 3140
+    },
+    "effects": {
+        "damage": 2213
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/phoenix-flight-iv",
+    "requirements": {
+        "skill": 869,
+        "mana": 869
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "air-survival": 435
+    }
+}

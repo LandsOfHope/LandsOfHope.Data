@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "life-magic/life-heal-ii",
+    "requirements": {
+        "skill": 300,
+        "mana": 300
+    },
+    "effects": {
+        "heal": 280
+    }
+}

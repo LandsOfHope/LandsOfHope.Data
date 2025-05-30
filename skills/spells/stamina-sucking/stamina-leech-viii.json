@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "stamina-sucking/stamina-leech-viii",
+    "requirements": {
+        "skill": 3781,
+        "mana": 3781
+    },
+    "duration": "PT25M",
+    "properties": {
+        "STAMINA": -1885
+    },
+    "effects": {
+        "damage": 109
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-maces/pounding-viii",
+    "requirements": {
+        "skill": 541,
+        "stamina": 540
+    },
+    "effects": {
+        "damage": 274
+    }
+}

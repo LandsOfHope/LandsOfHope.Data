@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "preservation-magic/poison-resistance-x",
+    "requirements": {
+        "skill": 3081,
+        "mana": 3081
+    },
+    "duration": "PT75M",
+    "skills": {
+        "poison-resistance": 311
+    }
+}

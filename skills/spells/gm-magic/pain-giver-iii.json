@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/pain-giver-iii",
+    "requirements": {
+        "skill": 571,
+        "mana": 571
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "INTELLIGENCE": 286
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poison-magic/snake-bite-ix",
+    "requirements": {
+        "skill": 1381,
+        "mana": 1381
+    },
+    "effects": {
+        "damage": 981
+    }
+}

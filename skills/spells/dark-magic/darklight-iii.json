@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "dark-magic/darklight-iii",
+    "requirements": {
+        "skill": 87,
+        "mana": 87
+    },
+    "effects": {
+        "damage": 75
+    }
+}

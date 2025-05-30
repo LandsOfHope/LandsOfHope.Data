@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "acid-magic/corrosive-blast-iv",
+    "requirements": {
+        "skill": 962,
+        "mana": 962
+    },
+    "duration": "PT14M",
+    "effects": {
+        "damage": 688
+    }
+}

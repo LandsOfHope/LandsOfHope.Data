@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/orcish-male-i",
+    "requirements": {
+        "skill": 28,
+        "mana": 28
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "STRENGTH": 15
+    }
+}

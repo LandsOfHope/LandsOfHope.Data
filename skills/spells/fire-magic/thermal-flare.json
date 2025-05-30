@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/thermal-flare",
+    "requirements": {
+        "skill": 386,
+        "mana": 386
+    },
+    "effects": {
+        "damage": 285
+    }
+}

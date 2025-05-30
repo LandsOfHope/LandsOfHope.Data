@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/dark-flame-iv",
+    "requirements": {
+        "skill": 2836,
+        "mana": 2836
+    },
+    "effects": {
+        "damage": 2000
+    }
+}

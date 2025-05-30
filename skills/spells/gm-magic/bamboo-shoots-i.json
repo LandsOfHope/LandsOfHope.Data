@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/bamboo-shoots-i",
+    "requirements": {
+        "skill": 204,
+        "mana": 204
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "health-regen": 10
+    }
+}

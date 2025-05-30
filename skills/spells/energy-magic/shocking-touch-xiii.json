@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/shocking-touch-xiii",
+    "requirements": {
+        "skill": 681,
+        "mana": 681
+    },
+    "duration": "PT2M",
+    "effects": {
+        "damage": 491
+    }
+}

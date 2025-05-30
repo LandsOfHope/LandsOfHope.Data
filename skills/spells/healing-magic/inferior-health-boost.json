@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/inferior-health-boost",
+    "requirements": {
+        "skill": 3249,
+        "mana": 3249
+    },
+    "duration": "PT160M",
+    "properties": {
+        "MAXHITPOINTS": 221
+    }
+}

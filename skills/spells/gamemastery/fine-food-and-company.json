@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/fine-food-and-company",
+    "requirements": {
+        "skill": 5,
+        "mana": 33
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "experience-bonus": 400
+    },
+    "properties": {
+        "MAXHITPOINTS": 200
+    }
+}

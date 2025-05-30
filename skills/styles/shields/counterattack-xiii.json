@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shields/counterattack-xiii",
+    "requirements": {
+        "skill": 691,
+        "stamina": 690
+    },
+    "effects": {
+        "damage": 349
+    }
+}

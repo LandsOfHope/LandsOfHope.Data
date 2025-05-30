@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "siege-weapons/training-siege-v",
+    "requirements": {
+        "skill": 900,
+        "stamina": 110
+    },
+    "effects": {
+        "damage": 70
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/gryphon-hatchling",
+    "requirements": {
+        "skill": 211,
+        "mana": 211
+    },
+    "duration": "PT50M"
+}

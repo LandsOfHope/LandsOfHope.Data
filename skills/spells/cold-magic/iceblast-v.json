@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cold-magic/iceblast-v",
+    "requirements": {
+        "skill": 4183,
+        "mana": 4183
+    },
+    "effects": {
+        "damage": 2943
+    }
+}

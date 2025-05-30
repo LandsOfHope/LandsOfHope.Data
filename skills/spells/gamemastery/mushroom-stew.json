@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/mushroom-stew",
+    "requirements": {
+        "skill": 53,
+        "mana": 53
+    },
+    "duration": "PT80M",
+    "properties": {
+        "MAXSTAMINA": 40
+    }
+}

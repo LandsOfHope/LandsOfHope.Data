@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-swords/mastered-decapitation-xi",
+    "requirements": {
+        "skill": 4981,
+        "stamina": 4980
+    },
+    "effects": {
+        "damage": 2494
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/bolt-jolt-vi",
+    "requirements": {
+        "skill": 30,
+        "mana": 30
+    },
+    "duration": "PT140000M",
+    "properties": {
+        "STRENGTH": 300
+    }
+}

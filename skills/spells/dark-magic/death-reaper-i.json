@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "dark-magic/death-reaper-i",
+    "requirements": {
+        "skill": 2796,
+        "mana": 2796
+    },
+    "effects": {
+        "damage": 1972
+    }
+}

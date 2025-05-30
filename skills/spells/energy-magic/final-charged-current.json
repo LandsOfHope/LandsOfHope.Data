@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/final-charged-current",
+    "requirements": {
+        "skill": 5000,
+        "mana": 5001
+    },
+    "duration": 4,
+    "effects": {
+        "damage": 2800
+    }
+}

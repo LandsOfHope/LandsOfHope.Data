@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "warding/forest-armor-iv",
+    "requirements": {
+        "skill": 3880,
+        "mana": 3801
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 2727
+    },
+    "effects": {
+        "damage": 2727
+    }
+}

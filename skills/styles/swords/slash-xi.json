@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "swords/slash-xi",
+    "requirements": {
+        "skill": 631,
+        "stamina": 630
+    },
+    "effects": {
+        "damage": 319
+    }
+}

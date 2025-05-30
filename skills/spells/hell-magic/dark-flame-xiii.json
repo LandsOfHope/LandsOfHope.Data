@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/dark-flame-xiii",
+    "requirements": {
+        "skill": 3151,
+        "mana": 3151
+    },
+    "effects": {
+        "damage": 2220
+    }
+}

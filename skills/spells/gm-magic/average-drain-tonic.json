@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/average-drain-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 1150
+    },
+    "duration": "PT230M",
+    "skills": {
+        "drain-resistance": 230
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/chariot-battle-platform-iii",
+    "requirements": {
+        "skill": 582,
+        "mana": 582
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "armor": 100
+    },
+    "properties": {
+        "MAXHITPOINTS": 110
+    }
+}

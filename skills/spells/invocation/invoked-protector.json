@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "invocation/invoked-protector",
+    "requirements": {
+        "skill": 1250,
+        "mana": 1250
+    },
+    "duration": "PT35M"
+}

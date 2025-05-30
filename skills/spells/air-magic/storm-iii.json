@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/storm-iii",
+    "requirements": {
+        "skill": 2346,
+        "mana": 2346
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1657
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "acid-magic/eroding-bolt-iii",
+    "requirements": {
+        "skill": 3814,
+        "mana": 3814
+    },
+    "duration": "PT14M",
+    "effects": {
+        "damage": 2684
+    }
+}

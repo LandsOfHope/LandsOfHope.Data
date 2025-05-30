@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/older-dragon-skin",
+    "requirements": {
+        "skill": 260,
+        "mana": 260
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "fire-resistance": 131
+    }
+}

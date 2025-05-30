@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "protection/aura-of-shielding-v",
+    "requirements": {
+        "skill": 4626,
+        "mana": 4626
+    },
+    "duration": 4,
+    "skills": {
+        "damage-absorption": 2928
+    },
+    "effects": {
+        "damage": 3253
+    }
+}

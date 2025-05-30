@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "protection/iron-shell-ii",
+    "requirements": {
+        "skill": 2591,
+        "mana": 2591
+    },
+    "duration": 4,
+    "skills": {
+        "damage-absorption": 1645
+    },
+    "effects": {
+        "damage": 1828
+    }
+}

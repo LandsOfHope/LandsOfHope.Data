@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/mount-resurrection",
+    "requirements": {
+        "skill": 78,
+        "mana": 78
+    },
+    "duration": "PT5000M"
+}

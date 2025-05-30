@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/drakos-gift",
+    "requirements": {
+        "skill": 5,
+        "mana": 5
+    },
+    "duration": "PT60M",
+    "properties": {
+        "MAXHITPOINTS": 10
+    }
+}

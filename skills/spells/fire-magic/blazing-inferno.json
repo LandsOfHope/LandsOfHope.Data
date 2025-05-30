@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/blazing-inferno",
+    "requirements": {
+        "skill": 3746,
+        "mana": 3746
+    },
+    "effects": {
+        "damage": 2637
+    }
+}

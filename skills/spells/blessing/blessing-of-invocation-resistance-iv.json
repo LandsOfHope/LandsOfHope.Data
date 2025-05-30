@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "blessing/blessing-of-invocation-resistance-iv",
+    "requirements": {
+        "skill": 3738,
+        "mana": 3738
+    },
+    "duration": "PT75M",
+    "skills": {
+        "invoking-resistance": 388
+    }
+}

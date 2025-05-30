@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/dark-force",
+    "requirements": {
+        "skill": 853,
+        "mana": 853
+    },
+    "duration": "PT120M",
+    "skills": {
+        "celestial-defense": 427
+    }
+}

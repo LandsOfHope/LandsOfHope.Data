@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "inscription/bubbling-pain-viii",
+    "requirements": {
+        "skill": 2319,
+        "mana": 10
+    },
+    "effects": {
+        "damage": 1051
+    }
+}

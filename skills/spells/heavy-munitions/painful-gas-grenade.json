@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "heavy-munitions/painful-gas-grenade",
+    "requirements": {
+        "skill": 4620,
+        "mana": 4620
+    },
+    "effects": {
+        "damage": 2649
+    }
+}

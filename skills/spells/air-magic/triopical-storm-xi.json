@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/triopical-storm-xi",
+    "requirements": {
+        "skill": 3081,
+        "mana": 3081
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 2171
+    }
+}

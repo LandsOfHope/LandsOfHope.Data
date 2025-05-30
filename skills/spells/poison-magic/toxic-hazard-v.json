@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poison-magic/toxic-hazard-v",
+    "requirements": {
+        "skill": 3661,
+        "mana": 3661
+    },
+    "effects": {
+        "damage": 2577
+    }
+}

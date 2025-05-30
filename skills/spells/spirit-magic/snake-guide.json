@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "spirit-magic/snake-guide",
+    "requirements": {
+        "skill": 95,
+        "mana": 95
+    },
+    "duration": "PT30M"
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "preservation-magic/drain-resistance-ix",
+    "requirements": {
+        "skill": 2829,
+        "mana": 2829
+    },
+    "duration": "PT75M",
+    "skills": {
+        "drain-resistance": 285
+    }
+}

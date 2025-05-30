@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "dark-magic/shadow-pain-viii",
+    "requirements": {
+        "skill": 1979,
+        "mana": 1979
+    },
+    "effects": {
+        "damage": 1400
+    }
+}

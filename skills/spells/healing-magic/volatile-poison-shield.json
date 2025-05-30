@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/volatile-poison-shield",
+    "requirements": {
+        "skill": 3837,
+        "mana": 3837
+    },
+    "duration": "PT1260M",
+    "skills": {
+        "poison-resistance": 306
+    }
+}

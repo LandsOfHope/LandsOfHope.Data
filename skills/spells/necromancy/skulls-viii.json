@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/skulls-viii",
+    "requirements": {
+        "skill": 2860,
+        "mana": 2860
+    },
+    "effects": {
+        "damage": 2017
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-axes/mastered-gash-i",
+    "requirements": {
+        "skill": 4681,
+        "stamina": 4680
+    },
+    "effects": {
+        "damage": 2344
+    }
+}

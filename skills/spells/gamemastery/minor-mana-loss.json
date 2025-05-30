@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/minor-mana-loss",
+    "requirements": {
+        "skill": 929,
+        "mana": 929
+    },
+    "duration": "PT75M",
+    "properties": {
+        "MAXMANA": -463
+    }
+}

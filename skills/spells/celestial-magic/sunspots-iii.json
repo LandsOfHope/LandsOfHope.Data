@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "celestial-magic/sunspots-iii",
+    "requirements": {
+        "skill": 3746,
+        "mana": 3746
+    },
+    "effects": {
+        "damage": 2637
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "heavy-munitions/painful-stun-grenade",
+    "requirements": {
+        "skill": 4566,
+        "mana": 4566
+    },
+    "effects": {
+        "damage": 2611
+    }
+}

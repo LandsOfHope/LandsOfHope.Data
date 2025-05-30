@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "celestial-magic/bright-light-iv",
+    "requirements": {
+        "skill": 596,
+        "mana": 596
+    },
+    "effects": {
+        "damage": 432
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "siege-magic/foundation-decay-viii",
+    "requirements": {
+        "skill": 3600,
+        "mana": 1300
+    },
+    "effects": {
+        "damage": 1200
+    }
+}

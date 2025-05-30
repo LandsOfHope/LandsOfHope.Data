@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/soldier-iv",
+    "requirements": {
+        "skill": 637,
+        "mana": 637
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "propelled": 319
+    },
+    "properties": {
+        "STRENGTH": 319
+    }
+}

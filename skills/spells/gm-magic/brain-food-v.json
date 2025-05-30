@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/brain-food-v",
+    "requirements": {
+        "skill": 250,
+        "level": 901,
+        "mana": 5
+    },
+    "duration": "PT305M",
+    "skills": {
+        "experience-bonus": 400
+    }
+}

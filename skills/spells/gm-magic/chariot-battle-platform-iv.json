@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/chariot-battle-platform-iv",
+    "requirements": {
+        "skill": 946,
+        "mana": 946
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "armor": 120
+    },
+    "properties": {
+        "MAXHITPOINTS": 210
+    }
+}

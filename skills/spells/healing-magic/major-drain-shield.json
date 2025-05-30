@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/major-drain-shield",
+    "requirements": {
+        "skill": 4201,
+        "mana": 4201
+    },
+    "duration": "PT1800M",
+    "skills": {
+        "drain-resistance": 376
+    }
+}

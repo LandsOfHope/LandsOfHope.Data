@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "earth-magic/earthen-grip-ix",
+    "requirements": {
+        "skill": 4500,
+        "mana": 4500
+    },
+    "duration": "PT4M",
+    "effects": {
+        "damage": 9
+    }
+}

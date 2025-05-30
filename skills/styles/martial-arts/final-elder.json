@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "martial-arts/final-elder",
+    "requirements": {
+        "skill": 5000,
+        "stamina": 5001
+    },
+    "effects": {
+        "damage": 2694
+    }
+}

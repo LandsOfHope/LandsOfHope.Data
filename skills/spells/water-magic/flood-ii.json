@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/flood-ii",
+    "requirements": {
+        "skill": 1121,
+        "mana": 1121
+    },
+    "effects": {
+        "damage": 799
+    }
+}

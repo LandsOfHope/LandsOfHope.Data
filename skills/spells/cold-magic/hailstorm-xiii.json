@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cold-magic/hailstorm-xiii",
+    "requirements": {
+        "skill": 3979,
+        "mana": 3979
+    },
+    "effects": {
+        "damage": 2800
+    }
+}

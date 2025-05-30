@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/soul-blight-viii",
+    "requirements": {
+        "skill": 2188,
+        "mana": 2188
+    },
+    "effects": {
+        "damage": 1546
+    }
+}

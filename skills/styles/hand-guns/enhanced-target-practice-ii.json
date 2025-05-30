@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "hand-guns/enhanced-target-practice-ii",
+    "requirements": {
+        "skill": 2731,
+        "stamina": 2730
+    },
+    "effects": {
+        "damage": 1369
+    }
+}

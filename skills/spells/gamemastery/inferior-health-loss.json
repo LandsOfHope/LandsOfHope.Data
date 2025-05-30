@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/inferior-health-loss",
+    "requirements": {
+        "skill": 737,
+        "mana": 737
+    },
+    "duration": "PT30M",
+    "properties": {
+        "MAXHITPOINTS": -367
+    }
+}

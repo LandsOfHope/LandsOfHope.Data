@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/invocation-resistance-supplement",
+    "requirements": {
+        "skill": 91,
+        "mana": 91
+    },
+    "duration": "PT30M",
+    "skills": {
+        "invoking-resistance": 200
+    }
+}

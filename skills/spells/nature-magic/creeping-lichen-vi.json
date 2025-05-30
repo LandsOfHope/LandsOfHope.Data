@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "nature-magic/creeping-lichen-vi",
+    "requirements": {
+        "skill": 801,
+        "mana": 801
+    },
+    "effects": {
+        "damage": 575
+    }
+}

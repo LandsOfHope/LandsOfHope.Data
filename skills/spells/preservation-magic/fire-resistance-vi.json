@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "preservation-magic/fire-resistance-vi",
+    "requirements": {
+        "skill": 1877,
+        "mana": 1877
+    },
+    "duration": "PT75M",
+    "skills": {
+        "fire-resistance": 190
+    }
+}

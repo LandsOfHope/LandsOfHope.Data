@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "celestial-weapons/asteroid-slam-ii",
+    "requirements": {
+        "skill": 751,
+        "stamina": 750
+    },
+    "effects": {
+        "damage": 379
+    }
+}

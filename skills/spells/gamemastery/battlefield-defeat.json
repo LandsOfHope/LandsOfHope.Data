@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/battlefield-defeat",
+    "requirements": {
+        "skill": 1,
+        "level": 1000,
+        "mana": 1
+    },
+    "duration": "PT2M",
+    "properties": {
+        "STRENGTH": -1500
+    }
+}

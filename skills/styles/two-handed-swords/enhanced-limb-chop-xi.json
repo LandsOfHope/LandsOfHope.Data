@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-swords/enhanced-limb-chop-xi",
+    "requirements": {
+        "skill": 3001,
+        "stamina": 3000
+    },
+    "effects": {
+        "damage": 1504
+    }
+}

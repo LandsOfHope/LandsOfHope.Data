@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "earth-magic/rocks-v",
+    "requirements": {
+        "skill": 911,
+        "mana": 911
+    },
+    "effects": {
+        "damage": 652
+    }
+}

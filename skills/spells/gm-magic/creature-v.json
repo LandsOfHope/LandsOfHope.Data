@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/creature-v",
+    "requirements": {
+        "skill": 772,
+        "mana": 772
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "MAXHITPOINTS": 387
+    }
+}

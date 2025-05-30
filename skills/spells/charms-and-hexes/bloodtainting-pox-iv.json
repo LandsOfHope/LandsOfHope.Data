@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "charms-and-hexes/bloodtainting-pox-iv",
+    "requirements": {
+        "skill": 3700,
+        "mana": 3600
+    },
+    "duration": "PT4M",
+    "properties": {
+        "MAXHITPOINTS": -1350
+    }
+}

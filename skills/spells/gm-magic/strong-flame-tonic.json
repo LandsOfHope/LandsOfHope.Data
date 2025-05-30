@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/strong-flame-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 2850
+    },
+    "duration": "PT570M",
+    "skills": {
+        "fire-resistance": 570
+    }
+}

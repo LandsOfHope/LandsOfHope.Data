@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cooking-magic/bad-meat-x",
+    "requirements": {
+        "skill": 3501,
+        "mana": 3501
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 2465
+    }
+}

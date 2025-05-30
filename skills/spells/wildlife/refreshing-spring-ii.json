@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "wildlife/refreshing-spring-ii",
+    "requirements": {
+        "skill": 3143,
+        "mana": 314
+    },
+    "effects": {
+        "heal": 2202
+    }
+}

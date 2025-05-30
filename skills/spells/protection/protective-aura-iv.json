@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "protection/protective-aura-iv",
+    "requirements": {
+        "skill": 4108,
+        "mana": 4108
+    },
+    "duration": 4,
+    "skills": {
+        "damage-absorption": 2601
+    },
+    "effects": {
+        "damage": 2890
+    }
+}

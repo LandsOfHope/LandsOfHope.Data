@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/shower-v",
+    "requirements": {
+        "skill": 737,
+        "mana": 737
+    },
+    "effects": {
+        "damage": 530
+    }
+}

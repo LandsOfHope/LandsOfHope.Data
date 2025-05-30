@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/electricity-mage-ii",
+    "requirements": {
+        "skill": 277,
+        "mana": 277
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "energy-resistance": 139
+    },
+    "properties": {
+        "INTELLIGENCE": 139
+    }
+}

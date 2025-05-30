@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/web-enchantment",
+    "requirements": {
+        "level": 46,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 23
+    }
+}

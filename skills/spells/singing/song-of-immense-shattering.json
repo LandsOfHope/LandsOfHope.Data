@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-immense-shattering",
+    "requirements": {
+        "skill": 4200,
+        "mana": 1680
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1477
+    }
+}

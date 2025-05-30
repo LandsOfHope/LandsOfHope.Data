@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "charms-and-hexes/a-pox-on-you-iii",
+    "requirements": {
+        "skill": 550,
+        "mana": 450
+    },
+    "duration": "PT3M",
+    "properties": {
+        "MAXHITPOINTS": -200
+    }
+}

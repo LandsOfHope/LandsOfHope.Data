@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/greencap-vi",
+    "requirements": {
+        "skill": 300,
+        "level": 501,
+        "mana": 6
+    },
+    "duration": "PT21M",
+    "properties": {
+        "DEXTERITY": 300
+    }
+}

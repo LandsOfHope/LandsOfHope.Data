@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/change-into-a-tuskamoth",
+    "requirements": {
+        "skill": 985,
+        "mana": 985
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "STRENGTH": 493
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/werewolf-female-iv",
+    "requirements": {
+        "skill": 790,
+        "mana": 790
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "MAXSTAMINA": 396
+    }
+}

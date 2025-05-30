@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/cyclone-v",
+    "requirements": {
+        "skill": 3781,
+        "mana": 3781
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 2661
+    }
+}

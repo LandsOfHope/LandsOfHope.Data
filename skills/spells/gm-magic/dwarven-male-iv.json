@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/dwarven-male-iv",
+    "requirements": {
+        "skill": 724,
+        "mana": 724
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "fire-survival": 363
+    },
+    "properties": {
+        "STRENGTH": 363
+    }
+}

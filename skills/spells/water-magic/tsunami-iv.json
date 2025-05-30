@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/tsunami-iv",
+    "requirements": {
+        "skill": 1825,
+        "mana": 1825
+    },
+    "effects": {
+        "damage": 1292
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cold-magic/snowstorm-vii",
+    "requirements": {
+        "skill": 2619,
+        "mana": 2619
+    },
+    "effects": {
+        "damage": 1848
+    }
+}

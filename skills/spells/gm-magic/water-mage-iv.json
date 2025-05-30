@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/water-mage-iv",
+    "requirements": {
+        "skill": 682,
+        "mana": 682
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "water-resistance": 342
+    },
+    "properties": {
+        "INTELLIGENCE": 342
+    }
+}

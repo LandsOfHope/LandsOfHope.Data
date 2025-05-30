@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/dangerous-rippling-trap",
+    "requirements": {
+        "skill": 2593,
+        "mana": 2593
+    },
+    "effects": {
+        "damage": 1830
+    }
+}

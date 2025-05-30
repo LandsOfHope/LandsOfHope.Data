@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "heavy-munitions/enhanced-barrage-viii",
+    "requirements": {
+        "skill": 2131,
+        "stamina": 2130
+    },
+    "effects": {
+        "damage": 1069
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "celestial-magic/moonlight-iii",
+    "requirements": {
+        "skill": 2836,
+        "mana": 2836
+    },
+    "effects": {
+        "damage": 2000
+    }
+}

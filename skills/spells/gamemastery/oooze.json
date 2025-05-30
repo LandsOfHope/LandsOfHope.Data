@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/oooze",
+    "requirements": {
+        "level": 60,
+        "mana": 1
+    },
+    "duration": 3,
+    "effects": {
+        "damage": 15
+    }
+}

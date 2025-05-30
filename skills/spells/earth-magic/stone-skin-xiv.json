@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "earth-magic/stone-skin-xiv",
+    "requirements": {
+        "skill": 1471,
+        "mana": 1471
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 1044
+    },
+    "effects": {
+        "damage": 1044
+    }
+}

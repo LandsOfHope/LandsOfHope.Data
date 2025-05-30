@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/darfurk-blessing-iii",
+    "requirements": {
+        "skill": 554,
+        "mana": 554
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "MAXMANA": 278
+    }
+}

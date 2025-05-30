@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/weak-blunt-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 100
+    },
+    "duration": "PT20M",
+    "skills": {
+        "bludgeon-defense": 20
+    }
+}

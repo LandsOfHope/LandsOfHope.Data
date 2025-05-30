@@ -1,0 +1,8 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/summon-golem",
+    "requirements": {
+        "skill": 1,
+        "mana": 1
+    }
+}

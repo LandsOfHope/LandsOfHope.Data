@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/soldier-iii",
+    "requirements": {
+        "skill": 445,
+        "mana": 445
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "propelled": 223
+    },
+    "properties": {
+        "STRENGTH": 223
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "siege-weapons/mastered-siege-x",
+    "requirements": {
+        "skill": 4900,
+        "stamina": 2800
+    },
+    "effects": {
+        "damage": 586
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "inscription/shocking-pain-ix",
+    "requirements": {
+        "skill": 2563,
+        "mana": 11
+    },
+    "effects": {
+        "damage": 1160
+    }
+}

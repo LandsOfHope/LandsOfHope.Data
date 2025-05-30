@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/ice-mage-i",
+    "requirements": {
+        "skill": 121,
+        "mana": 121
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "cold-resistance": 61
+    },
+    "properties": {
+        "INTELLIGENCE": 61
+    }
+}

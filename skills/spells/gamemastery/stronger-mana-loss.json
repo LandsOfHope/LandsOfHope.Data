@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/stronger-mana-loss",
+    "requirements": {
+        "skill": 977,
+        "mana": 977
+    },
+    "duration": "PT180M",
+    "properties": {
+        "MAXMANA": -487
+    }
+}

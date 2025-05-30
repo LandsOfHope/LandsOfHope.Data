@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "mana-draining/energy-syphon-vii",
+    "requirements": {
+        "skill": 2080,
+        "mana": 2080
+    },
+    "duration": "PT25M",
+    "properties": {
+        "MANA": -1035
+    },
+    "effects": {
+        "damage": 109
+    }
+}

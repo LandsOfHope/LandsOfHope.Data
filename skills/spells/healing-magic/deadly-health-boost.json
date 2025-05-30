@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/deadly-health-boost",
+    "requirements": {
+        "skill": 4873,
+        "mana": 4873
+    },
+    "duration": "PT1120M",
+    "properties": {
+        "MAXHITPOINTS": 451
+    }
+}

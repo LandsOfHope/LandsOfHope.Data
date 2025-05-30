@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/flaring-ordnance",
+    "requirements": {
+        "level": 700,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 350
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "restoration-magic/hearty-remedy-ix",
+    "requirements": {
+        "skill": 3385,
+        "mana": 3385
+    },
+    "duration": "PT120M",
+    "properties": {
+        "MAXHITPOINTS": 1707
+    }
+}

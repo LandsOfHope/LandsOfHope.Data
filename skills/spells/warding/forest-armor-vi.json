@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "warding/forest-armor-vi",
+    "requirements": {
+        "skill": 4130,
+        "mana": 4051
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 2902
+    },
+    "effects": {
+        "damage": 2902
+    }
+}

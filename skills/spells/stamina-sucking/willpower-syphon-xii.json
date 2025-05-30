@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "stamina-sucking/willpower-syphon-xii",
+    "requirements": {
+        "skill": 694,
+        "mana": 694
+    },
+    "duration": "PT25M",
+    "properties": {
+        "STAMINA": -342
+    },
+    "effects": {
+        "damage": 109
+    }
+}

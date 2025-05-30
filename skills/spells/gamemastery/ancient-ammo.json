@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/ancient-ammo",
+    "requirements": {
+        "level": 1006,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 503
+    }
+}

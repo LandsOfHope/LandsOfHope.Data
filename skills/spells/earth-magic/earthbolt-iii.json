@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "earth-magic/earthbolt-iii",
+    "requirements": {
+        "skill": 2381,
+        "mana": 2381
+    },
+    "effects": {
+        "damage": 1681
+    }
+}

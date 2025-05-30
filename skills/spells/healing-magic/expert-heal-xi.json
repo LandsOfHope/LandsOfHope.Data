@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/expert-heal-xi",
+    "requirements": {
+        "skill": 4753,
+        "mana": 4753
+    },
+    "effects": {
+        "heal": 3329
+    }
+}

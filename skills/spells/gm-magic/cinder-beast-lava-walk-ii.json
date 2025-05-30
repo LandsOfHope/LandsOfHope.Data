@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/cinder-beast-lava-walk-ii",
+    "requirements": {
+        "skill": 358,
+        "mana": 358
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "fire-survival": 180
+    }
+}

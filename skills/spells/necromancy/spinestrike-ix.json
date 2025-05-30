@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/spinestrike-ix",
+    "requirements": {
+        "skill": 4708,
+        "mana": 4708
+    },
+    "effects": {
+        "damage": 3310
+    }
+}

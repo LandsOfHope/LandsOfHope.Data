@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/bone-shard-vi",
+    "requirements": {
+        "skill": 1432,
+        "mana": 1432
+    },
+    "effects": {
+        "damage": 1017
+    }
+}

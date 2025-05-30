@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/armored-sloth-whoop-ass-iii",
+    "requirements": {
+        "skill": 638,
+        "mana": 638
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "frenzy": 150
+    },
+    "properties": {
+        "MAXHITPOINTS": 400
+    }
+}

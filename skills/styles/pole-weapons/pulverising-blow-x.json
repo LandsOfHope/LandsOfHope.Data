@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "pole-weapons/pulverising-blow-x",
+    "requirements": {
+        "skill": 1771,
+        "stamina": 1770
+    },
+    "effects": {
+        "damage": 889
+    }
+}

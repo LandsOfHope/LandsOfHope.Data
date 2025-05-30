@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/burning-ash-x",
+    "requirements": {
+        "skill": 3333,
+        "level": 1000,
+        "mana": 19
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 990
+    }
+}

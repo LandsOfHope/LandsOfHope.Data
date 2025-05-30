@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "invocation/invoke-demons-iv",
+    "requirements": {
+        "skill": 4647,
+        "mana": 4647
+    },
+    "effects": {
+        "damage": 3267
+    }
+}

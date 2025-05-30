@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/spectral-sloth-spangly-pants-i",
+    "requirements": {
+        "skill": 50,
+        "mana": 50
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "mana-regen": 20
+    },
+    "properties": {
+        "INTELLIGENCE": 30
+    }
+}

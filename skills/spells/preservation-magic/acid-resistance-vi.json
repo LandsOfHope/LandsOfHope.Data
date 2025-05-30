@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "preservation-magic/acid-resistance-vi",
+    "requirements": {
+        "skill": 1989,
+        "mana": 1989
+    },
+    "duration": "PT75M",
+    "skills": {
+        "acid-resistance": 201
+    }
+}

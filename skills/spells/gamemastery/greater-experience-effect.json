@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/greater-experience-effect",
+    "requirements": {
+        "skill": 65,
+        "mana": 65
+    },
+    "duration": "PT150M",
+    "skills": {
+        "experience-bonus": 33
+    }
+}

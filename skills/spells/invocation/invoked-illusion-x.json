@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "invocation/invoked-illusion-x",
+    "requirements": {
+        "skill": 2700,
+        "mana": 2700
+    },
+    "duration": "PT12M",
+    "effects": {
+        "damage": 481
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "health-stealing/life-drain-xi",
+    "requirements": {
+        "skill": 4789,
+        "mana": 4789
+    },
+    "duration": "PT25M",
+    "properties": {
+        "HITPOINTS": -2389
+    },
+    "effects": {
+        "damage": 146
+    }
+}

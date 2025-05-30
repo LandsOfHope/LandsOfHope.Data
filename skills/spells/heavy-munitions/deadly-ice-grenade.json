@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "heavy-munitions/deadly-ice-grenade",
+    "requirements": {
+        "skill": 4809,
+        "mana": 4809
+    },
+    "effects": {
+        "damage": 2781
+    }
+}

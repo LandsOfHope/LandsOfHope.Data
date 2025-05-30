@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/arthurian-iv",
+    "requirements": {
+        "skill": 20,
+        "mana": 20
+    },
+    "duration": "PT140000M",
+    "skills": {
+        "experience-bonus": 300
+    }
+}

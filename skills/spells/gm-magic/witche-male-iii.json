@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/witche-male-iii",
+    "requirements": {
+        "skill": 613,
+        "mana": 613
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "INTELLIGENCE": 307
+    }
+}

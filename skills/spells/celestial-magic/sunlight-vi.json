@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "celestial-magic/sunlight-vi",
+    "requirements": {
+        "skill": 4306,
+        "mana": 4306
+    },
+    "effects": {
+        "damage": 3029
+    }
+}

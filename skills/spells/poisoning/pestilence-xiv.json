@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poisoning/pestilence-xiv",
+    "requirements": {
+        "skill": 4950,
+        "level": 4950,
+        "mana": 20
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 1500
+    }
+}

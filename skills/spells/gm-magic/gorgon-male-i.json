@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/gorgon-male-i",
+    "requirements": {
+        "skill": 388,
+        "mana": 388
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "invoking-resistance": 195
+    },
+    "properties": {
+        "MAXMANA": 195
+    }
+}

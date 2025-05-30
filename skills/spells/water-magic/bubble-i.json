@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/bubble-i",
+    "requirements": {
+        "skill": 1761,
+        "mana": 1761
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 1247
+    },
+    "effects": {
+        "damage": 1247
+    }
+}

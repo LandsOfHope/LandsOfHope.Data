@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/feralkin-dexterity-iii",
+    "requirements": {
+        "skill": 575,
+        "mana": 575
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "DEXTERITY": 270
+    }
+}

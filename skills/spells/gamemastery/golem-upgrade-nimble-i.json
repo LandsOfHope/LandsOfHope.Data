@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/golem-upgrade-nimble-i",
+    "requirements": {
+        "skill": 1,
+        "mana": 1
+    },
+    "properties": {
+        "DEXTERITY": 4
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/weaker-parasite",
+    "requirements": {
+        "skill": 941,
+        "mana": 941
+    },
+    "duration": "PT45M",
+    "skills": {
+        "attack-power": -469
+    },
+    "properties": {
+        "STRENGTH": -469
+    }
+}

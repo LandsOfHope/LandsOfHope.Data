@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/average-projectile-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 1650
+    },
+    "duration": "PT330M",
+    "skills": {
+        "projectile-defense": 330
+    }
+}

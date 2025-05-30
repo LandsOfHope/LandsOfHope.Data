@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/greater-air-protection",
+    "requirements": {
+        "skill": 991,
+        "mana": 991
+    },
+    "duration": "PT3000M",
+    "skills": {
+        "air-resistance": 496
+    }
+}

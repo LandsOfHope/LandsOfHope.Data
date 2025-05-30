@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "warding/barkskin-viii",
+    "requirements": {
+        "skill": 2755,
+        "mana": 2676
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 1939
+    },
+    "effects": {
+        "damage": 1939
+    }
+}

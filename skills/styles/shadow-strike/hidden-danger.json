@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/hidden-danger",
+    "requirements": {
+        "skill": 1009,
+        "stamina": 1009
+    },
+    "effects": {
+        "damage": 615
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/water-cow-swim-i",
+    "requirements": {
+        "skill": 22,
+        "mana": 22
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "water-survival": 12
+    }
+}

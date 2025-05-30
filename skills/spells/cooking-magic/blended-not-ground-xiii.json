@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cooking-magic/blended-not-ground-xiii",
+    "requirements": {
+        "skill": 1716,
+        "mana": 1716
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1216
+    }
+}

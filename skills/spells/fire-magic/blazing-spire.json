@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/blazing-spire",
+    "requirements": {
+        "skill": 1051,
+        "mana": 1051
+    },
+    "effects": {
+        "damage": 750
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "mystical-magic/mystic-blast-viii",
+    "requirements": {
+        "skill": 625,
+        "mana": 625
+    },
+    "effects": {
+        "damage": 452
+    }
+}

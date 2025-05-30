@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "heavy-munitions/mastered-barrage-iv",
+    "requirements": {
+        "skill": 3601,
+        "stamina": 3600
+    },
+    "effects": {
+        "damage": 1804
+    }
+}

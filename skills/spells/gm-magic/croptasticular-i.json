@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/croptasticular-i",
+    "requirements": {
+        "skill": 50,
+        "level": 101,
+        "mana": 1
+    },
+    "duration": "PT301M",
+    "properties": {
+        "MAXSTAMINA": 120
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/witche-male-iv",
+    "requirements": {
+        "skill": 808,
+        "mana": 808
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "INTELLIGENCE": 405
+    }
+}

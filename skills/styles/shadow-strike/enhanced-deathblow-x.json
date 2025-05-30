@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/enhanced-deathblow-x",
+    "requirements": {
+        "skill": 3081,
+        "stamina": 3081
+    },
+    "effects": {
+        "damage": 1858
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/adventurers-compass",
+    "requirements": {
+        "level": 1,
+        "mana": 1
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "exploration": 5000
+    }
+}

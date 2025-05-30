@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "acid-magic/acid-leak-v",
+    "requirements": {
+        "skill": 2233,
+        "mana": 2233
+    },
+    "duration": 4,
+    "effects": {
+        "damage": 1578
+    }
+}

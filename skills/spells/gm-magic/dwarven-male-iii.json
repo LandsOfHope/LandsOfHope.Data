@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/dwarven-male-iii",
+    "requirements": {
+        "skill": 520,
+        "mana": 520
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "fire-survival": 261
+    },
+    "properties": {
+        "STRENGTH": 261
+    }
+}

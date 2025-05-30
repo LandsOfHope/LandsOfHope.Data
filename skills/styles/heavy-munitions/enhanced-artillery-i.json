@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "heavy-munitions/enhanced-artillery-i",
+    "requirements": {
+        "skill": 3091,
+        "stamina": 3090
+    },
+    "effects": {
+        "damage": 1549
+    }
+}

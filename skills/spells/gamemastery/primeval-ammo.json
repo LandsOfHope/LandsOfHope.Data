@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/primeval-ammo",
+    "requirements": {
+        "level": 511,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 255
+    }
+}

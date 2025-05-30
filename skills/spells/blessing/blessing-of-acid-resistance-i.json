@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "blessing/blessing-of-acid-resistance-i",
+    "requirements": {
+        "skill": 3000,
+        "mana": 3000
+    },
+    "duration": "PT75M",
+    "skills": {
+        "acid-resistance": 315
+    }
+}

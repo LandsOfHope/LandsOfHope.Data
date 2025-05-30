@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/battle-ogre-ogres-blood-iii",
+    "requirements": {
+        "skill": 582,
+        "mana": 582
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "health-regen": 60
+    },
+    "properties": {
+        "MAXHITPOINTS": 450
+    }
+}

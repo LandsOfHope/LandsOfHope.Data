@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/wizards-kiss-xi",
+    "requirements": {
+        "skill": 550,
+        "level": 1001,
+        "mana": 11
+    },
+    "duration": "PT26M",
+    "properties": {
+        "INTELLIGENCE": 550
+    }
+}

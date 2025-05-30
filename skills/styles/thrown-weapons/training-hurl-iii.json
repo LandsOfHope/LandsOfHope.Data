@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "thrown-weapons/training-hurl-iii",
+    "requirements": {
+        "skill": 91,
+        "stamina": 90
+    },
+    "effects": {
+        "damage": 49
+    }
+}

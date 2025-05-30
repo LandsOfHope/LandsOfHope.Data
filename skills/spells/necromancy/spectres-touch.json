@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/spectres-touch",
+    "requirements": {
+        "skill": 956,
+        "mana": 956
+    },
+    "effects": {
+        "damage": 684
+    }
+}

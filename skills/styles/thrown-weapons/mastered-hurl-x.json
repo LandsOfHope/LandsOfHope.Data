@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "thrown-weapons/mastered-hurl-x",
+    "requirements": {
+        "skill": 3781,
+        "stamina": 3780
+    },
+    "effects": {
+        "damage": 1894
+    }
+}

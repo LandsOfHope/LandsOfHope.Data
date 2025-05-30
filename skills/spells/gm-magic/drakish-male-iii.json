@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/drakish-male-iii",
+    "requirements": {
+        "skill": 544,
+        "mana": 544
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "air-survival": 273
+    },
+    "properties": {
+        "STRENGTH": 273
+    }
+}

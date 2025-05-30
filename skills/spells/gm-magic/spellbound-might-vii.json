@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/spellbound-might-vii",
+    "requirements": {
+        "skill": 3050,
+        "mana": 5
+    },
+    "duration": "PT50000M",
+    "skills": {
+        "armor": 150
+    },
+    "properties": {
+        "STRENGTH": 300
+    }
+}

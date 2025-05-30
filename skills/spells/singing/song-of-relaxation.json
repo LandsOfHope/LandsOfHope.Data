@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-relaxation",
+    "requirements": {
+        "skill": 3210,
+        "mana": 1284
+    },
+    "duration": "PT1M",
+    "effects": {
+        "heal": 1124
+    }
+}

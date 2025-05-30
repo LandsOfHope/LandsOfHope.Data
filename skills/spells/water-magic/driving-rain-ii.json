@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/driving-rain-ii",
+    "requirements": {
+        "skill": 2721,
+        "mana": 2721
+    },
+    "effects": {
+        "damage": 1919
+    }
+}

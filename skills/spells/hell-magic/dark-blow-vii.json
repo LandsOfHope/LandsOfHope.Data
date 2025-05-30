@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/dark-blow-vii",
+    "requirements": {
+        "skill": 3396,
+        "mana": 3396
+    },
+    "effects": {
+        "damage": 2392
+    }
+}

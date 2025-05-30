@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/inventor-x",
+    "requirements": {
+        "skill": 50,
+        "mana": 50
+    },
+    "duration": "PT140000M",
+    "skills": {
+        "armor": 700
+    }
+}

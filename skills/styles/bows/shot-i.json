@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "bows/shot-i",
+    "requirements": {
+        "skill": 331,
+        "stamina": 330
+    },
+    "effects": {
+        "damage": 169
+    }
+}

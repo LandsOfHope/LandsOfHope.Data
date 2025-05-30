@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/shocking-touch-iii",
+    "requirements": {
+        "skill": 171,
+        "mana": 171
+    },
+    "effects": {
+        "damage": 134
+    }
+}

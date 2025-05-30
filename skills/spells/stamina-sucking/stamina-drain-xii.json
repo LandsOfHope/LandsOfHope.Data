@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "stamina-sucking/stamina-drain-xii",
+    "requirements": {
+        "skill": 4852,
+        "mana": 4852
+    },
+    "duration": "PT25M",
+    "properties": {
+        "STAMINA": -2421
+    },
+    "effects": {
+        "damage": 109
+    }
+}

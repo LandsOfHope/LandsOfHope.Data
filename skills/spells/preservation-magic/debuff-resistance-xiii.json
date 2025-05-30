@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "preservation-magic/debuff-resistance-xiii",
+    "requirements": {
+        "skill": 4117,
+        "mana": 4117
+    },
+    "duration": "PT75M",
+    "skills": {
+        "debuff-resistance": 414
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-radial-resonation",
+    "requirements": {
+        "skill": 4920,
+        "mana": 1968
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1729
+    }
+}

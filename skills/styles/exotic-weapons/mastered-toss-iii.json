@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "exotic-weapons/mastered-toss-iii",
+    "requirements": {
+        "skill": 4351,
+        "stamina": 4350
+    },
+    "effects": {
+        "damage": 2179
+    }
+}

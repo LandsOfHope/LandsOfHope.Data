@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/burning-ash-iii",
+    "requirements": {
+        "skill": 999,
+        "level": 300,
+        "mana": 12
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 290
+    }
+}

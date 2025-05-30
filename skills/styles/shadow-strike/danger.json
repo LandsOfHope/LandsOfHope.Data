@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/danger",
+    "requirements": {
+        "skill": 1541,
+        "stamina": 1541
+    },
+    "effects": {
+        "damage": 934
+    }
+}

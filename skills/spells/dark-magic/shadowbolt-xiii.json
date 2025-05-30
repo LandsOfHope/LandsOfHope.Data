@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "dark-magic/shadowbolt-xiii",
+    "requirements": {
+        "skill": 1635,
+        "mana": 1635
+    },
+    "effects": {
+        "damage": 1159
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/drakish-female-v",
+    "requirements": {
+        "skill": 961,
+        "mana": 961
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "armor": 481
+    },
+    "properties": {
+        "MAXSTAMINA": 481
+    }
+}

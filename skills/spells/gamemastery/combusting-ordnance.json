@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/combusting-ordnance",
+    "requirements": {
+        "level": 875,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 440
+    }
+}

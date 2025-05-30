@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/bloodfunnel-iv",
+    "requirements": {
+        "skill": 200,
+        "level": 301,
+        "mana": 4
+    },
+    "duration": "PT19M",
+    "skills": {
+        "health-regen": 100
+    }
+}

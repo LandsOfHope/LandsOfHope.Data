@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "nature-magic/forest-madness-ii",
+    "requirements": {
+        "skill": 3101,
+        "mana": 3101
+    },
+    "effects": {
+        "damage": 2185
+    }
+}

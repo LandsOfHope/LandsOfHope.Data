@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/strong-poison-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 3300
+    },
+    "duration": "PT660M",
+    "skills": {
+        "poison-resistance": 660
+    }
+}

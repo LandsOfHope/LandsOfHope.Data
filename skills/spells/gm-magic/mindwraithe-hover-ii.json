@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/mindwraithe-hover-ii",
+    "requirements": {
+        "skill": 400,
+        "mana": 400
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "fire-survival": 201
+    }
+}

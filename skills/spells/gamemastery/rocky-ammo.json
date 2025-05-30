@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/rocky-ammo",
+    "requirements": {
+        "level": 721,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 360
+    }
+}

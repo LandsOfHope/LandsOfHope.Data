@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "invocation/invoked-pain-vi",
+    "requirements": {
+        "skill": 2037,
+        "mana": 2037
+    },
+    "effects": {
+        "damage": 1440
+    }
+}

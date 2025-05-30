@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "daggers/enhanced-nick-i",
+    "requirements": {
+        "skill": 2701,
+        "stamina": 2700
+    },
+    "effects": {
+        "damage": 1354
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shields/enhanced-parry-and-smash-xi",
+    "requirements": {
+        "skill": 3001,
+        "stamina": 3000
+    },
+    "effects": {
+        "damage": 1504
+    }
+}

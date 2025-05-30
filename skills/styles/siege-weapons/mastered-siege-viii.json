@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "siege-weapons/mastered-siege-viii",
+    "requirements": {
+        "skill": 4800,
+        "stamina": 2500
+    },
+    "effects": {
+        "damage": 560
+    }
+}

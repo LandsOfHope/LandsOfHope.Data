@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/focused-light-vi",
+    "requirements": {
+        "skill": 35,
+        "mana": 50
+    },
+    "effects": {
+        "damage": 950
+    }
+}

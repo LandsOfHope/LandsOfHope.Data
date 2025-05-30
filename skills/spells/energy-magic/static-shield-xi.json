@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/static-shield-xi",
+    "requirements": {
+        "skill": 2789,
+        "mana": 2789
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 1967
+    },
+    "effects": {
+        "damage": 1967
+    }
+}

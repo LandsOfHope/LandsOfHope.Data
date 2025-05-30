@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/wind-v",
+    "requirements": {
+        "skill": 596,
+        "mana": 596
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 432
+    }
+}

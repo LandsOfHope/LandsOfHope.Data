@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/barbarian-iii",
+    "requirements": {
+        "skill": 427,
+        "mana": 427
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "two-handed-maces": 214
+    },
+    "properties": {
+        "STRENGTH": 214
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/failing-burning-skin",
+    "requirements": {
+        "skill": 2206,
+        "mana": 2206
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 1559
+    },
+    "effects": {
+        "damage": 1559
+    }
+}

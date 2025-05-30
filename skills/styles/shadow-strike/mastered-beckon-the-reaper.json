@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/mastered-beckon-the-reaper",
+    "requirements": {
+        "skill": 4985,
+        "stamina": 4985
+    },
+    "effects": {
+        "damage": 3001
+    }
+}

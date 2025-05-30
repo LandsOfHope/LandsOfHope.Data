@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/minor-drain-shield",
+    "requirements": {
+        "skill": 3557,
+        "mana": 3557
+    },
+    "duration": "PT900M",
+    "skills": {
+        "drain-resistance": 271
+    }
+}

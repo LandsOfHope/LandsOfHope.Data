@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/hells-touch-iii",
+    "requirements": {
+        "skill": 1891,
+        "mana": 1891
+    },
+    "effects": {
+        "damage": 1338
+    }
+}

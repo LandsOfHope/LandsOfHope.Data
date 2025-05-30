@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/painful-icy-trap",
+    "requirements": {
+        "skill": 3268,
+        "mana": 3268
+    },
+    "effects": {
+        "damage": 2302
+    }
+}

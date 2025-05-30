@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/whirlpool-i",
+    "requirements": {
+        "skill": 4577,
+        "mana": 4577
+    },
+    "effects": {
+        "damage": 3218
+    }
+}

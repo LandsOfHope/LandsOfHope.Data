@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "beastmastery/tamers-heart-vi",
+    "requirements": {
+        "skill": 2680,
+        "mana": 1600
+    },
+    "duration": "PT25M",
+    "properties": {
+        "MAXHITPOINTS": 206
+    }
+}

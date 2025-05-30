@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/preystalker-feline-reflexes-iv",
+    "requirements": {
+        "skill": 827,
+        "mana": 827
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "SPEED": 414
+    }
+}

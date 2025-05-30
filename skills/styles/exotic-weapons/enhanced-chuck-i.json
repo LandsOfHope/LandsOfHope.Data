@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "exotic-weapons/enhanced-chuck-i",
+    "requirements": {
+        "skill": 1921,
+        "stamina": 1920
+    },
+    "effects": {
+        "damage": 964
+    }
+}

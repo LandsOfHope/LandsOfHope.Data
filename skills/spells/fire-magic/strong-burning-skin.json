@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/strong-burning-skin",
+    "requirements": {
+        "skill": 3921,
+        "mana": 3921
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 2759
+    },
+    "effects": {
+        "damage": 2759
+    }
+}

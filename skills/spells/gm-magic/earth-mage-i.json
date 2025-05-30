@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/earth-mage-i",
+    "requirements": {
+        "skill": 124,
+        "mana": 124
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "earth-resistance": 63
+    },
+    "properties": {
+        "INTELLIGENCE": 63
+    }
+}

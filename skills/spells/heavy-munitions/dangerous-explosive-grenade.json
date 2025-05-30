@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "heavy-munitions/dangerous-explosive-grenade",
+    "requirements": {
+        "skill": 4863,
+        "mana": 4863
+    },
+    "effects": {
+        "damage": 2819
+    }
+}

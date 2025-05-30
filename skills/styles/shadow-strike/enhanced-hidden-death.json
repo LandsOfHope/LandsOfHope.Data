@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/enhanced-hidden-death",
+    "requirements": {
+        "skill": 2213,
+        "stamina": 2213
+    },
+    "effects": {
+        "damage": 1337
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "intercession/381-feral-symbol",
+    "requirements": {
+        "skill": 3810,
+        "level": 762,
+        "mana": 3810
+    },
+    "duration": "PT999M",
+    "skills": {
+        "attack-power": 381
+    }
+}

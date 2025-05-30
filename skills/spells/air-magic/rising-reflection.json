@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/rising-reflection",
+    "requirements": {
+        "skill": 501,
+        "mana": 501
+    },
+    "duration": "PT1000M",
+    "properties": {
+        "MAXMANA": 251
+    }
+}

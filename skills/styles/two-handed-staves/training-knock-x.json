@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-staves/training-knock-x",
+    "requirements": {
+        "skill": 301,
+        "stamina": 300
+    },
+    "effects": {
+        "damage": 154
+    }
+}

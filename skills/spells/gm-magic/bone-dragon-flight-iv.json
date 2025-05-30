@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/bone-dragon-flight-iv",
+    "requirements": {
+        "skill": 981,
+        "mana": 981
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "air-survival": 491
+    }
+}

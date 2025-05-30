@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "earth-magic/rockfall-viii",
+    "requirements": {
+        "skill": 4376,
+        "mana": 4376
+    },
+    "effects": {
+        "damage": 3078
+    }
+}

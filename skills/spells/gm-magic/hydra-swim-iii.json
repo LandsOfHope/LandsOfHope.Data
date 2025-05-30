@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/hydra-swim-iii",
+    "requirements": {
+        "skill": 540,
+        "mana": 540
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "water-survival": 271
+    }
+}

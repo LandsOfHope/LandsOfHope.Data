@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-staves/thwack-xi",
+    "requirements": {
+        "skill": 1411,
+        "stamina": 1410
+    },
+    "effects": {
+        "damage": 709
+    }
+}

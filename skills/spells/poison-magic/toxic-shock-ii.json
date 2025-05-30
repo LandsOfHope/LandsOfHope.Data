@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poison-magic/toxic-shock-ii",
+    "requirements": {
+        "skill": 1741,
+        "mana": 1741
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 1233
+    }
+}

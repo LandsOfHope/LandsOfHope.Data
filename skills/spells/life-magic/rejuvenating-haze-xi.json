@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "life-magic/rejuvenating-haze-xi",
+    "requirements": {
+        "skill": 4128,
+        "mana": 4128
+    },
+    "duration": 6,
+    "effects": {
+        "heal": 3098
+    }
+}

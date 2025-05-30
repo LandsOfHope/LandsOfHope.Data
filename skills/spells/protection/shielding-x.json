@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "protection/shielding-x",
+    "requirements": {
+        "skill": 3849,
+        "mana": 3849
+    },
+    "duration": 4,
+    "skills": {
+        "damage-absorption": 2439
+    },
+    "effects": {
+        "damage": 2709
+    }
+}

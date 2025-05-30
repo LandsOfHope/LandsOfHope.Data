@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "divine-fury/crusaders-mark-iii",
+    "requirements": {
+        "skill": 3500,
+        "mana": 590
+    },
+    "duration": "PT120M",
+    "skills": {
+        "arcane-resistance": 1000
+    }
+}

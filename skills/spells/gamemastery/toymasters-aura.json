@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/toymasters-aura",
+    "requirements": {
+        "skill": 1,
+        "mana": 1
+    },
+    "duration": "PT540000M",
+    "skills": {
+        "toy-snatching": 2000
+    }
+}

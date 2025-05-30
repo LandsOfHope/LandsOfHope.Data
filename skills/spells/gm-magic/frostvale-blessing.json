@@ -1,0 +1,16 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/frostvale-blessing",
+    "requirements": {
+        "skill": 1,
+        "level": 1,
+        "mana": 1
+    },
+    "duration": "PT1400M",
+    "skills": {
+        "armor": 600
+    },
+    "properties": {
+        "MAXSTAMINA": 600
+    }
+}

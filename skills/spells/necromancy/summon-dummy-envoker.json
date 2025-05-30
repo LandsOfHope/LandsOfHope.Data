@@ -1,0 +1,8 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/summon-dummy-envoker",
+    "requirements": {
+        "skill": 1500,
+        "mana": 1500
+    }
+}

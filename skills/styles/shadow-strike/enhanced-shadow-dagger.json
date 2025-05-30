@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/enhanced-shadow-dagger",
+    "requirements": {
+        "skill": 2185,
+        "stamina": 2185
+    },
+    "effects": {
+        "damage": 1321
+    }
+}

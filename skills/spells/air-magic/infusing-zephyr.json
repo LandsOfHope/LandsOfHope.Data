@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/infusing-zephyr",
+    "requirements": {
+        "skill": 181,
+        "mana": 181
+    },
+    "duration": "PT100M",
+    "properties": {
+        "MAXMANA": 91
+    }
+}

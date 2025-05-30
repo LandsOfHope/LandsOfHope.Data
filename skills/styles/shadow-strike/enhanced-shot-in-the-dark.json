@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/enhanced-shot-in-the-dark",
+    "requirements": {
+        "skill": 2241,
+        "stamina": 2241
+    },
+    "effects": {
+        "damage": 1354
+    }
+}

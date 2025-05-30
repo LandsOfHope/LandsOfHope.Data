@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "nature-magic/stinging-thorns-ii",
+    "requirements": {
+        "skill": 2101,
+        "mana": 2101
+    },
+    "effects": {
+        "damage": 1485
+    }
+}

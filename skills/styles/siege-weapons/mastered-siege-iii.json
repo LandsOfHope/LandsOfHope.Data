@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "siege-weapons/mastered-siege-iii",
+    "requirements": {
+        "skill": 4300,
+        "stamina": 2000
+    },
+    "effects": {
+        "damage": 493
+    }
+}

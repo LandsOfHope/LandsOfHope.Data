@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "earth-magic/earthquake-iii",
+    "requirements": {
+        "skill": 4656,
+        "mana": 4656
+    },
+    "effects": {
+        "damage": 3274
+    }
+}

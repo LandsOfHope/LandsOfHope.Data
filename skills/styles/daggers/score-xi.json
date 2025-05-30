@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "daggers/score-xi",
+    "requirements": {
+        "skill": 1801,
+        "stamina": 1800
+    },
+    "effects": {
+        "damage": 904
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cold-magic/glacial-break-xiii",
+    "requirements": {
+        "skill": 4897,
+        "mana": 4897
+    },
+    "effects": {
+        "damage": 3442
+    }
+}

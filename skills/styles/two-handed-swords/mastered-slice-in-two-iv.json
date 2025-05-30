@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-swords/mastered-slice-in-two-iv",
+    "requirements": {
+        "skill": 3991,
+        "stamina": 3990
+    },
+    "effects": {
+        "damage": 1999
+    }
+}

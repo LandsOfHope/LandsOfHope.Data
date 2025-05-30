@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "protection/protect-from-harm-xiv",
+    "requirements": {
+        "skill": 482,
+        "mana": 482
+    },
+    "duration": 2,
+    "skills": {
+        "damage-absorption": 317
+    },
+    "effects": {
+        "damage": 352
+    }
+}

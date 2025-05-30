@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/change-into-a-water-elemental",
+    "requirements": {
+        "skill": 850,
+        "mana": 850
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "water-resistance": 426
+    },
+    "properties": {
+        "INTELLIGENCE": 426
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/sensai-iv",
+    "requirements": {
+        "skill": 634,
+        "mana": 634
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "SPEED": 318
+    }
+}

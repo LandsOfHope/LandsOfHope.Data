@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/cold-survival-ii",
+    "requirements": {
+        "skill": 91,
+        "mana": 91
+    },
+    "duration": "PT30M",
+    "skills": {
+        "cold-survival": 1000
+    }
+}

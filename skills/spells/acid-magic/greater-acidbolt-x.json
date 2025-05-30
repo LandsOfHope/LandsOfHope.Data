@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "acid-magic/greater-acidbolt-x",
+    "requirements": {
+        "skill": 3597,
+        "mana": 3597
+    },
+    "duration": "PT10M",
+    "effects": {
+        "damage": 2532
+    }
+}

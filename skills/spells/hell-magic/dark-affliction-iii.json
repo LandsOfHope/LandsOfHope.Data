@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/dark-affliction-iii",
+    "requirements": {
+        "skill": 4166,
+        "mana": 4166
+    },
+    "effects": {
+        "damage": 2931
+    }
+}

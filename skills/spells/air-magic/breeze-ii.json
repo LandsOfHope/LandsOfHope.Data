@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/breeze-ii",
+    "requirements": {
+        "skill": 36,
+        "mana": 36
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 40
+    }
+}

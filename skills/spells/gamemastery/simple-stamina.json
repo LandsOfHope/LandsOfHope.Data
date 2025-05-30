@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/simple-stamina",
+    "requirements": {
+        "skill": 73,
+        "mana": 73
+    },
+    "duration": "PT49995M",
+    "properties": {
+        "MAXSTAMINA": 37
+    }
+}

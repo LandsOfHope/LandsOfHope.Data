@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/reliable-flaming-bolt",
+    "requirements": {
+        "skill": 2241,
+        "mana": 2241
+    },
+    "duration": "PT13M",
+    "effects": {
+        "damage": 1583
+    }
+}

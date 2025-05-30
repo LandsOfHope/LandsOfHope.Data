@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/hells-affliction-i",
+    "requirements": {
+        "skill": 2276,
+        "mana": 2276
+    },
+    "effects": {
+        "damage": 1608
+    }
+}

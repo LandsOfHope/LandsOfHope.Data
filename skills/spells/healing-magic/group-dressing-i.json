@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/group-dressing-i",
+    "requirements": {
+        "skill": 2161,
+        "mana": 2161
+    },
+    "effects": {
+        "heal": 1515
+    }
+}

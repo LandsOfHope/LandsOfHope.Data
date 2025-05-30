@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/electricity-mage-v",
+    "requirements": {
+        "skill": 889,
+        "mana": 889
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "energy-resistance": 445
+    },
+    "properties": {
+        "INTELLIGENCE": 445
+    }
+}

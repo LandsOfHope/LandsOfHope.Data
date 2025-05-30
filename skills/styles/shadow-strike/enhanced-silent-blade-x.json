@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/enhanced-silent-blade-x",
+    "requirements": {
+        "skill": 2045,
+        "stamina": 2045
+    },
+    "effects": {
+        "damage": 1237
+    }
+}

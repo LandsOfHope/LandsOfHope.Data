@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/precision-strike",
+    "requirements": {
+        "skill": 1597,
+        "stamina": 1597
+    },
+    "effects": {
+        "damage": 968
+    }
+}

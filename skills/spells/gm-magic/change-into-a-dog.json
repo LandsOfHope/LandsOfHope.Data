@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/change-into-a-dog",
+    "requirements": {
+        "skill": 172,
+        "mana": 172
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "SPEED": 87
+    }
+}

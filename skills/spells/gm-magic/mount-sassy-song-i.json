@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/mount-sassy-song-i",
+    "requirements": {
+        "skill": 85,
+        "mana": 85
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "INTELLIGENCE": 150
+    }
+}

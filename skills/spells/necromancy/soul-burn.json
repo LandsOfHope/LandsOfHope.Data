@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/soul-burn",
+    "requirements": {
+        "skill": 1264,
+        "mana": 1264
+    },
+    "effects": {
+        "damage": 899
+    }
+}

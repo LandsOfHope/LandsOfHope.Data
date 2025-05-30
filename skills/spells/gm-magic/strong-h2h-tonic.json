@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/strong-h2h-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 2950
+    },
+    "duration": "PT590M",
+    "skills": {
+        "h2h-defense": 590
+    }
+}

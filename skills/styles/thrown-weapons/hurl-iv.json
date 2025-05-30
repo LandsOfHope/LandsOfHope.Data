@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "thrown-weapons/hurl-iv",
+    "requirements": {
+        "skill": 421,
+        "stamina": 420
+    },
+    "effects": {
+        "damage": 214
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "beastmastery/tamers-soul-viii",
+    "requirements": {
+        "skill": 3165,
+        "mana": 2300
+    },
+    "duration": "PT25M",
+    "properties": {
+        "MAXMANA": 295
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "intercession/220-angelic-symbol",
+    "requirements": {
+        "skill": 2200,
+        "level": 440,
+        "mana": 2200
+    },
+    "duration": "PT999M",
+    "skills": {
+        "armor": 220
+    }
+}

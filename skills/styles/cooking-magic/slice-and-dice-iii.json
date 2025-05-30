@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "cooking-magic/slice-and-dice-iii",
+    "requirements": {
+        "skill": 386,
+        "stamina": 386
+    },
+    "effects": {
+        "damage": 285
+    }
+}

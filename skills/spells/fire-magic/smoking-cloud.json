@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/smoking-cloud",
+    "requirements": {
+        "skill": 281,
+        "mana": 281
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 211
+    }
+}

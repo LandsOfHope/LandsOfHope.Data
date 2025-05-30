@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "heavy-munitions/training-barrage-v",
+    "requirements": {
+        "skill": 151,
+        "stamina": 150
+    },
+    "effects": {
+        "damage": 79
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/true-enlightenment",
+    "requirements": {
+        "skill": 1,
+        "mana": 61
+    },
+    "duration": "PT720M",
+    "skills": {
+        "experience-bonus": 3000
+    }
+}

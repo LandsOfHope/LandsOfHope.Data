@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/maminal-male-iv",
+    "requirements": {
+        "skill": 697,
+        "mana": 697
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "armor": 349
+    }
+}

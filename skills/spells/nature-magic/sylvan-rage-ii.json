@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "nature-magic/sylvan-rage-ii",
+    "requirements": {
+        "skill": 4101,
+        "mana": 4101
+    },
+    "effects": {
+        "damage": 2885
+    }
+}

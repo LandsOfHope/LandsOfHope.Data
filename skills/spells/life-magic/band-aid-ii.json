@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "life-magic/band-aid-ii",
+    "requirements": {
+        "skill": 1840,
+        "mana": 1840
+    },
+    "duration": "PT11M",
+    "effects": {
+        "heal": 1382
+    }
+}

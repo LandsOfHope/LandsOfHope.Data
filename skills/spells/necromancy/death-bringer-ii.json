@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/death-bringer-ii",
+    "requirements": {
+        "skill": 3420,
+        "mana": 3420
+    },
+    "effects": {
+        "damage": 2409
+    }
+}

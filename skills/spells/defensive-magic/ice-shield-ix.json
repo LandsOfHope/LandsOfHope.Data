@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "defensive-magic/ice-shield-ix",
+    "requirements": {
+        "skill": 379,
+        "mana": 379
+    },
+    "duration": "PT495M",
+    "skills": {
+        "cold-resistance": 204
+    }
+}

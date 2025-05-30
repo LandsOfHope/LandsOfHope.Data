@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "spirit-magic/spirit-aid-dinnshenchas",
+    "requirements": {
+        "skill": 1129,
+        "mana": 1129
+    },
+    "duration": "PT30M"
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/mastered-deadly-intentions",
+    "requirements": {
+        "skill": 4901,
+        "stamina": 4901
+    },
+    "effects": {
+        "damage": 2950
+    }
+}

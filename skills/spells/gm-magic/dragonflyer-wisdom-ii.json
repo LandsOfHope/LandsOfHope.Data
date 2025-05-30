@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/dragonflyer-wisdom-ii",
+    "requirements": {
+        "skill": 505,
+        "mana": 505
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "MAXMANA": 100
+    }
+}

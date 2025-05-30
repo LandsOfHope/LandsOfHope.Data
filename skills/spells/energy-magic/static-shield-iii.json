@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/static-shield-iii",
+    "requirements": {
+        "skill": 1259,
+        "mana": 1259
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 896
+    },
+    "effects": {
+        "damage": 896
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/purpledaze-v",
+    "requirements": {
+        "skill": 250,
+        "level": 401,
+        "mana": 5
+    },
+    "duration": "PT20M",
+    "properties": {
+        "MAXHITPOINTS": 250
+    }
+}

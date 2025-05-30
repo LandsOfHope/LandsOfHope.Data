@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/bear-roar-i",
+    "requirements": {
+        "skill": 50,
+        "mana": 50
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "attack-power": 40
+    }
+}

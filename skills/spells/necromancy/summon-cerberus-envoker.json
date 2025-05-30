@@ -1,0 +1,8 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/summon-cerberus-envoker",
+    "requirements": {
+        "skill": 2000,
+        "mana": 2000
+    }
+}

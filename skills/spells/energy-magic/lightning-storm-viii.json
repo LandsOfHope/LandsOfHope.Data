@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/lightning-storm-viii",
+    "requirements": {
+        "skill": 4795,
+        "mana": 4795
+    },
+    "effects": {
+        "damage": 3371
+    }
+}

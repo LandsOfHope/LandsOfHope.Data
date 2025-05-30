@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "crossbows/crossshot-x",
+    "requirements": {
+        "skill": 601,
+        "stamina": 600
+    },
+    "effects": {
+        "damage": 304
+    }
+}

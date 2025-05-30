@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/driving-rain-x",
+    "requirements": {
+        "skill": 3009,
+        "mana": 3009
+    },
+    "duration": "PT132M",
+    "effects": {
+        "damage": 2121
+    }
+}

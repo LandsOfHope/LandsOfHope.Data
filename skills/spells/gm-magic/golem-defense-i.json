@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/golem-defense-i",
+    "requirements": {
+        "skill": 15,
+        "mana": 15
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "armor": 8
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/spellbound-knowledge-iii",
+    "requirements": {
+        "skill": 1100,
+        "mana": 5
+    },
+    "duration": "PT50000M",
+    "properties": {
+        "INTELLIGENCE": 100
+    }
+}

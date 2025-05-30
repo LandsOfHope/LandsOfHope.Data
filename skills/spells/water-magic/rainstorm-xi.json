@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/rainstorm-xi",
+    "requirements": {
+        "skill": 2561,
+        "mana": 2561
+    },
+    "duration": "PT110M",
+    "effects": {
+        "damage": 1807
+    }
+}

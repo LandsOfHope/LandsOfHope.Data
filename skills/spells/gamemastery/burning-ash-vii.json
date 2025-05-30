@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/burning-ash-vii",
+    "requirements": {
+        "skill": 2333,
+        "level": 700,
+        "mana": 16
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 690
+    }
+}

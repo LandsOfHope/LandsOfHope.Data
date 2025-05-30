@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-guns/enhanced-salvo-vii",
+    "requirements": {
+        "skill": 2101,
+        "stamina": 2100
+    },
+    "effects": {
+        "damage": 1054
+    }
+}

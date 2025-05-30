@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/training-drain-iv",
+    "requirements": {
+        "skill": 226,
+        "mana": 226
+    },
+    "duration": "PT25M",
+    "properties": {
+        "HITPOINTS": 118
+    },
+    "effects": {
+        "damage": 173
+    }
+}

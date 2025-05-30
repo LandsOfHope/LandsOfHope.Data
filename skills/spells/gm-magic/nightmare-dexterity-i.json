@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/nightmare-dexterity-i",
+    "requirements": {
+        "skill": 190,
+        "mana": 190
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "DEXTERITY": 96
+    }
+}

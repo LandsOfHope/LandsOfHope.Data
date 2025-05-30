@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/change-into-a-electricity-elemental",
+    "requirements": {
+        "skill": 982,
+        "mana": 982
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "energy-resistance": 492
+    },
+    "properties": {
+        "INTELLIGENCE": 492
+    }
+}

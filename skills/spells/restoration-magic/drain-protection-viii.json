@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "restoration-magic/drain-protection-viii",
+    "requirements": {
+        "skill": 3480,
+        "mana": 3480
+    },
+    "duration": "PT100M",
+    "skills": {
+        "drain-resistance": 1755
+    }
+}

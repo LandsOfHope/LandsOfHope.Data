@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "dark-magic/darkstorm-iv",
+    "requirements": {
+        "skill": 4602,
+        "mana": 4602
+    },
+    "effects": {
+        "damage": 3236
+    }
+}

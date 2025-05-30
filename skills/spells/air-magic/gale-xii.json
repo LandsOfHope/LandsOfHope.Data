@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/gale-xii",
+    "requirements": {
+        "skill": 1751,
+        "mana": 1751
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1240
+    }
+}

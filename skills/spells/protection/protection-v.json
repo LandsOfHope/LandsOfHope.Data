@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "protection/protection-v",
+    "requirements": {
+        "skill": 3183,
+        "mana": 3183
+    },
+    "duration": 4,
+    "skills": {
+        "damage-absorption": 2019
+    },
+    "effects": {
+        "damage": 2243
+    }
+}

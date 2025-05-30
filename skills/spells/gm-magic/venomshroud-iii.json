@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/venomshroud-iii",
+    "requirements": {
+        "skill": 150,
+        "level": 201,
+        "mana": 3
+    },
+    "duration": "PT18M",
+    "skills": {
+        "poison-resistance": 300
+    }
+}

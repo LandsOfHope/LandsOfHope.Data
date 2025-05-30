@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/magma-shield-iv",
+    "requirements": {
+        "skill": 981,
+        "mana": 981
+    },
+    "duration": 10,
+    "skills": {
+        "damage-absorption": 400
+    }
+}

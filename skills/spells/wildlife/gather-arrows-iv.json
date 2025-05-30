@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "wildlife/gather-arrows-iv",
+    "requirements": {
+        "skill": 4518,
+        "mana": 451
+    },
+    "duration": "PT50M"
+}

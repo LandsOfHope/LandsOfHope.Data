@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poisoning/filth-xii",
+    "requirements": {
+        "skill": 3275,
+        "level": 3275,
+        "mana": 17
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 997
+    }
+}

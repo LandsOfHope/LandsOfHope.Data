@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "daggers/enhanced-thrust-xi",
+    "requirements": {
+        "skill": 2611,
+        "stamina": 2610
+    },
+    "effects": {
+        "damage": 1309
+    }
+}

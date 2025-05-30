@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/savage-i",
+    "requirements": {
+        "skill": 79,
+        "mana": 79
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "attack-power": 40
+    },
+    "properties": {
+        "STRENGTH": 40
+    }
+}

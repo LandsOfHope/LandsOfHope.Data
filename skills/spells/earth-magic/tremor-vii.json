@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "earth-magic/tremor-vii",
+    "requirements": {
+        "skill": 3886,
+        "mana": 3886
+    },
+    "effects": {
+        "damage": 2735
+    }
+}

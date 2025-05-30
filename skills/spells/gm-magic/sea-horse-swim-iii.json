@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/sea-horse-swim-iii",
+    "requirements": {
+        "skill": 743,
+        "mana": 743
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "water-survival": 372
+    }
+}

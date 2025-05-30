@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "reformation/tuned-reflexes",
+    "requirements": {
+        "skill": 500,
+        "mana": 100
+    },
+    "duration": "PT120M",
+    "skills": {
+        "attack-evasion": 5
+    }
+}

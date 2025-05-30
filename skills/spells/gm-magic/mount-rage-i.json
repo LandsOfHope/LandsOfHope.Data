@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/mount-rage-i",
+    "requirements": {
+        "skill": 120,
+        "mana": 120
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "attack-power": 61
+    },
+    "properties": {
+        "SPEED": 61
+    }
+}

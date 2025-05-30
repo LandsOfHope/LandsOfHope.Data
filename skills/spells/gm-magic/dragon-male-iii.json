@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/dragon-male-iii",
+    "requirements": {
+        "skill": 553,
+        "mana": 553
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "armor": 277
+    },
+    "properties": {
+        "STRENGTH": 277
+    }
+}

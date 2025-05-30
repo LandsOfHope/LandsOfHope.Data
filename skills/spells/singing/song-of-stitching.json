@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-stitching",
+    "requirements": {
+        "skill": 4155,
+        "mana": 1662
+    },
+    "duration": "PT1M",
+    "effects": {
+        "heal": 1454
+    }
+}

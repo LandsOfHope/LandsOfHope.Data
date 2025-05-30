@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/average-debuff-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 1450
+    },
+    "duration": "PT290M",
+    "skills": {
+        "debuff-resistance": 290
+    }
+}

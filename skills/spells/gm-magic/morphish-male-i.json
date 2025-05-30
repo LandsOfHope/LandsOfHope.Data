@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/morphish-male-i",
+    "requirements": {
+        "skill": 154,
+        "mana": 154
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "INTELLIGENCE": 78
+    }
+}

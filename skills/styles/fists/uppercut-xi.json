@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "fists/uppercut-xi",
+    "requirements": {
+        "skill": 1411,
+        "stamina": 1410
+    },
+    "effects": {
+        "damage": 709
+    }
+}

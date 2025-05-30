@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/glowing-drain-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 4125
+    },
+    "duration": "PT825M",
+    "skills": {
+        "drain-resistance": 825
+    }
+}

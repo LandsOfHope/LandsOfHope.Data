@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/thermic-ordnance",
+    "requirements": {
+        "level": 900,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 455
+    }
+}

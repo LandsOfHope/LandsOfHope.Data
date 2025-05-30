@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/rhino-thick-skin-iv",
+    "requirements": {
+        "skill": 834,
+        "mana": 834
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "armor": 700
+    },
+    "properties": {
+        "MAXHITPOINTS": 550
+    }
+}

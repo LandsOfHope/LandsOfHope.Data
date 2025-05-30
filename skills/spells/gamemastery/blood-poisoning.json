@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/blood-poisoning",
+    "requirements": {
+        "level": 5,
+        "mana": 1
+    },
+    "duration": 3,
+    "effects": {
+        "damage": 10
+    }
+}

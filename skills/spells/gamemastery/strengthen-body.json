@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/strengthen-body",
+    "requirements": {
+        "skill": 801,
+        "mana": 801
+    },
+    "duration": "PT300M",
+    "properties": {
+        "STRENGTH": 401
+    }
+}

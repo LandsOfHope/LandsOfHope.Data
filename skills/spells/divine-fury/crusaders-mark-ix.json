@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "divine-fury/crusaders-mark-ix",
+    "requirements": {
+        "skill": 4700,
+        "mana": 710
+    },
+    "duration": "PT120M",
+    "skills": {
+        "arcane-resistance": 1600
+    }
+}

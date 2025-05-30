@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/tent-blessing-ii",
+    "requirements": {
+        "skill": 65,
+        "mana": 50
+    },
+    "duration": "PT120M",
+    "skills": {
+        "health-regen": 15
+    }
+}

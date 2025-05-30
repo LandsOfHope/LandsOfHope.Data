@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "pole-weapons/mastered-longblow-v",
+    "requirements": {
+        "skill": 4021,
+        "stamina": 4020
+    },
+    "effects": {
+        "damage": 2014
+    }
+}

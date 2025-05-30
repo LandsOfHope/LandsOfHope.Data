@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/air-resistance-i",
+    "requirements": {
+        "skill": 91,
+        "mana": 91
+    },
+    "duration": "PT30M",
+    "skills": {
+        "air-resistance": 46
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cold-magic/chilled-skin-iii",
+    "requirements": {
+        "skill": 341,
+        "mana": 341
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 253
+    },
+    "effects": {
+        "damage": 253
+    }
+}

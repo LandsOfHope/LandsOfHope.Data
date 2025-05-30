@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "botany/hemlock",
+    "requirements": {
+        "skill": 3880,
+        "mana": 776
+    },
+    "duration": "PT50M"
+}

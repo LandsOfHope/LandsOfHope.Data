@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "mana-draining/energy-steal-ix",
+    "requirements": {
+        "skill": 1387,
+        "mana": 1387
+    },
+    "duration": "PT25M",
+    "properties": {
+        "MANA": -688
+    },
+    "effects": {
+        "damage": 109
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/battle-tiger-snarl-iii",
+    "requirements": {
+        "skill": 582,
+        "mana": 582
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "attack-power": 60
+    },
+    "properties": {
+        "DEXTERITY": 70
+    }
+}

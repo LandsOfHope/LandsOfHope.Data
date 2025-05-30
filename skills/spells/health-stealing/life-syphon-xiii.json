@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "health-stealing/life-syphon-xiii",
+    "requirements": {
+        "skill": 2458,
+        "mana": 2458
+    },
+    "duration": "PT25M",
+    "properties": {
+        "HITPOINTS": -1224
+    },
+    "effects": {
+        "damage": 109
+    }
+}

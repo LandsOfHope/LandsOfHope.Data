@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/305-strength",
+    "requirements": {
+        "skill": 3050,
+        "level": 610,
+        "mana": 61
+    },
+    "duration": "PT60M",
+    "properties": {
+        "STRENGTH": 305
+    }
+}

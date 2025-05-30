@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poison-magic/poison-bolt-iii",
+    "requirements": {
+        "skill": 241,
+        "mana": 241
+    },
+    "effects": {
+        "damage": 183
+    }
+}

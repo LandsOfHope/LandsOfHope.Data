@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "charms-and-hexes/the-black-spot-v",
+    "requirements": {
+        "skill": 2350,
+        "mana": 2250
+    },
+    "duration": "PT4M",
+    "properties": {
+        "MAXHITPOINTS": -850
+    }
+}

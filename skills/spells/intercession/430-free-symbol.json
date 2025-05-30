@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "intercession/430-free-symbol",
+    "requirements": {
+        "skill": 4300,
+        "level": 860,
+        "mana": 4300
+    },
+    "duration": "PT999M",
+    "properties": {
+        "MAXSTAMINA": 430
+    }
+}

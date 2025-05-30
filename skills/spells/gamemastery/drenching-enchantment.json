@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/drenching-enchantment",
+    "requirements": {
+        "level": 811,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 405
+    }
+}

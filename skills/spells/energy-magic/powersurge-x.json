@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/powersurge-x",
+    "requirements": {
+        "skill": 1837,
+        "mana": 1837
+    },
+    "duration": "PT5M",
+    "effects": {
+        "damage": 1300
+    }
+}

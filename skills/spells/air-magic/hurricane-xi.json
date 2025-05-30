@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/hurricane-xi",
+    "requirements": {
+        "skill": 3536,
+        "mana": 3536
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 2490
+    }
+}

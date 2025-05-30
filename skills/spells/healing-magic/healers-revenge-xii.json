@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/healers-revenge-xii",
+    "requirements": {
+        "skill": 4876,
+        "mana": 4876
+    },
+    "duration": "PT25M",
+    "properties": {
+        "HITPOINTS": 2443
+    },
+    "effects": {
+        "damage": 3428
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "acid-magic/acid-rain-xiv",
+    "requirements": {
+        "skill": 2946,
+        "mana": 2946
+    },
+    "duration": 8,
+    "effects": {
+        "damage": 2077
+    }
+}

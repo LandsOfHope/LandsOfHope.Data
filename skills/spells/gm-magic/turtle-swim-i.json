@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/turtle-swim-i",
+    "requirements": {
+        "skill": 162,
+        "mana": 162
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "water-survival": 82
+    }
+}

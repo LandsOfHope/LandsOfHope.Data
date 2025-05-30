@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/glacial-enchantment",
+    "requirements": {
+        "level": 421,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 210
+    }
+}

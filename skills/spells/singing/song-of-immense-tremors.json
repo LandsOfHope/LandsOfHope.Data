@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-immense-tremors",
+    "requirements": {
+        "skill": 4040,
+        "mana": 1616
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1421
+    }
+}

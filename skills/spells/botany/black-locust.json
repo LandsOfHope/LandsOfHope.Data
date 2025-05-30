@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "botany/black-locust",
+    "requirements": {
+        "skill": 4130,
+        "mana": 826
+    },
+    "duration": "PT50M"
+}

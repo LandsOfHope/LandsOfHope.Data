@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/life-drain-x",
+    "requirements": {
+        "skill": 1651,
+        "mana": 1651
+    },
+    "duration": "PT25M",
+    "properties": {
+        "HITPOINTS": 830
+    },
+    "effects": {
+        "damage": 1170
+    }
+}

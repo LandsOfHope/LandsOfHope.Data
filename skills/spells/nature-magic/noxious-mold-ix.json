@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "nature-magic/noxious-mold-ix",
+    "requirements": {
+        "skill": 451,
+        "mana": 451
+    },
+    "effects": {
+        "damage": 330
+    }
+}

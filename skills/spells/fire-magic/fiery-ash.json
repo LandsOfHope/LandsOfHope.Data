@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/fiery-ash",
+    "requirements": {
+        "skill": 246,
+        "mana": 246
+    },
+    "effects": {
+        "damage": 187
+    }
+}

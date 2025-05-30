@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/life-drain",
+    "requirements": {
+        "skill": 1460,
+        "mana": 1460
+    },
+    "effects": {
+        "damage": 1037
+    }
+}

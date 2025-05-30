@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/nasty-errosive-trap",
+    "requirements": {
+        "skill": 4159,
+        "mana": 4159
+    },
+    "effects": {
+        "damage": 2926
+    }
+}

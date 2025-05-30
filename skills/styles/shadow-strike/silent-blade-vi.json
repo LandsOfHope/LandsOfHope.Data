@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/silent-blade-vi",
+    "requirements": {
+        "skill": 197,
+        "stamina": 197
+    },
+    "effects": {
+        "damage": 128
+    }
+}

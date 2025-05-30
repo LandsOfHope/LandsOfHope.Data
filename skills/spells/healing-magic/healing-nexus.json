@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/healing-nexus",
+    "requirements": {
+        "skill": 3025,
+        "mana": 3025
+    },
+    "effects": {
+        "heal": 2120
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/giant-beetle-defense-ii",
+    "requirements": {
+        "skill": 316,
+        "mana": 316
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "armor": 159
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "defensive-magic/fire-shield-vi",
+    "requirements": {
+        "skill": 393,
+        "mana": 393
+    },
+    "duration": "PT330M",
+    "skills": {
+        "fire-resistance": 211
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/saddled-steed",
+    "requirements": {
+        "skill": 1,
+        "mana": 1
+    }
+}

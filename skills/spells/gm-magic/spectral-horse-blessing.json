@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/spectral-horse-blessing",
+    "requirements": {
+        "skill": 484,
+        "mana": 484
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "MAXSTAMINA": 350
+    }
+}

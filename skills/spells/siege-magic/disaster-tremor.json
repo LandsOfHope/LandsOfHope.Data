@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "siege-magic/disaster-tremor",
+    "requirements": {
+        "skill": 700,
+        "mana": 70
+    },
+    "effects": {
+        "damage": 160
+    }
+}

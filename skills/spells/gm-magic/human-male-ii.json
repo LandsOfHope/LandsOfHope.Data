@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/human-male-ii",
+    "requirements": {
+        "skill": 187,
+        "mana": 187
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "water-survival": 94
+    }
+}

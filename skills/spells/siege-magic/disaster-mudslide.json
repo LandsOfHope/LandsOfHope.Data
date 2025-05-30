@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "siege-magic/disaster-mudslide",
+    "requirements": {
+        "skill": 600,
+        "mana": 50
+    },
+    "effects": {
+        "damage": 130
+    }
+}

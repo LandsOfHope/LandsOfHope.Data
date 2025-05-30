@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/electrical-spark-ix",
+    "requirements": {
+        "skill": 1293,
+        "mana": 1293
+    },
+    "duration": "PT5M",
+    "effects": {
+        "damage": 920
+    }
+}

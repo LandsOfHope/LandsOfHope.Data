@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-horrendous-lyrics",
+    "requirements": {
+        "skill": 4280,
+        "mana": 1712
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1505
+    }
+}

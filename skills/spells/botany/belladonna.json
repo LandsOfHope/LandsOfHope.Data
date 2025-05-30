@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "botany/belladonna",
+    "requirements": {
+        "skill": 3380,
+        "mana": 676
+    },
+    "duration": "PT50M"
+}

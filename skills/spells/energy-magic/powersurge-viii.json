@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/powersurge-viii",
+    "requirements": {
+        "skill": 1735,
+        "mana": 1735
+    },
+    "duration": "PT8M",
+    "effects": {
+        "damage": 1229
+    }
+}

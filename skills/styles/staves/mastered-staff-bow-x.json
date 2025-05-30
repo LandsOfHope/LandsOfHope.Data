@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "staves/mastered-staff-bow-x",
+    "requirements": {
+        "skill": 4951,
+        "stamina": 4950
+    },
+    "effects": {
+        "damage": 2479
+    }
+}

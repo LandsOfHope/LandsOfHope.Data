@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/tuskamoth-stamina-iv",
+    "requirements": {
+        "skill": 932,
+        "mana": 932
+    },
+    "duration": "PT5000M",
+    "properties": {
+        "MAXSTAMINA": 467
+    }
+}

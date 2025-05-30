@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/skeletal-horse-necroschism-iii",
+    "requirements": {
+        "skill": 638,
+        "mana": 638
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "necromancy": 2000
+    },
+    "properties": {
+        "INTELLIGENCE": 400
+    }
+}

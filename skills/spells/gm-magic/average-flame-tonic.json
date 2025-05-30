@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/average-flame-tonic",
+    "requirements": {
+        "skill": 3000,
+        "mana": 1200
+    },
+    "duration": "PT240M",
+    "skills": {
+        "fire-resistance": 240
+    }
+}

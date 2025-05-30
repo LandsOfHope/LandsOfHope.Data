@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/berry-berry-bad-iii",
+    "requirements": {
+        "skill": 150,
+        "level": 501,
+        "mana": 3
+    },
+    "duration": "PT303M",
+    "properties": {
+        "MAXHITPOINTS": -900
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cold-magic/chill-vii",
+    "requirements": {
+        "skill": 851,
+        "mana": 851
+    },
+    "effects": {
+        "damage": 610
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/wind-of-ascension",
+    "requirements": {
+        "skill": 841,
+        "mana": 841
+    },
+    "duration": "PT3000M",
+    "properties": {
+        "MAXMANA": 421
+    }
+}

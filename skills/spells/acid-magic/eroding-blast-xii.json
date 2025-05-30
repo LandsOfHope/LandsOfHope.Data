@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "acid-magic/eroding-blast-xii",
+    "requirements": {
+        "skill": 2016,
+        "mana": 2016
+    },
+    "duration": "PT14M",
+    "effects": {
+        "damage": 1426
+    }
+}

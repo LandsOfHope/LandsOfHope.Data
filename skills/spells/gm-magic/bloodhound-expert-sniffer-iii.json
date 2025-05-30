@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/bloodhound-expert-sniffer-iii",
+    "requirements": {
+        "skill": 638,
+        "mana": 638
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "track-beasts": 400
+    }
+}

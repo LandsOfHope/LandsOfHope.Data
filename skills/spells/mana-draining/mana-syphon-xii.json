@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "mana-draining/mana-syphon-xii",
+    "requirements": {
+        "skill": 694,
+        "mana": 694
+    },
+    "duration": "PT25M",
+    "properties": {
+        "MANA": -342
+    },
+    "effects": {
+        "damage": 109
+    }
+}

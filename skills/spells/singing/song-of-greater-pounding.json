@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-greater-pounding",
+    "requirements": {
+        "skill": 4680,
+        "mana": 1872
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1645
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "heavy-munitions/shredding-grenade",
+    "requirements": {
+        "skill": 4026,
+        "mana": 4026
+    },
+    "effects": {
+        "damage": 2233
+    }
+}

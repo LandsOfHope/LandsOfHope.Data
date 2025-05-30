@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "acid-magic/corrosion-xiii",
+    "requirements": {
+        "skill": 838,
+        "mana": 838
+    },
+    "duration": "PT14M",
+    "effects": {
+        "damage": 601
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/charge-iii",
+    "requirements": {
+        "skill": 2075,
+        "mana": 2075
+    },
+    "duration": "PT11M",
+    "effects": {
+        "damage": 1467
+    }
+}

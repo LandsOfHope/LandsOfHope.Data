@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/penguin-oily-hide-iv",
+    "requirements": {
+        "skill": 834,
+        "mana": 834
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "water-survival": 418
+    }
+}

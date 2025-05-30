@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/oceans-fury-iv",
+    "requirements": {
+        "skill": 3297,
+        "mana": 3297
+    },
+    "duration": "PT143M",
+    "effects": {
+        "damage": 2322
+    }
+}

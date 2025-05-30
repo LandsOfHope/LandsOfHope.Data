@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "crossbows/mastered-crossbolt-vi",
+    "requirements": {
+        "skill": 4441,
+        "stamina": 4440
+    },
+    "effects": {
+        "damage": 2224
+    }
+}

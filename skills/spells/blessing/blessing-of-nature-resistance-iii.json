@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "blessing/blessing-of-nature-resistance-iii",
+    "requirements": {
+        "skill": 3630,
+        "mana": 3630
+    },
+    "duration": "PT75M",
+    "skills": {
+        "nature-resistance": 378
+    }
+}

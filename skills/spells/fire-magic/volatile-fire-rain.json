@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/volatile-fire-rain",
+    "requirements": {
+        "skill": 3396,
+        "mana": 3396
+    },
+    "duration": "PT7M",
+    "effects": {
+        "damage": 2392
+    }
+}

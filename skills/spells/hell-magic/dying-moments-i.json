@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/dying-moments-i",
+    "requirements": {
+        "skill": 3641,
+        "mana": 3641
+    },
+    "effects": {
+        "damage": 2563
+    }
+}

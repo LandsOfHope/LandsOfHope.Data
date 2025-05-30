@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "dark-magic/death-reaper-iii",
+    "requirements": {
+        "skill": 2882,
+        "mana": 2882
+    },
+    "effects": {
+        "damage": 2032
+    }
+}

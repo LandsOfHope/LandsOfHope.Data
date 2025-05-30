@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "exotic-weapons/training-chuck-ii",
+    "requirements": {
+        "skill": 31,
+        "stamina": 30
+    },
+    "effects": {
+        "damage": 19
+    }
+}

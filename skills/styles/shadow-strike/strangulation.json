@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/strangulation",
+    "requirements": {
+        "skill": 1569,
+        "stamina": 1569
+    },
+    "effects": {
+        "damage": 951
+    }
+}

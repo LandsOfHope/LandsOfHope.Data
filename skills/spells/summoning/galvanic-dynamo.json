@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "summoning/galvanic-dynamo",
+    "requirements": {
+        "skill": 3154,
+        "mana": 3154
+    },
+    "duration": "PT225M"
+}

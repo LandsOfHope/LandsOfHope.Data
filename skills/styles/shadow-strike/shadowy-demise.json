@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/shadowy-demise",
+    "requirements": {
+        "skill": 981,
+        "stamina": 981
+    },
+    "effects": {
+        "damage": 598
+    }
+}

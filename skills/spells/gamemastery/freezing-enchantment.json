@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/freezing-enchantment",
+    "requirements": {
+        "level": 526,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 263
+    }
+}

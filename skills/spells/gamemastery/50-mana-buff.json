@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/50-mana-buff",
+    "requirements": {
+        "skill": 365,
+        "mana": 365
+    },
+    "duration": "PT60M",
+    "properties": {
+        "MAXMANA": 183
+    }
+}

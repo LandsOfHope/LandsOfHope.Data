@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "hell-magic/hell-strike-xiii",
+    "requirements": {
+        "skill": 1331,
+        "mana": 1331
+    },
+    "effects": {
+        "damage": 946
+    }
+}

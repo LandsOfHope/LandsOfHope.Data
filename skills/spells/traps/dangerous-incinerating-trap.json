@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/dangerous-incinerating-trap",
+    "requirements": {
+        "skill": 4051,
+        "mana": 4051
+    },
+    "effects": {
+        "damage": 2850
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "siege-magic/building-decimation-ix",
+    "requirements": {
+        "skill": 4700,
+        "mana": 2400
+    },
+    "effects": {
+        "damage": 1640
+    }
+}

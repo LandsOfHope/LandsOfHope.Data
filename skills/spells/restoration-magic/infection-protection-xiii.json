@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "restoration-magic/infection-protection-xiii",
+    "requirements": {
+        "skill": 4715,
+        "mana": 4715
+    },
+    "duration": "PT140M",
+    "skills": {
+        "poison-resistance": 2372
+    }
+}

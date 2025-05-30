@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/nurse-ii",
+    "requirements": {
+        "skill": 259,
+        "mana": 259
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "healing-magic": 130
+    },
+    "properties": {
+        "INTELLIGENCE": 130
+    }
+}

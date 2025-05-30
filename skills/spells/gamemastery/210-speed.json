@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/210-speed",
+    "requirements": {
+        "skill": 2100,
+        "level": 420,
+        "mana": 42
+    },
+    "duration": "PT60M",
+    "properties": {
+        "SPEED": 210
+    }
+}

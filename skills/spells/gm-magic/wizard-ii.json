@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/wizard-ii",
+    "requirements": {
+        "skill": 196,
+        "mana": 196
+    },
+    "duration": "PT14000M",
+    "properties": {
+        "MAXMANA": 99
+    }
+}

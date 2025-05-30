@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "blessing/blessing-of-drain-resistance-vi",
+    "requirements": {
+        "skill": 4188,
+        "mana": 4188
+    },
+    "duration": "PT75M",
+    "skills": {
+        "drain-resistance": 433
+    }
+}

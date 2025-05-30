@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "invocation/invoked-athlete",
+    "requirements": {
+        "skill": 750,
+        "mana": 750
+    },
+    "duration": "PT30M"
+}

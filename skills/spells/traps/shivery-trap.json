@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/shivery-trap",
+    "requirements": {
+        "skill": 163,
+        "mana": 163
+    },
+    "effects": {
+        "damage": 129
+    }
+}

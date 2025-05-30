@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/healers-revenge-iv",
+    "requirements": {
+        "skill": 4276,
+        "mana": 4276
+    },
+    "duration": "PT25M",
+    "properties": {
+        "HITPOINTS": 2143
+    },
+    "effects": {
+        "damage": 3008
+    }
+}

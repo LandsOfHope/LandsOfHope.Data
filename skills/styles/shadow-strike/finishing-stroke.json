@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shadow-strike/finishing-stroke",
+    "requirements": {
+        "skill": 1485,
+        "stamina": 1485
+    },
+    "effects": {
+        "damage": 901
+    }
+}

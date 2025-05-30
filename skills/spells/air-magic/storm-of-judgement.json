@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/storm-of-judgement",
+    "requirements": {
+        "skill": 761,
+        "mana": 761
+    },
+    "duration": "PT2500M",
+    "properties": {
+        "MAXMANA": 381
+    }
+}

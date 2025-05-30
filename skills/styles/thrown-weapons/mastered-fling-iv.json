@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "thrown-weapons/mastered-fling-iv",
+    "requirements": {
+        "skill": 3991,
+        "stamina": 3990
+    },
+    "effects": {
+        "damage": 1999
+    }
+}

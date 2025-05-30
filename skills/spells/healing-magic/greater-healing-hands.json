@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/greater-healing-hands",
+    "requirements": {
+        "skill": 2881,
+        "mana": 2881
+    },
+    "effects": {
+        "heal": 2019
+    }
+}

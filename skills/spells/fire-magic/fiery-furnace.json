@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/fiery-furnace",
+    "requirements": {
+        "skill": 2766,
+        "mana": 2766
+    },
+    "effects": {
+        "damage": 1951
+    }
+}

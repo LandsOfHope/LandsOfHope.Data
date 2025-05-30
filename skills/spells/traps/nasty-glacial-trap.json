@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/nasty-glacial-trap",
+    "requirements": {
+        "skill": 4213,
+        "mana": 4213
+    },
+    "effects": {
+        "damage": 2964
+    }
+}

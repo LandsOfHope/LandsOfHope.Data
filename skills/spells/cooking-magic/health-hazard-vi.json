@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "cooking-magic/health-hazard-vi",
+    "requirements": {
+        "skill": 2766,
+        "mana": 2766
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1951
+    }
+}

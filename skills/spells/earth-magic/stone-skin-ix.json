@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "earth-magic/stone-skin-ix",
+    "requirements": {
+        "skill": 876,
+        "mana": 876
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 628
+    },
+    "effects": {
+        "damage": 628
+    }
+}

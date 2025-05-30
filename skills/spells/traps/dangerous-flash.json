@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/dangerous-flash",
+    "requirements": {
+        "skill": 2782,
+        "mana": 2782
+    },
+    "effects": {
+        "damage": 1962
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/bone-destruction-iv",
+    "requirements": {
+        "skill": 4204,
+        "mana": 4204
+    },
+    "effects": {
+        "damage": 2957
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "beastmastery/tamers-heart-xii",
+    "requirements": {
+        "skill": 3880,
+        "mana": 3400
+    },
+    "duration": "PT25M",
+    "properties": {
+        "MAXHITPOINTS": 446
+    }
+}

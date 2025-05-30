@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/dwarven-female-i",
+    "requirements": {
+        "skill": 82,
+        "mana": 82
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "fire-survival": 42
+    },
+    "properties": {
+        "MAXSTAMINA": 42
+    }
+}

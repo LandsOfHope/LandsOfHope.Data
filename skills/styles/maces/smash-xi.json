@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "maces/smash-xi",
+    "requirements": {
+        "skill": 1021,
+        "stamina": 1020
+    },
+    "effects": {
+        "damage": 514
+    }
+}

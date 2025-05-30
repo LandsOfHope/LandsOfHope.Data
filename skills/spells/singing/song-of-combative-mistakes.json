@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-combative-mistakes",
+    "requirements": {
+        "skill": 4827,
+        "mana": 1930
+    },
+    "duration": "PT10M",
+    "skills": {
+        "attack-power": -2412
+    }
+}

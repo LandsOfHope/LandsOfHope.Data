@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "intercession/213-empowered-symbol",
+    "requirements": {
+        "skill": 2130,
+        "level": 426,
+        "mana": 2130
+    },
+    "duration": "PT999M",
+    "properties": {
+        "MAXMANA": 213
+    }
+}

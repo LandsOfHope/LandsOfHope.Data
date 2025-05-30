@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/change-into-a-giant-frog",
+    "requirements": {
+        "skill": 286,
+        "mana": 286
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "water-survival": 144
+    },
+    "properties": {
+        "SPEED": 144
+    }
+}

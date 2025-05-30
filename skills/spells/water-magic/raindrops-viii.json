@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/raindrops-viii",
+    "requirements": {
+        "skill": 289,
+        "mana": 289
+    },
+    "duration": "PT22M",
+    "effects": {
+        "damage": 217
+    }
+}

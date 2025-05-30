@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/depths-green-glow-v",
+    "requirements": {
+        "skill": 2000,
+        "mana": 25
+    },
+    "duration": "PT50000M",
+    "properties": {
+        "MAXHITPOINTS": 1000
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "dark-magic/shadow-death-ix",
+    "requirements": {
+        "skill": 3699,
+        "mana": 3699
+    },
+    "effects": {
+        "damage": 2604
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/full-charge-xiii",
+    "requirements": {
+        "skill": 4523,
+        "mana": 4523
+    },
+    "effects": {
+        "damage": 3181
+    }
+}

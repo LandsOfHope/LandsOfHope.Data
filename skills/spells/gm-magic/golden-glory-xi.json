@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/golden-glory-xi",
+    "requirements": {
+        "skill": 550,
+        "level": 1001,
+        "mana": 11
+    },
+    "duration": "PT26M",
+    "skills": {
+        "armor": 550
+    }
+}

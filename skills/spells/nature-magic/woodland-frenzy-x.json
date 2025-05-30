@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "nature-magic/woodland-frenzy-x",
+    "requirements": {
+        "skill": 4001,
+        "mana": 4001
+    },
+    "effects": {
+        "damage": 2815
+    }
+}

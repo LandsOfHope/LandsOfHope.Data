@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-maces/enhanced-obliterate-iv",
+    "requirements": {
+        "skill": 3181,
+        "stamina": 3180
+    },
+    "effects": {
+        "damage": 1594
+    }
+}

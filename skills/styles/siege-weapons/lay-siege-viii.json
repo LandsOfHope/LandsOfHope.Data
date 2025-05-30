@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "siege-weapons/lay-siege-viii",
+    "requirements": {
+        "skill": 2400,
+        "stamina": 650
+    },
+    "effects": {
+        "damage": 240
+    }
+}

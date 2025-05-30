@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/battle-lizard-health-iv",
+    "requirements": {
+        "skill": 946,
+        "mana": 946
+    },
+    "duration": "PT5000M",
+    "skills": {
+        "health-regen": 20
+    },
+    "properties": {
+        "MAXHITPOINTS": 200
+    }
+}

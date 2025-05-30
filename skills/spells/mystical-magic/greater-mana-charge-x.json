@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "mystical-magic/greater-mana-charge-x",
+    "requirements": {
+        "skill": 829,
+        "mana": 829
+    },
+    "duration": "PT330M",
+    "properties": {
+        "MAXMANA": 415
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "protection/shield-from-harm-v",
+    "requirements": {
+        "skill": 1185,
+        "mana": 1185
+    },
+    "duration": 4,
+    "skills": {
+        "damage-absorption": 760
+    },
+    "effects": {
+        "damage": 844
+    }
+}

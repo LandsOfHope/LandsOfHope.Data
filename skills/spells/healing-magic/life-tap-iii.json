@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "healing-magic/life-tap-iii",
+    "requirements": {
+        "skill": 2176,
+        "mana": 2176
+    },
+    "duration": "PT25M",
+    "properties": {
+        "HITPOINTS": 1093
+    },
+    "effects": {
+        "damage": 1538
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "staves/training-thump-vi",
+    "requirements": {
+        "skill": 181,
+        "stamina": 180
+    },
+    "effects": {
+        "damage": 94
+    }
+}

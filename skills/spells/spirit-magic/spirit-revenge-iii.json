@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "spirit-magic/spirit-revenge-iii",
+    "requirements": {
+        "skill": 1921,
+        "mana": 1921
+    },
+    "duration": "PT7M",
+    "effects": {
+        "damage": 1359
+    }
+}

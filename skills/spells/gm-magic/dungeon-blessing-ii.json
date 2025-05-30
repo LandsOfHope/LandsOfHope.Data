@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/dungeon-blessing-ii",
+    "requirements": {
+        "skill": 160,
+        "mana": 5
+    },
+    "duration": "PT25M",
+    "properties": {
+        "MAXHITPOINTS": 50
+    }
+}

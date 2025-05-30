@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "fire-magic/searing-ash",
+    "requirements": {
+        "skill": 771,
+        "mana": 771
+    },
+    "effects": {
+        "damage": 554
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "staves/mastered-splinter-i",
+    "requirements": {
+        "skill": 3901,
+        "stamina": 3900
+    },
+    "effects": {
+        "damage": 1954
+    }
+}

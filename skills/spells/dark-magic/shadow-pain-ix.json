@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "dark-magic/shadow-pain-ix",
+    "requirements": {
+        "skill": 2022,
+        "mana": 2022
+    },
+    "effects": {
+        "damage": 1430
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "necromancy/decaying-ray",
+    "requirements": {
+        "skill": 1012,
+        "mana": 1012
+    },
+    "effects": {
+        "damage": 723
+    }
+}

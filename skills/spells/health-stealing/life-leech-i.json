@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "health-stealing/life-leech-i",
+    "requirements": {
+        "skill": 3340,
+        "mana": 3340
+    },
+    "duration": "PT25M",
+    "properties": {
+        "HITPOINTS": -1665
+    },
+    "effects": {
+        "damage": 123
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "air-magic/lifted-consciousness",
+    "requirements": {
+        "skill": 281,
+        "mana": 281
+    },
+    "duration": "PT250M",
+    "properties": {
+        "MAXMANA": 141
+    }
+}

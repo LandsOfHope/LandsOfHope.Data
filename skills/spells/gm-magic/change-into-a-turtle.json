@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/change-into-a-turtle",
+    "requirements": {
+        "skill": 352,
+        "mana": 352
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "armor": 177
+    }
+}

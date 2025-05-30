@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "hand-guns/final-true-shot",
+    "requirements": {
+        "skill": 5000,
+        "stamina": 5001
+    },
+    "effects": {
+        "damage": 2694
+    }
+}

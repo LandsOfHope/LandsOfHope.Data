@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/demonic-glow",
+    "requirements": {
+        "skill": 4635,
+        "mana": 33
+    },
+    "duration": "PT2000M",
+    "properties": {
+        "STRENGTH": 4000
+    }
+}

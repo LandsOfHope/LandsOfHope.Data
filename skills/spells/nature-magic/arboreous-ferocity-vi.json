@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "nature-magic/arboreous-ferocity-vi",
+    "requirements": {
+        "skill": 2801,
+        "mana": 2801
+    },
+    "effects": {
+        "damage": 1975
+    }
+}

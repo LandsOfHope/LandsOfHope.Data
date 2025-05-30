@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poison-magic/poison-bolt-x",
+    "requirements": {
+        "skill": 661,
+        "mana": 661
+    },
+    "effects": {
+        "damage": 477
+    }
+}

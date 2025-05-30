@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "mystical-magic/mind-shock-iii",
+    "requirements": {
+        "skill": 61,
+        "mana": 61
+    },
+    "effects": {
+        "damage": 57
+    }
+}

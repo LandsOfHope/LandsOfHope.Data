@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/painful-charge-trap",
+    "requirements": {
+        "skill": 3862,
+        "mana": 3862
+    },
+    "effects": {
+        "damage": 2718
+    }
+}

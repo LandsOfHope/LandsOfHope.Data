@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "singing/song-of-pain",
+    "requirements": {
+        "skill": 3160,
+        "mana": 1264
+    },
+    "duration": "PT1M",
+    "effects": {
+        "damage": 1113
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "traps/painful-flaming-trap",
+    "requirements": {
+        "skill": 1243,
+        "mana": 1243
+    },
+    "effects": {
+        "damage": 885
+    }
+}

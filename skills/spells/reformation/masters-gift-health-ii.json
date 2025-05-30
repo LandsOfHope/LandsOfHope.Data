@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "reformation/masters-gift-health-ii",
+    "requirements": {
+        "skill": 100,
+        "mana": 10
+    },
+    "effects": {
+        "heal": 30
+    }
+}

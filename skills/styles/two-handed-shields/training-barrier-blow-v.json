@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "two-handed-shields/training-barrier-blow-v",
+    "requirements": {
+        "skill": 151,
+        "stamina": 150
+    },
+    "effects": {
+        "damage": 79
+    }
+}

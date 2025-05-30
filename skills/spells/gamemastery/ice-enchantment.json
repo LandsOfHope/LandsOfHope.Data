@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gamemastery/ice-enchantment",
+    "requirements": {
+        "level": 76,
+        "mana": 1
+    },
+    "effects": {
+        "damage": 38
+    }
+}

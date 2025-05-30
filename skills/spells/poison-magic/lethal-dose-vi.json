@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poison-magic/lethal-dose-vi",
+    "requirements": {
+        "skill": 4561,
+        "mana": 4561
+    },
+    "effects": {
+        "damage": 3207
+    }
+}

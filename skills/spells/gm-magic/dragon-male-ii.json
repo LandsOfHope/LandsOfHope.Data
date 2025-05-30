@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/dragon-male-ii",
+    "requirements": {
+        "skill": 370,
+        "mana": 370
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "armor": 186
+    },
+    "properties": {
+        "STRENGTH": 186
+    }
+}

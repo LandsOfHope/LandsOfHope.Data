@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "shields/shield-blow-ix",
+    "requirements": {
+        "skill": 1741,
+        "stamina": 1740
+    },
+    "effects": {
+        "damage": 874
+    }
+}

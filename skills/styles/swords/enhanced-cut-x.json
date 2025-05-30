@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/style",
+    "id": "swords/enhanced-cut-x",
+    "requirements": {
+        "skill": 2971,
+        "stamina": 2970
+    },
+    "effects": {
+        "damage": 1489
+    }
+}

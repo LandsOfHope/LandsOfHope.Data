@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "blessing/blessing-of-fire-resistance-vi",
+    "requirements": {
+        "skill": 4206,
+        "mana": 4206
+    },
+    "duration": "PT75M",
+    "skills": {
+        "fire-resistance": 435
+    }
+}

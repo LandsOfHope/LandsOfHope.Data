@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/lemurian-male-iv",
+    "requirements": {
+        "skill": 661,
+        "mana": 661
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "air-survival": 331
+    },
+    "properties": {
+        "MAXMANA": 331
+    }
+}

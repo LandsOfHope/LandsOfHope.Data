@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "energy-magic/cone-of-lightning-xiii",
+    "requirements": {
+        "skill": 4081,
+        "mana": 4081
+    },
+    "effects": {
+        "damage": 2871
+    }
+}

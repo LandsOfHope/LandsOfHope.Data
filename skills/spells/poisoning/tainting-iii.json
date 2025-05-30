@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "poisoning/tainting-iii",
+    "requirements": {
+        "skill": 3700,
+        "level": 3700,
+        "mana": 8
+    },
+    "duration": 2,
+    "effects": {
+        "damage": 1125
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "gm-magic/acid-mage-i",
+    "requirements": {
+        "skill": 133,
+        "mana": 133
+    },
+    "duration": "PT14000M",
+    "skills": {
+        "acid-resistance": 67
+    },
+    "properties": {
+        "INTELLIGENCE": 67
+    }
+}

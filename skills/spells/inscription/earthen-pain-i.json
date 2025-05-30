@@ -1,0 +1,11 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "inscription/earthen-pain-i",
+    "requirements": {
+        "skill": 245,
+        "mana": 3
+    },
+    "effects": {
+        "damage": 118
+    }
+}

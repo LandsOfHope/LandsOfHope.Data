@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "water-magic/damp-skin-ix",
+    "requirements": {
+        "skill": 1217,
+        "mana": 1217
+    },
+    "duration": 3,
+    "skills": {
+        "damage-absorption": 866
+    },
+    "effects": {
+        "damage": 866
+    }
+}

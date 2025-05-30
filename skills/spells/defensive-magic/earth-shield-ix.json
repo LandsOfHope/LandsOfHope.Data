@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/skills/spell",
+    "id": "defensive-magic/earth-shield-ix",
+    "requirements": {
+        "skill": 771,
+        "mana": 771
+    },
+    "duration": "PT675M",
+    "skills": {
+        "earth-resistance": 400
+    }
+}
