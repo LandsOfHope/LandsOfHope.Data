@@ -86,7 +86,8 @@
                     "imbued",
                     "bejewelled",
                     "named",
-                    "patched"
+                    "patched",
+                    "guilded"
                 ]
             },
             "minItems": 1
@@ -111,6 +112,9 @@
         },
         {
             "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-patched.json"
+        },
+        {
+            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-guilded.json"
         }
     ],
     "required": [
