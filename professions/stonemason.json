@@ -5,7 +5,7 @@
         "en": "Stonemason"
     },
     "desc": {
-        "en": "An expert sculpter, brick maker and general miner."
+        "en": "Stonemason. An expert at creating stone items from quarried stone."
     },
     "skills": {
         "stonemasonry": 5,
@@ -13,8 +13,8 @@
         "attack-power": 5
     },
     "properties": {
-        "DEXTERITY": 2,
         "MAXHITPOINTS": 2,
-        "MAXSTAMINA": 2
+        "MAXSTAMINA": 3,
+        "STRENGTH": 2
     }
 }
