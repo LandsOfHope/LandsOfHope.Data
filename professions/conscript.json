@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "conscript",
     "name": {
         "en": "Conscript"
     },
@@ -10,6 +12,12 @@
         "dual-wielding": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 2
     },
     "evo": {
         "samurai": 350

@@ -1,9 +1,0 @@
-{
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/bestow-bludgeon",
-    "requirements": {
-        "skill": 757,
-        "mana": 757
-    },
-    "duration": "PT800M"
-}

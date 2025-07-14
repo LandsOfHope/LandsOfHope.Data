@@ -1,1 +1,23 @@
-{"$type":"/v1/skills/crafting/recipe","id":"charms-and-hexes/earring-of-enmeshment","item":"earring-of-enmeshment","image":"toeaen","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":250,"quality":"common","failureChance":60,"ingredients":[{"id":"blood-of-good","quantity":1},{"id":"gem","quantity":1,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "charms-and-hexes/earring-of-enmeshment",
+    "item": "earring-of-enmeshment",
+    "image": "toeaen",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "charms-and-hexes",
+    "skillValue": 250,
+    "quality": "common",
+    "failureChance": 60,
+    "ingredients": [
+        {
+            "id": "gem",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "blood-of-good",
+            "quantity": 1
+        }
+    ]
+}

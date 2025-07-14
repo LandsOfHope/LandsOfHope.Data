@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"earring-of-nimbleness","image":"863","type":"ear-jewelry","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "earring-of-nimbleness",
+    "image": "863",
+    "type": "ear-jewelry",
+    "armorType": "cloth",
+    "material": "gem"
+}

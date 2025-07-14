@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"blank-tinman-boots","image":"6943","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blank-tinman-boots",
+    "image": "6943",
+    "type": "foot-armour",
+    "legendary": true,
+    "set": "tinman-set",
+    "material": "metal",
+    "skill": "bolts-over-brains"
+}

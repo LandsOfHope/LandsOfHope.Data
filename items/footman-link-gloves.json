@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"footman-link-gloves","image":"2630","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "footman-link-gloves",
+    "image": "2630",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"traders-sandals","image":"sds","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "traders-sandals",
+    "image": "sds",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "material": "hide"
+}

@@ -7,7 +7,9 @@
         "mana": 2
     },
     "duration": "PT302M",
-    "properties": {
-        "SPEED": 240
+    "effects": {
+        "properties": {
+            "SPEED": 240
+        }
     }
 }

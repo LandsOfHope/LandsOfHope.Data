@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ancient-bracelet","image":"6478","type":"wrist-jewelry","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-bracelet",
+    "image": "6478",
+    "type": "wrist-jewelry",
+    "expansion": "dark-depths",
+    "material": "gem"
+}

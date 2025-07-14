@@ -6,10 +6,12 @@
         "mana": 994
     },
     "duration": "PT14000M",
-    "skills": {
-        "armor": 598
-    },
-    "properties": {
-        "MAXSTAMINA": 598
+    "effects": {
+        "properties": {
+            "MAXSTAMINA": 598
+        },
+        "skills": {
+            "armor": 598
+        }
     }
 }

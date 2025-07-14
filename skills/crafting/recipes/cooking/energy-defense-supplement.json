@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"cooking/energy-defense-supplement","item":"energy-defense-supplement","image":"c2k","time":"PT15S","quantity":1,"skill":"cooking","skillValue":1450,"quality":"common","ingredients":[{"id":"grain","quantity":5,"primary":true},{"id":"milk","quantity":2},{"id":"bowl","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "cooking/energy-defense-supplement",
+    "item": "energy-defense-supplement",
+    "image": "c2k",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "cooking",
+    "skillValue": 1450,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "milk",
+            "quantity": 2
+        },
+        {
+            "id": "bowl",
+            "quantity": 0
+        },
+        {
+            "id": "grain",
+            "quantity": 5,
+            "primary": true
+        }
+    ]
+}

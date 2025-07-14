@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wicked-chain-boots","image":"2581","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "wicked-chain-boots",
+    "image": "2581",
+    "type": "foot-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

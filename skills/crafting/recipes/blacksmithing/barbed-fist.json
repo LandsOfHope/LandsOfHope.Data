@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/barbed-fist","item":"barbed-fist","image":"ft5","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":75,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":2,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "blacksmithing/barbed-fist",
+    "item": "barbed-fist",
+    "image": "ft5",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "blacksmithing",
+    "skillValue": 75,
+    "quality": "uncommon",
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 2,
+            "primary": true
+        }
+    ]
+}

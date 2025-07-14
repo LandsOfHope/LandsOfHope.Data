@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "glade-keeper",
     "name": {
         "en": "Glade Keeper"
     },
     "desc": {
-        "en": ""
+        "en": "An ancient guardian"
     },
     "skills": {
         "healing-magic": 5,
@@ -12,5 +14,13 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 3,
+        "SPEED": 2,
+        "STRENGTH": 2
+    }
 }

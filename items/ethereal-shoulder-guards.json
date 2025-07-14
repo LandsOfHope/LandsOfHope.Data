@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ethereal-shoulder-guards","image":"3271","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "ethereal-shoulder-guards",
+    "image": "3271",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

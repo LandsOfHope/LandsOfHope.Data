@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2004,
         "mana": 2004
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "human",
+            "profession": "blacksmith"
+        }
     }
 }

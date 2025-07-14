@@ -5,5 +5,10 @@
         "skill": 3130,
         "mana": 626
     },
-    "duration": "PT50M"
+    "duration": "PT50M",
+    "effects": {
+        "summon-item": {
+            "item": "mandrake"
+        }
+    }
 }

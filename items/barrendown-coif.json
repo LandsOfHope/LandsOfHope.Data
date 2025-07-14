@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"barrendown-coif","image":"5670","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "barrendown-coif",
+    "image": "5670",
+    "type": "head-armour",
+    "armorType": "mail",
+    "legendary": true,
+    "set": "barrendown-legend",
+    "material": "metal"
+}

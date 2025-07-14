@@ -6,7 +6,9 @@
         "mana": 3865
     },
     "duration": "PT480M",
-    "properties": {
-        "MAXHITPOINTS": 311
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 311
+        }
     }
 }

@@ -5,5 +5,11 @@
         "skill": 3660,
         "mana": 366
     },
-    "duration": "PT60M"
+    "duration": "PT60M",
+    "effects": {
+        "summon-pet": {
+            "profession": "creature",
+            "class": "animal"
+        }
+    }
 }

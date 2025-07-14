@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"elegant-shoulder-pads","image":"3262","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "elegant-shoulder-pads",
+    "image": "3262",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

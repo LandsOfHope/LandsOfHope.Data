@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ghostly-moccasins","image":"2867","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "ghostly-moccasins",
+    "image": "2867",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "friar",
     "name": {
         "en": "Friar"
     },
@@ -11,6 +13,14 @@
         "preservation-magic": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 1
     },
     "evo": {
         "monk": 350

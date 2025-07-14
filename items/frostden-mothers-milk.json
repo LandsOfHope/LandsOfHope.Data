@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"frostden-mothers-milk","image":"5009","type":"monster-spawner","material":"crop"}
+{
+    "$type": "/v1/item",
+    "id": "frostden-mothers-milk",
+    "image": "5009",
+    "type": "monster-spawner",
+    "material": "crop"
+}

@@ -6,7 +6,9 @@
         "mana": 645
     },
     "duration": "PT5000M",
-    "skills": {
-        "water-survival": 323
+    "effects": {
+        "skills": {
+            "water-survival": 323
+        }
     }
 }

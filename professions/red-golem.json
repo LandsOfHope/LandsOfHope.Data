@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "red-golem",
     "name": {
         "en": "Red Golem"
     },
     "desc": {
-        "en": ""
+        "en": "Red Golem Pet Class"
     },
     "skills": {
         "health-stealing": 5,
@@ -13,5 +15,7 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 0
+    }
 }

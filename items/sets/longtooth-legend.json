@@ -1,0 +1,29 @@
+{
+    "$type": "/v1/items/set",
+    "id": "longtooth-legend",
+    "image": "na.gif",
+    "color": "yellow",
+    "spells": {
+        "0": {
+            "0": "summon-wisp"
+        },
+        "1": {
+            "0": "summon-giant-beetle"
+        },
+        "2": {
+            "0": "summon-golem"
+        },
+        "3": {
+            "0": "summon-hydra"
+        }
+    },
+    "items": [
+        "longtooth-gloves",
+        "longtooth-cap",
+        "longtooth-sleeves",
+        "longtooth-shoulders",
+        "longtooth-vest",
+        "longtooth-leggings",
+        "longtooth-boots"
+    ]
+}

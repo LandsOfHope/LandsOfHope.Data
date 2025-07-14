@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"decimate","image":"gmdeim","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "decimate",
+    "image": "gmdeim",
+    "type": "ranged-weapon",
+    "dpr": 120,
+    "material": "metal",
+    "skill": "heavy-munitions"
+}

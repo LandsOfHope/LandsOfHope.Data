@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"commanders-legs","image":"2264","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "commanders-legs",
+    "image": "2264",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

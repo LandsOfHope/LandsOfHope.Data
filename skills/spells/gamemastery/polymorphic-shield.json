@@ -6,7 +6,9 @@
         "mana": 1
     },
     "duration": "PT5000M",
-    "skills": {
-        "disguise": 5000
+    "effects": {
+        "skills": {
+            "disguise": 5000
+        }
     }
 }

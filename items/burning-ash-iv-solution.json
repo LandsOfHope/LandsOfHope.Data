@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"burning-ash-iv-solution","image":"5913","type":"imprint","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "burning-ash-iv-solution",
+    "image": "5913",
+    "type": "imprint",
+    "expansion": "dragons-of-the-east",
+    "material": "gem"
+}

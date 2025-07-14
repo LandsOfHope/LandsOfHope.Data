@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"pureheart-breastplate","image":"4737","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "pureheart-breastplate",
+    "image": "4737",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "legendary": true,
+    "set": "pureheart-legend",
+    "material": "metal"
+}

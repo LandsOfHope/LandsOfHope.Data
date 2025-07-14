@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"shark-tooth-axe","image":"1672","type":"1-handed-equipment","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "shark-tooth-axe",
+    "image": "1672",
+    "type": "1-handed-equipment",
+    "dpr": 4,
+    "material": "hide",
+    "skill": "axes"
+}

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"flour","image":"fr1","type":"rawfood","material":"crop"}
+{
+    "$type": "/v1/item",
+    "id": "flour",
+    "image": "fr1",
+    "type": "rawfood",
+    "material": "crop"
+}

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"battering-ram-head-siegery","image":"brh","type":"resource-harvester","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "battering-ram-head-siegery",
+    "image": "brh",
+    "type": "resource-harvester",
+    "material": "hide"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"savage-armbraces","image":"2725","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "savage-armbraces",
+    "image": "2725",
+    "type": "arm-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

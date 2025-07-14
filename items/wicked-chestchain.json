@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wicked-chestchain","image":"2515","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "wicked-chestchain",
+    "image": "2515",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-arcane-gods",
+    "effects": {
+        "skills": {
+            "mystical-resistance": 0.5,
+            "arcane-resistance": 0.5
+        }
+    }
+}

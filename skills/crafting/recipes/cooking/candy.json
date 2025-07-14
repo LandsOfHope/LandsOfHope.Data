@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"cooking/candy","item":"candy","image":"cay","time":"PT15S","quantity":5,"skill":"cooking","skillValue":5,"quality":"common","ingredients":[{"id":"fruit","quantity":6,"primary":true},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "cooking/candy",
+    "item": "candy",
+    "image": "cay",
+    "time": "PT15S",
+    "quantity": 5,
+    "skill": "cooking",
+    "skillValue": 5,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "bowl",
+            "quantity": 0
+        },
+        {
+            "id": "sugar",
+            "quantity": 2
+        },
+        {
+            "id": "fruit",
+            "quantity": 6,
+            "primary": true
+        }
+    ]
+}

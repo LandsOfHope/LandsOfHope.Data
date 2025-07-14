@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "energy-defense",
+    "effects": {
+        "skills": {
+            "energy-resistance": 0.5
+        }
+    }
+}

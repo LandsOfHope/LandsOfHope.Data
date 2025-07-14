@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"keymans-gateway-key","image":"6531","type":"portal","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "keymans-gateway-key",
+    "image": "6531",
+    "type": "portal",
+    "expansion": "dark-depths",
+    "material": "metal"
+}

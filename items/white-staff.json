@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"white-staff","image":"zuwhst","type":"1-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "white-staff",
+    "image": "zuwhst",
+    "type": "1-handed-equipment",
+    "dpr": 5,
+    "material": "wood",
+    "skill": "staves"
+}

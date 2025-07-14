@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "elementalist",
     "name": {
         "en": "Elementalist"
     },
@@ -13,6 +15,12 @@
         "staves": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 4,
+        "MAXSTAMINA": 1
     },
     "evo": {
         "wizard": 650

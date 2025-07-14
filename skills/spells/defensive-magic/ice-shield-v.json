@@ -6,7 +6,9 @@
         "mana": 183
     },
     "duration": "PT275M",
-    "skills": {
-        "cold-resistance": 106
+    "effects": {
+        "skills": {
+            "cold-resistance": 106
+        }
     }
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blade-of-the-five-kings","image":"dg4","type":"1-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "blade-of-the-five-kings",
+    "image": "dg4",
+    "type": "1-handed-equipment",
+    "dpr": 10,
+    "material": "gem",
+    "skill": "swords"
+}

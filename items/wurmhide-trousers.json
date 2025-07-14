@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"wurmhide-trousers","image":"5827","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "wurmhide-trousers",
+    "image": "5827",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "expansion": "dragons-of-the-east",
+    "material": "hide"
+}

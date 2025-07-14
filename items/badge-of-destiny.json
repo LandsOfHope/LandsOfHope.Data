@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"badge-of-destiny","image":"5733","type":"bonus-2","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "badge-of-destiny",
+    "image": "5733",
+    "type": "bonus-2",
+    "set": "destiny-set",
+    "material": "hide"
+}

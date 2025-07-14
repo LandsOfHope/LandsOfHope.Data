@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"explorers-glasses","image":"850","type":"glasses-shades","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "explorers-glasses",
+    "image": "850",
+    "type": "glasses-shades",
+    "armorType": "cloth",
+    "material": "metal"
+}

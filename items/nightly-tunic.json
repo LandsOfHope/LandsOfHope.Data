@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"nightly-tunic","image":"3039","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "nightly-tunic",
+    "image": "3039",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

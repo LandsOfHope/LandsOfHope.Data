@@ -6,10 +6,12 @@
         "mana": 811
     },
     "duration": "PT14000M",
-    "skills": {
-        "swords": 406
-    },
-    "properties": {
-        "MAXHITPOINTS": 406
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 406
+        },
+        "skills": {
+            "swords": 406
+        }
     }
 }

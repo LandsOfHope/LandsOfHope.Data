@@ -6,7 +6,9 @@
         "mana": 253
     },
     "duration": "PT400M",
-    "skills": {
-        "energy-resistance": 141
+    "effects": {
+        "skills": {
+            "energy-resistance": 141
+        }
     }
 }

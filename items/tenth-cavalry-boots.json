@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"tenth-cavalry-boots","image":"5047","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "tenth-cavalry-boots",
+    "image": "5047",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "set": "tenth-cavalry",
+    "material": "hide"
+}

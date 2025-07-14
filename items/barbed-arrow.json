@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"barbed-arrow","image":"bba","type":"ammo-weapons-bows","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "barbed-arrow",
+    "image": "bba",
+    "type": "ammo-weapons-bows",
+    "dpr": 14,
+    "material": "metal"
+}

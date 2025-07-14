@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"barrendown-vest","image":"5669","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "barrendown-vest",
+    "image": "5669",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "legendary": true,
+    "set": "barrendown-legend",
+    "material": "metal"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"deathcrawler-blessing","image":"6286","type":"forehead","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "deathcrawler-blessing",
+    "image": "6286",
+    "type": "forehead",
+    "armorType": "cloth",
+    "material": "stone"
+}

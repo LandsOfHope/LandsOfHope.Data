@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"hellborn-chestplate","image":"l3","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "hellborn-chestplate",
+    "image": "l3",
+    "type": "chest-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

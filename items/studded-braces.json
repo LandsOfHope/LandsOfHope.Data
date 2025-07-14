@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"studded-braces","image":"2994","type":"arm-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "studded-braces",
+    "image": "2994",
+    "type": "arm-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

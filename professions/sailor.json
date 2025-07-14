@@ -1,14 +1,23 @@
 {
+    "$type": "/v1/profession",
+    "id": "sailor",
     "name": {
         "en": "Sailor"
     },
     "desc": {
-        "en": "The Sailor is a Tier I evolution from the Privateer Profession."
+        "en": "The Novice is a Tier I evolution from the Privateer Profession."
     },
     "skills": {
         "duty": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 2
     },
     "evo": {
         "swashbuckler": 350

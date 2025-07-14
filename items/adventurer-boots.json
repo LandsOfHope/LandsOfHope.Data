@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"adventurer-boots","image":"2842","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "adventurer-boots",
+    "image": "2842",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

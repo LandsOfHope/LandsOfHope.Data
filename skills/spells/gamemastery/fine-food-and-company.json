@@ -6,10 +6,12 @@
         "mana": 33
     },
     "duration": "PT5000M",
-    "skills": {
-        "experience-bonus": 400
-    },
-    "properties": {
-        "MAXHITPOINTS": 200
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 200
+        },
+        "skills": {
+            "experience-bonus": 400
+        }
     }
 }

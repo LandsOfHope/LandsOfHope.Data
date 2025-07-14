@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"detailed-maps","image":"5366","type":"quest-item","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "detailed-maps",
+    "image": "5366",
+    "type": "quest-item",
+    "expansion": "uncharted-waters",
+    "material": "color"
+}

@@ -6,10 +6,12 @@
         "mana": 850
     },
     "duration": "PT14000M",
-    "skills": {
-        "water-resistance": 426
-    },
-    "properties": {
-        "INTELLIGENCE": 426
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 426
+        },
+        "skills": {
+            "water-resistance": 426
+        }
     }
 }

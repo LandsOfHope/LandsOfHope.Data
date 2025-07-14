@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"raider-boots","image":"5237","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "raider-boots",
+    "image": "5237",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "cloth",
+    "skill": "pirate-league"
+}

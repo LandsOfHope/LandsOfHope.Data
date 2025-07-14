@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"rusting-metal-shipment","image":"5548","type":"metal-ship-resource"}
+{
+    "$type": "/v1/item",
+    "id": "rusting-metal-shipment",
+    "image": "5548",
+    "type": "metal-ship-resource",
+    "expansion": "uncharted-waters"
+}

@@ -6,7 +6,9 @@
         "mana": 373
     },
     "duration": "PT60M",
-    "properties": {
-        "SPEED": 187
+    "effects": {
+        "properties": {
+            "SPEED": 187
+        }
     }
 }

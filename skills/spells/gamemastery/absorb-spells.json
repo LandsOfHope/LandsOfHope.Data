@@ -6,7 +6,9 @@
         "mana": 769
     },
     "duration": "PT300M",
-    "properties": {
-        "INTELLIGENCE": 385
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 385
+        }
     }
 }

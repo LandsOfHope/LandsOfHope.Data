@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "cooking-ring-band",
+    "item": "ring-enhancement",
+    "skillValue": 1325,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "cooking": 0.8
+        }
+    }
+}

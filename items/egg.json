@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"egg","image":"eg2","type":"rawfood","material":"bird"}
+{
+    "$type": "/v1/item",
+    "id": "egg",
+    "image": "eg2",
+    "type": "rawfood",
+    "material": "bird"
+}

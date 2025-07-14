@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"chakram","image":"6167","type":"2-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "chakram",
+    "image": "6167",
+    "type": "2-handed-equipment",
+    "dpr": 2,
+    "material": "metal",
+    "skill": "enchanted-weapons"
+}

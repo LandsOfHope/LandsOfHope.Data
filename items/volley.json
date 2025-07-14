@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"volley","image":"gmvole","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "volley",
+    "image": "gmvole",
+    "type": "ranged-weapon",
+    "dpr": 120,
+    "material": "metal",
+    "skill": "bows"
+}

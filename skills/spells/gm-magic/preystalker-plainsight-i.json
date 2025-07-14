@@ -6,7 +6,9 @@
         "mana": 155
     },
     "duration": "PT5000M",
-    "skills": {
-        "detect-hidden": 100
+    "effects": {
+        "skills": {
+            "detect-hidden": 100
+        }
     }
 }

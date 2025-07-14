@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "shaper",
     "name": {
         "en": "Shaper"
     },
@@ -10,6 +12,14 @@
         "staves": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 2
     },
     "evo": {
         "manipulator": 350

@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/chainmail-leggings","item":"chainmail-leggings","image":"4468","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":5,"quality":"common","ingredients":[{"id":"rivet","quantity":5},{"id":"ingot","quantity":15,"primary":true},{"id":"lining","quantity":5}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "blacksmithing/chainmail-leggings",
+    "item": "chainmail-leggings",
+    "image": "4468",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "blacksmithing",
+    "skillValue": 5,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 15,
+            "primary": true
+        },
+        {
+            "id": "rivet",
+            "quantity": 5
+        },
+        {
+            "id": "lining",
+            "quantity": 5
+        }
+    ]
+}

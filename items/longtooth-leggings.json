@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"longtooth-leggings","image":"3206","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "longtooth-leggings",
+    "image": "3206",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "legendary": true,
+    "set": "longtooth-legend",
+    "material": "hide"
+}

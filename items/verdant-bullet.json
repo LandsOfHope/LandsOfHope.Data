@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"verdant-bullet","image":"zuvebu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "verdant-bullet",
+    "image": "zuvebu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 48,
+    "material": "metal"
+}

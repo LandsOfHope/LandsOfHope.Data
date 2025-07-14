@@ -6,10 +6,12 @@
         "mana": 724
     },
     "duration": "PT14000M",
-    "skills": {
-        "fire-survival": 363
-    },
-    "properties": {
-        "STRENGTH": 363
+    "effects": {
+        "properties": {
+            "STRENGTH": 363
+        },
+        "skills": {
+            "fire-survival": 363
+        }
     }
 }

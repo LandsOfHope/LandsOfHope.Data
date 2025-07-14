@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "siege-wizard",
     "name": {
         "en": "Siege Wizard"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Fighter class."
     },
     "skills": {
         "siege-magic": 5,
@@ -12,5 +14,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 7,
+        "MAXHITPOINTS": 5,
+        "MAXMANA": 5,
+        "MAXSTAMINA": 1
+    }
 }

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "baneseller",
     "name": {
         "en": "Baneseller"
     },
@@ -9,6 +11,8 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {
+    "properties": {
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 3
     }
 }

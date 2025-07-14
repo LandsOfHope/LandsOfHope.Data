@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"blessed-plate-boots","image":"2313","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blessed-plate-boots",
+    "image": "2313",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "legendary-wizard",
     "name": {
         "en": "Legendary Wizard"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Wizard class."
     },
     "skills": {
         "fire-magic": 5,
@@ -23,5 +25,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "INTELLIGENCE": 5,
+        "MAXHITPOINTS": 5,
+        "MAXMANA": 4,
+        "SPEED": 3
+    }
 }

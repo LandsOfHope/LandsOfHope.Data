@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"white-tiger-statue","image":"5876","type":"world-relic"}
+{
+    "$type": "/v1/item",
+    "id": "white-tiger-statue",
+    "image": "5876",
+    "type": "world-relic",
+    "expansion": "dragons-of-the-east"
+}

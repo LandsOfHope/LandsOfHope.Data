@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"minions-shirt","image":"5920","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "minions-shirt",
+    "image": "5920",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -6,7 +6,9 @@
         "mana": 834
     },
     "duration": "PT5000M",
-    "skills": {
-        "mining": 51
+    "effects": {
+        "skills": {
+            "mining": 51
+        }
     }
 }

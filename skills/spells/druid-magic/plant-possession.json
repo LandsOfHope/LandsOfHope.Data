@@ -4,5 +4,10 @@
     "requirements": {
         "skill": 5000,
         "mana": 1
+    },
+    "effects": {
+        "posess": {
+            "class": "plant"
+        }
     }
 }

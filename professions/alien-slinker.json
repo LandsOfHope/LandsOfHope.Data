@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "alien-slinker",
     "name": {
         "en": "Alien Slinker"
     },
@@ -11,13 +13,17 @@
         "lockpicking": 5,
         "daggers": 5,
         "swords": 5,
-        "spell-evasion":5,
-        "bladed-defense":5,
-        "dual-wielding":5,
-        "armor":5,
-        "attack-power":5
+        "spell-evasion": 5,
+        "bladed-defense": 5,
+        "dual-wielding": 5,
+        "armor": 5,
+        "attack-power": 5
     },
-    "evo": {
-        
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 7,
+        "MAXSTAMINA": 4,
+        "SPEED": 2,
+        "STRENGTH": 2
     }
 }

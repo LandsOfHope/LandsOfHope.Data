@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "tracker",
     "name": {
         "en": "Tracker"
     },
@@ -11,6 +13,15 @@
         "track-beasts": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 1,
+        "SPEED": 1,
+        "STRENGTH": 1
     },
     "evo": {
         "hunter": 350

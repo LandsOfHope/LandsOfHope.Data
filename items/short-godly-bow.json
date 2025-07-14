@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"short-godly-bow","image":"bw","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "short-godly-bow",
+    "image": "bw",
+    "type": "ranged-weapon",
+    "dpr": 94,
+    "material": "wood",
+    "skill": "bows"
+}

@@ -7,7 +7,9 @@
         "mana": 2
     },
     "duration": "PT17M",
-    "skills": {
-        "armor": 100
+    "effects": {
+        "skills": {
+            "armor": 100
+        }
     }
 }

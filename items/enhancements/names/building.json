@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "building",
+    "effects": {
+        "skills": {
+            "construction": 0.5
+        }
+    }
+}

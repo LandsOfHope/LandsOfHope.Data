@@ -5,5 +5,10 @@
         "skill": 3630,
         "mana": 726
     },
-    "duration": "PT50M"
+    "duration": "PT50M",
+    "effects": {
+        "summon-item": {
+            "item": "ratsbane"
+        }
+    }
 }

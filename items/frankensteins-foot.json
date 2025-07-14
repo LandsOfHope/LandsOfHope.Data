@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"frankensteins-foot","image":"6350","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "frankensteins-foot",
+    "image": "6350",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "set": "frankenstein-set",
+    "material": "hide"
+}

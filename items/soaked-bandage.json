@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"soaked-bandage","image":"be1","type":"quest-item","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "soaked-bandage",
+    "image": "be1",
+    "type": "quest-item",
+    "material": "cloth"
+}

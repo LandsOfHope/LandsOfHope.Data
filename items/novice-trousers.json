@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"novice-trousers","image":"antro","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "novice-trousers",
+    "image": "antro",
+    "type": "leg-armour",
+    "material": "hide",
+    "skill": "artisan"
+}

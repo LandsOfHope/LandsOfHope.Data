@@ -6,10 +6,12 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "dual-wielding": 1
-    },
-    "properties": {
-        "SPEED": 10
+    "effects": {
+        "properties": {
+            "SPEED": 10
+        },
+        "skills": {
+            "dual-wielding": 1
+        }
     }
 }

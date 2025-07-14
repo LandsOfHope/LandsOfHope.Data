@@ -6,7 +6,9 @@
         "mana": 580
     },
     "duration": "PT14000M",
-    "skills": {
-        "tinkering": 291
+    "effects": {
+        "skills": {
+            "tinkering": 291
+        }
     }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"midnight-sable-cloak","image":"1135","type":"neck-clothing","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "midnight-sable-cloak",
+    "image": "1135",
+    "type": "neck-clothing",
+    "armorType": "cloth",
+    "material": "cloth"
+}

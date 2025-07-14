@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "water-mage",
     "name": {
         "en": "Water Mage"
     },
@@ -12,5 +14,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 4
+    }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"rippling-bullet","image":"zuribu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "rippling-bullet",
+    "image": "zuribu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 92,
+    "material": "metal"
+}

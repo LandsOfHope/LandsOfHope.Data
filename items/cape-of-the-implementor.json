@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cape-of-the-implementor","image":"cl4","type":"neck-clothing","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "cape-of-the-implementor",
+    "image": "cl4",
+    "type": "neck-clothing",
+    "armorType": "cloth",
+    "material": "cloth"
+}

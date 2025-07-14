@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wintersvale-stocking","image":"4976","type":"present-box","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "wintersvale-stocking",
+    "image": "4976",
+    "type": "present-box",
+    "armorType": "cloth",
+    "material": "hide"
+}

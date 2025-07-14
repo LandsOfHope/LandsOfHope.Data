@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"bejewelled-armguards","image":"2468","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bejewelled-armguards",
+    "image": "2468",
+    "type": "arm-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

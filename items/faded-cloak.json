@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"faded-cloak","image":"pclo8","type":"cloak","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "faded-cloak",
+    "image": "pclo8",
+    "type": "cloak",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -5,5 +5,10 @@
         "skill": 2130,
         "mana": 426
     },
-    "duration": "PT50M"
+    "duration": "PT50M",
+    "effects": {
+        "summon-item": {
+            "item": "nightshade"
+        }
+    }
 }

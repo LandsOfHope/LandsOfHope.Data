@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"stitchwork-belt","image":"6877","type":"stomach","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "stitchwork-belt",
+    "image": "6877",
+    "type": "stomach",
+    "material": "hide",
+    "skill": "blood-over-beauty"
+}

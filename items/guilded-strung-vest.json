@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-strung-vest","image":"3805","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-strung-vest",
+    "image": "3805",
+    "type": "chest-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

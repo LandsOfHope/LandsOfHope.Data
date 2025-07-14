@@ -6,7 +6,9 @@
         "mana": 100
     },
     "duration": "PT120M",
-    "skills": {
-        "attack-evasion": 5
+    "effects": {
+        "skills": {
+            "attack-evasion": 5
+        }
     }
 }

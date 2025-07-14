@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "alien-spitter",
     "name": {
         "en": "Alien Spitter"
     },
@@ -13,5 +15,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 7,
+        "MAXSTAMINA": 4,
+        "SPEED": 2,
+        "STRENGTH": 2
+    }
 }

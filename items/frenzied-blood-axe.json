@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"frenzied-blood-axe","image":"ax13","type":"1-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "frenzied-blood-axe",
+    "image": "ax13",
+    "type": "1-handed-equipment",
+    "dpr": 6,
+    "material": "gem",
+    "skill": "axes"
+}

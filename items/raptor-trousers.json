@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"raptor-trousers","image":"5152","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "raptor-trousers",
+    "image": "5152",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

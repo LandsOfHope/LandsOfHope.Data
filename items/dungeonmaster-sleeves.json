@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dungeonmaster-sleeves","image":"cvs","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "dungeonmaster-sleeves",
+    "image": "cvs",
+    "type": "arm-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

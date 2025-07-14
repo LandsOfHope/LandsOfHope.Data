@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "enchantress",
     "name": {
         "en": "Enchantress"
     },
@@ -11,6 +13,14 @@
         "attack-power": 5,
         "enchanted-weapons": 5,
         "charms-and-hexes": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 2
     },
     "evo": {
         "temptress": 350

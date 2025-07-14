@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"tomahawk","image":"ax7","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "tomahawk",
+    "image": "ax7",
+    "type": "ranged-weapon",
+    "dpr": 8,
+    "material": "metal",
+    "skill": "thrown-weapons"
+}

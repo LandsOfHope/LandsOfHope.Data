@@ -1,16 +1,20 @@
 {
+    "$type": "/v1/profession",
+    "id": "lightning-golem",
     "name": {
         "en": "Lightning Golem"
     },
     "desc": {
-        "en": ""
+        "en": "Lightning Golem Pet Class"
     },
     "skills": {
-        "armor": 5,
-        "attack-power": 5,
-        "fists": 5,
+        "energy-magic": 5,
         "energy-resistance": 5,
-        "energy-magic": 5
+        "fists": 5,
+        "armor": 5,
+        "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 0
+    }
 }

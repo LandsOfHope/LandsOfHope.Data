@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"dry-cereal","image":"ers","type":"food","material":"crop"}
+{
+    "$type": "/v1/item",
+    "id": "dry-cereal",
+    "image": "ers",
+    "type": "food",
+    "material": "crop"
+}

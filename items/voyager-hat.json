@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"voyager-hat","image":"5266","type":"head-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "voyager-hat",
+    "image": "5266",
+    "type": "head-armour",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "cloth",
+    "skill": "myzan-navy"
+}

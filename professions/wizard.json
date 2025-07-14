@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "wizard",
     "name": {
         "en": "Wizard"
     },
@@ -19,5 +21,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 5,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 5,
+        "MAXSTAMINA": 2
+    }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"battlehardened-shoulderchains","image":"2744","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "battlehardened-shoulderchains",
+    "image": "2744",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -6,10 +6,12 @@
         "mana": 664
     },
     "duration": "PT14000M",
-    "skills": {
-        "poison-magic": 333
-    },
-    "properties": {
-        "DEXTERITY": 333
+    "effects": {
+        "properties": {
+            "DEXTERITY": 333
+        },
+        "skills": {
+            "poison-magic": 333
+        }
     }
 }

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "animator",
     "name": {
         "en": "Animator"
     },
@@ -14,6 +16,12 @@
         "attack-power": 5,
         "animation": 5,
         "reformation": 5
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 1
     },
     "evo": {
         "shaper": 50

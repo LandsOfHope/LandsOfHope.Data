@@ -1,1 +1,23 @@
-{"$type":"/v1/skills/crafting/recipe","id":"charms-and-hexes/witches-knot","item":"witches-knot","image":"6161","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":500,"quality":"common","failureChance":60,"ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"root-of-oak","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "charms-and-hexes/witches-knot",
+    "item": "witches-knot",
+    "image": "6161",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "charms-and-hexes",
+    "skillValue": 500,
+    "quality": "common",
+    "failureChance": 60,
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "root-of-oak",
+            "quantity": 1
+        }
+    ]
+}

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"eyeball-soup","image":"sou","type":"food","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "eyeball-soup",
+    "image": "sou",
+    "type": "food",
+    "material": "hide"
+}

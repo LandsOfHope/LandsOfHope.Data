@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"mark-of-ariaxis","image":"zumaar","type":"exile-symbol","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "mark-of-ariaxis",
+    "image": "zumaar",
+    "type": "exile-symbol",
+    "set": "dark-hollow-clan",
+    "material": "gem",
+    "skill": "dark-hollow-clan"
+}

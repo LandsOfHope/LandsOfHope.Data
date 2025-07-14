@@ -5,5 +5,11 @@
         "skill": 847,
         "mana": 847
     },
-    "duration": "PT30M"
+    "duration": "PT30M",
+    "effects": {
+        "summon-pet": {
+            "race": "sidhee",
+            "profession": "spirit-being"
+        }
+    }
 }

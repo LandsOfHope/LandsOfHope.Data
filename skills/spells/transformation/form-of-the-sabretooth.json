@@ -6,10 +6,12 @@
         "mana": 1
     },
     "duration": "PT1500M",
-    "skills": {
-        "attack-power": 250
-    },
-    "properties": {
-        "SPEED": 200
+    "effects": {
+        "properties": {
+            "SPEED": 200
+        },
+        "skills": {
+            "attack-power": 250
+        }
     }
 }

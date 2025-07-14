@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "lottery-prize-giver",
     "name": {
         "en": "Lottery Prize Giver"
     },
@@ -11,5 +13,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 3,
+        "STRENGTH": 1
+    }
 }

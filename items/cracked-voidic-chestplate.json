@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cracked-voidic-chestplate","image":"679","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cracked-voidic-chestplate",
+    "image": "679",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

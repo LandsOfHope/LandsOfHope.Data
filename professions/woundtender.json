@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "woundtender",
     "name": {
         "en": "Woundtender"
     },
     "desc": {
-        "en": ""
+        "en": "Healer"
     },
     "skills": {
         "healing-magic": 5,
@@ -12,5 +14,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 1
+    }
 }

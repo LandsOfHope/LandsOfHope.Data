@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "templar",
     "name": {
         "en": "Templar"
     },
@@ -17,5 +19,15 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 1
+    },
+    "evo": {
+        "crusader": 650
+    }
 }

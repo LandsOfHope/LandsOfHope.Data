@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"foresters-handwarmers","image":"2898","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "foresters-handwarmers",
+    "image": "2898",
+    "type": "hand-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

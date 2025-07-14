@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "star-catcher",
     "name": {
         "en": "Star Catcher"
     },
@@ -9,5 +11,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 3,
+        "SPEED": 3
+    }
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"dwarven-battle-hammer","image":"bh2","type":"2-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "dwarven-battle-hammer",
+    "image": "bh2",
+    "type": "2-handed-equipment",
+    "dpr": 6,
+    "material": "metal",
+    "skill": "two-handed-maces"
+}

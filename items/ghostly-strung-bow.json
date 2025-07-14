@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"ghostly-strung-bow","image":"zughstbo","type":"ranged-weapon","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "ghostly-strung-bow",
+    "image": "zughstbo",
+    "type": "ranged-weapon",
+    "dpr": 7,
+    "material": "hide",
+    "skill": "bows"
+}

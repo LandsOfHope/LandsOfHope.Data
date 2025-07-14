@@ -6,10 +6,12 @@
         "mana": 691
     },
     "duration": "PT14000M",
-    "skills": {
-        "cold-resistance": 346
-    },
-    "properties": {
-        "INTELLIGENCE": 346
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 346
+        },
+        "skills": {
+            "cold-resistance": 346
+        }
     }
 }

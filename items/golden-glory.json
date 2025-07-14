@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"golden-glory","image":"musr14","type":"jurassic-resource"}
+{
+    "$type": "/v1/item",
+    "id": "golden-glory",
+    "image": "musr14",
+    "type": "jurassic-resource",
+    "expansion": "jurassic-wars"
+}

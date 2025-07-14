@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"stenopterygius-tooth","image":"5094","type":"trophy","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "stenopterygius-tooth",
+    "image": "5094",
+    "type": "trophy",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

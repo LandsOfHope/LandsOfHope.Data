@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"portalstone","image":"po1","type":"portal-ii","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "portalstone",
+    "image": "po1",
+    "type": "portal-ii",
+    "material": "gem",
+    "skill": "portal-mastery"
+}

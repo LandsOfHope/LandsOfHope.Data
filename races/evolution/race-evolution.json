@@ -1,64 +1,194 @@
 {
     "$type": "/v1/races/race-evolution-graph",
     "edges": [
-        ["human", "gnome"],
-        ["human", "elf"],
-        ["human", "dwarf"],
-        ["human", "halfling"],
-        ["human", "centaur"],
+        ["human", "gnome", { 
+            "level": 200,
+            "properties": { "STRENGTH": 200 }
+        }],
+        ["human", "elf", {
+            "level": 200,
+            "properties": { "INTELLIGENCE": 200 }
+        }],
+        ["human", "dwarf", {
+            "level": 200,
+            "properties": { "STAMINA": 200 }
+        }],
+        ["human", "halfling", {
+            "level": 200,
+            "properties": { "DEXTERITY": 200 }
+        }],
+        ["human", "centaur", {
+            "level": 200,
+            "properties": { "SPEED": 200 }
+        }],
 
-        ["gnome", "goblin"],
-        ["goblin", "troll"],
-        ["troll", "sithanu"],
+        ["gnome", "goblin", {
+            "level": 400,
+            "properties": { "DEXTERITY": 400, "STRENGTH": 400 }
+        }],
+        ["goblin", "troll", {
+            "level": 600,
+            "properties": { "DEXTERITY": 600, "STRENGTH": 600 }
+        }],
+        ["troll", "sithanu", { 
+            "level": 800,
+            "properties": { "STAMINA": 800, "STRENGTH": 800 }
+         }],
 
-        ["elf", "pixie"],
-        ["pixie", "lemurian"],
-        ["lemurian", "gyrian"],
+        ["elf", "pixie", { 
+            "level": 400,
+            "properties": { "INTELLIGENCE": 500, "SPEED": 400 }
+        }],
+        ["pixie", "lemurian", {
+            "level": 600,
+            "properties": { "INTELLIGENCE": 600, "SPEED": 600 }
+        }],
+        ["lemurian", "gyrian", {
+            "level": 800,
+            "properties": { "INTELLIGENCE": 800, "SPEED": 800 }
+        }],
         
-        ["dwarf", "orc"],
-        ["orc", "ogre"],
-        ["ogre", "giant"],
+        ["dwarf", "orc", {
+            "level": 400,
+            "properties": { "STAMINA": 400, "STRENGTH": 400 }
+        }],
+        ["orc", "ogre", {
+            "level": 600,
+            "properties": { "STAMINA": 600, "STRENGTH": 600 }
+        }],
+        ["ogre", "giant", {
+            "level": 800,
+            "properties": { "STAMINA": 800, "STRENGTH": 800 }
+        }],
 
-        ["halfling", "gelfling"],
-        ["gelfling", "moorlank"],
-        ["moorlank", "gorgon"],
+        ["halfling", "gelfling", {
+            "level": 400,
+            "properties": { "DEXTERITY": 400, "INTELLIGENCE": 400 }
+        }],
+        ["gelfling", "moorlank", {
+            "level": 600,
+            "properties": { "DEXTERITY": 600, "INTELLIGENCE": 600 }
+        }],
+        ["moorlank", "gorgon", {
+            "level": 800,
+            "properties": { "DEXTERITY": 800, "INTELLIGENCE": 800 }
+        }],
 
-        ["centaur", "gryphon"],
+        ["centaur", "gryphon", {
+            "level": 600,
+            "properties": { "SPEED": 600 }
+        }],
 
-        ["necryte", "feralkin"],
-        ["necryte", "specter"],
-        ["necryte", "banshee"],
-        ["necryte", "mummy"],
-        ["necryte", "ghoul"],
+        ["necryte", "feralkin", {
+            "level": 200,
+            "properties": { "STAMINA": 200 }
+        }],
+        ["necryte", "specter", {
+            "level": 200,
+            "properties": { "DEXTERITY": 200 }
+        }],
+        ["necryte", "banshee", {
+            "level": 200,
+            "properties": { "INTELLIGENCE": 200 }
+        }],
+        ["necryte", "mummy", {
+            "level": 200,
+            "properties": { "STRENGTH": 200 }
+        }],
+        ["necryte", "ghoul", {
+            "level": 200,
+            "properties": { "STRENGTH": 200 }
+        }],
 
-        ["feralkin", "werewolf"],
-        ["werewolf", "shadow"],
-        ["shadow", "hellspawn"],
+        ["feralkin", "werewolf", {
+            "level": 400,
+            "properties": { "STAMINA": 400, "STRENGTH": 400 }
+        }],
+        ["werewolf", "shadow", {
+            "level": 600,
+            "properties": { "STAMINA": 600, "STRENGTH": 600 }
+        }],
+        ["shadow", "hellspawn", {
+            "level": 800,
+            "properties": { "STAMINA": 800, "STRENGTH": 800 }
+        }],
 
-        ["banshee", "gibber"],
-        ["gibber", "ghast"],
-        ["ghast", "fury"],
+        ["banshee", "gibber", {
+            "level": 400,
+            "properties": { "INTELLIGENCE": 400, "SPEED": 400 }
+        }],
+        ["gibber", "ghast", {
+            "level": 600,
+            "properties": { "INTELLIGENCE": 600, "SPEED": 600 }
+        }],
+        ["ghast", "fury", {
+            "level": 800,
+            "properties": { "INTELLIGENCE": 800, "SPEED": 800 }
+        }],
         
-        ["ghoul", "nightstalker"],
-        ["nightstalker", "vampire"],
-        ["vampire", "bloodmaster"],
+        ["ghoul", "nightstalker", {
+            "level": 400,
+            "properties": { "STAMINA": 400, "STRENGTH": 400 }
+        }],
+        ["nightstalker", "vampire", {
+            "level": 600,
+            "properties": { "STAMINA": 600, "STRENGTH": 600 }
+        }],
+        ["vampire", "bloodmaster", {
+            "level": 800,
+            "properties": { "STAMINA": 800, "STRENGTH": 800 }
+        }],
 
-        ["mummy", "zombie"],
-        ["zombie", "wraith"],
-        ["wraith", "horror"],
+        ["mummy", "zombie", {
+            "level": 400,
+            "properties": { "STAMINA": 400, "STRENGTH": 400 }
+        }],
+        ["zombie", "wraith", {
+            "level": 600,
+            "properties": { "STAMINA": 600, "STRENGTH": 600 }
+        }],
+        ["wraith", "horror", {
+            "level": 800,
+            "properties": { "STAMINA": 800, "STRENGTH": 800 }
+        }],
 
-        ["specter", "skaven"],
-        ["skaven", "revenant"],
-        ["revenant", "fiend"],
+        ["specter", "skaven", {
+            "level": 400,
+            "properties": { "DEXTERITY": 400, "INTELLIGENCE": 400 }
+        }],
+        ["skaven", "revenant", {
+            "level": 600,
+            "properties": { "DEXTERITY": 600, "INTELLIGENCE": 600 }
+        }],
+        ["revenant", "fiend", {
+            "level": 800,
+            "properties": { "DEXTERITY": 800, "INTELLIGENCE": 800 }
+        }],
 
-        ["watuman", "mermaid"],
-        ["mermaid", "turtle"],
-        ["turtle", "killer-whale"],
-        ["killer-whale", "water-wisp"],
+        ["watuman", "mermaid", {
+            "level": 200
+        }],
+        ["mermaid", "turtle", {
+            "level": 400
+        }],
+        ["turtle", "killer-whale", {
+            "level": 600
+        }],
+        ["killer-whale", "water-wisp", {
+            "level": 800
+        }],
         
-        ["sea-wretch", "drowned-wretch"],
-        ["drowned-wretch", "death-lurer"],
-        ["death-lurer", "sea-spirit"],
-        ["sea-spirit", "mist-dweller"]
+        ["sea-wretch", "drowned-wretch", {
+            "level": 200
+        }],
+        ["drowned-wretch", "death-lurer", {
+            "level": 400
+        }],
+        ["death-lurer", "sea-spirit", {
+            "level": 600
+        }],
+        ["sea-spirit", "mist-dweller", {
+            "level": 800
+        }]
     ]
 }

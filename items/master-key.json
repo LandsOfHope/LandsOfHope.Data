@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"master-key","image":"zumake","type":"unlocking-tool","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "master-key",
+    "image": "zumake",
+    "type": "unlocking-tool",
+    "material": "gem"
+}

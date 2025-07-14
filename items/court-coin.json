@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"court-coin","image":"5853","type":"barter-items"}
+{
+    "$type": "/v1/item",
+    "id": "court-coin",
+    "image": "5853",
+    "type": "barter-items",
+    "expansion": "dragons-of-the-east"
+}

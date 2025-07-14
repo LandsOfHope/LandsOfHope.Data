@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"combusting-ordnance","image":"ss6","type":"ammo-weapons-artillery","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "combusting-ordnance",
+    "image": "ss6",
+    "type": "ammo-weapons-artillery",
+    "dpr": 89,
+    "material": "gem"
+}

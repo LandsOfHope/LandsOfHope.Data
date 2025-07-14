@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"pleated-gloves","image":"3126","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "pleated-gloves",
+    "image": "3126",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

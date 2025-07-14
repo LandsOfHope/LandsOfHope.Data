@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"enblazened-robe","image":"rb11","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "enblazened-robe",
+    "image": "rb11",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

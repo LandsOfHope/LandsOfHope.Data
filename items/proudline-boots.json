@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"proudline-boots","image":"4731","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "proudline-boots",
+    "image": "4731",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "legendary": true,
+    "set": "proudline-legend",
+    "material": "metal"
+}

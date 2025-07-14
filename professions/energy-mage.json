@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "energy-mage",
     "name": {
         "en": "Energy Mage"
     },
     "desc": {
-        "en": ""
+        "en": "Energy Mage"
     },
     "skills": {
         "energy-magic": 5,
@@ -12,5 +14,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 4
+    }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"box-of-leather-straps","image":"gmbolest","type":"quest-item","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "box-of-leather-straps",
+    "image": "gmbolest",
+    "type": "quest-item",
+    "expansion": "uncharted-waters",
+    "material": "color"
+}

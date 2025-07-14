@@ -1,0 +1,21 @@
+{
+    "$type": "/v1/items/set",
+    "id": "frankenstein-set",
+    "image": "na.gif",
+    "color": "red",
+    "spells": {
+        "0": {
+            "0": "failed-frankenstein-experiment"
+        }
+    },
+    "items": [
+        "frankensteins-spleen",
+        "frankensteins-lung",
+        "frankensteins-kidney",
+        "frankensteins-liver",
+        "frankensteins-ribcage",
+        "frankensteins-skull",
+        "frankensteins-eye",
+        "frankensteins-foot"
+    ]
+}

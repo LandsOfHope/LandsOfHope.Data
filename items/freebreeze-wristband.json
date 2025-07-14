@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"freebreeze-wristband","image":"4689","type":"wrist-jewelry","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "freebreeze-wristband",
+    "image": "4689",
+    "type": "wrist-jewelry",
+    "armorType": "cloth",
+    "legendary": true,
+    "set": "freebreeze-legend",
+    "material": "cloth"
+}

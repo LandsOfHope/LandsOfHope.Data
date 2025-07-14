@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"magic-coal","image":"coal","type":"trinket","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "magic-coal",
+    "image": "coal",
+    "type": "trinket",
+    "armorType": "cloth",
+    "material": "stone"
+}

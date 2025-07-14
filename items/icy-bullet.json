@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"icy-bullet","image":"zuicbu1","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "icy-bullet",
+    "image": "zuicbu1",
+    "type": "ammo-weapons-bullets",
+    "dpr": 59,
+    "material": "metal"
+}

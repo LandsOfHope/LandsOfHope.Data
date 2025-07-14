@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "farming-earring-clip",
+    "item": "earring-enhancement",
+    "skillValue": 1075,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "farming": 0.8
+        }
+    }
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dark-blue-dragon-potion","image":"5865","type":"dragon-food-items","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "dark-blue-dragon-potion",
+    "image": "5865",
+    "type": "dragon-food-items",
+    "expansion": "dragons-of-the-east",
+    "material": "gem"
+}

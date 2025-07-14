@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"reinforced-breastchain","image":"2558","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "reinforced-breastchain",
+    "image": "2558",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

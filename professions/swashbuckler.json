@@ -1,13 +1,21 @@
 {
+    "$type": "/v1/profession",
+    "id": "swashbuckler",
     "name": {
         "en": "Swashbuckler"
     },
     "desc": {
-        "en": "The Swashbuckler is a Tier II evolution from the Sailor Profession."
+        "en": "The Adept is a Tier II evolution from the Sailor Profession."
     },
     "skills": {
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 3
     },
     "evo": {
         "pirate-hunter": 650

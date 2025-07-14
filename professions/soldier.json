@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "soldier",
     "name": {
         "en": "Soldier"
     },
     "desc": {
-        "en": "The Soldier is a Tier II evolution from the Fighter Profession.  The soldier gains the ability to <b>Dual Wield</b>, as well as use <b>Axes</b>, <b>Hand Guns</b>, <b>Swords</b> and <b>Shields</b>."
+        "en": "The Soldier is a Tier I evolution from the Archer Profession or a Tier II evolution from the Fighter Profession, while keeping all of the Archers abilities the soldier also gains the ability to <b>Dual Wield</b>.<br><br> As with the Archer the Soldier can use Daggers, Bows and Crossbows but also gains <b>Axes</b>, <b>Hand Guns</b>, <b>Swords</b> and <b>Shields</b>."
     },
     "skills": {
         "swords": 5,
@@ -13,6 +15,13 @@
         "hand-guns": 5,
         "armor": 5,
         "attack-power": 10
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 2
     },
     "evo": {
         "veteran": 650

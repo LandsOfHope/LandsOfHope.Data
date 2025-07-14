@@ -6,7 +6,9 @@
         "mana": 50
     },
     "duration": "PT10M",
-    "skills": {
-        "bladed-defense": 10
+    "effects": {
+        "skills": {
+            "bladed-defense": 10
+        }
     }
 }

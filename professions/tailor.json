@@ -1,14 +1,20 @@
 {
+    "$type": "/v1/profession",
+    "id": "tailor",
     "name": {
         "en": "Tailor"
     },
     "desc": {
-        "en": "Tailor. An expert at creating tailored  items from cloth and hides."
+        "en": "Maker of clothes and cloth materials."
     },
     "skills": {
         "tailoring": 5,
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 2
+    }
 }

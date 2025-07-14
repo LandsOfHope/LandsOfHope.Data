@@ -6,7 +6,9 @@
         "mana": 1
     },
     "duration": "PT240M",
-    "properties": {
-        "STRENGTH": 100
+    "effects": {
+        "properties": {
+            "STRENGTH": 100
+        }
     }
 }

@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3522,
         "mana": 3522
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "centaur",
+            "profession": "mail-goods-vendor"
+        }
     }
 }

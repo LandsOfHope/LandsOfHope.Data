@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"plan-book","image":"bk1","type":"knowledge-aid","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "plan-book",
+    "image": "bk1",
+    "type": "knowledge-aid-plans",
+    "material": "hide",
+    "skill": "artisan"
+}

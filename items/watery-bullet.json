@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"watery-bullet","image":"zuwabu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "watery-bullet",
+    "image": "zuwabu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 30,
+    "material": "metal"
+}

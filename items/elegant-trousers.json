@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"elegant-trousers","image":"3072","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "elegant-trousers",
+    "image": "3072",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

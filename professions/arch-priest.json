@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "arch-priest",
     "name": {
         "en": "Arch Priest"
     },
@@ -13,5 +15,11 @@
         "surgery": 5,
         "armor": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 4,
+        "MAXSTAMINA": 1,
+        "SPEED": 2
+    }
 }

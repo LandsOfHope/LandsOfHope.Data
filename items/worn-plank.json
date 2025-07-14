@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"worn-plank","image":"plk","type":"wood-ship-resource"}
+{
+    "$type": "/v1/item",
+    "id": "worn-plank",
+    "image": "plk",
+    "type": "wood-ship-resource",
+    "expansion": "uncharted-waters"
+}

@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "christmas-bauble",
     "name": {
         "en": "Christmas Bauble"
     },
     "desc": {
-        "en": ""
+        "en": "Wintersvale Product 2008."
     },
     "skills": {
         "energy-magic": 5,
@@ -12,5 +14,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 10,
+        "MAXMANA": 4,
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

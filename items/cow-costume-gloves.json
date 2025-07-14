@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"cow-costume-gloves","image":"arglv","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "cow-costume-gloves",
+    "image": "arglv",
+    "type": "hand-armour",
+    "set": "cow-costume",
+    "material": "cloth",
+    "skill": "artisan"
+}

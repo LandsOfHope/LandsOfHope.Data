@@ -5,5 +5,11 @@
         "skill": 1250,
         "mana": 1250
     },
-    "duration": "PT35M"
+    "duration": "PT35M",
+    "effects": {
+        "summon-pet": {
+            "race": "angel",
+            "profession": "close-combat"
+        }
+    }
 }

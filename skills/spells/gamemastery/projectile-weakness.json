@@ -5,7 +5,9 @@
         "skill": 53,
         "mana": 53
     },
-    "skills": {
-        "projectile-defense": -5000
+    "effects": {
+        "skills": {
+            "projectile-defense": -5000
+        }
     }
 }

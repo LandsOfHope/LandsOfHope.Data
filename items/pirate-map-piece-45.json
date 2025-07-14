@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"pirate-map-piece-45","image":"puz45","type":"pirate-puzzle","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "pirate-map-piece-45",
+    "image": "puz45",
+    "type": "pirate-puzzle",
+    "expansion": "uncharted-waters",
+    "material": "color"
+}

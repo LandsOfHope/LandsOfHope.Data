@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"bag-of-1000-thieves","image":"6760","type":"special-bag","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "bag-of-1000-thieves",
+    "image": "6760",
+    "type": "special-bag",
+    "material": "cloth",
+    "skill": "stealing"
+}

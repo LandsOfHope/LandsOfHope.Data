@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dungeonmaster-helmet","image":"cvh","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "dungeonmaster-helmet",
+    "image": "cvh",
+    "type": "head-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

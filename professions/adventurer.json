@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "adventurer",
     "name": {
         "en": "Adventurer"
     },
@@ -9,6 +11,12 @@
         "track-dungeons": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 2
     },
     "evo": {
         "treasure-hunter": 350

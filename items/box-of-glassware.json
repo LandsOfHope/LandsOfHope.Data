@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"box-of-glassware","image":"gmbogl","type":"quest-item","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "box-of-glassware",
+    "image": "gmbogl",
+    "type": "quest-item",
+    "expansion": "uncharted-waters",
+    "material": "color"
+}

@@ -5,5 +5,10 @@
         "skill": 3066,
         "mana": 306
     },
-    "duration": "PT50M"
+    "duration": "PT50M",
+    "effects": {
+        "summon-item": {
+            "item": "arrow"
+        }
+    }
 }

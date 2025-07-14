@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"gatherers-headband","image":"778","type":"forehead","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "gatherers-headband",
+    "image": "778",
+    "type": "forehead",
+    "material": "cloth",
+    "skill": "artisan"
+}

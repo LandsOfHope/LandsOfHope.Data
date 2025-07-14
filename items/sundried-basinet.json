@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"sundried-basinet","image":"cse","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "sundried-basinet",
+    "image": "cse",
+    "type": "head-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

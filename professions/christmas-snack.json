@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "christmas-snack",
     "name": {
         "en": "Christmas Snack"
     },
     "desc": {
-        "en": ""
+        "en": "Wintersvale Product 2008."
     },
     "skills": {
         "water-magic": 5,
@@ -12,6 +14,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 10,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 2
     }
 }

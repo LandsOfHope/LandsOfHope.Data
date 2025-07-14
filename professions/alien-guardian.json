@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "alien-guardian",
     "name": {
         "en": "Alien Guardian"
     },
@@ -15,5 +17,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 5,
+        "MAXHITPOINTS": 17,
+        "MAXSTAMINA": 14,
+        "SPEED": 5,
+        "STRENGTH": 14
+    }
 }

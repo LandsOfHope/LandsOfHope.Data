@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "alchemy-ring-setting",
+    "item": "ring-enhancement",
+    "skillValue": 3300,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "alchemy": 0.9
+        }
+    }
+}

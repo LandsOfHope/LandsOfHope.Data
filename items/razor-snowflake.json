@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"razor-snowflake","image":"zurasn","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "razor-snowflake",
+    "image": "zurasn",
+    "type": "ranged-weapon",
+    "dpr": 65,
+    "material": "metal",
+    "skill": "thrown-weapons"
+}

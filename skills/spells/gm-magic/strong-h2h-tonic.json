@@ -6,7 +6,9 @@
         "mana": 2950
     },
     "duration": "PT590M",
-    "skills": {
-        "h2h-defense": 590
+    "effects": {
+        "skills": {
+            "h2h-defense": 590
+        }
     }
 }

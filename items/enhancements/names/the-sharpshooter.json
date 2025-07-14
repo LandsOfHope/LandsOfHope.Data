@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-sharpshooter",
+    "effects": {
+        "skills": {
+            "track-humanoids": 0.4,
+            "two-handed-guns": 0.4
+        },
+        "properties": {
+            "MAXSTAMINA": 0.4
+        }
+    }
+}

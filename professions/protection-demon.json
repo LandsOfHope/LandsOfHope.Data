@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "protection-demon",
     "name": {
         "en": "Protection Demon"
     },
@@ -16,5 +18,7 @@
         "pole-defense": 5,
         "armor": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 5
+    }
 }

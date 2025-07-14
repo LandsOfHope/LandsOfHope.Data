@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"reinforced-shoulders","image":"2767","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "reinforced-shoulders",
+    "image": "2767",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "knife-thrower",
     "name": {
         "en": "Knife Thrower"
     },
@@ -11,5 +13,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 2
+    }
 }

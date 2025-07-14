@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dazzling-asbestos-hood","image":"1129","type":"neck-clothing","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "dazzling-asbestos-hood",
+    "image": "1129",
+    "type": "neck-clothing",
+    "armorType": "cloth",
+    "material": "cloth"
+}

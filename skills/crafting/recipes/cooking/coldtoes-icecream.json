@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"cooking/coldtoes-icecream","item":"coldtoes-icecream","image":"zucoic","time":"PT15S","quantity":1,"skill":"cooking","skillValue":1250,"quality":"uncommon","ingredients":[{"id":"grain","quantity":5,"primary":true},{"id":"flour","quantity":2},{"id":"bowl","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "cooking/coldtoes-icecream",
+    "item": "coldtoes-icecream",
+    "image": "zucoic",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "cooking",
+    "skillValue": 1250,
+    "quality": "uncommon",
+    "ingredients": [
+        {
+            "id": "flour",
+            "quantity": 2
+        },
+        {
+            "id": "bowl",
+            "quantity": 0
+        },
+        {
+            "id": "grain",
+            "quantity": 5,
+            "primary": true
+        }
+    ]
+}

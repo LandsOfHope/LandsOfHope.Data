@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"sailor-boots","image":"5252","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "sailor-boots",
+    "image": "5252",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "cloth",
+    "skill": "myzan-navy"
+}

@@ -1,13 +1,20 @@
 {
+    "$type": "/v1/profession",
+    "id": "spirit-being",
     "name": {
         "en": "Spirit Being"
     },
     "desc": {
-        "en": ""
+        "en": "Lala"
     },
     "skills": {
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2
+    }
 }

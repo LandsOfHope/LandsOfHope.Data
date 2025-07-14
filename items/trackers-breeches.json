@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"trackers-breeches","image":"2811","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "trackers-breeches",
+    "image": "2811",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

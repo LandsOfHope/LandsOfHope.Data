@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"potters-outpost-key","image":"6516","type":"portal","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "potters-outpost-key",
+    "image": "6516",
+    "type": "portal",
+    "expansion": "dark-depths",
+    "material": "metal"
+}

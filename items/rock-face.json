@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"rock-face","image":"1062","type":"resource-harvester","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "rock-face",
+    "image": "1062",
+    "type": "resource-harvester",
+    "material": "hide"
+}

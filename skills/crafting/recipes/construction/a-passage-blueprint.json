@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"construction/a-passage-blueprint","item":"passage-blueprint","image":"1936","time":"PT15S","quantity":1,"skill":"construction","skillValue":70,"quality":"common","ingredients":[{"id":"plank","quantity":50,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "construction/a-passage-blueprint",
+    "item": "passage-blueprint",
+    "image": "1936",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "construction",
+    "skillValue": 70,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "plank",
+            "quantity": 50,
+            "primary": true
+        }
+    ]
+}

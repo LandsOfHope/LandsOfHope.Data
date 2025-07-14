@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"bejewelled-shoulderchains","image":"2743","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bejewelled-shoulderchains",
+    "image": "2743",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

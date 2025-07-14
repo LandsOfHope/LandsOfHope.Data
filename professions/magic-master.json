@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "magic-master",
     "name": {
         "en": "Magic Master"
     },
@@ -9,5 +11,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 5,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 5
+    }
 }

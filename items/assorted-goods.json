@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"assorted-goods","image":"bx","type":"quest-item","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "assorted-goods",
+    "image": "bx",
+    "type": "quest-item",
+    "expansion": "uncharted-waters",
+    "material": "color"
+}

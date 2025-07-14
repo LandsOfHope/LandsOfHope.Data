@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"festive-costume-belt","image":"sbelt2","type":"stomach","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "festive-costume-belt",
+    "image": "sbelt2",
+    "type": "stomach",
+    "set": "festive-costume",
+    "material": "hide"
+}

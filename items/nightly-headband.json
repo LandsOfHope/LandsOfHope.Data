@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"nightly-headband","image":"3179","type":"head-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "nightly-headband",
+    "image": "3179",
+    "type": "head-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

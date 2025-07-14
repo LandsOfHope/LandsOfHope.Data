@@ -6,10 +6,12 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "mana-regen": 20
-    },
-    "properties": {
-        "INTELLIGENCE": 30
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 30
+        },
+        "skills": {
+            "mana-regen": 20
+        }
     }
 }

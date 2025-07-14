@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"random-trading-card","image":"187","type":"trading-card","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "random-trading-card",
+    "image": "187",
+    "type": "trading-card",
+    "material": "hide"
+}

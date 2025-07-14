@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"wurm-ribbed-breastplate","image":"5816","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "wurm-ribbed-breastplate",
+    "image": "5816",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "expansion": "dragons-of-the-east",
+    "material": "hide"
+}

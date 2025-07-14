@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"follower-vest","image":"3087","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "follower-vest",
+    "image": "3087",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

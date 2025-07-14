@@ -6,7 +6,9 @@
         "mana": 3333
     },
     "duration": "PT540M",
-    "skills": {
-        "drain-resistance": 236
+    "effects": {
+        "skills": {
+            "drain-resistance": 236
+        }
     }
 }

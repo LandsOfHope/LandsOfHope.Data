@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"cookie-costume-belt","image":"cmbet","type":"stomach","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "cookie-costume-belt",
+    "image": "cmbet",
+    "type": "stomach",
+    "set": "cookie-costume",
+    "material": "hide",
+    "skill": "artisan"
+}

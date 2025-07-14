@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dungeoncreeper-basinet","image":"4946","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "dungeoncreeper-basinet",
+    "image": "4946",
+    "type": "head-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

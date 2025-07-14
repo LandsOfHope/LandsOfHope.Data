@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "conjurer",
     "name": {
         "en": "Conjurer"
     },
     "desc": {
-        "en": ""
+        "en": "Conjurer"
     },
     "skills": {
         "invocation": 5,
@@ -12,5 +14,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 3,
+        "SPEED": 1
+    }
 }

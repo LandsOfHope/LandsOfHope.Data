@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"alchemy/purple-potion","item":"purple-potion","image":"pp2","time":"PT15S","quantity":1,"skill":"alchemy","skillValue":1000,"quality":"common","ingredients":[{"id":"empty-potion-bottle","quantity":1,"primary":true},{"id":"mortar-and-pestle","quantity":0},{"id":"hellebore","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "alchemy/purple-potion",
+    "item": "purple-potion",
+    "image": "pp2",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "alchemy",
+    "skillValue": 1000,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "empty-potion-bottle",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "mortar-and-pestle",
+            "quantity": 0
+        },
+        {
+            "id": "hellebore",
+            "quantity": 1
+        }
+    ]
+}

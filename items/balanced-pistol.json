@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"balanced-pistol","image":"pl1","type":"1-handed-equipment","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "balanced-pistol",
+    "image": "pl1",
+    "type": "1-handed-equipment",
+    "dpr": 2,
+    "material": "stone",
+    "skill": "hand-guns"
+}

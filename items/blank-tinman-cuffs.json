@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"blank-tinman-cuffs","image":"6940","type":"wrist-jewelry","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blank-tinman-cuffs",
+    "image": "6940",
+    "type": "wrist-jewelry",
+    "legendary": true,
+    "set": "tinman-set",
+    "material": "metal",
+    "skill": "bolts-over-brains"
+}

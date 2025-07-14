@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"earthen-bullet","image":"zueabu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "earthen-bullet",
+    "image": "zueabu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 44,
+    "material": "metal"
+}

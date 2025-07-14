@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"tainted-bracers","image":"cbs","type":"arm-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "tainted-bracers",
+    "image": "cbs",
+    "type": "arm-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

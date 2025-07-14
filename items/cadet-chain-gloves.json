@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cadet-chain-gloves","image":"2618","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cadet-chain-gloves",
+    "image": "2618",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

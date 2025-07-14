@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "guard-battle-healer",
     "name": {
         "en": "Guard Battle Healer"
     },
     "desc": {
-        "en": ""
+        "en": "Guard Healer"
     },
     "skills": {
         "healing-magic": 5,
@@ -13,5 +15,12 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 3,
+        "SPEED": 2,
+        "STRENGTH": 3
+    }
 }

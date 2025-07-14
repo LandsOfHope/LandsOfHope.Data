@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"razarks-mining-helmet","image":"5028","type":"head-armour","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "razarks-mining-helmet",
+    "image": "5028",
+    "type": "head-armour",
+    "armorType": "cloth",
+    "material": "gem",
+    "skill": "mining"
+}

@@ -1,1 +1,22 @@
-{"$type":"/v1/skills/crafting/recipe","id":"carpentry/ice-arrow","item":"ice-arrow","image":"arri","time":"PT15S","quantity":20,"skill":"carpentry","skillValue":380,"quality":"common","ingredients":[{"id":"plank","quantity":5,"primary":true},{"id":"arrowhead","quantity":5}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "carpentry/ice-arrow",
+    "item": "ice-arrow",
+    "image": "arri",
+    "time": "PT15S",
+    "quantity": 20,
+    "skill": "carpentry",
+    "skillValue": 380,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "arrowhead",
+            "quantity": 5
+        },
+        {
+            "id": "plank",
+            "quantity": 5,
+            "primary": true
+        }
+    ]
+}

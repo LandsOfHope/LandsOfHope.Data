@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-ghostly-shoulders","image":"3877","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-ghostly-shoulders",
+    "image": "3877",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

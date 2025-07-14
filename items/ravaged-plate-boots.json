@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ravaged-plate-boots","image":"gmraplbo","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ravaged-plate-boots",
+    "image": "gmraplbo",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

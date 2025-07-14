@@ -7,7 +7,9 @@
         "mana": 13
     },
     "duration": "PT60M",
-    "properties": {
-        "STRENGTH": 65
+    "effects": {
+        "properties": {
+            "STRENGTH": 65
+        }
     }
 }

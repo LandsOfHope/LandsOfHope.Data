@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"roasted-nuts","image":"ron","type":"food","material":"berry"}
+{
+    "$type": "/v1/item",
+    "id": "roasted-nuts",
+    "image": "ron",
+    "type": "food",
+    "material": "berry"
+}

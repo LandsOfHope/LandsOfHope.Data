@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cadet-breastplate","image":"2288","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cadet-breastplate",
+    "image": "2288",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

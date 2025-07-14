@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"north-star","image":"6731","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "north-star",
+    "image": "6731",
+    "type": "ranged-weapon",
+    "dpr": 140,
+    "expansion": "dragons-of-the-east",
+    "material": "metal",
+    "skill": "thrown-weapons"
+}

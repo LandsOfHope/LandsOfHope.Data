@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"elemental-boots","image":"6377","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "elemental-boots",
+    "image": "6377",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "set": "elemental-set",
+    "material": "hide"
+}

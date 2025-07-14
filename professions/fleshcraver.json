@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "fleshcraver",
     "name": {
         "en": "Fleshcraver"
     },
@@ -13,5 +15,12 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 2,
+        "SPEED": 1
+    }
 }

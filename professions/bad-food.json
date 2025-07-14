@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "bad-food",
     "name": {
         "en": "Bad Food"
     },
@@ -12,5 +14,12 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 6,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 2
+    }
 }

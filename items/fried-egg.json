@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"fried-egg","image":"fre","type":"food","material":"bird"}
+{
+    "$type": "/v1/item",
+    "id": "fried-egg",
+    "image": "fre",
+    "type": "food",
+    "material": "bird"
+}

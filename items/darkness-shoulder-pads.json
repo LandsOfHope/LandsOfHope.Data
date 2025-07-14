@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"darkness-shoulder-pads","image":"3022","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "darkness-shoulder-pads",
+    "image": "3022",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

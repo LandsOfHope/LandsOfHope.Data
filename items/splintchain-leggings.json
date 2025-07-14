@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"splintchain-leggings","image":"cls","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "splintchain-leggings",
+    "image": "cls",
+    "type": "leg-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

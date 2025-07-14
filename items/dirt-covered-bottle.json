@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"dirt-covered-bottle","image":"dib","type":"stealing-loot","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "dirt-covered-bottle",
+    "image": "dib",
+    "type": "stealing-loot",
+    "material": "gem"
+}

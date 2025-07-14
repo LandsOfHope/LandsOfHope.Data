@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-bolted-cuffs","image":"6828","type":"wrist-jewelry","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blank-bolted-cuffs",
+    "image": "6828",
+    "type": "wrist-jewelry",
+    "set": "inventor-bolted-set",
+    "material": "metal",
+    "skill": "bolts-over-brains"
+}

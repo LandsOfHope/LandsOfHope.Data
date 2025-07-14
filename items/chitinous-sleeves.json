@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"chitinous-sleeves","image":"cts","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "chitinous-sleeves",
+    "image": "cts",
+    "type": "arm-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

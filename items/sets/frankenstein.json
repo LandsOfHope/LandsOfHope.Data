@@ -1,0 +1,21 @@
+{
+    "$type": "/v1/items/set",
+    "id": "frankenstein",
+    "image": "na.gif",
+    "color": "gold",
+    "spells": {
+        "0": {
+            "0": "frankensteins-blessing"
+        }
+    },
+    "items": [
+        "blank-frankenstein-shoulders",
+        "blank-frankenstein-arms",
+        "blank-frankenstein-cuffs",
+        "blank-frankenstein-face",
+        "blank-frankenstein-hands",
+        "blank-frankenstein-feet",
+        "blank-frankenstein-chestpiece",
+        "blank-frankenstein-legs"
+    ]
+}

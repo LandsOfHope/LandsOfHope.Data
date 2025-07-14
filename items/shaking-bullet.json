@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"shaking-bullet","image":"zushbu1","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "shaking-bullet",
+    "image": "zushbu1",
+    "type": "ammo-weapons-bullets",
+    "dpr": 54,
+    "material": "metal"
+}

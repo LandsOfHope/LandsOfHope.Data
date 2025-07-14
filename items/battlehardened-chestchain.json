@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"battlehardened-chestchain","image":"2513","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "battlehardened-chestchain",
+    "image": "2513",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"vessel-flag","image":"5606","type":"crafted-vessel-flag","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "vessel-flag",
+    "image": "5606",
+    "type": "crafted-vessel-flag",
+    "expansion": "uncharted-waters",
+    "material": "color"
+}

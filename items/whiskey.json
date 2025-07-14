@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"whiskey","image":"zuwhii","type":"food","material":"crop"}
+{
+    "$type": "/v1/item",
+    "id": "whiskey",
+    "image": "zuwhii",
+    "type": "food",
+    "material": "crop"
+}

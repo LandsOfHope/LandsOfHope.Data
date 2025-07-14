@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"tannery","image":"rt","type":"resource-harvester","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "tannery",
+    "image": "rt",
+    "type": "resource-harvester",
+    "material": "hide"
+}

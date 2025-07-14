@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"antique-diamond-earring","image":"6323","type":"ear-jewelry","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "antique-diamond-earring",
+    "image": "6323",
+    "type": "ear-jewelry",
+    "set": "antique-set",
+    "material": "gem"
+}

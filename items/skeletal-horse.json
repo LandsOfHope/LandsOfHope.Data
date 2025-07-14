@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"skeletal-horse","image":"6245","type":"special-creature"}
+{
+    "$type": "/v1/item",
+    "id": "skeletal-horse",
+    "image": "6245",
+    "type": "special-creature",
+    "expansion": "the-afterlife"
+}

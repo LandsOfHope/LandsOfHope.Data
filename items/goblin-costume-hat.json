@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"goblin-costume-hat","image":"gohat","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "goblin-costume-hat",
+    "image": "gohat",
+    "type": "head-armour",
+    "set": "goblin-costume",
+    "material": "hide",
+    "skill": "artisan"
+}

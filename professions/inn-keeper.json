@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "inn-keeper",
     "name": {
         "en": "Inn Keeper"
     },
@@ -9,5 +11,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 3
+    }
 }

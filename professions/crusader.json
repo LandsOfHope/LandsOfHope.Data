@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "crusader",
     "name": {
         "en": "Crusader"
     },
@@ -18,5 +20,12 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 3,
+        "STRENGTH": 2
+    }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"barbed-bullet","image":"zubabu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "barbed-bullet",
+    "image": "zubabu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 12,
+    "material": "metal"
+}

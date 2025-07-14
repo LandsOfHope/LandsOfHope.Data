@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"grimbrow-figurine","image":"relic4","type":"special-slot","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "grimbrow-figurine",
+    "image": "relic4",
+    "type": "special-slot",
+    "material": "metal",
+    "skill": "archaeology"
+}

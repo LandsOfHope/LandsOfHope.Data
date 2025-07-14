@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ring-of-the-seer","image":"rg9","type":"ring","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "ring-of-the-seer",
+    "image": "rg9",
+    "type": "ring",
+    "material": "gem",
+    "skill": "detect-hidden"
+}

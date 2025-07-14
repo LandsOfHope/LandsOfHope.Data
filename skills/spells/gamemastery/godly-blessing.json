@@ -6,10 +6,12 @@
         "mana": 10
     },
     "duration": "PT1400M",
-    "skills": {
-        "track-items": 50
-    },
-    "properties": {
-        "MAXHITPOINTS": 50
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 50
+        },
+        "skills": {
+            "track-items": 50
+        }
     }
 }

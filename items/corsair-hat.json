@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"corsair-hat","image":"5246","type":"head-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "corsair-hat",
+    "image": "5246",
+    "type": "head-armour",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "cloth",
+    "skill": "pirate-league"
+}

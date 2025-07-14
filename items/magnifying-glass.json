@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"magnifying-glass","image":"mon","type":"treasure-hunter-tool","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "magnifying-glass",
+    "image": "mon",
+    "type": "treasure-hunter-tool",
+    "material": "gem"
+}

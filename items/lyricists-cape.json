@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"lyricists-cape","image":"cob","type":"neck-clothing","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "lyricists-cape",
+    "image": "cob",
+    "type": "neck-clothing",
+    "armorType": "cloth",
+    "material": "cloth"
+}

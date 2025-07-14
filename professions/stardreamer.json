@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "stardreamer",
     "name": {
         "en": "Stardreamer"
     },
@@ -8,6 +10,13 @@
     "skills": {
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 2
     },
     "evo": {
         "starchaser": 350

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"haggard-cloak","image":"pclo7","type":"cloak","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "haggard-cloak",
+    "image": "pclo7",
+    "type": "cloak",
+    "armorType": "cloth",
+    "material": "cloth"
+}

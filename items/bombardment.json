@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"bombardment","image":"gmbobm","type":"siege-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bombardment",
+    "image": "gmbobm",
+    "type": "siege-weapon",
+    "dpr": 120,
+    "material": "metal",
+    "skill": "siege-weapons"
+}

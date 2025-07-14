@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"elegant-doublet","image":"3082","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "elegant-doublet",
+    "image": "3082",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

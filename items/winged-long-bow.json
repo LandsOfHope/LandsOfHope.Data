@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"winged-long-bow","image":"gmwilobo","type":"ranged-weapon","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "winged-long-bow",
+    "image": "gmwilobo",
+    "type": "ranged-weapon",
+    "dpr": 10,
+    "material": "gem",
+    "skill": "bows"
+}

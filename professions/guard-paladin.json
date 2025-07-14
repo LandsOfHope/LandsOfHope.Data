@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "guard-paladin",
     "name": {
         "en": "Guard Paladin"
     },
     "desc": {
-        "en": ""
+        "en": "Guard Paladin"
     },
     "skills": {
         "healing-magic": 5,
@@ -12,5 +14,13 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 3
+    }
 }

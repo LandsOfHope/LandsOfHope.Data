@@ -6,7 +6,9 @@
         "mana": 2050
     },
     "duration": "PT410M",
-    "skills": {
-        "pole-defense": 410
+    "effects": {
+        "skills": {
+            "pole-defense": 410
+        }
     }
 }

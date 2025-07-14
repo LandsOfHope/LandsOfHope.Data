@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"swashbuckler-belt","image":"5263","type":"stomach","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "swashbuckler-belt",
+    "image": "5263",
+    "type": "stomach",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "cloth",
+    "skill": "myzan-navy"
+}

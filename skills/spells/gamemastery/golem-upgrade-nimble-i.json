@@ -5,7 +5,9 @@
         "skill": 1,
         "mana": 1
     },
-    "properties": {
-        "DEXTERITY": 4
+    "effects": {
+        "properties": {
+            "DEXTERITY": 4
+        }
     }
 }

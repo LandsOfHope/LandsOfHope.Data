@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"enblazened-shoulder-pads","image":"3260","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "enblazened-shoulder-pads",
+    "image": "3260",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

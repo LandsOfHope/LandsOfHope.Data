@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"blessed-bracelet","image":"gmblbr","type":"wrist-jewelry","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blessed-bracelet",
+    "image": "gmblbr",
+    "type": "wrist-jewelry",
+    "armorType": "cloth",
+    "material": "metal"
+}

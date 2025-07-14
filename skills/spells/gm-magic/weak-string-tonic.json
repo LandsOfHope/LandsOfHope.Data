@@ -6,7 +6,9 @@
         "mana": 800
     },
     "duration": "PT160M",
-    "skills": {
-        "stringed-defense": 160
+    "effects": {
+        "skills": {
+            "stringed-defense": 160
+        }
     }
 }

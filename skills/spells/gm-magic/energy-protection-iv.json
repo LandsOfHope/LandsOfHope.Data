@@ -7,7 +7,9 @@
         "mana": 4
     },
     "duration": "PT304M",
-    "skills": {
-        "energy-resistance": 480
+    "effects": {
+        "skills": {
+            "energy-resistance": 480
+        }
     }
 }

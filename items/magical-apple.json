@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"magical-apple","image":"6170","type":"food","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "magical-apple",
+    "image": "6170",
+    "type": "food",
+    "expansion": "the-afterlife",
+    "material": "hide"
+}

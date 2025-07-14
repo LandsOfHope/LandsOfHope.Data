@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"choker-of-villainy","image":"zuchvi","type":"neck","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "choker-of-villainy",
+    "image": "zuchvi",
+    "type": "neck",
+    "armorType": "cloth",
+    "set": "dark-hollow-clan",
+    "material": "metal",
+    "skill": "dark-hollow-clan"
+}

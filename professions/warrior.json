@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "warrior",
     "name": {
         "en": "Warrior"
     },
@@ -12,8 +14,16 @@
         "maces": 5,
         "shields": 5,
         "dual-wielding": 5,
-        "armor": 5,
+        "armor": 10,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 3
+    },
+    "evo": {
+        "berserker": 350
+    }
 }

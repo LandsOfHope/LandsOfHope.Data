@@ -6,7 +6,9 @@
         "mana": 5000
     },
     "duration": "PT240M",
-    "properties": {
-        "MAXHITPOINTS": 2000
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 2000
+        }
     }
 }

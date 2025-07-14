@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3108,
         "mana": 3108
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "lemurian",
+            "profession": "spellslinger"
+        }
     }
 }

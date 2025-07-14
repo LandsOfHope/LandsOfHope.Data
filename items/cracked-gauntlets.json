@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cracked-gauntlets","image":"c1g","type":"hand-armour","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "cracked-gauntlets",
+    "image": "c1g",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "material": "gem"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"lava-bullet","image":"zulabu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "lava-bullet",
+    "image": "zulabu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 3,
+    "material": "metal"
+}

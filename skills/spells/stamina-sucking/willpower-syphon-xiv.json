@@ -6,10 +6,10 @@
         "mana": 820
     },
     "duration": "PT25M",
-    "properties": {
-        "STAMINA": -405
-    },
     "effects": {
-        "damage": 109
+        "damage": 109,
+        "properties": {
+            "STAMINA": -405
+        }
     }
 }

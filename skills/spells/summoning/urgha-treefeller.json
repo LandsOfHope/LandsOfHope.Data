@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3016,
         "mana": 3016
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "neanderthal",
+            "profession": "lumberjack"
+        }
     }
 }

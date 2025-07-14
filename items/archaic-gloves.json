@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"archaic-gloves","image":"fe5vogl","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "archaic-gloves",
+    "image": "fe5vogl",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "material": "metal",
+    "skill": "archaeology"
+}

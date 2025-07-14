@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dwarven-legs","image":"485","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "dwarven-legs",
+    "image": "485",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

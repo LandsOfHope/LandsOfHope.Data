@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cracked-sleeves","image":"c1s","type":"arm-armour","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "cracked-sleeves",
+    "image": "c1s",
+    "type": "arm-armour",
+    "armorType": "plate",
+    "material": "gem"
+}

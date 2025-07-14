@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "apprentice",
     "name": {
         "en": "Apprentice"
     },
@@ -16,6 +18,15 @@
         "foraging": 5,
         "geology": 5,
         "husbandry": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 1,
+        "SPEED": 1,
+        "STRENGTH": 1
     },
     "evo": {
         "novice": 50

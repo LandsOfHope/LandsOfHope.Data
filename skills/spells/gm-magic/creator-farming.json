@@ -6,7 +6,9 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "farming": 51
+    "effects": {
+        "skills": {
+            "farming": 51
+        }
     }
 }

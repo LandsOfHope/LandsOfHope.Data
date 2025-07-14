@@ -6,10 +6,12 @@
         "mana": 295
     },
     "duration": "PT14000M",
-    "skills": {
-        "air-survival": 148
-    },
-    "properties": {
-        "MAXMANA": 148
+    "effects": {
+        "properties": {
+            "MAXMANA": 148
+        },
+        "skills": {
+            "air-survival": 148
+        }
     }
 }

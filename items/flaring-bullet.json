@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"flaring-bullet","image":"zuflbu1","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "flaring-bullet",
+    "image": "zuflbu1",
+    "type": "ammo-weapons-bullets",
+    "dpr": 57,
+    "material": "metal"
+}

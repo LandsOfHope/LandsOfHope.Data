@@ -1,13 +1,17 @@
 {
+    "$type": "/v1/profession",
+    "id": "dimension-keeper",
     "name": {
         "en": "Dimension Keeper"
     },
     "desc": {
-        "en": ""
+        "en": "Keeper of Dimensions of course"
     },
     "skills": {
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

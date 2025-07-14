@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"forked-stick","image":"fos","type":"2-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "forked-stick",
+    "image": "fos",
+    "type": "2-handed-equipment",
+    "dpr": 5,
+    "material": "wood",
+    "skill": "staves"
+}

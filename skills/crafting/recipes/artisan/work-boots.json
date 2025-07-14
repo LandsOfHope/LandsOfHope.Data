@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"artisan/work-boots","item":"work-boots","image":"awbot","time":"PT15S","quantity":1,"skill":"artisan","skillValue":10,"quality":"uncommon","ingredients":[{"id":"cloth","quantity":5},{"id":"thread","quantity":7,"primary":true},{"id":"artisan-tool","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "artisan/work-boots",
+    "item": "work-boots",
+    "image": "awbot",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "artisan",
+    "skillValue": 10,
+    "quality": "uncommon",
+    "ingredients": [
+        {
+            "id": "thread",
+            "quantity": 7,
+            "primary": true
+        },
+        {
+            "id": "cloth",
+            "quantity": 5
+        },
+        {
+            "id": "artisan-tool",
+            "quantity": 0
+        }
+    ]
+}

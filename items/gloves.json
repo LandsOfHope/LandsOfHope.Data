@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"gloves","image":"gve","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "gloves",
+    "image": "gve",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

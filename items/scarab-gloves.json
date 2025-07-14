@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"scarab-gloves","image":"5179","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "scarab-gloves",
+    "image": "5179",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

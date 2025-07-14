@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"cragstone-sleeves","image":"4723","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cragstone-sleeves",
+    "image": "4723",
+    "type": "arm-armour",
+    "armorType": "mail",
+    "legendary": true,
+    "set": "cragstone-legend",
+    "material": "metal"
+}

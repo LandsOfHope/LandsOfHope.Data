@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"webbed-skirt","image":"fst","type":"leg-armour","material":"spider"}
+{
+    "$type": "/v1/item",
+    "id": "webbed-skirt",
+    "image": "fst",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "spider"
+}

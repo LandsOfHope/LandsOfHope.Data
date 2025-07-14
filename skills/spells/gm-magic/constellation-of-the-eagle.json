@@ -6,10 +6,12 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "detect-hidden": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 10
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 10
+        },
+        "skills": {
+            "detect-hidden": 1
+        }
     }
 }

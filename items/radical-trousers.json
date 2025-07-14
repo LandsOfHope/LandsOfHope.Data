@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"radical-trousers","image":"ptro7","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "radical-trousers",
+    "image": "ptro7",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

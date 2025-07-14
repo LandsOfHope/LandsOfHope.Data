@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"cooking/cake","item":"cake","image":"ce3","time":"PT15S","quantity":1,"skill":"cooking","skillValue":3600,"quality":"common","ingredients":[{"id":"fruit","quantity":6,"primary":true},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "cooking/cake",
+    "item": "cake",
+    "image": "ce3",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "cooking",
+    "skillValue": 3600,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "bowl",
+            "quantity": 0
+        },
+        {
+            "id": "sugar",
+            "quantity": 2
+        },
+        {
+            "id": "fruit",
+            "quantity": 6,
+            "primary": true
+        }
+    ]
+}

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"enchanted-collar","image":"gmenco","type":"pet-bonus-item","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "enchanted-collar",
+    "image": "gmenco",
+    "type": "pet-bonus-item",
+    "material": "hide"
+}

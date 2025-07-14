@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "alien-zapper",
     "name": {
         "en": "Alien Zapper"
     },
@@ -7,13 +9,18 @@
     },
     "skills": {
         "energy-magic": 5,
-        "mana-draining":5,
+        "mana-draining": 5,
         "health-stealing": 5,
         "energy-resistance": 5,
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {
-        
+    "properties": {
+        "INTELLIGENCE": 5,
+        "MAXHITPOINTS": 8,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 5,
+        "SPEED": 3,
+        "STRENGTH": 2
     }
 }

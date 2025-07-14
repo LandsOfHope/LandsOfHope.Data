@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"sparkling-crown","image":"na","type":"head-armour","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "sparkling-crown",
+    "image": "na",
+    "type": "head-armour",
+    "armorType": "plate",
+    "material": "gem"
+}

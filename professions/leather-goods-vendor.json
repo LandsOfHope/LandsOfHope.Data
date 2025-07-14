@@ -1,10 +1,14 @@
 {
+    "$type": "/v1/profession",
+    "id": "leather-goods-vendor",
     "name": {
         "en": "Leather Goods Vendor"
     },
     "desc": {
-        "en": "Masters of leathercraft, they specializes in crafting gear from hides, scales, and magical essences. Whether it's rugged leather armor for protection or enchanted accessories for added flair, their creations strike a balance between durability and style."
+        "en": "Pixie Tailor. An expert at creating tailored items from cloth and hide and feathers."
     },
-    "skills": {},
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

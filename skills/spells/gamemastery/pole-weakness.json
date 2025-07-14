@@ -5,7 +5,9 @@
         "skill": 53,
         "mana": 53
     },
-    "skills": {
-        "pole-defense": -5000
+    "effects": {
+        "skills": {
+            "pole-defense": -5000
+        }
     }
 }

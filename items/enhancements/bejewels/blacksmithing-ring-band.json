@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "blacksmithing-ring-band",
+    "item": "ring-enhancement",
+    "skillValue": 1150,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "blacksmithing": 0.8
+        }
+    }
+}

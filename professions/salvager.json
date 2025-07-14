@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "salvager",
     "name": {
         "en": "Salvager"
     },
@@ -14,6 +16,13 @@
         "dual-wielding": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 1
     },
     "evo": {
         "adventurer": 50

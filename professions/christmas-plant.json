@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "christmas-plant",
     "name": {
         "en": "Christmas Plant"
     },
     "desc": {
-        "en": ""
+        "en": "Wintersvale Product 2008"
     },
     "skills": {
         "daggers": 5,
@@ -12,5 +14,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 12,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 2
+    }
 }

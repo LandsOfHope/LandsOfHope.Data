@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"green-smoke-bomb","image":"6413","type":"combat-item"}
+{
+    "$type": "/v1/item",
+    "id": "green-smoke-bomb",
+    "image": "6413",
+    "type": "combat-item",
+    "expansion": "dragons-of-the-east",
+    "skill": "parlor-tricks"
+}

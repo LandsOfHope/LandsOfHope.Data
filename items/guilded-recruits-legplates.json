@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-recruits-legplates","image":"gmgurele","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-recruits-legplates",
+    "image": "gmgurele",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

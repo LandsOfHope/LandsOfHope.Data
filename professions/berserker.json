@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "berserker",
     "name": {
         "en": "Berserker"
     },
@@ -13,6 +15,12 @@
         "dual-wielding": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 4
     },
     "evo": {
         "warlord": 650

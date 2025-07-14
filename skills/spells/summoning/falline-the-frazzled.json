@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3384,
         "mana": 3384
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "halfling",
+            "profession": "energy-mage"
+        }
     }
 }

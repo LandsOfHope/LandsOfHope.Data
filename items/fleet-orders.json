@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"fleet-orders","image":"5368","type":"quest-item","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "fleet-orders",
+    "image": "5368",
+    "type": "quest-item",
+    "expansion": "uncharted-waters",
+    "material": "color"
+}

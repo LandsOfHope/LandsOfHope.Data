@@ -1,1 +1,23 @@
-{"$type":"/v1/skills/crafting/recipe","id":"charms-and-hexes/earring-of-harmony","item":"earring-of-harmony","image":"feeaha","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":5,"quality":"common","failureChance":60,"ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"blood-of-evil","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "charms-and-hexes/earring-of-harmony",
+    "item": "earring-of-harmony",
+    "image": "feeaha",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "charms-and-hexes",
+    "skillValue": 5,
+    "quality": "common",
+    "failureChance": 60,
+    "ingredients": [
+        {
+            "id": "gem",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "blood-of-evil",
+            "quantity": 1
+        }
+    ]
+}

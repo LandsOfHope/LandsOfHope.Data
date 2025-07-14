@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"hunting-net","image":"hun","type":"ranged-weapon","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "hunting-net",
+    "image": "hun",
+    "type": "ranged-weapon",
+    "dpr": 9,
+    "material": "cloth",
+    "skill": "thrown-weapons"
+}

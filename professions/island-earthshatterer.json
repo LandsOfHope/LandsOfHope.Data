@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "island-earthshatterer",
     "name": {
         "en": "Island Earthshatterer"
     },
     "desc": {
-        "en": ""
+        "en": "Found in the Pirate Expansion."
     },
     "skills": {
         "mana-draining": 5,
@@ -12,5 +14,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 3
+    }
 }

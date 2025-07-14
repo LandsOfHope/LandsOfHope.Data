@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "majestic-cutey",
     "name": {
         "en": "Majestic Cutey"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Cutey class."
     },
     "skills": {
         "frenzy": 5,
@@ -13,5 +15,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 3,
+        "STRENGTH": 3
+    }
 }

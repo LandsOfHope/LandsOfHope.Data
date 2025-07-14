@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"godly-sword","image":"sw9","type":"2-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "godly-sword",
+    "image": "sw9",
+    "type": "2-handed-equipment",
+    "dpr": 94,
+    "material": "metal",
+    "skill": "two-handed-swords"
+}

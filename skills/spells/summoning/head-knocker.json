@@ -5,5 +5,10 @@
         "skill": 900,
         "mana": 900
     },
-    "duration": "PT150M"
+    "duration": "PT150M",
+    "effects": {
+        "summon-item": {
+            "item": "head-knocker"
+        }
+    }
 }

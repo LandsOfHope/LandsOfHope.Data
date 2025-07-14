@@ -5,5 +5,11 @@
         "skill": 3165,
         "mana": 316
     },
-    "duration": "PT15M"
+    "duration": "PT15M",
+    "effects": {
+        "summon-pet": {
+            "race": "bird",
+            "profession": "creature"
+        }
+    }
 }

@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3246,
         "mana": 3246
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "pixie",
+            "profession": "leather-goods-vendor"
+        }
     }
 }

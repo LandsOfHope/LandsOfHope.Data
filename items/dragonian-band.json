@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dragonian-band","image":"rgg","type":"ring","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "dragonian-band",
+    "image": "rgg",
+    "type": "ring",
+    "expansion": "jurassic-wars",
+    "material": "gem"
+}

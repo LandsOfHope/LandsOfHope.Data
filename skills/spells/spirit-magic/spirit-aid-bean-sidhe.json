@@ -5,5 +5,11 @@
         "skill": 1223,
         "mana": 1223
     },
-    "duration": "PT30M"
+    "duration": "PT30M",
+    "effects": {
+        "summon-pet": {
+            "race": "bean-sidhe",
+            "profession": "spirit-being"
+        }
+    }
 }

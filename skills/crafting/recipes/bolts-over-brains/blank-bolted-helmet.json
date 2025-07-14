@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"bolts-over-brains/blank-bolted-helmet","item":"blank-bolted-helmet","image":"6829","time":"PT15S","quantity":1,"skill":"bolts-over-brains","skillValue":20,"quality":"common","ingredients":[{"id":"ingot","quantity":3,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "bolts-over-brains/blank-bolted-helmet",
+    "item": "blank-bolted-helmet",
+    "image": "6829",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "bolts-over-brains",
+    "skillValue": 20,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 3,
+            "primary": true
+        }
+    ]
+}

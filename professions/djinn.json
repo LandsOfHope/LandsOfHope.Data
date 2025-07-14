@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "djinn",
     "name": {
         "en": "Djinn"
     },
@@ -14,5 +16,9 @@
         "attack-power": 5,
         "arcane-resistance": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 5,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 5
+    }
 }

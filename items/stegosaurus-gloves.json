@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"stegosaurus-gloves","image":"5161","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "stegosaurus-gloves",
+    "image": "5161",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

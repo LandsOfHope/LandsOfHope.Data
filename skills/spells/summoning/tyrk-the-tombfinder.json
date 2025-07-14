@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3338,
         "mana": 3338
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "sithanu",
+            "profession": "hoodlum"
+        }
     }
 }

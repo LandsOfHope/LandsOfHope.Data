@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "pit-demon",
     "name": {
         "en": "Pit Demon"
     },
@@ -9,5 +11,10 @@
         "hell-magic": 5,
         "armor": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 3,
+        "SPEED": 3
+    }
 }

@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"silverclaw-cap","image":"4702","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "silverclaw-cap",
+    "image": "4702",
+    "type": "head-armour",
+    "armorType": "leather",
+    "legendary": true,
+    "set": "silverclaw-legend",
+    "material": "hide"
+}

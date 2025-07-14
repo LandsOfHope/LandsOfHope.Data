@@ -4,7 +4,9 @@ const util = require("util");
 const exec = util.promisify(require("child_process").exec);
 const glob = require("glob");
 const { basename, dirname } = require("path");
-const readFile = util.promisify(require("fs").readFile);
+const fs = require("fs");
+const readFile = util.promisify(fs.readFile);
+const readdir = util.promisify(fs.readdir);
 
 const schemas = glob.sync("schemas/v*/**/*.json");
 const schemasWithOptionalTypeSpecifier = [
@@ -46,8 +48,14 @@ const schemasWithOptionalTypeSpecifier = [
   'https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-billing-period.json',
 
   "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history.json",
-  
-  "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-item-actions.json"
+
+  "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-item-actions.json",
+
+  // these inventory item enhancements are meant to be mixed in with inventory items
+  "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-imbued.json",
+  "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-bejewelled.json",
+  "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-named.json",
+  "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-patched.json"
 ]
 
 const validate = async (schema, file) => {
@@ -57,6 +65,7 @@ const validate = async (schema, file) => {
     .filter((v, i, arr) => arr.indexOf(v) === i);
   // const tmpSchemas = ["-r \"schemas/v*/**/*.json\""]
   return (
+    // console.log('validating', schema, 'against', file),
     await exec(
       `node ${__dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${file}" ${tmpSchemas.join(" ")} --valid`
     )
@@ -74,6 +83,7 @@ const validateAll = async (schema, fileGlob) => {
   if (files.length == 0)
     throw Error(`Could not find files matching glob ${fileGlob}`);
   return (
+    // console.log('validating', schema, 'against', fileGlob),
     await exec(
       `node ${__dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --valid`
     )
@@ -90,6 +100,7 @@ const failAll = async (schema, fileGlob) => {
   if (files.length == 0)
     throw Error(`Could not find files matching glob ${fileGlob}`);
   return (
+    // console.log('expecting failure', schema, 'against', fileGlob),
     await exec(
       `node ${__dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --invalid`
     )
@@ -114,6 +125,7 @@ const parseSchema = ([schema, content]) => {
 }
 
 const checkSchemaTypes = async () => {
+  // console.log('checking schema types');
   const schemaObjects = Array.from(await Promise.all(schemas.map(readSchema)).then(res => res.map(parseSchema)));
   return schemaObjects.reduce((ret, schema) => {
     if (schema.type == 'object') {
@@ -140,18 +152,20 @@ const checkSchemaTypes = async () => {
         console.error(`schema ${schema.$id} has $type.const ${schema.properties.$type.const}`);
         return ret || 1;
       }
+      // console.log(`schema ${schema.$id} is valid`);
     }
     return ret || 0;
   }, 0);
 }
 
 const checkMappingsAreValidMap = async (mappingFile) => {
+  // console.log('checking mappings are valid map', mappingFile);
   const mapping = JSON.parse(await readFile(mappingFile, { encoding: 'utf-8' }));
-  if(!Array.isArray(mapping)) {
+  if (!Array.isArray(mapping)) {
     console.error(`mapping file ${mappingFile} is not an array`);
     return 1;
   }
-  if(!mapping.every(entry => Array.isArray(entry) && entry.length == 2 && (typeof entry[0] == 'string' || typeof entry[0] === 'number') && (typeof entry[1] == 'string' || typeof entry[1] === 'number'))) {
+  if (!mapping.every(entry => Array.isArray(entry) && entry.length == 2 && (typeof entry[0] == 'string' || typeof entry[0] === 'number') && (typeof entry[1] == 'string' || typeof entry[1] === 'number'))) {
     console.error(`mapping file ${mappingFile} is not an array of [string|number, string|number]`);
     return 1;
   }
@@ -159,11 +173,11 @@ const checkMappingsAreValidMap = async (mappingFile) => {
   const reverseMap = new Map();
   let hasDupe = false;
   mapping.forEach(entry => {
-    if(forwardMap.has(entry[0])) {
+    if (forwardMap.has(entry[0])) {
       console.error(`mapping file ${mappingFile} has duplicate key ${entry[0]}`);
       hasDupe = true;
     }
-    if(reverseMap.has(entry[1])) {
+    if (reverseMap.has(entry[1])) {
       console.error(`mapping file ${mappingFile} has duplicate value ${entry[1]}`);
       hasDupe = true;
     }
@@ -181,6 +195,8 @@ const main = async function () {
     validateAll("schemas/v1/profession.json", "professions/!(*.gen).json"),
     validateAll("schemas/v1/skill.json", "skills/!(*.gen).json"),
     validateAll("schemas/v1/skills/crafting/recipe.json", "skills/crafting/recipes/*/!(*.gen).json"),
+    validateAll("schemas/v1/skills/style.json", "skills/styles/!(mappings)/!(*.gen).json"),
+    validateAll("schemas/v1/skills/spell.json", "skills/spells/!(mappings)/!(*.gen).json"),
     validateAll("schemas/v1/race.json", "races/!(*.gen).json"),
     validateAll("schemas/v1/race-group.json", "races/groups/!(*.gen).json"),
     validateAll("schemas/v1/profession-list.json", "player-professions.json"),
@@ -200,11 +216,15 @@ const main = async function () {
     validateAll("schemas/v1/characters/character-creation-images.json", "characters/character-creation-images.json"),
     validateAll("schemas/v1/item.json", "items/!(*.gen).json"),
     validateAll("schemas/v1/items/type.json", "items/types/!(*.gen).json"),
-    validateAll("schemas/v1/items/name.json", "items/names/!(*.gen).json"),
     validateAll("schemas/v1/items/image.json", "items/images/!(*.gen).json"),
     validateAll("schemas/v1/items/material.json", "items/materials/!(*.gen).json"),
     validateAll("schemas/v1/items/resource.json", "items/resources/!(*.gen).json"),
     validateAll("schemas/v1/items/item-location.json", "items/locations/!(*.gen).json"),
+
+    validateAll("schemas/v1/items/enhancements/item-imbuement.json", "items/enhancements/imbuements/!(*.gen).json"),
+    validateAll("schemas/v1/items/enhancements/item-bejewel.json", "items/enhancements/bejewels/!(*.gen).json"),
+    validateAll("schemas/v1/items/enhancements/item-patch.json", "items/enhancements/patches/!(*.gen).json"),
+    validateAll("schemas/v1/items/enhancements/item-name.json", "items/enhancements/names/!(*.gen).json"),
 
     validate("schemas/v1/accounts/settings/account-email-settings.json", "accounts/settings/account-email-settings.default.json"),
 
@@ -240,6 +260,8 @@ const main = async function () {
 
     validateTestData("v1/payments/credits/credit-history-support-adjustment"),
 
+    validateTestData("v1/characters/inventory/inventory-item-list"),
+
     checkSchemaTypes(),
 
     checkMappingsAreValidMap("maps/worlds/mappings/id-to-slug.json"),
@@ -248,11 +270,31 @@ const main = async function () {
     // checkMappingsAreValidMap("items/mappings/id-to-slug.json"),
     // checkMappingsAreValidMap("items/mappings/slug-to-id.json"),
 
+    checkMappingsAreValidMap("items/sets/mappings/id-to-slug.json"),
+    checkMappingsAreValidMap("items/sets/mappings/slug-to-id.json"),
+
+    checkMappingsAreValidMap("items/enhancements/imbuements/mappings/id-to-slug.json"),
+    checkMappingsAreValidMap("items/enhancements/imbuements/mappings/slug-to-id.json"),
+    checkMappingsAreValidMap("items/enhancements/bejewels/mappings/id-to-slug.json"),
+    checkMappingsAreValidMap("items/enhancements/bejewels/mappings/slug-to-id.json"),
+    checkMappingsAreValidMap("items/enhancements/patches/mappings/id-to-slug.json"),
+    checkMappingsAreValidMap("items/enhancements/patches/mappings/slug-to-id.json"),
+    checkMappingsAreValidMap("items/enhancements/names/mappings/id-to-slug.json"),
+    checkMappingsAreValidMap("items/enhancements/names/mappings/slug-to-id.json"),
+
+    checkMappingsAreValidMap("items/sets/mappings/id-to-slug.json"),
+    checkMappingsAreValidMap("items/sets/mappings/slug-to-id.json"),
+
     // checkMappingsAreValidMap("races/mappings/id-to-slug.json"),
     // checkMappingsAreValidMap("races/mappings/slug-to-id.json"),
 
     checkMappingsAreValidMap("skills/mappings/id-to-slug.json"),
     checkMappingsAreValidMap("skills/mappings/slug-to-id.json"),
+
+    // checkMappingsAreValidMap("skills/spells/mappings/id-to-slug.json"),
+    // checkMappingsAreValidMap("skills/spells/mappings/slug-to-id.json"),
+    checkMappingsAreValidMap("skills/styles/mappings/id-to-slug.json"),
+    checkMappingsAreValidMap("skills/styles/mappings/slug-to-id.json"),
 
     // checkMappingsAreValidMap("items/types/mappings/id-to-slug.json"),
     // checkMappingsAreValidMap("items/types/mappings/slug-to-id.json"),
@@ -260,12 +302,22 @@ const main = async function () {
     // checkMappingsAreValidMap("professions/mappings/id-to-slug.json"),
     // checkMappingsAreValidMap("professions/mappings/slug-to-id.json"),
 
-    ...['alchemy', 'animation', 'artisan', 'cooking', 'augmenting', 'bewitching', 'blacksmithing', 'blood-over-beauty', 'bolts-over-brains', 'carpentry', 'charms-and-hexes', 'construction', 'cooking', 'dungeon-mastery', 'floristry', 'furnishing', 'gamemastery', 'leatherworking', 'lordship', 'parlor-tricks', 'patchcrafting', 'seamanship', 'stonemasonry', 'surgery', 'tailoring', 'tinkering'].flatMap(skill => {
-      return [
-        checkMappingsAreValidMap(`skills/crafting/recipes/${skill}/mappings/id-to-slug.json`),
-        checkMappingsAreValidMap(`skills/crafting/recipes/${skill}/mappings/slug-to-id.json`)
-      ]
-    })
+    ...await readdir('skills/crafting/recipes/', { withFileTypes: true }).then((dirs) => dirs.filter(dir => dir.isDirectory()).map(dir => dir.name)).then(
+      dirs => dirs.flatMap(skill => {
+        return [
+          checkMappingsAreValidMap(`skills/crafting/recipes/${skill}/mappings/id-to-slug.json`),
+          checkMappingsAreValidMap(`skills/crafting/recipes/${skill}/mappings/slug-to-id.json`)
+        ]
+      })),
+
+    ...await readdir('items/enhancements/', { withFileTypes: true }).then((dirs) => dirs.filter(dir => dir.isDirectory()).map(dir => dir.name)).then(
+      dirs =>
+        dirs.flatMap(dir =>
+          [
+            checkMappingsAreValidMap(`items/enhancements/${dir}/mappings/id-to-slug.json`),
+            checkMappingsAreValidMap(`items/enhancements/${dir}/mappings/slug-to-id.json`)
+          ])
+    )
   ]);
 };
 

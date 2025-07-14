@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"ornate-short-bow","image":"gmorshbo","type":"ranged-weapon","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "ornate-short-bow",
+    "image": "gmorshbo",
+    "type": "ranged-weapon",
+    "dpr": 7,
+    "material": "gem",
+    "skill": "bows"
+}

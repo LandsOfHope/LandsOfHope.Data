@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"necklace-of-life","image":"arb","type":"neck-clothing","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "necklace-of-life",
+    "image": "arb",
+    "type": "neck-clothing",
+    "armorType": "cloth",
+    "material": "metal"
+}

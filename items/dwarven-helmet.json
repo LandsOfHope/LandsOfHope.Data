@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dwarven-helmet","image":"486","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "dwarven-helmet",
+    "image": "486",
+    "type": "head-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

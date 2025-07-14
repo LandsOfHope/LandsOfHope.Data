@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"embossed-mitts","image":"2885","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "embossed-mitts",
+    "image": "2885",
+    "type": "hand-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

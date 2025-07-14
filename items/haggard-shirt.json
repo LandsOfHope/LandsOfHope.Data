@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"haggard-shirt","image":"pshi4","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "haggard-shirt",
+    "image": "pshi4",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

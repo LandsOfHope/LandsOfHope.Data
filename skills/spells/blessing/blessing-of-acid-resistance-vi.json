@@ -6,7 +6,9 @@
         "mana": 4278
     },
     "duration": "PT75M",
-    "skills": {
-        "acid-resistance": 442
+    "effects": {
+        "skills": {
+            "acid-resistance": 442
+        }
     }
 }

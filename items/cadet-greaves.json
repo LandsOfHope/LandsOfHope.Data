@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cadet-greaves","image":"2332","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cadet-greaves",
+    "image": "2332",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

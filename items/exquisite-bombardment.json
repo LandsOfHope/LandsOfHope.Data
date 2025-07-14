@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"exquisite-bombardment","image":"6645","type":"siege-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "exquisite-bombardment",
+    "image": "6645",
+    "type": "siege-weapon",
+    "dpr": 140,
+    "material": "metal",
+    "skill": "siege-weapons"
+}

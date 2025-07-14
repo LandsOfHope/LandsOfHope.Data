@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"ingot","image":"it","type":"resource-smithing","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ingot",
+    "image": "it",
+    "type": "resource-smithing",
+    "material": "metal"
+}

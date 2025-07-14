@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"embossed-shoulder-pads","image":"3017","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "embossed-shoulder-pads",
+    "image": "3017",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

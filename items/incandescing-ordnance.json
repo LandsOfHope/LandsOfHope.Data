@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"incandescing-ordnance","image":"ss6","type":"ammo-weapons-artillery","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "incandescing-ordnance",
+    "image": "ss6",
+    "type": "ammo-weapons-artillery",
+    "dpr": 97,
+    "material": "gem"
+}

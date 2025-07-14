@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "scout",
     "name": {
         "en": "Scout"
     },
@@ -13,6 +15,13 @@
         "detect-hidden": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 1
     },
     "evo": {
         "beastmaster": 350

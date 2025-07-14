@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wicked-shoulderchains","image":"2746","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "wicked-shoulderchains",
+    "image": "2746",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"merlins-necklace","image":"6919","type":"neck","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "merlins-necklace",
+    "image": "6919",
+    "type": "neck",
+    "set": "arthurian-set",
+    "material": "gem"
+}

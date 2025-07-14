@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "light-golem",
     "name": {
         "en": "Light Golem"
     },
     "desc": {
-        "en": ""
+        "en": "Light Golem Pet Class"
     },
     "skills": {
         "two-handed-staves": 5,
@@ -13,5 +15,7 @@
         "attack-power": 5,
         "celestial-defense": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 0
+    }
 }

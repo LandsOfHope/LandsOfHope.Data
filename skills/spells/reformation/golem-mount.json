@@ -4,5 +4,10 @@
     "requirements": {
         "skill": 30,
         "mana": 25
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "mountable-golem"
+        }
     }
 }

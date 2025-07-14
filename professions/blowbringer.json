@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "blowbringer",
     "name": {
         "en": "Blowbringer"
     },
@@ -16,5 +18,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 1,
+        "STRENGTH": 1
+    }
 }

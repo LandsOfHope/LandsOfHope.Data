@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"sundried-boots","image":"cbt","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "sundried-boots",
+    "image": "cbt",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

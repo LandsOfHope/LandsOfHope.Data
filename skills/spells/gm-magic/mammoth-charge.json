@@ -6,7 +6,9 @@
         "mana": 400
     },
     "duration": "PT5000M",
-    "skills": {
-        "attack-power": 150
+    "effects": {
+        "skills": {
+            "attack-power": 150
+        }
     }
 }

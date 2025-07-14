@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-savage-breastplate","image":"3669","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-savage-breastplate",
+    "image": "3669",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

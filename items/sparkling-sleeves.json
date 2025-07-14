@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"sparkling-sleeves","image":"575","type":"arm-armour","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "sparkling-sleeves",
+    "image": "575",
+    "type": "arm-armour",
+    "armorType": "plate",
+    "material": "gem"
+}

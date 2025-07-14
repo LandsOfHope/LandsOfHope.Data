@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"diseased-arrow","image":"643","type":"ammo-weapons-bows","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "diseased-arrow",
+    "image": "643",
+    "type": "ammo-weapons-bows",
+    "dpr": 11,
+    "material": "wood"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"numbing-bullet","image":"zunubu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "numbing-bullet",
+    "image": "zunubu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 78,
+    "material": "metal"
+}

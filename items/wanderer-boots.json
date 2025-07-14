@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"wanderer-boots","image":"5257","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "wanderer-boots",
+    "image": "5257",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "cloth",
+    "skill": "myzan-navy"
+}

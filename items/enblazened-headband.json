@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"enblazened-headband","image":"3180","type":"head-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "enblazened-headband",
+    "image": "3180",
+    "type": "head-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

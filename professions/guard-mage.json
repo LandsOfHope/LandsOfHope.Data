@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "guard-mage",
     "name": {
         "en": "Guard Mage"
     },
     "desc": {
-        "en": ""
+        "en": "Guard Mage"
     },
     "skills": {
         "fire-magic": 5,
@@ -16,5 +18,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 5,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 5,
+        "SPEED": 2,
+        "STRENGTH": 1
+    }
 }

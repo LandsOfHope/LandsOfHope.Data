@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "priest",
     "name": {
         "en": "Priest"
     },
@@ -11,6 +13,13 @@
         "intercession": 5,
         "restoration-magic": 5,
         "armor": 5
+    },
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 1,
+        "SPEED": 1
     },
     "evo": {
         "arch-priest": 650

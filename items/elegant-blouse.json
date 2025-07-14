@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"elegant-blouse","image":"1842","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "elegant-blouse",
+    "image": "1842",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "hide"
+}

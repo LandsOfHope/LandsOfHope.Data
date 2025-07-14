@@ -5,5 +5,10 @@
         "skill": 1176,
         "mana": 1176
     },
-    "duration": "PT225M"
+    "duration": "PT225M",
+    "effects": {
+        "summon-item": {
+            "item": "weeping-willow"
+        }
+    }
 }

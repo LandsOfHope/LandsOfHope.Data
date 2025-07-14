@@ -6,10 +6,12 @@
         "mana": 394
     },
     "duration": "PT14000M",
-    "skills": {
-        "poison-resistance": 198
-    },
-    "properties": {
-        "MAXMANA": 198
+    "effects": {
+        "properties": {
+            "MAXMANA": 198
+        },
+        "skills": {
+            "poison-resistance": 198
+        }
     }
 }

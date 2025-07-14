@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"spawn-of-frog","image":"6152","type":"charm-ingredient"}
+{
+    "$type": "/v1/item",
+    "id": "spawn-of-frog",
+    "image": "6152",
+    "type": "charm-ingredient",
+    "expansion": "the-afterlife"
+}

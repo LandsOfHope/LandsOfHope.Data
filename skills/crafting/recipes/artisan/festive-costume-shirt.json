@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"artisan/festive-costume-shirt","item":"festive-costume-shirt","image":"sshirt","time":"PT15S","quantity":1,"skill":"artisan","skillValue":710,"quality":"uncommon","ingredients":[{"id":"prepared-hide","quantity":10,"primary":true},{"id":"thread","quantity":12},{"id":"artisan-tool","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "artisan/festive-costume-shirt",
+    "item": "festive-costume-shirt",
+    "image": "sshirt",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "artisan",
+    "skillValue": 710,
+    "quality": "uncommon",
+    "ingredients": [
+        {
+            "id": "thread",
+            "quantity": 12
+        },
+        {
+            "id": "prepared-hide",
+            "quantity": 10,
+            "primary": true
+        },
+        {
+            "id": "artisan-tool",
+            "quantity": 0
+        }
+    ]
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"ancient-gauntlets","image":"6475","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-gauntlets",
+    "image": "6475",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "expansion": "dark-depths",
+    "material": "hide"
+}

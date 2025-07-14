@@ -6,7 +6,9 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "mana-regen": 150
+    "effects": {
+        "skills": {
+            "mana-regen": 150
+        }
     }
 }

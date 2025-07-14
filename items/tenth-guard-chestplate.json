@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"tenth-guard-chestplate","image":"5051","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "tenth-guard-chestplate",
+    "image": "5051",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "set": "tenth-guard",
+    "material": "metal"
+}

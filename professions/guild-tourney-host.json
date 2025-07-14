@@ -1,13 +1,19 @@
 {
+    "$type": "/v1/profession",
+    "id": "guild-tourney-host",
     "name": {
         "en": "Guild Tourney Host"
     },
     "desc": {
-        "en": "The Master of Guild Tourneys"
+        "en": "The master of Guild Tourneys"
     },
     "skills": {
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 2
+    }
 }

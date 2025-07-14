@@ -5,5 +5,10 @@
         "skill": 1880,
         "mana": 376
     },
-    "duration": "PT50M"
+    "duration": "PT50M",
+    "effects": {
+        "summon-item": {
+            "item": "foxglove"
+        }
+    }
 }

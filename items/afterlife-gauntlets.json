@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"afterlife-gauntlets","image":"6386","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "afterlife-gauntlets",
+    "image": "6386",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "expansion": "the-afterlife",
+    "set": "afterlife-set",
+    "material": "hide"
+}

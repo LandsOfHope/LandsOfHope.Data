@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "dungeon-keeper",
     "name": {
         "en": "Dungeon Keeper"
     },
@@ -10,5 +12,12 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 3,
+        "SPEED": 1
+    }
 }

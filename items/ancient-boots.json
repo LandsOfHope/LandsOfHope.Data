@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"ancient-boots","image":"6471","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-boots",
+    "image": "6471",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "expansion": "dark-depths",
+    "material": "hide"
+}

@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "navy-privateer",
     "name": {
         "en": "Navy Privateer"
     },
     "desc": {
-        "en": ""
+        "en": "xx"
     },
     "skills": {
         "seamanship": 5,
@@ -17,6 +19,13 @@
         "attack-power": 5,
         "myzan-navy": 5,
         "marine-husbandry": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 1
     },
     "evo": {
         "sailor": 50

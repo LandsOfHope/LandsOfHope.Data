@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"building-statue","image":"1004","type":"building-statues","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "building-statue",
+    "image": "1004",
+    "type": "building-statues",
+    "material": "stone"
+}

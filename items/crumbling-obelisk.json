@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"crumbling-obelisk","image":"cgo","type":"stealing-loot","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "crumbling-obelisk",
+    "image": "cgo",
+    "type": "stealing-loot",
+    "material": "stone"
+}

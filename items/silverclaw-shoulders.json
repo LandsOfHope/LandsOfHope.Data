@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"silverclaw-shoulders","image":"4704","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "silverclaw-shoulders",
+    "image": "4704",
+    "type": "shoulders",
+    "armorType": "leather",
+    "legendary": true,
+    "set": "silverclaw-legend",
+    "material": "hide"
+}

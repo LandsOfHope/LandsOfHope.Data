@@ -5,5 +5,8 @@
         "skill": 78,
         "mana": 78
     },
-    "duration": "PT5000M"
+    "duration": "PT5000M",
+    "effects": {
+        "dead": 1
+    }
 }

@@ -5,5 +5,11 @@
         "skill": 1,
         "mana": 1
     },
-    "duration": "PT60M"
+    "duration": "PT60M",
+    "effects": {
+        "summon-pet": {
+            "race": "wisp",
+            "profession": "powerseeker"
+        }
+    }
 }

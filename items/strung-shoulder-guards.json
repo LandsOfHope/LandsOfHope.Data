@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"strung-shoulder-guards","image":"3026","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "strung-shoulder-guards",
+    "image": "3026",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

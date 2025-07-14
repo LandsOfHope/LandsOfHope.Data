@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"basinet","image":"bse","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "basinet",
+    "image": "bse",
+    "type": "head-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

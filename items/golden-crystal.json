@@ -1,1 +1,6 @@
-{"$type":"/v1/item","id":"golden-crystal","image":"goc","type":"alchemy-ingredient"}
+{
+    "$type": "/v1/item",
+    "id": "golden-crystal",
+    "image": "goc",
+    "type": "alchemy-ingredient"
+}

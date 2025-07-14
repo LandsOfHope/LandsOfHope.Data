@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"decaying-idol","image":"1001","type":"stealing-loot","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "decaying-idol",
+    "image": "1001",
+    "type": "stealing-loot",
+    "material": "wood"
+}

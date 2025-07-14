@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"silverclaw-vest","image":"4705","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "silverclaw-vest",
+    "image": "4705",
+    "type": "chest-armour",
+    "armorType": "leather",
+    "legendary": true,
+    "set": "silverclaw-legend",
+    "material": "hide"
+}

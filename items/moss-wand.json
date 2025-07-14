@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"moss-wand","image":"wand14","type":"1-handed-equipment","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "moss-wand",
+    "image": "wand14",
+    "type": "1-handed-equipment",
+    "dpr": 18,
+    "material": "stone",
+    "skill": "staves"
+}

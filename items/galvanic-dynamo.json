@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"galvanic-dynamo","image":"st1","type":"2-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "galvanic-dynamo",
+    "image": "st1",
+    "type": "2-handed-equipment",
+    "dpr": 10,
+    "material": "gem",
+    "skill": "staves"
+}

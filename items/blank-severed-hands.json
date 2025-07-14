@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-severed-hands","image":"6838","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "blank-severed-hands",
+    "image": "6838",
+    "type": "hand-armour",
+    "set": "inventor-severed-set",
+    "material": "hide",
+    "skill": "blood-over-beauty"
+}

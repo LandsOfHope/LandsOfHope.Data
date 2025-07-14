@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"pirate-bandana","image":"zupiba","type":"event-spawner","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "pirate-bandana",
+    "image": "zupiba",
+    "type": "event-spawner",
+    "material": "cloth"
+}

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"gooey-pet-treats","image":"5735","type":"pet-bought-bonus","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "gooey-pet-treats",
+    "image": "5735",
+    "type": "pet-bought-bonus",
+    "material": "hide"
+}

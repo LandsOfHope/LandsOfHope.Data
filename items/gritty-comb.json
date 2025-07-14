@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"gritty-comb","image":"gcb","type":"stealing-loot","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "gritty-comb",
+    "image": "gcb",
+    "type": "stealing-loot",
+    "material": "hide"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"exquisite-volley","image":"6626","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "exquisite-volley",
+    "image": "6626",
+    "type": "ranged-weapon",
+    "dpr": 140,
+    "material": "metal",
+    "skill": "bows"
+}

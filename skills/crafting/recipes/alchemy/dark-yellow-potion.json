@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"alchemy/dark-yellow-potion","item":"dark-yellow-potion","image":"pdy","time":"PT15S","quantity":1,"skill":"alchemy","skillValue":3750,"quality":"common","ingredients":[{"id":"empty-potion-bottle","quantity":1,"primary":true},{"id":"mortar-and-pestle","quantity":0},{"id":"purple-crystal","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "alchemy/dark-yellow-potion",
+    "item": "dark-yellow-potion",
+    "image": "pdy",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "alchemy",
+    "skillValue": 3750,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "empty-potion-bottle",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "mortar-and-pestle",
+            "quantity": 0
+        },
+        {
+            "id": "purple-crystal",
+            "quantity": 1
+        }
+    ]
+}

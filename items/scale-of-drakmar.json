@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"scale-of-drakmar","image":"ar","type":"jurassic-voucher","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "scale-of-drakmar",
+    "image": "ar",
+    "type": "jurassic-voucher",
+    "expansion": "jurassic-wars",
+    "material": "gem"
+}

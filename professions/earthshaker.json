@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "earthshaker",
     "name": {
         "en": "Earthshaker"
     },
     "desc": {
-        "en": ""
+        "en": "An ancient guardian"
     },
     "skills": {
         "energy-resistance": 5,
@@ -12,5 +14,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 2
+    }
 }

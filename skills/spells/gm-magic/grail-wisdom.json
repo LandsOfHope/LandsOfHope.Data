@@ -6,7 +6,9 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "properties": {
-        "INTELLIGENCE": 2000
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 2000
+        }
     }
 }

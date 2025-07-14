@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"taint","image":"6233","type":"2-handed-equipment","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "taint",
+    "image": "6233",
+    "type": "2-handed-equipment",
+    "dpr": 120,
+    "material": "color",
+    "skill": "martial-arts"
+}

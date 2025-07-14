@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"rat-trap","image":"6427","type":"lordship-improvements"}
+{
+    "$type": "/v1/item",
+    "id": "rat-trap",
+    "image": "6427",
+    "type": "lordship-improvements",
+    "skill": "lordship"
+}

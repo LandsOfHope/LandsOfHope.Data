@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"wooden-house-deed","image":"na","type":"house-deeds"}
+{
+    "$type": "/v1/item",
+    "id": "wooden-house-deed",
+    "image": "1070",
+    "type": "house-deeds",
+    "material": "hide"
+}

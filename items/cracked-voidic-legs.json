@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cracked-voidic-legs","image":"682","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cracked-voidic-legs",
+    "image": "682",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

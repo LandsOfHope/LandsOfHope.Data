@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "legend-guardian",
     "name": {
         "en": "Legend Guardian"
     },
     "desc": {
-        "en": ""
+        "en": "An ancient guardian"
     },
     "skills": {
         "frenzy": 5,
@@ -13,5 +15,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 3,
+        "STRENGTH": 2
+    }
 }

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "corruptor-of-worlds",
     "name": {
         "en": "Corruptor of Worlds"
     },
@@ -6,32 +8,36 @@
         "en": "The ancient leader of the Demons."
     },
     "skills": {
-        "mystical-resistance": 5,
+        "mystical-resistance": 3,
         "hell-magic": 5,
-        "air-resistance": 5,
-        "drain-resistance": 5,
-        "gun-defense": 5,
-        "mana-regen": 5,
-        "cold-resistance": 5,
-        "fire-resistance": 5,
-        "acid-resistance": 5,
-        "energy-resistance": 5,
-        "water-resistance": 5,
-        "poison-resistance": 5,
+        "air-resistance": 3,
+        "drain-resistance": 3,
+        "gun-defense": 3,
+        "mana-regen": 1,
+        "cold-resistance": 3,
+        "fire-resistance": 3,
+        "acid-resistance": 3,
+        "energy-resistance": 3,
+        "water-resistance": 3,
+        "poison-resistance": 3,
         "poison-magic": 5,
-        "earth-resistance": 5,
-        "bladed-defense": 5,
-        "projectile-defense": 5,
-        "h2h-defense": 5,
-        "bludgeon-defense": 5,
-        "nature-resistance": 5,
-        "pole-defense": 5,
-        "invoking-resistance": 5,
-        "debuff-resistance": 5,
+        "earth-resistance": 3,
+        "bladed-defense": 3,
+        "projectile-defense": 3,
+        "h2h-defense": 3,
+        "bludgeon-defense": 3,
+        "nature-resistance": 3,
+        "pole-defense": 3,
+        "invoking-resistance": 3,
+        "debuff-resistance": 3,
         "dark-magic": 5,
-        "arcane-resistance": 5
+        "arcane-resistance": 3
     },
-    "evo": {
-        
+    "properties": {
+        "DEXTERITY": 3,
+        "INTELLIGENCE": 7,
+        "MAXHITPOINTS": 16,
+        "MAXMANA": 9,
+        "SPEED": 3
     }
 }

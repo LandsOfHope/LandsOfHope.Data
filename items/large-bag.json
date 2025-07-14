@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"large-bag","image":"bg2","type":"bag","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "large-bag",
+    "image": "bg2",
+    "type": "bag",
+    "material": "cloth"
+}

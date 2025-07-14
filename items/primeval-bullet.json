@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"primeval-bullet","image":"zuprbu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "primeval-bullet",
+    "image": "zuprbu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 51,
+    "material": "metal"
+}

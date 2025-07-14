@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"crafters-earring","image":"zucrea","type":"ear-jewelry","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "crafters-earring",
+    "image": "zucrea",
+    "type": "ear-jewelry",
+    "material": "gem",
+    "skill": "artisan"
+}

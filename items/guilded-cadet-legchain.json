@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-cadet-legchain","image":"3738","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-cadet-legchain",
+    "image": "3738",
+    "type": "leg-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

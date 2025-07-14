@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "protector",
     "name": {
         "en": "Protector"
     },
@@ -14,6 +16,14 @@
         "protection": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 1
     },
     "evo": {
         "templar": 350

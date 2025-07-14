@@ -5,7 +5,9 @@
         "skill": 53,
         "mana": 53
     },
-    "skills": {
-        "bludgeon-defense": -5000
+    "effects": {
+        "skills": {
+            "bludgeon-defense": -5000
+        }
     }
 }

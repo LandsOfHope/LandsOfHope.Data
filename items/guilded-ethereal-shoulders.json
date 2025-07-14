@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-ethereal-shoulders","image":"3956","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-ethereal-shoulders",
+    "image": "3956",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

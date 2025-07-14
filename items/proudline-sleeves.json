@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"proudline-sleeves","image":"4733","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "proudline-sleeves",
+    "image": "4733",
+    "type": "arm-armour",
+    "armorType": "plate",
+    "legendary": true,
+    "set": "proudline-legend",
+    "material": "metal"
+}

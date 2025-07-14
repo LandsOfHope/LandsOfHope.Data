@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"nightly-boots","image":"3099","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "nightly-boots",
+    "image": "3099",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

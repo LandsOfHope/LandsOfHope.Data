@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-devilish-vest","image":"3813","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-devilish-vest",
+    "image": "3813",
+    "type": "chest-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

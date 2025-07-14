@@ -1,1 +1,22 @@
-{"$type":"/v1/skills/crafting/recipe","id":"leatherworking/depraved-chestplate","item":"depraved-chestplate","image":"1817","time":"PT15S","quantity":1,"skill":"leatherworking","skillValue":400,"quality":"common","ingredients":[{"id":"prepared-hide","quantity":2,"primary":true},{"id":"lining","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "leatherworking/depraved-chestplate",
+    "item": "depraved-chestplate",
+    "image": "1817",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "leatherworking",
+    "skillValue": 400,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "prepared-hide",
+            "quantity": 2,
+            "primary": true
+        },
+        {
+            "id": "lining",
+            "quantity": 1
+        }
+    ]
+}

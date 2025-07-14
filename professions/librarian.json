@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "librarian",
     "name": {
         "en": "Librarian"
     },
@@ -9,5 +11,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 3
+    }
 }

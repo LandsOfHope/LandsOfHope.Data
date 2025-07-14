@@ -6,7 +6,9 @@
         "mana": 150
     },
     "duration": "PT30M",
-    "skills": {
-        "earth-resistance": 30
+    "effects": {
+        "skills": {
+            "earth-resistance": 30
+        }
     }
 }

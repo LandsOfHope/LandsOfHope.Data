@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"ladybird-leggings","image":"5170","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "ladybird-leggings",
+    "image": "5170",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

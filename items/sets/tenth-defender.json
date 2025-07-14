@@ -1,0 +1,16 @@
+{
+    "$type": "/v1/items/set",
+    "id": "tenth-defender",
+    "image": "na.gif",
+    "color": "orange",
+    "spells": {
+        "0": {
+            "0": "blessing-of-the-legion-defender"
+        }
+    },
+    "items": [
+        "tenth-defender-chestplate",
+        "tenth-defender-helmet",
+        "tenth-defender-gloves"
+    ]
+}

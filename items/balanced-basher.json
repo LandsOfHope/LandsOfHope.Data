@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"balanced-basher","image":"lsf","type":"2-handed-equipment","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "balanced-basher",
+    "image": "lsf",
+    "type": "2-handed-equipment",
+    "dpr": 5,
+    "material": "stone",
+    "skill": "two-handed-staves"
+}

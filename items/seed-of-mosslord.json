@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"seed-of-mosslord","image":"zufann","type":"jurassic-voucher","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "seed-of-mosslord",
+    "image": "zufann",
+    "type": "jurassic-voucher",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

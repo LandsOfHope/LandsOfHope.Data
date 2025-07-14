@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"freebreeze-shoulders","image":"4686","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "freebreeze-shoulders",
+    "image": "4686",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "legendary": true,
+    "set": "freebreeze-legend",
+    "material": "cloth"
+}

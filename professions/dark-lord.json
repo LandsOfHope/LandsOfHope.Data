@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "dark-lord",
     "name": {
         "en": "Dark Lord"
     },
@@ -12,5 +14,13 @@
         "attack-power": 5,
         "dark-magic": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 2
+    }
 }

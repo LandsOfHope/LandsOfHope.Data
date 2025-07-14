@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-stitched-feet","image":"6856","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "blank-stitched-feet",
+    "image": "6856",
+    "type": "foot-armour",
+    "set": "inventor-stitched-set",
+    "material": "hide",
+    "skill": "blood-over-beauty"
+}

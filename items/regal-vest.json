@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"regal-vest","image":"3093","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "regal-vest",
+    "image": "3093",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

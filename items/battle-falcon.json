@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"battle-falcon","image":"6672","type":"creature"}
+{
+    "$type": "/v1/item",
+    "id": "battle-falcon",
+    "image": "6672",
+    "type": "creature",
+    "skill": "gods-favor"
+}

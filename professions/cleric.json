@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "cleric",
     "name": {
         "en": "Cleric"
     },
@@ -13,6 +15,12 @@
         "preservation-magic": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 1
     },
     "evo": {
         "priest": 350

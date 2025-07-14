@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"trackers-tunic","image":"2778","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "trackers-tunic",
+    "image": "2778",
+    "type": "chest-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

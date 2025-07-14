@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"cooking/dark-cookies","item":"dark-cookies","image":"dri","time":"PT15S","quantity":1,"skill":"cooking","skillValue":4100,"quality":"common","ingredients":[{"id":"milk","quantity":6,"primary":true},{"id":"dough","quantity":1},{"id":"bowl","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "cooking/dark-cookies",
+    "item": "dark-cookies",
+    "image": "dri",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "cooking",
+    "skillValue": 4100,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "milk",
+            "quantity": 6,
+            "primary": true
+        },
+        {
+            "id": "bowl",
+            "quantity": 0
+        },
+        {
+            "id": "dough",
+            "quantity": 1
+        }
+    ]
+}

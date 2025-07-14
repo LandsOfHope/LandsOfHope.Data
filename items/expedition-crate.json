@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"expedition-crate","image":"esc2","type":"expedition-supplies","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "expedition-crate",
+    "image": "esc2",
+    "type": "expedition-supplies",
+    "expansion": "jurassic-wars",
+    "material": "wood"
+}

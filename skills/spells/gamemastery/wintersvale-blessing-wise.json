@@ -6,7 +6,9 @@
         "mana": 1
     },
     "duration": "PT240M",
-    "properties": {
-        "INTELLIGENCE": 50
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 50
+        }
     }
 }

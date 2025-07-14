@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"autumnal-shoulders","image":"jwads","type":"shoulders","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "autumnal-shoulders",
+    "image": "jwads",
+    "type": "shoulders",
+    "armorType": "leather",
+    "expansion": "jurassic-wars",
+    "material": "wood"
+}

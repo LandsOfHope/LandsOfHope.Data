@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"commanders-boots","image":"2594","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "commanders-boots",
+    "image": "2594",
+    "type": "foot-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

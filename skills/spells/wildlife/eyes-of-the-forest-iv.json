@@ -6,7 +6,9 @@
         "mana": 359
     },
     "duration": "PT220M",
-    "skills": {
-        "exploration": 374
+    "effects": {
+        "skills": {
+            "exploration": 374
+        }
     }
 }

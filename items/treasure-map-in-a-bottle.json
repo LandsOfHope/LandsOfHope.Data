@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"treasure-map-in-a-bottle","image":"me1","type":"treasure-map","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "treasure-map-in-a-bottle",
+    "image": "me1",
+    "type": "treasure-map",
+    "material": "gem"
+}

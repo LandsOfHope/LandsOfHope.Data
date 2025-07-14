@@ -6,10 +6,12 @@
         "mana": 490
     },
     "duration": "PT14000M",
-    "skills": {
-        "acid-resistance": 246
-    },
-    "properties": {
-        "INTELLIGENCE": 246
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 246
+        },
+        "skills": {
+            "acid-resistance": 246
+        }
     }
 }

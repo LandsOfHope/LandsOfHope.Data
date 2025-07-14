@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"loom","image":"lm","type":"tailoring-cloth-maker","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "loom",
+    "image": "lm",
+    "type": "tailoring-cloth-maker",
+    "material": "wood"
+}

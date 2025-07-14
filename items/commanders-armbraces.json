@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"commanders-armbraces","image":"2726","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "commanders-armbraces",
+    "image": "2726",
+    "type": "arm-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "rampager",
     "name": {
         "en": "Rampager"
     },
@@ -12,5 +14,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 4
+    }
 }

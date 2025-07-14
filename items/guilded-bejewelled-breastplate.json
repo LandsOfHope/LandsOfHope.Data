@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-bejewelled-breastplate","image":"3665","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-bejewelled-breastplate",
+    "image": "3665",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

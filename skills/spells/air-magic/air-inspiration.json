@@ -6,7 +6,9 @@
         "mana": 71
     },
     "duration": "PT30M",
-    "properties": {
-        "MAXMANA": 36
+    "effects": {
+        "properties": {
+            "MAXMANA": 36
+        }
     }
 }

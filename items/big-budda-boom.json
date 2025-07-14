@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"big-budda-boom","image":"6330","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "big-budda-boom",
+    "image": "6330",
+    "type": "ranged-weapon",
+    "dpr": 10,
+    "material": "metal",
+    "skill": "heavy-munitions"
+}

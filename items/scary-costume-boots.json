@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"scary-costume-boots","image":"tboots","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "scary-costume-boots",
+    "image": "tboots",
+    "type": "foot-armour",
+    "set": "halloween-costume",
+    "material": "hide"
+}

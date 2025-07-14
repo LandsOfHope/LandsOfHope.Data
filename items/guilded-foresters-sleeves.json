@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-foresters-sleeves","image":"3864","type":"arm-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-foresters-sleeves",
+    "image": "3864",
+    "type": "arm-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

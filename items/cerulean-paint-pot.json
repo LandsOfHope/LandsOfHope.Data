@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"cerulean-paint-pot","image":"6540","type":"paint-pots"}
+{
+    "$type": "/v1/item",
+    "id": "cerulean-paint-pot",
+    "image": "6540",
+    "type": "paint-pots",
+    "expansion": "dark-depths"
+}

@@ -6,7 +6,9 @@
         "mana": 638
     },
     "duration": "PT5000M",
-    "skills": {
-        "skinning": 51
+    "effects": {
+        "skills": {
+            "skinning": 51
+        }
     }
 }

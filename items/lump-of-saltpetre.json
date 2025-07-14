@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"lump-of-saltpetre","image":"gmlusa","type":"special-pirate-resource"}
+{
+    "$type": "/v1/item",
+    "id": "lump-of-saltpetre",
+    "image": "gmlusa",
+    "type": "special-pirate-resource",
+    "expansion": "uncharted-waters"
+}

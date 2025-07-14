@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-tanned-vest","image":"3803","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-tanned-vest",
+    "image": "3803",
+    "type": "chest-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

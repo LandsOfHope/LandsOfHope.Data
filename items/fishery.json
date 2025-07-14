@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"fishery","image":"rf","type":"resource-harvester","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "fishery",
+    "image": "rf",
+    "type": "resource-harvester",
+    "material": "stone"
+}

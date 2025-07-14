@@ -1,1 +1,17 @@
-{"$type":"/v1/skills/crafting/recipe","id":"gamemastery/powder","item":"powder","image":"pra","time":"PT15S","quantity":1,"skill":"gamemastery","skillValue":5,"quality":"common","ingredients":[{"id":"pearl","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "gamemastery/powder",
+    "item": "powder",
+    "image": "pra",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "gamemastery",
+    "skillValue": 5,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ]
+}

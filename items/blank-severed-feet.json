@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-severed-feet","image":"6839","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "blank-severed-feet",
+    "image": "6839",
+    "type": "foot-armour",
+    "set": "inventor-severed-set",
+    "material": "hide",
+    "skill": "blood-over-beauty"
+}

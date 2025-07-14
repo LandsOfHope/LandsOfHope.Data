@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cadet-shoulder-pads","image":"2750","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cadet-shoulder-pads",
+    "image": "2750",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

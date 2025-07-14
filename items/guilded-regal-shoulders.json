@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-regal-shoulders","image":"3958","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-regal-shoulders",
+    "image": "3958",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -6,10 +6,12 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "air-survival": 300
-    },
-    "properties": {
-        "SPEED": 300
+    "effects": {
+        "properties": {
+            "SPEED": 300
+        },
+        "skills": {
+            "air-survival": 300
+        }
     }
 }

@@ -29,12 +29,25 @@
                 "stamina"
             ],
             "additionalProperties": false
+        },
+        "effects": {
+            "type": "object",
+            "properties": {
+                "damage": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "damage"
+            ]
         }
     },
     "required": [
         "$type",
         "id",
-        "requirements"
+        "requirements",
+        "effects"
     ],
     "additionalProperties": false
 }

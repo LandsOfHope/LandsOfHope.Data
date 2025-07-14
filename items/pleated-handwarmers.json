@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"pleated-handwarmers","image":"3146","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "pleated-handwarmers",
+    "image": "3146",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

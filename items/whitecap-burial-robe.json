@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"whitecap-burial-robe","image":"5018","type":"neck-clothing","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "whitecap-burial-robe",
+    "image": "5018",
+    "type": "neck-clothing",
+    "armorType": "cloth",
+    "material": "cloth"
+}

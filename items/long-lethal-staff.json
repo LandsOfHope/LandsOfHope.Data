@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"long-lethal-staff","image":"sf","type":"2-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "long-lethal-staff",
+    "image": "sf",
+    "type": "2-handed-equipment",
+    "dpr": 62,
+    "material": "wood",
+    "skill": "two-handed-staves"
+}

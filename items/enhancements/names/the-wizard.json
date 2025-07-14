@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-wizard",
+    "effects": {
+        "skills": {
+            "earth-magic": 0.4,
+            "air-magic": 0.4
+        },
+        "properties": {
+            "INTELLIGENCE": 0.4
+        }
+    }
+}

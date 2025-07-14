@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"dark-dweller","image":"6263","type":"special-creature"}
+{
+    "$type": "/v1/item",
+    "id": "dark-dweller",
+    "image": "6263",
+    "type": "special-creature",
+    "expansion": "the-afterlife"
+}

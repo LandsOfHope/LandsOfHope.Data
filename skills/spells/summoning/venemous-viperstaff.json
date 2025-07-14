@@ -5,5 +5,10 @@
         "skill": 1498,
         "mana": 1498
     },
-    "duration": "PT225M"
+    "duration": "PT225M",
+    "effects": {
+        "summon-item": {
+            "item": "venemous-viperstaff"
+        }
+    }
 }

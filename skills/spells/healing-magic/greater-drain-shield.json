@@ -6,7 +6,9 @@
         "mana": 4061
     },
     "duration": "PT1620M",
-    "skills": {
-        "drain-resistance": 346
+    "effects": {
+        "skills": {
+            "drain-resistance": 346
+        }
     }
 }

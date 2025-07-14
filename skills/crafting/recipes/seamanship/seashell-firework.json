@@ -1,1 +1,22 @@
-{"$type":"/v1/skills/crafting/recipe","id":"seamanship/seashell-firework","item":"firework","image":"fseashell","time":"PT15S","quantity":5,"skill":"seamanship","skillValue":4675,"quality":"common","ingredients":[{"id":"paper","quantity":1,"primary":true},{"id":"gunpowder","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "seamanship/seashell-firework",
+    "item": "firework",
+    "image": "fseashell",
+    "time": "PT15S",
+    "quantity": 5,
+    "skill": "seamanship",
+    "skillValue": 4675,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "gunpowder",
+            "quantity": 1
+        },
+        {
+            "id": "seashell-paper",
+            "quantity": 1,
+            "primary": true
+        }
+    ]
+}

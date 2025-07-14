@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "wavestormer",
     "name": {
         "en": "Wavestormer"
     },
@@ -14,5 +16,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 3,
+        "SPEED": 3,
+        "STRENGTH": 2
+    }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wicked-plate-boots","image":"2317","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "wicked-plate-boots",
+    "image": "2317",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

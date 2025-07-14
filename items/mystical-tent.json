@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"mystical-tent","image":"2422","type":"camping-equipment","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "mystical-tent",
+    "image": "2422",
+    "type": "camping-equipment",
+    "material": "cloth"
+}

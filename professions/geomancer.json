@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "geomancer",
     "name": {
         "en": "Geomancer"
     },
@@ -12,5 +14,12 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 2
+    }
 }

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "ninja",
     "name": {
         "en": "Ninja"
     },
@@ -14,5 +16,10 @@
         "attack-power": 5,
         "parlor-tricks": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 4,
+        "SPEED": 3,
+        "STRENGTH": 3
+    }
 }

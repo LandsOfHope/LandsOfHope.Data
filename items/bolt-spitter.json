@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"bolt-spitter","image":"xw2","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "bolt-spitter",
+    "image": "xw2",
+    "type": "ranged-weapon",
+    "dpr": 7,
+    "material": "wood",
+    "skill": "crossbows"
+}

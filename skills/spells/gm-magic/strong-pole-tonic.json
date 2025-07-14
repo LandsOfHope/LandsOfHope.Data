@@ -6,7 +6,9 @@
         "mana": 3250
     },
     "duration": "PT650M",
-    "skills": {
-        "pole-defense": 650
+    "effects": {
+        "skills": {
+            "pole-defense": 650
+        }
     }
 }

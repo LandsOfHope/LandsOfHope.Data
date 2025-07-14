@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"torque","image":"265","type":"neck","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "torque",
+    "image": "265",
+    "type": "neck",
+    "armorType": "plate",
+    "material": "metal"
+}

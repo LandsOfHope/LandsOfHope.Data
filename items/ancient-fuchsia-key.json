@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ancient-fuchsia-key","image":"6469","type":"portal","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-fuchsia-key",
+    "image": "6469",
+    "type": "portal",
+    "expansion": "dark-depths",
+    "material": "metal"
+}

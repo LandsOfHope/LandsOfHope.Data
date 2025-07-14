@@ -6,7 +6,9 @@
         "mana": 10
     },
     "duration": "PT120M",
-    "properties": {
-        "STRENGTH": 200
+    "effects": {
+        "properties": {
+            "STRENGTH": 200
+        }
     }
 }

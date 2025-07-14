@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "majestic-thief",
     "name": {
         "en": "Majestic Thief"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Thief class."
     },
     "skills": {
         "stealth": 5,
@@ -15,5 +17,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 3,
+        "SPEED": 3,
+        "STRENGTH": 1
+    }
 }

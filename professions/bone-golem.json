@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "bone-golem",
     "name": {
         "en": "Bone Golem"
     },
     "desc": {
-        "en": ""
+        "en": "Bone Golem Pet Class"
     },
     "skills": {
         "swords": 5,
@@ -13,5 +15,7 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 0
+    }
 }

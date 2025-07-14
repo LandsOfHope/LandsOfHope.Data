@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"tenth-cavalry-leggings","image":"5045","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "tenth-cavalry-leggings",
+    "image": "5045",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "set": "tenth-cavalry",
+    "material": "hide"
+}

@@ -1,0 +1,14 @@
+{
+    "$type": "/v1/items/set",
+    "id": "halloween-costume",
+    "image": "na.gif",
+    "color": "green",
+    "items": [
+        "scary-costume-gloves",
+        "scary-costume-trousers",
+        "scary-costume-shirt",
+        "scary-costume-boots",
+        "scary-costume-mask",
+        "scary-costume-belt"
+    ]
+}

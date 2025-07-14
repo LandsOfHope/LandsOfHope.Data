@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-ethereal-gloves","image":"3916","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-ethereal-gloves",
+    "image": "3916",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

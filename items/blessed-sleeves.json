@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"blessed-sleeves","image":"2709","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blessed-sleeves",
+    "image": "2709",
+    "type": "arm-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

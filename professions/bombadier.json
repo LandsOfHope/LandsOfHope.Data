@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "bombadier",
     "name": {
         "en": "Bombadier"
     },
@@ -11,7 +13,15 @@
         "heavy-munitions": 5,
         "hand-guns": 5,
         "armor": 5,
-        "attack-power": 5
+        "attack-power": 10
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 3,
+        "SPEED": 1,
+        "STRENGTH": 1
+    }
 }

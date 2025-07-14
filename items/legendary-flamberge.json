@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"legendary-flamberge","image":"zulefl","type":"2-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "legendary-flamberge",
+    "image": "zulefl",
+    "type": "2-handed-equipment",
+    "dpr": 120,
+    "legendary": true,
+    "material": "metal",
+    "skill": "two-handed-swords"
+}

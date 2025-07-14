@@ -6,7 +6,9 @@
         "mana": 91
     },
     "duration": "PT30M",
-    "skills": {
-        "gun-defense": 200
+    "effects": {
+        "skills": {
+            "gun-defense": 200
+        }
     }
 }

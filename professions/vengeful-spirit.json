@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "vengeful-spirit",
     "name": {
         "en": "Vengeful Spirit"
     },
     "desc": {
-        "en": ""
+        "en": "A vengeful spirit."
     },
     "skills": {
         "frenzy": 5,
@@ -13,5 +15,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 4,
+        "MAXHITPOINTS": 7,
+        "MAXSTAMINA": 10,
+        "SPEED": 4
+    }
 }

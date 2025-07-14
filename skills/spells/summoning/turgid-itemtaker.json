@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3292,
         "mana": 3292
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "goblin",
+            "profession": "thief"
+        }
     }
 }

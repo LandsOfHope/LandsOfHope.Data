@@ -6,7 +6,9 @@
         "mana": 638
     },
     "duration": "PT5000M",
-    "skills": {
-        "track-beasts": 400
+    "effects": {
+        "skills": {
+            "track-beasts": 400
+        }
     }
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"dismembered-arm","image":"arm","type":"2-handed-equipment","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "dismembered-arm",
+    "image": "arm",
+    "type": "2-handed-equipment",
+    "dpr": 5,
+    "material": "hide",
+    "skill": "two-handed-maces"
+}

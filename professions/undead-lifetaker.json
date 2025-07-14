@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "undead-lifetaker",
     "name": {
         "en": "Undead Lifetaker"
     },
@@ -13,5 +15,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 3,
+        "SPEED": 3
+    }
 }

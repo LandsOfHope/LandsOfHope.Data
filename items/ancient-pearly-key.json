@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ancient-pearly-key","image":"6464","type":"portal","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-pearly-key",
+    "image": "6464",
+    "type": "portal",
+    "expansion": "dark-depths",
+    "material": "metal"
+}

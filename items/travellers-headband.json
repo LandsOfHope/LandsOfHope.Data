@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"travellers-headband","image":"4533","type":"forehead","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "travellers-headband",
+    "image": "4533",
+    "type": "forehead",
+    "armorType": "cloth",
+    "material": "cloth"
+}

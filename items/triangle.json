@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"triangle","image":"5981","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "triangle",
+    "image": "5981",
+    "type": "ranged-weapon",
+    "dpr": 4,
+    "material": "metal",
+    "skill": "instruments"
+}

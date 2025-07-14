@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"silverclaw-gloves","image":"4701","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "silverclaw-gloves",
+    "image": "4701",
+    "type": "hand-armour",
+    "armorType": "leather",
+    "legendary": true,
+    "set": "silverclaw-legend",
+    "material": "hide"
+}

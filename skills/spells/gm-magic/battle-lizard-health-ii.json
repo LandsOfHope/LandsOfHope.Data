@@ -6,10 +6,12 @@
         "mana": 435
     },
     "duration": "PT5000M",
-    "skills": {
-        "health-regen": 10
-    },
-    "properties": {
-        "MAXHITPOINTS": 50
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 50
+        },
+        "skills": {
+            "health-regen": 10
+        }
     }
 }

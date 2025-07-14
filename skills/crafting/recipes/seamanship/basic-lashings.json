@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"seamanship/basic-lashings","vesselItem":"basic-lashings","image":"na","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":250,"quality":"common","ingredients":[{"id":"weathered-rope","quantity":10,"primary":true},{"id":"weathered-sailcloth","quantity":5},{"id":"ships-hook","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "seamanship/basic-lashings",
+    "vesselItem": "basic-lashings",
+    "image": "na",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "seamanship",
+    "skillValue": 250,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "ships-hook",
+            "quantity": 0
+        },
+        {
+            "id": "weathered-rope",
+            "quantity": 10,
+            "primary": true
+        },
+        {
+            "id": "weathered-sailcloth",
+            "quantity": 5
+        }
+    ]
+}

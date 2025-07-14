@@ -30,9 +30,6 @@
             "type": "integer",
             "minimum": 1
         },
-        "expansion": {
-            "$ref": "/schemas/v1/expansions-id.gen.json"
-        },
         "location": {
             "$ref": "/schemas/v1/items-locations-id.gen.json"
         },
@@ -68,27 +65,9 @@
             "type": "integer",
             "minimum": 1
         },
-        "enhancements": {
-            "type": "object",
-            "properties": {
-                "name": {
-                    "$ref": "/schemas/v1/items-names-id.gen.json"
-                },
-                "bejewel": {
-                    "type": "string"
-                },
-                "imbue": {
-                    "type": "string"
-                },
-                "spell": {
-                    "type": "string"
-                },
-                "quality": {
-                    "type": "integer",
-                    "minimum": 0
-                }
-            },
-            "additionalProperties": false
+        "quality": {
+            "type": "integer",
+            "minimum": 0
         },
         "actions": {
             "$ref": "/schemas/v1/characters/inventory/actions/inventory-item-actions.json"
@@ -99,9 +78,41 @@
         "nickname": {
             "type": "string",
             "maxLength": 30
+        },
+        "enhancements": {
+            "type": "array",
+            "items": {
+                "enum": [
+                    "imbued",
+                    "bejewelled",
+                    "named",
+                    "patched"
+                ]
+            },
+            "minItems": 1
         }
     },
-    "additionalProperties": false,
+    "anyOf": [
+        {
+            "not": {
+                "required": [
+                    "enhancements"
+                ]
+            }
+        },
+        {
+            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-imbued.json"
+        },
+        {
+            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-bejewelled.json"
+        },
+        {
+            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-named.json"
+        },
+        {
+            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-patched.json"
+        }
+    ],
     "required": [
         "$type",
         "id",

@@ -5,5 +5,11 @@
         "skill": 3231,
         "mana": 323
     },
-    "duration": "PT30M"
+    "duration": "PT30M",
+    "effects": {
+        "summon-pet": {
+            "profession": "creature",
+            "class": "weak-animal"
+        }
+    }
 }

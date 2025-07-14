@@ -6,10 +6,12 @@
         "mana": 10
     },
     "duration": "PT5000M",
-    "skills": {
-        "attack-power": 150
-    },
-    "properties": {
-        "MAXHITPOINTS": 400
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 400
+        },
+        "skills": {
+            "attack-power": 150
+        }
     }
 }

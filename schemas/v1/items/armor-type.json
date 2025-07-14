@@ -1,0 +1,10 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/items/armor-type.json",
+    "title": "ArmorType",
+    "enum": [
+        "cloth",
+        "leather",
+        "mail",
+        "plate"
+    ]
+}

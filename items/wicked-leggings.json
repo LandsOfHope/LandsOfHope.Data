@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wicked-leggings","image":"2526","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "wicked-leggings",
+    "image": "2526",
+    "type": "leg-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

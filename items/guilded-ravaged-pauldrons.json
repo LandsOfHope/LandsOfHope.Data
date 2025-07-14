@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-ravaged-pauldrons","image":"3795","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-ravaged-pauldrons",
+    "image": "3795",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

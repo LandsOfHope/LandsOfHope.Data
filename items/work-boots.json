@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"work-boots","image":"awbot","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "work-boots",
+    "image": "awbot",
+    "type": "foot-armour",
+    "material": "cloth",
+    "skill": "artisan"
+}

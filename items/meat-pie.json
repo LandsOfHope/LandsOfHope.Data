@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"meat-pie","image":"zumepi","type":"food","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "meat-pie",
+    "image": "zumepi",
+    "type": "food",
+    "material": "hide"
+}

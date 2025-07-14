@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dungeoncreeper-gloves","image":"4944","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "dungeoncreeper-gloves",
+    "image": "4944",
+    "type": "hand-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

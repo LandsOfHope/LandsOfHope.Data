@@ -41,52 +41,133 @@
                 }
             ]
         },
-        "skills": {
-            "type": "object",
-            "patternProperties": {
-                ".*": {
-                    "type": "integer"
-                }
-            },
-            "propertyNames": {
-                "$ref": "/schemas/v1/skills-id.gen.json"
-            },
-            "additionalProperties": false
-        },
-        "properties": {
-            "type": "object",
-            "patternProperties": {
-                ".*": {
-                    "type": "integer"
-                }
-            },
-            "propertyNames": {
-                "$ref": "/schemas/v1/characters/character-property-name.json"
-            },
-            "additionalProperties": false
-        },
         "effects": {
             "type": "object",
-            "patternProperties": {
-                ".*": {
+            "properties": {
+                "damage": {
                     "type": "integer"
+                },
+                "heal": {
+                    "type": "integer"
+                },
+                "dead": {
+                    "type": "integer"
+                },
+                "heldcurrency": {
+                    "type": "integer"
+                },
+                "queuebonus": {
+                    "type": "integer"
+                },
+                "raceid2": {
+                    "type": "integer"
+                },
+                "skills": {
+                    "type": "object",
+                    "patternProperties": {
+                        ".*": {
+                            "type": "integer"
+                        }
+                    },
+                    "propertyNames": {
+                        "$ref": "/schemas/v1/skills-id.gen.json"
+                    },
+                    "additionalProperties": false
+                },
+                "properties": {
+                    "type": "object",
+                    "patternProperties": {
+                        ".*": {
+                            "type": "integer"
+                        }
+                    },
+                    "propertyNames": {
+                        "$ref": "/schemas/v1/characters/character-property-name.json"
+                    },
+                    "additionalProperties": false
+                },
+                "posess": {
+                    "type": "object",
+                    "properties": {
+                        "race": {
+                            "$ref": "/schemas/v1/races-id.gen.json"
+                        },
+                        "profession": {
+                            "$ref": "/schemas/v1/professions-id.gen.json"
+                        },
+                        "class": {
+                            "type": "string"
+                        }
+                    },
+                    "additionalProperties": false,
+                    "oneOf": [
+                        {
+                            "required": [
+                                "class"
+                            ]
+                        },
+                        {
+                            "required": [
+                                "race"
+                            ]
+                        },
+                        {
+                            "properties": {
+
+                            },
+                            "additionalProperties": false
+                        }
+                    ]
+                },
+                "summon-item": {
+                    "type": "object",
+                    "properties": {
+                        "item": {
+                            "$ref": "/schemas/v1/items-id.gen.json"
+                        }
+                    },
+                    "additionalProperties": false,
+                    "required": [
+                        "item"
+                    ]
+                },
+                "summon-pet": {
+                    "type": "object",
+                    "properties": {
+                        "race": {
+                            "$ref": "/schemas/v1/races-id.gen.json"
+                        },
+                        "profession": {
+                            "$ref": "/schemas/v1/professions-id.gen.json"
+                        },
+                        "class": {
+                            "type": "string"
+                        }
+                    },
+                    "additionalProperties": false,
+                    "oneOf": [
+                        {
+                            "required": [
+                                "class"
+                            ]
+                        },
+                        {
+                            "required": [
+                                "race"
+                            ]
+                        }
+                    ]
                 }
             },
-            "propertyNames": {
-                "enum": [
-                    "dead",
-                    "heldcurrency",
-                    "queuebonus",
-                    "raceid2"
-                ]
-            },
+            "minProperties": 1,
             "additionalProperties": false
         }
     },
     "required": [
         "$type",
         "id",
-        "requirements"
+        "requirements",
+        "effects"
     ],
     "additionalProperties": false
 }

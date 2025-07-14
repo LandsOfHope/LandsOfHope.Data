@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"tanned-shoulders","image":"3002","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "tanned-shoulders",
+    "image": "3002",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

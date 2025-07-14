@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ancient-umber-key","image":"6463","type":"portal","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-umber-key",
+    "image": "6463",
+    "type": "portal",
+    "expansion": "dark-depths",
+    "material": "metal"
+}

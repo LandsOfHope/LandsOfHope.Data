@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"regal-gloves","image":"3133","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "regal-gloves",
+    "image": "3133",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"scarab-boots","image":"5177","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "scarab-boots",
+    "image": "5177",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

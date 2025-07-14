@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "willpower-demon",
     "name": {
         "en": "Willpower Demon"
     },
@@ -9,5 +11,9 @@
         "armor": 5,
         "stamina-sucking": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 4
+    }
 }

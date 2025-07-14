@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"frostvale-boots","image":"zufrbo","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "frostvale-boots",
+    "image": "zufrbo",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "legendary": true,
+    "set": "frostvale-legend",
+    "material": "hide"
+}

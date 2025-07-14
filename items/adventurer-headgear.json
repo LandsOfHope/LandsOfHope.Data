@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"adventurer-headgear","image":"2930","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "adventurer-headgear",
+    "image": "2930",
+    "type": "head-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

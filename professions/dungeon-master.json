@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "dungeon-master",
     "name": {
         "en": "Dungeon Master"
     },
@@ -19,7 +21,6 @@
         "poison-resistance": 5,
         "earth-resistance": 5,
         "fists": 5,
-        "terror": 5,
         "bladed-defense": 5,
         "projectile-defense": 5,
         "h2h-defense": 5,
@@ -31,5 +32,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 1,
+        "STRENGTH": 4
+    }
 }

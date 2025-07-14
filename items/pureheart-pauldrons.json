@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"pureheart-pauldrons","image":"4742","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "pureheart-pauldrons",
+    "image": "4742",
+    "type": "shoulders",
+    "armorType": "plate",
+    "legendary": true,
+    "set": "pureheart-legend",
+    "material": "metal"
+}

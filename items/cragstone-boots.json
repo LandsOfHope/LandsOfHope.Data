@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"cragstone-boots","image":"4727","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cragstone-boots",
+    "image": "4727",
+    "type": "foot-armour",
+    "armorType": "mail",
+    "legendary": true,
+    "set": "cragstone-legend",
+    "material": "metal"
+}

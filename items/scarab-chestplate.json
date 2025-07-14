@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"scarab-chestplate","image":"5175","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "scarab-chestplate",
+    "image": "5175",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

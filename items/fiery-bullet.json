@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"fiery-bullet","image":"zufibu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "fiery-bullet",
+    "image": "zufibu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 87,
+    "material": "metal"
+}

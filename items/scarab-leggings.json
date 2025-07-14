@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"scarab-leggings","image":"5176","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "scarab-leggings",
+    "image": "5176",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "undead-rogue",
     "name": {
         "en": "Undead Rogue"
     },
@@ -17,5 +19,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 2,
+        "STRENGTH": 2
+    }
 }

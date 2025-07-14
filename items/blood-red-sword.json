@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blood-red-sword","image":"zublresw","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blood-red-sword",
+    "image": "zublresw",
+    "type": "1-handed-equipment",
+    "dpr": 4,
+    "material": "metal",
+    "skill": "swords"
+}

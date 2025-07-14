@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"short-ornate-sword","image":"sw1","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "short-ornate-sword",
+    "image": "sw1",
+    "type": "1-handed-equipment",
+    "dpr": 32,
+    "material": "metal",
+    "skill": "swords"
+}

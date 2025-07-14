@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"recruits-chain-gloves","image":"2617","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "recruits-chain-gloves",
+    "image": "2617",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

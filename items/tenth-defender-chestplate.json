@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"tenth-defender-chestplate","image":"5054","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "tenth-defender-chestplate",
+    "image": "5054",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "set": "tenth-defender",
+    "material": "metal"
+}

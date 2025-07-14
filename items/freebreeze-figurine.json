@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"freebreeze-figurine","image":"relic7","type":"special-slot","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "freebreeze-figurine",
+    "image": "relic7",
+    "type": "special-slot",
+    "material": "metal",
+    "skill": "archaeology"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"bloody-staff-of-souls","image":"bss","type":"2-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bloody-staff-of-souls",
+    "image": "bss",
+    "type": "2-handed-equipment",
+    "dpr": 6,
+    "material": "metal",
+    "skill": "two-handed-staves"
+}

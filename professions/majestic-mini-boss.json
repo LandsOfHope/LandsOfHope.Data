@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "majestic-mini-boss",
     "name": {
         "en": "Majestic Mini Boss"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Mini boss class."
     },
     "skills": {
         "mana-draining": 5,
@@ -22,5 +24,13 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 4,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 5,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 4,
+        "SPEED": 1,
+        "STRENGTH": 4
+    }
 }

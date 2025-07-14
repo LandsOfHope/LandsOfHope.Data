@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"embossed-shoulder-guards","image":"3028","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "embossed-shoulder-guards",
+    "image": "3028",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

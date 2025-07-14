@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "ancient-guardian",
     "name": {
         "en": "Ancient Guardian"
     },
@@ -14,5 +16,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 6,
+        "MAXHITPOINTS": 6,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 1,
+        "SPEED": 3
+    }
 }

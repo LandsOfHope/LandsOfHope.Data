@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "healer",
     "name": {
         "en": "Healer"
     },
@@ -12,9 +14,15 @@
         "armor": 5,
         "attack-power": 5
     },
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 1
+    },
     "evo": {
-        "cleric": 50,
         "friar": 50,
+        "cleric": 50,
         "protector": 50
     }
 }

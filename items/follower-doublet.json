@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"follower-doublet","image":"3077","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "follower-doublet",
+    "image": "3077",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

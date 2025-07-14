@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"stone","image":"ste","type":"catapult-ammo","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "stone",
+    "image": "ste",
+    "type": "catapult-ammo",
+    "material": "stone"
+}

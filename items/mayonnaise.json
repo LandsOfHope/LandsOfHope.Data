@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"mayonnaise","image":"zumaae","type":"food","material":"vegetable"}
+{
+    "$type": "/v1/item",
+    "id": "mayonnaise",
+    "image": "zumaae",
+    "type": "food",
+    "material": "vegetable"
+}

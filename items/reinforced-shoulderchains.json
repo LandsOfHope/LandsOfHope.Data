@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"reinforced-shoulderchains","image":"2745","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "reinforced-shoulderchains",
+    "image": "2745",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

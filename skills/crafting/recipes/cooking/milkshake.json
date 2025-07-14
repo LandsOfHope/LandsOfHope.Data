@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"cooking/milkshake","item":"milkshake","image":"mis","time":"PT15S","quantity":1,"skill":"cooking","skillValue":925,"quality":"common","ingredients":[{"id":"fruit","quantity":5,"primary":true},{"id":"sugar","quantity":2},{"id":"bowl","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "cooking/milkshake",
+    "item": "milkshake",
+    "image": "mis",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "cooking",
+    "skillValue": 925,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "bowl",
+            "quantity": 0
+        },
+        {
+            "id": "sugar",
+            "quantity": 2
+        },
+        {
+            "id": "fruit",
+            "quantity": 5,
+            "primary": true
+        }
+    ]
+}

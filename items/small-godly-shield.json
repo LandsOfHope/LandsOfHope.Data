@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"small-godly-shield","image":"sd7","type":"1-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "small-godly-shield",
+    "image": "sd7",
+    "type": "1-handed-equipment",
+    "dpr": 94,
+    "material": "wood",
+    "skill": "shields"
+}

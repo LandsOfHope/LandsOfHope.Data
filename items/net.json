@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"net","image":"fin","type":"1-handed-equipment","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "net",
+    "image": "fin",
+    "type": "1-handed-equipment",
+    "dpr": 90,
+    "material": "cloth",
+    "skill": "exotic-weapons"
+}

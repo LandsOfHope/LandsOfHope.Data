@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/joined-leggings","item":"joined-leggings","image":"cls","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":3900,"quality":"common","ingredients":[{"id":"rivet","quantity":5},{"id":"ingot","quantity":15,"primary":true},{"id":"lining","quantity":5}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "blacksmithing/joined-leggings",
+    "item": "joined-leggings",
+    "image": "cls",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "blacksmithing",
+    "skillValue": 3900,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 15,
+            "primary": true
+        },
+        {
+            "id": "rivet",
+            "quantity": 5
+        },
+        {
+            "id": "lining",
+            "quantity": 5
+        }
+    ]
+}

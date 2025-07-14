@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"artisan/cow-costume-hat","item":"cow-costume-hat","image":"arhat","time":"PT15S","quantity":1,"skill":"artisan","skillValue":520,"quality":"uncommon","ingredients":[{"id":"prepared-hide","quantity":5,"primary":true},{"id":"thread","quantity":5},{"id":"artisan-tool","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "artisan/cow-costume-hat",
+    "item": "cow-costume-hat",
+    "image": "arhat",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "artisan",
+    "skillValue": 520,
+    "quality": "uncommon",
+    "ingredients": [
+        {
+            "id": "thread",
+            "quantity": 5
+        },
+        {
+            "id": "prepared-hide",
+            "quantity": 5,
+            "primary": true
+        },
+        {
+            "id": "artisan-tool",
+            "quantity": 0
+        }
+    ]
+}

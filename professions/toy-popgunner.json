@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "toy-popgunner",
     "name": {
         "en": "Toy Popgunner"
     },
     "desc": {
-        "en": ""
+        "en": "Wintersvale Product 2008."
     },
     "skills": {
         "frenzy": 5,
@@ -11,5 +13,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 11,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 3
+    }
 }

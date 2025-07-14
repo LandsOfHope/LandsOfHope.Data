@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"sticky-pet-treats","image":"5736","type":"pet-bought-bonus","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "sticky-pet-treats",
+    "image": "5736",
+    "type": "pet-bought-bonus",
+    "material": "hide"
+}

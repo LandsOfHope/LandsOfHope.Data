@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"reinforced-dragon-shell-shield","image":"sd4","type":"1-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "reinforced-dragon-shell-shield",
+    "image": "sd4",
+    "type": "1-handed-equipment",
+    "dpr": 4,
+    "material": "gem",
+    "skill": "shields"
+}

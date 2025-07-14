@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "ancient-insect",
     "name": {
         "en": "Ancient Insect"
     },
     "desc": {
-        "en": ""
+        "en": "An ancient guardian"
     },
     "skills": {
         "divine-fury": 5,
@@ -13,6 +15,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {
+    "properties": {
+        "INTELLIGENCE": 5,
+        "MAXHITPOINTS": 5,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 1,
+        "SPEED": 3
     }
 }

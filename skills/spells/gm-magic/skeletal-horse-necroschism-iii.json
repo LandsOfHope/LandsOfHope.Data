@@ -6,10 +6,12 @@
         "mana": 638
     },
     "duration": "PT5000M",
-    "skills": {
-        "necromancy": 2000
-    },
-    "properties": {
-        "INTELLIGENCE": 400
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 400
+        },
+        "skills": {
+            "necromancy": 2000
+        }
     }
 }

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"plank","image":"plk","type":"resource-woodworking","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "plank",
+    "image": "plk",
+    "type": "resource-woodworking",
+    "material": "wood"
+}

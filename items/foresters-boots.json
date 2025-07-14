@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"foresters-boots","image":"2843","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "foresters-boots",
+    "image": "2843",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

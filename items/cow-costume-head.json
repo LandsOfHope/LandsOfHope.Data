@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"cow-costume-head","image":"arhed","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "cow-costume-head",
+    "image": "arhed",
+    "type": "head-armour",
+    "set": "cow-costume",
+    "material": "hide",
+    "skill": "artisan"
+}

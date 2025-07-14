@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cadet-plate-boots","image":"2310","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cadet-plate-boots",
+    "image": "2310",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

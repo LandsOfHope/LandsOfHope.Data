@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"germinating-bullet","image":"4155","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "germinating-bullet",
+    "image": "4155",
+    "type": "ammo-weapons-bullets",
+    "dpr": 38,
+    "material": "metal"
+}

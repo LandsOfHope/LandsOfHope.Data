@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"recruits-plate-boots","image":"gmreplbo","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "recruits-plate-boots",
+    "image": "gmreplbo",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

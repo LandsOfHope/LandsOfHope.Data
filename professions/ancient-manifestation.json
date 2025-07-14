@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "ancient-manifestation",
     "name": {
         "en": "Ancient Manifestation"
     },
@@ -15,5 +17,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 5,
+        "MAXSTAMINA": 5,
+        "STRENGTH": 4
+    }
 }

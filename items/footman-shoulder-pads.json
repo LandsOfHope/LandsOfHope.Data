@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"footman-shoulder-pads","image":"2751","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "footman-shoulder-pads",
+    "image": "2751",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

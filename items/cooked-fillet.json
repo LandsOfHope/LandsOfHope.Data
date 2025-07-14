@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"cooked-fillet","image":"c1f","type":"food","material":"fish"}
+{
+    "$type": "/v1/item",
+    "id": "cooked-fillet",
+    "image": "c1f",
+    "type": "food",
+    "material": "fish"
+}

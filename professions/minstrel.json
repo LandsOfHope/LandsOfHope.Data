@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "minstrel",
     "name": {
         "en": "Minstrel"
     },
@@ -6,11 +8,18 @@
         "en": "Minstrels are those happy singing souls that can be found sitting at a crossroads playing a lute or harp and singing peacefully to themselves or the animals. Minstrels can and often do strike fear into the hearts of many with there magics."
     },
     "skills": {
+        "daggers": 5,
         "swords": 5,
         "shields": 5,
         "instruments": 5,
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 5,
+        "SPEED": 1,
+        "STRENGTH": 2
+    }
 }

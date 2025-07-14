@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"pleated-shoulder-pads","image":"3256","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "pleated-shoulder-pads",
+    "image": "3256",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

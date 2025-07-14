@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"autumnal-leggings","image":"jwadp","type":"leg-armour","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "autumnal-leggings",
+    "image": "jwadp",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "expansion": "jurassic-wars",
+    "material": "wood"
+}

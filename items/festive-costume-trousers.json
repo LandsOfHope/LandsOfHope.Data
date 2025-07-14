@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"festive-costume-trousers","image":"strou","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "festive-costume-trousers",
+    "image": "strou",
+    "type": "leg-armour",
+    "set": "festive-costume",
+    "material": "hide"
+}

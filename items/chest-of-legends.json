@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"chest-of-legends","image":"sc1","type":"legend-token-chest","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "chest-of-legends",
+    "image": "sc1",
+    "type": "legend-token-chest",
+    "material": "wood"
+}

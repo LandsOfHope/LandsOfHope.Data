@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "spy",
     "name": {
         "en": "Spy"
     },
@@ -13,6 +15,12 @@
         "track-items": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 2
     },
     "evo": {
         "denshi": 350

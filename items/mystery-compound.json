@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"mystery-compound","image":"6410","type":"trophy"}
+{
+    "$type": "/v1/item",
+    "id": "mystery-compound",
+    "image": "6410",
+    "type": "trophy",
+    "expansion": "dragons-of-the-east",
+    "skill": "parlor-tricks"
+}

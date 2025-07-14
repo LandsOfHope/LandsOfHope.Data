@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ankylosaur-spike","image":"5089","type":"trophy","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "ankylosaur-spike",
+    "image": "5089",
+    "type": "trophy",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

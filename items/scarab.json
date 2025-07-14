@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"scarab","image":"scb","type":"stealing-loot","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "scarab",
+    "image": "scb",
+    "type": "stealing-loot",
+    "material": "metal"
+}

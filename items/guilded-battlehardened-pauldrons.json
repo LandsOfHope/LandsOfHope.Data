@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-battlehardened-pauldrons","image":"3798","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-battlehardened-pauldrons",
+    "image": "3798",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

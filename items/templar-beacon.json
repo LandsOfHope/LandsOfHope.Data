@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"templar-beacon","image":"6264","type":"light-beacon"}
+{
+    "$type": "/v1/item",
+    "id": "templar-beacon",
+    "image": "6264",
+    "type": "light-beacon",
+    "expansion": "the-afterlife"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"sabretooth-leggings","image":"tro","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "sabretooth-leggings",
+    "image": "tro",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

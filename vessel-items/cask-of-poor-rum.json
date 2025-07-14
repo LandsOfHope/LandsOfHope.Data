@@ -1,1 +1,6 @@
-{"$type":"/v1/vessel-item","id":"cask-of-poor-rum","image":"cask4","type":"cargo"}
+{
+    "$type": "/v1/vessel-item",
+    "id": "cask-of-poor-rum",
+    "image": "cask4",
+    "type": "cargo"
+}

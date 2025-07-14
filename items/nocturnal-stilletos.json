@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"nocturnal-stilletos","image":"6753","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "nocturnal-stilletos",
+    "image": "6753",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

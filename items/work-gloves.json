@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"work-gloves","image":"awglv","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "work-gloves",
+    "image": "awglv",
+    "type": "hand-armour",
+    "material": "cloth",
+    "skill": "artisan"
+}

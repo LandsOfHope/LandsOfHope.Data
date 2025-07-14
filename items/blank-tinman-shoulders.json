@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"blank-tinman-shoulders","image":"6938","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blank-tinman-shoulders",
+    "image": "6938",
+    "type": "shoulders",
+    "legendary": true,
+    "set": "tinman-set",
+    "material": "metal",
+    "skill": "bolts-over-brains"
+}

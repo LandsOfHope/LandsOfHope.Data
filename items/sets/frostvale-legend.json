@@ -1,0 +1,29 @@
+{
+    "$type": "/v1/items/set",
+    "id": "frostvale-legend",
+    "image": "na.gif",
+    "color": "yellow",
+    "spells": {
+        "0": {
+            "0": "summon-wisp"
+        },
+        "1": {
+            "0": "summon-giant-beetle"
+        },
+        "2": {
+            "0": "summon-golem"
+        },
+        "3": {
+            "0": "summon-hydra"
+        }
+    },
+    "items": [
+        "frostvale-gloves",
+        "frostvale-cap",
+        "frostvale-sleeves",
+        "frostvale-shoulders",
+        "frostvale-vest",
+        "frostvale-leggings",
+        "frostvale-boots"
+    ]
+}

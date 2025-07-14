@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cloak-of-the-greenwood","image":"clg","type":"neck-clothing","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "cloak-of-the-greenwood",
+    "image": "clg",
+    "type": "neck-clothing",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"family-heirloom","image":"5367","type":"quest-item","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "family-heirloom",
+    "image": "5367",
+    "type": "quest-item",
+    "expansion": "uncharted-waters",
+    "material": "color"
+}

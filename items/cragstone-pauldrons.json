@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"cragstone-pauldrons","image":"4724","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cragstone-pauldrons",
+    "image": "4724",
+    "type": "shoulders",
+    "armorType": "mail",
+    "legendary": true,
+    "set": "cragstone-legend",
+    "material": "metal"
+}

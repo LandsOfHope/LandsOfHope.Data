@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "monk",
     "name": {
         "en": "Monk"
     },
@@ -14,6 +16,14 @@
         "preservation-magic": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 2
     },
     "evo": {
         "abbot": 650

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"elegant-bracelet","image":"gmelbr","type":"wrist-jewelry","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "elegant-bracelet",
+    "image": "gmelbr",
+    "type": "wrist-jewelry",
+    "armorType": "cloth",
+    "material": "metal"
+}

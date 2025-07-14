@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 1452,
         "mana": 1452
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "sea-horse",
+            "profession": "creature"
+        }
     }
 }

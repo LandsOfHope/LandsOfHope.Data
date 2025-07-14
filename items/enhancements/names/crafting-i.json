@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "crafting-i",
+    "effects": {
+        "skills": {
+            "carpentry": 0.4,
+            "blacksmithing": 0.4,
+            "farming": 0.4,
+            "foraging": 0.4
+        }
+    }
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cadet-chestchain","image":"2508","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cadet-chestchain",
+    "image": "2508",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

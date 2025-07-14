@@ -7,7 +7,9 @@
         "mana": 3740
     },
     "duration": "PT999M",
-    "properties": {
-        "MAXMANA": 374
+    "effects": {
+        "properties": {
+            "MAXMANA": 374
+        }
     }
 }

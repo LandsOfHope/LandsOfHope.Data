@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "hunt-master",
     "name": {
         "en": "Hunt Master"
     },
@@ -9,5 +11,13 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 4,
+        "MAXSTAMINA": 1,
+        "SPEED": 1,
+        "STRENGTH": 1
+    }
 }

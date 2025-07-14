@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"coral-helmet","image":"1566","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "coral-helmet",
+    "image": "1566",
+    "type": "head-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"earthen-potion","image":"pd1","type":"ammo-weapons-potions","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "earthen-potion",
+    "image": "pd1",
+    "type": "ammo-weapons-potions",
+    "dpr": 4,
+    "material": "gem"
+}

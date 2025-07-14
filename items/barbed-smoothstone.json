@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"barbed-smoothstone","image":"sms","type":"ammo-weapons-rocks","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "barbed-smoothstone",
+    "image": "sms",
+    "type": "ammo-weapons-rocks",
+    "dpr": 12,
+    "material": "stone"
+}

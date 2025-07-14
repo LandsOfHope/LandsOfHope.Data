@@ -1,0 +1,30 @@
+{
+    "$type": "/v1/items/set",
+    "id": "inventor-severed-set",
+    "image": "na.gif",
+    "color": "gold",
+    "spells": {
+        "0": {
+            "10": "severance-package-i",
+            "200": "severance-package-ii",
+            "300": "severance-package-iii",
+            "400": "severance-package-iv",
+            "500": "severance-package-v",
+            "600": "severance-package-vi",
+            "700": "severance-package-vii",
+            "800": "severance-package-viii",
+            "900": "severance-package-ix",
+            "1000": "severance-package-x"
+        }
+    },
+    "items": [
+        "blank-severed-shoulders",
+        "blank-severed-arms",
+        "blank-severed-cuffs",
+        "blank-severed-face",
+        "blank-severed-hands",
+        "blank-severed-feet",
+        "blank-severed-chestpiece",
+        "blank-severed-legs"
+    ]
+}

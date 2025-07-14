@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "ancient-cook",
     "name": {
         "en": "Ancient Cook"
     },
     "desc": {
-        "en": ""
+        "en": "4th Anniversary"
     },
     "skills": {
         "cooking": 5,
@@ -12,7 +14,13 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {
-        
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 2
     }
 }

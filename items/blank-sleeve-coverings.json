@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-sleeve-coverings","image":"6809","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blank-sleeve-coverings",
+    "image": "6809",
+    "type": "arm-armour",
+    "set": "inventor-basic-set",
+    "material": "metal",
+    "skill": "augmenting"
+}

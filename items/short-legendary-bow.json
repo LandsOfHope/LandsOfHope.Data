@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"short-legendary-bow","image":"bw","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "short-legendary-bow",
+    "image": "bw",
+    "type": "ranged-weapon",
+    "dpr": 120,
+    "legendary": true,
+    "material": "wood",
+    "skill": "bows"
+}

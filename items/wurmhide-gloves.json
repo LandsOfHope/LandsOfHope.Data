@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"wurmhide-gloves","image":"5823","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "wurmhide-gloves",
+    "image": "5823",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "expansion": "dragons-of-the-east",
+    "material": "hide"
+}

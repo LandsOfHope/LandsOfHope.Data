@@ -6,10 +6,12 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "health-regen": 20
-    },
-    "properties": {
-        "MAXSTAMINA": 30
+    "effects": {
+        "properties": {
+            "MAXSTAMINA": 30
+        },
+        "skills": {
+            "health-regen": 20
+        }
     }
 }

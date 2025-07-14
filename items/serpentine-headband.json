@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"serpentine-headband","image":"2093","type":"forehead","material":"snake"}
+{
+    "$type": "/v1/item",
+    "id": "serpentine-headband",
+    "image": "2093",
+    "type": "forehead",
+    "armorType": "cloth",
+    "material": "snake"
+}

@@ -1,1 +1,22 @@
-{"$type":"/v1/skills/crafting/recipe","id":"tinkering/poisoned-bolt","item":"poisoned-bolt","image":"zupobo","time":"PT15S","quantity":20,"skill":"tinkering","skillValue":305,"quality":"common","ingredients":[{"id":"bolt-tip","quantity":5},{"id":"ingot","quantity":5,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "tinkering/poisoned-bolt",
+    "item": "poisoned-bolt",
+    "image": "zupobo",
+    "time": "PT15S",
+    "quantity": 20,
+    "skill": "tinkering",
+    "skillValue": 305,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 5,
+            "primary": true
+        },
+        {
+            "id": "bolt-tip",
+            "quantity": 5
+        }
+    ]
+}

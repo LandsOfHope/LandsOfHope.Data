@@ -6,7 +6,9 @@
         "mana": 2000
     },
     "duration": "PT400M",
-    "skills": {
-        "h2h-defense": 400
+    "effects": {
+        "skills": {
+            "h2h-defense": 400
+        }
     }
 }

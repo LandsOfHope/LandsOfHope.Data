@@ -5,5 +5,11 @@
         "skill": 95,
         "mana": 95
     },
-    "duration": "PT30M"
+    "duration": "PT30M",
+    "effects": {
+        "summon-pet": {
+            "race": "snake",
+            "profession": "creature"
+        }
+    }
 }

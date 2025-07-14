@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"blank-frankenstein-hands","image":"6950","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "blank-frankenstein-hands",
+    "image": "6950",
+    "type": "hand-armour",
+    "legendary": true,
+    "set": "frankenstein",
+    "material": "hide",
+    "skill": "blood-over-beauty"
+}

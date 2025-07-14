@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ethereal-feetwarmers","image":"3111","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "ethereal-feetwarmers",
+    "image": "3111",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

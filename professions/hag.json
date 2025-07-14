@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "hag",
     "name": {
         "en": "Hag"
     },
@@ -11,6 +13,12 @@
         "armor": 5,
         "attack-power": 5,
         "enchanted-weapons": 5
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 1
     },
     "evo": {
         "enchantress": 50

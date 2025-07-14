@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "legendary-bloodmage",
     "name": {
         "en": "Legendary Bloodmage"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Bloodmage class."
     },
     "skills": {
         "air-resistance": 5,
@@ -18,5 +20,10 @@
         "attack-power": 5,
         "dark-magic": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 5,
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 4
+    }
 }

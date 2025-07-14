@@ -6,7 +6,9 @@
         "mana": 1
     },
     "duration": "PT5000M",
-    "skills": {
-        "lordship": 50
+    "effects": {
+        "skills": {
+            "lordship": 50
+        }
     }
 }

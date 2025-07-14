@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"royal-sleeves","image":"3224","type":"arm-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "royal-sleeves",
+    "image": "3224",
+    "type": "arm-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

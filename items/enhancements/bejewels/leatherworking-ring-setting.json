@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "leatherworking-ring-setting",
+    "item": "ring-enhancement",
+    "skillValue": 3250,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "leatherworking": 0.9
+        }
+    }
+}

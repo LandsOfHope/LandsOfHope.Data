@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"drow-blessing","image":"6272","type":"forehead","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "drow-blessing",
+    "image": "6272",
+    "type": "forehead",
+    "armorType": "cloth",
+    "material": "stone"
+}

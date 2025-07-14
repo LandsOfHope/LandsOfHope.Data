@@ -4,5 +4,10 @@
     "requirements": {
         "skill": 2970,
         "mana": 2970
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "morphet"
+        }
     }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-wicked-gauntlets","image":"3690","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-wicked-gauntlets",
+    "image": "3690",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

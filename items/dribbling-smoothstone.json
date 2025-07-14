@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dribbling-smoothstone","image":"sms","type":"ammo-weapons-rocks","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "dribbling-smoothstone",
+    "image": "sms",
+    "type": "ammo-weapons-rocks",
+    "dpr": 24,
+    "material": "stone"
+}

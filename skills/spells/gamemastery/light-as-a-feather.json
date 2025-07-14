@@ -6,7 +6,9 @@
         "mana": 10
     },
     "duration": "PT1440M",
-    "skills": {
-        "air-survival": 100
+    "effects": {
+        "skills": {
+            "air-survival": 100
+        }
     }
 }

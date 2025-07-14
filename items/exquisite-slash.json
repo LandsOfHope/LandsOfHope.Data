@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"exquisite-slash","image":"6628","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "exquisite-slash",
+    "image": "6628",
+    "type": "1-handed-equipment",
+    "dpr": 140,
+    "material": "metal",
+    "skill": "daggers"
+}

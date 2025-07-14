@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"ancient-legs","image":"6473","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-legs",
+    "image": "6473",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "expansion": "dark-depths",
+    "material": "hide"
+}

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "miner",
     "name": {
         "en": "Miner"
     },
@@ -10,5 +12,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 3
+    }
 }

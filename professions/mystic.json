@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "mystic",
     "name": {
         "en": "Mystic"
     },
@@ -12,5 +14,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 2
+    }
 }

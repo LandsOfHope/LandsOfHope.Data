@@ -6,7 +6,9 @@
         "mana": 435
     },
     "duration": "PT560M",
-    "skills": {
-        "energy-resistance": 232
+    "effects": {
+        "skills": {
+            "energy-resistance": 232
+        }
     }
 }

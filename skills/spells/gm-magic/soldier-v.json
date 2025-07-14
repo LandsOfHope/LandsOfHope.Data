@@ -6,10 +6,12 @@
         "mana": 835
     },
     "duration": "PT14000M",
-    "skills": {
-        "propelled": 418
-    },
-    "properties": {
-        "STRENGTH": 418
+    "effects": {
+        "properties": {
+            "STRENGTH": 418
+        },
+        "skills": {
+            "propelled": 418
+        }
     }
 }

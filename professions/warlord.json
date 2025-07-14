@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "warlord",
     "name": {
         "en": "Warlord"
     },
@@ -15,5 +17,12 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 5
+    }
 }

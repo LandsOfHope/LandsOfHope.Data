@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"crushing-bullet","image":"zucrbu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "crushing-bullet",
+    "image": "zucrbu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 66,
+    "material": "metal"
+}

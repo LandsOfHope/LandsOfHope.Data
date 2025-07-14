@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"ladybird-shoulders","image":"5172","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "ladybird-shoulders",
+    "image": "5172",
+    "type": "shoulders",
+    "armorType": "plate",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

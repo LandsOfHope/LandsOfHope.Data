@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"small-cross","image":"cso","type":"1-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "small-cross",
+    "image": "cso",
+    "type": "1-handed-equipment",
+    "dpr": 12,
+    "material": "wood",
+    "skill": "maces"
+}

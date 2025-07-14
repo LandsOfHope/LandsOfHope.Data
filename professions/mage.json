@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "mage",
     "name": {
         "en": "Mage"
     },
@@ -12,6 +14,12 @@
         "fists": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 1
     },
     "evo": {
         "elementalist": 350

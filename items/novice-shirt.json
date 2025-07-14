@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"novice-shirt","image":"ansit","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "novice-shirt",
+    "image": "ansit",
+    "type": "chest-armour",
+    "material": "hide",
+    "skill": "artisan"
+}

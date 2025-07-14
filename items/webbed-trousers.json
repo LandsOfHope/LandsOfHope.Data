@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"webbed-trousers","image":"2088","type":"leg-armour","material":"spider"}
+{
+    "$type": "/v1/item",
+    "id": "webbed-trousers",
+    "image": "2088",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "spider"
+}

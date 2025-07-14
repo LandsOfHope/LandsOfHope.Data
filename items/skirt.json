@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"skirt","image":"skt","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "skirt",
+    "image": "skt",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

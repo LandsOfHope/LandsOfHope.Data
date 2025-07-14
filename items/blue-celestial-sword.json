@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blue-celestial-sword","image":"6005","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blue-celestial-sword",
+    "image": "6005",
+    "type": "1-handed-equipment",
+    "dpr": 12,
+    "material": "metal",
+    "skill": "celestial-weapons"
+}

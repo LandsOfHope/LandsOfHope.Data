@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"box-of-gold-ingots","image":"gmbogoin","type":"quest-item","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "box-of-gold-ingots",
+    "image": "gmbogoin",
+    "type": "quest-item",
+    "expansion": "uncharted-waters",
+    "material": "wood"
+}

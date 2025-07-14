@@ -4,5 +4,10 @@
     "requirements": {
         "skill": 3660,
         "mana": 3660
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "elder-elemental"
+        }
     }
 }

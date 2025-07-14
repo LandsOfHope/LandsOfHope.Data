@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"artisan/festive-costume-box","item":"festive-costume-box","image":"619","time":"PT15S","quantity":1,"skill":"artisan","skillValue":800,"quality":"uncommon","ingredients":[{"id":"festive-costume-gloves","quantity":1,"primary":true},{"id":"festive-costume-trousers","quantity":1},{"id":"festive-costume-shirt","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "artisan/festive-costume-box",
+    "item": "festive-costume-box",
+    "image": "619",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "artisan",
+    "skillValue": 800,
+    "quality": "uncommon",
+    "ingredients": [
+        {
+            "id": "festive-costume-gloves",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "festive-costume-trousers",
+            "quantity": 1
+        },
+        {
+            "id": "festive-costume-shirt",
+            "quantity": 1
+        }
+    ]
+}

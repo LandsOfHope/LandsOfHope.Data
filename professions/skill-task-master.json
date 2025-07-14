@@ -1,13 +1,20 @@
 {
+    "$type": "/v1/profession",
+    "id": "skill-task-master",
     "name": {
         "en": "Skill Task Master"
     },
     "desc": {
-        "en": ""
+        "en": "Skill Task Master"
     },
     "skills": {
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 2
+    }
 }

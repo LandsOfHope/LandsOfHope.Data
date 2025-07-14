@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"holy-helmet","image":"gmhohe","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "holy-helmet",
+    "image": "gmhohe",
+    "type": "head-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

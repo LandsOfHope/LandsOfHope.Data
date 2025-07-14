@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"bloodied-shield","image":"sd3","type":"2-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "bloodied-shield",
+    "image": "sd3",
+    "type": "2-handed-equipment",
+    "dpr": 7,
+    "material": "gem",
+    "skill": "two-handed-shields"
+}

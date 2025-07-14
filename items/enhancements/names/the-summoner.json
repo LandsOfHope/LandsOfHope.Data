@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-summoner",
+    "effects": {
+        "skills": {
+            "summoning": 0.4,
+            "two-handed-staves": 0.4
+        },
+        "properties": {
+            "INTELLIGENCE": 0.4
+        }
+    }
+}

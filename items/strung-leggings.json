@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"strung-leggings","image":"2795","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "strung-leggings",
+    "image": "2795",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

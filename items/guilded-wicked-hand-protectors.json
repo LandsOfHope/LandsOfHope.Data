@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-wicked-hand-protectors","image":"3767","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-wicked-hand-protectors",
+    "image": "3767",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"spiked-sleeves","image":"1846","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "spiked-sleeves",
+    "image": "1846",
+    "type": "arm-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

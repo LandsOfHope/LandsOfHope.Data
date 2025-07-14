@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dungeonseeker-pants","image":"4949","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "dungeonseeker-pants",
+    "image": "4949",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "hide"
+}

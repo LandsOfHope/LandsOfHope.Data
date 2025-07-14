@@ -6,7 +6,9 @@
         "mana": 505
     },
     "duration": "PT5000M",
-    "skills": {
-        "frenzy": 253
+    "effects": {
+        "skills": {
+            "frenzy": 253
+        }
     }
 }

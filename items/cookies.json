@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"cookies","image":"c2k","type":"food","material":"crop"}
+{
+    "$type": "/v1/item",
+    "id": "cookies",
+    "image": "c2k",
+    "type": "food",
+    "material": "crop"
+}

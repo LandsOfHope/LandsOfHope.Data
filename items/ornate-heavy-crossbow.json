@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"ornate-heavy-crossbow","image":"xw2","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "ornate-heavy-crossbow",
+    "image": "xw2",
+    "type": "ranged-weapon",
+    "dpr": 32,
+    "material": "wood",
+    "skill": "crossbows"
+}

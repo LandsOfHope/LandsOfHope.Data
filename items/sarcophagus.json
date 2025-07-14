@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"sarcophagus","image":"6247","type":"special-chest","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "sarcophagus",
+    "image": "6247",
+    "type": "special-chest",
+    "expansion": "the-afterlife",
+    "material": "wood"
+}

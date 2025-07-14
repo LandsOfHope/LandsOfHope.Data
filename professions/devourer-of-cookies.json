@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "devourer-of-cookies",
     "name": {
         "en": "Devourer of Cookies"
     },
@@ -7,12 +9,12 @@
     },
     "skills": {
         "mystical-resistance": 5,
-        "frenzy": 5,
-        "stamina-regen": 5,
+        "frenzy": 3,
+        "stamina-regen": 1,
         "air-resistance": 5,
         "drain-resistance": 5,
         "gun-defense": 5,
-        "mana-regen": 5,
+        "mana-regen": 1,
         "cold-resistance": 5,
         "fire-resistance": 5,
         "acid-resistance": 5,
@@ -30,8 +32,15 @@
         "invoking-resistance": 5,
         "cooking-magic": 5,
         "debuff-resistance": 5,
-        "armor": 5,
+        "armor": 4,
         "arcane-resistance": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 4,
+        "INTELLIGENCE": 5,
+        "MAXHITPOINTS": 14,
+        "MAXMANA": 5,
+        "MAXSTAMINA": 9,
+        "STRENGTH": 6
+    }
 }

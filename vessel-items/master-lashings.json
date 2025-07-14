@@ -1,1 +1,6 @@
-{"$type":"/v1/vessel-item","id":"master-lashings","image":"lashings5","type":"vessel-hull"}
+{
+    "$type": "/v1/vessel-item",
+    "id": "master-lashings",
+    "image": "lashings5",
+    "type": "vessel-hull"
+}

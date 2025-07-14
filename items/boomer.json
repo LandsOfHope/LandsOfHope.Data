@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"boomer","image":"bom","type":"siege-weapon-part","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "boomer",
+    "image": "bom",
+    "type": "siege-weapon-part",
+    "material": "metal",
+    "skill": "siege-weapons"
+}

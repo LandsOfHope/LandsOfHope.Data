@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"pressed-trousers","image":"4521","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "pressed-trousers",
+    "image": "4521",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

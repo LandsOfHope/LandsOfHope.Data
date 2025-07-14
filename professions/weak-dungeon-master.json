@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "weak-dungeon-master",
     "name": {
         "en": "Weak Dungeon Master"
     },
@@ -13,7 +15,6 @@
         "mana-draining": 5,
         "health-stealing": 5,
         "fists": 5,
-        "terror": 5,
         "bladed-defense": 5,
         "projectile-defense": 5,
         "h2h-defense": 5,
@@ -23,5 +24,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 2
+    }
 }

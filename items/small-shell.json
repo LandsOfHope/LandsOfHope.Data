@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"small-shell","image":"2423","type":"golem-parts","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "small-shell",
+    "image": "2423",
+    "type": "golem-parts",
+    "material": "stone"
+}

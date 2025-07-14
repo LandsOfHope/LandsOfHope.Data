@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"minions-short-bow","image":"shb","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "minions-short-bow",
+    "image": "shb",
+    "type": "ranged-weapon",
+    "dpr": 2,
+    "material": "wood",
+    "skill": "bows"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"smallholding-deed","image":"6419","type":"house-deeds"}
+{
+    "$type": "/v1/item",
+    "id": "smallholding-deed",
+    "image": "6419",
+    "type": "house-deeds",
+    "expansion": "dragons-of-the-east",
+    "skill": "lordship"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"crack-in-the-ground","image":"crack1","type":"crack","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "crack-in-the-ground",
+    "image": "crack1",
+    "type": "crack",
+    "expansion": "uncharted-waters",
+    "material": "metal"
+}

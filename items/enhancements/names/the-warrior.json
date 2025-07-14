@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-warrior",
+    "effects": {
+        "skills": {
+            "axes": 0.4,
+            "maces": 0.4
+        },
+        "properties": {
+            "MAXSTAMINA": 0.4
+        }
+    }
+}

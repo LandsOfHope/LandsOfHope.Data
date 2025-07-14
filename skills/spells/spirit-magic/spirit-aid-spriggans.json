@@ -5,5 +5,11 @@
         "skill": 1035,
         "mana": 1035
     },
-    "duration": "PT30M"
+    "duration": "PT30M",
+    "effects": {
+        "summon-pet": {
+            "race": "spriggan",
+            "profession": "spirit-being"
+        }
+    }
 }

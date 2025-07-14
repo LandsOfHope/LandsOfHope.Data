@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"flintlock-musket","image":"5279","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "flintlock-musket",
+    "image": "5279",
+    "type": "ranged-weapon",
+    "dpr": 2,
+    "expansion": "uncharted-waters",
+    "material": "metal",
+    "skill": "two-handed-guns"
+}

@@ -6,7 +6,9 @@
         "mana": 617
     },
     "duration": "PT75M",
-    "skills": {
-        "air-resistance": 64
+    "effects": {
+        "skills": {
+            "air-resistance": 64
+        }
     }
 }

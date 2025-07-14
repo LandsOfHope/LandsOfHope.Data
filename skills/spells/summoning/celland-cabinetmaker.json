@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 1820,
         "mana": 1820
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "human",
+            "profession": "carpenter"
+        }
     }
 }

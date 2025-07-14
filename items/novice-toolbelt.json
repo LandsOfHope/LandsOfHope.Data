@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"novice-toolbelt","image":"anbet","type":"stomach","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "novice-toolbelt",
+    "image": "anbet",
+    "type": "stomach",
+    "material": "hide",
+    "skill": "artisan"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"short-bow-talisman","image":"zushbo`t","type":"ranged-weapon","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "short-bow-talisman",
+    "image": "zushbo`t",
+    "type": "ranged-weapon",
+    "dpr": 8,
+    "material": "gem",
+    "skill": "bows"
+}

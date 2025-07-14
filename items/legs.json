@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"legs","image":"leg","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "legs",
+    "image": "leg",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

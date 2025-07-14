@@ -6,7 +6,9 @@
         "mana": 575
     },
     "duration": "PT495M",
-    "skills": {
-        "fire-resistance": 302
+    "effects": {
+        "skills": {
+            "fire-resistance": 302
+        }
     }
 }

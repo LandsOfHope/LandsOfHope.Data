@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"cooking/invocation-defense-supplement","item":"invocation-defense-supplement","image":"c2k","time":"PT15S","quantity":1,"skill":"cooking","skillValue":3550,"quality":"common","ingredients":[{"id":"grain","quantity":6,"primary":true},{"id":"milk","quantity":2},{"id":"bowl","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "cooking/invocation-defense-supplement",
+    "item": "invocation-defense-supplement",
+    "image": "c2k",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "cooking",
+    "skillValue": 3550,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "milk",
+            "quantity": 2
+        },
+        {
+            "id": "bowl",
+            "quantity": 0
+        },
+        {
+            "id": "grain",
+            "quantity": 6,
+            "primary": true
+        }
+    ]
+}

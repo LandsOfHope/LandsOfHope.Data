@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"profession-portal","image":"po2","type":"profession-portal","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "profession-portal",
+    "image": "po2",
+    "type": "profession-portal",
+    "expansion": "jurassic-wars",
+    "material": "gem"
+}

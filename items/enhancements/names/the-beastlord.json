@@ -1,0 +1,14 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-beastlord",
+    "effects": {
+        "skills": {
+            "beast-breeding": 0.4,
+            "beastmastery": 0.4
+        },
+        "properties": {
+            "DEXTERITY": 0.4,
+            "MAXSTAMINA": 0.4
+        }
+    }
+}

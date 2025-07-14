@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"viking-helmet","image":"vik","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "viking-helmet",
+    "image": "vik",
+    "type": "head-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

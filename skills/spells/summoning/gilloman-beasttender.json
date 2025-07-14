@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2234,
         "mana": 2234
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "human",
+            "profession": "skinner"
+        }
     }
 }

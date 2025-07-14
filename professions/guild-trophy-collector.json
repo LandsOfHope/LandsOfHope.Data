@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "guild-trophy-collector",
     "name": {
         "en": "Guild Trophy Collector"
     },
@@ -9,5 +11,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 5,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 5
+    }
 }

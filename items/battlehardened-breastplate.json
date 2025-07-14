@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"battlehardened-breastplate","image":"2293","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "battlehardened-breastplate",
+    "image": "2293",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

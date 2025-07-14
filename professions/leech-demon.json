@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "leech-demon",
     "name": {
         "en": "Leech Demon"
     },
@@ -9,5 +11,9 @@
         "health-stealing": 5,
         "armor": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 4
+    }
 }

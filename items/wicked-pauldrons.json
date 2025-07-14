@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wicked-pauldrons","image":"2482","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "wicked-pauldrons",
+    "image": "2482",
+    "type": "shoulders",
+    "armorType": "plate",
+    "material": "metal"
+}

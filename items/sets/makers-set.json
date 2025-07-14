@@ -1,0 +1,18 @@
+{
+    "$type": "/v1/items/set",
+    "id": "makers-set",
+    "image": "na.gif",
+    "color": "red",
+    "spells": {
+        "0": {
+            "0": "makers-knowledge"
+        }
+    },
+    "items": [
+        "makers-footwear",
+        "makers-chestpiece",
+        "makers-trousers",
+        "makers-headpiece",
+        "makers-gloves"
+    ]
+}

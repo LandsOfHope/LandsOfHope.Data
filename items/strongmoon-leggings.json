@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"strongmoon-leggings","image":"4698","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "strongmoon-leggings",
+    "image": "4698",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "legendary": true,
+    "set": "strongmoon-legend",
+    "material": "cloth"
+}

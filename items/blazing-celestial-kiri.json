@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blazing-celestial-kiri","image":"6032","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blazing-celestial-kiri",
+    "image": "6032",
+    "type": "1-handed-equipment",
+    "dpr": 97,
+    "material": "metal",
+    "skill": "celestial-weapons"
+}

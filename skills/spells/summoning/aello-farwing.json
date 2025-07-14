@@ -4,5 +4,10 @@
     "requirements": {
         "skill": 1958,
         "mana": 1958
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "harpy"
+        }
     }
 }

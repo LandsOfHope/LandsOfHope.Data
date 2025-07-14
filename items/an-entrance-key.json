@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"an-entrance-key","image":"6321","type":"portal","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "an-entrance-key",
+    "image": "6321",
+    "type": "portal",
+    "material": "metal"
+}

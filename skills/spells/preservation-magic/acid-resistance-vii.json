@@ -6,7 +6,9 @@
         "mana": 2017
     },
     "duration": "PT75M",
-    "skills": {
-        "acid-resistance": 204
+    "effects": {
+        "skills": {
+            "acid-resistance": 204
+        }
     }
 }

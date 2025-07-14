@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"milk","image":"mil","type":"rawfood","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "milk",
+    "image": "mil",
+    "type": "rawfood",
+    "material": "hide"
+}

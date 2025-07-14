@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-savage-pauldrons","image":"3801","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-savage-pauldrons",
+    "image": "3801",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

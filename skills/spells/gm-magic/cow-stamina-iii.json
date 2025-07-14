@@ -6,7 +6,9 @@
         "mana": 575
     },
     "duration": "PT5000M",
-    "properties": {
-        "MAXSTAMINA": 270
+    "effects": {
+        "properties": {
+            "MAXSTAMINA": 270
+        }
     }
 }

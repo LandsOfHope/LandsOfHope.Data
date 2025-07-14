@@ -6,7 +6,9 @@
         "mana": 397
     },
     "duration": "PT60M",
-    "properties": {
-        "MAXMANA": 199
+    "effects": {
+        "properties": {
+            "MAXMANA": 199
+        }
     }
 }

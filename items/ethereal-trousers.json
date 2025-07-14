@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ethereal-trousers","image":"3071","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "ethereal-trousers",
+    "image": "3071",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

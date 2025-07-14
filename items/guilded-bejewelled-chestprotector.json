@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-bejewelled-chestprotector","image":"3731","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-bejewelled-chestprotector",
+    "image": "3731",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

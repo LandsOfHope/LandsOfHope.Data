@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"feather-hat","image":"613","type":"head-armour","material":"bird"}
+{
+    "$type": "/v1/item",
+    "id": "feather-hat",
+    "image": "613",
+    "type": "head-armour",
+    "armorType": "cloth",
+    "material": "bird"
+}

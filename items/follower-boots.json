@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"follower-boots","image":"3097","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "follower-boots",
+    "image": "3097",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

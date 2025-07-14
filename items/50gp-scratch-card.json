@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"50gp-scratch-card","image":"5943","type":"scratch-card","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "50gp-scratch-card",
+    "image": "5943",
+    "type": "expensive-scratch-card",
+    "material": "cloth"
+}

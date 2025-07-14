@@ -6,7 +6,9 @@
         "mana": 1
     },
     "duration": "PT5000M",
-    "skills": {
-        "deconstruction": 5000
+    "effects": {
+        "skills": {
+            "deconstruction": 5000
+        }
     }
 }

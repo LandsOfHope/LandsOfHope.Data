@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"death-shroud","image":"cl6","type":"cloak","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "death-shroud",
+    "image": "cl6",
+    "type": "cloak",
+    "armorType": "cloth",
+    "material": "cloth"
+}

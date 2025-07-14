@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ingleberts-weeding-trowel","image":"5952","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ingleberts-weeding-trowel",
+    "image": "5952",
+    "type": "1-handed-equipment",
+    "material": "metal",
+    "skill": "foraging"
+}

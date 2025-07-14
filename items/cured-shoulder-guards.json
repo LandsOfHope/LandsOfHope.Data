@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cured-shoulder-guards","image":"3025","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "cured-shoulder-guards",
+    "image": "3025",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"traders-alliance-voucher","image":"tiv","type":"money-deed","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "traders-alliance-voucher",
+    "image": "tiv",
+    "type": "money-deed",
+    "material": "hide"
+}

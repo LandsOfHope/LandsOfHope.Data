@@ -6,7 +6,9 @@
         "mana": 4062
     },
     "duration": "PT75M",
-    "skills": {
-        "nature-resistance": 421
+    "effects": {
+        "skills": {
+            "nature-resistance": 421
+        }
     }
 }

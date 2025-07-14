@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"scary-costume-belt","image":"sbelt","type":"stomach","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "scary-costume-belt",
+    "image": "sbelt",
+    "type": "stomach",
+    "set": "halloween-costume",
+    "material": "hide"
+}

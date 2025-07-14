@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"molded-bracers","image":"4418","type":"arm-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "molded-bracers",
+    "image": "4418",
+    "type": "arm-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

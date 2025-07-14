@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "shaman",
     "name": {
         "en": "Shaman"
     },
@@ -12,6 +14,13 @@
         "acid-magic": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2
     },
     "evo": {
         "necromancer": 350

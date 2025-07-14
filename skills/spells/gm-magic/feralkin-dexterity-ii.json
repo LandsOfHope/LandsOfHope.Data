@@ -6,7 +6,9 @@
         "mana": 407
     },
     "duration": "PT5000M",
-    "properties": {
-        "DEXTERITY": 170
+    "effects": {
+        "properties": {
+            "DEXTERITY": 170
+        }
     }
 }

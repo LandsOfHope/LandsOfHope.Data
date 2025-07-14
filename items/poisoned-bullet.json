@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"poisoned-bullet","image":"zupobu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "poisoned-bullet",
+    "image": "zupobu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 6,
+    "material": "metal"
+}

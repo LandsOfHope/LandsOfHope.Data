@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3062,
         "mana": 3062
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "troll",
+            "profession": "miner"
+        }
     }
 }

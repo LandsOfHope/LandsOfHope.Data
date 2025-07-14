@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"commanders-gloves","image":"2616","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "commanders-gloves",
+    "image": "2616",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

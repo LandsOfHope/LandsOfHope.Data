@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"skull-shaped-bone","image":"sl1","type":"monster-spawner","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "skull-shaped-bone",
+    "image": "sl1",
+    "type": "monster-spawner",
+    "material": "hide"
+}

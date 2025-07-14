@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "town-guard",
     "name": {
         "en": "Town Guard"
     },
@@ -9,5 +11,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 5,
+        "MAXSTAMINA": 4,
+        "STRENGTH": 2
+    }
 }

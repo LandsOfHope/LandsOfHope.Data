@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "demonic-follower",
     "name": {
         "en": "Demonic Follower"
     },
@@ -9,5 +11,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 2
+    }
 }

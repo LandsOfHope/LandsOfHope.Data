@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"embossed-breeches","image":"2808","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "embossed-breeches",
+    "image": "2808",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

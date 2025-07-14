@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"raptor-gloves","image":"5155","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "raptor-gloves",
+    "image": "5155",
+    "type": "hand-armour",
+    "armorType": "leather",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

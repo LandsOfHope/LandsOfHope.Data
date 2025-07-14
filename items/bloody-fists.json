@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"bloody-fists","image":"ft2","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bloody-fists",
+    "image": "ft2",
+    "type": "1-handed-equipment",
+    "dpr": 52,
+    "material": "metal",
+    "skill": "fists"
+}

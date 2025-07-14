@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"nerrys-smoking-sherry","image":"5499","type":"magic-vial","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "nerrys-smoking-sherry",
+    "image": "5499",
+    "type": "magic-vial",
+    "expansion": "uncharted-waters",
+    "material": "wood"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"stary-feetwarmers","image":"3108","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "stary-feetwarmers",
+    "image": "3108",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

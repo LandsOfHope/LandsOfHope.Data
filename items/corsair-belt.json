@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"corsair-belt","image":"5248","type":"stomach","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "corsair-belt",
+    "image": "5248",
+    "type": "stomach",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "cloth",
+    "skill": "pirate-league"
+}

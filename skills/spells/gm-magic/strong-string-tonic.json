@@ -6,7 +6,9 @@
         "mana": 3050
     },
     "duration": "PT610M",
-    "skills": {
-        "stringed-defense": 610
+    "effects": {
+        "skills": {
+            "stringed-defense": 610
+        }
     }
 }

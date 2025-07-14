@@ -6,7 +6,9 @@
         "mana": 801
     },
     "duration": "PT300M",
-    "properties": {
-        "STRENGTH": 401
+    "effects": {
+        "properties": {
+            "STRENGTH": 401
+        }
     }
 }

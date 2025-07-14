@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"dragonflyer-gloves","image":"5137","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "dragonflyer-gloves",
+    "image": "5137",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "expansion": "jurassic-wars",
+    "material": "cloth"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"goblin-costume-boots","image":"gobot","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "goblin-costume-boots",
+    "image": "gobot",
+    "type": "foot-armour",
+    "set": "goblin-costume",
+    "material": "hide",
+    "skill": "artisan"
+}

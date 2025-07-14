@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "carpentry-ring-coating",
+    "item": "ring-enhancement",
+    "skillValue": 210,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "carpentry": 0.6
+        }
+    }
+}

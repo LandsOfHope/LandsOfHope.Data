@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"guilded-godly-kings-shield","image":"sda","type":"2-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-godly-kings-shield",
+    "image": "sda",
+    "type": "2-handed-equipment",
+    "dpr": 98,
+    "material": "wood",
+    "skill": "two-handed-shields"
+}

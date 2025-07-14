@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"gorget","image":"fegoeo","type":"neck","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "gorget",
+    "image": "fegoeo",
+    "type": "neck",
+    "armorType": "plate",
+    "material": "metal"
+}

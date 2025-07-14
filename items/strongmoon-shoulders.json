@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"strongmoon-shoulders","image":"4694","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "strongmoon-shoulders",
+    "image": "4694",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "legendary": true,
+    "set": "strongmoon-legend",
+    "material": "cloth"
+}

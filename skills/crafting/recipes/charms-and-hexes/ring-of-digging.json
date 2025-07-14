@@ -1,1 +1,24 @@
-{"$type":"/v1/skills/crafting/recipe","id":"charms-and-hexes/ring-of-digging","item":"ring-of-digging","image":"rgc","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":850,"quality":"common","singleUse":true,"failureChance":60,"ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"blood-of-good","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "charms-and-hexes/ring-of-digging",
+    "item": "ring-of-digging",
+    "image": "rgc",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "charms-and-hexes",
+    "skillValue": 850,
+    "quality": "common",
+    "singleUse": true,
+    "failureChance": 60,
+    "ingredients": [
+        {
+            "id": "gem",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "blood-of-good",
+            "quantity": 1
+        }
+    ]
+}

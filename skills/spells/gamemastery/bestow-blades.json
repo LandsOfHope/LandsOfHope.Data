@@ -1,9 +1,0 @@
-{
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/bestow-blades",
-    "requirements": {
-        "skill": 753,
-        "mana": 753
-    },
-    "duration": "PT800M"
-}

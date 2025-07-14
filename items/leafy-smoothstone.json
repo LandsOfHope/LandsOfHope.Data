@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"leafy-smoothstone","image":"sms","type":"ammo-weapons-rocks","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "leafy-smoothstone",
+    "image": "sms",
+    "type": "ammo-weapons-rocks",
+    "dpr": 35,
+    "material": "stone"
+}

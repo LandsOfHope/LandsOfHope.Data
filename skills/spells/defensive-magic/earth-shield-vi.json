@@ -6,7 +6,9 @@
         "mana": 659
     },
     "duration": "PT450M",
-    "skills": {
-        "earth-resistance": 344
+    "effects": {
+        "skills": {
+            "earth-resistance": 344
+        }
     }
 }

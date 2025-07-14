@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"wurm-ribbed-helmet","image":"5814","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "wurm-ribbed-helmet",
+    "image": "5814",
+    "type": "head-armour",
+    "armorType": "mail",
+    "expansion": "dragons-of-the-east",
+    "material": "hide"
+}

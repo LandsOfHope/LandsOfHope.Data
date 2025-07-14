@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"commanders-breastchain","image":"2561","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "commanders-breastchain",
+    "image": "2561",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

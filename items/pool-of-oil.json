@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"pool-of-oil","image":"zupooi","type":"special-pirate-resource"}
+{
+    "$type": "/v1/item",
+    "id": "pool-of-oil",
+    "image": "zupooi",
+    "type": "special-pirate-resource",
+    "expansion": "uncharted-waters"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"bone-coating","image":"2440","type":"golem-parts","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bone-coating",
+    "image": "2440",
+    "type": "golem-parts",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"regal-shoulder-pads","image":"3263","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "regal-shoulder-pads",
+    "image": "3263",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

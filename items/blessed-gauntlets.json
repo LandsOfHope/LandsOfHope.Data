@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"blessed-gauntlets","image":"2357","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blessed-gauntlets",
+    "image": "2357",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

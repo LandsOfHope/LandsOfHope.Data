@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "shadowstalker",
     "name": {
         "en": "Shadowstalker"
     },
@@ -6,14 +8,21 @@
         "en": "The Shadowstalker is a Tier I evolution from the Rogue Profession, while keeping all of the Rogues abilities the Shadowstalker also gains the ability to <b>Detect Hidden</b> enemies and buildings.<br><br> As with the Rogue the Shadowstalker can use Daggers, Fists and Thrown Weapons but they also gain access to <b>Swords</b>."
     },
     "skills": {
-        "armor": 5,
-        "attack-power": 5,
+        "stealth": 5,
+        "lockpicking": 5,
         "daggers": 5,
+        "swords": 5,
         "detect-hidden": 5,
         "dual-wielding": 5,
-        "lockpicking": 5,
-        "stealth": 5,
-        "swords": 5
+        "armor": 5,
+        "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 1
     },
     "evo": {
         "assassin": 350

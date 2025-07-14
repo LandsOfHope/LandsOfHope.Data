@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "fighter",
     "name": {
         "en": "Fighter"
     },
@@ -13,12 +15,19 @@
         "maces": 5,
         "fists": 5,
         "dual-wielding": 5,
-        "armor": 5,
+        "armor": 10,
         "attack-power": 5
     },
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 1
+    },
     "evo": {
-        "squire": 50,
         "warrior": 50,
+        "squire": 50,
         "grunt": 50
     }
 }

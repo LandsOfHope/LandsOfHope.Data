@@ -5,7 +5,9 @@
         "skill": 1,
         "mana": 1
     },
-    "skills": {
-        "dual-wielding": 5
+    "effects": {
+        "skills": {
+            "dual-wielding": 5
+        }
     }
 }

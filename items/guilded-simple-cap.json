@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-simple-cap","image":"3920","type":"head-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-simple-cap",
+    "image": "3920",
+    "type": "head-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

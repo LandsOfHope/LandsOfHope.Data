@@ -5,5 +5,10 @@
         "skill": 4630,
         "mana": 926
     },
-    "duration": "PT50M"
+    "duration": "PT50M",
+    "effects": {
+        "summon-item": {
+            "item": "baneberry"
+        }
+    }
 }

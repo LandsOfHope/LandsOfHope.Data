@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"coffin","image":"6160","type":"special-chest","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "coffin",
+    "image": "cof1",
+    "type": "house-furniture-i",
+    "material": "wood"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"recruits-shoulder-pads","image":"2749","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "recruits-shoulder-pads",
+    "image": "2749",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

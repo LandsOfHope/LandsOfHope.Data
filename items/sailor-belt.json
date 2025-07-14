@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"sailor-belt","image":"zusabe","type":"stomach","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "sailor-belt",
+    "image": "zusabe",
+    "type": "stomach",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "cloth",
+    "skill": "myzan-navy"
+}

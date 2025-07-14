@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"chitinous-skullmask","image":"tochsk","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "chitinous-skullmask",
+    "image": "tochsk",
+    "type": "head-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

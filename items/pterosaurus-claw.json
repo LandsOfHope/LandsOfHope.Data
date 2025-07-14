@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"pterosaurus-claw","image":"5093","type":"trophy","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "pterosaurus-claw",
+    "image": "5093",
+    "type": "trophy",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

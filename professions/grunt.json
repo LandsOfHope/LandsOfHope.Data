@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "grunt",
     "name": {
         "en": "Grunt"
     },
@@ -10,8 +12,15 @@
         "shields": 5,
         "dual-wielding": 5,
         "hand-guns": 5,
-        "armor": 5,
+        "armor": 10,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 2
     },
     "evo": {
         "soldier": 350

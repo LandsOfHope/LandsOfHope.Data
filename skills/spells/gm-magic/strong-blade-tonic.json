@@ -6,7 +6,9 @@
         "mana": 2700
     },
     "duration": "PT540M",
-    "skills": {
-        "bladed-defense": 540
+    "effects": {
+        "skills": {
+            "bladed-defense": 540
+        }
     }
 }

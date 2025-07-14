@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"elemental-gauntlets","image":"6381","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "elemental-gauntlets",
+    "image": "6381",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "set": "elemental-set",
+    "material": "hide"
+}

@@ -1,0 +1,30 @@
+{
+    "$type": "/v1/items/set",
+    "id": "inventor-bolted-set",
+    "image": "na.gif",
+    "color": "gold",
+    "spells": {
+        "0": {
+            "10": "bolt-jolt-i",
+            "200": "bolt-jolt-ii",
+            "300": "bolt-jolt-iii",
+            "400": "bolt-jolt-iv",
+            "500": "bolt-jolt-v",
+            "600": "bolt-jolt-vi",
+            "700": "bolt-jolt-vii",
+            "800": "bolt-jolt-viii",
+            "900": "bolt-jolt-ix",
+            "1000": "bolt-jolt-x"
+        }
+    },
+    "items": [
+        "blank-bolted-shoulders",
+        "blank-bolted-arms",
+        "blank-bolted-cuffs",
+        "blank-bolted-helmet",
+        "blank-bolted-gloves",
+        "blank-bolted-boots",
+        "blank-bolted-chestpiece",
+        "blank-bolted-legs"
+    ]
+}

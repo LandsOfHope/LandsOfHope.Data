@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"bejewelled-plate","image":"2303","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bejewelled-plate",
+    "image": "2303",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

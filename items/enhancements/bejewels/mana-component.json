@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "mana-component",
+    "item": "ring-enhancement",
+    "skillValue": 15,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "properties": {
+            "MAXMANA": 0.6
+        }
+    }
+}

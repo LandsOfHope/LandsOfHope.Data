@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"chain-net","image":"fin","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "chain-net",
+    "image": "fin",
+    "type": "1-handed-equipment",
+    "dpr": 94,
+    "material": "metal",
+    "skill": "exotic-weapons"
+}

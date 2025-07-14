@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"field-gun","image":"4633","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "field-gun",
+    "image": "4633",
+    "type": "ranged-weapon",
+    "dpr": 60,
+    "material": "metal",
+    "skill": "heavy-munitions"
+}

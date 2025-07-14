@@ -1,14 +1,21 @@
 {
+    "$type": "/v1/profession",
+    "id": "pirate",
     "name": {
         "en": "Pirate"
     },
     "desc": {
-        "en": "The Pirate is a Tier III evolution from the Privateer Profession via Buccaneer> Raider."
+        "en": "The Master is a Tier III evolution from the Privateer Profession via Buccaneer> Raider."
     },
     "skills": {
         "track-items": 5,
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 4,
+        "STRENGTH": 3
+    }
 }

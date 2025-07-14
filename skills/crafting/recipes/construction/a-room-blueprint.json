@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"construction/a-room-blueprint","item":"room-blueprint","image":"1936","time":"PT15S","quantity":1,"skill":"construction","skillValue":30,"quality":"common","ingredients":[{"id":"plank","quantity":22,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "construction/a-room-blueprint",
+    "item": "room-blueprint",
+    "image": "1936",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "construction",
+    "skillValue": 30,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "plank",
+            "quantity": 22,
+            "primary": true
+        }
+    ]
+}

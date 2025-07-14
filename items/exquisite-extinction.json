@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"exquisite-extinction","image":"6644","type":"2-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "exquisite-extinction",
+    "image": "6644",
+    "type": "2-handed-equipment",
+    "dpr": 140,
+    "material": "metal",
+    "skill": "two-handed-swords"
+}

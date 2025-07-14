@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"exquisite-harm","image":"6623","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "exquisite-harm",
+    "image": "6623",
+    "type": "ranged-weapon",
+    "dpr": 140,
+    "material": "wood",
+    "skill": "thrown-magic"
+}

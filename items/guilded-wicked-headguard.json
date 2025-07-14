@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-wicked-headguard","image":"3701","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-wicked-headguard",
+    "image": "3701",
+    "type": "head-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

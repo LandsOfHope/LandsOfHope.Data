@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2832,
         "mana": 2832
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "human",
+            "profession": "fire-mage"
+        }
     }
 }

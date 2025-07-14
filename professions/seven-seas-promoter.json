@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "seven-seas-promoter",
     "name": {
         "en": "Seven Seas Promoter"
     },
@@ -9,5 +11,8 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 5,
+        "MAXSTAMINA": 5
+    }
 }

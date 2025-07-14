@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"boned-legs","image":"514","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "boned-legs",
+    "image": "514",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

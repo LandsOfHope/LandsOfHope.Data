@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cadet-armguards","image":"2464","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cadet-armguards",
+    "image": "2464",
+    "type": "arm-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

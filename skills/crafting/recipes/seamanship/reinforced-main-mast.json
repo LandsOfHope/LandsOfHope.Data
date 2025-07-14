@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"seamanship/reinforced-main-mast","vesselItem":"reinforced-main-mast","image":"arr1","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":2750,"quality":"common","ingredients":[{"id":"weathered-rope","quantity":2},{"id":"weathered-plank","quantity":12,"primary":true},{"id":"ships-hook","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "seamanship/reinforced-main-mast",
+    "vesselItem": "reinforced-main-mast",
+    "image": "arr1",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "seamanship",
+    "skillValue": 2750,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "ships-hook",
+            "quantity": 0
+        },
+        {
+            "id": "weathered-plank",
+            "quantity": 12,
+            "primary": true
+        },
+        {
+            "id": "weathered-rope",
+            "quantity": 2
+        }
+    ]
+}

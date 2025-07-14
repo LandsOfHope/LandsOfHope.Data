@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-bejewelled-boots","image":"3753","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-bejewelled-boots",
+    "image": "3753",
+    "type": "foot-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

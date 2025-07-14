@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"necklace-of-exchanging","image":"zuneex","type":"neck","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "necklace-of-exchanging",
+    "image": "zuneex",
+    "type": "neck",
+    "armorType": "cloth",
+    "material": "gem"
+}

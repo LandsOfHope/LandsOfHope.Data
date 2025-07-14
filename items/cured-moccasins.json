@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cured-moccasins","image":"2860","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "cured-moccasins",
+    "image": "2860",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

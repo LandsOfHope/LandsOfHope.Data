@@ -7,7 +7,9 @@
         "mana": 1
     },
     "duration": "PT1400M",
-    "skills": {
-        "foraging": 600
+    "effects": {
+        "skills": {
+            "foraging": 600
+        }
     }
 }

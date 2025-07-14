@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"ancient-pearly-powder","image":"6435","type":"trophy"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-pearly-powder",
+    "image": "6435",
+    "type": "trophy",
+    "expansion": "dark-depths"
+}

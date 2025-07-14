@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"guilded-deadly-shaped-crossbow","image":"xw2","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-deadly-shaped-crossbow",
+    "image": "xw2",
+    "type": "ranged-weapon",
+    "dpr": 73,
+    "material": "wood",
+    "skill": "crossbows"
+}

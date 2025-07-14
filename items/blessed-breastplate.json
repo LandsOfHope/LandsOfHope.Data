@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"blessed-breastplate","image":"2291","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blessed-breastplate",
+    "image": "2291",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

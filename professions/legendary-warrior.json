@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "legendary-warrior",
     "name": {
         "en": "Legendary Warrior"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Warrior class."
     },
     "skills": {
         "health-regen": 5,
@@ -22,5 +24,10 @@
         "targeted-combat": 5,
         "way-of-the-warrior": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 5,
+        "MAXSTAMINA": 5,
+        "STRENGTH": 4
+    }
 }

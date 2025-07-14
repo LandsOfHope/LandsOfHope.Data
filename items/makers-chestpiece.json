@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"makers-chestpiece","image":"6393","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "makers-chestpiece",
+    "image": "6393",
+    "type": "chest-armour",
+    "legendary": true,
+    "set": "makers-set",
+    "material": "hide",
+    "skill": "artisan"
+}

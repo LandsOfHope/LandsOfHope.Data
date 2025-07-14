@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"dwarven-cannon","image":"ss3","type":"siege-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "dwarven-cannon",
+    "image": "ss3",
+    "type": "siege-weapon",
+    "dpr": 14,
+    "material": "metal",
+    "skill": "siege-weapons"
+}

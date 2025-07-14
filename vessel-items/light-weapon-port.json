@@ -1,1 +1,6 @@
-{"$type":"/v1/vessel-item","id":"light-weapon-port","image":"weaponport","type":"vessel-deck"}
+{
+    "$type": "/v1/vessel-item",
+    "id": "light-weapon-port",
+    "image": "weaponport",
+    "type": "vessel-deck"
+}

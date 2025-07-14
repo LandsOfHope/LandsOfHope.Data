@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "luminary-mage",
     "name": {
         "en": "Luminary Mage"
     },
@@ -12,5 +14,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 4,
+        "SPEED": 1
+    }
 }

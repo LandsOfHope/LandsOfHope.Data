@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"holy-trinket","image":"zumane","type":"quest-item","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "holy-trinket",
+    "image": "zumane",
+    "type": "quest-item",
+    "material": "metal"
+}

@@ -1,10 +1,15 @@
 {
+    "$type": "/v1/profession",
+    "id": "faction-recruiter",
     "name": {
         "en": "Faction Recruiter"
     },
     "desc": {
         "en": "Responsible for getting a player to participate in a faction based event."
     },
-    "skills": {},
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1,
+        "STRENGTH": 2
+    }
 }

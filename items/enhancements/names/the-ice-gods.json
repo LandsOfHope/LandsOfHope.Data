@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-ice-gods",
+    "effects": {
+        "skills": {
+            "cold-resistance": 0.5,
+            "water-resistance": 0.5
+        }
+    }
+}

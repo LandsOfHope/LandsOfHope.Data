@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "soul-demon",
     "name": {
         "en": "Soul Demon"
     },
@@ -9,5 +11,9 @@
         "mana-draining": 5,
         "armor": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 4
+    }
 }

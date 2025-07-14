@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "majestic-caster",
     "name": {
         "en": "Majestic Caster"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Caster class."
     },
     "skills": {
         "fire-magic": 5,
@@ -19,5 +21,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 3
+    }
 }

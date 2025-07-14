@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"royal-shoulder-guards","image":"3274","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "royal-shoulder-guards",
+    "image": "3274",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

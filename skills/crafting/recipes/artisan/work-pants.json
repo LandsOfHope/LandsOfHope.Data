@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"artisan/work-pants","item":"work-pants","image":"awtro","time":"PT15S","quantity":1,"skill":"artisan","skillValue":25,"quality":"uncommon","ingredients":[{"id":"cloth","quantity":8},{"id":"thread","quantity":10,"primary":true},{"id":"artisan-tool","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "artisan/work-pants",
+    "item": "work-pants",
+    "image": "awtro",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "artisan",
+    "skillValue": 25,
+    "quality": "uncommon",
+    "ingredients": [
+        {
+            "id": "thread",
+            "quantity": 10,
+            "primary": true
+        },
+        {
+            "id": "cloth",
+            "quantity": 8
+        },
+        {
+            "id": "artisan-tool",
+            "quantity": 0
+        }
+    ]
+}

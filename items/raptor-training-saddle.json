@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"raptor-training-saddle","image":"5128","type":"training-saddle","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "raptor-training-saddle",
+    "image": "5128",
+    "type": "training-saddle",
+    "expansion": "jurassic-wars",
+    "material": "gem"
+}

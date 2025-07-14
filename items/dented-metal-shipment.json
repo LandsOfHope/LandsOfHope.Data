@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"dented-metal-shipment","image":"5549","type":"metal-ship-resource"}
+{
+    "$type": "/v1/item",
+    "id": "dented-metal-shipment",
+    "image": "5549",
+    "type": "metal-ship-resource",
+    "expansion": "uncharted-waters"
+}

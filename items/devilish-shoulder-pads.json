@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"devilish-shoulder-pads","image":"3023","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "devilish-shoulder-pads",
+    "image": "3023",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

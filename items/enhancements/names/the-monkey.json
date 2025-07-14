@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-monkey",
+    "effects": {
+        "properties": {
+            "DEXTERITY": 0.5,
+            "SPEED": 0.5
+        }
+    }
+}

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "treasure-hunter",
     "name": {
         "en": "Treasure Hunter"
     },
@@ -11,5 +13,13 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 3
+    },
+    "evo": {
+        "archaeologist": 650
+    }
 }

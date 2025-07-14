@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"earring-of-wisdom","image":"859","type":"ear-jewelry","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "earring-of-wisdom",
+    "image": "859",
+    "type": "ear-jewelry",
+    "armorType": "cloth",
+    "material": "gem"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dark-depths-tent","image":"6553","type":"camping-equipment","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "dark-depths-tent",
+    "image": "6553",
+    "type": "camping-equipment",
+    "expansion": "dark-depths",
+    "material": "cloth"
+}

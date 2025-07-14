@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "shrouded-isles-trainer",
     "name": {
         "en": "Shrouded Isles Trainer"
     },
@@ -9,5 +11,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 4
+    }
 }

@@ -1,0 +1,19 @@
+{
+    "$type": "/v1/items/set",
+    "id": "cookie-costume",
+    "image": "na.gif",
+    "color": "green",
+    "spells": {
+        "0": {
+            "0": "cookie-costume-disguise"
+        }
+    },
+    "items": [
+        "cookie-costume-gloves",
+        "cookie-costume-trousers",
+        "cookie-costume-shirt",
+        "cookie-costume-boots",
+        "cookie-costume-hat",
+        "cookie-costume-belt"
+    ]
+}

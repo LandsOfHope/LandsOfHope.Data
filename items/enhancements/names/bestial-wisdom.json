@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "bestial-wisdom",
+    "effects": {
+        "skills": {
+            "mana-regen": 0.2
+        },
+        "properties": {
+            "INTELLIGENCE": 0.4
+        }
+    }
+}

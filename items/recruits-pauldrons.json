@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"recruits-pauldrons","image":"gmrepa","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "recruits-pauldrons",
+    "image": "gmrepa",
+    "type": "shoulders",
+    "armorType": "plate",
+    "material": "metal"
+}

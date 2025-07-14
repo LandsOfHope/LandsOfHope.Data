@@ -6,10 +6,12 @@
         "mana": 5
     },
     "duration": "PT50000M",
-    "skills": {
-        "armor": 225
-    },
-    "properties": {
-        "STRENGTH": 450
+    "effects": {
+        "properties": {
+            "STRENGTH": 450
+        },
+        "skills": {
+            "armor": 225
+        }
     }
 }

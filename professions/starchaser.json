@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "starchaser",
     "name": {
         "en": "Starchaser"
     },
@@ -8,6 +10,13 @@
     "skills": {
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 3,
+        "SPEED": 2
     },
     "evo": {
         "star-catcher": 650

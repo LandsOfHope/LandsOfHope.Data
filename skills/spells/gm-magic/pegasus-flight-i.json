@@ -6,7 +6,9 @@
         "mana": 176
     },
     "duration": "PT5000M",
-    "skills": {
-        "air-survival": 89
+    "effects": {
+        "skills": {
+            "air-survival": 89
+        }
     }
 }

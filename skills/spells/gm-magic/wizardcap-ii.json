@@ -7,7 +7,9 @@
         "mana": 2
     },
     "duration": "PT17M",
-    "skills": {
-        "mana-regen": 50
+    "effects": {
+        "skills": {
+            "mana-regen": 50
+        }
     }
 }

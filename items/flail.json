@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"flail","image":"fla","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "flail",
+    "image": "fla",
+    "type": "1-handed-equipment",
+    "dpr": 5,
+    "material": "metal",
+    "skill": "maces"
+}

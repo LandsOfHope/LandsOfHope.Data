@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"infamous-shield","image":"sd5","type":"1-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "infamous-shield",
+    "image": "sd5",
+    "type": "1-handed-equipment",
+    "dpr": 82,
+    "material": "wood",
+    "skill": "shields"
+}

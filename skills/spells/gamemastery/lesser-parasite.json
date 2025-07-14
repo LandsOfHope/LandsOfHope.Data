@@ -6,10 +6,12 @@
         "mana": 989
     },
     "duration": "PT90M",
-    "skills": {
-        "attack-power": -493
-    },
-    "properties": {
-        "STRENGTH": -493
+    "effects": {
+        "properties": {
+            "STRENGTH": -493
+        },
+        "skills": {
+            "attack-power": -493
+        }
     }
 }

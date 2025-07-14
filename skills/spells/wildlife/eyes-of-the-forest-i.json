@@ -6,7 +6,9 @@
         "mana": 313
     },
     "duration": "PT50M",
-    "skills": {
-        "exploration": 328
+    "effects": {
+        "skills": {
+            "exploration": 328
+        }
     }
 }

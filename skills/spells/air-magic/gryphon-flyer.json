@@ -5,5 +5,11 @@
         "skill": 931,
         "mana": 931
     },
-    "duration": "PT7000M"
+    "duration": "PT7000M",
+    "effects": {
+        "summon-pet": {
+            "race": "gryphon",
+            "profession": "creature"
+        }
+    }
 }

@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "cooking",
+    "effects": {
+        "skills": {
+            "cooking": 0.5
+        }
+    }
+}

@@ -6,7 +6,9 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "properties": {
-        "SPEED": 800
+    "effects": {
+        "properties": {
+            "SPEED": 800
+        }
     }
 }

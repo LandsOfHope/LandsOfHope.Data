@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "hoodlum",
     "name": {
         "en": "Hoodlum"
     },
@@ -10,5 +12,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 1
+    }
 }

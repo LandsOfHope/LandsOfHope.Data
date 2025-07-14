@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cross-of-sanctity","image":"zucos","type":"neck","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cross-of-sanctity",
+    "image": "zucos",
+    "type": "neck",
+    "material": "metal",
+    "skill": "healing-magic"
+}

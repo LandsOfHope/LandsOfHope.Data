@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"fury-cannon","image":"ss2","type":"siege-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "fury-cannon",
+    "image": "ss2",
+    "type": "siege-weapon",
+    "dpr": 32,
+    "material": "metal",
+    "skill": "siege-weapons"
+}

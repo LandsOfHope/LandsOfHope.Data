@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"bolts-over-brains/blank-riveted-chestpiece","item":"blank-riveted-chestpiece","image":"6849","time":"PT15S","quantity":1,"skill":"bolts-over-brains","skillValue":1320,"quality":"common","ingredients":[{"id":"ingot","quantity":4,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "bolts-over-brains/blank-riveted-chestpiece",
+    "item": "blank-riveted-chestpiece",
+    "image": "6849",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "bolts-over-brains",
+    "skillValue": 1320,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 4,
+            "primary": true
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"longtooth-boots","image":"3207","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "longtooth-boots",
+    "image": "3207",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "legendary": true,
+    "set": "longtooth-legend",
+    "material": "hide"
+}

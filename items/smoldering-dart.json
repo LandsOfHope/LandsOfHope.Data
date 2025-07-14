@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"smoldering-dart","image":"drt","type":"ammo-weapons-darts","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "smoldering-dart",
+    "image": "drt",
+    "type": "ammo-weapons-darts",
+    "dpr": 69,
+    "material": "wood"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wicked-legplates","image":"2284","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "wicked-legplates",
+    "image": "2284",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

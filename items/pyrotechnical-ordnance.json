@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"pyrotechnical-ordnance","image":"ss6","type":"ammo-weapons-artillery","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "pyrotechnical-ordnance",
+    "image": "ss6",
+    "type": "ammo-weapons-artillery",
+    "dpr": 94,
+    "material": "gem"
+}

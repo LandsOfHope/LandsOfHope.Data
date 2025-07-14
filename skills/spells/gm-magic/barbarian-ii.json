@@ -6,10 +6,12 @@
         "mana": 223
     },
     "duration": "PT14000M",
-    "skills": {
-        "two-handed-maces": 112
-    },
-    "properties": {
-        "STRENGTH": 112
+    "effects": {
+        "properties": {
+            "STRENGTH": 112
+        },
+        "skills": {
+            "two-handed-maces": 112
+        }
     }
 }

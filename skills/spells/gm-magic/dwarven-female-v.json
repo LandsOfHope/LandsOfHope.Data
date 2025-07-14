@@ -6,10 +6,12 @@
         "mana": 916
     },
     "duration": "PT14000M",
-    "skills": {
-        "fire-survival": 459
-    },
-    "properties": {
-        "MAXSTAMINA": 459
+    "effects": {
+        "properties": {
+            "MAXSTAMINA": 459
+        },
+        "skills": {
+            "fire-survival": 459
+        }
     }
 }

@@ -6,10 +6,10 @@
         "mana": 4651
     },
     "duration": "PT25M",
-    "properties": {
-        "HITPOINTS": 2330
-    },
     "effects": {
-        "damage": 3270
+        "damage": 3270,
+        "properties": {
+            "HITPOINTS": 2330
+        }
     }
 }

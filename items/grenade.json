@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"grenade","image":"6575","type":"grenade","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "grenade",
+    "image": "6575",
+    "type": "grenade",
+    "material": "metal",
+    "skill": "heavy-munitions"
+}

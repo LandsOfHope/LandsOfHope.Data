@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"ancient-relic-chest","image":"relc1","type":"ancient-relic-container","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-relic-chest",
+    "image": "relc1",
+    "type": "ancient-relic-container",
+    "material": "wood"
+}

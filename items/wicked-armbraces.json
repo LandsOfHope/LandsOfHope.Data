@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wicked-armbraces","image":"2724","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "wicked-armbraces",
+    "image": "2724",
+    "type": "arm-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

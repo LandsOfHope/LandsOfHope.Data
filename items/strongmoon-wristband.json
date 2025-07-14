@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"strongmoon-wristband","image":"4697","type":"wrist-jewelry","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "strongmoon-wristband",
+    "image": "4697",
+    "type": "wrist-jewelry",
+    "armorType": "cloth",
+    "legendary": true,
+    "set": "strongmoon-legend",
+    "material": "cloth"
+}

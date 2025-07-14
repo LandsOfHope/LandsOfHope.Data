@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-footman-headguard","image":"3695","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-footman-headguard",
+    "image": "3695",
+    "type": "head-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

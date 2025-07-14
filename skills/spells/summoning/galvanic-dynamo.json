@@ -5,5 +5,10 @@
         "skill": 3154,
         "mana": 3154
     },
-    "duration": "PT225M"
+    "duration": "PT225M",
+    "effects": {
+        "summon-item": {
+            "item": "galvanic-dynamo"
+        }
+    }
 }

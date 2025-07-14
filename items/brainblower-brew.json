@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"brainblower-brew","image":"pe6","type":"food","material":"crop"}
+{
+    "$type": "/v1/item",
+    "id": "brainblower-brew",
+    "image": "pe6",
+    "type": "food",
+    "material": "crop"
+}

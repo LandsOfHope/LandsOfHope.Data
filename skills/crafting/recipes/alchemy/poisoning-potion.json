@@ -1,1 +1,22 @@
-{"$type":"/v1/skills/crafting/recipe","id":"alchemy/poisoning-potion","item":"poisoning-potion","image":"pe5","time":"PT15S","quantity":20,"skill":"alchemy","skillValue":215,"quality":"common","ingredients":[{"id":"empty-potion-bottle","quantity":5,"primary":true},{"id":"mortar-and-pestle","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "alchemy/poisoning-potion",
+    "item": "poisoning-potion",
+    "image": "pe5",
+    "time": "PT15S",
+    "quantity": 20,
+    "skill": "alchemy",
+    "skillValue": 215,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "empty-potion-bottle",
+            "quantity": 5,
+            "primary": true
+        },
+        {
+            "id": "mortar-and-pestle",
+            "quantity": 0
+        }
+    ]
+}

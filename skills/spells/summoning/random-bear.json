@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3200,
         "mana": 3200
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "bear",
+            "profession": "wild-animal"
+        }
     }
 }

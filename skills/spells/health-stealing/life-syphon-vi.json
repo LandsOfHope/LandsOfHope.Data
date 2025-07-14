@@ -6,10 +6,10 @@
         "mana": 2017
     },
     "duration": "PT25M",
-    "properties": {
-        "HITPOINTS": -1003
-    },
     "effects": {
-        "damage": 102
+        "damage": 102,
+        "properties": {
+            "HITPOINTS": -1003
+        }
     }
 }

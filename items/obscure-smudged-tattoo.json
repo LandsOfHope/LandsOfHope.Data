@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"obscure-smudged-tattoo","image":"tattoo4","type":"forehead","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "obscure-smudged-tattoo",
+    "image": "tattoo4",
+    "type": "forehead",
+    "material": "gem",
+    "skill": "hellscar-legion"
+}

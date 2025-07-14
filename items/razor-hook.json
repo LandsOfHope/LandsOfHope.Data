@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"razor-hook","image":"bbh","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "razor-hook",
+    "image": "bbh",
+    "type": "1-handed-equipment",
+    "dpr": 80,
+    "material": "metal",
+    "skill": "exotic-weapons"
+}

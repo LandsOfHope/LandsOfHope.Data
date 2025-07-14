@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "lumberjack",
     "name": {
         "en": "Lumberjack"
     },
@@ -10,5 +12,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 4
+    }
 }

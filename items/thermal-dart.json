@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"thermal-dart","image":"drt","type":"ammo-weapons-darts","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "thermal-dart",
+    "image": "drt",
+    "type": "ammo-weapons-darts",
+    "dpr": 99,
+    "material": "wood"
+}

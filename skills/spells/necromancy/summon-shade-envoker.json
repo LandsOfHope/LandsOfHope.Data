@@ -4,5 +4,10 @@
     "requirements": {
         "skill": 3350,
         "mana": 3350
+    },
+    "effects": {
+        "summon-item": {
+            "item": "bone-envoker"
+        }
     }
 }

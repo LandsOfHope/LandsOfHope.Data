@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-ravaged-gauntlets","image":"3685","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-ravaged-gauntlets",
+    "image": "3685",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

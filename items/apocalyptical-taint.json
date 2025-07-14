@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"apocalyptical-taint","image":"6733","type":"2-handed-equipment","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "apocalyptical-taint",
+    "image": "6733",
+    "type": "2-handed-equipment",
+    "dpr": 140,
+    "material": "color",
+    "skill": "martial-arts"
+}

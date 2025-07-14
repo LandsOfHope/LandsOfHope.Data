@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "sludgedrencher",
     "name": {
         "en": "Sludgedrencher"
     },
     "desc": {
-        "en": ""
+        "en": "None"
     },
     "skills": {
         "mystical-magic": 5,
@@ -18,5 +20,12 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 1,
+        "SPEED": 1
+    }
 }

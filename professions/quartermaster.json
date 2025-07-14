@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "quartermaster",
     "name": {
         "en": "Quartermaster"
     },
@@ -11,5 +13,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

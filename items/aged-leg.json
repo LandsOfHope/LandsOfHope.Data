@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"aged-leg","image":"age","type":"1-handed-equipment","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "aged-leg",
+    "image": "age",
+    "type": "1-handed-equipment",
+    "dpr": 7,
+    "material": "hide",
+    "skill": "maces"
+}

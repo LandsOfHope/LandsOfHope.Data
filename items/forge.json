@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"forge","image":"fg2","type":"smithing-smelting-tool","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "forge",
+    "image": "fg2",
+    "type": "smithing-smelting-tool",
+    "material": "stone",
+    "skill": "blacksmithing"
+}

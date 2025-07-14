@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"bejewelled-link-boots","image":"2600","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bejewelled-link-boots",
+    "image": "2600",
+    "type": "foot-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-pleated-leggings","image":"3881","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-pleated-leggings",
+    "image": "3881",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

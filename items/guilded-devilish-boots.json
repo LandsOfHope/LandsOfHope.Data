@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-devilish-boots","image":"3835","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-devilish-boots",
+    "image": "3835",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

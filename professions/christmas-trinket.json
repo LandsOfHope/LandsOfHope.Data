@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "christmas-trinket",
     "name": {
         "en": "Christmas Trinket"
     },
     "desc": {
-        "en": ""
+        "en": "Wintersvale Product 2008."
     },
     "skills": {
         "divine-fury": 5,
@@ -11,6 +13,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXHITPOINTS": 10,
+        "MAXSTAMINA": 4,
+        "SPEED": 2,
+        "STRENGTH": 3
     }
 }

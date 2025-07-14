@@ -6,7 +6,9 @@
         "mana": 1
     },
     "duration": "PT240M",
-    "skills": {
-        "cold-survival": 20
+    "effects": {
+        "skills": {
+            "cold-survival": 20
+        }
     }
 }

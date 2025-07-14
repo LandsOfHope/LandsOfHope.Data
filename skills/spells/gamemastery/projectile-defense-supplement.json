@@ -6,7 +6,9 @@
         "mana": 91
     },
     "duration": "PT30M",
-    "skills": {
-        "projectile-defense": 200
+    "effects": {
+        "skills": {
+            "projectile-defense": 200
+        }
     }
 }

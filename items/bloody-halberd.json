@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"bloody-halberd","image":"hal","type":"2-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bloody-halberd",
+    "image": "hal",
+    "type": "2-handed-equipment",
+    "dpr": 52,
+    "material": "metal",
+    "skill": "pole-weapons"
+}

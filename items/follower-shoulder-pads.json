@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"follower-shoulder-pads","image":"3257","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "follower-shoulder-pads",
+    "image": "3257",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

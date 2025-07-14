@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"chainmail-sleeves","image":"4465","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "chainmail-sleeves",
+    "image": "4465",
+    "type": "arm-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

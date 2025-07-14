@@ -6,10 +6,10 @@
         "mana": 2279
     },
     "duration": 3,
-    "skills": {
-        "damage-absorption": 1610
-    },
     "effects": {
-        "damage": 1610
+        "damage": 1610,
+        "skills": {
+            "damage-absorption": 1610
+        }
     }
 }

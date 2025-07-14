@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-cadet-legplates","image":"3650","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-cadet-legplates",
+    "image": "3650",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

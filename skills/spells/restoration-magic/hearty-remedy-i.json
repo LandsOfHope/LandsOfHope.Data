@@ -6,7 +6,9 @@
         "mana": 1390
     },
     "duration": "PT30M",
-    "properties": {
-        "MAXHITPOINTS": 710
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 710
+        }
     }
 }

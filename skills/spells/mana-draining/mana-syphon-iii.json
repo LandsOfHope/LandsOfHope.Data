@@ -6,10 +6,10 @@
         "mana": 127
     },
     "duration": "PT25M",
-    "properties": {
-        "MANA": -58
-    },
     "effects": {
-        "damage": 109
+        "damage": 109,
+        "properties": {
+            "MANA": -58
+        }
     }
 }

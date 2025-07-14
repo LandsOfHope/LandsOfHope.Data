@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"fallen-angel-wings","image":"6682","type":"wings","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "fallen-angel-wings",
+    "image": "6682",
+    "type": "wings",
+    "material": "hide",
+    "skill": "spoils-of-war"
+}

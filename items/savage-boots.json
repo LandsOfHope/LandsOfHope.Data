@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"savage-boots","image":"2593","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "savage-boots",
+    "image": "2593",
+    "type": "foot-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

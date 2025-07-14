@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"arborescent-bullet","image":"zuarbu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "arborescent-bullet",
+    "image": "zuarbu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 50,
+    "material": "metal"
+}

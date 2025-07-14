@@ -1,18 +1,18 @@
 {
+    "$type": "/v1/profession",
+    "id": "trooper",
     "name": {
         "en": "Trooper"
     },
     "desc": {
-        "en": "The Trooper is a Tier I evolution from the Archer Profession.  While keeping all of the Archers abilities, the trooper also gains the ability to <b>Dual Wield</b>.<br><br> As with the Archer the Trooper can use Daggers, Bows and Crossbows but also gains <b>Axes</b>, <b>Hand Guns</b>, <b>Swords</b> and <b>Shields</b>."
+        "en": "The Trooper is a Tier I evolution from the Archer Profession, while keeping all of the Archers abilities the Trooper also gains the ability to <b>Dual Wield</b>.<br><br> As with the Archer the Trooper can use Daggers, Bows and Crossbows but also gains <b>Axes</b>, <b>Hand Guns</b>, <b>Swords</b> and <b>Shields</b>."
     },
-    "skills": {
-        "swords": 5,
-        "axes": 5,
-        "shields": 5,
-        "dual-wielding": 5,
-        "hand-guns": 5,
-        "armor": 5,
-        "attack-power": 5
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 2
     },
     "evo": {
         "sharpshooter": 350

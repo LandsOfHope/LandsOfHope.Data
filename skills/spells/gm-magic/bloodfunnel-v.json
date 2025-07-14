@@ -7,7 +7,9 @@
         "mana": 5
     },
     "duration": "PT20M",
-    "skills": {
-        "health-regen": 125
+    "effects": {
+        "skills": {
+            "health-regen": 125
+        }
     }
 }

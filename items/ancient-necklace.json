@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ancient-necklace","image":"anl","type":"neck","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-necklace",
+    "image": "anl",
+    "type": "neck",
+    "armorType": "cloth",
+    "material": "gem"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"cookie-costume-trousers","image":"cmtro","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "cookie-costume-trousers",
+    "image": "cmtro",
+    "type": "leg-armour",
+    "set": "cookie-costume",
+    "material": "hide",
+    "skill": "artisan"
+}

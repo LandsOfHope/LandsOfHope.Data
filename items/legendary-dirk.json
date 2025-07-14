@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"legendary-dirk","image":"zuledi","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "legendary-dirk",
+    "image": "zuledi",
+    "type": "1-handed-equipment",
+    "dpr": 120,
+    "legendary": true,
+    "material": "metal",
+    "skill": "daggers"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"antique-ruby-ring","image":"6326","type":"ring","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "antique-ruby-ring",
+    "image": "6326",
+    "type": "ring",
+    "set": "antique-set",
+    "material": "wood"
+}

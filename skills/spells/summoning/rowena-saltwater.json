@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2464,
         "mana": 2464
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "human",
+            "profession": "fisher"
+        }
     }
 }

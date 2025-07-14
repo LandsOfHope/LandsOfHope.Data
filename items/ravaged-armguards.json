@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ravaged-armguards","image":"gmraar","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ravaged-armguards",
+    "image": "gmraar",
+    "type": "arm-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

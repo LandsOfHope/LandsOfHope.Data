@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"deadmoon","image":"zudeam","type":"1-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "deadmoon",
+    "image": "zudeam",
+    "type": "1-handed-equipment",
+    "dpr": 2,
+    "material": "gem"
+}

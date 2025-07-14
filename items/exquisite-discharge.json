@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"exquisite-discharge","image":"6631","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "exquisite-discharge",
+    "image": "6631",
+    "type": "1-handed-equipment",
+    "dpr": 140,
+    "material": "metal",
+    "skill": "hand-guns"
+}

@@ -1,0 +1,22 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/items/enhancements/item-imbuement.json",
+    "title": "ItemImbuement",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/items/enhancements/item-imbuement"
+        },
+        "id": {
+            "$ref": "/schemas/v1/items-enhancements-imbuements-id.gen.json"
+        },
+        "chance": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 100
+        },
+        "spell": {
+            "$ref": "/schemas/v1/skills-spells-id.gen.json"
+        }
+    },
+    "required": ["$type", "id", "chance", "spell"]
+}

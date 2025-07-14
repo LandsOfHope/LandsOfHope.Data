@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"simple-sandals","image":"3115","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "simple-sandals",
+    "image": "3115",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

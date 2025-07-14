@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-cadet-gauntlets","image":"3683","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-cadet-gauntlets",
+    "image": "3683",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"animated-boots","image":"6351","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "animated-boots",
+    "image": "6351",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide",
+    "skill": "animation"
+}

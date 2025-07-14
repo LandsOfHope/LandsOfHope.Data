@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"herbal-bullet","image":"4156","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "herbal-bullet",
+    "image": "4156",
+    "type": "ammo-weapons-bullets",
+    "dpr": 39,
+    "material": "metal"
+}

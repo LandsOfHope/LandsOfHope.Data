@@ -1,1 +1,22 @@
-{"$type":"/v1/skills/crafting/recipe","id":"alchemy/drenching-potion","item":"drenching-potion","image":"pe5","time":"PT15S","quantity":20,"skill":"alchemy","skillValue":3925,"quality":"common","ingredients":[{"id":"empty-potion-bottle","quantity":5,"primary":true},{"id":"mortar-and-pestle","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "alchemy/drenching-potion",
+    "item": "drenching-potion",
+    "image": "pe5",
+    "time": "PT15S",
+    "quantity": 20,
+    "skill": "alchemy",
+    "skillValue": 3925,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "empty-potion-bottle",
+            "quantity": 5,
+            "primary": true
+        },
+        {
+            "id": "mortar-and-pestle",
+            "quantity": 0
+        }
+    ]
+}

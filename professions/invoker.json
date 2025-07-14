@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "invoker",
     "name": {
         "en": "Invoker"
     },
@@ -12,7 +14,13 @@
         "armor": 5,
         "attack-power": 5
     },
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 1
+    },
     "evo": {
-        "summoner": 350 
+        "summoner": 350
     }
 }

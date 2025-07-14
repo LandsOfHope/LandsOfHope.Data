@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"stary-shoulder-guards","image":"3268","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "stary-shoulder-guards",
+    "image": "3268",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

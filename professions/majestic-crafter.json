@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "majestic-crafter",
     "name": {
         "en": "Majestic Crafter"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Crafter class."
     },
     "skills": {
         "leatherworking": 5,
@@ -25,5 +27,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 3,
+        "STRENGTH": 3
+    }
 }

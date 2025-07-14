@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"crossbow","image":"xw2","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "crossbow",
+    "image": "xw2",
+    "type": "ranged-weapon",
+    "dpr": 2,
+    "material": "metal",
+    "skill": "crossbows"
+}

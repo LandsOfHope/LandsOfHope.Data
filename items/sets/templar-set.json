@@ -1,0 +1,16 @@
+{
+    "$type": "/v1/items/set",
+    "id": "templar-set",
+    "image": "na.gif",
+    "color": "white",
+    "spells": {
+        "0": {
+            "0": "templar-strength"
+        }
+    },
+    "items": [
+        "templar-tabard",
+        "templar-band",
+        "templar-piety"
+    ]
+}

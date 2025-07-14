@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"work-toolbelt","image":"awbet","type":"stomach","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "work-toolbelt",
+    "image": "awbet",
+    "type": "stomach",
+    "material": "cloth",
+    "skill": "artisan"
+}

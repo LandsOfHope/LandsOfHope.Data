@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dynamo-gloves","image":"1111","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "dynamo-gloves",
+    "image": "1111",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "material": "hide"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"adventurer-mitts","image":"2886","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "adventurer-mitts",
+    "image": "2886",
+    "type": "hand-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

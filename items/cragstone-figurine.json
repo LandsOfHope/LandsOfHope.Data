@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cragstone-figurine","image":"relic6","type":"special-slot","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cragstone-figurine",
+    "image": "relic6",
+    "type": "special-slot",
+    "material": "metal",
+    "skill": "archaeology"
+}

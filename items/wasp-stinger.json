@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wasp-stinger","image":"5082","type":"trophy","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "wasp-stinger",
+    "image": "5082",
+    "type": "trophy",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

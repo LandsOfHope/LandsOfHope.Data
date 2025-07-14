@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"barrendown-gauntlets","image":"5673","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "barrendown-gauntlets",
+    "image": "5673",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "legendary": true,
+    "set": "barrendown-legend",
+    "material": "metal"
+}

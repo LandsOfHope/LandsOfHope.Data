@@ -5,7 +5,9 @@
         "skill": 53,
         "mana": 53
     },
-    "skills": {
-        "bladed-defense": -5000
+    "effects": {
+        "skills": {
+            "bladed-defense": -5000
+        }
     }
 }

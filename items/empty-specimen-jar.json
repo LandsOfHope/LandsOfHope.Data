@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"empty-specimen-jar","image":"6260","type":"specimen-jar","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "empty-specimen-jar",
+    "image": "6260",
+    "type": "specimen-jar",
+    "expansion": "the-afterlife",
+    "material": "gem"
+}

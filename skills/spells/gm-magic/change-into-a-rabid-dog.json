@@ -6,10 +6,12 @@
         "mana": 301
     },
     "duration": "PT14000M",
-    "skills": {
-        "poison-magic": 151
-    },
-    "properties": {
-        "SPEED": 151
+    "effects": {
+        "properties": {
+            "SPEED": 151
+        },
+        "skills": {
+            "poison-magic": 151
+        }
     }
 }

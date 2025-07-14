@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "wild-animal",
     "name": {
         "en": "Wild Animal"
     },
@@ -8,9 +10,14 @@
     "skills": {
         "first-aid": 5,
         "fists": 5,
-        "terror": 5,
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 2
+    }
 }

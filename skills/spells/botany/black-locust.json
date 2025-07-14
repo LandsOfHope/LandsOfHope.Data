@@ -5,5 +5,10 @@
         "skill": 4130,
         "mana": 826
     },
-    "duration": "PT50M"
+    "duration": "PT50M",
+    "effects": {
+        "summon-item": {
+            "item": "black-locust"
+        }
+    }
 }

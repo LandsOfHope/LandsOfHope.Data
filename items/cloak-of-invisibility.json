@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cloak-of-invisibility","image":"cl3","type":"neck-clothing","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "cloak-of-invisibility",
+    "image": "cl3",
+    "type": "neck-clothing",
+    "expansion": "jurassic-wars",
+    "material": "cloth"
+}

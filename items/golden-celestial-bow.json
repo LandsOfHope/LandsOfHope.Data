@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"golden-celestial-bow","image":"6033","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "golden-celestial-bow",
+    "image": "6033",
+    "type": "ranged-weapon",
+    "dpr": 92,
+    "material": "metal",
+    "skill": "celestial-weapons"
+}

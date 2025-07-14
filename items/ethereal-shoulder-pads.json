@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ethereal-shoulder-pads","image":"3261","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "ethereal-shoulder-pads",
+    "image": "3261",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

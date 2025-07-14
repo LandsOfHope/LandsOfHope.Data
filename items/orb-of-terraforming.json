@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"orb-of-terraforming","image":"zuorte","type":"tile-claim","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "orb-of-terraforming",
+    "image": "zuorte",
+    "type": "tile-claim",
+    "material": "stone"
+}

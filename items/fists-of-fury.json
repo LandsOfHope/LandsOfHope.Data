@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"fists-of-fury","image":"ft3","type":"1-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "fists-of-fury",
+    "image": "ft3",
+    "type": "1-handed-equipment",
+    "dpr": 11,
+    "material": "gem",
+    "skill": "fists"
+}

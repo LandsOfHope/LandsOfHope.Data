@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"elegant-shoulders","image":"3252","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "elegant-shoulders",
+    "image": "3252",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

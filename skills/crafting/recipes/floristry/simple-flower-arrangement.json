@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"floristry/simple-flower-arrangement","item":"simple-flower-arrangement","image":"5800","time":"PT15S","quantity":1,"skill":"floristry","skillValue":50,"quality":"common","ingredients":[{"id":"flower-pot","quantity":1,"primary":true},{"id":"honeybunn-flower","quantity":1},{"id":"mirithana-flower","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "floristry/simple-flower-arrangement",
+    "item": "simple-flower-arrangement",
+    "image": "5800",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "floristry",
+    "skillValue": 50,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "honeybunn-flower",
+            "quantity": 1
+        },
+        {
+            "id": "mirithana-flower",
+            "quantity": 1
+        },
+        {
+            "id": "flower-pot",
+            "quantity": 1,
+            "primary": true
+        }
+    ]
+}

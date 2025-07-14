@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"sharpened-bullet","image":"bl","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "sharpened-bullet",
+    "image": "bl",
+    "type": "ammo-weapons-bullets",
+    "dpr": 11,
+    "material": "metal"
+}

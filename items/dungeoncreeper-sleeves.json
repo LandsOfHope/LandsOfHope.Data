@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dungeoncreeper-sleeves","image":"4943","type":"arm-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "dungeoncreeper-sleeves",
+    "image": "4943",
+    "type": "arm-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

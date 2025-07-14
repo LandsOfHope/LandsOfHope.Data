@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"bejewelled-plate-boots","image":"2314","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bejewelled-plate-boots",
+    "image": "2314",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

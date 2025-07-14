@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-pleated-gloves","image":"3911","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-pleated-gloves",
+    "image": "3911",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

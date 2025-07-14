@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"battlehardened-chain-gloves","image":"2623","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "battlehardened-chain-gloves",
+    "image": "2623",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

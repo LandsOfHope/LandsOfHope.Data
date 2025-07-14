@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "hellcaller",
     "name": {
         "en": "Hellcaller"
     },
     "desc": {
-        "en": ""
+        "en": "An ancient guardian"
     },
     "skills": {
         "fire-magic": 5,
@@ -13,5 +15,10 @@
         "attack-power": 5,
         "stamina-sucking": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 2
+    }
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"bolas","image":"bos","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "bolas",
+    "image": "bos",
+    "type": "ranged-weapon",
+    "dpr": 6,
+    "material": "wood",
+    "skill": "thrown-weapons"
+}

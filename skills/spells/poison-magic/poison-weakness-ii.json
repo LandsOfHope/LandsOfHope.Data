@@ -6,10 +6,10 @@
         "mana": 323
     },
     "duration": "PT2M",
-    "skills": {
-        "poison-resistance": -107
-    },
     "effects": {
-        "damage": 960
+        "damage": 960,
+        "skills": {
+            "poison-resistance": -107
+        }
     }
 }

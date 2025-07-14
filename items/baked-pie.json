@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"baked-pie","image":"bdp","type":"food","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "baked-pie",
+    "image": "bdp",
+    "type": "food",
+    "material": "hide"
+}

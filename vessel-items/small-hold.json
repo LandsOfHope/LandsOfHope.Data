@@ -1,1 +1,6 @@
-{"$type":"/v1/vessel-item","id":"small-hold","image":"hold3","type":"vessel-hold"}
+{
+    "$type": "/v1/vessel-item",
+    "id": "small-hold",
+    "image": "hold3",
+    "type": "vessel-hold"
+}

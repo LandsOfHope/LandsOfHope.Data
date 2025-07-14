@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"savage-pauldrons","image":"2483","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "savage-pauldrons",
+    "image": "2483",
+    "type": "shoulders",
+    "armorType": "plate",
+    "material": "metal"
+}

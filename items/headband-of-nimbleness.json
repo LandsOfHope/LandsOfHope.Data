@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"headband-of-nimbleness","image":"827","type":"forehead","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "headband-of-nimbleness",
+    "image": "827",
+    "type": "forehead",
+    "armorType": "cloth",
+    "material": "cloth"
+}

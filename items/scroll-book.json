@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"scroll-book","image":"bk1","type":"targeted-containers","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "scroll-book",
+    "image": "bk1",
+    "type": "targeted-containers",
+    "material": "hide"
+}

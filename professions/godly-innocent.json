@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "godly-innocent",
     "name": {
         "en": "Godly Innocent"
     },
     "desc": {
-        "en": ""
+        "en": "Godly Innocent"
     },
     "skills": {
         "mystical-magic": 5,
@@ -15,5 +17,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 2
+    }
 }

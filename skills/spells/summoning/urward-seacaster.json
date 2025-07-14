@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 1406,
         "mana": 1406
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "human",
+            "profession": "water-mage"
+        }
     }
 }

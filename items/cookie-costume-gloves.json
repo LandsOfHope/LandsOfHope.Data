@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"cookie-costume-gloves","image":"cmglv","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "cookie-costume-gloves",
+    "image": "cmglv",
+    "type": "hand-armour",
+    "set": "cookie-costume",
+    "material": "cloth",
+    "skill": "artisan"
+}

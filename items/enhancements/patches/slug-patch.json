@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/items/enhancements/item-patch",
+    "id": "slug-patch",
+    "effects": {
+        "properties": {
+            "SPEED": 0.1
+        }
+    }
+}

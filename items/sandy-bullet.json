@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"sandy-bullet","image":"4144","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "sandy-bullet",
+    "image": "4144",
+    "type": "ammo-weapons-bullets",
+    "dpr": 21,
+    "material": "metal"
+}

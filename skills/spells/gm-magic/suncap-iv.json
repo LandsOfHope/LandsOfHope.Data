@@ -7,7 +7,9 @@
         "mana": 4
     },
     "duration": "PT19M",
-    "properties": {
-        "MAXSTAMINA": 200
+    "effects": {
+        "properties": {
+            "MAXSTAMINA": 200
+        }
     }
 }

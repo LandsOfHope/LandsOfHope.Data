@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "historian",
     "name": {
         "en": "Historian"
     },
@@ -9,5 +11,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 2
+    }
 }

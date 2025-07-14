@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"consignment-of-tents","image":"gmcote","type":"quest-item","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "consignment-of-tents",
+    "image": "gmcote",
+    "type": "quest-item",
+    "expansion": "uncharted-waters",
+    "material": "color"
+}

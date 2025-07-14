@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "woodworker",
     "name": {
         "en": "Woodworker"
     },
@@ -13,5 +15,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-embossed-shoulders","image":"3873","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-embossed-shoulders",
+    "image": "3873",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

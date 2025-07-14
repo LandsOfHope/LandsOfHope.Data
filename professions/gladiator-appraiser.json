@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "gladiator-appraiser",
     "name": {
         "en": "Gladiator Appraiser"
     },
@@ -10,5 +12,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 1
+    }
 }

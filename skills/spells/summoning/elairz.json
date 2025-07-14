@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 1912,
         "mana": 1912
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "elemental",
+            "profession": "mage"
+        }
     }
 }

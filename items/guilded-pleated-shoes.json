@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-pleated-shoes","image":"3901","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-pleated-shoes",
+    "image": "3901",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"shabby-furniture","image":"6423","type":"lordship-furniture","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "shabby-furniture",
+    "image": "6423",
+    "type": "lordship-furniture",
+    "material": "wood",
+    "skill": "lordship"
+}

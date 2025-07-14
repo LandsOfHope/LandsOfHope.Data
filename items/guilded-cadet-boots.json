@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-cadet-boots","image":"3749","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-cadet-boots",
+    "image": "3749",
+    "type": "foot-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

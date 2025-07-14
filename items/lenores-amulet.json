@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"lenores-amulet","image":"zuleam","type":"neck","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "lenores-amulet",
+    "image": "zuleam",
+    "type": "neck",
+    "armorType": "plate",
+    "material": "gem"
+}

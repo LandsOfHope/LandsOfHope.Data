@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"tiger","image":"6668","type":"creature"}
+{
+    "$type": "/v1/item",
+    "id": "tiger",
+    "image": "6668",
+    "type": "creature",
+    "skill": "gods-favor"
+}

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "gladiator-rewarder",
     "name": {
         "en": "Gladiator Rewarder"
     },
@@ -14,7 +16,6 @@
         "water-resistance": 5,
         "poison-resistance": 5,
         "earth-resistance": 5,
-        "terror": 5,
         "bladed-defense": 5,
         "projectile-defense": 5,
         "h2h-defense": 5,
@@ -27,5 +28,13 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 4,
+        "MAXSTAMINA": 1,
+        "SPEED": 1,
+        "STRENGTH": 1
+    }
 }

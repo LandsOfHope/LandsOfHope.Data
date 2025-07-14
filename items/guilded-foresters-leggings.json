@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-foresters-leggings","image":"3820","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-foresters-leggings",
+    "image": "3820",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

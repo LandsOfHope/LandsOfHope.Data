@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"emerald-wurmstone","image":"5845","type":"dragon-polymorphers"}
+{
+    "$type": "/v1/item",
+    "id": "emerald-wurmstone",
+    "image": "5845",
+    "type": "dragon-polymorphers",
+    "expansion": "dragons-of-the-east"
+}

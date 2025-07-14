@@ -5,5 +5,10 @@
         "skill": 2510,
         "mana": 2510
     },
-    "duration": "PT150M"
+    "duration": "PT150M",
+    "effects": {
+        "summon-item": {
+            "item": "fire-starter"
+        }
+    }
 }

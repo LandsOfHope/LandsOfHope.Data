@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"emerald-sash","image":"5856","type":"stomach","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "emerald-sash",
+    "image": "5856",
+    "type": "stomach",
+    "expansion": "dragons-of-the-east",
+    "material": "cloth",
+    "skill": "emerald-flight"
+}

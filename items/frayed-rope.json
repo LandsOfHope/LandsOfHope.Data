@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"frayed-rope","image":"zufrro","type":"rope-ship-resource"}
+{
+    "$type": "/v1/item",
+    "id": "frayed-rope",
+    "image": "zufrro",
+    "type": "rope-ship-resource",
+    "expansion": "uncharted-waters"
+}

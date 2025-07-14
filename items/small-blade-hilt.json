@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"small-blade-hilt","image":"it","type":"new-crafting-resource","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "small-blade-hilt",
+    "image": "it",
+    "type": "new-crafting-resource",
+    "material": "metal"
+}

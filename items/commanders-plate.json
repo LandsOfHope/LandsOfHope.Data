@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"commanders-plate","image":"2308","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "commanders-plate",
+    "image": "2308",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

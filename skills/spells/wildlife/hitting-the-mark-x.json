@@ -6,7 +6,9 @@
         "mana": 395
     },
     "duration": "PT1550M",
-    "skills": {
-        "bows": 410
+    "effects": {
+        "skills": {
+            "bows": 410
+        }
     }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-commanders-pauldrons","image":"3802","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-commanders-pauldrons",
+    "image": "3802",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

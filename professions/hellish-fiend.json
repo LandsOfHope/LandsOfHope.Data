@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "hellish-fiend",
     "name": {
         "en": "Hellish Fiend"
     },
     "desc": {
-        "en": ""
+        "en": "Hellish Fiend"
     },
     "skills": {
         "mystical-magic": 5,
@@ -15,5 +17,13 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 2
+    }
 }

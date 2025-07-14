@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dinosaur-bone","image":"5191","type":"trophy","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "dinosaur-bone",
+    "image": "5191",
+    "type": "trophy",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

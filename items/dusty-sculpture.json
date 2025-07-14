@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"dusty-sculpture","image":"todusc","type":"stealing-loot","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "dusty-sculpture",
+    "image": "todusc",
+    "type": "stealing-loot",
+    "material": "stone"
+}

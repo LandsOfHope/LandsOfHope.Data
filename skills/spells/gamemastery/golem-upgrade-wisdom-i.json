@@ -5,7 +5,9 @@
         "skill": 1,
         "mana": 1
     },
-    "properties": {
-        "INTELLIGENCE": 4
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 4
+        }
     }
 }

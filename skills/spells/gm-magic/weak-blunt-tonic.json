@@ -6,7 +6,9 @@
         "mana": 100
     },
     "duration": "PT20M",
-    "skills": {
-        "bludgeon-defense": 20
+    "effects": {
+        "skills": {
+            "bludgeon-defense": 20
+        }
     }
 }

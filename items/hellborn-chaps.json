@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"hellborn-chaps","image":"cgh","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "hellborn-chaps",
+    "image": "cgh",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

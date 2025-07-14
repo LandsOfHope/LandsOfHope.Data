@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"stone-block","image":"gsb","type":"resource-stone-masonry","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "stone-block",
+    "image": "gsb",
+    "type": "resource-stone-masonry",
+    "material": "stone"
+}

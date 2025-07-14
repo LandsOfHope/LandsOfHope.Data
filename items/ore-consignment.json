@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"ore-consignment","image":"bx","type":"quest-item","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ore-consignment",
+    "image": "bx",
+    "type": "quest-item",
+    "material": "metal"
+}

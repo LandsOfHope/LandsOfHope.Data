@@ -5,5 +5,10 @@
         "skill": 2630,
         "mana": 526
     },
-    "duration": "PT50M"
+    "duration": "PT50M",
+    "effects": {
+        "summon-item": {
+            "item": "hellebore"
+        }
+    }
 }

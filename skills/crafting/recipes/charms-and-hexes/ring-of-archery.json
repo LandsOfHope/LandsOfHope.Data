@@ -1,1 +1,24 @@
-{"$type":"/v1/skills/crafting/recipe","id":"charms-and-hexes/ring-of-archery","item":"ring-of-archery","image":"rg4","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":550,"quality":"common","singleUse":true,"failureChance":60,"ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"blood-of-evil","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "charms-and-hexes/ring-of-archery",
+    "item": "ring-of-archery",
+    "image": "rg4",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "charms-and-hexes",
+    "skillValue": 550,
+    "quality": "common",
+    "singleUse": true,
+    "failureChance": 60,
+    "ingredients": [
+        {
+            "id": "gem",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "blood-of-evil",
+            "quantity": 1
+        }
+    ]
+}

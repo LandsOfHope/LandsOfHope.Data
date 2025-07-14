@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-severed-cuffs","image":"6836","type":"wrist-jewelry","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "blank-severed-cuffs",
+    "image": "6836",
+    "type": "wrist-jewelry",
+    "set": "inventor-severed-set",
+    "material": "hide",
+    "skill": "blood-over-beauty"
+}

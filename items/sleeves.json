@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"sleeves","image":"245","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "sleeves",
+    "image": "245",
+    "type": "arm-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

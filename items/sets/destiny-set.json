@@ -1,0 +1,24 @@
+{
+    "$type": "/v1/items/set",
+    "id": "destiny-set",
+    "image": "na.gif",
+    "color": "orange",
+    "spells": {
+        "0": {
+            "1": "destiny-i",
+            "100": "destiny-ii",
+            "200": "destiny-iii",
+            "300": "destiny-iv",
+            "400": "destiny-v",
+            "500": "destiny-vi",
+            "600": "destiny-vii",
+            "700": "destiny-viii",
+            "800": "destiny-ix",
+            "900": "destiny-x"
+        }
+    },
+    "items": [
+        "badge-of-destiny",
+        "glasses-of-destiny"
+    ]
+}

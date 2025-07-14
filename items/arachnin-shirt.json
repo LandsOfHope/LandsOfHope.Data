@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"arachnin-shirt","image":"5139","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "arachnin-shirt",
+    "image": "5139",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "expansion": "jurassic-wars",
+    "material": "cloth"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"nightsky-band-of-earth","image":"4963","type":"ring","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "nightsky-band-of-earth",
+    "image": "4963",
+    "type": "ring",
+    "material": "metal",
+    "skill": "earth-magic"
+}

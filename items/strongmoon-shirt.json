@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"strongmoon-shirt","image":"4699","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "strongmoon-shirt",
+    "image": "4699",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "legendary": true,
+    "set": "strongmoon-legend",
+    "material": "cloth"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"drum","image":"dm1","type":"ranged-weapon","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "drum",
+    "image": "dm1",
+    "type": "ranged-weapon",
+    "dpr": 2,
+    "material": "hide",
+    "skill": "instruments"
+}

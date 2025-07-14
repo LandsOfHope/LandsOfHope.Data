@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "close-combat",
     "name": {
         "en": "Close Combat"
     },
@@ -10,7 +12,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {
-        
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 2
     }
 }

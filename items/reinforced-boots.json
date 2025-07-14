@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"reinforced-boots","image":"2591","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "reinforced-boots",
+    "image": "2591",
+    "type": "foot-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

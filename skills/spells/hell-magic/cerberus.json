@@ -5,5 +5,11 @@
         "skill": 121,
         "mana": 121
     },
-    "duration": "PT20M"
+    "duration": "PT20M",
+    "effects": {
+        "summon-pet": {
+            "race": "cerberus",
+            "profession": "creature"
+        }
+    }
 }

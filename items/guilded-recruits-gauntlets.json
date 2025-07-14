@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-recruits-gauntlets","image":"gmgurega","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-recruits-gauntlets",
+    "image": "gmgurega",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

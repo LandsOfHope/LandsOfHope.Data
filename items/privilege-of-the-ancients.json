@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"privilege-of-the-ancients","image":"5888","type":"exile-symbol","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "privilege-of-the-ancients",
+    "image": "5888",
+    "type": "exile-symbol",
+    "expansion": "dragons-of-the-east",
+    "material": "gem"
+}

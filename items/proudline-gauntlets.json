@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"proudline-gauntlets","image":"4734","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "proudline-gauntlets",
+    "image": "4734",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "legendary": true,
+    "set": "proudline-legend",
+    "material": "metal"
+}

@@ -6,10 +6,12 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "detect-hidden": 100
-    },
-    "properties": {
-        "SPEED": 50
+    "effects": {
+        "properties": {
+            "SPEED": 50
+        },
+        "skills": {
+            "detect-hidden": 100
+        }
     }
 }

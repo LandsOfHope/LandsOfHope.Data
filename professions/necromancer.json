@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "necromancer",
     "name": {
         "en": "Necromancer"
     },
@@ -11,6 +13,14 @@
         "possession": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 1,
+        "SPEED": 1
     },
     "evo": {
         "dark-lord": 650

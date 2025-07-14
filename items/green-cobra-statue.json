@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"green-cobra-statue","image":"5875","type":"world-relic"}
+{
+    "$type": "/v1/item",
+    "id": "green-cobra-statue",
+    "image": "5875",
+    "type": "world-relic",
+    "expansion": "dragons-of-the-east"
+}

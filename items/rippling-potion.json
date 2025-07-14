@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"rippling-potion","image":"pe5","type":"ammo-weapons-potions","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "rippling-potion",
+    "image": "pe5",
+    "type": "ammo-weapons-potions",
+    "dpr": 90,
+    "material": "gem"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"battering-ram-head","image":"brh","type":"ram-ammo","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "battering-ram-head",
+    "image": "brh",
+    "type": "ram-ammo",
+    "material": "metal",
+    "skill": "siege-weapons"
+}

@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"strongmoon-gloves","image":"4696","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "strongmoon-gloves",
+    "image": "4696",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "legendary": true,
+    "set": "strongmoon-legend",
+    "material": "cloth"
+}

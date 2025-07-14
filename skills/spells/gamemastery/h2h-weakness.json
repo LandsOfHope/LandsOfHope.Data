@@ -5,7 +5,9 @@
         "skill": 53,
         "mana": 53
     },
-    "skills": {
-        "h2h-defense": -5000
+    "effects": {
+        "skills": {
+            "h2h-defense": -5000
+        }
     }
 }

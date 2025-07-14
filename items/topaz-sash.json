@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"topaz-sash","image":"5854","type":"stomach","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "topaz-sash",
+    "image": "5854",
+    "type": "stomach",
+    "expansion": "dragons-of-the-east",
+    "material": "cloth",
+    "skill": "topaz-flight"
+}

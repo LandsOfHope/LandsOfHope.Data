@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ravaged-shoulder-pads","image":"2752","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ravaged-shoulder-pads",
+    "image": "2752",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

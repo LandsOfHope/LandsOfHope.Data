@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"royal-hat","image":"3164","type":"head-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "royal-hat",
+    "image": "3164",
+    "type": "head-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"dried-deamon-shield","image":"sh2","type":"2-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "dried-deamon-shield",
+    "image": "sh2",
+    "type": "2-handed-equipment",
+    "dpr": 6,
+    "material": "wood",
+    "skill": "two-handed-shields"
+}

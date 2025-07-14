@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-stitched-legs","image":"6858","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "blank-stitched-legs",
+    "image": "6858",
+    "type": "leg-armour",
+    "set": "inventor-stitched-set",
+    "material": "hide",
+    "skill": "blood-over-beauty"
+}

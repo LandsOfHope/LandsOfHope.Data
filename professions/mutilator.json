@@ -1,13 +1,18 @@
 {
+    "$type": "/v1/profession",
+    "id": "mutilator",
     "name": {
         "en": "Mutilator"
     },
     "desc": {
-        "en": "The Multilator is a Tier III evolution from the Inventor Profession via Stitchworker > Flesh Dealer."
+        "en": "The Warmachine is a Tier III evolution from the Inventor Profession via Stitchworker > Flesh Dealer."
     },
     "skills": {
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 6,
+        "MAXSTAMINA": 8
+    }
 }

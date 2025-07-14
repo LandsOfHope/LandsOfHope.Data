@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "guild-promoter",
     "name": {
         "en": "Guild Promoter"
     },
@@ -9,5 +11,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 2,
+        "STRENGTH": 2
+    }
 }

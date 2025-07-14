@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-tanned-shoulders","image":"3869","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-tanned-shoulders",
+    "image": "3869",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

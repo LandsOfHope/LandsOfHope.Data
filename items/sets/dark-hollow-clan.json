@@ -1,0 +1,18 @@
+{
+    "$type": "/v1/items/set",
+    "id": "dark-hollow-clan",
+    "image": "na.gif",
+    "color": "cyan",
+    "spells": {
+        "0": {
+            "50": "dark-hollow-kindred"
+        }
+    },
+    "items": [
+        "mark-of-ariaxis",
+        "mantle-of-the-cursed",
+        "cloak-of-villainy",
+        "choker-of-villainy",
+        "crown-of-blood"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "dragonsblood",
+    "effects": {
+        "skills": {
+            "fire-resistance": 0.4,
+            "health-regen": 0.1
+        },
+        "properties": {
+            "MAXHITPOINTS": 0.4
+        }
+    }
+}

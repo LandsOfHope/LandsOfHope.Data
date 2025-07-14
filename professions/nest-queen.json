@@ -1,13 +1,19 @@
 {
+    "$type": "/v1/profession",
+    "id": "nest-queen",
     "name": {
         "en": "Nest Queen"
     },
     "desc": {
-        "en": ""
+        "en": "Nest Queen"
     },
     "skills": {
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 5,
+        "MAXHITPOINTS": 5,
+        "MAXSTAMINA": 5
+    }
 }

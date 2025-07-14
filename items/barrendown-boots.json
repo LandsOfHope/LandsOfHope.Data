@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"barrendown-boots","image":"5668","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "barrendown-boots",
+    "image": "5668",
+    "type": "foot-armour",
+    "armorType": "mail",
+    "legendary": true,
+    "set": "barrendown-legend",
+    "material": "metal"
+}

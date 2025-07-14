@@ -6,7 +6,9 @@
         "mana": 883
     },
     "duration": "PT770M",
-    "skills": {
-        "water-resistance": 456
+    "effects": {
+        "skills": {
+            "water-resistance": 456
+        }
     }
 }

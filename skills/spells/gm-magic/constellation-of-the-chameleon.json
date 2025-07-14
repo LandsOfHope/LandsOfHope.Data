@@ -6,10 +6,12 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "stealth": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 10
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 10
+        },
+        "skills": {
+            "stealth": 1
+        }
     }
 }

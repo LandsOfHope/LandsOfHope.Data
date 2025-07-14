@@ -1,0 +1,13 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-star-catcher",
+    "effects": {
+        "skills": {
+            "celestial-magic": 0.4
+        },
+        "properties": {
+            "INTELLIGENCE": 0.4,
+            "SPEED": 0.4
+        }
+    }
+}

@@ -43,6 +43,54 @@
         "drop": {
             "type": "object",
             "additionalProperties": false
+        },
+        "lock": {
+            "type": "object",
+            "additionalProperties": false
+        },
+        "unlock": {
+            "type": "object",
+            "additionalProperties": false
+        },
+        "split": {
+            "type": "object",
+            "additionalProperties": false
+        },
+        "uninscribe": {
+            "type": "object",
+            "additionalProperties": false
+        },
+        "adjust": {
+            "type": "object",
+            "properties": {
+                "host": {
+                    "enum": [
+                        "play"
+                    ]
+                },
+                "path": {
+                    "const": "fhextrai.asp"
+                },
+                "query": {
+                    "type": "object",
+                    "properties": {
+                        "ItemID": {
+                            "type": "integer",
+                            "minimum": 1
+                        }
+                    },
+                    "required": [
+                        "ItemID"
+                    ],
+                    "additionalProperties": false
+                }
+            },
+            "required": [
+                "host",
+                "path",
+                "query"
+            ],
+            "additionalProperties": false
         }
     },
     "additionalProperties": false

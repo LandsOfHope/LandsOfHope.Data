@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"infamous-axe","image":"ham","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "infamous-axe",
+    "image": "ham",
+    "type": "1-handed-equipment",
+    "dpr": 82,
+    "material": "metal",
+    "skill": "axes"
+}

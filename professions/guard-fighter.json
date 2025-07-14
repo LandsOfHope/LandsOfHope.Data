@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "guard-fighter",
     "name": {
         "en": "Guard Fighter"
     },
     "desc": {
-        "en": ""
+        "en": "Guard Fighter"
     },
     "skills": {
         "frenzy": 5,
@@ -12,5 +14,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 5,
+        "MAXSTAMINA": 4,
+        "SPEED": 1,
+        "STRENGTH": 4
+    }
 }

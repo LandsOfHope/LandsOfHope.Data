@@ -6,10 +6,12 @@
         "mana": 946
     },
     "duration": "PT5000M",
-    "skills": {
-        "attack-power": 120
-    },
-    "properties": {
-        "DEXTERITY": 130
+    "effects": {
+        "properties": {
+            "DEXTERITY": 130
+        },
+        "skills": {
+            "attack-power": 120
+        }
     }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"pleated-feetwarmers","image":"3106","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "pleated-feetwarmers",
+    "image": "3106",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -1,0 +1,30 @@
+{
+    "$type": "/v1/items/set",
+    "id": "inventor-basic-set",
+    "image": "na.gif",
+    "color": "gold",
+    "spells": {
+        "0": {
+            "10": "inventor-i",
+            "200": "inventor-ii",
+            "300": "inventor-iii",
+            "400": "inventor-iv",
+            "500": "inventor-v",
+            "600": "inventor-vi",
+            "700": "inventor-vii",
+            "800": "inventor-viii",
+            "900": "inventor-ix",
+            "1000": "inventor-x"
+        }
+    },
+    "items": [
+        "blank-shoulder-straps",
+        "blank-sleeve-coverings",
+        "blank-wrist-coating",
+        "blank-head-armor",
+        "blank-hand-protection",
+        "blank-footwear",
+        "blank-chest-guard",
+        "blank-leg-armor"
+    ]
+}

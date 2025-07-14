@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"long-ornate-bow","image":"bw2","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "long-ornate-bow",
+    "image": "bw2",
+    "type": "ranged-weapon",
+    "dpr": 32,
+    "material": "wood",
+    "skill": "bows"
+}

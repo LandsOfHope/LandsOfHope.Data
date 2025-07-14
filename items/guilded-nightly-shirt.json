@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-nightly-shirt","image":"3894","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-nightly-shirt",
+    "image": "3894",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

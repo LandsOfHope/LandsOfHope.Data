@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "knight",
     "name": {
         "en": "Knight"
     },
@@ -15,6 +17,12 @@
         "pole-weapons": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 3
     },
     "evo": {
         "paladin": 650

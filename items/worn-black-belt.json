@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"worn-black-belt","image":"bet","type":"stomach","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "worn-black-belt",
+    "image": "bet",
+    "type": "stomach",
+    "armorType": "cloth",
+    "material": "hide"
+}

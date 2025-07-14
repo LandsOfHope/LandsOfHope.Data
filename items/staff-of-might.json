@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"staff-of-might","image":"som","type":"2-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "staff-of-might",
+    "image": "som",
+    "type": "2-handed-equipment",
+    "dpr": 11,
+    "material": "wood",
+    "skill": "staves"
+}

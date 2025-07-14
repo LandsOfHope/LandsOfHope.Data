@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3430,
         "mana": 3430
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "dragon",
+            "profession": "wild-animal"
+        }
     }
 }

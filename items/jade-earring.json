@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"jade-earring","image":"5832","type":"ear-jewelry","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "jade-earring",
+    "image": "5832",
+    "type": "ear-jewelry",
+    "expansion": "dragons-of-the-east",
+    "material": "gem"
+}

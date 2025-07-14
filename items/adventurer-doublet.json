@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"adventurer-doublet","image":"2820","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "adventurer-doublet",
+    "image": "2820",
+    "type": "chest-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

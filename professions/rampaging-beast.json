@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "rampaging-beast",
     "name": {
         "en": "Rampaging Beast"
     },
@@ -13,5 +15,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 4,
+        "STRENGTH": 4
+    }
 }

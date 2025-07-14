@@ -5,5 +5,11 @@
         "skill": 841,
         "mana": 841
     },
-    "duration": "PT40M"
+    "duration": "PT40M",
+    "effects": {
+        "summon-pet": {
+            "race": "water-wisp",
+            "profession": "energy-mage"
+        }
+    }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"thermal-bullet","image":"zuthbu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "thermal-bullet",
+    "image": "zuthbu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 99,
+    "material": "metal"
+}

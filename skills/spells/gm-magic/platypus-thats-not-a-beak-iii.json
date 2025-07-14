@@ -6,7 +6,9 @@
         "mana": 638
     },
     "duration": "PT5000M",
-    "skills": {
-        "damage-absorption": 400
+    "effects": {
+        "skills": {
+            "damage-absorption": 400
+        }
     }
 }

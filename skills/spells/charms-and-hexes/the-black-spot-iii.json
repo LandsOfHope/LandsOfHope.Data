@@ -6,7 +6,9 @@
         "mana": 1950
     },
     "duration": "PT4M",
-    "properties": {
-        "MAXHITPOINTS": -750
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": -750
+        }
     }
 }

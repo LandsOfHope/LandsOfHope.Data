@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"inferno-bolt","image":"arr1","type":"ammo-weapons-crossbows","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "inferno-bolt",
+    "image": "arr1",
+    "type": "ammo-weapons-crossbows",
+    "dpr": 90,
+    "material": "wood"
+}

@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 1774,
         "mana": 1774
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "human",
+            "profession": "healer"
+        }
     }
 }

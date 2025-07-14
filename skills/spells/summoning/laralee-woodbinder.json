@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3752,
         "mana": 3752
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "elf",
+            "profession": "cloth-goods-vendor"
+        }
     }
 }

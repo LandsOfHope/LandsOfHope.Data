@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "gift-vendor",
     "name": {
         "en": "Gift Vendor"
     },
@@ -16,5 +18,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1,
+        "SPEED": 1
+    }
 }

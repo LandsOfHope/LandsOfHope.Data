@@ -5,5 +5,10 @@
         "skill": 2380,
         "mana": 476
     },
-    "duration": "PT50M"
+    "duration": "PT50M",
+    "effects": {
+        "summon-item": {
+            "item": "bloodroot"
+        }
+    }
 }

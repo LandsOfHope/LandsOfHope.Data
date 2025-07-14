@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-footman-pauldrons","image":"3794","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-footman-pauldrons",
+    "image": "3794",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

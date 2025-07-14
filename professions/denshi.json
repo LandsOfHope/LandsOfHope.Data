@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "denshi",
     "name": {
         "en": "Denshi"
     },
@@ -12,6 +14,12 @@
         "armor": 5,
         "attack-power": 5,
         "targeted-combat": 5
+    },
+    "properties": {
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 3,
+        "SPEED": 2,
+        "STRENGTH": 3
     },
     "evo": {
         "ninja": 650

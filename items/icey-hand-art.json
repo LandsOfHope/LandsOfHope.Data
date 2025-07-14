@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"icey-hand-art","image":"6230","type":"2-handed-equipment","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "icey-hand-art",
+    "image": "6230",
+    "type": "2-handed-equipment",
+    "dpr": 72,
+    "material": "color",
+    "skill": "martial-arts"
+}

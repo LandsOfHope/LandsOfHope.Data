@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dungeonseeker-headband","image":"4952","type":"forehead","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "dungeonseeker-headband",
+    "image": "4952",
+    "type": "forehead",
+    "armorType": "cloth",
+    "material": "hide"
+}

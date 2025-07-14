@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"charms-and-hexes/delicious-apple","item":"delicious-apple","image":"6171","time":"PT15S","quantity":5,"skill":"charms-and-hexes","skillValue":5,"quality":"common","ingredients":[{"id":"fruit","quantity":2,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "charms-and-hexes/delicious-apple",
+    "item": "delicious-apple",
+    "image": "6171",
+    "time": "PT15S",
+    "quantity": 5,
+    "skill": "charms-and-hexes",
+    "skillValue": 5,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "fruit",
+            "quantity": 2,
+            "primary": true
+        }
+    ]
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"magic-carpet","image":"6554","type":"wings","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "magic-carpet",
+    "image": "6554",
+    "type": "wings",
+    "expansion": "dark-depths",
+    "material": "hide"
+}

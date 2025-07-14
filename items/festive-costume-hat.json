@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"festive-costume-hat","image":"shat","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "festive-costume-hat",
+    "image": "shat",
+    "type": "head-armour",
+    "set": "festive-costume",
+    "material": "hide"
+}

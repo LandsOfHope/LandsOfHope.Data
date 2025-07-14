@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-reinforced-legchain","image":"3744","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-reinforced-legchain",
+    "image": "3744",
+    "type": "leg-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

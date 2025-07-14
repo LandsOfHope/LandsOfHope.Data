@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "tinkering-ring-band",
+    "item": "ring-enhancement",
+    "skillValue": 1175,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "tinkering": 0.8
+        }
+    }
+}

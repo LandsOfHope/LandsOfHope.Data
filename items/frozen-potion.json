@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"frozen-potion","image":"pe5","type":"ammo-weapons-potions","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "frozen-potion",
+    "image": "pe5",
+    "type": "ammo-weapons-potions",
+    "dpr": 65,
+    "material": "gem"
+}

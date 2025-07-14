@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"chilled-bullet","image":"zuchbu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "chilled-bullet",
+    "image": "zuchbu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 89,
+    "material": "metal"
+}

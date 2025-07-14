@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "veteran",
     "name": {
         "en": "Veteran"
     },
@@ -16,5 +18,12 @@
         "dual-wielding": 5,
         "armor": 10,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 1,
+        "STRENGTH": 4
     }
 }

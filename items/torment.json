@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"torment","image":"3214","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "torment",
+    "image": "3214",
+    "type": "ranged-weapon",
+    "dpr": 120,
+    "material": "wood",
+    "skill": "thrown-weapons"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"sabretooth-training-saddle","image":"5130","type":"training-saddle","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "sabretooth-training-saddle",
+    "image": "5130",
+    "type": "training-saddle",
+    "expansion": "jurassic-wars",
+    "material": "gem"
+}

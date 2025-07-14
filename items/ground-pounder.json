@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"ground-pounder","image":"st1","type":"2-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "ground-pounder",
+    "image": "st1",
+    "type": "2-handed-equipment",
+    "dpr": 9,
+    "material": "gem",
+    "skill": "staves"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ashen-bullet","image":"zuasbu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ashen-bullet",
+    "image": "zuasbu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 32,
+    "material": "metal"
+}

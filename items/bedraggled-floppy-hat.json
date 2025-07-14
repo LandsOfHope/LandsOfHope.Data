@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"bedraggled-floppy-hat","image":"bfh","type":"head-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "bedraggled-floppy-hat",
+    "image": "bfh",
+    "type": "head-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

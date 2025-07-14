@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "despicable-one",
     "name": {
         "en": "Despicable One"
     },
@@ -13,5 +15,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 2,
+        "STRENGTH": 2
+    }
 }

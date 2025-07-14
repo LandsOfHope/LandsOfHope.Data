@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"lightning-hands","image":"6332","type":"2-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "lightning-hands",
+    "image": "6332",
+    "type": "2-handed-equipment",
+    "dpr": 10,
+    "material": "metal",
+    "skill": "martial-arts"
+}

@@ -5,5 +5,11 @@
         "skill": 997,
         "mana": 997
     },
-    "duration": "PT50M"
+    "duration": "PT50M",
+    "effects": {
+        "summon-pet": {
+            "race": "nightmare",
+            "profession": "creature"
+        }
+    }
 }

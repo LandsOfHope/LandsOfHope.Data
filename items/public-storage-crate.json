@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"public-storage-crate","image":"bx2","type":"public-storage-box","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "public-storage-crate",
+    "image": "bx2",
+    "type": "public-storage-box",
+    "material": "wood"
+}

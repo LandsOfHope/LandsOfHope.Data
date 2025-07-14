@@ -6,10 +6,12 @@
         "mana": 355
     },
     "duration": "PT14000M",
-    "skills": {
-        "defensive-magic": 178
-    },
-    "properties": {
-        "MAXMANA": 178
+    "effects": {
+        "properties": {
+            "MAXMANA": 178
+        },
+        "skills": {
+            "defensive-magic": 178
+        }
     }
 }

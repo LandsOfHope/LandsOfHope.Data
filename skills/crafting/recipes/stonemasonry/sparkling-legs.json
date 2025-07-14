@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"stonemasonry/sparkling-legs","item":"sparkling-legs","image":"576","time":"PT15S","quantity":1,"skill":"stonemasonry","skillValue":500,"quality":"common","ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"stone-block","quantity":3},{"id":"masons-tools","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "stonemasonry/sparkling-legs",
+    "item": "sparkling-legs",
+    "image": "576",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "stonemasonry",
+    "skillValue": 500,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "gem",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "stone-block",
+            "quantity": 3
+        },
+        {
+            "id": "masons-tools",
+            "quantity": 0
+        }
+    ]
+}

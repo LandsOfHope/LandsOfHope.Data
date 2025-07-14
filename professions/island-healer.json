@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "island-healer",
     "name": {
         "en": "Island Healer"
     },
     "desc": {
-        "en": ""
+        "en": "Found in the Pirate Expansion."
     },
     "skills": {
         "healing-magic": 5,
@@ -11,5 +13,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 3
+    }
 }

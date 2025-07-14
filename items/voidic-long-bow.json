@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"voidic-long-bow","image":"gmvolobo","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "voidic-long-bow",
+    "image": "gmvolobo",
+    "type": "ranged-weapon",
+    "dpr": 10,
+    "material": "wood",
+    "skill": "bows"
+}

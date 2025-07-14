@@ -1,1 +1,24 @@
-{"$type":"/v1/skills/crafting/recipe","id":"charms-and-hexes/ring-of-accuracy","item":"ring-of-accuracy","image":"rg1","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":475,"quality":"common","singleUse":true,"failureChance":60,"ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"midnight-flower","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "charms-and-hexes/ring-of-accuracy",
+    "item": "ring-of-accuracy",
+    "image": "rg1",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "charms-and-hexes",
+    "skillValue": 475,
+    "quality": "common",
+    "singleUse": true,
+    "failureChance": 60,
+    "ingredients": [
+        {
+            "id": "gem",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "midnight-flower",
+            "quantity": 1
+        }
+    ]
+}

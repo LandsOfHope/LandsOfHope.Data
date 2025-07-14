@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "clawstriker",
     "name": {
         "en": "Clawstriker"
     },
@@ -11,5 +13,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 2
+    }
 }

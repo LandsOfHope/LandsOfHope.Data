@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "island-brute",
     "name": {
         "en": "Island Brute"
     },
     "desc": {
-        "en": ""
+        "en": "Found in the Pirate Expansion."
     },
     "skills": {
         "frenzy": 5,
@@ -12,5 +14,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 3
+    }
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-head-armor","image":"6811","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blank-head-armor",
+    "image": "6811",
+    "type": "head-armour",
+    "set": "inventor-basic-set",
+    "material": "metal",
+    "skill": "augmenting"
+}

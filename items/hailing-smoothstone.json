@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"hailing-smoothstone","image":"sms","type":"ammo-weapons-rocks","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "hailing-smoothstone",
+    "image": "sms",
+    "type": "ammo-weapons-rocks",
+    "dpr": 77,
+    "material": "stone"
+}

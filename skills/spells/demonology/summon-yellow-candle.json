@@ -4,5 +4,10 @@
     "requirements": {
         "skill": 4300,
         "mana": 250
+    },
+    "effects": {
+        "summon-item": {
+            "item": "yellow-candle"
+        }
     }
 }

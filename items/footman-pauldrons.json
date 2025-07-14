@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"footman-pauldrons","image":"2476","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "footman-pauldrons",
+    "image": "2476",
+    "type": "shoulders",
+    "armorType": "plate",
+    "material": "metal"
+}

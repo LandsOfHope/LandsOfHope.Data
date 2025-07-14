@@ -1,1 +1,6 @@
-{"$type":"/v1/vessel-item","id":"flying-jib","image":"jib2","type":"vessel-fore-mast"}
+{
+    "$type": "/v1/vessel-item",
+    "id": "flying-jib",
+    "image": "jib2",
+    "type": "vessel-fore-mast"
+}

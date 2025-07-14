@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "fistfury",
     "name": {
         "en": "Fistfury"
     },
@@ -14,5 +16,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 3,
+        "STRENGTH": 1
+    }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"morganas-earring","image":"6924","type":"ear-jewelry","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "morganas-earring",
+    "image": "6924",
+    "type": "ear-jewelry",
+    "set": "arthurian-set",
+    "material": "gem"
+}

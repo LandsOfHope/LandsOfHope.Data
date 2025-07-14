@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"tailoring/ornate-handle","item":"ornate-handle","image":"feorha","time":"PT15S","quantity":1,"skill":"tailoring","skillValue":5,"quality":"common","ingredients":[{"id":"hide","quantity":2,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "tailoring/ornate-handle",
+    "item": "ornate-handle",
+    "image": "feorha",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "tailoring",
+    "skillValue": 5,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "hide",
+            "quantity": 2,
+            "primary": true
+        }
+    ]
+}

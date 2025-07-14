@@ -6,10 +6,12 @@
         "mana": 493
     },
     "duration": "PT14000M",
-    "skills": {
-        "energy-resistance": 247
-    },
-    "properties": {
-        "INTELLIGENCE": 247
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 247
+        },
+        "skills": {
+            "energy-resistance": 247
+        }
     }
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"dragonflyer-shoulders","image":"5136","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "dragonflyer-shoulders",
+    "image": "5136",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "expansion": "jurassic-wars",
+    "material": "cloth"
+}

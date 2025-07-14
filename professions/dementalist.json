@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "dementalist",
     "name": {
         "en": "Dementalist"
     },
@@ -13,7 +15,12 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {
-        
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 5,
+        "MAXMANA": 6,
+        "MAXSTAMINA": 2,
+        "SPEED": 2
     }
 }

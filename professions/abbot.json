@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "abbot",
     "name": {
         "en": "Abbot"
     },
@@ -16,5 +18,13 @@
         "attack-power": 5,
         "martial-arts": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 1,
+        "SPEED": 1,
+        "STRENGTH": 2
+    }
 }

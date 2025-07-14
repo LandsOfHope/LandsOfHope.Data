@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"corpsemaker","image":"zucoma","type":"1-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "corpsemaker",
+    "image": "zucoma",
+    "type": "1-handed-equipment",
+    "dpr": 5,
+    "material": "gem",
+    "skill": "daggers"
+}

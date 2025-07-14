@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"elven-spear","image":"acs","type":"2-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "elven-spear",
+    "image": "acs",
+    "type": "2-handed-equipment",
+    "dpr": 3,
+    "material": "wood",
+    "skill": "thrown-weapons"
+}

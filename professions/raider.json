@@ -1,15 +1,23 @@
 {
+    "$type": "/v1/profession",
+    "id": "raider",
     "name": {
         "en": "Raider"
     },
     "desc": {
-        "en": "The Raider is a Tier II evolution from the Buccaneer Profession."
+        "en": "The Adept is a Tier II evolution from the Buccaneer Profession."
     },
     "skills": {
         "armor": 5,
         "attack-power": 5
     },
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 3
+    },
     "evo": {
-        "pirate": 650 
+        "pirate": 650
     }
 }

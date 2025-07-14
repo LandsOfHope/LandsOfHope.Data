@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"cooking/acid-defense-supplement","item":"acid-defense-supplement","image":"c2k","time":"PT15S","quantity":1,"skill":"cooking","skillValue":4300,"quality":"common","ingredients":[{"id":"grain","quantity":6,"primary":true},{"id":"flour","quantity":2},{"id":"bowl","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "cooking/acid-defense-supplement",
+    "item": "acid-defense-supplement",
+    "image": "c2k",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "cooking",
+    "skillValue": 4300,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "flour",
+            "quantity": 2
+        },
+        {
+            "id": "bowl",
+            "quantity": 0
+        },
+        {
+            "id": "grain",
+            "quantity": 6,
+            "primary": true
+        }
+    ]
+}

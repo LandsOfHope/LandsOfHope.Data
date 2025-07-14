@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"patchcrafting/mantrap-blossom-patch","item":"mantrap-blossom-patch","image":"gmmablpa","time":"PT15S","quantity":1,"skill":"patchcrafting","skillValue":4750,"quality":"uncommon","ingredients":[{"id":"prepared-hide","quantity":1,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "patchcrafting/mantrap-blossom-patch",
+    "item": "mantrap-blossom-patch",
+    "image": "gmmablpa",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "patchcrafting",
+    "skillValue": 4750,
+    "quality": "uncommon",
+    "ingredients": [
+        {
+            "id": "prepared-hide",
+            "quantity": 1,
+            "primary": true
+        }
+    ]
+}

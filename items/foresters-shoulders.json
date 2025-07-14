@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"foresters-shoulders","image":"3008","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "foresters-shoulders",
+    "image": "3008",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"spiked-shoulders","image":"sss","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "spiked-shoulders",
+    "image": "sss",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

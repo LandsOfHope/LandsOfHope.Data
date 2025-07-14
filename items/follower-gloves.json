@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"follower-gloves","image":"3127","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "follower-gloves",
+    "image": "3127",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

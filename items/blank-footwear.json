@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-footwear","image":"6813","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blank-footwear",
+    "image": "6813",
+    "type": "foot-armour",
+    "set": "inventor-basic-set",
+    "material": "metal",
+    "skill": "augmenting"
+}

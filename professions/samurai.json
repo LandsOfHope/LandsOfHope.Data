@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "samurai",
     "name": {
         "en": "Samurai"
     },
@@ -13,6 +15,12 @@
         "armor": 5,
         "attack-power": 5,
         "way-of-the-warrior": 5
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 3
     },
     "evo": {
         "shogun": 650

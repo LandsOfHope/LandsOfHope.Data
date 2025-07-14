@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"blank-frankenstein-arms","image":"6947","type":"arm-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "blank-frankenstein-arms",
+    "image": "6947",
+    "type": "arm-armour",
+    "legendary": true,
+    "set": "frankenstein",
+    "material": "hide",
+    "skill": "blood-over-beauty"
+}

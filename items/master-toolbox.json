@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"master-toolbox","image":"bx5","type":"bag","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "master-toolbox",
+    "image": "bx5",
+    "type": "bag",
+    "material": "wood",
+    "skill": "artisan"
+}

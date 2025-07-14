@@ -6,7 +6,9 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "geology": 51
+    "effects": {
+        "skills": {
+            "geology": 51
+        }
     }
 }

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "treasurer",
     "name": {
         "en": "Treasurer"
     },
@@ -9,5 +11,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 2
+    }
 }

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"deep-magmite-samples","image":"ore","type":"quest-item","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "deep-magmite-samples",
+    "image": "ore",
+    "type": "quest-item",
+    "material": "metal"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cloak-of-provender","image":"c3p","type":"neck-clothing","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "cloak-of-provender",
+    "image": "c3p",
+    "type": "neck-clothing",
+    "armorType": "cloth",
+    "material": "cloth"
+}

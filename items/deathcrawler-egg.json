@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"deathcrawler-egg","image":"zudeeg","type":"monster-spawner","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "deathcrawler-egg",
+    "image": "zudeeg",
+    "type": "monster-spawner",
+    "material": "gem",
+    "skill": "dark-hollow-clan"
+}

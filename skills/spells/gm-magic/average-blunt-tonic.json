@@ -6,7 +6,9 @@
         "mana": 1050
     },
     "duration": "PT210M",
-    "skills": {
-        "bludgeon-defense": 210
+    "effects": {
+        "skills": {
+            "bludgeon-defense": 210
+        }
     }
 }

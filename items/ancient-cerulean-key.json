@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ancient-cerulean-key","image":"6467","type":"portal","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-cerulean-key",
+    "image": "6467",
+    "type": "portal",
+    "expansion": "dark-depths",
+    "material": "metal"
+}

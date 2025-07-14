@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ravaged-vest","image":"2565","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ravaged-vest",
+    "image": "2565",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

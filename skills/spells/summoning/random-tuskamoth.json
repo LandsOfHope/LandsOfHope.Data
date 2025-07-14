@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 992,
         "mana": 992
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "tuskamoth",
+            "profession": "wild-animal"
+        }
     }
 }

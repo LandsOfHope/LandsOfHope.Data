@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"floristry/love-flower-arrangement","item":"love-flower-arrangement","image":"5803","time":"PT15S","quantity":1,"skill":"floristry","skillValue":250,"quality":"common","ingredients":[{"id":"flower-pot","quantity":1,"primary":true},{"id":"sasha-flower","quantity":1},{"id":"errant-mist","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "floristry/love-flower-arrangement",
+    "item": "love-flower-arrangement",
+    "image": "5803",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "floristry",
+    "skillValue": 250,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "sasha-flower",
+            "quantity": 1
+        },
+        {
+            "id": "errant-mist",
+            "quantity": 1
+        },
+        {
+            "id": "flower-pot",
+            "quantity": 1,
+            "primary": true
+        }
+    ]
+}

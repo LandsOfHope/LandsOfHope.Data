@@ -1,1 +1,6 @@
-{"$type":"/v1/vessel-item","id":"reinforced-hull","image":"hull1","type":"vessel-hull"}
+{
+    "$type": "/v1/vessel-item",
+    "id": "reinforced-hull",
+    "image": "hull1",
+    "type": "vessel-hull"
+}

@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-strong-ones",
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 0.5,
+            "STRENGTH": 0.5
+        }
+    }
+}

@@ -6,10 +6,12 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "damage-absorption": 6
-    },
-    "properties": {
-        "MAXSTAMINA": 10
+    "effects": {
+        "properties": {
+            "MAXSTAMINA": 10
+        },
+        "skills": {
+            "damage-absorption": 6
+        }
     }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"a-higher-evolution-room-key","image":"6774","type":"key","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "a-higher-evolution-room-key",
+    "image": "6774",
+    "type": "key",
+    "material": "metal",
+    "skill": "augmenting"
+}

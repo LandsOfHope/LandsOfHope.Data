@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 1,
         "mana": 1
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "wisp",
+            "profession": "creature"
+        }
     }
 }

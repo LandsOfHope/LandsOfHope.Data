@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-trackers-boots","image":"3832","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-trackers-boots",
+    "image": "3832",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

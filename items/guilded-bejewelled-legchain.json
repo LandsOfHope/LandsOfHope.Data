@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-bejewelled-legchain","image":"3742","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-bejewelled-legchain",
+    "image": "3742",
+    "type": "leg-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

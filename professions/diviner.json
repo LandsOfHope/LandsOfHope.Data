@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "diviner",
     "name": {
         "en": "Diviner"
     },
@@ -11,6 +13,14 @@
         "warding": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 1,
+        "SPEED": 1
     },
     "evo": {
         "warden": 350

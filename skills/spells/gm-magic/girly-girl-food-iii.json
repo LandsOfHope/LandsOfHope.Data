@@ -7,7 +7,9 @@
         "mana": 3
     },
     "duration": "PT303M",
-    "skills": {
-        "cooking": 240
+    "effects": {
+        "skills": {
+            "cooking": 240
+        }
     }
 }

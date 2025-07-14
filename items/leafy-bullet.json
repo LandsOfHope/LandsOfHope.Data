@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"leafy-bullet","image":"4153","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "leafy-bullet",
+    "image": "4153",
+    "type": "ammo-weapons-bullets",
+    "dpr": 35,
+    "material": "metal"
+}

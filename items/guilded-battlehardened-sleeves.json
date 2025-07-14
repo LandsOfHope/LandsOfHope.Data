@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-battlehardened-sleeves","image":"3787","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-battlehardened-sleeves",
+    "image": "3787",
+    "type": "arm-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"frostvale-shoulders","image":"zufrsh","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "frostvale-shoulders",
+    "image": "zufrsh",
+    "type": "shoulders",
+    "armorType": "leather",
+    "legendary": true,
+    "set": "frostvale-legend",
+    "material": "hide"
+}

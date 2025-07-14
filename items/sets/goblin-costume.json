@@ -1,0 +1,19 @@
+{
+    "$type": "/v1/items/set",
+    "id": "goblin-costume",
+    "image": "na.gif",
+    "color": "green",
+    "spells": {
+        "0": {
+            "0": "goblin-costume-disguise"
+        }
+    },
+    "items": [
+        "goblin-costume-gloves",
+        "goblin-costume-trousers",
+        "goblin-costume-shirt",
+        "goblin-costume-boots",
+        "goblin-costume-hat",
+        "goblin-costume-belt"
+    ]
+}

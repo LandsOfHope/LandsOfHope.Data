@@ -6,10 +6,12 @@
         "mana": 106
     },
     "duration": "PT14000M",
-    "skills": {
-        "healing-magic": 54
-    },
-    "properties": {
-        "INTELLIGENCE": 54
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 54
+        },
+        "skills": {
+            "healing-magic": 54
+        }
     }
 }

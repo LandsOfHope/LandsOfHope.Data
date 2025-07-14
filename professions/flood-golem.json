@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "flood-golem",
     "name": {
         "en": "Flood Golem"
     },
     "desc": {
-        "en": ""
+        "en": "Flood Golem Pet Class"
     },
     "skills": {
         "water-magic": 5,
@@ -12,5 +14,7 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 0
+    }
 }

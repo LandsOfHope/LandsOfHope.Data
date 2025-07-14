@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3706,
         "mana": 3706
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "barbegazi",
+            "profession": "healer"
+        }
     }
 }

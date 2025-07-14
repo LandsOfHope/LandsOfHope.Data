@@ -6,10 +6,12 @@
         "mana": 50
     },
     "duration": "PT50000M",
-    "skills": {
-        "divine-fury": 600
-    },
-    "properties": {
-        "MAXSTAMINA": 600
+    "effects": {
+        "properties": {
+            "MAXSTAMINA": 600
+        },
+        "skills": {
+            "divine-fury": 600
+        }
     }
 }

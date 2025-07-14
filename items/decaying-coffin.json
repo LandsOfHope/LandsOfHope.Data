@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"decaying-coffin","image":"cof2","type":"stealing-loot","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "decaying-coffin",
+    "image": "cof2",
+    "type": "stealing-loot",
+    "material": "wood"
+}

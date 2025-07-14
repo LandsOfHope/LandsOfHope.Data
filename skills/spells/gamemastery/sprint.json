@@ -6,7 +6,9 @@
         "mana": 789
     },
     "duration": "PT300M",
-    "properties": {
-        "SPEED": 395
+    "effects": {
+        "properties": {
+            "SPEED": 395
+        }
     }
 }

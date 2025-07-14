@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"fish","image":"fis","type":"fish","material":"fish"}
+{
+    "$type": "/v1/item",
+    "id": "fish",
+    "image": "fis",
+    "type": "fish",
+    "material": "fish"
+}

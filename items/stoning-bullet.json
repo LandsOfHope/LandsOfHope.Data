@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"stoning-bullet","image":"zustbu2","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "stoning-bullet",
+    "image": "zustbu2",
+    "type": "ammo-weapons-bullets",
+    "dpr": 60,
+    "material": "metal"
+}

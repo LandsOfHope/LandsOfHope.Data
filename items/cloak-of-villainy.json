@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"cloak-of-villainy","image":"zufec","type":"neck-clothing","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "cloak-of-villainy",
+    "image": "zufec",
+    "type": "neck-clothing",
+    "armorType": "cloth",
+    "set": "dark-hollow-clan",
+    "material": "gem",
+    "skill": "dark-hollow-clan"
+}

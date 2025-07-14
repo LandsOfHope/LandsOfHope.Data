@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"wurm-ribbed-gloves","image":"5813","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "wurm-ribbed-gloves",
+    "image": "5813",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "expansion": "dragons-of-the-east",
+    "material": "hide"
+}

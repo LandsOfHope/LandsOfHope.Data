@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"poisoned-arrow","image":"arrp","type":"ammo-weapons-bows","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "poisoned-arrow",
+    "image": "arrp",
+    "type": "ammo-weapons-bows",
+    "dpr": 8,
+    "material": "wood"
+}

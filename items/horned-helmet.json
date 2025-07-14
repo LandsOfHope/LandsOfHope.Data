@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"horned-helmet","image":"247","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "horned-helmet",
+    "image": "247",
+    "type": "head-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

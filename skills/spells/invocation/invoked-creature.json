@@ -5,5 +5,11 @@
         "skill": 250,
         "mana": 250
     },
-    "duration": "PT25M"
+    "duration": "PT25M",
+    "effects": {
+        "summon-pet": {
+            "race": "angel",
+            "profession": "creature"
+        }
+    }
 }

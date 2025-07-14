@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"kurts-swashbuckling-sash","image":"5514","type":"stomach","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "kurts-swashbuckling-sash",
+    "image": "5514",
+    "type": "stomach",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "hide",
+    "skill": "pirate-league"
+}

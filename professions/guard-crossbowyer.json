@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "guard-crossbowyer",
     "name": {
         "en": "Guard Crossbowyer"
     },
     "desc": {
-        "en": ""
+        "en": "Guard Crossbowyer"
     },
     "skills": {
         "daggers": 5,
@@ -12,5 +14,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 4,
+        "SPEED": 3,
+        "STRENGTH": 3
+    }
 }

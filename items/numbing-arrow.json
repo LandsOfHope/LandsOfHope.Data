@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"numbing-arrow","image":"arr1","type":"ammo-weapons-bows","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "numbing-arrow",
+    "image": "arr1",
+    "type": "ammo-weapons-bows",
+    "dpr": 80,
+    "material": "wood"
+}

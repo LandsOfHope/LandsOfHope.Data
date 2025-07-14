@@ -1,1 +1,6 @@
-{"$type":"/v1/vessel-item","id":"plain-sails","image":"zusplas","type":"vessel-sail"}
+{
+    "$type": "/v1/vessel-item",
+    "id": "plain-sails",
+    "image": "zusplas",
+    "type": "vessel-sail"
+}

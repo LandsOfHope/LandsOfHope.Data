@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-battlehardened-coif","image":"3776","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-battlehardened-coif",
+    "image": "3776",
+    "type": "head-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

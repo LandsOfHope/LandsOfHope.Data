@@ -6,7 +6,9 @@
         "mana": 4873
     },
     "duration": "PT75M",
-    "skills": {
-        "invoking-resistance": 490
+    "effects": {
+        "skills": {
+            "invoking-resistance": 490
+        }
     }
 }

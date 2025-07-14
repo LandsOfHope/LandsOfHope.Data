@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "alien-curer",
     "name": {
         "en": "Alien Curer"
     },
@@ -13,5 +15,12 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 7,
+        "MAXMANA": 3,
+        "MAXSTAMINA": 4,
+        "SPEED": 3,
+        "STRENGTH": 1
+    }
 }

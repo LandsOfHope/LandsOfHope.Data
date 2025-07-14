@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"cooking/eyeball-soup","item":"eyeball-soup","image":"sou","time":"PT15S","quantity":1,"skill":"cooking","skillValue":4300,"quality":"common","ingredients":[{"id":"meat","quantity":5,"primary":true},{"id":"vegetable","quantity":1},{"id":"small-stove","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "cooking/eyeball-soup",
+    "item": "eyeball-soup",
+    "image": "sou",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "cooking",
+    "skillValue": 4300,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "vegetable",
+            "quantity": 1
+        },
+        {
+            "id": "meat",
+            "quantity": 5,
+            "primary": true
+        },
+        {
+            "id": "small-stove",
+            "quantity": 0
+        }
+    ]
+}

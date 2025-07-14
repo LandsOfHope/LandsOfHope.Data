@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"reinforced-chestplate","image":"2250","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "reinforced-chestplate",
+    "image": "2250",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

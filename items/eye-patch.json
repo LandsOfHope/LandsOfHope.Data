@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"eye-patch","image":"eyp","type":"forehead","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "eye-patch",
+    "image": "eyp",
+    "type": "forehead",
+    "armorType": "cloth",
+    "material": "cloth"
+}

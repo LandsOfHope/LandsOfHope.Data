@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/items/enhancements/item-patch",
+    "id": "magnificent-fury-patch",
+    "effects": {
+        "skills": {
+            "attack-power": 0.35
+        }
+    }
+}

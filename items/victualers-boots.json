@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"victualers-boots","image":"bot","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "victualers-boots",
+    "image": "bot",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

@@ -1,0 +1,18 @@
+{
+    "$type": "/v1/items/set",
+    "id": "myzan-defenders",
+    "image": "na.gif",
+    "color": "cyan",
+    "spells": {
+        "0": {
+            "50": "myzan-defender-dedication"
+        }
+    },
+    "items": [
+        "mark-of-proudhorn",
+        "belt-of-the-blessed",
+        "cape-of-heroics",
+        "necklace-of-heroics",
+        "crown-of-glory"
+    ]
+}

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "supreme-dungeon-master",
     "name": {
         "en": "Supreme Dungeon Master"
     },
@@ -18,7 +20,6 @@
         "water-resistance": 5,
         "poison-resistance": 5,
         "earth-resistance": 5,
-        "terror": 5,
         "bladed-defense": 5,
         "projectile-defense": 5,
         "h2h-defense": 5,
@@ -31,5 +32,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 4,
+        "SPEED": 1,
+        "STRENGTH": 4
+    }
 }

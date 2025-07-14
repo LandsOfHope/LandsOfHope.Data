@@ -1,0 +1,30 @@
+{
+    "$type": "/v1/items/set",
+    "id": "inventor-riveted-set",
+    "image": "na.gif",
+    "color": "gold",
+    "spells": {
+        "0": {
+            "10": "riveted-i",
+            "200": "riveted-ii",
+            "300": "riveted-iii",
+            "400": "riveted-iv",
+            "500": "riveted-v",
+            "600": "riveted-vi",
+            "700": "riveted-vii",
+            "800": "riveted-viii",
+            "900": "riveted-ix",
+            "1000": "riveted-x"
+        }
+    },
+    "items": [
+        "blank-riveted-shoulders",
+        "blank-riveted-arms",
+        "blank-riveted-cuffs",
+        "blank-riveted-helmet",
+        "blank-riveted-gloves",
+        "blank-riveted-boots",
+        "blank-riveted-chestpiece",
+        "blank-riveted-legs"
+    ]
+}

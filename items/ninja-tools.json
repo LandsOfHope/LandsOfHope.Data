@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"ninja-tools","image":"6401","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ninja-tools",
+    "image": "6401",
+    "type": "1-handed-equipment",
+    "expansion": "dragons-of-the-east",
+    "material": "metal",
+    "skill": "parlor-tricks"
+}

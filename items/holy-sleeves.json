@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"holy-sleeves","image":"gmhosl","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "holy-sleeves",
+    "image": "gmhosl",
+    "type": "arm-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

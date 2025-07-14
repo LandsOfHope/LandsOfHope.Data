@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "tile-trophy-npc",
     "name": {
         "en": "Tile Trophy NPC"
     },
@@ -9,5 +11,8 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 3
+    }
 }

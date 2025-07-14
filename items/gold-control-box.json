@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"gold-control-box","image":"6449","type":"item-use-door"}
+{
+    "$type": "/v1/item",
+    "id": "gold-control-box",
+    "image": "6449",
+    "type": "item-use-door",
+    "expansion": "dark-depths"
+}

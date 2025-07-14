@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-bejewelled-hand-protectors","image":"3764","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-bejewelled-hand-protectors",
+    "image": "3764",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

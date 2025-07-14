@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"gladiator-pouch","image":"6664","type":"bag","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "gladiator-pouch",
+    "image": "6664",
+    "type": "bag",
+    "material": "cloth",
+    "skill": "gods-favor"
+}

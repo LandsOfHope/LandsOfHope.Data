@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"silk-guitar-string","image":"6750","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "silk-guitar-string",
+    "image": "6750",
+    "type": "ranged-weapon",
+    "dpr": 2,
+    "material": "metal",
+    "skill": "instruments"
+}

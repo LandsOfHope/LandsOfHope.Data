@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"cragstone-vest","image":"4728","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cragstone-vest",
+    "image": "4728",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "legendary": true,
+    "set": "cragstone-legend",
+    "material": "metal"
+}

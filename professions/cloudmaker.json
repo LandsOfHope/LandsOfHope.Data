@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "cloudmaker",
     "name": {
         "en": "Cloudmaker"
     },
     "desc": {
-        "en": ""
+        "en": "An ancient guardian"
     },
     "skills": {
         "water-magic": 5,
@@ -14,5 +16,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 3,
+        "SPEED": 3,
+        "STRENGTH": 2
+    }
 }

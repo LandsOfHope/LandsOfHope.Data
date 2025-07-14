@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"large-legendary-shield","image":"sda","type":"2-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "large-legendary-shield",
+    "image": "sda",
+    "type": "2-handed-equipment",
+    "dpr": 120,
+    "legendary": true,
+    "material": "wood",
+    "skill": "two-handed-shields"
+}

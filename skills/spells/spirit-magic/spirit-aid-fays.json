@@ -5,5 +5,11 @@
         "skill": 659,
         "mana": 659
     },
-    "duration": "PT30M"
+    "duration": "PT30M",
+    "effects": {
+        "summon-pet": {
+            "race": "fay",
+            "profession": "spirit-being"
+        }
+    }
 }

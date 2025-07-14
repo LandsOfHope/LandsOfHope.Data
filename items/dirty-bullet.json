@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dirty-bullet","image":"zudibu1","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "dirty-bullet",
+    "image": "zudibu1",
+    "type": "ammo-weapons-bullets",
+    "dpr": 29,
+    "material": "metal"
+}

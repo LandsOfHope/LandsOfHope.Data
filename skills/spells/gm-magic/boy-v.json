@@ -6,7 +6,9 @@
         "mana": 763
     },
     "duration": "PT14000M",
-    "skills": {
-        "begging": 382
+    "effects": {
+        "skills": {
+            "begging": 382
+        }
     }
 }

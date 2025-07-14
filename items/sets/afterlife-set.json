@@ -1,0 +1,18 @@
+{
+    "$type": "/v1/items/set",
+    "id": "afterlife-set",
+    "image": "na.gif",
+    "color": "red",
+    "spells": {
+        "0": {
+            "0": "afterlife-alterations"
+        }
+    },
+    "items": [
+        "afterlife-boots",
+        "afterlife-chestplate",
+        "afterlife-legs",
+        "afterlife-helmet",
+        "afterlife-gauntlets"
+    ]
+}

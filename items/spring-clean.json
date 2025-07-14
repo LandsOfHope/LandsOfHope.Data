@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"spring-clean","image":"6425","type":"lordship-improvements"}
+{
+    "$type": "/v1/item",
+    "id": "spring-clean",
+    "image": "6425",
+    "type": "lordship-improvements",
+    "skill": "lordship"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"mug-of-rum","image":"gmmuru","type":"food","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "mug-of-rum",
+    "image": "gmmuru",
+    "type": "food",
+    "expansion": "uncharted-waters",
+    "material": "wood"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"minions-musket","image":"5279","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "minions-musket",
+    "image": "5279",
+    "type": "ranged-weapon",
+    "dpr": 2,
+    "material": "metal",
+    "skill": "two-handed-guns"
+}

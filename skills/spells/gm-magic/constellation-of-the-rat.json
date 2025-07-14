@@ -6,10 +6,12 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "spell-evasion": 5
-    },
-    "properties": {
-        "SPEED": 10
+    "effects": {
+        "properties": {
+            "SPEED": 10
+        },
+        "skills": {
+            "spell-evasion": 5
+        }
     }
 }

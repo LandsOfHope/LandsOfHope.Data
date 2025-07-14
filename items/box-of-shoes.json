@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"box-of-shoes","image":"gmbosh","type":"quest-item","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "box-of-shoes",
+    "image": "gmbosh",
+    "type": "quest-item",
+    "expansion": "uncharted-waters",
+    "material": "color"
+}

@@ -1,1 +1,6 @@
-{"$type":"/v1/item","id":"blue-crystal","image":"6990","type":"trophy"}
+{
+    "$type": "/v1/item",
+    "id": "blue-crystal",
+    "image": "ybc",
+    "type": "alchemy-ingredient"
+}

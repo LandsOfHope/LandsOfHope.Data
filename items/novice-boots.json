@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"novice-boots","image":"anbot","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "novice-boots",
+    "image": "anbot",
+    "type": "foot-armour",
+    "material": "hide",
+    "skill": "artisan"
+}

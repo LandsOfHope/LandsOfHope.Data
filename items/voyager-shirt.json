@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"voyager-shirt","image":"5265","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "voyager-shirt",
+    "image": "5265",
+    "type": "chest-armour",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "cloth",
+    "skill": "myzan-navy"
+}

@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"frostvale-leggings","image":"zufrle","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "frostvale-leggings",
+    "image": "zufrle",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "legendary": true,
+    "set": "frostvale-legend",
+    "material": "hide"
+}

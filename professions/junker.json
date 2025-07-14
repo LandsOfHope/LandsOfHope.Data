@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "junker",
     "name": {
         "en": "Junker"
     },
@@ -9,6 +11,10 @@
         "armor": 5,
         "attack-power": 5,
         "bolts-over-brains": 5
+    },
+    "properties": {
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 4
     },
     "evo": {
         "clockwork": 350

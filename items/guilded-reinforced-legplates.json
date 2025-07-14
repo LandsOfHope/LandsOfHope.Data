@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-reinforced-legplates","image":"3656","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-reinforced-legplates",
+    "image": "3656",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

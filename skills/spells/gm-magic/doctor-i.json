@@ -6,7 +6,9 @@
         "mana": 145
     },
     "duration": "PT14000M",
-    "skills": {
-        "first-aid": 73
+    "effects": {
+        "skills": {
+            "first-aid": 73
+        }
     }
 }

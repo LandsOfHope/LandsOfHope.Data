@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"reinforced-gloves","image":"2613","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "reinforced-gloves",
+    "image": "2613",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

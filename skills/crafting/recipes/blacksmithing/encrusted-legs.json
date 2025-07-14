@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/encrusted-legs","item":"encrusted-legs","image":"724","time":"PT15S","quantity":1,"skill":"blacksmithing","skillValue":100,"quality":"uncommon","ingredients":[{"id":"ingot","quantity":20,"primary":true},{"id":"rivet","quantity":5},{"id":"lining","quantity":4}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "blacksmithing/encrusted-legs",
+    "item": "encrusted-legs",
+    "image": "724",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "blacksmithing",
+    "skillValue": 100,
+    "quality": "uncommon",
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 20,
+            "primary": true
+        },
+        {
+            "id": "rivet",
+            "quantity": 5
+        },
+        {
+            "id": "lining",
+            "quantity": 4
+        }
+    ]
+}

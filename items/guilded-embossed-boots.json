@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-embossed-boots","image":"3829","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-embossed-boots",
+    "image": "3829",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

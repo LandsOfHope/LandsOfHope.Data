@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "stonemasonry-ring-band",
+    "item": "ring-enhancement",
+    "skillValue": 1225,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "stonemasonry": 0.8
+        }
+    }
+}

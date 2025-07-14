@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"tinkering/moldering-necklace","item":"moldering-necklace","image":"zumon","time":"PT15S","quantity":1,"skill":"tinkering","skillValue":225,"quality":"uncommon","ingredients":[{"id":"gem","quantity":10},{"id":"ingot","quantity":25,"primary":true},{"id":"lining","quantity":5}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "tinkering/moldering-necklace",
+    "item": "moldering-necklace",
+    "image": "zumon",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "tinkering",
+    "skillValue": 225,
+    "quality": "uncommon",
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 25,
+            "primary": true
+        },
+        {
+            "id": "gem",
+            "quantity": 10
+        },
+        {
+            "id": "lining",
+            "quantity": 5
+        }
+    ]
+}

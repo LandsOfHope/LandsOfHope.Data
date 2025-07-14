@@ -9,6 +9,9 @@
         "image": {
             "$ref": "/schemas/v1/items-images-id.gen.json"
         },
+        "expansion": {
+            "$ref": "/schemas/v1/expansions-id.gen.json"
+        },
         "appraisal": {
             "type": "integer",
             "minimum": 0

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"used-handkerchief","image":"5584","type":"stealing-loot","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "used-handkerchief",
+    "image": "5584",
+    "type": "stealing-loot",
+    "material": "cloth"
+}

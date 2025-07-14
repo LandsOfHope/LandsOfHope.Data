@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-riveted-legs","image":"6850","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blank-riveted-legs",
+    "image": "6850",
+    "type": "leg-armour",
+    "set": "inventor-riveted-set",
+    "material": "metal",
+    "skill": "bolts-over-brains"
+}

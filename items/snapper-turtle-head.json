@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"snapper-turtle-head","image":"5546","type":"quest-item","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "snapper-turtle-head",
+    "image": "5546",
+    "type": "quest-item",
+    "expansion": "uncharted-waters",
+    "material": "metal"
+}

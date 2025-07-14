@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"makers-headpiece","image":"6395","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "makers-headpiece",
+    "image": "6395",
+    "type": "head-armour",
+    "legendary": true,
+    "set": "makers-set",
+    "material": "hide",
+    "skill": "artisan"
+}

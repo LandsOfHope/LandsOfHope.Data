@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"serpentine-skirt","image":"fst","type":"leg-armour","material":"snake"}
+{
+    "$type": "/v1/item",
+    "id": "serpentine-skirt",
+    "image": "fst",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "snake"
+}

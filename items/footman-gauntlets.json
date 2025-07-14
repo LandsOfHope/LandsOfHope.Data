@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"footman-gauntlets","image":"2355","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "footman-gauntlets",
+    "image": "2355",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"reinforced-helmet","image":"2382","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "reinforced-helmet",
+    "image": "2382",
+    "type": "head-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

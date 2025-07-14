@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"nova-bullet","image":"zunobu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "nova-bullet",
+    "image": "zunobu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 83,
+    "material": "metal"
+}

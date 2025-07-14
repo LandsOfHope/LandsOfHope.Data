@@ -6,10 +6,12 @@
         "mana": 94
     },
     "duration": "PT14000M",
-    "skills": {
-        "armor": 48
-    },
-    "properties": {
-        "SPEED": 48
+    "effects": {
+        "properties": {
+            "SPEED": 48
+        },
+        "skills": {
+            "armor": 48
+        }
     }
 }

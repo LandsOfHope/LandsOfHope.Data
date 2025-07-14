@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"simple-robe","image":"rb1","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "simple-robe",
+    "image": "rb1",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

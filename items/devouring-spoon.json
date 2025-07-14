@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"devouring-spoon","image":"spn","type":"2-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "devouring-spoon",
+    "image": "spn",
+    "type": "2-handed-equipment",
+    "dpr": 4,
+    "material": "wood",
+    "skill": "cooking-magic"
+}

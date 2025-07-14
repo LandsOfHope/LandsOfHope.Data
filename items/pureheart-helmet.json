@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"pureheart-helmet","image":"4739","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "pureheart-helmet",
+    "image": "4739",
+    "type": "head-armour",
+    "armorType": "plate",
+    "legendary": true,
+    "set": "pureheart-legend",
+    "material": "metal"
+}

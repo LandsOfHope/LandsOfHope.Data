@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"savage-chestplate","image":"2252","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "savage-chestplate",
+    "image": "2252",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

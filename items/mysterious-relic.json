@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"mysterious-relic","image":"torale","type":"unknown-relic","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "mysterious-relic",
+    "image": "torale",
+    "type": "unknown-relic",
+    "material": "metal"
+}

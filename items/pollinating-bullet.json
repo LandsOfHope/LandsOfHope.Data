@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"pollinating-bullet","image":"4154","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "pollinating-bullet",
+    "image": "4154",
+    "type": "ammo-weapons-bullets",
+    "dpr": 36,
+    "material": "metal"
+}

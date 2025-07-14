@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"half-eaten-snack","image":"5589","type":"stealing-loot","material":"vegetable"}
+{
+    "$type": "/v1/item",
+    "id": "half-eaten-snack",
+    "image": "5589",
+    "type": "stealing-loot",
+    "material": "vegetable"
+}

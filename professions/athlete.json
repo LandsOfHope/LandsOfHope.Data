@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "athlete",
     "name": {
         "en": "Athlete"
     },
@@ -10,5 +12,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 3,
+        "STRENGTH": 1
+    }
 }

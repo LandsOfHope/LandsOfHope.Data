@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"boarding-axe","image":"zuboax","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "boarding-axe",
+    "image": "zuboax",
+    "type": "1-handed-equipment",
+    "dpr": 2,
+    "expansion": "uncharted-waters",
+    "material": "metal",
+    "skill": "axes"
+}

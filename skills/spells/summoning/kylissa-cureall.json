@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2556,
         "mana": 2556
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "gorgon",
+            "profession": "healer"
+        }
     }
 }

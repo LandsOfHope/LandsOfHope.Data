@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-savage-legplates","image":"3658","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-savage-legplates",
+    "image": "3658",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

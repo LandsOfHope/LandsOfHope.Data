@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2418,
         "mana": 2418
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "cinder-beast",
+            "profession": "wild-animal"
+        }
     }
 }

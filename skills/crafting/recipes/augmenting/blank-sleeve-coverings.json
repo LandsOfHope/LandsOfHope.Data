@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"augmenting/blank-sleeve-coverings","item":"blank-sleeve-coverings","image":"6809","time":"PT15S","quantity":1,"skill":"augmenting","skillValue":1,"quality":"common","ingredients":[{"id":"ingot","quantity":2,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "augmenting/blank-sleeve-coverings",
+    "item": "blank-sleeve-coverings",
+    "image": "6809",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "augmenting",
+    "skillValue": 1,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 2,
+            "primary": true
+        }
+    ]
+}

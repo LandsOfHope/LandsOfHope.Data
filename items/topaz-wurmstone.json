@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"topaz-wurmstone","image":"5843","type":"dragon-polymorphers"}
+{
+    "$type": "/v1/item",
+    "id": "topaz-wurmstone",
+    "image": "5843",
+    "type": "dragon-polymorphers",
+    "expansion": "dragons-of-the-east"
+}

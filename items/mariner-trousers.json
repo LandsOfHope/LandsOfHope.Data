@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"mariner-trousers","image":"5269","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "mariner-trousers",
+    "image": "5269",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "cloth",
+    "skill": "myzan-navy"
+}

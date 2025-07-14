@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"gem-bag","image":"ba2","type":"targeted-containers","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "gem-bag",
+    "image": "ba2",
+    "type": "targeted-containers",
+    "material": "cloth"
+}

@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "majestic-creature",
     "name": {
         "en": "Majestic Creature"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Creature class."
     },
     "skills": {
         "frenzy": 5,
@@ -12,5 +14,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 3,
+        "STRENGTH": 3
+    }
 }

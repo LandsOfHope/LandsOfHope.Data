@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-hand-protection","image":"6812","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blank-hand-protection",
+    "image": "6812",
+    "type": "hand-armour",
+    "set": "inventor-basic-set",
+    "material": "metal",
+    "skill": "augmenting"
+}

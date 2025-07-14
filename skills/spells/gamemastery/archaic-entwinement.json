@@ -6,7 +6,9 @@
         "mana": 61
     },
     "duration": "PT720M",
-    "skills": {
-        "mana-regen": 300
+    "effects": {
+        "skills": {
+            "mana-regen": 300
+        }
     }
 }

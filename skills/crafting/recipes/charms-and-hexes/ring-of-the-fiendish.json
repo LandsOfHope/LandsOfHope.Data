@@ -1,1 +1,23 @@
-{"$type":"/v1/skills/crafting/recipe","id":"charms-and-hexes/ring-of-the-fiendish","item":"ring-of-the-fiendish","image":"6165","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":1500,"quality":"common","failureChance":60,"ingredients":[{"id":"ingot","quantity":1,"primary":true},{"id":"blood-of-evil","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "charms-and-hexes/ring-of-the-fiendish",
+    "item": "ring-of-the-fiendish",
+    "image": "6165",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "charms-and-hexes",
+    "skillValue": 1500,
+    "quality": "common",
+    "failureChance": 60,
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "blood-of-evil",
+            "quantity": 1
+        }
+    ]
+}

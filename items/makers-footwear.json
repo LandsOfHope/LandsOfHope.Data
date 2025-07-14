@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"makers-footwear","image":"6392","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "makers-footwear",
+    "image": "6392",
+    "type": "foot-armour",
+    "legendary": true,
+    "set": "makers-set",
+    "material": "hide",
+    "skill": "artisan"
+}

@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2740,
         "mana": 2740
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "gelfling",
+            "profession": "healer"
+        }
     }
 }

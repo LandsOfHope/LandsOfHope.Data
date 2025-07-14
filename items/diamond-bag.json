@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"diamond-bag","image":"5870","type":"bag","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "diamond-bag",
+    "image": "5870",
+    "type": "bag",
+    "expansion": "dragons-of-the-east",
+    "material": "hide"
+}

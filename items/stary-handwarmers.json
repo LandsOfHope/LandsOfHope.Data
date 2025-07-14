@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"stary-handwarmers","image":"3148","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "stary-handwarmers",
+    "image": "3148",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

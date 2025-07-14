@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"navy-trunk","image":"zunatr","type":"starting-container","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "navy-trunk",
+    "image": "zunatr",
+    "type": "starting-container",
+    "material": "wood",
+    "skill": "myzan-navy"
+}

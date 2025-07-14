@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"seamanship/strengthened-sails","vesselItem":"strengthened-sails","image":"bw","time":"PT15S","quantity":1,"skill":"seamanship","skillValue":1270,"quality":"common","ingredients":[{"id":"weathered-sailcloth","quantity":15,"primary":true},{"id":"weathered-rope","quantity":5},{"id":"ships-hook","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "seamanship/strengthened-sails",
+    "vesselItem": "strengthened-sails",
+    "image": "bw",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "seamanship",
+    "skillValue": 1270,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "ships-hook",
+            "quantity": 0
+        },
+        {
+            "id": "weathered-rope",
+            "quantity": 5
+        },
+        {
+            "id": "weathered-sailcloth",
+            "quantity": 15,
+            "primary": true
+        }
+    ]
+}

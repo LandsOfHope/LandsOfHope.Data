@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"glowing-shield","image":"zugs","type":"1-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "glowing-shield",
+    "image": "zugs",
+    "type": "1-handed-equipment",
+    "dpr": 6,
+    "material": "gem",
+    "skill": "shields"
+}

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "stitchworker",
     "name": {
         "en": "Stitchworker"
     },
@@ -10,5 +12,11 @@
         "attack-power": 5,
         "blood-over-beauty": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 4
+    },
+    "evo": {
+        "flesh-dealer": 350
+    }
 }

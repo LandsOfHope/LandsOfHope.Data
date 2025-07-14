@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"festive-costume-shirt","image":"sshirt","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "festive-costume-shirt",
+    "image": "sshirt",
+    "type": "chest-armour",
+    "set": "festive-costume",
+    "material": "hide"
+}

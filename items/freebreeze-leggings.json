@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"freebreeze-leggings","image":"4690","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "freebreeze-leggings",
+    "image": "4690",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "legendary": true,
+    "set": "freebreeze-legend",
+    "material": "cloth"
+}

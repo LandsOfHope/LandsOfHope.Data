@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"forestprowlers-fang","image":"fops","type":"1-handed-equipment","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "forestprowlers-fang",
+    "image": "fops",
+    "type": "1-handed-equipment",
+    "dpr": 68,
+    "material": "hide",
+    "skill": "daggers"
+}

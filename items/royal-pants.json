@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"royal-pants","image":"3054","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "royal-pants",
+    "image": "3054",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"godly-crossbow","image":"xw2","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "godly-crossbow",
+    "image": "xw2",
+    "type": "ranged-weapon",
+    "dpr": 94,
+    "material": "wood",
+    "skill": "crossbows"
+}

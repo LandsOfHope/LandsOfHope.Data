@@ -1,1 +1,6 @@
-{"$type":"/v1/vessel-item","id":"box-of-gemstones","image":"crate5","type":"cargo"}
+{
+    "$type": "/v1/vessel-item",
+    "id": "box-of-gemstones",
+    "image": "crate5",
+    "type": "cargo"
+}

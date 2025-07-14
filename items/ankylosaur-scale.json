@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ankylosaur-scale","image":"5090","type":"trophy","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "ankylosaur-scale",
+    "image": "5090",
+    "type": "trophy",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

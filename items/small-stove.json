@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"small-stove","image":"zusmst","type":"food-cooker","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "small-stove",
+    "image": "zusmst",
+    "type": "food-cooker",
+    "material": "metal",
+    "skill": "cooking"
+}

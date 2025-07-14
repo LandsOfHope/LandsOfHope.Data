@@ -1,0 +1,12 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "crafting-iii",
+    "effects": {
+        "skills": {
+            "alchemy": 0.4,
+            "construction": 0.4,
+            "lumberjacking": 0.4,
+            "stonemasonry": 0.4
+        }
+    }
+}

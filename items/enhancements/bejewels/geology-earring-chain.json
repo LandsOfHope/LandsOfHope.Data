@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "geology-earring-chain",
+    "item": "earring-enhancement",
+    "skillValue": 105,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "geology": 0.6
+        }
+    }
+}

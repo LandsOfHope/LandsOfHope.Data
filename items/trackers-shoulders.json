@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"trackers-shoulders","image":"3009","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "trackers-shoulders",
+    "image": "3009",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

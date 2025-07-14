@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"wurmhide-breastplate","image":"5826","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "wurmhide-breastplate",
+    "image": "5826",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "expansion": "dragons-of-the-east",
+    "material": "hide"
+}

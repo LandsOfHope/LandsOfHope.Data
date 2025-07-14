@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"leaking-tar-barrel","image":"sib","type":"tar-ship-resource"}
+{
+    "$type": "/v1/item",
+    "id": "leaking-tar-barrel",
+    "image": "sib",
+    "type": "tar-ship-resource",
+    "expansion": "uncharted-waters"
+}

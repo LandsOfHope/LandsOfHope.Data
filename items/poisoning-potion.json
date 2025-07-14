@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"poisoning-potion","image":"pe5","type":"ammo-weapons-potions","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "poisoning-potion",
+    "image": "pe5",
+    "type": "ammo-weapons-potions",
+    "dpr": 6,
+    "material": "gem"
+}

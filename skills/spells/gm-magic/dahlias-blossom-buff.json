@@ -7,7 +7,9 @@
         "mana": 1
     },
     "duration": "PT1400M",
-    "properties": {
-        "MAXSTAMINA": 100
+    "effects": {
+        "properties": {
+            "MAXSTAMINA": 100
+        }
     }
 }

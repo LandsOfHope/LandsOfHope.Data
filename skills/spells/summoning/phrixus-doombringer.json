@@ -4,5 +4,10 @@
     "requirements": {
         "skill": 2280,
         "mana": 2280
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "woode"
+        }
     }
 }

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "axeman",
     "name": {
         "en": "Axeman"
     },
@@ -7,8 +9,15 @@
     },
     "skills": {
         "axes": 5,
+        "two-handed-axes": 5,
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 1,
+        "STRENGTH": 2
+    }
 }

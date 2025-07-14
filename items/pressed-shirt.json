@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"pressed-shirt","image":"4520","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "pressed-shirt",
+    "image": "4520",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

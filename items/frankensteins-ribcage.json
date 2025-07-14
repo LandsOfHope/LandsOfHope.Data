@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"frankensteins-ribcage","image":"6347","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "frankensteins-ribcage",
+    "image": "6347",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "set": "frankenstein-set",
+    "material": "hide"
+}

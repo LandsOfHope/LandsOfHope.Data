@@ -5,5 +5,11 @@
         "skill": 1129,
         "mana": 1129
     },
-    "duration": "PT30M"
+    "duration": "PT30M",
+    "effects": {
+        "summon-pet": {
+            "race": "dinnshenchas",
+            "profession": "spirit-being"
+        }
+    }
 }

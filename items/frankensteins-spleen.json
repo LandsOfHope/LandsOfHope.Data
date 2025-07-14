@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"frankensteins-spleen","image":"6343","type":"stomach","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "frankensteins-spleen",
+    "image": "6343",
+    "type": "stomach",
+    "armorType": "cloth",
+    "set": "frankenstein-set",
+    "material": "hide"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"trackers-leggings","image":"2800","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "trackers-leggings",
+    "image": "2800",
+    "type": "leg-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"longtooth-cap","image":"3196","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "longtooth-cap",
+    "image": "3196",
+    "type": "head-armour",
+    "armorType": "leather",
+    "legendary": true,
+    "set": "longtooth-legend",
+    "material": "hide"
+}

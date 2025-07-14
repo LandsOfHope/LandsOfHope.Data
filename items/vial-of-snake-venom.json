@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"vial-of-snake-venom","image":"pe5","type":"monster-spawner","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "vial-of-snake-venom",
+    "image": "pe5",
+    "type": "monster-spawner",
+    "material": "gem"
+}

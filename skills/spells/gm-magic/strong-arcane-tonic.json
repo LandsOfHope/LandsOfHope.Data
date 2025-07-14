@@ -6,7 +6,9 @@
         "mana": 3450
     },
     "duration": "PT690M",
-    "skills": {
-        "arcane-resistance": 690
+    "effects": {
+        "skills": {
+            "arcane-resistance": 690
+        }
     }
 }

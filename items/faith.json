@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"faith","image":"6267","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "faith",
+    "image": "6267",
+    "type": "1-handed-equipment",
+    "dpr": 120,
+    "expansion": "the-afterlife",
+    "material": "metal",
+    "skill": "fists"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"enblazened-shoulder-guards","image":"3270","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "enblazened-shoulder-guards",
+    "image": "3270",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

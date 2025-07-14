@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"sabretooth-boots","image":"bot","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "sabretooth-boots",
+    "image": "bot",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

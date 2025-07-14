@@ -1,1 +1,22 @@
-{"$type":"/v1/skills/crafting/recipe","id":"seamanship/crafted-heavy-shot","vesselItem":"crafted-heavy-shot","image":"ste","time":"PT15S","quantity":200,"skill":"seamanship","skillValue":2500,"quality":"common","ingredients":[{"id":"tarnished-metal-shipment","quantity":40,"primary":true},{"id":"ships-hook","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "seamanship/crafted-heavy-shot",
+    "vesselItem": "crafted-heavy-shot",
+    "image": "ste",
+    "time": "PT15S",
+    "quantity": 200,
+    "skill": "seamanship",
+    "skillValue": 2500,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "ships-hook",
+            "quantity": 0
+        },
+        {
+            "id": "tarnished-metal-shipment",
+            "quantity": 40,
+            "primary": true
+        }
+    ]
+}

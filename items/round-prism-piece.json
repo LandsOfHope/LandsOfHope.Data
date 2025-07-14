@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"round-prism-piece","image":"6527","type":"trophy"}
+{
+    "$type": "/v1/item",
+    "id": "round-prism-piece",
+    "image": "6527",
+    "type": "trophy",
+    "expansion": "dark-depths"
+}

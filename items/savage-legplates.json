@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"savage-legplates","image":"2285","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "savage-legplates",
+    "image": "2285",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

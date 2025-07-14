@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"ladybird-gloves","image":"5173","type":"hand-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "ladybird-gloves",
+    "image": "5173",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

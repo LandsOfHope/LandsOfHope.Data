@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"gold-sash","image":"5855","type":"stomach","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "gold-sash",
+    "image": "5855",
+    "type": "stomach",
+    "expansion": "dragons-of-the-east",
+    "material": "cloth",
+    "skill": "sunstone-flight"
+}

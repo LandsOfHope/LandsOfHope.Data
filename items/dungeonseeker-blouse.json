@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dungeonseeker-blouse","image":"4948","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "dungeonseeker-blouse",
+    "image": "4948",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "hide"
+}

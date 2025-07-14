@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"privateer-belt","image":"zuprbe","type":"stomach","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "privateer-belt",
+    "image": "zuprbe",
+    "type": "stomach",
+    "armorType": "leather",
+    "expansion": "uncharted-waters",
+    "material": "cloth",
+    "skill": "seamanship"
+}

@@ -1,1 +1,23 @@
-{"$type":"/v1/skills/crafting/recipe","id":"blacksmithing/discharge","item":"discharge","image":"gmdicg","time":"PT600S","quantity":1,"skill":"blacksmithing","skillValue":5000,"quality":"artifact","singleUse":true,"ingredients":[{"id":"ingot","quantity":1000,"primary":true},{"id":"stock","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "blacksmithing/discharge",
+    "item": "discharge",
+    "image": "gmdicg",
+    "time": "PT600S",
+    "quantity": 1,
+    "skill": "blacksmithing",
+    "skillValue": 5000,
+    "quality": "artifact",
+    "singleUse": true,
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 1000,
+            "primary": true
+        },
+        {
+            "id": "stock",
+            "quantity": 1
+        }
+    ]
+}

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"catapult","image":"ss4","type":"siege-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "catapult",
+    "image": "ss4",
+    "type": "siege-weapon",
+    "dpr": 2,
+    "material": "wood",
+    "skill": "siege-weapons"
+}

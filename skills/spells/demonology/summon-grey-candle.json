@@ -4,5 +4,10 @@
     "requirements": {
         "skill": 3200,
         "mana": 100
+    },
+    "effects": {
+        "summon-item": {
+            "item": "grey-candle"
+        }
     }
 }

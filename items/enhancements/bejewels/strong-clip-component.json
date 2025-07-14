@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "strong-clip-component",
+    "item": "dual-enhancement",
+    "skillValue": 605,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "properties": {
+            "STRENGTH": 0.5
+        }
+    }
+}

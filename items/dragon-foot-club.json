@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"dragon-foot-club","image":"cb2","type":"2-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "dragon-foot-club",
+    "image": "cb2",
+    "type": "2-handed-equipment",
+    "dpr": 4,
+    "material": "gem",
+    "skill": "two-handed-maces"
+}

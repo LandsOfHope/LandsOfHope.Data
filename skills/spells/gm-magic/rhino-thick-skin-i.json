@@ -6,10 +6,12 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "armor": 20
-    },
-    "properties": {
-        "MAXHITPOINTS": 30
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 30
+        },
+        "skills": {
+            "armor": 20
+        }
     }
 }

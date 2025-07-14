@@ -6,7 +6,9 @@
         "mana": 3753
     },
     "duration": "PT400M",
-    "properties": {
-        "MAXHITPOINTS": 296
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 296
+        }
     }
 }

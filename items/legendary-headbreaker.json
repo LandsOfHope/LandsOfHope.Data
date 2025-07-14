@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"legendary-headbreaker","image":"staff08","type":"2-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "legendary-headbreaker",
+    "image": "staff08",
+    "type": "2-handed-equipment",
+    "dpr": 120,
+    "legendary": true,
+    "material": "wood",
+    "skill": "two-handed-staves"
+}

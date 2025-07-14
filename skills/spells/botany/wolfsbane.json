@@ -5,5 +5,10 @@
         "skill": 4880,
         "mana": 976
     },
-    "duration": "PT50M"
+    "duration": "PT50M",
+    "effects": {
+        "summon-item": {
+            "item": "wolfsbane"
+        }
+    }
 }

@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2142,
         "mana": 2142
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "human",
+            "profession": "harvestor"
+        }
     }
 }

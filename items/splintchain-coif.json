@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"splintchain-coif","image":"ccs","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "splintchain-coif",
+    "image": "ccs",
+    "type": "head-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

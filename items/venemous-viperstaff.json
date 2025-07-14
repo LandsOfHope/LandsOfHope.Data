@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"venemous-viperstaff","image":"st1","type":"2-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "venemous-viperstaff",
+    "image": "st1",
+    "type": "2-handed-equipment",
+    "dpr": 11,
+    "material": "gem",
+    "skill": "staves"
+}

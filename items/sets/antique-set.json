@@ -1,0 +1,19 @@
+{
+    "$type": "/v1/items/set",
+    "id": "antique-set",
+    "image": "na.gif",
+    "color": "red",
+    "spells": {
+        "0": {
+            "0": "antique-aspirations",
+            "1000": "antique-defenses"
+        }
+    },
+    "items": [
+        "antique-diamond-earring",
+        "antique-emerald-earring",
+        "star-of-myzan",
+        "antique-ruby-ring",
+        "antique-gold-ring"
+    ]
+}

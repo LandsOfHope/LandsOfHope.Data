@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"trackers-moccasins","image":"2866","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "trackers-moccasins",
+    "image": "2866",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

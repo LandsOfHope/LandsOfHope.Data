@@ -1,0 +1,16 @@
+{
+    "$type": "/v1/items/set",
+    "id": "blessed-tenth",
+    "image": "na.gif",
+    "color": "orange",
+    "spells": {
+        "0": {
+            "0": "blessing-of-the-legion-caster"
+        }
+    },
+    "items": [
+        "blessed-tenth-robe",
+        "blessed-tenth-headdress",
+        "blessed-tenth-sandals"
+    ]
+}

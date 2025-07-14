@@ -9,5 +9,7 @@
     },
     "propertyNames": {
         "$ref": "/schemas/v1/professions-id.gen.json"
-    }
+    },
+    "additionalProperties": false,
+    "minProperties": 1
 }

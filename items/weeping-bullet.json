@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"weeping-bullet","image":"zuwebu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "weeping-bullet",
+    "image": "zuwebu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 62,
+    "material": "metal"
+}

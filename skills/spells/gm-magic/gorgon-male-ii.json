@@ -6,10 +6,12 @@
         "mana": 526
     },
     "duration": "PT14000M",
-    "skills": {
-        "invoking-resistance": 264
-    },
-    "properties": {
-        "MAXMANA": 264
+    "effects": {
+        "properties": {
+            "MAXMANA": 264
+        },
+        "skills": {
+            "invoking-resistance": 264
+        }
     }
 }

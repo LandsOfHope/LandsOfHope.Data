@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"tattered-black-boots","image":"bot","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "tattered-black-boots",
+    "image": "bot",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "material": "hide"
+}

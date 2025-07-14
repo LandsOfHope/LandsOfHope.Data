@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"savage-plate-gloves","image":"2373","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "savage-plate-gloves",
+    "image": "2373",
+    "type": "hand-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

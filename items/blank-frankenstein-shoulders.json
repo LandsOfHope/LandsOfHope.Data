@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"blank-frankenstein-shoulders","image":"6946","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "blank-frankenstein-shoulders",
+    "image": "6946",
+    "type": "shoulders",
+    "legendary": true,
+    "set": "frankenstein",
+    "material": "hide",
+    "skill": "blood-over-beauty"
+}

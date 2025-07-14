@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"cooking/bladed-defense-supplement","item":"bladed-defense-supplement","image":"c2k","time":"PT15S","quantity":1,"skill":"cooking","skillValue":2800,"quality":"common","ingredients":[{"id":"grain","quantity":6,"primary":true},{"id":"egg","quantity":2},{"id":"bowl","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "cooking/bladed-defense-supplement",
+    "item": "bladed-defense-supplement",
+    "image": "c2k",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "cooking",
+    "skillValue": 2800,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "egg",
+            "quantity": 2
+        },
+        {
+            "id": "bowl",
+            "quantity": 0
+        },
+        {
+            "id": "grain",
+            "quantity": 6,
+            "primary": true
+        }
+    ]
+}

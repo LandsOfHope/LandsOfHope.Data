@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-air-gods",
+    "effects": {
+        "skills": {
+            "air-resistance": 0.5,
+            "energy-resistance": 0.5
+        }
+    }
+}

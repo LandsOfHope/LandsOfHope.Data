@@ -1,0 +1,30 @@
+{
+    "$type": "/v1/items/set",
+    "id": "inventor-stitched-set",
+    "image": "na.gif",
+    "color": "gold",
+    "spells": {
+        "0": {
+            "10": "stitched-i",
+            "200": "stitched-ii",
+            "300": "stitched-iii",
+            "400": "stitched-iv",
+            "500": "stitched-v",
+            "600": "stitched-vi",
+            "700": "stitched-vii",
+            "800": "stitched-viii",
+            "900": "stitched-ix",
+            "1000": "stitched-x"
+        }
+    },
+    "items": [
+        "blank-stitched-shoulders",
+        "blank-stitched-arms",
+        "blank-stitched-cuffs",
+        "blank-stitched-face",
+        "blank-stitched-hands",
+        "blank-stitched-feet",
+        "blank-stitched-chestpiece",
+        "blank-stitched-legs"
+    ]
+}

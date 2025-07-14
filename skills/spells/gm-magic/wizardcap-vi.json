@@ -7,7 +7,9 @@
         "mana": 6
     },
     "duration": "PT21M",
-    "skills": {
-        "mana-regen": 150
+    "effects": {
+        "skills": {
+            "mana-regen": 150
+        }
     }
 }

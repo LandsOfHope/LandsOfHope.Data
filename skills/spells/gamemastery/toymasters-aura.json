@@ -6,7 +6,9 @@
         "mana": 1
     },
     "duration": "PT540000M",
-    "skills": {
-        "toy-snatching": 2000
+    "effects": {
+        "skills": {
+            "toy-snatching": 2000
+        }
     }
 }

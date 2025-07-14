@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "whelp-demon",
     "name": {
         "en": "Whelp Demon"
     },
@@ -16,5 +18,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 6,
+        "MAXSTAMINA": 3,
+        "SPEED": 3,
+        "STRENGTH": 2
+    }
 }

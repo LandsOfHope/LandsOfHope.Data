@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 1636,
         "mana": 1636
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "human",
+            "profession": "warrior"
+        }
     }
 }

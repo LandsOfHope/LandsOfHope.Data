@@ -7,7 +7,9 @@
         "mana": 4
     },
     "duration": "PT304M",
-    "skills": {
-        "water-resistance": 480
+    "effects": {
+        "skills": {
+            "water-resistance": 480
+        }
     }
 }

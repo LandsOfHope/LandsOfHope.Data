@@ -5,5 +5,11 @@
         "skill": 753,
         "mana": 753
     },
-    "duration": "PT30M"
+    "duration": "PT30M",
+    "effects": {
+        "summon-pet": {
+            "race": "dryad",
+            "profession": "spirit-being"
+        }
+    }
 }

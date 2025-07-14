@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"shocking-potion","image":"pf2","type":"ammo-weapons-potions","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "shocking-potion",
+    "image": "pf2",
+    "type": "ammo-weapons-potions",
+    "dpr": 3,
+    "material": "gem"
+}

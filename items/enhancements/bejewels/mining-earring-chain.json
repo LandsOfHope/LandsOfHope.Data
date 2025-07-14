@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "mining-earring-chain",
+    "item": "earring-enhancement",
+    "skillValue": 45,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "mining": 0.6
+        }
+    }
+}

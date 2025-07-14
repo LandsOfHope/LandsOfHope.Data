@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "enchanter",
     "name": {
         "en": "Enchanter"
     },
@@ -9,5 +11,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 4
+    }
 }

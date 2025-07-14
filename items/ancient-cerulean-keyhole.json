@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"ancient-cerulean-keyhole","image":"6458","type":"item-use-door"}
+{
+    "$type": "/v1/item",
+    "id": "ancient-cerulean-keyhole",
+    "image": "6458",
+    "type": "item-use-door",
+    "expansion": "dark-depths"
+}

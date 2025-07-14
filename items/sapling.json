@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"sapling","image":"pt","type":"quest-item","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "sapling",
+    "image": "pt",
+    "type": "quest-item",
+    "material": "gem"
+}

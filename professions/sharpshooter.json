@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "sharpshooter",
     "name": {
-        "en":"Sharpshooter"
-    }, 
+        "en": "Sharpshooter"
+    },
     "desc": {
-        "en": "The Sharpshooter is a Tier II evolution from the Archer Profession via Soldier, while keeping all of the Soldiers abilities the scout also gains the abilty to use <b>Two Handed Guns</b>."
+        "en": "The Sharpshooter is a Tier II evolution from the Archer Profession via Trooper, while keeping all of the Trooper`s abilities the scout also gains the abilty to use <b>Two Handed Guns</b>."
     },
     "skills": {
         "track-humanoids": 5,
@@ -12,6 +14,13 @@
         "dual-wielding": 5,
         "hand-guns": 5,
         "attack-power": 10
+    },
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 1
     },
     "evo": {
         "bombadier": 650

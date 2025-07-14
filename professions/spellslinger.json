@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "spellslinger",
     "name": {
         "en": "Spellslinger"
     },
@@ -10,5 +12,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 1,
+        "STRENGTH": 4
+    }
 }

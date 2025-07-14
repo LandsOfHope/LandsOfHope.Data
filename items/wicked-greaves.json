@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wicked-greaves","image":"2339","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "wicked-greaves",
+    "image": "2339",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

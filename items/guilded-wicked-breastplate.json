@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-wicked-breastplate","image":"3668","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-wicked-breastplate",
+    "image": "3668",
+    "type": "chest-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

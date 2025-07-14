@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2602,
         "mana": 2602
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "werewolf",
+            "profession": "close-combat"
+        }
     }
 }

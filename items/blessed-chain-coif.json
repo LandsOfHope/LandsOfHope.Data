@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"blessed-chain-coif","image":"2665","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blessed-chain-coif",
+    "image": "2665",
+    "type": "head-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "skinner",
     "name": {
         "en": "Skinner"
     },
@@ -10,5 +12,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 2
+    }
 }

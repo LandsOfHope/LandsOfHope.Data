@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"magdalena","image":"6506","type":"2-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "magdalena",
+    "image": "6506",
+    "type": "2-handed-equipment",
+    "dpr": 2,
+    "material": "metal",
+    "skill": "two-handed-staves"
+}

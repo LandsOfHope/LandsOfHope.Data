@@ -6,7 +6,9 @@
         "mana": 3054
     },
     "duration": "PT75M",
-    "skills": {
-        "debuff-resistance": 320
+    "effects": {
+        "skills": {
+            "debuff-resistance": 320
+        }
     }
 }

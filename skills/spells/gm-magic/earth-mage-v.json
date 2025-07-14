@@ -6,10 +6,12 @@
         "mana": 880
     },
     "duration": "PT14000M",
-    "skills": {
-        "earth-resistance": 441
-    },
-    "properties": {
-        "INTELLIGENCE": 441
+    "effects": {
+        "properties": {
+            "INTELLIGENCE": 441
+        },
+        "skills": {
+            "earth-resistance": 441
+        }
     }
 }

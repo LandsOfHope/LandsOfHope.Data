@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "majestic-master",
     "name": {
         "en": "Majestic Master"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Master class."
     },
     "skills": {
         "mystical-resistance": 5,
@@ -15,5 +17,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 4,
+        "MAXSTAMINA": 3,
+        "SPEED": 3,
+        "STRENGTH": 3
+    }
 }

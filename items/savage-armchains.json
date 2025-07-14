@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"savage-armchains","image":"2736","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "savage-armchains",
+    "image": "2736",
+    "type": "arm-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

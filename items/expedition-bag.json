@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"expedition-bag","image":"esb2","type":"expedition-supplies","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "expedition-bag",
+    "image": "esb2",
+    "type": "expedition-supplies",
+    "expansion": "jurassic-wars",
+    "material": "cloth"
+}

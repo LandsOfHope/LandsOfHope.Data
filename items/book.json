@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"book","image":"bk4","type":"guild-book","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "book",
+    "image": "bk4",
+    "type": "guild-book",
+    "material": "hide"
+}

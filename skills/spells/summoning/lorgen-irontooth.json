@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3568,
         "mana": 3568
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "dark-dwarf",
+            "profession": "nobleman"
+        }
     }
 }

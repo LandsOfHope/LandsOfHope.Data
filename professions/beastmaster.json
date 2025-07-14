@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "beastmaster",
     "name": {
         "en": "Beastmaster"
     },
@@ -6,13 +8,18 @@
         "en": "The Beastmaster is a Tier II evolution from the Archer Profession via Scout, the Beastmaster gains the ability to <b>Breed Beasts</b> and <b>Tame Beasts</b>.<br><br>This allows the Beastmaster to tame any Beast type monster to be their loyal and loving minion and also to breed minions to make new pets.<br><br>You can sell or trade these pets on to other players."
     },
     "skills": {
-        "exploration": 5,
-        "daggers": 5,
-        "bows": 5,
-        "crossbows": 5,
-        "detect-hidden": 5,
+        "beast-breeding": 5,
+        "beastmastery": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 3,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 3
     },
     "evo": {
         "ranger": 650

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"spoiled-plaque","image":"984","type":"stealing-loot","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "spoiled-plaque",
+    "image": "984",
+    "type": "stealing-loot",
+    "material": "metal"
+}

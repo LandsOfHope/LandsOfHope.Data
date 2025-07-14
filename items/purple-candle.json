@@ -1,1 +1,6 @@
-{"$type":"/v1/item","id":"purple-candle","image":"candle3","type":"ritual-resource"}
+{
+    "$type": "/v1/item",
+    "id": "purple-candle",
+    "image": "candle3",
+    "type": "ritual-resource"
+}

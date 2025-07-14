@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"balanced-mace","image":"cb","type":"1-handed-equipment","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "balanced-mace",
+    "image": "cb",
+    "type": "1-handed-equipment",
+    "dpr": 6,
+    "material": "stone",
+    "skill": "maces"
+}

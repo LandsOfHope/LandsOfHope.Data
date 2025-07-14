@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "stargazer",
     "name": {
         "en": "Stargazer"
     },
@@ -13,6 +15,13 @@
         "armor": 5,
         "attack-power": 5,
         "celestial-weapons": 5
+    },
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 1,
+        "SPEED": 1
     },
     "evo": {
         "stardreamer": 50

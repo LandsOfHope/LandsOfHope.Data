@@ -6,7 +6,9 @@
         "mana": 2500
     },
     "duration": "PT25M",
-    "properties": {
-        "MAXHITPOINTS": 326
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 326
+        }
     }
 }

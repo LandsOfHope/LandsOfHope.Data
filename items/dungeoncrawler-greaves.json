@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dungeoncrawler-greaves","image":"clt","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "dungeoncrawler-greaves",
+    "image": "clt",
+    "type": "leg-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

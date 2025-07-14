@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "quarrier",
     "name": {
         "en": "Quarrier"
     },
@@ -10,5 +12,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 3
+    }
 }

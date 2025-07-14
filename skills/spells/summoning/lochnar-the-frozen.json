@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2372,
         "mana": 2372
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "human",
+            "profession": "ice-mage"
+        }
     }
 }

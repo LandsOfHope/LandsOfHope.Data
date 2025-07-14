@@ -1,10 +1,14 @@
 {
+    "$type": "/v1/profession",
+    "id": "player-vendor",
     "name": {
         "en": "Player Vendor"
     },
     "desc": {
         "en": "A vendor owned by a player."
     },
-    "skills": {},
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 5,
+        "MAXSTAMINA": 5
+    }
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-stitched-face","image":"6854","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "blank-stitched-face",
+    "image": "6854",
+    "type": "head-armour",
+    "set": "inventor-stitched-set",
+    "material": "hide",
+    "skill": "blood-over-beauty"
+}

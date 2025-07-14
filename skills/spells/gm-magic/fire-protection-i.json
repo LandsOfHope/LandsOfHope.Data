@@ -7,7 +7,9 @@
         "mana": 1
     },
     "duration": "PT301M",
-    "skills": {
-        "fire-resistance": 120
+    "effects": {
+        "skills": {
+            "fire-resistance": 120
+        }
     }
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-bolted-gloves","image":"6830","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blank-bolted-gloves",
+    "image": "6830",
+    "type": "hand-armour",
+    "set": "inventor-bolted-set",
+    "material": "metal",
+    "skill": "bolts-over-brains"
+}

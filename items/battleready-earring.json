@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"battleready-earring","image":"858","type":"ear-jewelry","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "battleready-earring",
+    "image": "858",
+    "type": "ear-jewelry",
+    "armorType": "cloth",
+    "material": "gem"
+}

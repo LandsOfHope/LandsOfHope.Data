@@ -1,1 +1,6 @@
-{"$type":"/v1/vessel-item","id":"extra-tar-coat","image":"tarcoat","type":"vessel-hull"}
+{
+    "$type": "/v1/vessel-item",
+    "id": "extra-tar-coat",
+    "image": "tarcoat",
+    "type": "vessel-hull"
+}

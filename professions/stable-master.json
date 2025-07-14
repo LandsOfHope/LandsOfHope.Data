@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "stable-master",
     "name": {
         "en": "Stable Master"
     },
@@ -9,5 +11,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 2
+    }
 }

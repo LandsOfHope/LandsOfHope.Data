@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"frozen-smoothstone","image":"sms","type":"ammo-weapons-rocks","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "frozen-smoothstone",
+    "image": "sms",
+    "type": "ammo-weapons-rocks",
+    "dpr": 65,
+    "material": "stone"
+}

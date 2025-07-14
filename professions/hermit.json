@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "hermit",
     "name": {
         "en": "Hermit"
     },
@@ -13,6 +15,13 @@
         "nature-magic": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1,
+        "SPEED": 1
     },
     "evo": {
         "diviner": 50

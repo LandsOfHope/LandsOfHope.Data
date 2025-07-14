@@ -6,7 +6,9 @@
         "mana": 2600
     },
     "duration": "PT120M",
-    "properties": {
-        "STAMINA": 1300
+    "effects": {
+        "properties": {
+            "STAMINA": 1300
+        }
     }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"gnarled-tusk","image":"zugntu","type":"1-handed-equipment","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "gnarled-tusk",
+    "image": "zugntu",
+    "type": "1-handed-equipment",
+    "dpr": 2,
+    "material": "hide"
+}

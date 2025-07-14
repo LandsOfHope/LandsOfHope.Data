@@ -7,7 +7,9 @@
         "mana": 2690
     },
     "duration": "PT999M",
-    "properties": {
-        "MAXSTAMINA": 269
+    "effects": {
+        "properties": {
+            "MAXSTAMINA": 269
+        }
     }
 }

@@ -4,5 +4,10 @@
     "requirements": {
         "skill": 3844,
         "mana": 3844
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "wisp"
+        }
     }
 }

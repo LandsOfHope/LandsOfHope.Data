@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "christmas-decoration",
     "name": {
         "en": "Christmas Decoration"
     },
     "desc": {
-        "en": "Description"
+        "en": "Wintersvale Product 2008."
     },
     "skills": {
         "healing-magic": 5,
@@ -13,5 +15,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 10,
+        "MAXMANA": 4,
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

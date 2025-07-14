@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"underfjord-key","image":"6441","type":"portal","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "underfjord-key",
+    "image": "6441",
+    "type": "portal",
+    "expansion": "dark-depths",
+    "material": "metal"
+}

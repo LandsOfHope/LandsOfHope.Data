@@ -1,1 +1,6 @@
-{"$type":"/v1/item","id":"carrier-pigeon","image":"cip","type":"courier-item"}
+{
+    "$type": "/v1/item",
+    "id": "carrier-pigeon",
+    "image": "cip",
+    "type": "courier-item"
+}

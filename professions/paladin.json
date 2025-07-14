@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "paladin",
     "name": {
         "en": "Paladin"
     },
@@ -17,5 +19,12 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 3,
+        "STRENGTH": 2
+    }
 }

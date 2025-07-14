@@ -5,5 +5,11 @@
         "skill": 941,
         "mana": 941
     },
-    "duration": "PT30M"
+    "duration": "PT30M",
+    "effects": {
+        "summon-pet": {
+            "race": "bogle",
+            "profession": "spirit-being"
+        }
+    }
 }

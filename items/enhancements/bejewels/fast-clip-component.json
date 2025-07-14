@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "fast-clip-component",
+    "item": "dual-enhancement",
+    "skillValue": 725,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "properties": {
+            "SPEED": 0.5
+        }
+    }
+}

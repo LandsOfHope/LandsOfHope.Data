@@ -6,10 +6,12 @@
         "mana": 952
     },
     "duration": "PT14000M",
-    "skills": {
-        "attack-power": 477
-    },
-    "properties": {
-        "STRENGTH": 477
+    "effects": {
+        "properties": {
+            "STRENGTH": 477
+        },
+        "skills": {
+            "attack-power": 477
+        }
     }
 }

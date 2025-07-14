@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "dark-golem",
     "name": {
         "en": "Dark Golem"
     },
     "desc": {
-        "en": ""
+        "en": "Dark Golem Pet Class"
     },
     "skills": {
         "two-handed-staves": 5,
@@ -13,5 +15,7 @@
         "dark-magic": 5,
         "arcane-resistance": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 0
+    }
 }

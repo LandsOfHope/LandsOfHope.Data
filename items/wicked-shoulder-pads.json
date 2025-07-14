@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wicked-shoulder-pads","image":"2757","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "wicked-shoulder-pads",
+    "image": "2757",
+    "type": "shoulders",
+    "armorType": "mail",
+    "material": "metal"
+}

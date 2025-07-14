@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "tainted-golem",
     "name": {
         "en": "Tainted Golem"
     },
     "desc": {
-        "en": ""
+        "en": "Tainted Golem Pet Class"
     },
     "skills": {
         "acid-resistance": 5,
@@ -14,5 +16,7 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 0
+    }
 }

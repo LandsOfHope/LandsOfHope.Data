@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"pureheart-boots","image":"4738","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "pureheart-boots",
+    "image": "4738",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "legendary": true,
+    "set": "pureheart-legend",
+    "material": "metal"
+}

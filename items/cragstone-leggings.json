@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"cragstone-leggings","image":"4726","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cragstone-leggings",
+    "image": "4726",
+    "type": "leg-armour",
+    "armorType": "mail",
+    "legendary": true,
+    "set": "cragstone-legend",
+    "material": "metal"
+}

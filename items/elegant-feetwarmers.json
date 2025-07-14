@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"elegant-feetwarmers","image":"3112","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "elegant-feetwarmers",
+    "image": "3112",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"royal-braces","image":"3244","type":"arm-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "royal-braces",
+    "image": "3244",
+    "type": "arm-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

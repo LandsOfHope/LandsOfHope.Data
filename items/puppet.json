@@ -1,1 +1,6 @@
-{"$type":"/v1/item","id":"puppet","image":"na","type":"monster-spawner"}
+{
+    "$type": "/v1/item",
+    "id": "puppet",
+    "image": "na",
+    "type": "monster-spawner"
+}

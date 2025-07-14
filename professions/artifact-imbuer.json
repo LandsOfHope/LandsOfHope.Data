@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "artifact-imbuer",
     "name": {
         "en": "Artifact Imbuer"
     },
@@ -9,7 +11,8 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {
-        
+    "properties": {
+        "MAXHITPOINTS": 5,
+        "MAXSTAMINA": 2
     }
 }

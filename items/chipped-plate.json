@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"chipped-plate","image":"cdp","type":"stealing-loot","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "chipped-plate",
+    "image": "cdp",
+    "type": "stealing-loot",
+    "material": "gem"
+}

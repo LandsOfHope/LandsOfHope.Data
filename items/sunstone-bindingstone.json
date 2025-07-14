@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"sunstone-bindingstone","image":"5849","type":"dragon-polymorphers"}
+{
+    "$type": "/v1/item",
+    "id": "sunstone-bindingstone",
+    "image": "5849",
+    "type": "dragon-polymorphers",
+    "expansion": "dragons-of-the-east"
+}

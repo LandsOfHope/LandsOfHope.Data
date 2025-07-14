@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"floristry/pink-formal-flower-suit","item":"pink-formal-flower-suit","image":"6957","time":"PT15S","quantity":1,"skill":"floristry","skillValue":2800,"quality":"common","ingredients":[{"id":"petalpink-flower","quantity":5,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "floristry/pink-formal-flower-suit",
+    "item": "pink-formal-flower-suit",
+    "image": "6957",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "floristry",
+    "skillValue": 2800,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "petalpink-flower",
+            "quantity": 5,
+            "primary": true
+        }
+    ]
+}

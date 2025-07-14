@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"gunsmith","image":"1077","type":"resource-harvester","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "gunsmith",
+    "image": "1077",
+    "type": "resource-harvester",
+    "material": "hide"
+}

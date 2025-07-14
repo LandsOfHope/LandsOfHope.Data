@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"green-dragon-memento","image":"6620","type":"trophy"}
+{
+    "$type": "/v1/item",
+    "id": "green-dragon-memento",
+    "image": "6620",
+    "type": "trophy",
+    "skill": "gods-favor"
+}

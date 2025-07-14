@@ -6,7 +6,9 @@
         "mana": 4500
     },
     "duration": "PT900M",
-    "skills": {
-        "fire-resistance": 900
+    "effects": {
+        "skills": {
+            "fire-resistance": 900
+        }
     }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ethereal-handwarmers","image":"3151","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "ethereal-handwarmers",
+    "image": "3151",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

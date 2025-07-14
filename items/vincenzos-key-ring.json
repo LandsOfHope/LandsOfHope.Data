@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"vincenzos-key-ring","image":"6552","type":"key-chain","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "vincenzos-key-ring",
+    "image": "6552",
+    "type": "key-chain",
+    "expansion": "dark-depths",
+    "material": "hide"
+}

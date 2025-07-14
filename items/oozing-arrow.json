@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"oozing-arrow","image":"arr1","type":"ammo-weapons-bows","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "oozing-arrow",
+    "image": "arr1",
+    "type": "ammo-weapons-bows",
+    "dpr": 17,
+    "material": "wood"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"blistering-bullet","image":"zublbu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blistering-bullet",
+    "image": "zublbu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 63,
+    "material": "metal"
+}

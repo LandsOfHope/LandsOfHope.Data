@@ -5,5 +5,11 @@
         "skill": 1411,
         "mana": 1411
     },
-    "duration": "PT30M"
+    "duration": "PT30M",
+    "effects": {
+        "summon-pet": {
+            "race": "tuatha-de-danann",
+            "profession": "spirit-being"
+        }
+    }
 }

@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"floristry/yellow-formal-flower-dress","item":"yellow-formal-flower-dress","image":"6969","time":"PT15S","quantity":1,"skill":"floristry","skillValue":3300,"quality":"common","ingredients":[{"id":"innee-flower","quantity":5,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "floristry/yellow-formal-flower-dress",
+    "item": "yellow-formal-flower-dress",
+    "image": "6969",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "floristry",
+    "skillValue": 3300,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "innee-flower",
+            "quantity": 5,
+            "primary": true
+        }
+    ]
+}

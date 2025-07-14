@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"collar","image":"car","type":"neck","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "collar",
+    "image": "car",
+    "type": "neck",
+    "armorType": "leather",
+    "material": "hide"
+}

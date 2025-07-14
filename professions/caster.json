@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "caster",
     "name": {
         "en": "Caster"
     },
@@ -13,9 +15,15 @@
         "armor": 5,
         "attack-power": 5
     },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 1
+    },
     "evo": {
-        "invoker": 50,
         "mage": 50,
-        "shaman": 50
+        "shaman": 50,
+        "invoker": 50
     }
 }

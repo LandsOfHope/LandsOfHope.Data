@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"magma-bullet","image":"bl","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "magma-bullet",
+    "image": "bl",
+    "type": "ammo-weapons-bullets",
+    "dpr": 75,
+    "material": "metal"
+}

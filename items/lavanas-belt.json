@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"lavanas-belt","image":"gmlabe","type":"stomach","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "lavanas-belt",
+    "image": "gmlabe",
+    "type": "stomach",
+    "armorType": "cloth",
+    "material": "hide"
+}

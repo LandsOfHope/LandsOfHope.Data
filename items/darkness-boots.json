@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"darkness-boots","image":"2846","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "darkness-boots",
+    "image": "2846",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

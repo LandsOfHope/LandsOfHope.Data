@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"stitched-shirt","image":"pshi5","type":"chest-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "stitched-shirt",
+    "image": "pshi5",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"frostvale-cap","image":"zufrca","type":"head-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "frostvale-cap",
+    "image": "zufrca",
+    "type": "head-armour",
+    "armorType": "leather",
+    "legendary": true,
+    "set": "frostvale-legend",
+    "material": "hide"
+}

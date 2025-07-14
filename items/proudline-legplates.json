@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"proudline-legplates","image":"4729","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "proudline-legplates",
+    "image": "4729",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "legendary": true,
+    "set": "proudline-legend",
+    "material": "metal"
+}

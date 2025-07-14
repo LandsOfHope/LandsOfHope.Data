@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"crown-of-blood","image":"zucrbl","type":"forehead","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "crown-of-blood",
+    "image": "zucrbl",
+    "type": "forehead",
+    "armorType": "cloth",
+    "set": "dark-hollow-clan",
+    "material": "metal",
+    "skill": "dark-hollow-clan"
+}

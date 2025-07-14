@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"alchemy/potent-projectile-tonic","item":"potent-projectile-tonic","image":"pe8","time":"PT15S","quantity":1,"skill":"alchemy","skillValue":2100,"quality":"common","ingredients":[{"id":"empty-potion-bottle","quantity":1,"primary":true},{"id":"mortar-and-pestle","quantity":0},{"id":"mandrake","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "alchemy/potent-projectile-tonic",
+    "item": "potent-projectile-tonic",
+    "image": "pe8",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "alchemy",
+    "skillValue": 2100,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "empty-potion-bottle",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "mortar-and-pestle",
+            "quantity": 0
+        },
+        {
+            "id": "mandrake",
+            "quantity": 1
+        }
+    ]
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"firework","image":"gmfiei","type":"fireworks","material":"color"}
+{
+    "$type": "/v1/item",
+    "id": "firework",
+    "image": "gmfiei",
+    "type": "fireworks",
+    "expansion": "uncharted-waters",
+    "material": "color"
+}

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"tarnished-metal-shipment","image":"5550","type":"metal-ship-resource"}
+{
+    "$type": "/v1/item",
+    "id": "tarnished-metal-shipment",
+    "image": "5550",
+    "type": "metal-ship-resource",
+    "expansion": "uncharted-waters"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"heart-of-a-champion-ring","image":"6679","type":"ring","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "heart-of-a-champion-ring",
+    "image": "6679",
+    "type": "ring",
+    "material": "gem",
+    "skill": "spoils-of-war"
+}

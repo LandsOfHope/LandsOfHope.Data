@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "flesh-dealer",
     "name": {
         "en": "Flesh Dealer"
     },
@@ -8,6 +10,10 @@
     "skills": {
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "MAXHITPOINTS": 5,
+        "MAXSTAMINA": 6
     },
     "evo": {
         "mutilator": 650

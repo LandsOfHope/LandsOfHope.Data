@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"muses-journal","image":"6535","type":"special-slot","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "muses-journal",
+    "image": "6535",
+    "type": "special-slot",
+    "expansion": "dark-depths",
+    "material": "hide"
+}

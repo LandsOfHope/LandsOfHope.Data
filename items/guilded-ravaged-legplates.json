@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-ravaged-legplates","image":"3652","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-ravaged-legplates",
+    "image": "3652",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

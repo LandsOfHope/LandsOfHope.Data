@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"bejewelled-greaves","image":"2336","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bejewelled-greaves",
+    "image": "2336",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

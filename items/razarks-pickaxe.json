@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"razarks-pickaxe","image":"5027","type":"1-handed-equipment","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "razarks-pickaxe",
+    "image": "5027",
+    "type": "1-handed-equipment",
+    "material": "gem",
+    "skill": "mining"
+}

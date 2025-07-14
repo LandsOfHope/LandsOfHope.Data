@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"strung-shoulder-pads","image":"3015","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "strung-shoulder-pads",
+    "image": "3015",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

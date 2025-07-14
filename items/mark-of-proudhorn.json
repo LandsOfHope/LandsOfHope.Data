@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"mark-of-proudhorn","image":"zumapr","type":"exile-symbol","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "mark-of-proudhorn",
+    "image": "zumapr",
+    "type": "exile-symbol",
+    "set": "myzan-defenders",
+    "material": "metal",
+    "skill": "myzan-defenders"
+}

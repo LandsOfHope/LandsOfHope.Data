@@ -7,7 +7,9 @@
         "mana": 4
     },
     "duration": "PT304M",
-    "skills": {
-        "fishing": 400
+    "effects": {
+        "skills": {
+            "fishing": 400
+        }
     }
 }

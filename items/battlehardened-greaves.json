@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"battlehardened-greaves","image":"2337","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "battlehardened-greaves",
+    "image": "2337",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

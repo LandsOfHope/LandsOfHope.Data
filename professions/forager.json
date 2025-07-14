@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "forager",
     "name": {
         "en": "Forager"
     },
@@ -12,5 +14,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 2
+    }
 }

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"recruits-greaves","image":"gmregr","type":"foot-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "recruits-greaves",
+    "image": "gmregr",
+    "type": "foot-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

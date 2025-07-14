@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "quest-marker",
     "name": {
         "en": "Quest Marker"
     },
@@ -9,5 +11,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 3
+    }
 }

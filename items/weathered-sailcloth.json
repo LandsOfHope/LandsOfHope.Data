@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"weathered-sailcloth","image":"zuwesa","type":"sailcloth-ship-resource"}
+{
+    "$type": "/v1/item",
+    "id": "weathered-sailcloth",
+    "image": "zuwesa",
+    "type": "sailcloth-ship-resource",
+    "expansion": "uncharted-waters"
+}

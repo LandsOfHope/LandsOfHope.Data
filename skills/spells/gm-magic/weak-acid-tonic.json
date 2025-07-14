@@ -6,7 +6,9 @@
         "mana": 350
     },
     "duration": "PT70M",
-    "skills": {
-        "acid-resistance": 70
+    "effects": {
+        "skills": {
+            "acid-resistance": 70
+        }
     }
 }

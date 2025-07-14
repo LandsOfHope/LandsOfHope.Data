@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"rocky-bolt","image":"arr1","type":"ammo-weapons-crossbows","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "rocky-bolt",
+    "image": "arr1",
+    "type": "ammo-weapons-crossbows",
+    "dpr": 69,
+    "material": "wood"
+}

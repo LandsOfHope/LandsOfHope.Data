@@ -6,7 +6,9 @@
         "mana": 50
     },
     "duration": "PT5000M",
-    "skills": {
-        "track-items": 200
+    "effects": {
+        "skills": {
+            "track-items": 200
+        }
     }
 }

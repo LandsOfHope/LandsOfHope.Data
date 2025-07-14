@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"giant-slayer","image":"ar","type":"ranged-weapon","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "giant-slayer",
+    "image": "ar",
+    "type": "ranged-weapon",
+    "dpr": 8,
+    "material": "stone",
+    "skill": "thrown-weapons"
+}

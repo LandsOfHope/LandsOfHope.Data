@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"egg-of-roc","image":"6154","type":"charm-ingredient"}
+{
+    "$type": "/v1/item",
+    "id": "egg-of-roc",
+    "image": "6154",
+    "type": "charm-ingredient",
+    "expansion": "the-afterlife"
+}

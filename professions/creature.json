@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "creature",
     "name": {
         "en": "Creature"
     },
@@ -10,5 +12,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 2
+    }
 }

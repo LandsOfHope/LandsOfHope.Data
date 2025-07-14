@@ -6,7 +6,9 @@
         "mana": 10
     },
     "duration": "PT1440M",
-    "skills": {
-        "water-survival": 100
+    "effects": {
+        "skills": {
+            "water-survival": 100
+        }
     }
 }

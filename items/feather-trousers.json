@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"feather-trousers","image":"608","type":"leg-armour","material":"bird"}
+{
+    "$type": "/v1/item",
+    "id": "feather-trousers",
+    "image": "608",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "bird"
+}

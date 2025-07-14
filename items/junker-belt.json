@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"junker-belt","image":"6876","type":"stomach","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "junker-belt",
+    "image": "6876",
+    "type": "stomach",
+    "material": "metal",
+    "skill": "bolts-over-brains"
+}

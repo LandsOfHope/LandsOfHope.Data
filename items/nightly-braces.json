@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"nightly-braces","image":"3239","type":"arm-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "nightly-braces",
+    "image": "3239",
+    "type": "arm-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

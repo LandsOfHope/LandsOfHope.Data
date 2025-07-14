@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ice-bolt","image":"zuicbo","type":"ammo-weapons-crossbows","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "ice-bolt",
+    "image": "zuicbo",
+    "type": "ammo-weapons-crossbows",
+    "dpr": 5,
+    "material": "wood"
+}

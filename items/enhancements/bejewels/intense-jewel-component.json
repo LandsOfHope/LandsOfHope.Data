@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "intense-jewel-component",
+    "item": "neck-enhancement",
+    "skillValue": 3900,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "mana-regen": 0.4
+        }
+    }
+}

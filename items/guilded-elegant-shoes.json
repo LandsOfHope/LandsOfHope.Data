@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-elegant-shoes","image":"3907","type":"foot-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-elegant-shoes",
+    "image": "3907",
+    "type": "foot-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"cooked-rice","image":"c1r","type":"food","material":"crop"}
+{
+    "$type": "/v1/item",
+    "id": "cooked-rice",
+    "image": "c1r",
+    "type": "food",
+    "material": "crop"
+}

@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"legendary-throwing-knife","image":"gmlethkn","type":"ranged-weapon","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "legendary-throwing-knife",
+    "image": "gmlethkn",
+    "type": "ranged-weapon",
+    "dpr": 120,
+    "legendary": true,
+    "material": "gem",
+    "skill": "thrown-weapons"
+}

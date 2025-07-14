@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"strongmoon-cap","image":"4700","type":"head-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "strongmoon-cap",
+    "image": "4700",
+    "type": "head-armour",
+    "armorType": "cloth",
+    "legendary": true,
+    "set": "strongmoon-legend",
+    "material": "cloth"
+}

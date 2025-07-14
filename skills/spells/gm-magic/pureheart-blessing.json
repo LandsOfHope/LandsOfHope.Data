@@ -7,10 +7,12 @@
         "mana": 1
     },
     "duration": "PT1400M",
-    "skills": {
-        "attack-power": 600
-    },
-    "properties": {
-        "STRENGTH": 600
+    "effects": {
+        "properties": {
+            "STRENGTH": 600
+        },
+        "skills": {
+            "attack-power": 600
+        }
     }
 }

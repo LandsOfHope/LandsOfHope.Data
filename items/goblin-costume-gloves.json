@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"goblin-costume-gloves","image":"goglv","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "goblin-costume-gloves",
+    "image": "goglv",
+    "type": "hand-armour",
+    "set": "goblin-costume",
+    "material": "cloth",
+    "skill": "artisan"
+}

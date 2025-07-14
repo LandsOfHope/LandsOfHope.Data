@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"frosty-bullet","image":"zufrbu3","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "frosty-bullet",
+    "image": "zufrbu3",
+    "type": "ammo-weapons-bullets",
+    "dpr": 14,
+    "material": "metal"
+}

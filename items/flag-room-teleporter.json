@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"flag-room-teleporter","image":"po7","type":"flag-transporter","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "flag-room-teleporter",
+    "image": "po7",
+    "type": "flag-transporter",
+    "material": "gem"
+}

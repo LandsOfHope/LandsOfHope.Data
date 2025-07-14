@@ -6,7 +6,9 @@
         "mana": 697
     },
     "duration": "PT14000M",
-    "skills": {
-        "armor": 349
+    "effects": {
+        "skills": {
+            "armor": 349
+        }
     }
 }

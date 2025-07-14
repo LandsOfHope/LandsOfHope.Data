@@ -6,10 +6,12 @@
         "mana": 845
     },
     "duration": "PT30M",
-    "skills": {
-        "attack-power": -421
-    },
-    "properties": {
-        "MAXMANA": -421
+    "effects": {
+        "properties": {
+            "MAXMANA": -421
+        },
+        "skills": {
+            "attack-power": -421
+        }
     }
 }

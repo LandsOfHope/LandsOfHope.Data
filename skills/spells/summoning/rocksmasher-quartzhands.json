@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2878,
         "mana": 2878
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "orc-lord",
+            "profession": "quarrier"
+        }
     }
 }

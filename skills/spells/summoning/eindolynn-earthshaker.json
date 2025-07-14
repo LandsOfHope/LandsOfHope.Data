@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 1866,
         "mana": 1866
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "human",
+            "profession": "earth-mage"
+        }
     }
 }

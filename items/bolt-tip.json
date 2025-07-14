@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"bolt-tip","image":"feboti","type":"ammo-materials","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bolt-tip",
+    "image": "feboti",
+    "type": "ammo-materials",
+    "material": "metal"
+}

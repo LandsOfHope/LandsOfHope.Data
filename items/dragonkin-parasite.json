@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dragonkin-parasite","image":"5193","type":"trophy","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "dragonkin-parasite",
+    "image": "5193",
+    "type": "trophy",
+    "expansion": "jurassic-wars",
+    "material": "hide"
+}

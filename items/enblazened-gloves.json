@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"enblazened-gloves","image":"3130","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "enblazened-gloves",
+    "image": "3130",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

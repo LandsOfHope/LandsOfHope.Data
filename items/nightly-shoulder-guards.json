@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"nightly-shoulder-guards","image":"3269","type":"shoulders","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "nightly-shoulder-guards",
+    "image": "3269",
+    "type": "shoulders",
+    "armorType": "cloth",
+    "material": "cloth"
+}

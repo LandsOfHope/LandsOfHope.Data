@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "basic-equipment-store",
     "name": {
         "en": "Basic Equipment Store"
     },
@@ -6,7 +8,11 @@
         "en": ""
     },
     "skills": {
-        "armor": 5
+        "armor": 5,
+        "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 3,
+        "MAXSTAMINA": 3
+    }
 }

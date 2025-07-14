@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "routemaster",
     "name": {
         "en": "Routemaster"
     },
@@ -13,5 +15,13 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 4,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 2
+    }
 }

@@ -6,10 +6,12 @@
         "mana": 638
     },
     "duration": "PT5000M",
-    "skills": {
-        "frenzy": 150
-    },
-    "properties": {
-        "MAXHITPOINTS": 400
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 400
+        },
+        "skills": {
+            "frenzy": 150
+        }
     }
 }

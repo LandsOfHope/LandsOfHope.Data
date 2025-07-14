@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"battle-ogre","image":"6673","type":"creature"}
+{
+    "$type": "/v1/item",
+    "id": "battle-ogre",
+    "image": "6673",
+    "type": "creature",
+    "skill": "gods-favor"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-commanders-legchain","image":"3747","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-commanders-legchain",
+    "image": "3747",
+    "type": "leg-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

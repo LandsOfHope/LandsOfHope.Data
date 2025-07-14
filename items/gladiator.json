@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"gladiator","image":"na","type":"creature"}
+{
+    "$type": "/v1/item",
+    "id": "gladiator",
+    "image": "na",
+    "type": "creature",
+    "skill": "gods-favor"
+}

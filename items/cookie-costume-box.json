@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cookie-costume-box","image":"5625","type":"costume-box","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "cookie-costume-box",
+    "image": "5625",
+    "type": "costume-box",
+    "material": "cloth",
+    "skill": "artisan"
+}

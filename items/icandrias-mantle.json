@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"icandrias-mantle","image":"mle","type":"chest-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "icandrias-mantle",
+    "image": "mle",
+    "type": "chest-armour",
+    "armorType": "cloth",
+    "material": "hide"
+}

@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"mantle-of-the-cursed","image":"zumacu","type":"stomach","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "mantle-of-the-cursed",
+    "image": "zumacu",
+    "type": "stomach",
+    "armorType": "cloth",
+    "set": "dark-hollow-clan",
+    "material": "stone",
+    "skill": "dark-hollow-clan"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-cadet-sleeves","image":"3782","type":"arm-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-cadet-sleeves",
+    "image": "3782",
+    "type": "arm-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"mystical-shimmering-tattoo","image":"tattoo3","type":"forehead","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "mystical-shimmering-tattoo",
+    "image": "tattoo3",
+    "type": "forehead",
+    "material": "gem",
+    "skill": "hellscar-legion"
+}

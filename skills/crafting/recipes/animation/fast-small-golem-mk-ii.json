@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"animation/fast-small-golem-mk-ii","item":"fast-small-golem-mk-ii","image":"2680","time":"PT15S","quantity":1,"skill":"animation","skillValue":275,"quality":"common","ingredients":[{"id":"golem-upgrade-fast-ii","quantity":1},{"id":"plain-coating","quantity":1},{"id":"small-shell","quantity":1,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "animation/fast-small-golem-mk-ii",
+    "item": "fast-small-golem-mk-ii",
+    "image": "2680",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "animation",
+    "skillValue": 275,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "small-shell",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "plain-coating",
+            "quantity": 1
+        },
+        {
+            "id": "golem-upgrade-fast-ii",
+            "quantity": 1
+        }
+    ]
+}

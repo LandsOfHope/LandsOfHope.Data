@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 1728,
         "mana": 1728
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "gryphon",
+            "profession": "wild-animal"
+        }
     }
 }

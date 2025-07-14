@@ -1,1 +1,19 @@
-{"$type":"/v1/skills/crafting/recipe","id":"blood-over-beauty/stitchwork-belt","item":"stitchwork-belt","image":"6877","time":"PT15S","quantity":1,"skill":"blood-over-beauty","skillValue":150,"quality":"common","failureChance":50,"ingredients":[{"id":"hide","quantity":5,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "blood-over-beauty/stitchwork-belt",
+    "item": "stitchwork-belt",
+    "image": "6877",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "blood-over-beauty",
+    "skillValue": 150,
+    "quality": "common",
+    "failureChance": 50,
+    "ingredients": [
+        {
+            "id": "hide",
+            "quantity": 5,
+            "primary": true
+        }
+    ]
+}

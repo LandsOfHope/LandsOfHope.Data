@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"soaking-bullet","image":"zusobu","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "soaking-bullet",
+    "image": "zusobu",
+    "type": "ammo-weapons-bullets",
+    "dpr": 56,
+    "material": "metal"
+}

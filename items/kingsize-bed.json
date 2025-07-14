@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"kingsize-bed","image":"bed3","type":"house-furniture","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "kingsize-bed",
+    "image": "bed3",
+    "type": "house-furniture-i",
+    "material": "wood"
+}

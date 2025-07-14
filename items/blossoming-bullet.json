@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"blossoming-bullet","image":"zublbu2","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blossoming-bullet",
+    "image": "zublbu2",
+    "type": "ammo-weapons-bullets",
+    "dpr": 41,
+    "material": "metal"
+}

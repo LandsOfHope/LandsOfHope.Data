@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"short-bow","image":"shb","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "short-bow",
+    "image": "shb",
+    "type": "ranged-weapon",
+    "dpr": 3,
+    "material": "metal",
+    "skill": "bows"
+}

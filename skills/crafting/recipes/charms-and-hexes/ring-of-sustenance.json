@@ -1,1 +1,24 @@
-{"$type":"/v1/skills/crafting/recipe","id":"charms-and-hexes/ring-of-sustenance","item":"ring-of-sustenance","image":"ring14","time":"PT15S","quantity":1,"skill":"charms-and-hexes","skillValue":1425,"quality":"common","singleUse":true,"failureChance":60,"ingredients":[{"id":"gem","quantity":1,"primary":true},{"id":"blood-of-evil","quantity":1}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "charms-and-hexes/ring-of-sustenance",
+    "item": "ring-of-sustenance",
+    "image": "ring14",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "charms-and-hexes",
+    "skillValue": 1425,
+    "quality": "common",
+    "singleUse": true,
+    "failureChance": 60,
+    "ingredients": [
+        {
+            "id": "gem",
+            "quantity": 1,
+            "primary": true
+        },
+        {
+            "id": "blood-of-evil",
+            "quantity": 1
+        }
+    ]
+}

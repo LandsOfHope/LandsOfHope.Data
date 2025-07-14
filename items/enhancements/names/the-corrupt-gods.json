@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "the-corrupt-gods",
+    "effects": {
+        "skills": {
+            "drain-resistance": 0.5,
+            "poison-resistance": 0.5
+        }
+    }
+}

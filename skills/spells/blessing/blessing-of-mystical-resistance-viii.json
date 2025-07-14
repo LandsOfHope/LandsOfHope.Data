@@ -6,7 +6,9 @@
         "mana": 4602
     },
     "duration": "PT75M",
-    "skills": {
-        "mystical-resistance": 475
+    "effects": {
+        "skills": {
+            "mystical-resistance": 475
+        }
     }
 }

@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"barrendown-pauldrons","image":"5672","type":"shoulders","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "barrendown-pauldrons",
+    "image": "5672",
+    "type": "shoulders",
+    "armorType": "mail",
+    "legendary": true,
+    "set": "barrendown-legend",
+    "material": "metal"
+}

@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"makers-trousers","image":"6394","type":"leg-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "makers-trousers",
+    "image": "6394",
+    "type": "leg-armour",
+    "legendary": true,
+    "set": "makers-set",
+    "material": "hide",
+    "skill": "artisan"
+}

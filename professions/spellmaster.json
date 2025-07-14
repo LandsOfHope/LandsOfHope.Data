@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "spellmaster",
     "name": {
         "en": "Spellmaster"
     },
@@ -11,5 +13,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 3,
+        "MAXHITPOINTS": 3,
+        "MAXMANA": 3
+    }
 }

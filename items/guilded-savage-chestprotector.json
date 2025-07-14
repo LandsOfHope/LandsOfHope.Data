@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-savage-chestprotector","image":"3735","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-savage-chestprotector",
+    "image": "3735",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

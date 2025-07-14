@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/items/enhancements/item-patch",
+    "id": "young-raptor-patch",
+    "effects": {
+        "skills": {
+            "attack-power": 0.05
+        }
+    }
+}

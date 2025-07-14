@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"enriched-healing-potion","image":"pr1","type":"magic-potion","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "enriched-healing-potion",
+    "image": "pr1",
+    "type": "magic-potion",
+    "material": "gem"
+}

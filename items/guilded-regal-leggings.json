@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-regal-leggings","image":"3888","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-regal-leggings",
+    "image": "3888",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

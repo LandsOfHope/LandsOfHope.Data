@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2786,
         "mana": 2786
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "sithe-lord",
+            "profession": "mage"
+        }
     }
 }

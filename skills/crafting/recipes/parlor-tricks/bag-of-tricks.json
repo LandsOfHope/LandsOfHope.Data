@@ -1,1 +1,23 @@
-{"$type":"/v1/skills/crafting/recipe","id":"parlor-tricks/bag-of-tricks","item":"bag-of-tricks","image":"6416","time":"PT15S","quantity":1,"skill":"parlor-tricks","skillValue":3540,"quality":"uncommon","failureChance":60,"ingredients":[{"id":"mystery-compound","quantity":10,"primary":true},{"id":"ninja-tools","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "parlor-tricks/bag-of-tricks",
+    "item": "bag-of-tricks",
+    "image": "6416",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "parlor-tricks",
+    "skillValue": 3540,
+    "quality": "uncommon",
+    "failureChance": 60,
+    "ingredients": [
+        {
+            "id": "ninja-tools",
+            "quantity": 0
+        },
+        {
+            "id": "mystery-compound",
+            "quantity": 10,
+            "primary": true
+        }
+    ]
+}

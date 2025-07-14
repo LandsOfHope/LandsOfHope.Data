@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"bejewelled-link-gloves","image":"2633","type":"hand-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "bejewelled-link-gloves",
+    "image": "2633",
+    "type": "hand-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

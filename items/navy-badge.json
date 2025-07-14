@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"navy-badge","image":"1014","type":"bonus-slot","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "navy-badge",
+    "image": "1014",
+    "type": "bonus-slot",
+    "material": "metal",
+    "skill": "myzan-navy"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"savage-breastchain","image":"2560","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "savage-breastchain",
+    "image": "2560",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

@@ -6,7 +6,9 @@
         "mana": 3557
     },
     "duration": "PT900M",
-    "skills": {
-        "drain-resistance": 271
+    "effects": {
+        "skills": {
+            "drain-resistance": 271
+        }
     }
 }

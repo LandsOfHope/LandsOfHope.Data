@@ -7,7 +7,9 @@
         "mana": 17
     },
     "duration": "PT60M",
-    "properties": {
-        "DEXTERITY": 85
+    "effects": {
+        "properties": {
+            "DEXTERITY": 85
+        }
     }
 }

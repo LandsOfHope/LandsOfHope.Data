@@ -5,7 +5,9 @@
         "skill": 1,
         "mana": 1
     },
-    "properties": {
-        "MAXHITPOINTS": 2
+    "effects": {
+        "properties": {
+            "MAXHITPOINTS": 2
+        }
     }
 }

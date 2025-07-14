@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"root-of-oak","image":"6153","type":"charm-ingredient"}
+{
+    "$type": "/v1/item",
+    "id": "root-of-oak",
+    "image": "6153",
+    "type": "charm-ingredient",
+    "expansion": "the-afterlife"
+}

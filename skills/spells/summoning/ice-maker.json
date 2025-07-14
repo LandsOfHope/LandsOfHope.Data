@@ -5,5 +5,10 @@
         "skill": 2096,
         "mana": 2096
     },
-    "duration": "PT225M"
+    "duration": "PT225M",
+    "effects": {
+        "summon-item": {
+            "item": "ice-maker"
+        }
+    }
 }

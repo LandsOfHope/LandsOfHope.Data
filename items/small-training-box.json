@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"small-training-box","image":"sc1","type":"training-aid","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "small-training-box",
+    "image": "sc1",
+    "type": "training-aid-box",
+    "material": "wood"
+}

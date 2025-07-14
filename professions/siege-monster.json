@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "siege-monster",
     "name": {
         "en": "Siege Monster"
     },
     "desc": {
-        "en": ""
+        "en": "Bought extra pet Fighter class."
     },
     "skills": {
         "siege-defense": 5,
@@ -13,5 +15,9 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 9,
+        "MAXSTAMINA": 6,
+        "STRENGTH": 3
+    }
 }

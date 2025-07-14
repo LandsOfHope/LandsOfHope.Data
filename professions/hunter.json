@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "hunter",
     "name": {
         "en": "Hunter"
     },
@@ -14,6 +16,13 @@
         "track-beasts": 5,
         "armor": 5,
         "attack-power": 5
+    },
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2,
+        "SPEED": 2,
+        "STRENGTH": 2
     },
     "evo": {
         "beastlord": 650

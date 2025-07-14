@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"rifle","image":"re4","type":"ranged-weapon","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "rifle",
+    "image": "re4",
+    "type": "ranged-weapon",
+    "dpr": 4,
+    "material": "metal",
+    "skill": "two-handed-guns"
+}

@@ -7,7 +7,9 @@
         "mana": 3040
     },
     "duration": "PT999M",
-    "skills": {
-        "attack-power": 304
+    "effects": {
+        "skills": {
+            "attack-power": 304
+        }
     }
 }

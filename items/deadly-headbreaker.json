@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"deadly-headbreaker","image":"lsf","type":"2-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "deadly-headbreaker",
+    "image": "lsf",
+    "type": "2-handed-equipment",
+    "dpr": 72,
+    "material": "wood",
+    "skill": "two-handed-staves"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ghostly-shoulder-guards","image":"3032","type":"shoulders","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "ghostly-shoulder-guards",
+    "image": "3032",
+    "type": "shoulders",
+    "armorType": "leather",
+    "material": "hide"
+}

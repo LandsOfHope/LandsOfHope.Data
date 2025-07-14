@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"royal-handwarmers","image":"3154","type":"hand-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "royal-handwarmers",
+    "image": "3154",
+    "type": "hand-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

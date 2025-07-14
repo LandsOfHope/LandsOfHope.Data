@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "vengeful-summon",
     "name": {
         "en": "Vengeful Summon"
     },
     "desc": {
-        "en": ""
+        "en": "A vengeful summon."
     },
     "skills": {
         "frenzy": 5,
@@ -12,5 +14,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 3,
+        "MAXHITPOINTS": 6,
+        "MAXSTAMINA": 7,
+        "SPEED": 3
+    }
 }

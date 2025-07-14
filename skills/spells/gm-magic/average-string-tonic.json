@@ -6,7 +6,9 @@
         "mana": 1800
     },
     "duration": "PT360M",
-    "skills": {
-        "stringed-defense": 360
+    "effects": {
+        "skills": {
+            "stringed-defense": 360
+        }
     }
 }

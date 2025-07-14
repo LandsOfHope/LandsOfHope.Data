@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"oozing-bullet","image":"4140","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "oozing-bullet",
+    "image": "4140",
+    "type": "ammo-weapons-bullets",
+    "dpr": 15,
+    "material": "metal"
+}

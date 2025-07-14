@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "hell-mage",
     "name": {
         "en": "Hell Mage"
     },
@@ -13,5 +15,10 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 4,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 4,
+        "SPEED": 1
+    }
 }

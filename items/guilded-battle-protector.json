@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"guilded-battle-protector","image":"sd7","type":"1-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-battle-protector",
+    "image": "sd7",
+    "type": "1-handed-equipment",
+    "dpr": 43,
+    "material": "wood",
+    "skill": "shields"
+}

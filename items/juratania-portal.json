@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"juratania-portal","image":"po9","type":"expansion-pack-portal","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "juratania-portal",
+    "image": "po9",
+    "type": "expansion-pack-portal",
+    "expansion": "jurassic-wars",
+    "material": "gem"
+}

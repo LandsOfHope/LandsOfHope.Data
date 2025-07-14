@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"arcanus-robe","image":"rb2","type":"neck","material":"gem"}
+{
+    "$type": "/v1/item",
+    "id": "arcanus-robe",
+    "image": "rb2",
+    "type": "neck",
+    "armorType": "cloth",
+    "material": "gem"
+}

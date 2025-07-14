@@ -1,0 +1,17 @@
+{
+    "$type": "/v1/items/enhancements/item-bejewel",
+    "id": "healthy-jewel-component",
+    "item": "neck-enhancement",
+    "skillValue": 3500,
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ],
+    "effects": {
+        "skills": {
+            "health-regen": 0.4
+        }
+    }
+}

@@ -1,1 +1,27 @@
-{"$type":"/v1/skills/crafting/recipe","id":"construction/a-zoo-blueprint","item":"zoo-blueprint","image":"1936","time":"PT600S","quantity":1,"skill":"construction","skillValue":5000,"quality":"artifact","singleUse":true,"ingredients":[{"id":"ingot","quantity":100,"primary":true},{"id":"ruby-shedding","quantity":100},{"id":"glorious-plumage","quantity":100}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "construction/a-zoo-blueprint",
+    "item": "zoo-blueprint",
+    "image": "1936",
+    "time": "PT600S",
+    "quantity": 1,
+    "skill": "construction",
+    "skillValue": 5000,
+    "quality": "artifact",
+    "singleUse": true,
+    "ingredients": [
+        {
+            "id": "ingot",
+            "quantity": 100,
+            "primary": true
+        },
+        {
+            "id": "glorious-plumage",
+            "quantity": 100
+        },
+        {
+            "id": "ruby-shedding",
+            "quantity": 100
+        }
+    ]
+}

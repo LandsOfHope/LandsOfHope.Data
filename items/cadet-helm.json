@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"cadet-helm","image":"2651","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "cadet-helm",
+    "image": "2651",
+    "type": "head-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

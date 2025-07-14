@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"subzero-bullet","image":"zufrbu1","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "subzero-bullet",
+    "image": "zufrbu1",
+    "type": "ammo-weapons-bullets",
+    "dpr": 71,
+    "material": "metal"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"a-dazzling-key","image":"6175","type":"key","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "a-dazzling-key",
+    "image": "6175",
+    "type": "key",
+    "material": "metal",
+    "skill": "artisan"
+}

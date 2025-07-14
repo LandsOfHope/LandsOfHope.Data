@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "war-machine",
     "name": {
         "en": "War Machine"
     },
@@ -10,5 +12,8 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "MAXHITPOINTS": 6,
+        "MAXSTAMINA": 8
+    }
 }

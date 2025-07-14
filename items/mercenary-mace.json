@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"mercenary-mace","image":"6658","type":"1-handed-equipment","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "mercenary-mace",
+    "image": "6658",
+    "type": "1-handed-equipment",
+    "dpr": 3,
+    "material": "metal",
+    "skill": "maces"
+}

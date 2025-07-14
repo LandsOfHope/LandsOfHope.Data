@@ -1,0 +1,861 @@
+{
+    "bejewels": {
+        "alchemy-ring-band": {
+            "name": "Alchemy ring band",
+            "prefix": "Bubbling"
+        },
+        "alchemy-ring-coating": {
+            "name": "Alchemy ring coating",
+            "prefix": "Bubbling"
+        },
+        "alchemy-ring-setting": {
+            "name": "Alchemy ring setting",
+            "prefix": "Bubbling"
+        },
+        "armor-component": {
+            "name": "Armor component",
+            "prefix": "Armored"
+        },
+        "blacksmithing-ring-band": {
+            "name": "Blacksmithing ring band",
+            "prefix": "Forged"
+        },
+        "blacksmithing-ring-coating": {
+            "name": "Blacksmithing ring coating",
+            "prefix": "Forged"
+        },
+        "blacksmithing-ring-setting": {
+            "name": "Blacksmithing ring setting",
+            "prefix": "Forged"
+        },
+        "carpentry-ring-band": {
+            "name": "Carpentry ring band",
+            "prefix": "Carved"
+        },
+        "carpentry-ring-coating": {
+            "name": "Carpentry ring coating",
+            "prefix": "Carved"
+        },
+        "carpentry-ring-setting": {
+            "name": "Carpentry ring setting",
+            "prefix": "Carved"
+        },
+        "cooking-ring-band": {
+            "name": "Cooking ring band",
+            "prefix": "Toasted"
+        },
+        "cooking-ring-coating": {
+            "name": "Cooking ring coating",
+            "prefix": "Toasted"
+        },
+        "cooking-ring-setting": {
+            "name": "Cooking ring setting",
+            "prefix": "Toasted"
+        },
+        "farming-earring-chain": {
+            "name": "Farming earring chain",
+            "prefix": "Farmers"
+        },
+        "farming-earring-clip": {
+            "name": "Farming earring clip",
+            "prefix": "Farmers"
+        },
+        "farming-earring-jewel": {
+            "name": "Farming earring jewel",
+            "prefix": "Farmers"
+        },
+        "fast-brooch": {
+            "name": "Fast brooch",
+            "prefix": "Fast"
+        },
+        "fast-clasp-component": {
+            "name": "Fast clasp component",
+            "prefix": "Fast"
+        },
+        "fast-clip-component": {
+            "name": "Fast clip component",
+            "prefix": "Fast"
+        },
+        "fishing-earring-chain": {
+            "name": "Fishing earring chain",
+            "prefix": "Fishers"
+        },
+        "fishing-earring-clip": {
+            "name": "Fishing earring clip",
+            "prefix": "Fishers"
+        },
+        "fishing-earring-jewel": {
+            "name": "Fishing earring jewel",
+            "prefix": "Fishers"
+        },
+        "foraging-earring-chain": {
+            "name": "Foraging earring chain",
+            "prefix": "Foragers"
+        },
+        "foraging-earring-clip": {
+            "name": "Foraging earring clip",
+            "prefix": "Foragers"
+        },
+        "foraging-earring-jewel": {
+            "name": "Foraging earring jewel",
+            "prefix": "Foragers"
+        },
+        "fortified-brooch": {
+            "name": "Fortified brooch",
+            "prefix": "Fortified"
+        },
+        "fortified-clasp-component": {
+            "name": "Fortified clasp component",
+            "prefix": "Fortified"
+        },
+        "fortified-clip-component": {
+            "name": "Fortified clip component",
+            "prefix": "Fortified"
+        },
+        "geology-earring-chain": {
+            "name": "Geology earring chain",
+            "prefix": "Chippers"
+        },
+        "geology-earring-clip": {
+            "name": "Geology earring clip",
+            "prefix": "Chippers"
+        },
+        "geology-earring-jewel": {
+            "name": "Geology earring jewel",
+            "prefix": "Chippers"
+        },
+        "health-component": {
+            "name": "Health component",
+            "prefix": "Red"
+        },
+        "healthy-chain-component": {
+            "name": "Healthy chain component",
+            "prefix": "Healthy"
+        },
+        "healthy-jewel-component": {
+            "name": "Healthy jewel component",
+            "prefix": "Healthy"
+        },
+        "intense-chain-component": {
+            "name": "Intense chain component",
+            "prefix": "Intense"
+        },
+        "intense-jewel-component": {
+            "name": "Intense jewel component",
+            "prefix": "Intense"
+        },
+        "leatherworking-ring-band": {
+            "name": "Leatherworking ring band",
+            "prefix": "Strung"
+        },
+        "leatherworking-ring-coating": {
+            "name": "Leatherworking ring coating",
+            "prefix": "Strung"
+        },
+        "leatherworking-ring-setting": {
+            "name": "Leatherworking ring setting",
+            "prefix": "Strung"
+        },
+        "lumberjacking-ear-clip": {
+            "name": "Lumberjacking ear clip",
+            "prefix": "Loggers"
+        },
+        "lumberjacking-ear-jewel": {
+            "name": "Lumberjacking ear jewel",
+            "prefix": "Loggers"
+        },
+        "lumberjacking-earring-chain": {
+            "name": "Lumberjacking earring chain",
+            "prefix": "Loggers"
+        },
+        "mana-component": {
+            "name": "Mana component",
+            "prefix": "Blue"
+        },
+        "mining-earring-chain": {
+            "name": "Mining earring chain",
+            "prefix": "Miners"
+        },
+        "mining-earring-clip": {
+            "name": "Mining earring clip",
+            "prefix": "Miners"
+        },
+        "mining-earring-jewel": {
+            "name": "Mining earring jewel",
+            "prefix": "Miners"
+        },
+        "nimble-brooch": {
+            "name": "Nimble brooch",
+            "prefix": "Nimble"
+        },
+        "nimble-clasp-component": {
+            "name": "Nimble clasp component",
+            "prefix": "Nimble"
+        },
+        "nimble-clip-component": {
+            "name": "Nimble clip component",
+            "prefix": "Nimble"
+        },
+        "resolute-jewel-component": {
+            "name": "Resolute jewel component",
+            "prefix": "Resolute"
+        },
+        "smart-brooch": {
+            "name": "Smart brooch",
+            "prefix": "Smart"
+        },
+        "smart-clasp-component": {
+            "name": "Smart clasp component",
+            "prefix": "Smart"
+        },
+        "smart-clip-component": {
+            "name": "Smart clip component",
+            "prefix": "Smart"
+        },
+        "stonemasonry-ring-band": {
+            "name": "Stonemasonry ring band",
+            "prefix": "Chiseled"
+        },
+        "stonemasonry-ring-coating": {
+            "name": "Stonemasonry ring coating",
+            "prefix": "Chiseled"
+        },
+        "stonemasonry-ring-setting": {
+            "name": "Stonemasonry ring setting",
+            "prefix": "Chiseled"
+        },
+        "strong-brooch": {
+            "name": "Strong brooch",
+            "prefix": "Strong"
+        },
+        "strong-clasp-component": {
+            "name": "Strong clasp component",
+            "prefix": "Strong"
+        },
+        "strong-clip-component": {
+            "name": "Strong clip component",
+            "prefix": "Strong"
+        },
+        "tailoring-ring-band": {
+            "name": "Tailoring ring band",
+            "prefix": "Stiched"
+        },
+        "tailoring-ring-coating": {
+            "name": "Tailoring ring coating",
+            "prefix": "Stiched"
+        },
+        "tailoring-ring-setting": {
+            "name": "Tailoring ring setting",
+            "prefix": "Stiched"
+        },
+        "tinkering-ring-band": {
+            "name": "Tinkering ring band",
+            "prefix": "Tinkered"
+        },
+        "tinkering-ring-coating": {
+            "name": "Tinkering ring coating",
+            "prefix": "Tinkered"
+        },
+        "tinkering-ring-setting": {
+            "name": "Tinkering ring setting",
+            "prefix": "Tinkered"
+        }
+    },
+    "imbuements": {
+        "bladed-weakness": {
+            "name": "Bladed Weakness"
+        },
+        "bludgeon-weakness": {
+            "name": "Bludgeon Weakness"
+        },
+        "gun-weakness": {
+            "name": "Gun Weakness"
+        },
+        "h2h-weakness": {
+            "name": "H2H Weakness"
+        },
+        "pole-weakness": {
+            "name": "Pole Weakness"
+        },
+        "projectile-weakness": {
+            "name": "Projectile Weakness"
+        },
+        "stringed-weakness": {
+            "name": "Stringed Weakness"
+        }
+    },
+    "names": {
+        "ability": {
+            "ofPostfix": "Ability"
+        },
+        "acid-defense": {
+            "ofPostfix": "Acid defense"
+        },
+        "air-defense": {
+            "ofPostfix": "Air defense"
+        },
+        "alchemy": {
+            "ofPostfix": "Alchemy"
+        },
+        "appraising": {
+            "ofPostfix": "Appraising"
+        },
+        "arcane-defense": {
+            "ofPostfix": "Arcane defense"
+        },
+        "bestial-honor": {
+            "ofPostfix": "Bestial Honor"
+        },
+        "bestial-reflexes": {
+            "ofPostfix": "Bestial Reflexes"
+        },
+        "bestial-vigor": {
+            "ofPostfix": "Bestial Vigor"
+        },
+        "bestial-wisdom": {
+            "ofPostfix": "Bestial Wisdom"
+        },
+        "blocking": {
+            "ofPostfix": "Blocking"
+        },
+        "blood-hunger": {
+            "ofPostfix": "Blood Hunger"
+        },
+        "blood-taint": {
+            "ofPostfix": "Blood Taint"
+        },
+        "blurring": {
+            "ofPostfix": "Blurring"
+        },
+        "building": {
+            "ofPostfix": "Building"
+        },
+        "bullet-dodging": {
+            "ofPostfix": "Bullet Dodging"
+        },
+        "caring": {
+            "ofPostfix": "Caring"
+        },
+        "cold-defense": {
+            "ofPostfix": "Cold defense"
+        },
+        "cooking": {
+            "ofPostfix": "Cooking"
+        },
+        "crafting-i": {
+            "ofPostfix": "Crafting I"
+        },
+        "crafting-ii": {
+            "ofPostfix": "Crafting II"
+        },
+        "crafting-iii": {
+            "ofPostfix": "Crafting III"
+        },
+        "crafting-iv": {
+            "ofPostfix": "Crafting IV"
+        },
+        "deflecting": {
+            "ofPostfix": "Deflecting"
+        },
+        "dragonrage": {
+            "ofPostfix": "Dragonrage"
+        },
+        "dragonsblood": {
+            "ofPostfix": "Dragonsblood"
+        },
+        "drain-defense": {
+            "ofPostfix": "Drain defense"
+        },
+        "ducking": {
+            "ofPostfix": "Ducking"
+        },
+        "earth-defense": {
+            "ofPostfix": "Earth defense"
+        },
+        "energy-defense": {
+            "ofPostfix": "Energy defense"
+        },
+        "exploring": {
+            "ofPostfix": "Exploring"
+        },
+        "farming": {
+            "ofPostfix": "Farming"
+        },
+        "fire-defense": {
+            "ofPostfix": "Fire defense"
+        },
+        "fishing": {
+            "ofPostfix": "Fishing"
+        },
+        "foraging": {
+            "ofPostfix": "Foraging"
+        },
+        "furnishing": {
+            "ofPostfix": "Furnishing"
+        },
+        "fury": {
+            "ofPostfix": "Fury"
+        },
+        "geology": {
+            "ofPostfix": "Geology"
+        },
+        "health": {
+            "ofPostfix": "Health"
+        },
+        "intelligence": {
+            "ofPostfix": "Intelligence"
+        },
+        "knowledge": {
+            "ofPostfix": "Knowledge"
+        },
+        "leatherworking": {
+            "ofPostfix": "Leatherworking"
+        },
+        "lumberjacking": {
+            "ofPostfix": "Lumberjacking"
+        },
+        "magic": {
+            "ofPostfix": "Magic"
+        },
+        "mining": {
+            "ofPostfix": "Mining"
+        },
+        "mystic-resolve": {
+            "ofPostfix": "Mystic Resolve"
+        },
+        "mystical-defense": {
+            "ofPostfix": "Mystical defense"
+        },
+        "nature-defense": {
+            "ofPostfix": "Nature defense"
+        },
+        "noble-belief": {
+            "ofPostfix": "Noble Belief"
+        },
+        "noble-duty": {
+            "ofPostfix": "Noble Duty"
+        },
+        "parrying": {
+            "ofPostfix": "Parrying"
+        },
+        "pinning": {
+            "ofPostfix": "Pinning"
+        },
+        "poison-defense": {
+            "ofPostfix": "Poison defense"
+        },
+        "royal-blood": {
+            "ofPostfix": "Royal Blood"
+        },
+        "royal-decree": {
+            "ofPostfix": "Royal Decree"
+        },
+        "skinning": {
+            "ofPostfix": "Skinning"
+        },
+        "smithing": {
+            "ofPostfix": "Smithing"
+        },
+        "speed": {
+            "ofPostfix": "Speed"
+        },
+        "stamina": {
+            "ofPostfix": "Stamina"
+        },
+        "stonemasonry": {
+            "ofPostfix": "Stonemasonry"
+        },
+        "strength": {
+            "ofPostfix": "Strength"
+        },
+        "tailoring": {
+            "ofPostfix": "Tailoring"
+        },
+        "the-abbott": {
+            "ofPostfix": "the Abbott"
+        },
+        "the-adventurer": {
+            "ofPostfix": "the Adventurer"
+        },
+        "the-air-gods": {
+            "ofPostfix": "the Air Gods"
+        },
+        "the-ancestors": {
+            "ofPostfix": "the Ancestors"
+        },
+        "the-arcane-gods": {
+            "ofPostfix": "the Arcane Gods"
+        },
+        "the-arch-priest": {
+            "ofPostfix": "the Arch-Priest"
+        },
+        "the-archaeologist": {
+            "ofPostfix": "the Archaeologist"
+        },
+        "the-archer": {
+            "ofPostfix": "the Archer"
+        },
+        "the-assassin": {
+            "ofPostfix": "the Assassin"
+        },
+        "the-bard": {
+            "ofPostfix": "the Bard"
+        },
+        "the-beastlord": {
+            "ofPostfix": "the Beastlord"
+        },
+        "the-beastmaster": {
+            "ofPostfix": "the Beastmaster"
+        },
+        "the-berserker": {
+            "ofPostfix": "the Berserker"
+        },
+        "the-blessed": {
+            "ofPostfix": "the Blessed"
+        },
+        "the-bombadier": {
+            "ofPostfix": "the Bombadier"
+        },
+        "the-caster": {
+            "ofPostfix": "the Caster"
+        },
+        "the-cleric": {
+            "ofPostfix": "the Cleric"
+        },
+        "the-corrupt-gods": {
+            "ofPostfix": "the Corrupt Gods"
+        },
+        "the-crane": {
+            "ofPostfix": "the Crane"
+        },
+        "the-crimelord": {
+            "ofPostfix": "the Crimelord"
+        },
+        "the-crossbowyer": {
+            "ofPostfix": "the Crossbowyer"
+        },
+        "the-crusader": {
+            "ofPostfix": "the Crusader"
+        },
+        "the-dark-gods": {
+            "ofPostfix": "the Dark Gods"
+        },
+        "the-dark-lord": {
+            "ofPostfix": "the Dark Lord"
+        },
+        "the-deceiver": {
+            "ofPostfix": "the Deceiver"
+        },
+        "the-devious-ones": {
+            "ofPostfix": "the Devious Ones"
+        },
+        "the-diviner": {
+            "ofPostfix": "the Diviner"
+        },
+        "the-dragonseye": {
+            "ofPostfix": "the Dragonseye"
+        },
+        "the-druid": {
+            "ofPostfix": "the Druid"
+        },
+        "the-earth-gods": {
+            "ofPostfix": "the Earth Gods"
+        },
+        "the-elementalist": {
+            "ofPostfix": "the Elementalist"
+        },
+        "the-faithful": {
+            "ofPostfix": "the Faithful"
+        },
+        "the-fire-gods": {
+            "ofPostfix": "the Fire Gods"
+        },
+        "the-forest-gods": {
+            "ofPostfix": "the Forest Gods"
+        },
+        "the-fox": {
+            "ofPostfix": "the Fox"
+        },
+        "the-friar": {
+            "ofPostfix": "the Friar"
+        },
+        "the-grunt": {
+            "ofPostfix": "the Grunt"
+        },
+        "the-healer": {
+            "ofPostfix": "the Healer"
+        },
+        "the-healthy": {
+            "ofPostfix": "the Healthy"
+        },
+        "the-hermit": {
+            "ofPostfix": "the Hermit"
+        },
+        "the-holy-gods": {
+            "ofPostfix": "the Holy Gods"
+        },
+        "the-hunter": {
+            "ofPostfix": "the Hunter"
+        },
+        "the-ice-gods": {
+            "ofPostfix": "the Ice Gods"
+        },
+        "the-invoker": {
+            "ofPostfix": "the Invoker"
+        },
+        "the-killer": {
+            "ofPostfix": "the Killer"
+        },
+        "the-knight": {
+            "ofPostfix": "the Knight"
+        },
+        "the-mage": {
+            "ofPostfix": "the Mage"
+        },
+        "the-monk": {
+            "ofPostfix": "the Monk"
+        },
+        "the-monkey": {
+            "ofPostfix": "the Monkey"
+        },
+        "the-necromancer": {
+            "ofPostfix": "the Necromancer"
+        },
+        "the-nimble-ones": {
+            "ofPostfix": "the Nimble Ones"
+        },
+        "the-ninja-gods": {
+            "ofPostfix": "the Ninja Gods"
+        },
+        "the-obediant": {
+            "ofPostfix": "the Obediant"
+        },
+        "the-paladin": {
+            "ofPostfix": "the Paladin"
+        },
+        "the-panda": {
+            "ofPostfix": "the Panda"
+        },
+        "the-pickpocket": {
+            "ofPostfix": "the Pickpocket"
+        },
+        "the-pliant": {
+            "ofPostfix": "the Pliant"
+        },
+        "the-priest": {
+            "ofPostfix": "the Priest"
+        },
+        "the-protector": {
+            "ofPostfix": "the Protector"
+        },
+        "the-ranged-gods": {
+            "ofPostfix": "the Ranged Gods"
+        },
+        "the-ranger": {
+            "ofPostfix": "the Ranger"
+        },
+        "the-shadowstalker": {
+            "ofPostfix": "the Shadowstalker"
+        },
+        "the-shaman": {
+            "ofPostfix": "the Shaman"
+        },
+        "the-sharpshooter": {
+            "ofPostfix": "the Sharpshooter"
+        },
+        "the-smart-ones": {
+            "ofPostfix": "the Smart Ones"
+        },
+        "the-soldier": {
+            "ofPostfix": "the Soldier"
+        },
+        "the-squire": {
+            "ofPostfix": "the Squire"
+        },
+        "the-star-catcher": {
+            "ofPostfix": "the Star Catcher"
+        },
+        "the-starchaser": {
+            "ofPostfix": "the Starchaser"
+        },
+        "the-stardreamer": {
+            "ofPostfix": "the Stardreamer"
+        },
+        "the-stargazer": {
+            "ofPostfix": "the Stargazer"
+        },
+        "the-strong-ones": {
+            "ofPostfix": "the Strong Ones"
+        },
+        "the-summoner": {
+            "ofPostfix": "the Summoner"
+        },
+        "the-templar": {
+            "ofPostfix": "the Templar"
+        },
+        "the-thief": {
+            "ofPostfix": "the Thief"
+        },
+        "the-tiger": {
+            "ofPostfix": "the Tiger"
+        },
+        "the-tracker": {
+            "ofPostfix": "the Tracker"
+        },
+        "the-trickster": {
+            "ofPostfix": "the Trickster"
+        },
+        "the-veteran": {
+            "ofPostfix": "the Veteran"
+        },
+        "the-vicious": {
+            "ofPostfix": "the Vicious"
+        },
+        "the-warden": {
+            "ofPostfix": "the Warden"
+        },
+        "the-warlock": {
+            "ofPostfix": "the Warlock"
+        },
+        "the-warlord": {
+            "ofPostfix": "the Warlord"
+        },
+        "the-warrior": {
+            "ofPostfix": "the Warrior"
+        },
+        "the-warrior-gods": {
+            "ofPostfix": "the Warrior Gods"
+        },
+        "the-water-gods": {
+            "ofPostfix": "the Water Gods"
+        },
+        "the-wizard": {
+            "ofPostfix": "the Wizard"
+        },
+        "tinkering": {
+            "ofPostfix": "Tinkering"
+        },
+        "tricking": {
+            "ofPostfix": "Tricking"
+        },
+        "vengance": {
+            "ofPostfix": "Vengance"
+        },
+        "water-defense": {
+            "ofPostfix": "Water defense"
+        },
+        "woodworking": {
+            "ofPostfix": "Woodworking"
+        }
+    },
+    "patches": {
+        "ankylosaur-bull-patch": {
+            "name": "Ankylosaur bull patch"
+        },
+        "ankylosaur-patch": {
+            "name": "Ankylosaur patch"
+        },
+        "ankylosaur-pup-patch": {
+            "name": "Ankylosaur pup patch"
+        },
+        "armor-patch": {
+            "name": "Armor patch"
+        },
+        "armor-strengthener": {
+            "name": "Armor strengthener"
+        },
+        "deathscarab-grub-patch": {
+            "name": "Deathscarab grub patch"
+        },
+        "deathscarab-patch": {
+            "name": "Deathscarab patch"
+        },
+        "dragonflyer-nymph-patch": {
+            "name": "Dragonflyer nymph patch"
+        },
+        "dragonflyer-patch": {
+            "name": "Dragonflyer patch"
+        },
+        "emperor-dragonflyer-patch": {
+            "name": "Emperor dragonflyer patch"
+        },
+        "frenzied-raptor-patch": {
+            "name": "Frenzied raptor patch"
+        },
+        "fury-patch": {
+            "name": "Fury patch"
+        },
+        "greater-armor-patch": {
+            "name": "Greater armor patch"
+        },
+        "greater-fury-patch": {
+            "name": "Greater fury patch"
+        },
+        "greater-stegosaurus-patch": {
+            "name": "Greater stegosaurus patch"
+        },
+        "ladybird-patch": {
+            "name": "Ladybird patch"
+        },
+        "ladybird-pupae-patch": {
+            "name": "Ladybird pupae patch"
+        },
+        "lesser-armor-patch": {
+            "name": "Lesser armor patch"
+        },
+        "lesser-fury-patch": {
+            "name": "Lesser fury patch"
+        },
+        "lesser-stegosaurus-patch": {
+            "name": "Lesser stegosaurus patch"
+        },
+        "magnificent-fury-patch": {
+            "name": "Magnificent fury patch"
+        },
+        "mantrap-blossom-patch": {
+            "name": "Mantrap blossom patch"
+        },
+        "mantrap-patch": {
+            "name": "Mantrap patch"
+        },
+        "mantrap-seed-patch": {
+            "name": "Mantrap seed patch"
+        },
+        "queen-ladybird-patch": {
+            "name": "Queen Ladybird patch"
+        },
+        "raptor-patch": {
+            "name": "Raptor patch"
+        },
+        "sabretooth-cub-patch": {
+            "name": "Sabretooth cub patch"
+        },
+        "sabretooth-huntress-patch": {
+            "name": "Sabretooth huntress patch"
+        },
+        "sabretooth-patch": {
+            "name": "Sabretooth patch"
+        },
+        "sacred-deathscarab-patch": {
+            "name": "Sacred deathscarab patch"
+        },
+        "slimey-slug-patch": {
+            "name": "Slimey slug patch"
+        },
+        "slug-patch": {
+            "name": "Slug patch"
+        },
+        "squishy-slug-patch": {
+            "name": "Squishy slug patch"
+        },
+        "stegosaurus-patch": {
+            "name": "Stegosaurus patch"
+        },
+        "stout-armor-patch": {
+            "name": "Stout armor patch"
+        },
+        "young-raptor-patch": {
+            "name": "Young raptor patch"
+        }
+    }
+}

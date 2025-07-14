@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"ethereal-armbraces","image":"3231","type":"arm-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "ethereal-armbraces",
+    "image": "3231",
+    "type": "arm-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

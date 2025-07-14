@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"wintersvale-marzipan-cookie","image":"6212","type":"food","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "wintersvale-marzipan-cookie",
+    "image": "6212",
+    "type": "food",
+    "armorType": "cloth",
+    "material": "hide"
+}

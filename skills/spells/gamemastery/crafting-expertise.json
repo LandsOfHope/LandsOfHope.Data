@@ -6,7 +6,9 @@
         "mana": 5
     },
     "duration": "PT150M",
-    "skills": {
-        "experience-bonus": 100
+    "effects": {
+        "skills": {
+            "experience-bonus": 100
+        }
     }
 }

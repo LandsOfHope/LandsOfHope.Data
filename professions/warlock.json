@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "warlock",
     "name": {
         "en": "Warlock"
     },
@@ -12,5 +14,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 2,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 2,
+        "STRENGTH": 2
+    }
 }

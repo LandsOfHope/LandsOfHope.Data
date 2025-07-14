@@ -1,1 +1,26 @@
-{"$type":"/v1/skills/crafting/recipe","id":"cooking/bread-loaf","item":"bread-loaf","image":"bd1","time":"PT15S","quantity":1,"skill":"cooking","skillValue":850,"quality":"common","ingredients":[{"id":"grain","quantity":6,"primary":true},{"id":"milk","quantity":2},{"id":"bowl","quantity":0}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "cooking/bread-loaf",
+    "item": "bread-loaf",
+    "image": "bd1",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "cooking",
+    "skillValue": 850,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "milk",
+            "quantity": 2
+        },
+        {
+            "id": "bowl",
+            "quantity": 0
+        },
+        {
+            "id": "grain",
+            "quantity": 6,
+            "primary": true
+        }
+    ]
+}

@@ -1,14 +1,20 @@
 {
+    "$type": "/v1/profession",
+    "id": "stonemason",
     "name": {
         "en": "Stonemason"
     },
     "desc": {
-        "en": "Stonemason. An expert at creating stone items from quarried stone."
+        "en": "An expert sculpter, brick maker and general miner."
     },
     "skills": {
         "stonemasonry": 5,
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "MAXHITPOINTS": 2,
+        "MAXSTAMINA": 2
+    }
 }

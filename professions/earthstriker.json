@@ -1,9 +1,11 @@
 {
+    "$type": "/v1/profession",
+    "id": "earthstriker",
     "name": {
         "en": "Earthstriker"
     },
     "desc": {
-        "en": ""
+        "en": "An ancient guardian"
     },
     "skills": {
         "earth-resistance": 5,
@@ -12,5 +14,13 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 2,
+        "MAXSTAMINA": 3,
+        "SPEED": 2,
+        "STRENGTH": 2
+    }
 }

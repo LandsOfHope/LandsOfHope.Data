@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"blank-chest-guard","image":"6814","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "blank-chest-guard",
+    "image": "6814",
+    "type": "chest-armour",
+    "set": "inventor-basic-set",
+    "material": "metal",
+    "skill": "augmenting"
+}

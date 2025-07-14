@@ -1,1 +1,10 @@
-{"$type":"/v1/item","id":"the-maestro","image":"dss","type":"ranged-weapon","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "the-maestro",
+    "image": "dss",
+    "type": "ranged-weapon",
+    "dpr": 120,
+    "legendary": true,
+    "material": "hide",
+    "skill": "instruments"
+}

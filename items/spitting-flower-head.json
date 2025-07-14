@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"spitting-flower-head","image":"na","type":"ranged-weapon","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "spitting-flower-head",
+    "image": "na",
+    "type": "ranged-weapon",
+    "dpr": 6,
+    "material": "wood",
+    "skill": "two-handed-guns"
+}

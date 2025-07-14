@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"gladiator-wings","image":"6681","type":"wings","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "gladiator-wings",
+    "image": "6681",
+    "type": "wings",
+    "material": "hide",
+    "skill": "gods-favor"
+}

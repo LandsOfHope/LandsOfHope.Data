@@ -6,7 +6,9 @@
         "mana": 3850
     },
     "duration": "PT770M",
-    "skills": {
-        "poison-resistance": 770
+    "effects": {
+        "skills": {
+            "poison-resistance": 770
+        }
     }
 }

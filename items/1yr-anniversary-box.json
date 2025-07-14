@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"1yr-anniversary-box","image":"4862","type":"present-box","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "1yr-anniversary-box",
+    "image": "4862",
+    "type": "present-box",
+    "armorType": "cloth",
+    "material": "hide"
+}

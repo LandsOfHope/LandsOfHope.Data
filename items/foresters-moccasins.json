@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"foresters-moccasins","image":"2865","type":"foot-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "foresters-moccasins",
+    "image": "2865",
+    "type": "foot-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

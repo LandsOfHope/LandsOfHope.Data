@@ -5,5 +5,11 @@
         "skill": 505,
         "mana": 505
     },
-    "duration": "PT30M"
+    "duration": "PT30M",
+    "effects": {
+        "summon-pet": {
+            "race": "lesser-deamon",
+            "profession": "fire-mage"
+        }
+    }
 }

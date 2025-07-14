@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"spikey-wand","image":"wand06","type":"1-handed-equipment","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "spikey-wand",
+    "image": "wand06",
+    "type": "1-handed-equipment",
+    "dpr": 80,
+    "material": "stone",
+    "skill": "staves"
+}

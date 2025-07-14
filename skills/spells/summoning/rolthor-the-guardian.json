@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2050,
         "mana": 2050
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "ice-troll",
+            "profession": "paladin"
+        }
     }
 }

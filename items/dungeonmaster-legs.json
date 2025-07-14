@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dungeonmaster-legs","image":"cvl","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "dungeonmaster-legs",
+    "image": "cvl",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

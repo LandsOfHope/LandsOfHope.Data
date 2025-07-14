@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"recruits-chestchain","image":"2507","type":"chest-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "recruits-chestchain",
+    "image": "2507",
+    "type": "chest-armour",
+    "armorType": "mail",
+    "material": "metal"
+}

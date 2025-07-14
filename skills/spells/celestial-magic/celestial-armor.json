@@ -6,7 +6,9 @@
         "mana": 949
     },
     "duration": "PT240M",
-    "skills": {
-        "celestial-defense": 475
+    "effects": {
+        "skills": {
+            "celestial-defense": 475
+        }
     }
 }

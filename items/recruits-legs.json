@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"recruits-legs","image":"gmxrl1","type":"leg-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "recruits-legs",
+    "image": "gmxrl1",
+    "type": "leg-armour",
+    "armorType": "plate",
+    "material": "metal"
+}

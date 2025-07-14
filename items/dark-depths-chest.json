@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dark-depths-chest","image":"6476","type":"dark-depths-spawner","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "dark-depths-chest",
+    "image": "6476",
+    "type": "dark-depths-spawner",
+    "expansion": "dark-depths",
+    "material": "wood"
+}

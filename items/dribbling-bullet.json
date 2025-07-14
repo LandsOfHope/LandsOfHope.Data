@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"dribbling-bullet","image":"zudrbu1","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "dribbling-bullet",
+    "image": "zudrbu1",
+    "type": "ammo-weapons-bullets",
+    "dpr": 24,
+    "material": "metal"
+}

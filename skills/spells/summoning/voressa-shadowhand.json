@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 2326,
         "mana": 2326
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "vampire",
+            "profession": "thief"
+        }
     }
 }

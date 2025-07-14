@@ -1,0 +1,19 @@
+{
+    "$type": "/v1/items/set",
+    "id": "festive-costume",
+    "image": "na.gif",
+    "color": "green",
+    "spells": {
+        "0": {
+            "0": "festive-glow"
+        }
+    },
+    "items": [
+        "festive-costume-gloves",
+        "festive-costume-trousers",
+        "festive-costume-shirt",
+        "festive-costume-boots",
+        "festive-costume-hat",
+        "festive-costume-belt"
+    ]
+}

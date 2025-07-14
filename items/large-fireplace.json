@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"large-fireplace","image":"2421","type":"house-furniture","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "large-fireplace",
+    "image": "2421",
+    "type": "house-furniture-iii",
+    "material": "stone"
+}

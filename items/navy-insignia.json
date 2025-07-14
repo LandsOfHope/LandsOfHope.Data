@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"navy-insignia","image":"zunain","type":"event-spawner","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "navy-insignia",
+    "image": "zunain",
+    "type": "event-spawner",
+    "material": "cloth"
+}

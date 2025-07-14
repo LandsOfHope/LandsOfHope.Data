@@ -1,1 +1,9 @@
-{"$type":"/v1/item","id":"long-ornate-staff","image":"sf","type":"2-handed-equipment","material":"wood"}
+{
+    "$type": "/v1/item",
+    "id": "long-ornate-staff",
+    "image": "sf",
+    "type": "2-handed-equipment",
+    "dpr": 32,
+    "material": "wood",
+    "skill": "two-handed-staves"
+}

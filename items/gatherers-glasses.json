@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"gatherers-glasses","image":"839","type":"glasses-shades","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "gatherers-glasses",
+    "image": "839",
+    "type": "glasses-shades",
+    "material": "metal",
+    "skill": "artisan"
+}

@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"moss-bullet","image":"4142","type":"ammo-weapons-bullets","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "moss-bullet",
+    "image": "4142",
+    "type": "ammo-weapons-bullets",
+    "dpr": 18,
+    "material": "metal"
+}

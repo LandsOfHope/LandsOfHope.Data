@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"hammer","image":"hmr","type":"siege-weapon-construction-tool","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "hammer",
+    "image": "hmr",
+    "type": "siege-weapon-construction-tool",
+    "material": "metal"
+}

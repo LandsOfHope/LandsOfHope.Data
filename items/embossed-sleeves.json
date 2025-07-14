@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"embossed-sleeves","image":"2973","type":"arm-armour","material":"hide"}
+{
+    "$type": "/v1/item",
+    "id": "embossed-sleeves",
+    "image": "2973",
+    "type": "arm-armour",
+    "armorType": "leather",
+    "material": "hide"
+}

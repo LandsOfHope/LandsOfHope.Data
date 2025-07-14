@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"faded-trousers","image":"ptro11","type":"leg-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "faded-trousers",
+    "image": "ptro11",
+    "type": "leg-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

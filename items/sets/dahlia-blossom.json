@@ -1,0 +1,15 @@
+{
+    "$type": "/v1/items/set",
+    "id": "dahlia-blossom",
+    "image": "na.gif",
+    "color": "#FFCCCC",
+    "spells": {
+        "0": {
+            "0": "dahlias-blossom-buff"
+        }
+    },
+    "items": [
+        "dahlia-bloom-earring",
+        "dahlia-bud-earring"
+    ]
+}

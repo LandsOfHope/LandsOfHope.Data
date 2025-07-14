@@ -1,1 +1,18 @@
-{"$type":"/v1/skills/crafting/recipe","id":"construction/a-thread-mill-deed","item":"thread-mill-deed","image":"1070","time":"PT15S","quantity":1,"skill":"construction","skillValue":4500,"quality":"uncommon","ingredients":[{"id":"plank","quantity":25,"primary":true}]}
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "construction/a-thread-mill-deed",
+    "item": "thread-mill-deed",
+    "image": "1070",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "construction",
+    "skillValue": 4500,
+    "quality": "uncommon",
+    "ingredients": [
+        {
+            "id": "plank",
+            "quantity": 25,
+            "primary": true
+        }
+    ]
+}

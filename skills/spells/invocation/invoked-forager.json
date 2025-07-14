@@ -5,5 +5,11 @@
         "skill": 1750,
         "mana": 1750
     },
-    "duration": "PT40M"
+    "duration": "PT40M",
+    "effects": {
+        "summon-pet": {
+            "race": "angel",
+            "profession": "forager"
+        }
+    }
 }

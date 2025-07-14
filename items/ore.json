@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"ore","image":"ore","type":"ore","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "ore",
+    "image": "ore",
+    "type": "ore",
+    "material": "metal"
+}

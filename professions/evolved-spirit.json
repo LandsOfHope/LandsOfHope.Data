@@ -1,4 +1,6 @@
 {
+    "$type": "/v1/profession",
+    "id": "evolved-spirit",
     "name": {
         "en": "Evolved Spirit"
     },
@@ -9,5 +11,11 @@
         "armor": 5,
         "attack-power": 5
     },
-    "evo": {}
+    "properties": {
+        "DEXTERITY": 2,
+        "INTELLIGENCE": 2,
+        "MAXHITPOINTS": 4,
+        "MAXMANA": 3,
+        "STRENGTH": 3
+    }
 }

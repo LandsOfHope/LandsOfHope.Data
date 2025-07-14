@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"pancake","image":"pan","type":"food","material":"berry"}
+{
+    "$type": "/v1/item",
+    "id": "pancake",
+    "image": "pan",
+    "type": "food",
+    "material": "berry"
+}

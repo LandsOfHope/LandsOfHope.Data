@@ -1,1 +1,7 @@
-{"$type":"/v1/item","id":"brittle-stoneware","image":"bsa","type":"stealing-loot","material":"stone"}
+{
+    "$type": "/v1/item",
+    "id": "brittle-stoneware",
+    "image": "bsa",
+    "type": "stealing-loot",
+    "material": "stone"
+}

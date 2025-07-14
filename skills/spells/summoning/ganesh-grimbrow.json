@@ -4,5 +4,11 @@
     "requirements": {
         "skill": 3798,
         "mana": 3798
+    },
+    "effects": {
+        "summon-pet": {
+            "race": "dwarf",
+            "profession": "plate-goods-vendor"
+        }
     }
 }

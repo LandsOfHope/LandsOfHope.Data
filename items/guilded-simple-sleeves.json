@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"guilded-simple-sleeves","image":"3940","type":"arm-armour","material":"cloth"}
+{
+    "$type": "/v1/item",
+    "id": "guilded-simple-sleeves",
+    "image": "3940",
+    "type": "arm-armour",
+    "armorType": "cloth",
+    "material": "cloth"
+}

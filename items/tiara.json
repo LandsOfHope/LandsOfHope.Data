@@ -1,1 +1,8 @@
-{"$type":"/v1/item","id":"tiara","image":"zutiia","type":"head-armour","material":"metal"}
+{
+    "$type": "/v1/item",
+    "id": "tiara",
+    "image": "zutiia",
+    "type": "head-armour",
+    "armorType": "cloth",
+    "material": "metal"
+}
