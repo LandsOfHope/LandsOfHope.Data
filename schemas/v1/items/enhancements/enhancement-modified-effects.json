@@ -1,0 +1,88 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/items/enhancements/enhancement-modified-effects.json",
+    "title": "EnhancementEffects",
+    "type": "object",
+    "properties": {
+        "properties": {
+            "type": "object",
+            "patternProperties": {
+                ".*": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1,
+                    "multipleOf": 0.01
+                }
+            },
+            "propertyNames": {
+                "$ref": "/schemas/v1/characters/character-property-name.json"
+            },
+            "minProperties": 1,
+            "additionalProperties": false
+        },
+        "skills": {
+            "type": "object",
+            "patternProperties": {
+                ".*": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1,
+                    "multipleOf": 0.01
+                }
+            },
+            "propertyNames": {
+                "$ref": "/schemas/v1/skills-id.gen.json"
+            },
+            "minProperties": 1,
+            "additionalProperties": false
+        }
+    },
+    "additionalProperties": false,
+    "anyOf": [
+        {
+            "properties": {
+                "properties": {
+                    "type": "object",
+                    "patternProperties": {
+                        ".*": {
+                            "type": "number",
+                            "minimum": 0,
+                            "maximum": 1,
+                            "multipleOf": 0.01
+                        }
+                    },
+                    "propertyNames": {
+                        "$ref": "/schemas/v1/characters/character-property-name.json"
+                    },
+                    "minProperties": 1,
+                    "additionalProperties": false
+                }
+            },
+            "required": [
+                "properties"
+            ]
+        },
+        {
+            "properties": {
+                "skills": {
+                    "type": "object",
+                    "patternProperties": {
+                        ".*": {
+                            "type": "number",
+                            "minimum": 0,
+                            "maximum": 1,
+                            "multipleOf": 0.01
+                        }
+                    },
+                    "propertyNames": {
+                        "$ref": "/schemas/v1/skills-id.gen.json"
+                    },
+                    "minProperties": 1,
+                    "additionalProperties": false
+                }
+            },
+            "required": [
+                "skills"
+            ]
+        }
+    ]
+}
