@@ -1,0 +1,1 @@
+docker build -f ./.scripts/Dockerfile -t lohdata-local .
