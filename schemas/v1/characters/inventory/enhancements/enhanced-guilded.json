@@ -1,0 +1,17 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-guilded.json",
+    "title": "EnhancedGuilded",
+    "type": "object",
+    "properties": {
+        "enhancements": {
+            "type": "array",
+            "contains": {
+                "const": "guilded"
+            }
+        },
+        "guild": {
+            "type": "integer"
+        }
+    },
+    "required": ["enhancements", "guild"]
+}

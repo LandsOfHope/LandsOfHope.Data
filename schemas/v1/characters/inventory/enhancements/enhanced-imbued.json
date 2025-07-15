@@ -1,0 +1,24 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-imbued.json",
+    "title": "EnhancedImbued",
+    "type": "object",
+    "properties": {
+        "enhancements": {
+            "type": "array",
+            "contains": {
+                "const": "imbued"
+            }
+        },
+        "imbuement": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/items-enhancements-imbuements-id.gen.json"
+                },
+                {
+                    "$ref": "/schemas/v1/items/enhancements/item-imbuement.json"
+                }
+            ]
+        }
+    },
+    "required": ["enhancements", "imbuement"]
+}

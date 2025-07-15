@@ -1,0 +1,24 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-named.json",
+    "title": "EnhancedNamed",
+    "type": "object",
+    "properties": {
+        "enhancements": {
+            "type": "array",
+            "contains": {
+                "const": "named"
+            }
+        },
+        "name": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/items-enhancements-names-id.gen.json"
+                },
+                {
+                    "$ref": "/schemas/v1/items/enhancements/item-name.json"
+                }
+            ]
+        }
+    },
+    "required": ["enhancements", "name"]
+}
