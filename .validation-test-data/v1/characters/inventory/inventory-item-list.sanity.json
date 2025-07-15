@@ -897,7 +897,8 @@
         "location": "chest",
         "stackHash": "0000000000000000",
         "enhancements": [
-            "named", "bejewelled"
+            "named",
+            "bejewelled"
         ],
         "name": "ducking",
         "bejewel": "fast-brooch",
@@ -1134,6 +1135,10 @@
         "quantity": 1,
         "location": "sellbag",
         "stackHash": "0000000000000000",
+        "enhancements": [
+            "guilded"
+        ],
+        "guild": 1,
         "actions": {}
     },
     {

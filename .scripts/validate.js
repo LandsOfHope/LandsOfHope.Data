@@ -55,7 +55,9 @@ const schemasWithOptionalTypeSpecifier = [
   "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-imbued.json",
   "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-bejewelled.json",
   "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-named.json",
-  "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-patched.json"
+  "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-patched.json",
+  "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-guilded.json",
+  "https://data.landsofhope.com/schemas/v1/items/enhancements/enhancement-modified-effects.json"
 ]
 
 const validate = async (schema, file) => {

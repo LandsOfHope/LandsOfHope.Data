@@ -102,19 +102,27 @@
                     "additionalProperties": false,
                     "oneOf": [
                         {
+                            "properties": {
+                                "class": {
+                                    "type": "string"
+                                }
+                            },
                             "required": [
                                 "class"
                             ]
                         },
                         {
+                            "properties": {
+                                "race": {
+                                    "$ref": "/schemas/v1/races-id.gen.json"
+                                }
+                            },
                             "required": [
                                 "race"
                             ]
                         },
                         {
-                            "properties": {
-
-                            },
+                            "properties": {},
                             "additionalProperties": false
                         }
                     ]
@@ -147,11 +155,21 @@
                     "additionalProperties": false,
                     "oneOf": [
                         {
+                            "properties": {
+                                "class": {
+                                    "type": "string"
+                                }
+                            },
                             "required": [
                                 "class"
                             ]
                         },
                         {
+                            "properties": {
+                                "race": {
+                                    "$ref": "/schemas/v1/races-id.gen.json"
+                                }
+                            },
                             "required": [
                                 "race"
                             ]

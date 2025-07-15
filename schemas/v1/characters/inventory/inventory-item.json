@@ -96,6 +96,21 @@
     "anyOf": [
         {
             "not": {
+                "properties": {
+                    "enhancements": {
+                        "type": "array",
+                        "items": {
+                            "enum": [
+                                "imbued",
+                                "bejewelled",
+                                "named",
+                                "patched",
+                                "guilded"
+                            ]
+                        },
+                        "minItems": 1
+                    }
+                },
                 "required": [
                     "enhancements"
                 ]

@@ -10,54 +10,7 @@
             "$ref": "/schemas/v1/items-enhancements-names-id.gen.json"
         },
         "effects": {
-            "type": "object",
-            "properties": {
-                "skills": {
-                    "type": "object",
-                    "patternProperties": {
-                        ".*": {
-                            "type": "number",
-                            "minimum": 0,
-                            "maximum": 1,
-                            "multipleOf": 0.01
-                        }
-                    },
-                    "propertyNames": {
-                        "$ref": "/schemas/v1/skills-id.gen.json"
-                    },
-                    "minProperties": 1,
-                    "additionalProperties": false
-                },
-                "properties": {
-                    "type": "object",
-                    "patternProperties": {
-                        ".*": {
-                            "type": "number",
-                            "minimum": 0,
-                            "maximum": 1,
-                            "multipleOf": 0.01
-                        }
-                    },
-                    "propertyNames": {
-                        "$ref": "/schemas/v1/characters/character-property-name.json"
-                    },
-                    "minProperties": 1,
-                    "additionalProperties": false
-                }
-            },
-            "additionalProperties": false,
-            "anyOf": [
-                {
-                    "required": [
-                        "skills"
-                    ]
-                },
-                {
-                    "required": [
-                        "properties"
-                    ]
-                }
-            ]
+            "$ref": "/schemas/v1/items/enhancements/enhancement-modified-effects.json"
         }
     },
     "additionalProperties": false,
