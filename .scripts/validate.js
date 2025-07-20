@@ -205,7 +205,7 @@ const main = async function () {
     validateAll("schemas/v1/maps/map.json", "maps/worlds/!(*.gen).json"),
     validateAll("schemas/v1/maps/map-tiles.json", "maps/worlds/*/tiles.json"),
     validateAll("schemas/v1/maps/map-resources.json", "maps/worlds/*/resources.json"),
-    validateAll("schemas/v1/maps/terrain.json", "maps/terrains/!(*.gen).json"),
+    validateAll("schemas/v1/maps/terrain.json", "maps/terrains/*/!(*.gen).json"),
     validateAll("schemas/v1/characters/character-title.json", "titles/!(*.gen).json"),
     validateAll("schemas/v1/characters/extra-character-image.json", "characters/extra-images/!(*.gen).json"),
     validateAll("schemas/v1/characters/character-header.json", "characters/npcs/!(*.gen).json"),

@@ -3,28 +3,20 @@
     "title": "Terrain",
     "type": "object",
     "properties": {
-        "name": {
-            "$ref": "/schemas/v1/localized-string.json"
+        "$type": {
+            "const": "/v1/maps/terrain"
         },
-        "variants": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "name": {
-                        "$ref": "/schemas/v1/localized-string.json"
-                    },
-                    "color": {
-                        "type": "integer"
-                    }
-                },
-                "additionalProperties": false
-            }
+        "id": {
+            "$ref": "/schemas/v1/maps-terrains-id.gen.json"
+        },
+        "color": {
+            "$ref": "/schemas/v1/color-hex.json"
         }
     },
     "required": [
-        "name",
-        "variants"
+        "$type",
+        "id",
+        "color"
     ],
     "additionalProperties": false
 }

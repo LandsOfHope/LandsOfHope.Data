@@ -15,7 +15,7 @@ const directories = (() => {
         'skills/crafting/recipes/*',
         'skills/spells/*',
         'skills/styles/*',
-        'maps/terrains',
+        'maps/terrains/*',
         'maps/worlds',
         'titles',
         'items',
@@ -26,10 +26,7 @@ const directories = (() => {
         'items/materials',
         'items/resources',
         'items/locations',
-        'items/enhancements/imbuements',
-        'items/enhancements/bejewels',
-        'items/enhancements/patches',
-        'items/enhancements/names',
+        'items/enhancements/*',
         'vessel-items',
         'characters/images',
         'characters/extra-images',
@@ -63,6 +60,7 @@ directories.forEach(dir => {
     const id_schema_file = `${schemas}/${version}/${idName}.gen.json`;
 
     const enumValues = [];
+    const childEnums = [];
     if (isGlob) {
         const parentDir = path.dirname(dir);
         const subdirs = fs.readdirSync(parentDir);
@@ -72,7 +70,7 @@ directories.forEach(dir => {
             if (stat.isDirectory()) {
                 const scopedEnumValues = [];
                 const scopedProperTitle = subdir.split('-').map(word => word.charAt(0).toUpperCase() + word.substring(1).toLowerCase()).join('') + properTitle;
-                const scoped_id_schema_file = `${schemas}/${version}/${subdir}-${idName}.gen.json`;
+                const scoped_id_schema_file = `${schemas}/${version}/${parentDir}/${subdir}-${idName}.gen.json`;
                 const files = fs.readdirSync(subDirPath);
 
                 for (const file of files) {
@@ -95,6 +93,7 @@ directories.forEach(dir => {
                         }
                     )
                 );
+                childEnums.push(scoped_id_schema_file);
             }
         });
     } else {
@@ -106,13 +105,22 @@ directories.forEach(dir => {
         }
     }
 
+    const enumTypeObj = {};
+    if(isGlob) {
+        enumTypeObj['oneOf'] = childEnums.map(childEnum => ({
+            $ref: `/${childEnum}`
+        }));
+    } else {
+        enumTypeObj['enum'] = enumValues;
+    }
+
     fs.writeFileSync(
         id_schema_file,
         JSON.stringify(
             {
                 "$id": `https://data.landsofhope.com/${id_schema_file}`,
                 "title": properTitle,
-                "enum": enumValues
+                ...enumTypeObj
             }
         )
     );

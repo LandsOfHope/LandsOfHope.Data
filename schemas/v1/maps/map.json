@@ -6,6 +6,9 @@
         "$type": {
             "const": "/v1/maps/map"
         },
+        "id": {
+            "$ref": "/schemas/v1/maps-worlds-id.gen.json"
+        },
         "entry": {
             "$ref": "/schemas/v1/coordinate.json"
         },
@@ -28,6 +31,7 @@
     "additionalProperties": false,
     "required": [
         "$type",
+        "id",
         "entry",
         "extents"
     ]

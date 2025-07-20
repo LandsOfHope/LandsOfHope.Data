@@ -1,6 +1,7 @@
 "use strict";
 
 const fs = require('fs');
+const path = require('path');
 
 const directories = (() => {
     const dirs = process.argv.slice(2);
@@ -11,33 +12,9 @@ const directories = (() => {
         'races',
         'races/groups',
         'skills',
-        'skills/crafting/recipes/alchemy',
-        'skills/crafting/recipes/animation',
-        'skills/crafting/recipes/artisan',
-        'skills/crafting/recipes/augmenting',
-        'skills/crafting/recipes/bewitching',
-        'skills/crafting/recipes/blacksmithing',
-        'skills/crafting/recipes/blood-over-beauty',
-        'skills/crafting/recipes/bolts-over-brains',
-        'skills/crafting/recipes/carpentry',
-        'skills/crafting/recipes/charms-and-hexes',
-        'skills/crafting/recipes/construction',
-        'skills/crafting/recipes/cooking',
-        'skills/crafting/recipes/dungeon-mastery',
-        'skills/crafting/recipes/floristry',
-        'skills/crafting/recipes/furnishing',
-        'skills/crafting/recipes/gamemastery',
-        'skills/crafting/recipes/leatherworking',
-        'skills/crafting/recipes/lordship',
-        'skills/crafting/recipes/parlor-tricks',
-        'skills/crafting/recipes/patchcrafting',
-        'skills/crafting/recipes/seamanship',
-        'skills/crafting/recipes/stonemasonry',
-        'skills/crafting/recipes/surgery',
-        'skills/crafting/recipes/tailoring',
-        'skills/crafting/recipes/tinkering',
-        'maps/terrains',
+        'skills/crafting/recipes/*',
         'maps/worlds',
+        'maps/terrains/*',
         'titles',
         'items',
         'items/types',
@@ -47,10 +24,7 @@ const directories = (() => {
         'items/materials',
         'items/qualities',
         'items/locations',
-        'items/enhancements/bejewels',
-        'items/enhancements/imbuements',
-        'items/enhancements/names',
-        'items/enhancements/patches',
+        'items/enhancements/*',
         'characters/images',
         'characters/extra-images',
         'characters/enhancements',
@@ -63,7 +37,7 @@ const directories = (() => {
 })();
 
 function inlineContent(dir, file) {
-    if(dir.startsWith('skills/crafting/recipes/')) {
+    if (dir.startsWith('skills/crafting/recipes/')) {
         const recipe = JSON.parse(fs.readFileSync(`${dir}/${file}`));
         return {
             ...recipe,
@@ -76,21 +50,51 @@ function inlineContent(dir, file) {
 }
 
 directories.forEach(dir => {
-    fs.readdir(dir, (err, files) => {
-        if (err) {
-            console.log(err);
-            process.exit(1);
-        }
-        let all_content = [];
-        let all_inline_content = {};
-        files.forEach(file => {
+    const isGlob = dir.endsWith('*');
+    const parentDir = isGlob ? path.dirname(dir) : dir;
+
+    let all_content = [];
+    let all_inline_content = {};
+
+    if (isGlob) {
+        const subdirs = fs.readdirSync(parentDir);
+        subdirs.forEach(subdir => {
+            const subdirPath = path.join(parentDir, subdir);
+            const stat = fs.statSync(subdirPath);
+            if (stat.isDirectory()) {
+                const scopedAllValues = [];
+                const scopedInlineValues = {};
+                const files = fs.readdirSync(subdirPath);
+                for (const file of files) {
+                    if (file.endsWith('.json') && !file.endsWith(".gen.json")) {
+                        const id = `${subdir}/${file.slice(0, -5)}`;
+                        scopedAllValues.push(id);
+                        scopedInlineValues[id] = inlineContent(subdirPath, file);
+                    }
+                }
+                if(scopedAllValues.length > 0) {
+                    all_content.push(...scopedAllValues);
+                    all_inline_content = {
+                        ...all_inline_content,
+                        ...scopedInlineValues
+                    };
+
+                    fs.writeFileSync(`${subdirPath}/all.gen.json`, JSON.stringify(scopedAllValues));
+                    fs.writeFileSync(`${subdirPath}/all.inline.gen.json`, JSON.stringify(scopedInlineValues));
+                }
+            }
+        });
+    } else {
+        const files = fs.readdirSync(parentDir);
+        for (const file of files) {
             if (file.endsWith('.json') && !file.endsWith(".gen.json")) {
                 all_content.push(file.slice(0, -5));
                 all_inline_content[file.slice(0, -5)] = inlineContent(dir, file);
             }
-        });
+        }
+    }
 
-        fs.writeFileSync(`${dir}/all.gen.json`, JSON.stringify(all_content));
-        fs.writeFileSync(`${dir}/all.inline.gen.json`, JSON.stringify(all_inline_content));
-    });
+    fs.writeFileSync(`${parentDir}/all.gen.json`, JSON.stringify(all_content));
+    fs.writeFileSync(`${parentDir}/all.inline.gen.json`, JSON.stringify(all_inline_content));
+
 });

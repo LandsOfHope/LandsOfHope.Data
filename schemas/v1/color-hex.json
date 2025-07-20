@@ -1,0 +1,7 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/color-hex.json",
+    "title": "ColorHex",
+    "type": "string",
+    "pattern": "^#([0-9a-fA-F]{6}|[0-9a-fA-F]{3})$",
+    "description": "A color represented in hexadecimal format, either as a 6-digit or 3-digit code. For example, '#FF0000' for red or '#F00' for shorthand red. The first two characters after the '#' represent the red component, the next two represent green, and the last two represent blue."
+}
