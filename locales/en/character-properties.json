@@ -1,0 +1,42 @@
+{
+	"DEXTERITY": {
+		"desc": "Dexterity is used in combat to determine your chance of melee/ranged evasion, it is also used to evade a Trap after triggering one. The formula for combat evasion is ((Dexterity / Level) * 4) = Evasion percent chance, evasion is capped at 40% (+10% from attack evasion) so higher than 10000 wont provide any noticeable difference for combat.",
+		"name": "Dexterity"
+	},
+	"HITPOINTS": {
+		"desc": "Your Health is used in combat, each time you are hit by a spell or weapon your health will go down, when it reaches 0 or less you will be dead and lose the fight. Therefore the more health you have the longer you will survive.",
+		"name": "Hitpoints"
+	},
+	"INTELLIGENCE": {
+		"desc": "Your Intelligence along with your mana determines what spells you can use it may also be used when disarming traps. Also your intelligence provides you with a bonus to your mana pool of 1pt mana for each point of intelligence. Intelligence may also improve damage spells in combat.",
+		"name": "Intelligence"
+	},
+	"MANA": {
+		"desc": "Your Mana determines what spells you may cast both in combat and outside of combat, each time you cast a spell your mana goes down, you may need to rest to regenerate your mana.",
+		"name": "Mana"
+	},
+	"MAXHITPOINTS": {
+		"desc": "Your Health is used in combat, each time you are hit by a spell or weapon your health will go down, when it reaches 0 or less you will be dead and lose the fight. Therefore the more health you have the longer you will survive.",
+		"name": "Max Hitpoints"
+	},
+	"MAXMANA": {
+		"desc": "Your Mana determines what spells you may cast both in combat and outside of combat, each time you cast a spell your mana goes down, you may need to rest to regenerate your mana.",
+		"name": "Max Mana"
+	},
+	"MAXSTAMINA": {
+		"desc": "Your Stamina determines what styles you may execute in combat, each time you execute a style your stamina goes down, you may need to rest to regenerate your stamina. Stamina also plays a part in increasing your hitpoints, for every 5pts of stamina you gain 1pt bonus point of health.",
+		"name": "Max Stamina"
+	},
+	"SPEED": {
+		"desc": "Speed is used in combat to determine your chance of spell evasion. The formula for spell evasion is ((Speed / Level) * 4) = Evasion percent chance, evasion is capped at 40% (or 50% including Spell evasion skill) so higher than 10000 wont provide any noticeable difference for combat.",
+		"name": "Speed"
+	},
+	"STAMINA": {
+		"desc": "Your Stamina determines what styles you may execute in combat, each time you execute a style your stamina goes down, you may need to rest to regenerate your stamina. Stamina also plays a part in increasing your hitpoints, for every 5pts of stamina you gain 1pt bonus point of health.",
+		"name": "Stamina"
+	},
+	"STRENGTH": {
+		"desc": "Your Strength improves your damage with melee weapons using the equation Damage = Damage + (STR / 10). This means for every 10pts you have in Strength you will deal 1 more damage.",
+		"name": "Strength"
+	}
+}
