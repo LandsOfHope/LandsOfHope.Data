@@ -4,5 +4,10 @@
     "image": "rgl",
     "type": "ring",
     "material": "metal",
-    "skill": "healing-magic"
+    "skill": "healing-magic",
+    "skills": {
+        "mystical-resistance": 1,
+        "drain-resistance": 1,
+        "poison-resistance": 1
+    }
 }

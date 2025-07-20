@@ -4,5 +4,9 @@
     "image": "bfh",
     "type": "head-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "cold-resistance": 1,
+        "fire-resistance": 1
+    }
 }

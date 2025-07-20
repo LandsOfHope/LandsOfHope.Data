@@ -3,5 +3,8 @@
     "id": "baker",
     "image": "zubare",
     "type": "food",
-    "material": "vegetable"
+    "material": "vegetable",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

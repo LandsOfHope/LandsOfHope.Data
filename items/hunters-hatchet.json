@@ -5,5 +5,8 @@
     "type": "1-handed-equipment",
     "dpr": 22,
     "material": "metal",
-    "skill": "axes"
+    "skill": "axes",
+    "skills": {
+        "attack-power": 1
+    }
 }

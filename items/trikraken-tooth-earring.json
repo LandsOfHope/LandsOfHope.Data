@@ -3,5 +3,11 @@
     "id": "trikraken-tooth-earring",
     "image": "eas",
     "type": "ear-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "frenzy": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

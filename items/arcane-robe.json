@@ -3,5 +3,12 @@
     "id": "arcane-robe",
     "image": "rb3",
     "type": "neck",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "bladed-defense": 1,
+        "armor": 1
+    },
+    "properties": {
+        "MAXMANA": 1
+    }
 }

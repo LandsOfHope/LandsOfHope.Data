@@ -3,5 +3,8 @@
     "id": "band",
     "image": "rgg",
     "type": "ring",
-    "material": "stone"
+    "material": "stone",
+    "skills": {
+        "attack-power": 1
+    }
 }

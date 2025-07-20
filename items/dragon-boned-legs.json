@@ -5,5 +5,12 @@
     "type": "leg-armour",
     "armorType": "plate",
     "expansion": "dragons-of-the-east",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

@@ -6,5 +6,8 @@
     "armorType": "leather",
     "expansion": "uncharted-waters",
     "material": "cloth",
-    "skill": "myzan-navy"
+    "skill": "myzan-navy",
+    "skills": {
+        "armor": 1
+    }
 }

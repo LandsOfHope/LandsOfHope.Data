@@ -3,5 +3,8 @@
     "id": "type-iii-gtg-shield-generator",
     "image": "6736",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "damage-absorption": 1
+    }
 }

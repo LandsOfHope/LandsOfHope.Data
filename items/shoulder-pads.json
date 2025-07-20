@@ -3,5 +3,8 @@
     "id": "shoulder-pads",
     "image": "shp",
     "type": "shoulders",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    }
 }

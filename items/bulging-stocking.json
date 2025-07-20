@@ -3,5 +3,8 @@
     "id": "bulging-stocking",
     "image": "6199",
     "type": "bag",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "toy-snatching": 1
+    }
 }

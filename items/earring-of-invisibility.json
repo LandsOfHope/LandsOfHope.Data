@@ -3,5 +3,11 @@
     "id": "earring-of-invisibility",
     "image": "zueain",
     "type": "ear-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "stealth": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "nimble-small-golem-mk-iii",
     "image": "2686",
     "type": "golem",
-    "material": "stone"
+    "material": "stone",
+    "skills": {
+        "armor": 1
+    }
 }

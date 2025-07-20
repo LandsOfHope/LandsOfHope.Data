@@ -4,5 +4,8 @@
     "image": "wwt",
     "type": "1-handed-equipment",
     "material": "metal",
-    "skill": "carpentry"
+    "skill": "carpentry",
+    "skills": {
+        "carpentry": 1
+    }
 }

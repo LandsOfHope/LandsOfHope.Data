@@ -3,5 +3,11 @@
     "id": "weathered-pearl-necklace",
     "image": "4986",
     "type": "neck",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "appraisal": 1
+    },
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

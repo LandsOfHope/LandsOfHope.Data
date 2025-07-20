@@ -3,5 +3,10 @@
     "id": "ring-of-capturing",
     "image": "ring20",
     "type": "ring",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "track-humanoids": 1,
+        "track-items": 1,
+        "track-beasts": 1
+    }
 }

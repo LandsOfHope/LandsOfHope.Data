@@ -3,6 +3,14 @@
     "id": "glasses-of-destiny",
     "image": "5734",
     "type": "glasses-shades",
+    "adjustable": true,
     "set": "destiny-set",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "experience-bonus": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

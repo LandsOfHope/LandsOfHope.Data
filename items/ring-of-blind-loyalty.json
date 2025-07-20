@@ -3,5 +3,8 @@
     "id": "ring-of-blind-loyalty",
     "image": "zurob",
     "type": "ring",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "damage-absorption": 1
+    }
 }

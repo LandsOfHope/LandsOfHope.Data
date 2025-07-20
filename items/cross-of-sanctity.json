@@ -4,5 +4,11 @@
     "image": "zucos",
     "type": "neck",
     "material": "metal",
-    "skill": "healing-magic"
+    "skill": "healing-magic",
+    "skills": {
+        "healing-magic": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

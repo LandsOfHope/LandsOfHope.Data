@@ -4,5 +4,11 @@
     "image": "1129",
     "type": "neck-clothing",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "blacksmithing": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

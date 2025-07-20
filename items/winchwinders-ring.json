@@ -3,5 +3,8 @@
     "id": "winchwinders-ring",
     "image": "zuwiri",
     "type": "ring",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "tinkering": 1
+    }
 }

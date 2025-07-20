@@ -3,5 +3,10 @@
     "id": "yum-yum-cookie",
     "image": "6723",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1,
+        "MANA": 1,
+        "STAMINA": 1
+    }
 }

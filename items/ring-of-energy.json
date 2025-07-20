@@ -4,5 +4,9 @@
     "image": "rge",
     "type": "ring",
     "material": "gem",
-    "skill": "summoning"
+    "skill": "summoning",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

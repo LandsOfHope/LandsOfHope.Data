@@ -4,5 +4,11 @@
     "image": "mot",
     "type": "glasses-shades",
     "material": "gem",
-    "skill": "track-and-capture-criminals"
+    "skill": "track-and-capture-criminals",
+    "skills": {
+        "detect-hidden": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

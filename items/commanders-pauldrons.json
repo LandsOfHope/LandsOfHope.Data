@@ -4,5 +4,8 @@
     "image": "2484",
     "type": "shoulders",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    }
 }

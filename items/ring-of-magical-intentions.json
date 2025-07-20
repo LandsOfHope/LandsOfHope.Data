@@ -3,5 +3,9 @@
     "id": "ring-of-magical-intentions",
     "image": "rgg",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

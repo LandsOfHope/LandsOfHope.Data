@@ -6,5 +6,12 @@
     "dpr": 120,
     "legendary": true,
     "material": "metal",
-    "skill": "fists"
+    "skill": "fists",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "STRENGTH": 1
+    }
 }

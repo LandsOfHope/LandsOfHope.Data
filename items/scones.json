@@ -3,5 +3,8 @@
     "id": "scones",
     "image": "zuscsn",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 2
+    }
 }

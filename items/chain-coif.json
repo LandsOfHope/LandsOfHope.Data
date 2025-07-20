@@ -4,5 +4,9 @@
     "image": "ccs",
     "type": "head-armour",
     "armorType": "mail",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "bludgeon-defense": 1,
+        "armor": 1
+    }
 }

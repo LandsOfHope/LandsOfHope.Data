@@ -5,5 +5,9 @@
     "type": "1-handed-equipment",
     "dpr": 7,
     "material": "wood",
-    "skill": "staves"
+    "skill": "staves",
+    "properties": {
+        "MAXMANA": 1,
+        "SPEED": 1
+    }
 }

@@ -5,5 +5,8 @@
     "type": "arm-armour",
     "set": "inventor-severed-set",
     "material": "hide",
-    "skill": "blood-over-beauty"
+    "skill": "blood-over-beauty",
+    "properties": {
+        "MAXSTAMINA": 0.6
+    }
 }

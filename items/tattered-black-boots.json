@@ -4,5 +4,9 @@
     "image": "bot",
     "type": "foot-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "cold-resistance": 1,
+        "fire-resistance": 1
+    }
 }

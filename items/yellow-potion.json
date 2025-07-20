@@ -3,5 +3,8 @@
     "id": "yellow-potion",
     "image": "py2",
     "type": "magic-potion-other",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "STAMINA": 1
+    }
 }

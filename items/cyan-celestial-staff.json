@@ -5,5 +5,9 @@
     "type": "2-handed-equipment",
     "dpr": 42,
     "material": "metal",
-    "skill": "celestial-weapons"
+    "skill": "celestial-weapons",
+    "skills": {
+        "cold-resistance": 1,
+        "attack-power": 1
+    }
 }

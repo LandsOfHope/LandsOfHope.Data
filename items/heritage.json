@@ -3,5 +3,13 @@
     "id": "heritage",
     "image": "gmhegi",
     "type": "wings",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "air-survival": 1,
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

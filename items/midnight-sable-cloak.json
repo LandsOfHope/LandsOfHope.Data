@@ -4,5 +4,8 @@
     "image": "1135",
     "type": "neck-clothing",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

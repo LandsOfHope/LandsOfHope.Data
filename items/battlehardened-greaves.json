@@ -4,5 +4,8 @@
     "image": "2337",
     "type": "foot-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    }
 }

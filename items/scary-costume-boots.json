@@ -4,5 +4,8 @@
     "image": "tboots",
     "type": "foot-armour",
     "set": "halloween-costume",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "attack-power": 1
+    }
 }

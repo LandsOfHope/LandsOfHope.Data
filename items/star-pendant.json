@@ -4,5 +4,12 @@
     "image": "6040",
     "type": "neck",
     "armorType": "cloth",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "celestial-defense": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1
+    }
 }

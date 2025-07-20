@@ -3,5 +3,9 @@
     "id": "virginias-ring-of-troublemaking",
     "image": "6799",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXHITPOINTS": 2,
+        "STRENGTH": 2
+    }
 }

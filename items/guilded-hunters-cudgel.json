@@ -5,5 +5,8 @@
     "type": "1-handed-equipment",
     "dpr": 23,
     "material": "metal",
-    "skill": "maces"
+    "skill": "maces",
+    "skills": {
+        "attack-power": 1
+    }
 }

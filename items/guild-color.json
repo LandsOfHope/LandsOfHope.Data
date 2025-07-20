@@ -3,5 +3,9 @@
     "id": "guild-color",
     "image": "zsgc1",
     "type": "guild-color",
-    "material": "cloth"
+    "material": "cloth",
+    "properties": {
+        "HITPOINTS": 1,
+        "MAXHITPOINTS": 1
+    }
 }

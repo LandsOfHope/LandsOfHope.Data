@@ -3,5 +3,11 @@
     "id": "earring-of-harmony",
     "image": "feeaha",
     "type": "ear-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "instruments": 1
+    },
+    "properties": {
+        "MAXMANA": 1
+    }
 }

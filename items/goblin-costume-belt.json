@@ -5,5 +5,8 @@
     "type": "stomach",
     "set": "goblin-costume",
     "material": "hide",
-    "skill": "artisan"
+    "skill": "artisan",
+    "skills": {
+        "geology": 1
+    }
 }

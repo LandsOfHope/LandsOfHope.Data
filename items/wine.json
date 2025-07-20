@@ -3,5 +3,8 @@
     "id": "wine",
     "image": "rew",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "HITPOINTS": 2
+    }
 }

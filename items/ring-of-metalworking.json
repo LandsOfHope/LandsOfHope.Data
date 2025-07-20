@@ -3,5 +3,9 @@
     "id": "ring-of-metalworking",
     "image": "rgh",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "blacksmithing": 1,
+        "tinkering": 1
+    }
 }

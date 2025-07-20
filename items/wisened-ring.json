@@ -4,5 +4,9 @@
     "image": "gmwiri",
     "type": "ring",
     "material": "gem",
-    "skill": "hellscar-legion"
+    "skill": "hellscar-legion",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

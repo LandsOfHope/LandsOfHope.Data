@@ -3,5 +3,9 @@
     "id": "land-owners-sign",
     "image": "5879",
     "type": "bonus-slot",
-    "material": "cloth"
+    "material": "cloth",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1
+    }
 }

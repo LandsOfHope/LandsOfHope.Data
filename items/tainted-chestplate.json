@@ -4,5 +4,12 @@
     "image": "l3",
     "type": "chest-armour",
     "armorType": "leather",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "h2h-defense": 1,
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

@@ -3,5 +3,11 @@
     "id": "puredawn-standard",
     "image": "zsgc4",
     "type": "guild-color",
-    "material": "cloth"
+    "material": "cloth",
+    "properties": {
+        "HITPOINTS": 1,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

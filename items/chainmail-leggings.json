@@ -4,5 +4,11 @@
     "image": "4468",
     "type": "leg-armour",
     "armorType": "mail",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

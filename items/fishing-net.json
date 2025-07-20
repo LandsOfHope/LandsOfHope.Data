@@ -4,5 +4,8 @@
     "image": "fin",
     "type": "1-handed-equipment",
     "material": "cloth",
-    "skill": "fishing"
+    "skill": "fishing",
+    "skills": {
+        "fishing": 1
+    }
 }

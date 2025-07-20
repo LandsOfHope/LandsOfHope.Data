@@ -4,5 +4,8 @@
     "image": "pw1",
     "type": "1-handed-equipment",
     "material": "gem",
-    "skill": "cooking"
+    "skill": "cooking",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

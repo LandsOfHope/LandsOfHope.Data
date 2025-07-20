@@ -5,5 +5,10 @@
     "type": "1-handed-equipment",
     "dpr": 10,
     "material": "gem",
-    "skill": "swords"
+    "skill": "swords",
+    "skills": {
+        "deception": 1,
+        "disguise": 1,
+        "attack-power": 1
+    }
 }

@@ -3,5 +3,11 @@
     "id": "wintersvale-scarf",
     "image": "6206",
     "type": "neck-clothing",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "toy-snatching": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

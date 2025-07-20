@@ -4,5 +4,8 @@
     "image": "3758",
     "type": "foot-armour",
     "armorType": "mail",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    }
 }

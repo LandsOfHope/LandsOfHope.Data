@@ -5,5 +5,9 @@
     "type": "2-handed-equipment",
     "dpr": 5,
     "material": "hide",
-    "skill": "two-handed-maces"
+    "skill": "two-handed-maces",
+    "skills": {
+        "two-handed-maces": 1,
+        "attack-power": 1
+    }
 }

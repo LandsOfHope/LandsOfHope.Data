@@ -3,5 +3,8 @@
     "id": "dexterity-augment",
     "image": "6818",
     "type": "augment",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "DEXTERITY": 1.2
+    }
 }

@@ -3,5 +3,9 @@
     "id": "ring-of-assault",
     "image": "asr",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "siege-magic": 1,
+        "siege-weapons": 1
+    }
 }

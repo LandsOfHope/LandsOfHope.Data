@@ -3,5 +3,8 @@
     "id": "ring-of-the-marketeer",
     "image": "ring6",
     "type": "ring",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

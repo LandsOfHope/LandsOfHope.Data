@@ -3,5 +3,8 @@
     "id": "stew",
     "image": "stw.jpg",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "STAMINA": 3
+    }
 }

@@ -5,5 +5,8 @@
     "type": "1-handed-equipment",
     "dpr": 2,
     "material": "wood",
-    "skill": "shields"
+    "skill": "shields",
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

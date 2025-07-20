@@ -3,5 +3,9 @@
     "id": "venomous-sac-ring",
     "image": "vsr",
     "type": "ring",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "poison-resistance": 1,
+        "poison-magic": 1
+    }
 }

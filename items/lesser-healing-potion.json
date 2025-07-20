@@ -3,5 +3,8 @@
     "id": "lesser-healing-potion",
     "image": "pr1",
     "type": "magic-potion",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "HITPOINTS": 1.5
+    }
 }

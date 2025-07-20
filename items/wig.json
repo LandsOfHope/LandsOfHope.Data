@@ -4,5 +4,8 @@
     "image": "wg1",
     "type": "head-armour",
     "armorType": "cloth",
-    "material": "color"
+    "material": "color",
+    "skills": {
+        "armor": 1
+    }
 }

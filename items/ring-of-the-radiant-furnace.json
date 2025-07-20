@@ -3,5 +3,10 @@
     "id": "ring-of-the-radiant-furnace",
     "image": "ring5",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "blacksmithing": 1,
+        "tinkering": 1,
+        "mining": 1
+    }
 }

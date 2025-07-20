@@ -3,5 +3,11 @@
     "id": "symbol-of-distinction",
     "image": "4660",
     "type": "exile-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1,
+        "MAXSTAMINA": 1
+    }
 }

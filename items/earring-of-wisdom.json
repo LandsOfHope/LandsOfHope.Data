@@ -4,5 +4,9 @@
     "image": "859",
     "type": "ear-jewelry",
     "armorType": "cloth",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

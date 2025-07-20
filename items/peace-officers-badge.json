@@ -3,5 +3,9 @@
     "id": "peace-officers-badge",
     "image": "5961",
     "type": "bonus-slot",
-    "material": "cloth"
+    "material": "cloth",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "SPEED": 1
+    }
 }

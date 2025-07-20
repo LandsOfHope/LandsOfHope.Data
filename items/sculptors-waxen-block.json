@@ -3,5 +3,8 @@
     "id": "sculptors-waxen-block",
     "image": "3191",
     "type": "special-bag",
-    "material": "stone"
+    "material": "stone",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

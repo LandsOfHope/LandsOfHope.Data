@@ -5,5 +5,8 @@
     "type": "1-handed-equipment",
     "dpr": 2,
     "material": "metal",
-    "skill": "lockpicking"
+    "skill": "lockpicking",
+    "skills": {
+        "lockpicking": 1
+    }
 }

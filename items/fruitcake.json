@@ -3,5 +3,8 @@
     "id": "fruitcake",
     "image": "zufrai",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 2
+    }
 }

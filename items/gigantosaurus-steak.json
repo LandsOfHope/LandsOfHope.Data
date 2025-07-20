@@ -3,5 +3,8 @@
     "id": "gigantosaurus-steak",
     "image": "zustae",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "STAMINA": 4
+    }
 }

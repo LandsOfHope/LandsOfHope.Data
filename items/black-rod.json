@@ -5,5 +5,10 @@
     "type": "2-handed-equipment",
     "dpr": 6,
     "material": "metal",
-    "skill": "staves"
+    "skill": "staves",
+    "skills": {
+        "water-resistance": 1,
+        "staves": 1,
+        "attack-power": 1
+    }
 }

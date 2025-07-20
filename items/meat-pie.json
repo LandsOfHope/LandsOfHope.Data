@@ -3,5 +3,9 @@
     "id": "meat-pie",
     "image": "zumepi",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 3,
+        "STAMINA": 3
+    }
 }

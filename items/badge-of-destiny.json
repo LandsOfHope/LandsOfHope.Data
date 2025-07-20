@@ -3,6 +3,14 @@
     "id": "badge-of-destiny",
     "image": "5733",
     "type": "bonus-2",
+    "adjustable": true,
     "set": "destiny-set",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "experience-bonus": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1
+    }
 }

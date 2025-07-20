@@ -4,5 +4,11 @@
     "image": "zugrma",
     "type": "head-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "frenzy": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

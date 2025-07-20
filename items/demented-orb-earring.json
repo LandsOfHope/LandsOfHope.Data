@@ -3,5 +3,10 @@
     "id": "demented-orb-earring",
     "image": "5942",
     "type": "ear-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "STRENGTH": 1
+    }
 }

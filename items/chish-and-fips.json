@@ -3,5 +3,8 @@
     "id": "chish-and-fips",
     "image": "6573",
     "type": "food",
-    "material": "fish"
+    "material": "fish",
+    "properties": {
+        "STAMINA": 1
+    }
 }

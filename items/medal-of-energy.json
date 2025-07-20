@@ -3,5 +3,9 @@
     "id": "medal-of-energy",
     "image": "1896",
     "type": "society-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "MANA": 1,
+        "MAXMANA": 1
+    }
 }

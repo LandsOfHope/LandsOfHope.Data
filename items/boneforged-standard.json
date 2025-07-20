@@ -3,5 +3,12 @@
     "id": "boneforged-standard",
     "image": "zsgc2",
     "type": "guild-color",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "HITPOINTS": 1,
+        "MAXHITPOINTS": 1
+    }
 }

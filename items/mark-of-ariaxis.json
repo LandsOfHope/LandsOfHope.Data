@@ -5,5 +5,11 @@
     "type": "exile-symbol",
     "set": "dark-hollow-clan",
     "material": "gem",
-    "skill": "dark-hollow-clan"
+    "skill": "dark-hollow-clan",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

@@ -3,5 +3,13 @@
     "id": "orange-alien-crystal-shard",
     "image": "7005",
     "type": "neck",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "alien-hunting": 2
+    },
+    "properties": {
+        "DEXTERITY": 1.5,
+        "MAXHITPOINTS": 2,
+        "SPEED": 1.5
+    }
 }

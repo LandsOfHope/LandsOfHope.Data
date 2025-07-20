@@ -3,5 +3,8 @@
     "id": "pendant-of-ensnaring",
     "image": "bat",
     "type": "neck",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "spirit-magic": 1
+    }
 }

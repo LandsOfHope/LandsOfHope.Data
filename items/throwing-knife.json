@@ -5,5 +5,11 @@
     "type": "ranged-weapon",
     "dpr": 2,
     "material": "metal",
-    "skill": "thrown-weapons"
+    "skill": "thrown-weapons",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

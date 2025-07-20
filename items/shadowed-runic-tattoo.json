@@ -4,5 +4,12 @@
     "image": "tattoo1",
     "type": "glasses-shades",
     "material": "gem",
-    "skill": "hellscar-legion"
+    "skill": "hellscar-legion",
+    "skills": {
+        "stealth": 1
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "SPEED": 1
+    }
 }

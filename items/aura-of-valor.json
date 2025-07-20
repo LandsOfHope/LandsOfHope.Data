@@ -3,5 +3,11 @@
     "id": "aura-of-valor",
     "image": "6900",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "damage-absorption": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1.5
+    }
 }

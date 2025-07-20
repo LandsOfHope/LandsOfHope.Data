@@ -3,5 +3,8 @@
     "id": "cheese-sandwich",
     "image": "ch1",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

@@ -3,5 +3,9 @@
     "id": "symbol-of-energy",
     "image": "1862",
     "type": "exile-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "MANA": 1,
+        "MAXMANA": 1
+    }
 }

@@ -4,5 +4,11 @@
     "image": "4952",
     "type": "forehead",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

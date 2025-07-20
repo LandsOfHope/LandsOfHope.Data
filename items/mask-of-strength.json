@@ -3,5 +3,8 @@
     "id": "mask-of-strength",
     "image": "zumast",
     "type": "reaper-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "STRENGTH": 1
+    }
 }

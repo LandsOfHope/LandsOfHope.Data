@@ -3,5 +3,8 @@
     "id": "skull-of-corruption",
     "image": "xsc",
     "type": "bonus-slot",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "necromancy": 1
+    }
 }

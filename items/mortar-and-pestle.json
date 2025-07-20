@@ -4,5 +4,8 @@
     "image": "map",
     "type": "1-handed-equipment",
     "material": "wood",
-    "skill": "alchemy"
+    "skill": "alchemy",
+    "skills": {
+        "alchemy": 1
+    }
 }

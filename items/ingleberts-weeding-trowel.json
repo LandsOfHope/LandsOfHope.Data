@@ -4,5 +4,9 @@
     "image": "5952",
     "type": "1-handed-equipment",
     "material": "metal",
-    "skill": "foraging"
+    "skill": "foraging",
+    "skills": {
+        "farming": 1,
+        "foraging": 1
+    }
 }

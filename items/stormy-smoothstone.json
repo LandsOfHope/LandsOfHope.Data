@@ -4,5 +4,8 @@
     "image": "sms",
     "type": "ammo-weapons-rocks",
     "dpr": 74,
-    "material": "stone"
+    "material": "stone",
+    "skills": {
+        "attack-power": 1
+    }
 }

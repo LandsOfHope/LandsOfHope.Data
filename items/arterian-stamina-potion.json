@@ -2,5 +2,8 @@
     "$type": "/v1/item",
     "id": "arterian-stamina-potion",
     "image": "gmarstpo",
-    "type": "magic-potion"
+    "type": "magic-potion",
+    "properties": {
+        "STAMINA": 6
+    }
 }

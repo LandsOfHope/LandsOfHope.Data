@@ -4,5 +4,12 @@
     "image": "cl8",
     "type": "cloak",
     "armorType": "leather",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

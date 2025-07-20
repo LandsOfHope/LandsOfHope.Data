@@ -5,5 +5,8 @@
     "type": "chest-armour",
     "armorType": "mail",
     "expansion": "jurassic-wars",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    }
 }

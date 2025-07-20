@@ -3,5 +3,9 @@
     "id": "elite-vengeful-backpack",
     "image": "5954",
     "type": "bag",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "stealth": 1.2,
+        "detect-hidden": 0.5
+    }
 }

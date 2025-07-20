@@ -5,5 +5,10 @@
     "type": "foot-armour",
     "armorType": "cloth",
     "expansion": "jurassic-wars",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "fire-survival": 1,
+        "fire-resistance": 1,
+        "armor": 1
+    }
 }

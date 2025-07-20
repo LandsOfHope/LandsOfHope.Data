@@ -3,5 +3,13 @@
     "id": "lineage",
     "image": "gmliig",
     "type": "wings",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "air-survival": 1,
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1
+    }
 }

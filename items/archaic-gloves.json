@@ -5,5 +5,8 @@
     "type": "hand-armour",
     "armorType": "mail",
     "material": "metal",
-    "skill": "archaeology"
+    "skill": "archaeology",
+    "skills": {
+        "armor": 1
+    }
 }

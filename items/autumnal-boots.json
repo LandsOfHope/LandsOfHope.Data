@@ -5,5 +5,8 @@
     "type": "foot-armour",
     "armorType": "leather",
     "expansion": "jurassic-wars",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "armor": 1
+    }
 }

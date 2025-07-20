@@ -4,5 +4,10 @@
     "image": "6479",
     "type": "magic-potion",
     "expansion": "dark-depths",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "HITPOINTS": 4,
+        "MANA": 4,
+        "STAMINA": 4
+    }
 }

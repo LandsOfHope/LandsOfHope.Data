@@ -3,5 +3,8 @@
     "id": "ring-of-entrapment",
     "image": "ring17",
     "type": "ring",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "spirit-magic": 1
+    }
 }

@@ -3,5 +3,13 @@
     "id": "heartstone",
     "image": "zuheen",
     "type": "neck",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "summoning": 1,
+        "necromancy": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

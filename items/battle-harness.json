@@ -3,5 +3,11 @@
     "id": "battle-harness",
     "image": "bet",
     "type": "stomach",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

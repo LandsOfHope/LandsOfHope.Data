@@ -3,5 +3,8 @@
     "id": "pickles",
     "image": "zupiil",
     "type": "food",
-    "material": "vegetable"
+    "material": "vegetable",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

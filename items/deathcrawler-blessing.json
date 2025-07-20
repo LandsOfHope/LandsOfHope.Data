@@ -4,5 +4,9 @@
     "image": "6286",
     "type": "forehead",
     "armorType": "cloth",
-    "material": "stone"
+    "material": "stone",
+    "skills": {
+        "air-resistance": 1,
+        "poison-resistance": 1
+    }
 }

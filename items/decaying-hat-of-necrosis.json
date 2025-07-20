@@ -5,5 +5,9 @@
     "type": "head-armour",
     "armorType": "cloth",
     "material": "hide",
-    "skill": "necromancy"
+    "skill": "necromancy",
+    "skills": {
+        "drain-resistance": 1,
+        "necromancy": 1
+    }
 }

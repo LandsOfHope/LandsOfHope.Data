@@ -5,5 +5,12 @@
     "type": "2-handed-equipment",
     "dpr": 10,
     "material": "gem",
-    "skill": "staves"
+    "skill": "staves",
+    "skills": {
+        "acid-resistance": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

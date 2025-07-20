@@ -6,5 +6,12 @@
     "dpr": 120,
     "legendary": true,
     "material": "metal",
-    "skill": "exotic-weapons"
+    "skill": "exotic-weapons",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXSTAMINA": 1
+    }
 }

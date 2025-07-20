@@ -3,5 +3,11 @@
     "id": "nerrins-tear",
     "image": "am1",
     "type": "neck-clothing",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "bone-charm",
     "image": "bc1",
     "type": "neck",
-    "material": "color"
+    "material": "color",
+    "properties": {
+        "MAXMANA": 1
+    }
 }

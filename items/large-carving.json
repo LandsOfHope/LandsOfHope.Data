@@ -3,5 +3,8 @@
     "id": "large-carving",
     "image": "brk",
     "type": "stone-masonry-result",
-    "material": "wood"
+    "material": "wood",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

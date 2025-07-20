@@ -3,5 +3,8 @@
     "id": "special-brownies",
     "image": "zuspbr",
     "type": "food",
-    "material": "bird"
+    "material": "bird",
+    "properties": {
+        "MANA": 1
+    }
 }

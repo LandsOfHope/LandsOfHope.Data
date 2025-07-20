@@ -5,5 +5,10 @@
     "type": "1-handed-equipment",
     "dpr": 2,
     "material": "gem",
-    "skill": "thrown-weapons"
+    "skill": "thrown-weapons",
+    "skills": {
+        "poison-resistance": 1,
+        "poison-magic": 1,
+        "attack-power": 1
+    }
 }

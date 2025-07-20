@@ -5,5 +5,12 @@
     "type": "2-handed-equipment",
     "dpr": 5,
     "material": "wood",
-    "skill": "staves"
+    "skill": "staves",
+    "skills": {
+        "transmigration": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXMANA": 1
+    }
 }

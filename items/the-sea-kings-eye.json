@@ -4,5 +4,12 @@
     "image": "6576",
     "type": "glasses-shades",
     "expansion": "uncharted-waters",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "exploration": 1,
+        "track-items": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

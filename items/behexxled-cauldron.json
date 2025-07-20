@@ -3,5 +3,9 @@
     "id": "behexxled-cauldron",
     "image": "7021",
     "type": "special-bag",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "charms-and-hexes": 1,
+        "bewitching": 1
+    }
 }

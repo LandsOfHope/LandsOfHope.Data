@@ -3,5 +3,8 @@
     "id": "cooked-fillet",
     "image": "c1f",
     "type": "food",
-    "material": "fish"
+    "material": "fish",
+    "properties": {
+        "STAMINA": 1
+    }
 }

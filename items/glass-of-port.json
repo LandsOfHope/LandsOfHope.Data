@@ -4,5 +4,9 @@
     "image": "5487",
     "type": "food",
     "expansion": "uncharted-waters",
-    "material": "wood"
+    "material": "wood",
+    "properties": {
+        "HITPOINTS": 1,
+        "STAMINA": 1
+    }
 }

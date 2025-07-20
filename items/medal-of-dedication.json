@@ -3,5 +3,8 @@
     "id": "medal-of-dedication",
     "image": "1858",
     "type": "society-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

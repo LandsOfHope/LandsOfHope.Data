@@ -3,5 +3,8 @@
     "id": "meal",
     "image": "zumeea",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "STAMINA": 3
+    }
 }

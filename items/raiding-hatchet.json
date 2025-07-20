@@ -6,5 +6,11 @@
     "dpr": 2,
     "expansion": "uncharted-waters",
     "material": "metal",
-    "skill": "axes"
+    "skill": "axes",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

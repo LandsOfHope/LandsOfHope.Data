@@ -3,5 +3,9 @@
     "id": "ethereal-bindings",
     "image": "pbelt13",
     "type": "stomach",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

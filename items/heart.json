@@ -4,5 +4,8 @@
     "image": "4461",
     "type": "chest-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

@@ -4,5 +4,11 @@
     "image": "4949",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

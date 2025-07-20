@@ -3,5 +3,8 @@
     "id": "medley",
     "image": "zumedl",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 1
+    }
 }

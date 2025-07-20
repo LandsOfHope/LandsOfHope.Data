@@ -3,5 +3,10 @@
     "id": "symbol-of-appreciation",
     "image": "4654",
     "type": "exile-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXSTAMINA": 1,
+        "SPEED": 1
+    }
 }

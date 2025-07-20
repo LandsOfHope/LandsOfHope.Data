@@ -3,5 +3,9 @@
     "id": "small-carving",
     "image": "brk",
     "type": "stone-masonry-result",
-    "material": "wood"
+    "material": "wood",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

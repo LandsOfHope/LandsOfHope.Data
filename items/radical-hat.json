@@ -4,5 +4,11 @@
     "image": "what3",
     "type": "head-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

@@ -4,5 +4,8 @@
     "image": "bh",
     "type": "neck-clothing",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

@@ -3,5 +3,12 @@
     "id": "clawed-feet",
     "image": "192",
     "type": "foot-armour",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

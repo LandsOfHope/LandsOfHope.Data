@@ -3,5 +3,9 @@
     "id": "orange-prizehunter-goggles",
     "image": "6255",
     "type": "glasses-shades",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXSTAMINA": 1
+    }
 }

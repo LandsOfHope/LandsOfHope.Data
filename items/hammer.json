@@ -3,5 +3,8 @@
     "id": "hammer",
     "image": "hmr",
     "type": "siege-weapon-construction-tool",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "siege-weapons": 1
+    }
 }

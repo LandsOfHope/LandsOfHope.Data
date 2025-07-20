@@ -4,5 +4,11 @@
     "image": "what6",
     "type": "head-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXMANA": 1
+    }
 }

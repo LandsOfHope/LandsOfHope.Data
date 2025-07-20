@@ -4,5 +4,8 @@
     "image": "ss6",
     "type": "ammo-weapons-artillery",
     "dpr": 97,
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "attack-power": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "symbol-of-knowledge",
     "image": "2209",
     "type": "exile-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

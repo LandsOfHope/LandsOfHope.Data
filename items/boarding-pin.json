@@ -6,5 +6,11 @@
     "dpr": 2,
     "expansion": "uncharted-waters",
     "material": "metal",
-    "skill": "maces"
+    "skill": "maces",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

@@ -3,5 +3,9 @@
     "id": "bloodsurge-augment",
     "image": "6868",
     "type": "augment",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXHITPOINTS": 1.3,
+        "MAXSTAMINA": 0.55
+    }
 }

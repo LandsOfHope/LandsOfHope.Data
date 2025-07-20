@@ -3,5 +3,8 @@
     "id": "milkshake",
     "image": "mis",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 1
+    }
 }

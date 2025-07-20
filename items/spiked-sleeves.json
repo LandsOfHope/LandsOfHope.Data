@@ -4,5 +4,9 @@
     "image": "1846",
     "type": "arm-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1,
+        "attack-power": 1
+    }
 }

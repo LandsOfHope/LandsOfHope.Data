@@ -3,5 +3,9 @@
     "id": "jewel-encrusted-earring",
     "image": "4830",
     "type": "ear-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

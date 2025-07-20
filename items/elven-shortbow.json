@@ -5,5 +5,11 @@
     "type": "ranged-weapon",
     "dpr": 4,
     "material": "wood",
-    "skill": "bows"
+    "skill": "bows",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

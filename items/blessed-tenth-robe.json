@@ -5,5 +5,12 @@
     "type": "chest-armour",
     "armorType": "cloth",
     "set": "blessed-tenth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

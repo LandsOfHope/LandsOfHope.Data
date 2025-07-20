@@ -3,5 +3,9 @@
     "id": "medal-of-health",
     "image": "1902",
     "type": "society-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "HITPOINTS": 1,
+        "MAXHITPOINTS": 1
+    }
 }

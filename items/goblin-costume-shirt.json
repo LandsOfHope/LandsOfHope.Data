@@ -5,5 +5,8 @@
     "type": "chest-armour",
     "set": "goblin-costume",
     "material": "hide",
-    "skill": "artisan"
+    "skill": "artisan",
+    "skills": {
+        "blacksmithing": 1
+    }
 }

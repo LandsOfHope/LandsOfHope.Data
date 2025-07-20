@@ -3,5 +3,9 @@
     "id": "land-owners-sigil",
     "image": "5891",
     "type": "bonus-slot",
-    "material": "cloth"
+    "material": "cloth",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "STRENGTH": 1
+    }
 }

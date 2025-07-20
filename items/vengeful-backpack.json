@@ -3,5 +3,8 @@
     "id": "vengeful-backpack",
     "image": "5954",
     "type": "bag",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "stealth": 1
+    }
 }

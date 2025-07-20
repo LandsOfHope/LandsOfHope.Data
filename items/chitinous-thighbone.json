@@ -4,5 +4,9 @@
     "image": "ctb",
     "type": "leg-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "shields": 1,
+        "armor": 1
+    }
 }

@@ -4,5 +4,8 @@
     "image": "bba",
     "type": "ammo-weapons-bows",
     "dpr": 14,
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "attack-power": 1
+    }
 }

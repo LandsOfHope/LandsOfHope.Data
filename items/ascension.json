@@ -3,5 +3,13 @@
     "id": "ascension",
     "image": "6686",
     "type": "wings",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "air-survival": 1
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1
+    }
 }

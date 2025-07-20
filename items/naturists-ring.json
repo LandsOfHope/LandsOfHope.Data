@@ -3,5 +3,8 @@
     "id": "naturists-ring",
     "image": "rgf",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "nature-resistance": 1
+    }
 }

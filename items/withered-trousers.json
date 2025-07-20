@@ -4,5 +4,11 @@
     "image": "1570",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXMANA": 1
+    }
 }

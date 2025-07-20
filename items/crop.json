@@ -3,5 +3,8 @@
     "id": "crop",
     "image": "cro",
     "type": "rawfood",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

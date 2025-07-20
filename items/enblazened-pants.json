@@ -4,5 +4,8 @@
     "image": "3050",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    }
 }

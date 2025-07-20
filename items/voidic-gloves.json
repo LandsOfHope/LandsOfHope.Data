@@ -4,5 +4,9 @@
     "image": "gmvogl",
     "type": "hand-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "bladed-defense": 1,
+        "armor": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "strength-augment",
     "image": "6816",
     "type": "augment",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "STRENGTH": 1.2
+    }
 }

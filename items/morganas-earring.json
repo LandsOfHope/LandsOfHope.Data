@@ -4,5 +4,13 @@
     "image": "6924",
     "type": "ear-jewelry",
     "set": "arthurian-set",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "stamina-regen": 0.5,
+        "mana-regen": 0.5,
+        "health-regen": 0.5
+    },
+    "properties": {
+        "MAXHITPOINTS": 1.2
+    }
 }

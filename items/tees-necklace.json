@@ -3,5 +3,8 @@
     "id": "tees-necklace",
     "image": "rec1",
     "type": "neck",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

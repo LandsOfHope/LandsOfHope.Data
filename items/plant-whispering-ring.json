@@ -3,5 +3,11 @@
     "id": "plant-whispering-ring",
     "image": "6937",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "druid-magic": 1.5
+    },
+    "properties": {
+        "INTELLIGENCE": 1.5
+    }
 }

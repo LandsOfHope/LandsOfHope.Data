@@ -4,5 +4,8 @@
     "image": "pf2",
     "type": "ammo-weapons-potions",
     "dpr": 3,
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "attack-power": 1
+    }
 }

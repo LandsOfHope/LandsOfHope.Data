@@ -4,5 +4,8 @@
     "image": "febotl",
     "type": "ammo-weapons-crossbows",
     "dpr": 2,
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "attack-power": 1
+    }
 }

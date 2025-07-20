@@ -5,5 +5,10 @@
     "type": "ranged-weapon",
     "dpr": 8,
     "material": "wood",
-    "skill": "bows"
+    "skill": "bows",
+    "skills": {
+        "disguise": 1,
+        "bows": 1,
+        "attack-power": 1
+    }
 }

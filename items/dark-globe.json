@@ -4,5 +4,13 @@
     "image": "zudagl",
     "type": "1-handed-equipment",
     "dpr": 2,
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "air-resistance": 1,
+        "acid-resistance": 1,
+        "dark-magic": 1
+    },
+    "properties": {
+        "MAXMANA": 1
+    }
 }

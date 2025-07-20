@@ -4,5 +4,11 @@
     "image": "6687",
     "type": "stomach",
     "material": "metal",
-    "skill": "gods-favor"
+    "skill": "gods-favor",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

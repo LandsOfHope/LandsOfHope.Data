@@ -3,5 +3,9 @@
     "id": "ring-of-bashing",
     "image": "rg5",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "maces": 1,
+        "two-handed-maces": 1
+    }
 }

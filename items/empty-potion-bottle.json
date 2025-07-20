@@ -3,5 +3,8 @@
     "id": "empty-potion-bottle",
     "image": "pe1",
     "type": "potion-containers",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "attack-power": 1
+    }
 }

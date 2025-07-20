@@ -3,5 +3,8 @@
     "id": "large-shell",
     "image": "2425",
     "type": "golem-parts",
-    "material": "stone"
+    "material": "stone",
+    "skills": {
+        "armor": 1
+    }
 }

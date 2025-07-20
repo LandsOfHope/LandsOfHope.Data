@@ -3,5 +3,11 @@
     "id": "assassins-ring",
     "image": "asr",
     "type": "ring",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "shadow-strike": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

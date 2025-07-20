@@ -5,5 +5,8 @@
     "type": "hand-armour",
     "armorType": "cloth",
     "material": "hide",
-    "skill": "summoning"
+    "skill": "summoning",
+    "skills": {
+        "summoning": 1
+    }
 }

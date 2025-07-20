@@ -4,5 +4,11 @@
     "image": "613",
     "type": "head-armour",
     "armorType": "cloth",
-    "material": "bird"
+    "material": "bird",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

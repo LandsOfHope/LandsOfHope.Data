@@ -3,5 +3,8 @@
     "id": "blessed-healing-potion",
     "image": "pr4",
     "type": "magic-potion",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "HITPOINTS": 3.75
+    }
 }

@@ -5,5 +5,8 @@
     "type": "2-handed-equipment",
     "dpr": 23,
     "material": "wood",
-    "skill": "two-handed-staves"
+    "skill": "two-handed-staves",
+    "skills": {
+        "attack-power": 1
+    }
 }

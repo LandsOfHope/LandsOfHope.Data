@@ -3,5 +3,8 @@
     "id": "prepared-oyster",
     "image": "gmproy",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "STAMINA": 1
+    }
 }

@@ -4,5 +4,9 @@
     "image": "858",
     "type": "ear-jewelry",
     "armorType": "cloth",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "STRENGTH": 1
+    }
 }

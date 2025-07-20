@@ -3,5 +3,10 @@
     "id": "ring-of-the-luminos-hearth",
     "image": "ring8",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "carpentry": 1,
+        "blacksmithing": 1,
+        "lumberjacking": 1
+    }
 }

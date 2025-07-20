@@ -3,5 +3,11 @@
     "id": "ring-of-the-decoy",
     "image": "ring12",
     "type": "ring",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "invocation": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

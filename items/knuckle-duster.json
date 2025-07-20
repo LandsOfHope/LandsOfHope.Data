@@ -5,5 +5,9 @@
     "type": "1-handed-equipment",
     "dpr": 2,
     "material": "metal",
-    "skill": "fists"
+    "skill": "fists",
+    "skills": {
+        "fists": 1,
+        "attack-power": 1
+    }
 }

@@ -4,5 +4,8 @@
     "image": "3007",
     "type": "shoulders",
     "armorType": "leather",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    }
 }

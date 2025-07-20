@@ -4,5 +4,8 @@
     "image": "brh",
     "type": "ram-ammo",
     "material": "metal",
-    "skill": "siege-weapons"
+    "skill": "siege-weapons",
+    "skills": {
+        "attack-power": 1
+    }
 }

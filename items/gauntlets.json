@@ -4,5 +4,9 @@
     "image": "122",
     "type": "hand-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "bludgeon-defense": 1,
+        "armor": 1
+    }
 }

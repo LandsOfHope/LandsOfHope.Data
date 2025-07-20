@@ -4,5 +4,10 @@
     "image": "6510",
     "type": "head-armour",
     "armorType": "leather",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "health-regen": 1,
+        "detect-hidden": 1,
+        "armor": 1
+    }
 }

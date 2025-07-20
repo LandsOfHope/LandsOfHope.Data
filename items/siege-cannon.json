@@ -5,5 +5,8 @@
     "type": "siege-weapon",
     "dpr": 12,
     "material": "metal",
-    "skill": "siege-weapons"
+    "skill": "siege-weapons",
+    "skills": {
+        "armor": 1
+    }
 }

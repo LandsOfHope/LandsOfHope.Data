@@ -3,5 +3,8 @@
     "id": "charm-of-the-ice",
     "image": "zuchic",
     "type": "wrist-jewelry",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "cold-magic": 1
+    }
 }

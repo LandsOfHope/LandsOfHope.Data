@@ -6,5 +6,12 @@
     "armorType": "cloth",
     "expansion": "the-afterlife",
     "set": "templar-set",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "celestial-defense": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXSTAMINA": 1
+    }
 }

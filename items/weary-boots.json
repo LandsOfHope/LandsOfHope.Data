@@ -4,5 +4,11 @@
     "image": "4452",
     "type": "foot-armour",
     "armorType": "leather",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

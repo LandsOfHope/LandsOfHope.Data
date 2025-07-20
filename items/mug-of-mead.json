@@ -4,5 +4,8 @@
     "image": "gmmume",
     "type": "food",
     "expansion": "uncharted-waters",
-    "material": "wood"
+    "material": "wood",
+    "properties": {
+        "STAMINA": 1
+    }
 }

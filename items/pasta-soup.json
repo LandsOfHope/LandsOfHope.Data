@@ -3,5 +3,8 @@
     "id": "pasta-soup",
     "image": "sou",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

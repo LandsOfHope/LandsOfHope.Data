@@ -5,5 +5,8 @@
     "type": "1-handed-equipment",
     "expansion": "uncharted-waters",
     "material": "metal",
-    "skill": "seamanship"
+    "skill": "seamanship",
+    "skills": {
+        "seamanship": 1
+    }
 }

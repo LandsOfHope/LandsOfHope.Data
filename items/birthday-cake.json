@@ -3,5 +3,10 @@
     "id": "birthday-cake",
     "image": "ce2",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "HITPOINTS": 1,
+        "MANA": 1,
+        "STAMINA": 1
+    }
 }

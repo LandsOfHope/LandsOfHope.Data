@@ -3,5 +3,8 @@
     "id": "sausage-roll",
     "image": "zusaro",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 3
+    }
 }

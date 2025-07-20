@@ -5,5 +5,9 @@
     "type": "ranged-weapon",
     "dpr": 4,
     "material": "metal",
-    "skill": "two-handed-guns"
+    "skill": "two-handed-guns",
+    "skills": {
+        "two-handed-guns": 1,
+        "attack-power": 1
+    }
 }

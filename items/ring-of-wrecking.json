@@ -3,5 +3,11 @@
     "id": "ring-of-wrecking",
     "image": "ring1",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "deconstruction": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

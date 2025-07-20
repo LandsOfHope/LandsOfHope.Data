@@ -5,5 +5,8 @@
     "type": "hand-armour",
     "armorType": "cloth",
     "material": "hide",
-    "skill": "healing-magic"
+    "skill": "healing-magic",
+    "skills": {
+        "healing-magic": 1
+    }
 }

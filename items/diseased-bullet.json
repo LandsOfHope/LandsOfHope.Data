@@ -4,5 +4,8 @@
     "image": "zudibu",
     "type": "ammo-weapons-bullets",
     "dpr": 9,
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "attack-power": 1
+    }
 }

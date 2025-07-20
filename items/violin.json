@@ -5,5 +5,9 @@
     "type": "ranged-weapon",
     "dpr": 4,
     "material": "wood",
-    "skill": "instruments"
+    "skill": "instruments",
+    "skills": {
+        "instruments": 1,
+        "attack-power": 1
+    }
 }

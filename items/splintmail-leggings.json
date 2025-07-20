@@ -4,5 +4,11 @@
     "image": "cls",
     "type": "leg-armour",
     "armorType": "mail",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

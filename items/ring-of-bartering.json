@@ -3,5 +3,9 @@
     "id": "ring-of-bartering",
     "image": "ring21",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1
+    }
 }

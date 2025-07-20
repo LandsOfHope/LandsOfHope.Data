@@ -4,5 +4,8 @@
     "image": "arrp",
     "type": "ammo-weapons-bows",
     "dpr": 8,
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "attack-power": 1
+    }
 }

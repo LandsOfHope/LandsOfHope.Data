@@ -3,5 +3,9 @@
     "id": "dragon-blood",
     "image": "pr4",
     "type": "magic-potion",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "HITPOINTS": 1,
+        "MANA": 1
+    }
 }

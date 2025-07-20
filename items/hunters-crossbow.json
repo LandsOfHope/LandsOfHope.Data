@@ -5,5 +5,8 @@
     "type": "ranged-weapon",
     "dpr": 22,
     "material": "wood",
-    "skill": "crossbows"
+    "skill": "crossbows",
+    "skills": {
+        "attack-power": 1
+    }
 }

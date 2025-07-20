@@ -3,5 +3,8 @@
     "id": "dust-of-truesight",
     "image": "gn2",
     "type": "bonus-slot",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    }
 }

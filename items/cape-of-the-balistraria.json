@@ -4,5 +4,8 @@
     "image": "cob",
     "type": "neck-clothing",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "attack-power": 1
+    }
 }

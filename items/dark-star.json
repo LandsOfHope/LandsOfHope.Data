@@ -4,5 +4,12 @@
     "image": "zudast",
     "type": "2-handed-equipment",
     "dpr": 2,
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "attack-power": 1,
+        "dark-magic": 1
+    },
+    "properties": {
+        "MAXMANA": 1
+    }
 }

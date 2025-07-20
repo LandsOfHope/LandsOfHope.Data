@@ -3,5 +3,8 @@
     "id": "fried-fillet",
     "image": "frf",
     "type": "food",
-    "material": "fish"
+    "material": "fish",
+    "properties": {
+        "STAMINA": 1
+    }
 }

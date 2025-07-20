@@ -6,5 +6,12 @@
     "dpr": 120,
     "legendary": true,
     "material": "wood",
-    "skill": "propelled"
+    "skill": "propelled",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1,
+        "SPEED": 1
+    }
 }

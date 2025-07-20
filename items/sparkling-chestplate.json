@@ -4,5 +4,11 @@
     "image": "573",
     "type": "chest-armour",
     "armorType": "plate",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

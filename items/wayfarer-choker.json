@@ -3,5 +3,8 @@
     "id": "wayfarer-choker",
     "image": "1991",
     "type": "neck",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

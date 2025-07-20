@@ -4,5 +4,8 @@
     "image": "gmrabr",
     "type": "chest-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    }
 }

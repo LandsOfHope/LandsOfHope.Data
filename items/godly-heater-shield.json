@@ -5,5 +5,9 @@
     "type": "2-handed-equipment",
     "dpr": 94,
     "material": "metal",
-    "skill": "two-handed-shields"
+    "skill": "two-handed-shields",
+    "skills": {
+        "armor": 1,
+        "arcane-resistance": 1
+    }
 }

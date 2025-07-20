@@ -3,5 +3,8 @@
     "id": "water-dancing-ring",
     "image": "rgf",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "water-survival": 1
+    }
 }

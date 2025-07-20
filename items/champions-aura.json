@@ -3,5 +3,11 @@
     "id": "champions-aura",
     "image": "6178",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "health-regen": 0.5
+    },
+    "properties": {
+        "MAXHITPOINTS": 2
+    }
 }

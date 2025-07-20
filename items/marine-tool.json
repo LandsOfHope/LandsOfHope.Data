@@ -6,5 +6,8 @@
     "dpr": 2,
     "expansion": "uncharted-waters",
     "material": "metal",
-    "skill": "marine-husbandry"
+    "skill": "marine-husbandry",
+    "skills": {
+        "marine-husbandry": 1
+    }
 }

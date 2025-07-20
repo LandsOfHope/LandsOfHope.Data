@@ -6,5 +6,12 @@
     "dpr": 120,
     "legendary": true,
     "material": "metal",
-    "skill": "two-handed-maces"
+    "skill": "two-handed-maces",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "SPEED": 1,
+        "STRENGTH": 1
+    }
 }

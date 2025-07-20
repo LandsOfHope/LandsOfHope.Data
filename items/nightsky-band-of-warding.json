@@ -4,5 +4,11 @@
     "image": "4964",
     "type": "ring",
     "material": "gem",
-    "skill": "warding"
+    "skill": "warding",
+    "skills": {
+        "warding": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

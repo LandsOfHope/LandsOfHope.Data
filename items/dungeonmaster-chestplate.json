@@ -4,5 +4,11 @@
     "image": "cvc",
     "type": "chest-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

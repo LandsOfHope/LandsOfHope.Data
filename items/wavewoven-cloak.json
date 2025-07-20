@@ -4,5 +4,10 @@
     "image": "zuwacl",
     "type": "cloak",
     "armorType": "leather",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "water-resistance": 1,
+        "armor": 1,
+        "arcane-resistance": 1
+    }
 }

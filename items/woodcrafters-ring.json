@@ -3,5 +3,8 @@
     "id": "woodcrafters-ring",
     "image": "zuwori",
     "type": "ring",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "carpentry": 1
+    }
 }

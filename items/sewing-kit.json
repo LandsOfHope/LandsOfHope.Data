@@ -4,5 +4,8 @@
     "image": "gmseki",
     "type": "1-handed-equipment",
     "material": "metal",
-    "skill": "tailoring"
+    "skill": "tailoring",
+    "skills": {
+        "tailoring": 1
+    }
 }

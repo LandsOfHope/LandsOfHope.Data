@@ -3,5 +3,8 @@
     "id": "baked-pasta",
     "image": "zubapa",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

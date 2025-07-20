@@ -3,5 +3,9 @@
     "id": "ornate-carving",
     "image": "brk",
     "type": "stone-masonry-result",
-    "material": "wood"
+    "material": "wood",
+    "properties": {
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

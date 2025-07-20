@@ -3,5 +3,8 @@
     "id": "ice-cream",
     "image": "6572",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "MANA": 1
+    }
 }

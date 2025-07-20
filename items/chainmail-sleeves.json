@@ -4,5 +4,11 @@
     "image": "4465",
     "type": "arm-armour",
     "armorType": "mail",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

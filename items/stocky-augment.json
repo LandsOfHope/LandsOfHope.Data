@@ -3,5 +3,8 @@
     "id": "stocky-augment",
     "image": "6821",
     "type": "augment",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

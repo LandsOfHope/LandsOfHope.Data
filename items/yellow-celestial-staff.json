@@ -5,5 +5,9 @@
     "type": "2-handed-equipment",
     "dpr": 22,
     "material": "metal",
-    "skill": "celestial-weapons"
+    "skill": "celestial-weapons",
+    "skills": {
+        "stamina-regen": 1,
+        "attack-power": 1
+    }
 }

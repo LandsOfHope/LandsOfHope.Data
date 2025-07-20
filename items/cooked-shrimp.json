@@ -3,5 +3,8 @@
     "id": "cooked-shrimp",
     "image": "1696",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "MANA": 1
+    }
 }

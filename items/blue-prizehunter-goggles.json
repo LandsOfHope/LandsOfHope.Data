@@ -3,5 +3,9 @@
     "id": "blue-prizehunter-goggles",
     "image": "6253",
     "type": "glasses-shades",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

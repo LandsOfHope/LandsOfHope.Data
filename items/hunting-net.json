@@ -5,5 +5,8 @@
     "type": "ranged-weapon",
     "dpr": 9,
     "material": "cloth",
-    "skill": "thrown-weapons"
+    "skill": "thrown-weapons",
+    "skills": {
+        "attack-power": 1
+    }
 }

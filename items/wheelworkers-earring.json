@@ -3,5 +3,8 @@
     "id": "wheelworkers-earring",
     "image": "zuwhea",
     "type": "ear-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "tinkering": 1
+    }
 }

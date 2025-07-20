@@ -3,5 +3,8 @@
     "id": "medal-of-quickness",
     "image": "1856",
     "type": "society-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "SPEED": 1
+    }
 }

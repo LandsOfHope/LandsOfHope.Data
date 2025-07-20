@@ -3,5 +3,9 @@
     "id": "outer-eye-of-ilhazoom",
     "image": "eol",
     "type": "glasses-shades",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

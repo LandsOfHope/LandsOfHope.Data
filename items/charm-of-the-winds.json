@@ -3,5 +3,8 @@
     "id": "charm-of-the-winds",
     "image": "zuchwi",
     "type": "wrist-jewelry",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "air-magic": 1
+    }
 }

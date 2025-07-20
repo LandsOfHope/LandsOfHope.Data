@@ -3,5 +3,8 @@
     "id": "bread-roll",
     "image": "bd3",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

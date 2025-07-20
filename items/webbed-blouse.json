@@ -4,5 +4,9 @@
     "image": "2084",
     "type": "chest-armour",
     "armorType": "cloth",
-    "material": "spider"
+    "material": "spider",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXSTAMINA": 1
+    }
 }

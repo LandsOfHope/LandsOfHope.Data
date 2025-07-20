@@ -3,5 +3,8 @@
     "id": "belt-of-constitution",
     "image": "pbelt1",
     "type": "stomach",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

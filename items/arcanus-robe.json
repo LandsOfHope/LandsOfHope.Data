@@ -4,5 +4,10 @@
     "image": "rb2",
     "type": "neck",
     "armorType": "cloth",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

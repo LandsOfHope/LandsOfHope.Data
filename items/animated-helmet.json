@@ -5,5 +5,11 @@
     "type": "head-armour",
     "armorType": "leather",
     "material": "hide",
-    "skill": "animation"
+    "skill": "animation",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

@@ -3,5 +3,13 @@
     "id": "flying-goggles",
     "image": "gmflgo",
     "type": "glasses-shades",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "air-survival": 1,
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1
+    }
 }

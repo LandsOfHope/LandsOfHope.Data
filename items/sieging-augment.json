@@ -3,5 +3,8 @@
     "id": "sieging-augment",
     "image": "6873",
     "type": "augment",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "siege-weapons": 1
+    }
 }

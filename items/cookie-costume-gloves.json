@@ -5,5 +5,8 @@
     "type": "hand-armour",
     "set": "cookie-costume",
     "material": "cloth",
-    "skill": "artisan"
+    "skill": "artisan",
+    "skills": {
+        "fishing": 1
+    }
 }

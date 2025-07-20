@@ -3,5 +3,8 @@
     "id": "full-soul-potion",
     "image": "pf3",
     "type": "magic-potion",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "STAMINA": 1
+    }
 }

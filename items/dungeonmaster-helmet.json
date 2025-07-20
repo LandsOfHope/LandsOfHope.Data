@@ -4,5 +4,11 @@
     "image": "cvh",
     "type": "head-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

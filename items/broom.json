@@ -5,5 +5,11 @@
     "type": "2-handed-equipment",
     "dpr": 2,
     "material": "wood",
-    "skill": "enchanted-weapons"
+    "skill": "enchanted-weapons",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

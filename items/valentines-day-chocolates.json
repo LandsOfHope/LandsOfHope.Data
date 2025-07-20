@@ -3,5 +3,9 @@
     "id": "valentines-day-chocolates",
     "image": "val4",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "HITPOINTS": 1,
+        "MANA": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "poppers",
     "image": "zupopr",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

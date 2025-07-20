@@ -4,5 +4,8 @@
     "image": "zusmst",
     "type": "food-cooker",
     "material": "metal",
-    "skill": "cooking"
+    "skill": "cooking",
+    "skills": {
+        "cooking": 1
+    }
 }

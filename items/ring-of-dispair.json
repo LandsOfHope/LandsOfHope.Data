@@ -3,5 +3,8 @@
     "id": "ring-of-dispair",
     "image": "ring18",
     "type": "ring",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "attack-power": 1
+    }
 }

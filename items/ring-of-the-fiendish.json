@@ -3,5 +3,11 @@
     "id": "ring-of-the-fiendish",
     "image": "6165",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "fire-survival": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

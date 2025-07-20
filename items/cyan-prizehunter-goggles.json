@@ -3,5 +3,9 @@
     "id": "cyan-prizehunter-goggles",
     "image": "6256",
     "type": "glasses-shades",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "SPEED": 1
+    }
 }

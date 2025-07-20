@@ -4,5 +4,8 @@
     "image": "bx5",
     "type": "bag",
     "material": "wood",
-    "skill": "artisan"
+    "skill": "artisan",
+    "skills": {
+        "cold-survival": 1
+    }
 }

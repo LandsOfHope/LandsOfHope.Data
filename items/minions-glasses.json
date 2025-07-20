@@ -3,5 +3,8 @@
     "id": "minions-glasses",
     "image": "5929",
     "type": "glasses-shades",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "mana-regen": 1
+    }
 }

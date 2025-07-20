@@ -4,5 +4,11 @@
     "image": "4522",
     "type": "head-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

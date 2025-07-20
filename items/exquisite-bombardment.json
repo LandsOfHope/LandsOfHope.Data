@@ -5,5 +5,13 @@
     "type": "siege-weapon",
     "dpr": 140,
     "material": "metal",
-    "skill": "siege-weapons"
+    "skill": "siege-weapons",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

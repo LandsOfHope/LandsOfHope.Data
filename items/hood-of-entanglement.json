@@ -4,5 +4,8 @@
     "image": "1141",
     "type": "neck-clothing",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "spirit-magic": 1
+    }
 }

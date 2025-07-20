@@ -3,5 +3,8 @@
     "id": "charm-of-the-electrics",
     "image": "zuchel",
     "type": "wrist-jewelry",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "energy-magic": 1
+    }
 }

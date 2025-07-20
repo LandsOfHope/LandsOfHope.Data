@@ -3,5 +3,8 @@
     "id": "perpetual-augment",
     "image": "6875",
     "type": "augment",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "stamina-regen": 0.5
+    }
 }

@@ -4,5 +4,9 @@
     "image": "zusplo",
     "type": "neck",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "begging": 1,
+        "disguise": 1
+    }
 }

@@ -4,5 +4,9 @@
     "image": "133",
     "type": "leg-armour",
     "armorType": "mail",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "bludgeon-defense": 1,
+        "armor": 1
+    }
 }

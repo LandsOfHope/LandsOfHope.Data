@@ -4,5 +4,11 @@
     "image": "4963",
     "type": "ring",
     "material": "metal",
-    "skill": "earth-magic"
+    "skill": "earth-magic",
+    "skills": {
+        "earth-magic": 1
+    },
+    "properties": {
+        "MAXMANA": 1
+    }
 }

@@ -4,5 +4,9 @@
     "image": "hm1",
     "type": "head-armour",
     "armorType": "plate",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "h2h-defense": 1,
+        "armor": 1
+    }
 }

@@ -4,5 +4,8 @@
     "image": "2097",
     "type": "head-armour",
     "armorType": "cloth",
-    "material": "snake"
+    "material": "snake",
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

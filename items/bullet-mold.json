@@ -3,5 +3,8 @@
     "id": "bullet-mold",
     "image": "febumo",
     "type": "ammo-materials",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

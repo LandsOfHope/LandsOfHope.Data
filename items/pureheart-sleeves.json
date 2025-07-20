@@ -6,5 +6,12 @@
     "armorType": "plate",
     "legendary": true,
     "set": "pureheart-legend",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXSTAMINA": 1
+    }
 }

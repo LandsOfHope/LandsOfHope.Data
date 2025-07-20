@@ -3,5 +3,8 @@
     "id": "medium-shell",
     "image": "2424",
     "type": "golem-parts",
-    "material": "stone"
+    "material": "stone",
+    "skills": {
+        "armor": 1
+    }
 }

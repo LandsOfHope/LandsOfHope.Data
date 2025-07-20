@@ -4,5 +4,8 @@
     "image": "fg2",
     "type": "smithing-smelting-tool",
     "material": "stone",
-    "skill": "blacksmithing"
+    "skill": "blacksmithing",
+    "skills": {
+        "blacksmithing": 1
+    }
 }

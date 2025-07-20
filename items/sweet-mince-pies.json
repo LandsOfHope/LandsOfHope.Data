@@ -3,5 +3,8 @@
     "id": "sweet-mince-pies",
     "image": "6196",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "MANA": 3
+    }
 }

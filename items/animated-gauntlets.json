@@ -5,5 +5,11 @@
     "type": "hand-armour",
     "armorType": "leather",
     "material": "hide",
-    "skill": "animation"
+    "skill": "animation",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

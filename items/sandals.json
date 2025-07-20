@@ -4,5 +4,8 @@
     "image": "443",
     "type": "foot-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    }
 }

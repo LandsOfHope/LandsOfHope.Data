@@ -5,5 +5,8 @@
     "type": "1-handed-equipment",
     "dpr": 6,
     "material": "gem",
-    "skill": "maces"
+    "skill": "maces",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

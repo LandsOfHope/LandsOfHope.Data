@@ -4,5 +4,12 @@
     "image": "6374",
     "type": "special-slot",
     "material": "hide",
-    "skill": "ancient-guardians"
+    "skill": "ancient-guardians",
+    "skills": {
+        "fire-resistance": 1,
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

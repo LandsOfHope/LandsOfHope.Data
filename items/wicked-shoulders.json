@@ -4,5 +4,8 @@
     "image": "2768",
     "type": "shoulders",
     "armorType": "mail",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    }
 }

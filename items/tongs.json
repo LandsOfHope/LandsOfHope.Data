@@ -5,5 +5,8 @@
     "type": "1-handed-equipment",
     "dpr": 2,
     "material": "metal",
-    "skill": "geology"
+    "skill": "geology",
+    "skills": {
+        "geology": 1
+    }
 }

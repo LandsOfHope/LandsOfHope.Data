@@ -3,5 +3,8 @@
     "id": "meat",
     "image": "mt",
     "type": "rawfood",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

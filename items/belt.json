@@ -4,5 +4,8 @@
     "image": "bet",
     "type": "stomach",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    }
 }

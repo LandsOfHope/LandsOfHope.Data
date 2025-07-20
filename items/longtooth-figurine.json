@@ -4,5 +4,11 @@
     "image": "relic8",
     "type": "special-slot",
     "material": "metal",
-    "skill": "archaeology"
+    "skill": "archaeology",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

@@ -6,5 +6,11 @@
     "armorType": "leather",
     "expansion": "uncharted-waters",
     "material": "cloth",
-    "skill": "seamanship"
+    "skill": "seamanship",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "pie",
     "image": "ap1",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "STAMINA": 2
+    }
 }

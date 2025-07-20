@@ -3,5 +3,8 @@
     "id": "quick-earring",
     "image": "267",
     "type": "ear-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "SPEED": 1
+    }
 }

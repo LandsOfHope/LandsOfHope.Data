@@ -5,5 +5,8 @@
     "type": "1-handed-equipment",
     "dpr": 2,
     "material": "metal",
-    "skill": "floristry"
+    "skill": "floristry",
+    "skills": {
+        "floristry": 1
+    }
 }

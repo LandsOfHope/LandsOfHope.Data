@@ -5,5 +5,8 @@
     "type": "1-handed-equipment",
     "expansion": "dragons-of-the-east",
     "material": "metal",
-    "skill": "parlor-tricks"
+    "skill": "parlor-tricks",
+    "skills": {
+        "parlor-tricks": 1
+    }
 }

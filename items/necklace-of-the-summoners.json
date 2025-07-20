@@ -4,5 +4,12 @@
     "image": "zunesu",
     "type": "neck",
     "material": "gem",
-    "skill": "summoning"
+    "skill": "summoning",
+    "skills": {
+        "summoning": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

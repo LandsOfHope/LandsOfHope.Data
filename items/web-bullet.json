@@ -4,5 +4,8 @@
     "image": "bl",
     "type": "ammo-weapons-bullets",
     "dpr": 5,
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "attack-power": 1
+    }
 }

@@ -5,5 +5,12 @@
     "type": "ranged-weapon",
     "dpr": 7,
     "material": "metal",
-    "skill": "crossbows"
+    "skill": "crossbows",
+    "skills": {
+        "crossbows": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

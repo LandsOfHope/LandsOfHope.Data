@@ -6,5 +6,9 @@
     "dpr": 3,
     "expansion": "dragons-of-the-east",
     "material": "metal",
-    "skill": "thrown-weapons"
+    "skill": "thrown-weapons",
+    "skills": {
+        "stealth": 1,
+        "attack-power": 1
+    }
 }

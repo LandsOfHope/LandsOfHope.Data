@@ -5,5 +5,12 @@
     "type": "leg-armour",
     "armorType": "leather",
     "set": "tenth-cavalry",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1,
+        "SPEED": 1
+    }
 }

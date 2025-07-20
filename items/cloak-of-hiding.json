@@ -4,5 +4,9 @@
     "image": "cl7",
     "type": "cloak",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "stealth": 1,
+        "armor": 1
+    }
 }

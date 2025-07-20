@@ -5,5 +5,9 @@
     "type": "2-handed-equipment",
     "dpr": 72,
     "material": "metal",
-    "skill": "two-handed-shields"
+    "skill": "two-handed-shields",
+    "skills": {
+        "poison-resistance": 1,
+        "armor": 1
+    }
 }

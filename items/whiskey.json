@@ -3,5 +3,8 @@
     "id": "whiskey",
     "image": "zuwhii",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

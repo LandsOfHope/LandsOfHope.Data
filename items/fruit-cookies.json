@@ -3,5 +3,8 @@
     "id": "fruit-cookies",
     "image": "c1k",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 2
+    }
 }

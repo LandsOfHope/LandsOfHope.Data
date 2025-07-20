@@ -6,5 +6,12 @@
     "armorType": "cloth",
     "set": "dark-hollow-clan",
     "material": "gem",
-    "skill": "dark-hollow-clan"
+    "skill": "dark-hollow-clan",
+    "skills": {
+        "frenzy": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "STRENGTH": 1
+    }
 }

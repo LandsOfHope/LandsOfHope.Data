@@ -4,5 +4,11 @@
     "image": "2099",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "snake"
+    "material": "snake",
+    "skills": {
+        "poison-resistance": 1
+    },
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

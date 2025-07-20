@@ -3,5 +3,8 @@
     "id": "elven-bread",
     "image": "zuelbr",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "HITPOINTS": 2
+    }
 }

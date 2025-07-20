@@ -4,5 +4,8 @@
     "image": "sds",
     "type": "foot-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

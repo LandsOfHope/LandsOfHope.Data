@@ -3,5 +3,8 @@
     "id": "lesser-soul-gem",
     "image": "sg1",
     "type": "soul-gems",
-    "material": "creatures"
+    "material": "creatures",
+    "skills": {
+        "mana-regen": 3
+    }
 }

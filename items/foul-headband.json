@@ -4,5 +4,9 @@
     "image": "1807",
     "type": "forehead",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "poison-resistance": 1,
+        "armor": 1
+    }
 }

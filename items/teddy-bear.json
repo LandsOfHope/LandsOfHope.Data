@@ -3,5 +3,9 @@
     "id": "teddy-bear",
     "image": "888",
     "type": "1-handed-equipment",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "frenzy": 1,
+        "shields": 1
+    }
 }

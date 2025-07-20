@@ -4,5 +4,8 @@
     "image": "6171",
     "type": "food",
     "expansion": "the-afterlife",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "charm-of-the-flame",
     "image": "zuchfl",
     "type": "wrist-jewelry",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "fire-magic": 1
+    }
 }

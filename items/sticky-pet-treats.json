@@ -3,5 +3,12 @@
     "id": "sticky-pet-treats",
     "image": "5736",
     "type": "pet-bought-bonus",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "mana-regen": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1
+    }
 }

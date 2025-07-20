@@ -4,5 +4,8 @@
     "image": "1014",
     "type": "bonus-slot",
     "material": "metal",
-    "skill": "myzan-navy"
+    "skill": "myzan-navy",
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

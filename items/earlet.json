@@ -3,5 +3,8 @@
     "id": "earlet",
     "image": "elt",
     "type": "ear-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "appraisal": 1
+    }
 }

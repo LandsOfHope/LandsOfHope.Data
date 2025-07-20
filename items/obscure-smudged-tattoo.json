@@ -4,5 +4,10 @@
     "image": "tattoo4",
     "type": "forehead",
     "material": "gem",
-    "skill": "hellscar-legion"
+    "skill": "hellscar-legion",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "spike-choker",
     "image": "zuspch",
     "type": "neck",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "SPEED": 1
+    }
 }

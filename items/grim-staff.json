@@ -5,5 +5,10 @@
     "type": "2-handed-equipment",
     "dpr": 7,
     "material": "gem",
-    "skill": "two-handed-staves"
+    "skill": "two-handed-staves",
+    "skills": {
+        "mystical-resistance": 1,
+        "two-handed-staves": 1,
+        "attack-power": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "chest",
     "image": "ct3",
     "type": "spawner",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "bladed-defense": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "mask-of-energy",
     "image": "zumaen",
     "type": "reaper-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "MAXMANA": 1
+    }
 }

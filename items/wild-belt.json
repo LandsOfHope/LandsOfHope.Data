@@ -4,5 +4,9 @@
     "image": "6029",
     "type": "stomach",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "DEXTERITY": 1,
+        "SPEED": 1
+    }
 }

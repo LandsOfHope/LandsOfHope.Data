@@ -3,5 +3,12 @@
     "id": "tingly-glowy-aura",
     "image": "7011",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "armor": 1,
+        "alien-hunting": 4
+    },
+    "properties": {
+        "MAXHITPOINTS": 2.2
+    }
 }

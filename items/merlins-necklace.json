@@ -4,5 +4,11 @@
     "image": "6919",
     "type": "neck",
     "set": "arthurian-set",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "DEXTERITY": 0.7,
+        "INTELLIGENCE": 1.2,
+        "MAXHITPOINTS": 1.2,
+        "SPEED": 0.7
+    }
 }

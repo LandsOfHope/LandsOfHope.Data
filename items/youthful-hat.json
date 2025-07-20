@@ -4,5 +4,11 @@
     "image": "4530",
     "type": "head-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

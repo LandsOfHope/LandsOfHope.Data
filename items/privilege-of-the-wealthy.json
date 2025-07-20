@@ -3,5 +3,12 @@
     "id": "privilege-of-the-wealthy",
     "image": "5887",
     "type": "exile-symbol",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "experience-bonus": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

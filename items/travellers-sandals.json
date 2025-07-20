@@ -4,5 +4,11 @@
     "image": "sds",
     "type": "foot-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

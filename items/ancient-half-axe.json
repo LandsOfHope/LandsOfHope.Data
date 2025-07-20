@@ -5,5 +5,10 @@
     "type": "1-handed-equipment",
     "dpr": 8,
     "material": "metal",
-    "skill": "axes"
+    "skill": "axes",
+    "skills": {
+        "poison-magic": 1,
+        "attack-power": 1,
+        "arcane-resistance": 1
+    }
 }

@@ -4,5 +4,8 @@
     "image": "pdt",
     "type": "neck",
     "material": "gem",
-    "skill": "stealing"
+    "skill": "stealing",
+    "skills": {
+        "stealing": 1
+    }
 }

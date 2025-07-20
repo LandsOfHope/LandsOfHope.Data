@@ -4,5 +4,8 @@
     "image": "tgloves2",
     "type": "hand-armour",
     "set": "halloween-costume",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "attack-power": 1
+    }
 }

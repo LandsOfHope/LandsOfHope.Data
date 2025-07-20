@@ -3,5 +3,11 @@
     "id": "necronomicon",
     "image": "xne",
     "type": "special-slot",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "necromancy": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "cookies",
     "image": "c2k",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "MANA": 1
+    }
 }

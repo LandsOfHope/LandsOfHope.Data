@@ -3,5 +3,8 @@
     "id": "mask-of-health",
     "image": "zumahe",
     "type": "reaper-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

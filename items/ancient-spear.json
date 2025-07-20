@@ -5,5 +5,10 @@
     "type": "2-handed-equipment",
     "dpr": 4,
     "material": "metal",
-    "skill": "thrown-weapons"
+    "skill": "thrown-weapons",
+    "skills": {
+        "poison-resistance": 1,
+        "poison-magic": 1,
+        "attack-power": 1
+    }
 }

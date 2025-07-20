@@ -4,5 +4,10 @@
     "image": "5029",
     "type": "stomach",
     "armorType": "cloth",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "cold-magic": 1,
+        "cold-resistance": 1,
+        "armor": 1
+    }
 }

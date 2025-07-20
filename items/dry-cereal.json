@@ -3,5 +3,8 @@
     "id": "dry-cereal",
     "image": "ers",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "MANA": 1
+    }
 }

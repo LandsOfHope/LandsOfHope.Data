@@ -4,5 +4,11 @@
     "image": "anl",
     "type": "neck",
     "armorType": "cloth",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "poison-resistance": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

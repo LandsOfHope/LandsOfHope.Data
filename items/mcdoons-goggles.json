@@ -3,5 +3,11 @@
     "id": "mcdoons-goggles",
     "image": "6077",
     "type": "glasses-shades",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "exploration": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

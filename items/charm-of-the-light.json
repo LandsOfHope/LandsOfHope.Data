@@ -3,5 +3,8 @@
     "id": "charm-of-the-light",
     "image": "zuchli",
     "type": "wrist-jewelry",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "celestial-magic": 1
+    }
 }

@@ -3,5 +3,12 @@
     "id": "firerock-pendant",
     "image": "amp",
     "type": "neck",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "fire-resistance": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

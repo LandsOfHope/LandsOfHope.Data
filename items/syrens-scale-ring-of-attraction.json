@@ -3,5 +3,9 @@
     "id": "syrens-scale-ring-of-attraction",
     "image": "4985",
     "type": "ring",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "disguise": 1,
+        "slavemastery": 1
+    }
 }

@@ -5,5 +5,11 @@
     "type": "2-handed-equipment",
     "dpr": 6,
     "material": "wood",
-    "skill": "two-handed-shields"
+    "skill": "two-handed-shields",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

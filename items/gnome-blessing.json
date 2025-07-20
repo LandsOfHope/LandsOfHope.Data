@@ -4,5 +4,9 @@
     "image": "6273",
     "type": "forehead",
     "armorType": "cloth",
-    "material": "stone"
+    "material": "stone",
+    "skills": {
+        "acid-resistance": 1,
+        "detect-hidden": 1
+    }
 }

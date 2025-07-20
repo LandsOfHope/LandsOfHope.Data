@@ -4,5 +4,8 @@
     "image": "2086",
     "type": "head-armour",
     "armorType": "cloth",
-    "material": "spider"
+    "material": "spider",
+    "properties": {
+        "MAXMANA": 1
+    }
 }

@@ -3,5 +3,10 @@
     "id": "mask-of-appreciation",
     "image": "mask1",
     "type": "reaper-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXSTAMINA": 1,
+        "SPEED": 1
+    }
 }

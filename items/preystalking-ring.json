@@ -3,5 +3,8 @@
     "id": "preystalking-ring",
     "image": "6791",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "track-beasts": 20
+    }
 }

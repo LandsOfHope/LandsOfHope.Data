@@ -3,5 +3,12 @@
     "id": "greenmead-banner",
     "image": "5939",
     "type": "exile-symbol",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1
+    }
 }

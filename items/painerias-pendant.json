@@ -3,5 +3,12 @@
     "id": "painerias-pendant",
     "image": "5042",
     "type": "neck",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "slavemastery": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXSTAMINA": 1
+    }
 }

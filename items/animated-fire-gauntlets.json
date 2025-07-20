@@ -5,5 +5,12 @@
     "type": "hand-armour",
     "armorType": "leather",
     "material": "hide",
-    "skill": "animation"
+    "skill": "animation",
+    "skills": {
+        "frenzy": 1,
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

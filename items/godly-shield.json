@@ -5,5 +5,9 @@
     "type": "1-handed-equipment",
     "dpr": 94,
     "material": "wood",
-    "skill": "shields"
+    "skill": "shields",
+    "skills": {
+        "mystical-resistance": 1,
+        "armor": 1
+    }
 }

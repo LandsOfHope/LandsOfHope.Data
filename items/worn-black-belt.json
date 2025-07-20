@@ -4,5 +4,8 @@
     "image": "bet",
     "type": "stomach",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

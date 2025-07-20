@@ -6,5 +6,12 @@
     "dpr": 120,
     "legendary": true,
     "material": "wood",
-    "skill": "thrown-magic"
+    "skill": "thrown-magic",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

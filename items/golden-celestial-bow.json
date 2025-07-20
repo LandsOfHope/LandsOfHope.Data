@@ -5,5 +5,12 @@
     "type": "ranged-weapon",
     "dpr": 92,
     "material": "metal",
-    "skill": "celestial-weapons"
+    "skill": "celestial-weapons",
+    "skills": {
+        "attack-power": 1,
+        "celestial-defense": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

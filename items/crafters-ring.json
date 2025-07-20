@@ -3,5 +3,10 @@
     "id": "crafters-ring",
     "image": "6907",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "dungeon-mastery": 1,
+        "construction": 1,
+        "furnishing": 1
+    }
 }

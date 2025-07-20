@@ -3,5 +3,9 @@
     "id": "iceclan-claw",
     "image": "4987",
     "type": "ear-jewelry",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "frenzy": 1,
+        "attack-power": 1
+    }
 }

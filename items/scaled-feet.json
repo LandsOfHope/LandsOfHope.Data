@@ -3,5 +3,10 @@
     "id": "scaled-feet",
     "image": "190",
     "type": "foot-armour",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "bladed-defense": 1,
+        "bludgeon-defense": 1,
+        "armor": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "cheese-wheel",
     "image": "ch3",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 2
+    }
 }

@@ -3,5 +3,8 @@
     "id": "minions-belt",
     "image": "5927",
     "type": "stomach",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "stamina-regen": 1
+    }
 }

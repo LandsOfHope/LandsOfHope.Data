@@ -5,5 +5,9 @@
     "type": "1-handed-equipment",
     "dpr": 5,
     "material": "gem",
-    "skill": "daggers"
+    "skill": "daggers",
+    "skills": {
+        "daggers": 1,
+        "attack-power": 1
+    }
 }

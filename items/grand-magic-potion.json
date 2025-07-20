@@ -3,5 +3,8 @@
     "id": "grand-magic-potion",
     "image": "pb1",
     "type": "magic-potion",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MANA": 4
+    }
 }

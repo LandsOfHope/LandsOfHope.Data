@@ -4,5 +4,9 @@
     "image": "cv1",
     "type": "chest-armour",
     "armorType": "mail",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "bludgeon-defense": 1,
+        "armor": 1
+    }
 }

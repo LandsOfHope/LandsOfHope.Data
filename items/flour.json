@@ -3,5 +3,8 @@
     "id": "flour",
     "image": "fr1",
     "type": "rawfood",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

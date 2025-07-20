@@ -3,5 +3,11 @@
     "id": "ring-of-the-forest-primeval",
     "image": "ring10",
     "type": "ring",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "druid-magic": 1,
+        "botany": 1,
+        "warding": 1,
+        "nature-magic": 1
+    }
 }

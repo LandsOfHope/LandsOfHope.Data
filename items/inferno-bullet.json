@@ -4,5 +4,8 @@
     "image": "zuinbu",
     "type": "ammo-weapons-bullets",
     "dpr": 93,
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "attack-power": 1
+    }
 }

@@ -3,5 +3,9 @@
     "id": "feathered-earring",
     "image": "ql1",
     "type": "ear-jewelry",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXSTAMINA": 1
+    }
 }

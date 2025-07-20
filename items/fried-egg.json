@@ -3,5 +3,8 @@
     "id": "fried-egg",
     "image": "fre",
     "type": "food",
-    "material": "bird"
+    "material": "bird",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

@@ -4,5 +4,11 @@
     "image": "relic7",
     "type": "special-slot",
     "material": "metal",
-    "skill": "archaeology"
+    "skill": "archaeology",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

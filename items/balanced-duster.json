@@ -5,5 +5,11 @@
     "type": "1-handed-equipment",
     "dpr": 4,
     "material": "stone",
-    "skill": "fists"
+    "skill": "fists",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

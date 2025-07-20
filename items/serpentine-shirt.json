@@ -4,5 +4,9 @@
     "image": "2094",
     "type": "chest-armour",
     "armorType": "cloth",
-    "material": "snake"
+    "material": "snake",
+    "skills": {
+        "stealth": 1,
+        "poison-magic": 1
+    }
 }

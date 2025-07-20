@@ -3,5 +3,9 @@
     "id": "belt-of-the-smart",
     "image": "pbelt10",
     "type": "stomach",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

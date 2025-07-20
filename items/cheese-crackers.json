@@ -3,5 +3,8 @@
     "id": "cheese-crackers",
     "image": "chs",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 2
+    }
 }

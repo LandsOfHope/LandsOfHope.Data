@@ -3,5 +3,13 @@
     "id": "alien-crystal-ring",
     "image": "7000",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "alien-hunting": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "STRENGTH": 1
+    }
 }

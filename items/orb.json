@@ -4,5 +4,8 @@
     "image": "ob",
     "type": "1-handed-equipment",
     "dpr": 2,
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXMANA": 1
+    }
 }

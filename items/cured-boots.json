@@ -4,5 +4,11 @@
     "image": "494",
     "type": "foot-armour",
     "armorType": "leather",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

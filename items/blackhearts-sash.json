@@ -3,5 +3,11 @@
     "id": "blackhearts-sash",
     "image": "lban2",
     "type": "stomach",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "detect-hidden": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

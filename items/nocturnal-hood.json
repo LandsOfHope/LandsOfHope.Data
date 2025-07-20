@@ -4,5 +4,12 @@
     "image": "6749",
     "type": "head-armour",
     "armorType": "leather",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "stealth": 1,
+        "armor": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

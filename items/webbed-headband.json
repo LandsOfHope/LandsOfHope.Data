@@ -4,5 +4,8 @@
     "image": "2082",
     "type": "forehead",
     "armorType": "cloth",
-    "material": "spider"
+    "material": "spider",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

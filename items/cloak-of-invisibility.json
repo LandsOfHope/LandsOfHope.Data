@@ -4,5 +4,12 @@
     "image": "cl3",
     "type": "neck-clothing",
     "expansion": "jurassic-wars",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "stealth": 1,
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

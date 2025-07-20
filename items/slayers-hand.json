@@ -5,5 +5,13 @@
     "type": "1-handed-equipment",
     "dpr": 7,
     "material": "metal",
-    "skill": "fists"
+    "skill": "fists",
+    "skills": {
+        "energy-resistance": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXMANA": 1,
+        "STRENGTH": 1
+    }
 }

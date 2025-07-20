@@ -5,5 +5,12 @@
     "type": "2-handed-equipment",
     "dpr": 8,
     "material": "metal",
-    "skill": "two-handed-swords"
+    "skill": "two-handed-swords",
+    "skills": {
+        "two-handed-swords": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

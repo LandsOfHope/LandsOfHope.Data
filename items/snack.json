@@ -3,5 +3,8 @@
     "id": "snack",
     "image": "cay",
     "type": "food",
-    "material": "vegetable"
+    "material": "vegetable",
+    "properties": {
+        "MANA": 1
+    }
 }

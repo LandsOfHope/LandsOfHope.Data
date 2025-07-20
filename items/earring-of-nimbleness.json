@@ -4,5 +4,12 @@
     "image": "863",
     "type": "ear-jewelry",
     "armorType": "cloth",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "lockpicking": 1
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "SPEED": 1
+    }
 }

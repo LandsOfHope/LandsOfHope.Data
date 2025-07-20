@@ -4,5 +4,13 @@
     "image": "cl6",
     "type": "neck-clothing",
     "expansion": "jurassic-wars",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "track-beasts": 1,
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXSTAMINA": 1
+    }
 }

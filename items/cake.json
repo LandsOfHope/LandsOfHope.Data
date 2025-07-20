@@ -3,5 +3,8 @@
     "id": "cake",
     "image": "ce3",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 2
+    }
 }

@@ -5,5 +5,8 @@
     "type": "ammo-weapons-darts",
     "dpr": 2,
     "material": "wood",
-    "skill": "propelled"
+    "skill": "propelled",
+    "skills": {
+        "attack-power": 1
+    }
 }

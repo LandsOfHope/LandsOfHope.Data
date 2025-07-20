@@ -5,5 +5,11 @@
     "type": "ranged-weapon",
     "dpr": 6,
     "material": "wood",
-    "skill": "thrown-weapons"
+    "skill": "thrown-weapons",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

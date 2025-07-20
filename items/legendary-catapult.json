@@ -6,5 +6,12 @@
     "dpr": 120,
     "legendary": true,
     "material": "wood",
-    "skill": "siege-weapons"
+    "skill": "siege-weapons",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1
+    }
 }

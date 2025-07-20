@@ -4,5 +4,8 @@
     "image": "1111",
     "type": "hand-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "tinkering": 1
+    }
 }

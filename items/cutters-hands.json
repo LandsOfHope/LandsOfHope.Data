@@ -5,5 +5,11 @@
     "type": "2-handed-equipment",
     "dpr": 4,
     "material": "metal",
-    "skill": "fists"
+    "skill": "fists",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

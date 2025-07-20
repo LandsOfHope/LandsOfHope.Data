@@ -3,5 +3,8 @@
     "id": "pendant-of-battlefervor",
     "image": "pdt",
     "type": "neck",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "frenzy": 1
+    }
 }

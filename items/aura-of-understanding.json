@@ -3,5 +3,11 @@
     "id": "aura-of-understanding",
     "image": "6181",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "experience-bonus": 2
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

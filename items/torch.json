@@ -3,5 +3,8 @@
     "id": "torch",
     "image": "th1",
     "type": "lights-torches",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "attack-power": 1
+    }
 }

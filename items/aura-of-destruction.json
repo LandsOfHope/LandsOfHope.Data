@@ -3,5 +3,11 @@
     "id": "aura-of-destruction",
     "image": "6901",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "health-regen": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1.5
+    }
 }

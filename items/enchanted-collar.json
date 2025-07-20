@@ -3,5 +3,8 @@
     "id": "enchanted-collar",
     "image": "gmenco",
     "type": "pet-bonus-item",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    }
 }

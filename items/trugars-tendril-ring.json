@@ -3,5 +3,11 @@
     "id": "trugars-tendril-ring",
     "image": "rg1",
     "type": "ring",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "earth-resistance": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

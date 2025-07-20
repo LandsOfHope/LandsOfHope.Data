@@ -6,5 +6,12 @@
     "dpr": 120,
     "legendary": true,
     "material": "gem",
-    "skill": "thrown-weapons"
+    "skill": "thrown-weapons",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "SPEED": 1,
+        "STRENGTH": 1
+    }
 }

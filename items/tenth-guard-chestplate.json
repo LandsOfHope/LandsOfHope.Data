@@ -5,5 +5,12 @@
     "type": "chest-armour",
     "armorType": "plate",
     "set": "tenth-guard",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "bladed-defense": 1,
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

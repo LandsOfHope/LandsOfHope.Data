@@ -3,5 +3,8 @@
     "id": "bracelet-of-the-canticle",
     "image": "bac",
     "type": "wrist-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXMANA": 1
+    }
 }

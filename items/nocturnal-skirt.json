@@ -4,5 +4,12 @@
     "image": "6752",
     "type": "leg-armour",
     "armorType": "leather",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "STRENGTH": 1
+    }
 }

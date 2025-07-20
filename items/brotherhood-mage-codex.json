@@ -4,5 +4,12 @@
     "image": "6375",
     "type": "special-slot",
     "material": "hide",
-    "skill": "brothers-of-sakure"
+    "skill": "brothers-of-sakure",
+    "skills": {
+        "earth-resistance": 1,
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

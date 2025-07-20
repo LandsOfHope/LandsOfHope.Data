@@ -3,5 +3,8 @@
     "id": "hellish-sack",
     "image": "gmhesa",
     "type": "bag",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "fire-survival": 1
+    }
 }

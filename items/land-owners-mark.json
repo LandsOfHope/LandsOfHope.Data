@@ -3,5 +3,9 @@
     "id": "land-owners-mark",
     "image": "3199",
     "type": "bonus-slot",
-    "material": "cloth"
+    "material": "cloth",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1
+    }
 }

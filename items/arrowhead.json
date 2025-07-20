@@ -3,5 +3,8 @@
     "id": "arrowhead",
     "image": "ar1",
     "type": "ammo-materials",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

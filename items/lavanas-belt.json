@@ -4,5 +4,12 @@
     "image": "gmlabe",
     "type": "stomach",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "fire-survival": 1,
+        "fire-resistance": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

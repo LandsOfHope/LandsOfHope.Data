@@ -4,5 +4,8 @@
     "image": "zuruma",
     "type": "head-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

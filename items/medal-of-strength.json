@@ -3,5 +3,8 @@
     "id": "medal-of-strength",
     "image": "2217",
     "type": "society-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "STRENGTH": 1
+    }
 }

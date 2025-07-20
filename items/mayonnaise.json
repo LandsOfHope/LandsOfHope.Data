@@ -3,5 +3,8 @@
     "id": "mayonnaise",
     "image": "zumaae",
     "type": "food",
-    "material": "vegetable"
+    "material": "vegetable",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

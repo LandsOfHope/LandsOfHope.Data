@@ -3,5 +3,8 @@
     "id": "baked-rice",
     "image": "bdr",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "cereal",
     "image": "ers",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 1
+    }
 }

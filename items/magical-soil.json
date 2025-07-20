@@ -3,5 +3,8 @@
     "id": "magical-soil",
     "image": "soil",
     "type": "quest-item",
-    "material": "stone"
+    "material": "stone",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

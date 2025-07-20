@@ -4,5 +4,8 @@
     "image": "zugrnd",
     "type": "1-handed-equipment",
     "material": "metal",
-    "skill": "cooking"
+    "skill": "cooking",
+    "skills": {
+        "cooking": 1
+    }
 }

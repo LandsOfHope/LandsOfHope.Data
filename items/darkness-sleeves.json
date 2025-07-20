@@ -4,5 +4,8 @@
     "image": "2978",
     "type": "arm-armour",
     "armorType": "leather",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    }
 }

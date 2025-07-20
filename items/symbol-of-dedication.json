@@ -3,5 +3,8 @@
     "id": "symbol-of-dedication",
     "image": "1860",
     "type": "exile-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

@@ -3,5 +3,13 @@
     "id": "necklace-of-torment",
     "image": "zunot",
     "type": "neck",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "frenzy": 1,
+        "mana-draining": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

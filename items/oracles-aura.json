@@ -3,5 +3,11 @@
     "id": "oracles-aura",
     "image": "6179",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "mana-regen": 0.5
+    },
+    "properties": {
+        "INTELLIGENCE": 2
+    }
 }

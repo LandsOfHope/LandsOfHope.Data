@@ -4,5 +4,9 @@
     "image": "relic4",
     "type": "special-slot",
     "material": "metal",
-    "skill": "archaeology"
+    "skill": "archaeology",
+    "properties": {
+        "DEXTERITY": 1,
+        "STRENGTH": 1
+    }
 }

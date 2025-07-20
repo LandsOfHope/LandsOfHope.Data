@@ -3,5 +3,9 @@
     "id": "lime-prizehunter-goggles",
     "image": "6257",
     "type": "glasses-shades",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 1
+    }
 }

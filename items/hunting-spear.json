@@ -5,5 +5,11 @@
     "type": "2-handed-equipment",
     "dpr": 3,
     "material": "wood",
-    "skill": "thrown-weapons"
+    "skill": "thrown-weapons",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

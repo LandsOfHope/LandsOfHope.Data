@@ -4,5 +4,10 @@
     "image": "c3p",
     "type": "neck-clothing",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "fishing": 1,
+        "cooking": 1,
+        "farming": 1
+    }
 }

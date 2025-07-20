@@ -6,5 +6,12 @@
     "dpr": 120,
     "legendary": true,
     "material": "metal",
-    "skill": "axes"
+    "skill": "axes",
+    "skills": {
+        "frenzy": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

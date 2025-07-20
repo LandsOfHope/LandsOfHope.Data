@@ -5,5 +5,12 @@
     "type": "1-handed-equipment",
     "dpr": 92,
     "material": "metal",
-    "skill": "celestial-weapons"
+    "skill": "celestial-weapons",
+    "skills": {
+        "cold-resistance": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

@@ -3,5 +3,9 @@
     "id": "xpressive-earring",
     "image": "6800",
     "type": "ear-jewelry",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "MAXHITPOINTS": 1.5,
+        "STRENGTH": 1.5
+    }
 }

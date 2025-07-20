@@ -4,5 +4,9 @@
     "image": "6876",
     "type": "stomach",
     "material": "metal",
-    "skill": "bolts-over-brains"
+    "skill": "bolts-over-brains",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "STRENGTH": 1
+    }
 }

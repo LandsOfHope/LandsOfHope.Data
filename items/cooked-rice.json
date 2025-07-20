@@ -3,5 +3,8 @@
     "id": "cooked-rice",
     "image": "c1r",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

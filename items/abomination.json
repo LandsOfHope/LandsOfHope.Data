@@ -3,5 +3,13 @@
     "id": "abomination",
     "image": "gmabbn",
     "type": "wings",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "air-survival": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "SPEED": 1,
+        "STRENGTH": 1
+    }
 }

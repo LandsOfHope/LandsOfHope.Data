@@ -4,5 +4,8 @@
     "image": "dbh",
     "type": "1-handed-equipment",
     "material": "metal",
-    "skill": "blacksmithing"
+    "skill": "blacksmithing",
+    "skills": {
+        "blacksmithing": 1
+    }
 }

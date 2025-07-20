@@ -4,5 +4,9 @@
     "image": "ptro11",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "cold-resistance": 1,
+        "armor": 1
+    }
 }

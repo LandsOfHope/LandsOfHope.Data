@@ -3,5 +3,8 @@
     "id": "eye",
     "image": "4463",
     "type": "glasses-shades",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "exploration": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "dark-yellow-potion",
     "image": "pdy",
     "type": "magic-potion-other",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "STAMINA": 1
+    }
 }

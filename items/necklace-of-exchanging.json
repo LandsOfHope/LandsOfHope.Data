@@ -4,5 +4,8 @@
     "image": "zuneex",
     "type": "neck",
     "armorType": "cloth",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "appraisal": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "butter",
     "image": "br1",
     "type": "rawfood",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

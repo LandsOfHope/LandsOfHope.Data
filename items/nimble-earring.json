@@ -3,5 +3,8 @@
     "id": "nimble-earring",
     "image": "266",
     "type": "ear-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

@@ -4,5 +4,11 @@
     "image": "607",
     "type": "forehead",
     "armorType": "cloth",
-    "material": "bird"
+    "material": "bird",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

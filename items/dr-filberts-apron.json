@@ -5,5 +5,12 @@
     "type": "stomach",
     "armorType": "cloth",
     "expansion": "the-afterlife",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "skinning": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

@@ -4,5 +4,9 @@
     "image": "what8",
     "type": "head-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "cold-resistance": 1,
+        "armor": 1
+    }
 }

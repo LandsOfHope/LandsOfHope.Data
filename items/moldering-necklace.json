@@ -4,5 +4,9 @@
     "image": "zumon",
     "type": "neck",
     "armorType": "cloth",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "drain-resistance": 1,
+        "poison-resistance": 1
+    }
 }

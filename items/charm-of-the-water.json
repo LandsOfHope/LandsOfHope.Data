@@ -3,5 +3,8 @@
     "id": "charm-of-the-water",
     "image": "zuchwa",
     "type": "wrist-jewelry",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "water-magic": 1
+    }
 }

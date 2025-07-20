@@ -5,5 +5,8 @@
     "type": "2-handed-equipment",
     "dpr": 2,
     "material": "metal",
-    "skill": "foraging"
+    "skill": "foraging",
+    "skills": {
+        "foraging": 1
+    }
 }

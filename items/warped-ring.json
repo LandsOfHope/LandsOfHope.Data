@@ -4,5 +4,9 @@
     "image": "gmwari",
     "type": "ring",
     "material": "gem",
-    "skill": "hellscar-legion"
+    "skill": "hellscar-legion",
+    "properties": {
+        "DEXTERITY": 1,
+        "SPEED": 1
+    }
 }

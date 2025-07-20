@@ -4,5 +4,9 @@
     "image": "car",
     "type": "neck",
     "armorType": "leather",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "exploration": 1,
+        "armor": 1
+    }
 }

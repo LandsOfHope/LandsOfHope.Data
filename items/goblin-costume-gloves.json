@@ -5,5 +5,8 @@
     "type": "hand-armour",
     "set": "goblin-costume",
     "material": "cloth",
-    "skill": "artisan"
+    "skill": "artisan",
+    "skills": {
+        "mining": 1
+    }
 }

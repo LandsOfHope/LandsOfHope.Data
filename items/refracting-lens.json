@@ -3,5 +3,8 @@
     "id": "refracting-lens",
     "image": "1202",
     "type": "glasses-shades",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

@@ -4,5 +4,8 @@
     "image": "850",
     "type": "glasses-shades",
     "armorType": "cloth",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "exploration": 1
+    }
 }

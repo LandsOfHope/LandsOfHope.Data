@@ -5,5 +5,13 @@
     "type": "1-handed-equipment",
     "dpr": 4,
     "material": "metal",
-    "skill": "swords"
+    "skill": "swords",
+    "skills": {
+        "fire-resistance": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "STRENGTH": 1
+    }
 }

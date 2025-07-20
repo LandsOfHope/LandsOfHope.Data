@@ -4,5 +4,9 @@
     "image": "6049",
     "type": "special-slot",
     "material": "gem",
-    "skill": "celestial-magic"
+    "skill": "celestial-magic",
+    "skills": {
+        "celestial-magic": 1,
+        "celestial-weapons": 1
+    }
 }

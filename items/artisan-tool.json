@@ -4,5 +4,9 @@
     "image": "hr2",
     "type": "1-handed-equipment",
     "material": "wood",
-    "skill": "artisan"
+    "skill": "artisan",
+    "skills": {
+        "artisan": 1,
+        "experience-bonus": 1
+    }
 }

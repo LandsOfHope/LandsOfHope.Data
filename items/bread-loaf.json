@@ -3,5 +3,8 @@
     "id": "bread-loaf",
     "image": "bd1",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

@@ -4,5 +4,9 @@
     "image": "269",
     "type": "head-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "fire-resistance": 1,
+        "armor": 1
+    }
 }

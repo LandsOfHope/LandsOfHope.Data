@@ -3,5 +3,8 @@
     "id": "grabthars-hammer",
     "image": "sle",
     "type": "special-slot",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

@@ -5,5 +5,9 @@
     "type": "1-handed-equipment",
     "dpr": 8,
     "material": "hide",
-    "skill": "fists"
+    "skill": "fists",
+    "skills": {
+        "water-resistance": 1,
+        "attack-power": 1
+    }
 }

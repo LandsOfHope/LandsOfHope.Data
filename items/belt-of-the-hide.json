@@ -3,5 +3,8 @@
     "id": "belt-of-the-hide",
     "image": "pbelt3",
     "type": "stomach",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    }
 }

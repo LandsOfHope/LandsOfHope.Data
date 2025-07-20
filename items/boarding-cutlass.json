@@ -6,5 +6,11 @@
     "dpr": 2,
     "expansion": "uncharted-waters",
     "material": "metal",
-    "skill": "swords"
+    "skill": "swords",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

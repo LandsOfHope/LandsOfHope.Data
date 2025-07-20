@@ -3,5 +3,8 @@
     "id": "drink",
     "image": "zudrir",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 1
+    }
 }

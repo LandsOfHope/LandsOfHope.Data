@@ -3,5 +3,8 @@
     "id": "juice",
     "image": "jui",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 1
+    }
 }

@@ -5,5 +5,8 @@
     "type": "2-handed-equipment",
     "dpr": 3,
     "material": "crop",
-    "skill": "two-handed-maces"
+    "skill": "two-handed-maces",
+    "skills": {
+        "attack-power": 1
+    }
 }

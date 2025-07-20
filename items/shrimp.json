@@ -3,5 +3,8 @@
     "id": "shrimp",
     "image": "cn3",
     "type": "marine-resource",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "MANA": 1
+    }
 }

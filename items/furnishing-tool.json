@@ -4,5 +4,8 @@
     "image": "clb",
     "type": "1-handed-equipment",
     "material": "metal",
-    "skill": "furnishing"
+    "skill": "furnishing",
+    "skills": {
+        "furnishing": 1
+    }
 }

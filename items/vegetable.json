@@ -3,5 +3,8 @@
     "id": "vegetable",
     "image": "vg1",
     "type": "rawfood",
-    "material": "vegetable"
+    "material": "vegetable",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

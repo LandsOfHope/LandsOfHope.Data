@@ -3,5 +3,11 @@
     "id": "bloodrage-standard",
     "image": "zsgc6",
     "type": "guild-color",
-    "material": "cloth"
+    "material": "cloth",
+    "properties": {
+        "HITPOINTS": 1,
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1,
+        "STAMINA": 1
+    }
 }

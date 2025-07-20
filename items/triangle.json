@@ -5,5 +5,8 @@
     "type": "ranged-weapon",
     "dpr": 4,
     "material": "metal",
-    "skill": "instruments"
+    "skill": "instruments",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

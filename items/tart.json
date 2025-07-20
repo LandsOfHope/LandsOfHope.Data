@@ -3,5 +3,8 @@
     "id": "tart",
     "image": "zutatr",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 2
+    }
 }

@@ -4,5 +4,8 @@
     "image": "zupobo",
     "type": "ammo-weapons-crossbows",
     "dpr": 8,
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "attack-power": 1
+    }
 }

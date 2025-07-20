@@ -4,5 +4,8 @@
     "image": "zugeha",
     "type": "1-handed-equipment",
     "material": "metal",
-    "skill": "geology"
+    "skill": "geology",
+    "skills": {
+        "geology": 1
+    }
 }

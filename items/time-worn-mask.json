@@ -3,5 +3,8 @@
     "id": "time-worn-mask",
     "image": "zutima",
     "type": "face-armour",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

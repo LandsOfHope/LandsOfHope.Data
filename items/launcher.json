@@ -5,5 +5,11 @@
     "type": "ranged-weapon",
     "dpr": 70,
     "material": "metal",
-    "skill": "heavy-munitions"
+    "skill": "heavy-munitions",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

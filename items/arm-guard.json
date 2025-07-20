@@ -4,5 +4,8 @@
     "image": "amg",
     "type": "arm-armour",
     "armorType": "plate",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "armor": 1
+    }
 }

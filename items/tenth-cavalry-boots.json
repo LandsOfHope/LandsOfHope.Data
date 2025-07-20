@@ -5,5 +5,12 @@
     "type": "foot-armour",
     "armorType": "leather",
     "set": "tenth-cavalry",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "track-beasts": 1,
+        "armor": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

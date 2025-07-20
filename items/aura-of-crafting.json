@@ -3,5 +3,12 @@
     "id": "aura-of-crafting",
     "image": "6903",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "carpentry": 1,
+        "blacksmithing": 1,
+        "construction": 1,
+        "artisan": 1,
+        "furnishing": 1
+    }
 }

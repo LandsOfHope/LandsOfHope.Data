@@ -4,5 +4,9 @@
     "image": "relic6",
     "type": "special-slot",
     "material": "metal",
-    "skill": "archaeology"
+    "skill": "archaeology",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1
+    }
 }

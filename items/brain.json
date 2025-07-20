@@ -3,5 +3,8 @@
     "id": "brain",
     "image": "4462",
     "type": "head-armour",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

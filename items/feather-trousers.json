@@ -4,5 +4,11 @@
     "image": "608",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "bird"
+    "material": "bird",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

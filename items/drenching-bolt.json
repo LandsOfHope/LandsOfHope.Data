@@ -4,5 +4,8 @@
     "image": "arr1",
     "type": "ammo-weapons-crossbows",
     "dpr": 78,
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "attack-power": 1
+    }
 }

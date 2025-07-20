@@ -4,5 +4,12 @@
     "image": "6680",
     "type": "ring",
     "material": "gem",
-    "skill": "gods-favor"
+    "skill": "gods-favor",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

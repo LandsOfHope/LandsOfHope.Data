@@ -3,5 +3,8 @@
     "id": "apple-cake",
     "image": "ac1",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "HITPOINTS": 2
+    }
 }

@@ -4,5 +4,9 @@
     "image": "gmkeca",
     "type": "magic-vial",
     "expansion": "uncharted-waters",
-    "material": "color"
+    "material": "color",
+    "properties": {
+        "HITPOINTS": 1,
+        "STAMINA": 1
+    }
 }

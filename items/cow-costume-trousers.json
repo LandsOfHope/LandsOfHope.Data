@@ -5,5 +5,8 @@
     "type": "leg-armour",
     "set": "cow-costume",
     "material": "hide",
-    "skill": "artisan"
+    "skill": "artisan",
+    "skills": {
+        "farming": 1
+    }
 }

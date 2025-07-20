@@ -3,5 +3,8 @@
     "id": "sugar",
     "image": "sr1",
     "type": "rawfood",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

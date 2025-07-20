@@ -4,5 +4,8 @@
     "image": "zudegl",
     "type": "ring",
     "material": "gem",
-    "skill": "myzan-defenders"
+    "skill": "myzan-defenders",
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

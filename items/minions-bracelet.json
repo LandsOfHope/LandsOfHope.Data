@@ -3,5 +3,8 @@
     "id": "minions-bracelet",
     "image": "5931",
     "type": "wrist-jewelry",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "mana-regen": 1
+    }
 }

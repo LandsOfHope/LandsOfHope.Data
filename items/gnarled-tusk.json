@@ -4,5 +4,12 @@
     "image": "zugntu",
     "type": "1-handed-equipment",
     "dpr": 2,
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "maces": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXMANA": 1
+    }
 }

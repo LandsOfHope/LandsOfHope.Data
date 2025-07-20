@@ -4,5 +4,8 @@
     "image": "1676",
     "type": "2-handed-equipment",
     "dpr": 2,
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

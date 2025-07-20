@@ -6,5 +6,12 @@
     "armorType": "cloth",
     "set": "myzan-defenders",
     "material": "gem",
-    "skill": "myzan-defenders"
+    "skill": "myzan-defenders",
+    "skills": {
+        "armor": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

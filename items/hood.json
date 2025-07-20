@@ -3,5 +3,8 @@
     "id": "hood",
     "image": "hd3",
     "type": "neck-clothing",
-    "material": "cloth"
+    "material": "cloth",
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

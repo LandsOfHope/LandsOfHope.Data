@@ -4,5 +4,11 @@
     "image": "2083",
     "type": "chest-armour",
     "armorType": "cloth",
-    "material": "spider"
+    "material": "spider",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "noble-bag-of-strength",
     "image": "6775",
     "type": "special-bag",
-    "material": "stone"
+    "material": "stone",
+    "properties": {
+        "STRENGTH": 1
+    }
 }

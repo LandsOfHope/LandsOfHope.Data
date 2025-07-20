@@ -3,5 +3,8 @@
     "id": "apple-pie",
     "image": "ap1",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 2
+    }
 }

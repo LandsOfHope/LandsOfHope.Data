@@ -6,5 +6,12 @@
     "armorType": "leather",
     "expansion": "uncharted-waters",
     "material": "cloth",
-    "skill": "myzan-navy"
+    "skill": "myzan-navy",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

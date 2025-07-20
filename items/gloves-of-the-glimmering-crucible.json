@@ -4,5 +4,9 @@
     "image": "1130",
     "type": "hand-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "blacksmithing": 1,
+        "geology": 1
+    }
 }

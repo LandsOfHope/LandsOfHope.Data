@@ -3,5 +3,8 @@
     "id": "pancake",
     "image": "pan",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 1
+    }
 }

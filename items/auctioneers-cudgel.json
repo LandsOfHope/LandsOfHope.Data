@@ -4,5 +4,8 @@
     "image": "bh2",
     "type": "1-handed-equipment",
     "dpr": 2,
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

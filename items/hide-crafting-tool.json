@@ -4,5 +4,8 @@
     "image": "hct",
     "type": "1-handed-equipment",
     "material": "hide",
-    "skill": "leatherworking"
+    "skill": "leatherworking",
+    "skills": {
+        "leatherworking": 1
+    }
 }

@@ -3,5 +3,12 @@
     "id": "sparkly-glowy-aura",
     "image": "7010",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "armor": 1,
+        "alien-hunting": 3
+    },
+    "properties": {
+        "MAXHITPOINTS": 2
+    }
 }

@@ -3,5 +3,11 @@
     "id": "winter-elf-army-badge",
     "image": "6203",
     "type": "bonus-slot",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "toy-snatching": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

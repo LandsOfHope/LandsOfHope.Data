@@ -4,5 +4,8 @@
     "image": "zufrbu",
     "type": "ammo-weapons-bullets",
     "dpr": 65,
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "attack-power": 1
+    }
 }

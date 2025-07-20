@@ -3,5 +3,11 @@
     "id": "owners-tag",
     "image": "zuowta",
     "type": "pet-bonus-item",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

@@ -5,5 +5,8 @@
     "type": "2-handed-equipment",
     "dpr": 4,
     "material": "wood",
-    "skill": "cooking-magic"
+    "skill": "cooking-magic",
+    "skills": {
+        "cooking-magic": 1
+    }
 }

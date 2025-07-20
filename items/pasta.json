@@ -3,5 +3,8 @@
     "id": "pasta",
     "image": "fepaas",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

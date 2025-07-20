@@ -4,5 +4,8 @@
     "image": "zulaar",
     "type": "ammo-weapons-bows",
     "dpr": 5,
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "attack-power": 1
+    }
 }

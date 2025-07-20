@@ -5,5 +5,12 @@
     "type": "ranged-weapon",
     "dpr": 8,
     "material": "stone",
-    "skill": "thrown-weapons"
+    "skill": "thrown-weapons",
+    "skills": {
+        "thrown-weapons": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

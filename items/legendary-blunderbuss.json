@@ -6,5 +6,12 @@
     "dpr": 120,
     "legendary": true,
     "material": "metal",
-    "skill": "two-handed-guns"
+    "skill": "two-handed-guns",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

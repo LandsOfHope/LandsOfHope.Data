@@ -4,5 +4,9 @@
     "image": "1812",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "poison-resistance": 1,
+        "armor": 1
+    }
 }

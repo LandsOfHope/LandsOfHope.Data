@@ -5,5 +5,11 @@
     "type": "2-handed-equipment",
     "dpr": 5,
     "material": "stone",
-    "skill": "two-handed-staves"
+    "skill": "two-handed-staves",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

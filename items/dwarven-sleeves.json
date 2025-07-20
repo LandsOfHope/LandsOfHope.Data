@@ -4,5 +4,9 @@
     "image": "484",
     "type": "arm-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "h2h-defense": 1,
+        "armor": 1
+    }
 }

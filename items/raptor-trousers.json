@@ -5,5 +5,8 @@
     "type": "leg-armour",
     "armorType": "leather",
     "expansion": "jurassic-wars",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "fury-augment",
     "image": "6872",
     "type": "augment",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "frenzy": 1
+    }
 }

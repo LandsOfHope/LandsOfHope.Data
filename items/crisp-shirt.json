@@ -4,5 +4,11 @@
     "image": "pshi6",
     "type": "chest-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

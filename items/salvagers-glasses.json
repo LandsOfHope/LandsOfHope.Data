@@ -4,5 +4,8 @@
     "image": "852",
     "type": "glasses-shades",
     "armorType": "cloth",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "deconstruction": 1
+    }
 }

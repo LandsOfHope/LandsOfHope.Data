@@ -3,5 +3,8 @@
     "id": "gem-pendant",
     "image": "pdt",
     "type": "neck",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXMANA": 1
+    }
 }

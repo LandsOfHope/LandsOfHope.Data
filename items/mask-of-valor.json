@@ -3,5 +3,8 @@
     "id": "mask-of-valor",
     "image": "zumava",
     "type": "reaper-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

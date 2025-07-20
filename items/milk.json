@@ -3,5 +3,8 @@
     "id": "milk",
     "image": "mil",
     "type": "rawfood",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

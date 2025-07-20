@@ -4,5 +4,8 @@
     "image": "blr",
     "type": "1-handed-equipment",
     "material": "metal",
-    "skill": "tinkering"
+    "skill": "tinkering",
+    "skills": {
+        "tinkering": 1
+    }
 }

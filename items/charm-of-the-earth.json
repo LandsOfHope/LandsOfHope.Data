@@ -3,5 +3,8 @@
     "id": "charm-of-the-earth",
     "image": "zuchea",
     "type": "wrist-jewelry",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "earth-magic": 1
+    }
 }

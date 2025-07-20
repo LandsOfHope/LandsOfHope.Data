@@ -3,5 +3,9 @@
     "id": "strong-vein-augment",
     "image": "6823",
     "type": "augment",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXHITPOINTS": 1.2,
+        "MAXSTAMINA": 0.4
+    }
 }

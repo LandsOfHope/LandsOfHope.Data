@@ -3,5 +3,8 @@
     "id": "fish",
     "image": "fis",
     "type": "fish",
-    "material": "fish"
+    "material": "fish",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

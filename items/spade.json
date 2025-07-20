@@ -5,5 +5,11 @@
     "type": "1-handed-equipment",
     "dpr": 2,
     "material": "wood",
-    "skill": "mining"
+    "skill": "mining",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

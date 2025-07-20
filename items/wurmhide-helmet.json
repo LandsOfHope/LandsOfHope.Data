@@ -5,5 +5,12 @@
     "type": "head-armour",
     "armorType": "cloth",
     "expansion": "dragons-of-the-east",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

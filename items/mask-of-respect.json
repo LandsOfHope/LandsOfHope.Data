@@ -3,5 +3,10 @@
     "id": "mask-of-respect",
     "image": "mask1",
     "type": "reaper-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 1,
+        "STRENGTH": 1
+    }
 }

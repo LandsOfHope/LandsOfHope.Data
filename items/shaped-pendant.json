@@ -3,5 +3,8 @@
     "id": "shaped-pendant",
     "image": "am2",
     "type": "neck",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

@@ -4,5 +4,11 @@
     "image": "pshi8",
     "type": "chest-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXMANA": 1
+    }
 }

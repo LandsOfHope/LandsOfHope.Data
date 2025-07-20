@@ -3,5 +3,9 @@
     "id": "red-prizehunter-goggles",
     "image": "6252",
     "type": "glasses-shades",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1
+    }
 }

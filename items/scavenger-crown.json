@@ -3,5 +3,9 @@
     "id": "scavenger-crown",
     "image": "849",
     "type": "head-armour",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "appraisal": 1,
+        "exploration": 1
+    }
 }

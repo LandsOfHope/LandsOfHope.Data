@@ -3,5 +3,8 @@
     "id": "mask-of-knowledge",
     "image": "zumakn",
     "type": "reaper-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

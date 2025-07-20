@@ -4,5 +4,11 @@
     "image": "fst",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "snake"
+    "material": "snake",
+    "skills": {
+        "poison-resistance": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

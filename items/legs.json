@@ -4,5 +4,9 @@
     "image": "leg",
     "type": "leg-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "bludgeon-defense": 1,
+        "armor": 1
+    }
 }

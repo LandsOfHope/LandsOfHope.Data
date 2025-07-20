@@ -4,5 +4,8 @@
     "image": "3914",
     "type": "hand-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    }
 }

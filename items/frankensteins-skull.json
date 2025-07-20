@@ -5,5 +5,12 @@
     "type": "head-armour",
     "armorType": "cloth",
     "set": "frankenstein-set",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "mystical-resistance": 1,
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

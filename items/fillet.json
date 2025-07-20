@@ -3,5 +3,8 @@
     "id": "fillet",
     "image": "zufitt",
     "type": "food",
-    "material": "fish"
+    "material": "fish",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

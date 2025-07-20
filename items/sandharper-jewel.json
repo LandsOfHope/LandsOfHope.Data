@@ -3,5 +3,9 @@
     "id": "sandharper-jewel",
     "image": "shg3",
     "type": "glasses-shades",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

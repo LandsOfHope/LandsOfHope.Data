@@ -4,5 +4,11 @@
     "image": "6038",
     "type": "neck",
     "armorType": "cloth",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "track-beasts": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

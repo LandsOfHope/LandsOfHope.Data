@@ -3,5 +3,8 @@
     "id": "belt-of-the-ox",
     "image": "pbelt8",
     "type": "stomach",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

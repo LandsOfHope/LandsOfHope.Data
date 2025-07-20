@@ -5,5 +5,9 @@
     "type": "2-handed-equipment",
     "dpr": 82,
     "material": "metal",
-    "skill": "two-handed-shields"
+    "skill": "two-handed-shields",
+    "skills": {
+        "fire-resistance": 1,
+        "armor": 1
+    }
 }

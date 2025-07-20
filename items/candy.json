@@ -3,5 +3,8 @@
     "id": "candy",
     "image": "cay",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 1
+    }
 }

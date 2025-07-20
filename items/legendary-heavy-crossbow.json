@@ -6,5 +6,12 @@
     "dpr": 120,
     "legendary": true,
     "material": "wood",
-    "skill": "crossbows"
+    "skill": "crossbows",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

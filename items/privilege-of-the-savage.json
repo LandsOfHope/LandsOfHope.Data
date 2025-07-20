@@ -4,5 +4,12 @@
     "image": "5889",
     "type": "exile-symbol",
     "expansion": "jurassic-wars",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "frenzy": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1
+    }
 }

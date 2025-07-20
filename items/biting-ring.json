@@ -4,5 +4,11 @@
     "image": "gmbiri",
     "type": "ring",
     "material": "gem",
-    "skill": "hellscar-legion"
+    "skill": "hellscar-legion",
+    "skills": {
+        "frenzy": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

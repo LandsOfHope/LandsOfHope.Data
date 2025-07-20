@@ -3,5 +3,8 @@
     "id": "symbol-of-strength",
     "image": "2218",
     "type": "exile-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "STRENGTH": 1
+    }
 }

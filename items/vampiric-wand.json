@@ -5,5 +5,12 @@
     "type": "1-handed-equipment",
     "dpr": 12,
     "material": "wood",
-    "skill": "staves"
+    "skill": "staves",
+    "skills": {
+        "health-stealing": 1,
+        "poison-magic": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

@@ -3,5 +3,11 @@
     "id": "trackers-bag",
     "image": "6048",
     "type": "special-bag",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "track-humanoids": 1,
+        "track-undead": 1,
+        "track-items": 1,
+        "track-beasts": 1
+    }
 }

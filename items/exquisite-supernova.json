@@ -5,5 +5,13 @@
     "type": "2-handed-equipment",
     "dpr": 140,
     "material": "metal",
-    "skill": "celestial-weapons"
+    "skill": "celestial-weapons",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXSTAMINA": 1,
+        "SPEED": 1
+    }
 }

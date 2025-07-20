@@ -4,5 +4,11 @@
     "image": "6681",
     "type": "wings",
     "material": "hide",
-    "skill": "gods-favor"
+    "skill": "gods-favor",
+    "skills": {
+        "air-survival": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

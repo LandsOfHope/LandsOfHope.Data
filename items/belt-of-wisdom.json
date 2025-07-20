@@ -3,5 +3,8 @@
     "id": "belt-of-wisdom",
     "image": "pbelt5",
     "type": "stomach",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

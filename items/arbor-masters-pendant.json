@@ -3,5 +3,12 @@
     "id": "arbor-masters-pendant",
     "image": "amp",
     "type": "neck",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "carpentry": 1,
+        "lumberjacking": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

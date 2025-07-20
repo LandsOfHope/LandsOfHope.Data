@@ -4,5 +4,8 @@
     "image": "fgd",
     "type": "1-handed-equipment",
     "material": "wood",
-    "skill": "fishing"
+    "skill": "fishing",
+    "skills": {
+        "fishing": 1
+    }
 }

@@ -3,5 +3,13 @@
     "id": "commanders-badge",
     "image": "6558",
     "type": "forehead",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "health-regen": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1
+    }
 }

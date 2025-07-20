@@ -4,5 +4,8 @@
     "image": "9",
     "type": "1-handed-equipment",
     "material": "metal",
-    "skill": "mining"
+    "skill": "mining",
+    "skills": {
+        "mining": 1
+    }
 }

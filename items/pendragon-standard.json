@@ -3,5 +3,12 @@
     "id": "pendragon-standard",
     "image": "6756",
     "type": "guild-color",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "fire-survival": 1,
+        "cold-survival": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

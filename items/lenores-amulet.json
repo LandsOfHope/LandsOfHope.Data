@@ -4,5 +4,9 @@
     "image": "zuleam",
     "type": "neck",
     "armorType": "plate",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "healing-magic": 1,
+        "first-aid": 1
+    }
 }

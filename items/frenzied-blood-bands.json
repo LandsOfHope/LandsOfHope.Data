@@ -3,5 +3,9 @@
     "id": "frenzied-blood-bands",
     "image": "zufrbl",
     "type": "wrist-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "STRENGTH": 1
+    }
 }

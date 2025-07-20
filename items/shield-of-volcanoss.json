@@ -5,5 +5,12 @@
     "type": "1-handed-equipment",
     "dpr": 74,
     "material": "gem",
-    "skill": "shields"
+    "skill": "shields",
+    "skills": {
+        "fire-resistance": 1,
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

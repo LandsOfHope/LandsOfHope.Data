@@ -4,5 +4,10 @@
     "image": "5888",
     "type": "exile-symbol",
     "expansion": "dragons-of-the-east",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

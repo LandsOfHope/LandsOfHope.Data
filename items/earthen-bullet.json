@@ -4,5 +4,8 @@
     "image": "zueabu",
     "type": "ammo-weapons-bullets",
     "dpr": 44,
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "attack-power": 1
+    }
 }

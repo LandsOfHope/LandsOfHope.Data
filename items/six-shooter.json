@@ -5,5 +5,11 @@
     "type": "1-handed-equipment",
     "dpr": 2,
     "material": "metal",
-    "skill": "hand-guns"
+    "skill": "hand-guns",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

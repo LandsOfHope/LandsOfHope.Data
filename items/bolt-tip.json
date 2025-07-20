@@ -3,5 +3,8 @@
     "id": "bolt-tip",
     "image": "feboti",
     "type": "ammo-materials",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

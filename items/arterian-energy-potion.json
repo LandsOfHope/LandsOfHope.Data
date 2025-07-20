@@ -2,5 +2,8 @@
     "$type": "/v1/item",
     "id": "arterian-energy-potion",
     "image": "gmarenpo",
-    "type": "magic-potion"
+    "type": "magic-potion",
+    "properties": {
+        "MANA": 6
+    }
 }

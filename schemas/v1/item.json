@@ -28,6 +28,9 @@
         "legendary": {
             "const": true
         },
+        "adjustable": {
+            "const": true
+        },
         "set": {
             "$ref": "/schemas/v1/items-sets-id.gen.json"
         },
@@ -36,6 +39,36 @@
         },
         "skill": {
             "$ref": "/schemas/v1/skills-id.gen.json"
+        },
+        "skills": {
+            "type": "object",
+            "patternProperties": {
+                ".*": {
+                    "type": "number",
+                    "exclusiveMinimum": 0,
+                    "multipleOf": 0.01
+                }
+            },
+            "propertyNames": {
+                "$ref": "/schemas/v1/skills-id.gen.json"
+            },
+            "minProperties": 1,
+            "additionalProperties": false
+        },
+        "properties": {
+            "type": "object",
+            "patternProperties": {
+                ".*": {
+                    "type": "number",
+                    "exclusiveMinimum": 0,
+                    "multipleOf": 0.01
+                }
+            },
+            "propertyNames": {
+                "$ref": "/schemas/v1/characters/character-property-name.json"
+            },
+            "minProperties": 1,
+            "additionalProperties": false
         }
     },
     "additionalProperties": false,

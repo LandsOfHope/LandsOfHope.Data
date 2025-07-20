@@ -3,5 +3,9 @@
     "id": "aura-of-the-nimble",
     "image": "6694",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXSTAMINA": 1
+    }
 }

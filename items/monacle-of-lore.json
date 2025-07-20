@@ -3,5 +3,9 @@
     "id": "monacle-of-lore",
     "image": "zumolo",
     "type": "lore-item",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MANA": 1,
+        "MAXMANA": 1
+    }
 }

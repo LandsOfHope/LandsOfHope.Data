@@ -4,5 +4,8 @@
     "image": "arri",
     "type": "ammo-weapons-bows",
     "dpr": 9,
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "attack-power": 1
+    }
 }

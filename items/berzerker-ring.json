@@ -3,5 +3,11 @@
     "id": "berzerker-ring",
     "image": "rgf",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

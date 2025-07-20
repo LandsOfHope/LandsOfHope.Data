@@ -5,5 +5,8 @@
     "type": "2-handed-equipment",
     "dpr": 10,
     "material": "metal",
-    "skill": "martial-arts"
+    "skill": "martial-arts",
+    "skills": {
+        "attack-power": 1
+    }
 }

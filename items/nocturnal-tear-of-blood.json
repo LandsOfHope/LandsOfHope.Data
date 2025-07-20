@@ -3,5 +3,12 @@
     "id": "nocturnal-tear-of-blood",
     "image": "6748",
     "type": "ear-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "stealth": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "STRENGTH": 1
+    }
 }

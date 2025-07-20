@@ -3,5 +3,13 @@
     "id": "blue-alien-crystal-shard",
     "image": "7002",
     "type": "neck",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "alien-hunting": 1.2
+    },
+    "properties": {
+        "INTELLIGENCE": 1.2,
+        "MANA": 1.2,
+        "MAXMANA": 1.2
+    }
 }

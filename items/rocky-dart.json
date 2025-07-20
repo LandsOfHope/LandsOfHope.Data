@@ -4,5 +4,8 @@
     "image": "drt",
     "type": "ammo-weapons-darts",
     "dpr": 72,
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "attack-power": 1
+    }
 }

@@ -4,5 +4,8 @@
     "image": "pe5",
     "type": "ammo-weapons-potions",
     "dpr": 94,
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "attack-power": 1
+    }
 }

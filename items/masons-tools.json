@@ -4,5 +4,8 @@
     "image": "zumato",
     "type": "1-handed-equipment",
     "material": "metal",
-    "skill": "stonemasonry"
+    "skill": "stonemasonry",
+    "skills": {
+        "stonemasonry": 1
+    }
 }

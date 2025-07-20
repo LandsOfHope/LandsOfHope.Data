@@ -3,5 +3,8 @@
     "id": "greater-soul-gem",
     "image": "sg3",
     "type": "soul-gems",
-    "material": "creatures"
+    "material": "creatures",
+    "skills": {
+        "mana-regen": 5
+    }
 }

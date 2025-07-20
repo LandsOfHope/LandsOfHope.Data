@@ -4,5 +4,9 @@
     "image": "fegoeo",
     "type": "neck",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "h2h-defense": 1,
+        "armor": 1
+    }
 }

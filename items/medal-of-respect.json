@@ -3,5 +3,10 @@
     "id": "medal-of-respect",
     "image": "4656",
     "type": "society-symbol",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 1,
+        "STRENGTH": 1
+    }
 }

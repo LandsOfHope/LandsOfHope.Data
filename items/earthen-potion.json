@@ -4,5 +4,8 @@
     "image": "pd1",
     "type": "ammo-weapons-potions",
     "dpr": 4,
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "attack-power": 1
+    }
 }

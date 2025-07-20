@@ -3,5 +3,8 @@
     "id": "wristbands",
     "image": "bt1",
     "type": "wrist-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "armor": 1
+    }
 }

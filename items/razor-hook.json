@@ -5,5 +5,11 @@
     "type": "1-handed-equipment",
     "dpr": 80,
     "material": "metal",
-    "skill": "exotic-weapons"
+    "skill": "exotic-weapons",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

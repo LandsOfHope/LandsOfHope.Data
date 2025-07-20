@@ -3,5 +3,8 @@
     "id": "ring-of-intelligence",
     "image": "rgf",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "special-salad",
     "image": "zuspsa",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "HITPOINTS": 2
+    }
 }

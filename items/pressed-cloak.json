@@ -4,5 +4,11 @@
     "image": "pclo16",
     "type": "cloak",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "DEXTERITY": 1
+    }
 }

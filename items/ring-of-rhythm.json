@@ -3,5 +3,9 @@
     "id": "ring-of-rhythm",
     "image": "torirh",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "instruments": 1,
+        "singing": 1
+    }
 }

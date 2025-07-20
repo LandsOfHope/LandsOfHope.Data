@@ -3,5 +3,8 @@
     "id": "nut-bread",
     "image": "nub",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "STAMINA": 2
+    }
 }

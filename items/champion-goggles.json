@@ -3,5 +3,13 @@
     "id": "champion-goggles",
     "image": "ces",
     "type": "glasses-shades",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "beastmastery": 1,
+        "myth-and-legends": 1,
+        "slavemastery": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

@@ -3,5 +3,9 @@
     "id": "minions-headband",
     "image": "5926",
     "type": "forehead",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "health-regen": 1,
+        "armor": 1
+    }
 }

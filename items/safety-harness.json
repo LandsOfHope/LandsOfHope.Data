@@ -3,5 +3,11 @@
     "id": "safety-harness",
     "image": "bet",
     "type": "stomach",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

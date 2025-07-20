@@ -4,5 +4,8 @@
     "image": "2647",
     "type": "head-armour",
     "armorType": "mail",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    }
 }

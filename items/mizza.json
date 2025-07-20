@@ -3,5 +3,8 @@
     "id": "mizza",
     "image": "mizza",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

@@ -4,5 +4,9 @@
     "image": "zusoja",
     "type": "chest-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "cold-resistance": 1,
+        "fire-resistance": 1
+    }
 }

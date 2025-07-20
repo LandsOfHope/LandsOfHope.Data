@@ -4,5 +4,8 @@
     "image": "cl4",
     "type": "cloak",
     "armorType": "cloth",
-    "material": "bird"
+    "material": "bird",
+    "skills": {
+        "armor": 1
+    }
 }

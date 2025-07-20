@@ -4,5 +4,8 @@
     "image": "rgn",
     "type": "ring",
     "material": "hide",
-    "skill": "summoning"
+    "skill": "summoning",
+    "skills": {
+        "summoning": 1
+    }
 }

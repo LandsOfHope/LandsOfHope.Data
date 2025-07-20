@@ -4,5 +4,8 @@
     "image": "2096",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "snake"
+    "material": "snake",
+    "skills": {
+        "poison-resistance": 1
+    }
 }

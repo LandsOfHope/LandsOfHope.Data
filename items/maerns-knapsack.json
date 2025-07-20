@@ -3,5 +3,8 @@
     "id": "maerns-knapsack",
     "image": "imps",
     "type": "bag",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "cold-resistance": 1
+    }
 }

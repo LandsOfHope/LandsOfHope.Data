@@ -5,5 +5,9 @@
     "type": "2-handed-equipment",
     "dpr": 42,
     "material": "metal",
-    "skill": "two-handed-shields"
+    "skill": "two-handed-shields",
+    "skills": {
+        "frenzy": 1,
+        "armor": 1
+    }
 }

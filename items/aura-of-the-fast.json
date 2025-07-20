@@ -3,5 +3,9 @@
     "id": "aura-of-the-fast",
     "image": "6693",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXSTAMINA": 1,
+        "SPEED": 1
+    }
 }

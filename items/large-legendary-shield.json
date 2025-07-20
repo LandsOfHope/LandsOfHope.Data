@@ -6,5 +6,12 @@
     "dpr": 120,
     "legendary": true,
     "material": "wood",
-    "skill": "two-handed-shields"
+    "skill": "two-handed-shields",
+    "skills": {
+        "bladed-defense": 1,
+        "armor": 1
+    },
+    "properties": {
+        "STRENGTH": 1
+    }
 }

@@ -3,5 +3,9 @@
     "id": "ring-of-ravaging",
     "image": "rgj",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

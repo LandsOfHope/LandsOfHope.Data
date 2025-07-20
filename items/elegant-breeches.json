@@ -4,5 +4,9 @@
     "image": "1840",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXSTAMINA": 1
+    }
 }

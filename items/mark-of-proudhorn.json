@@ -5,5 +5,11 @@
     "type": "exile-symbol",
     "set": "myzan-defenders",
     "material": "metal",
-    "skill": "myzan-defenders"
+    "skill": "myzan-defenders",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

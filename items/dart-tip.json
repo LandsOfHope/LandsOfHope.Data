@@ -3,5 +3,8 @@
     "id": "dart-tip",
     "image": "fedati",
     "type": "ammo-materials",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

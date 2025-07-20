@@ -3,5 +3,12 @@
     "id": "deathpit-grimoire",
     "image": "bk1",
     "type": "special-slot",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXSTAMINA": 1
+    }
 }

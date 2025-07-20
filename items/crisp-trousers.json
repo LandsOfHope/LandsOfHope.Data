@@ -4,5 +4,11 @@
     "image": "ptro8",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

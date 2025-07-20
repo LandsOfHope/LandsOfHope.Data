@@ -3,5 +3,8 @@
     "id": "crackers",
     "image": "chs",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

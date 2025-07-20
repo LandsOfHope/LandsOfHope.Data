@@ -4,5 +4,9 @@
     "image": "rgc",
     "type": "ring",
     "material": "gem",
-    "skill": "mining"
+    "skill": "mining",
+    "skills": {
+        "mining": 1,
+        "geology": 1
+    }
 }

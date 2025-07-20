@@ -5,5 +5,12 @@
     "type": "1-handed-equipment",
     "dpr": 10,
     "material": "stone",
-    "skill": "daggers"
+    "skill": "daggers",
+    "skills": {
+        "stealth": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

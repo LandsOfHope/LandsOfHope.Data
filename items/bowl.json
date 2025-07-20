@@ -4,5 +4,8 @@
     "image": "bl2",
     "type": "1-handed-equipment",
     "material": "wood",
-    "skill": "cooking"
+    "skill": "cooking",
+    "skills": {
+        "cooking": 1
+    }
 }

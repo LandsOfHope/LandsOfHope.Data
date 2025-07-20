@@ -3,5 +3,8 @@
     "id": "cradle-of-sealife",
     "image": "zucrse",
     "type": "bag",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "water-resistance": 1
+    }
 }

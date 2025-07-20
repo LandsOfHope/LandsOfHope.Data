@@ -3,5 +3,8 @@
     "id": "grain",
     "image": "gn1",
     "type": "rawfood",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

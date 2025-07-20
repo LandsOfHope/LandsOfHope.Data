@@ -6,5 +6,12 @@
     "armorType": "mail",
     "legendary": true,
     "set": "barrendown-legend",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

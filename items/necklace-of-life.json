@@ -4,5 +4,9 @@
     "image": "arb",
     "type": "neck-clothing",
     "armorType": "cloth",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "healing-magic": 1,
+        "first-aid": 1
+    }
 }

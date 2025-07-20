@@ -4,5 +4,10 @@
     "image": "6890",
     "type": "special-bag",
     "material": "cloth",
-    "skill": "augmenting"
+    "skill": "augmenting",
+    "skills": {
+        "augmenting": 1,
+        "bolts-over-brains": 1,
+        "blood-over-beauty": 1
+    }
 }

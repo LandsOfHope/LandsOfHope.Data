@@ -3,5 +3,8 @@
     "id": "biscuit",
     "image": "bis",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 1
+    }
 }

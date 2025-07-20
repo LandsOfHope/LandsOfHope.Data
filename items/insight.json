@@ -6,5 +6,13 @@
     "dpr": 120,
     "expansion": "the-afterlife",
     "material": "metal",
-    "skill": "enchanted-weapons"
+    "skill": "enchanted-weapons",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "DEXTERITY": 1,
+        "INTELLIGENCE": 1,
+        "MAXHITPOINTS": 1
+    }
 }

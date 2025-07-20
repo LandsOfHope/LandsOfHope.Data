@@ -3,5 +3,8 @@
     "id": "black-powder-pouch",
     "image": "5547",
     "type": "bag",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "arcane-resistance": 1
+    }
 }

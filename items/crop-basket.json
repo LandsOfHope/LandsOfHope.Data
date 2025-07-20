@@ -5,5 +5,8 @@
     "type": "2-handed-equipment",
     "dpr": 2,
     "material": "wood",
-    "skill": "farming"
+    "skill": "farming",
+    "skills": {
+        "farming": 1
+    }
 }

@@ -3,5 +3,9 @@
     "id": "road-hardened-earring",
     "image": "6803",
     "type": "ear-jewelry",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "MAXHITPOINTS": 1.5,
+        "MAXSTAMINA": 1.5
+    }
 }

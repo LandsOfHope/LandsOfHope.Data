@@ -3,5 +3,8 @@
     "id": "mince-pies",
     "image": "6197",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 3
+    }
 }

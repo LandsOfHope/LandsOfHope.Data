@@ -3,5 +3,10 @@
     "id": "mark-of-steel",
     "image": "6515",
     "type": "special-slot",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "fire-survival": 1,
+        "water-survival": 1,
+        "armor": 1
+    }
 }

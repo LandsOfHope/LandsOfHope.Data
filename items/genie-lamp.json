@@ -3,5 +3,8 @@
     "id": "genie-lamp",
     "image": "xgl",
     "type": "lights-torches",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "appraisal": 1
+    }
 }

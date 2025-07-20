@@ -3,5 +3,8 @@
     "id": "beer",
     "image": "febebe",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

@@ -4,5 +4,10 @@
     "image": "cv1",
     "type": "chest-armour",
     "armorType": "mail",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "bladed-defense": 1,
+        "stringed-defense": 1,
+        "armor": 1
+    }
 }

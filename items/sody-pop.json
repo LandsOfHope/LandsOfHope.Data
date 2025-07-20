@@ -3,5 +3,8 @@
     "id": "sody-pop",
     "image": "6571",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

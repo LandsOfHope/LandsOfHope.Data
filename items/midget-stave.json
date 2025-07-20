@@ -5,5 +5,11 @@
     "type": "1-handed-equipment",
     "dpr": 3,
     "material": "wood",
-    "skill": "staves"
+    "skill": "staves",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "SPEED": 1
+    }
 }

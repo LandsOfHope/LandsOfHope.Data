@@ -3,5 +3,8 @@
     "id": "preystalkers-charm",
     "image": "6792",
     "type": "neck-clothing",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "track-beasts": 20
+    }
 }

@@ -4,5 +4,8 @@
     "image": "zuclha",
     "type": "1-handed-equipment",
     "material": "metal",
-    "skill": "construction"
+    "skill": "construction",
+    "skills": {
+        "construction": 1
+    }
 }

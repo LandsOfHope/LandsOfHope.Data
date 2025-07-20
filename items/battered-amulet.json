@@ -3,5 +3,8 @@
     "id": "battered-amulet",
     "image": "bda",
     "type": "neck",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "alchemy": 1
+    }
 }

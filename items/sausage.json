@@ -3,5 +3,8 @@
     "id": "sausage",
     "image": "zusauu",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "STAMINA": 1
+    }
 }

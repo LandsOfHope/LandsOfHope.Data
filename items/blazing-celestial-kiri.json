@@ -5,5 +5,12 @@
     "type": "1-handed-equipment",
     "dpr": 97,
     "material": "metal",
-    "skill": "celestial-weapons"
+    "skill": "celestial-weapons",
+    "skills": {
+        "fire-resistance": 1,
+        "attack-power": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

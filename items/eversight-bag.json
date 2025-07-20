@@ -3,5 +3,8 @@
     "id": "eversight-bag",
     "image": "esb1",
     "type": "bag",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "detect-hidden": 1
+    }
 }

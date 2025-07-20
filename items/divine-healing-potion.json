@@ -3,5 +3,8 @@
     "id": "divine-healing-potion",
     "image": "pdr",
     "type": "magic-potion",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "HITPOINTS": 3.5
+    }
 }

@@ -5,5 +5,12 @@
     "type": "wings",
     "expansion": "the-afterlife",
     "set": "templar-set",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "air-survival": 1,
+        "celestial-defense": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

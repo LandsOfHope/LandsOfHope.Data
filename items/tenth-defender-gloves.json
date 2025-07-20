@@ -5,5 +5,12 @@
     "type": "hand-armour",
     "armorType": "mail",
     "set": "tenth-defender",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "stringed-defense": 1,
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

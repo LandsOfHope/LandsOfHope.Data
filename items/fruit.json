@@ -3,5 +3,8 @@
     "id": "fruit",
     "image": "fruit",
     "type": "rawfood",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

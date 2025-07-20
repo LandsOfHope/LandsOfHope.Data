@@ -3,5 +3,8 @@
     "id": "shadow-augment",
     "image": "6874",
     "type": "augment",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "stealth": 1.1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "traders-treasure",
     "image": "zutrtr",
     "type": "neck",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

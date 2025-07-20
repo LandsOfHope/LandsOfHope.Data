@@ -3,5 +3,8 @@
     "id": "dark-cookies",
     "image": "dri",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "STAMINA": 3
+    }
 }

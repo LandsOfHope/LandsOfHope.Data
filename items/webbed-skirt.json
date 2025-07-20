@@ -4,5 +4,9 @@
     "image": "fst",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "spider"
+    "material": "spider",
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXSTAMINA": 1
+    }
 }

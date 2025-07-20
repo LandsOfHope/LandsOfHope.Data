@@ -3,5 +3,8 @@
     "id": "baked-pie",
     "image": "bdp",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "STAMINA": 2
+    }
 }

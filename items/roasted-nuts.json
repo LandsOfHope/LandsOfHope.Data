@@ -3,5 +3,8 @@
     "id": "roasted-nuts",
     "image": "ron",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "HITPOINTS": 2
+    }
 }

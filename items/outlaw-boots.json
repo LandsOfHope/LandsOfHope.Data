@@ -6,5 +6,8 @@
     "armorType": "leather",
     "expansion": "uncharted-waters",
     "material": "cloth",
-    "skill": "pirate-league"
+    "skill": "pirate-league",
+    "skills": {
+        "armor": 1
+    }
 }

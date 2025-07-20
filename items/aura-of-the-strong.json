@@ -3,5 +3,9 @@
     "id": "aura-of-the-strong",
     "image": "6695",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXSTAMINA": 1,
+        "STRENGTH": 1
+    }
 }

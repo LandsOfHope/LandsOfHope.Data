@@ -3,5 +3,8 @@
     "id": "adventurers-compass",
     "image": "zuadco",
     "type": "special-slot",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

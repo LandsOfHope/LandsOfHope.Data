@@ -3,5 +3,8 @@
     "id": "raisins",
     "image": "zuraii",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 2
+    }
 }

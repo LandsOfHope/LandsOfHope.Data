@@ -3,5 +3,8 @@
     "id": "ring-of-the-madrigal",
     "image": "ring7",
     "type": "ring",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "instruments": 1
+    }
 }

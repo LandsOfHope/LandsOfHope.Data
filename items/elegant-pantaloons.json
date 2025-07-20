@@ -4,5 +4,9 @@
     "image": "1843",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "MAXSTAMINA": 1,
+        "SPEED": 1
+    }
 }

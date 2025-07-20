@@ -5,5 +5,8 @@
     "type": "shoulders",
     "set": "inventor-bolted-set",
     "material": "metal",
-    "skill": "bolts-over-brains"
+    "skill": "bolts-over-brains",
+    "skills": {
+        "armor": 0.5
+    }
 }

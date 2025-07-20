@@ -3,5 +3,9 @@
     "id": "cooked-lobster",
     "image": "gmcolo",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 1,
+        "STAMINA": 1
+    }
 }

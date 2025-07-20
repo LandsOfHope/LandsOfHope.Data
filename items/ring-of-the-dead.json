@@ -4,5 +4,9 @@
     "image": "rgo",
     "type": "ring",
     "material": "metal",
-    "skill": "necromancy"
+    "skill": "necromancy",
+    "skills": {
+        "necromancy": 1,
+        "attack-power": 1
+    }
 }

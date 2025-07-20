@@ -3,5 +3,8 @@
     "id": "dough",
     "image": "dou",
     "type": "rawfood",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

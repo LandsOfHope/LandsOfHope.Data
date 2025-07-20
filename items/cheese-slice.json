@@ -3,5 +3,8 @@
     "id": "cheese-slice",
     "image": "ch2",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

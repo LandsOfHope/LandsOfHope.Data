@@ -3,5 +3,9 @@
     "id": "drakos-respect",
     "image": "6796",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXHITPOINTS": 1,
+        "MAXMANA": 1
+    }
 }

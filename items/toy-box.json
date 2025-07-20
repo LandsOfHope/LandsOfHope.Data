@@ -3,5 +3,8 @@
     "id": "toy-box",
     "image": "6187",
     "type": "bag",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "toy-snatching": 1
+    }
 }

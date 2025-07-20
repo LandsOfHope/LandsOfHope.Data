@@ -3,5 +3,11 @@
     "id": "ring-of-the-elements",
     "image": "rgk",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "fire-survival": 1,
+        "water-survival": 1,
+        "air-survival": 1,
+        "cold-survival": 1
+    }
 }

@@ -3,5 +3,11 @@
     "id": "virginias-ring-of-appraising",
     "image": "6798",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "appraisal": 2
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

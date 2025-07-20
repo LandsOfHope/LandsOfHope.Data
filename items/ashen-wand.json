@@ -5,5 +5,11 @@
     "type": "1-handed-equipment",
     "dpr": 32,
     "material": "stone",
-    "skill": "staves"
+    "skill": "staves",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "INTELLIGENCE": 1
+    }
 }

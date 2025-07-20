@@ -5,5 +5,11 @@
     "type": "leg-armour",
     "armorType": "leather",
     "material": "hide",
-    "skill": "animation"
+    "skill": "animation",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

@@ -5,5 +5,8 @@
     "type": "2-handed-equipment",
     "dpr": 32,
     "material": "metal",
-    "skill": "two-handed-axes"
+    "skill": "two-handed-axes",
+    "skills": {
+        "attack-power": 1
+    }
 }

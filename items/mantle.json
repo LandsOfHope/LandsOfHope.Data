@@ -4,5 +4,11 @@
     "image": "mle",
     "type": "chest-armour",
     "armorType": "cloth",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXMANA": 1
+    }
 }

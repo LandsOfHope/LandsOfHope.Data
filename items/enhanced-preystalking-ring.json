@@ -3,5 +3,12 @@
     "id": "enhanced-preystalking-ring",
     "image": "6791",
     "type": "ring",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "track-beasts": 10
+    },
+    "properties": {
+        "MAXHITPOINTS": 5,
+        "STRENGTH": 1
+    }
 }

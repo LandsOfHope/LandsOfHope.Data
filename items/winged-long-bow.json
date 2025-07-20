@@ -5,5 +5,10 @@
     "type": "ranged-weapon",
     "dpr": 10,
     "material": "gem",
-    "skill": "bows"
+    "skill": "bows",
+    "skills": {
+        "air-survival": 1,
+        "bows": 1,
+        "attack-power": 1
+    }
 }

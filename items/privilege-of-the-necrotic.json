@@ -4,5 +4,10 @@
     "image": "6288",
     "type": "exile-symbol",
     "expansion": "the-afterlife",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "DEXTERITY": 1,
+        "MAXSTAMINA": 1,
+        "SPEED": 1
+    }
 }

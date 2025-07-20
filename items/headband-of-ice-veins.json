@@ -4,5 +4,9 @@
     "image": "zuhoiv",
     "type": "forehead",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "cold-survival": 1,
+        "armor": 1
+    }
 }

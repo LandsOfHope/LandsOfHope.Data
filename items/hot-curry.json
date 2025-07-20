@@ -3,5 +3,8 @@
     "id": "hot-curry",
     "image": "stw.jpg",
     "type": "food",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "HITPOINTS": 3
+    }
 }

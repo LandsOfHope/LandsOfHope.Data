@@ -4,5 +4,9 @@
     "image": "5871",
     "type": "bag",
     "expansion": "dragons-of-the-east",
-    "material": "hide"
+    "material": "hide",
+    "skills": {
+        "air-resistance": 1,
+        "energy-resistance": 1
+    }
 }

@@ -5,5 +5,11 @@
     "type": "ranged-weapon",
     "dpr": 8,
     "material": "hide",
-    "skill": "thrown-weapons"
+    "skill": "thrown-weapons",
+    "skills": {
+        "attack-power": 1
+    },
+    "properties": {
+        "STAMINA": 1
+    }
 }

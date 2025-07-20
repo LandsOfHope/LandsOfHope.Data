@@ -3,5 +3,8 @@
     "id": "minions-necklace",
     "image": "5930",
     "type": "neck",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "health-regen": 1
+    }
 }

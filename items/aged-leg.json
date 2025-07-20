@@ -5,5 +5,10 @@
     "type": "1-handed-equipment",
     "dpr": 7,
     "material": "hide",
-    "skill": "maces"
+    "skill": "maces",
+    "skills": {
+        "poison-magic": 1,
+        "maces": 1,
+        "attack-power": 1
+    }
 }

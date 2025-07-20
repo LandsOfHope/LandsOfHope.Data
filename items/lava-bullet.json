@@ -4,5 +4,8 @@
     "image": "zulabu",
     "type": "ammo-weapons-bullets",
     "dpr": 3,
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "attack-power": 1
+    }
 }

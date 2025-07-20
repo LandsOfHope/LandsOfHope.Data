@@ -4,5 +4,8 @@
     "image": "zusmbu",
     "type": "ammo-weapons-bullets",
     "dpr": 69,
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "attack-power": 1
+    }
 }

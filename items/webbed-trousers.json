@@ -4,5 +4,9 @@
     "image": "2088",
     "type": "leg-armour",
     "armorType": "cloth",
-    "material": "spider"
+    "material": "spider",
+    "properties": {
+        "SPEED": 1,
+        "STRENGTH": 1
+    }
 }

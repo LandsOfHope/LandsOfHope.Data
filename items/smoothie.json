@@ -3,5 +3,8 @@
     "id": "smoothie",
     "image": "cof",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "HITPOINTS": 2
+    }
 }

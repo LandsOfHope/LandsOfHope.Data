@@ -5,5 +5,9 @@
     "type": "2-handed-equipment",
     "dpr": 5,
     "material": "metal",
-    "skill": "pole-weapons"
+    "skill": "pole-weapons",
+    "skills": {
+        "water-survival": 1,
+        "attack-power": 1
+    }
 }

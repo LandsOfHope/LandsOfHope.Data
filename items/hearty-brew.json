@@ -3,5 +3,8 @@
     "id": "hearty-brew",
     "image": "pe8",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "STAMINA": 1
+    }
 }

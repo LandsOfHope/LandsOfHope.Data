@@ -5,5 +5,8 @@
     "type": "neck-clothing",
     "armorType": "leather",
     "expansion": "jurassic-wars",
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "armor": 1
+    }
 }

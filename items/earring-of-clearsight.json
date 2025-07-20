@@ -3,5 +3,11 @@
     "id": "earring-of-clearsight",
     "image": "zueacl",
     "type": "ear-jewelry",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "detect-hidden": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

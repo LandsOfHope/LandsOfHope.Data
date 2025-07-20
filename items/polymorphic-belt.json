@@ -3,5 +3,8 @@
     "id": "polymorphic-belt",
     "image": "pbelt12",
     "type": "stomach",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

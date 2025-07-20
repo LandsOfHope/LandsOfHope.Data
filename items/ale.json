@@ -3,5 +3,8 @@
     "id": "ale",
     "image": "fealae",
     "type": "food",
-    "material": "crop"
+    "material": "crop",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

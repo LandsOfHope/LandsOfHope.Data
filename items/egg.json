@@ -3,5 +3,8 @@
     "id": "egg",
     "image": "eg2",
     "type": "rawfood",
-    "material": "bird"
+    "material": "bird",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

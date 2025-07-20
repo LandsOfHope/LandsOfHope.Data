@@ -3,5 +3,8 @@
     "id": "stone",
     "image": "ste",
     "type": "catapult-ammo",
-    "material": "stone"
+    "material": "stone",
+    "skills": {
+        "attack-power": 1
+    }
 }

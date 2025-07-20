@@ -4,5 +4,8 @@
     "image": "bcs",
     "type": "arm-armour",
     "armorType": "plate",
-    "material": "metal"
+    "material": "metal",
+    "properties": {
+        "STRENGTH": 1
+    }
 }

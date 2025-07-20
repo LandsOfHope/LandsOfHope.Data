@@ -6,5 +6,8 @@
     "legendary": true,
     "set": "frankenstein",
     "material": "hide",
-    "skill": "blood-over-beauty"
+    "skill": "blood-over-beauty",
+    "properties": {
+        "MAXSTAMINA": 0.75
+    }
 }

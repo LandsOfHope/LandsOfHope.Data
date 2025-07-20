@@ -5,5 +5,12 @@
     "type": "head-armour",
     "armorType": "cloth",
     "material": "gem",
-    "skill": "mining"
+    "skill": "mining",
+    "skills": {
+        "mining": 1,
+        "damage-absorption": 1
+    },
+    "properties": {
+        "MAXSTAMINA": 1
+    }
 }

@@ -4,5 +4,8 @@
     "image": "ta5",
     "type": "wrist-jewelry",
     "armorType": "cloth",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    }
 }

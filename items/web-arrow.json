@@ -4,5 +4,8 @@
     "image": "91",
     "type": "ammo-weapons-bows",
     "dpr": 6,
-    "material": "wood"
+    "material": "wood",
+    "skills": {
+        "attack-power": 1
+    }
 }

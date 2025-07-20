@@ -4,5 +4,9 @@
     "image": "1187",
     "type": "ear-jewelry",
     "set": "dahlia-blossom",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "INTELLIGENCE": 1,
+        "MAXMANA": 1
+    }
 }

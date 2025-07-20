@@ -4,5 +4,8 @@
     "image": "zumane",
     "type": "neck",
     "armorType": "cloth",
-    "material": "gem"
+    "material": "gem",
+    "skills": {
+        "spirit-magic": 1
+    }
 }

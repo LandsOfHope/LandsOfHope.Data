@@ -3,5 +3,11 @@
     "id": "westervale-belt",
     "image": "zuwebe",
     "type": "stomach",
-    "material": "cloth"
+    "material": "cloth",
+    "skills": {
+        "armor": 1
+    },
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

@@ -4,5 +4,10 @@
     "image": "cls",
     "type": "leg-armour",
     "armorType": "mail",
-    "material": "metal"
+    "material": "metal",
+    "skills": {
+        "h2h-defense": 1,
+        "bludgeon-defense": 1,
+        "armor": 1
+    }
 }

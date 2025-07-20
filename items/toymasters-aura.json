@@ -3,5 +3,8 @@
     "id": "toymasters-aura",
     "image": "6205",
     "type": "aura",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

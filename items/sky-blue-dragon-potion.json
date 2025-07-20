@@ -4,5 +4,8 @@
     "image": "5866",
     "type": "dragon-food-items",
     "expansion": "dragons-of-the-east",
-    "material": "gem"
+    "material": "gem",
+    "properties": {
+        "MANA": 1.5
+    }
 }

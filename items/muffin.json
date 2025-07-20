@@ -3,5 +3,8 @@
     "id": "muffin",
     "image": "zumuif",
     "type": "food",
-    "material": "berry"
+    "material": "berry",
+    "properties": {
+        "MANA": 2
+    }
 }

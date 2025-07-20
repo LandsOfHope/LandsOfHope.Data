@@ -4,5 +4,8 @@
     "image": "zudahobl",
     "type": "ring",
     "material": "metal",
-    "skill": "dark-hollow-clan"
+    "skill": "dark-hollow-clan",
+    "properties": {
+        "MAXHITPOINTS": 1
+    }
 }

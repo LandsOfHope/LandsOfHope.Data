@@ -3,5 +3,8 @@
     "id": "belt-of-speed",
     "image": "pbelt6",
     "type": "stomach",
-    "material": "hide"
+    "material": "hide",
+    "properties": {
+        "SPEED": 1
+    }
 }

@@ -3,5 +3,8 @@
     "id": "taters",
     "image": "zutaar",
     "type": "food",
-    "material": "vegetable"
+    "material": "vegetable",
+    "properties": {
+        "HITPOINTS": 1
+    }
 }

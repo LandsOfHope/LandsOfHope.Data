@@ -5,5 +5,8 @@
     "type": "hand-armour",
     "set": "cow-costume",
     "material": "cloth",
-    "skill": "artisan"
+    "skill": "artisan",
+    "skills": {
+        "farming": 1
+    }
 }
