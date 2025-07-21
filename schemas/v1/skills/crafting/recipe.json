@@ -10,10 +10,24 @@
             "$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
         },
         "item": {
-            "$ref": "/schemas/v1/items-id.gen.json"
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/items-id.gen.json"
+                },
+                {
+                    "$ref": "/schemas/v1/item.json"
+                }
+            ]
         },
         "vesselItem": {
-            "$ref": "/schemas/v1/vessel-items-id.gen.json"
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/vessel-items-id.gen.json"
+                },
+                {
+                    "$ref": "/schemas/v1/vessel-item.json"
+                }
+            ]
         },
         "image": {
             "$ref": "/schemas/v1/items-images-id.gen.json"

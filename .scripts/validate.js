@@ -223,6 +223,8 @@ const main = async function () {
     validateAll("schemas/v1/items/resource.json", "items/resources/!(*.gen).json"),
     validateAll("schemas/v1/items/item-location.json", "items/locations/!(*.gen).json"),
 
+    validateAll("schemas/v1/vessel-item.json", "vessel-items/!(*.gen).json"),
+
     validateAll("schemas/v1/items/enhancements/item-imbuement.json", "items/enhancements/imbuements/!(*.gen).json"),
     validateAll("schemas/v1/items/enhancements/item-bejewel.json", "items/enhancements/bejewels/!(*.gen).json"),
     validateAll("schemas/v1/items/enhancements/item-patch.json", "items/enhancements/patches/!(*.gen).json"),

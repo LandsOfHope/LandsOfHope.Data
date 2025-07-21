@@ -25,6 +25,7 @@ const directories = (() => {
         'items/qualities',
         'items/locations',
         'items/enhancements/*',
+        'vessel-items',
         'characters/images',
         'characters/extra-images',
         'characters/enhancements',
