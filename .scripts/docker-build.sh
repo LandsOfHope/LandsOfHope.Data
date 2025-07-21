@@ -1,1 +1,1 @@
-docker build -f ./.scripts/Dockerfile -t lohdata-local .
+docker build -f ./.scripts/Dockerfile -t lohdata-local --build-arg BUILD_VERSION=0.0.0-local .
