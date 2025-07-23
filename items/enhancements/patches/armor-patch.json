@@ -1,6 +1,6 @@
 {
     "$type": "/v1/items/enhancements/item-patch",
-    "id": "armor-patch",
+    "id": "patches/armor-patch",
     "effects": {
         "skills": {
             "armor": 0.05

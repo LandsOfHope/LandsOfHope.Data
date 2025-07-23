@@ -1,6 +1,6 @@
 {
     "$type": "/v1/items/enhancements/item-patch",
-    "id": "ladybird-pupae-patch",
+    "id": "patches/ladybird-pupae-patch",
     "effects": {
         "properties": {
             "MAXMANA": 0.05

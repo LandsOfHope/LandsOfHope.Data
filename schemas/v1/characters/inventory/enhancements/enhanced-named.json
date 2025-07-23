@@ -12,7 +12,7 @@
         "name": {
             "oneOf": [
                 {
-                    "$ref": "/schemas/v1/items-enhancements-names-id.gen.json"
+                    "$ref": "/schemas/v1/items/enhancements/names-items-enhancements-id.gen.json"
                 },
                 {
                     "$ref": "/schemas/v1/items/enhancements/item-name.json"

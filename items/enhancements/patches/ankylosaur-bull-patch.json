@@ -1,6 +1,6 @@
 {
     "$type": "/v1/items/enhancements/item-patch",
-    "id": "ankylosaur-bull-patch",
+    "id": "patches/ankylosaur-bull-patch",
     "effects": {
         "properties": {
             "MAXSTAMINA": 0.15

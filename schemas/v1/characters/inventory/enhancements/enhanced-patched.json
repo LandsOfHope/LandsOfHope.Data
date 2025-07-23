@@ -12,7 +12,7 @@
         "patch": {
             "oneOf": [
                 {
-                    "$ref": "/schemas/v1/items-enhancements-patches-id.gen.json"
+                    "$ref": "/schemas/v1/items/enhancements/patches-items-enhancements-id.gen.json"
                 },
                 {
                     "$ref": "/schemas/v1/items/enhancements/item-patch.json"

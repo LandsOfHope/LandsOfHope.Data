@@ -11,16 +11,15 @@ WORKDIR /build/.scripts
 
 COPY .scripts/package.json .scripts/package-lock.json /build/.scripts/
 RUN npm ci
-COPY .scripts /build/.scripts
 
 WORKDIR /build
 
 COPY . /build
 
-RUN node .scripts/generate_all_json
-RUN node .scripts/generate_id_schemas
-RUN node .scripts/generate_other_schemas
-RUN node .scripts/validate
+RUN node .scripts/generate_all_json.js
+RUN node .scripts/generate_id_schemas.js
+RUN node .scripts/generate_other_schemas.js
+RUN node .scripts/validate.js
 RUN node .scripts/compile_schemas.js
 RUN node .scripts/generate_api_ts.js
 RUN node .scripts/generate_search_indexes.js

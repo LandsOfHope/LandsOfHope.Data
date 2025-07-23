@@ -12,7 +12,7 @@
         "bejewel": {
             "oneOf": [
                 {
-                    "$ref": "/schemas/v1/items-enhancements-bejewels-id.gen.json"
+                    "$ref": "/schemas/v1/items/enhancements/bejewels-items-enhancements-id.gen.json"
                 },
                 {
                     "$ref": "/schemas/v1/items/enhancements/item-bejewel.json"

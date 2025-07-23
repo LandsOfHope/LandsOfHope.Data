@@ -7,7 +7,7 @@
             "const": "/v1/items/enhancements/item-bejewel"
         },
         "id": {
-            "$ref": "/schemas/v1/items-enhancements-bejewels-id.gen.json"
+            "$ref": "/schemas/v1/items/enhancements/bejewels-items-enhancements-id.gen.json"
         },
         "item": {
             "$ref": "/schemas/v1/items-id.gen.json"

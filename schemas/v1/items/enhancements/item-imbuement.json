@@ -7,7 +7,7 @@
             "const": "/v1/items/enhancements/item-imbuement"
         },
         "id": {
-            "$ref": "/schemas/v1/items-enhancements-imbuements-id.gen.json"
+            "$ref": "/schemas/v1/items/enhancements/imbuements-items-enhancements-id.gen.json"
         },
         "chance": {
             "type": "integer",
