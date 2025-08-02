@@ -1,0 +1,8 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v0/characters/character-settings-bag.json",
+    "title": "CharacterSettingsBag",
+    "enum": [
+        "bag",
+        "sellbag"
+    ]
+}
