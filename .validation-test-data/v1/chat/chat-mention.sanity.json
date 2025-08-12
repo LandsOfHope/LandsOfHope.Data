@@ -6,6 +6,14 @@
         "$type": "/v1/characters/appearance-profile",
         "name": "World",
         "title": "fighter",
-        "image": "sohuf1"
+        "image": "sohuf1",
+        "level": {
+            "primary": 1
+        },
+        "sex": "M",
+        "status": {
+            "dead": false,
+            "jailed": false
+        }
     }
 }

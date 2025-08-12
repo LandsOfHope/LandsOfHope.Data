@@ -11,7 +11,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "right-hand",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+            "character": 1,
+            "location": "right-hand"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -27,7 +31,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -43,7 +51,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "feet",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+            "character": 1,
+            "location": "feet"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -59,7 +71,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -75,7 +91,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "left-hand",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+            "character": 1,
+            "location": "left-hand"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -91,7 +111,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bonus-1",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+            "character": 1,
+            "location": "bonus-1"
+        },
         "quality": 4,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -108,7 +132,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag-slot-1",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+            "character": 1,
+            "location": "bag-slot-1"
+        },
         "quality": 3,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -125,7 +153,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "finger-1",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+            "character": 1,
+            "location": "finger-1"
+        },
         "quality": 4,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -142,7 +174,11 @@
         },
         "level": 1,
         "quantity": 3,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "quality": 3,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -158,7 +194,11 @@
         },
         "level": 1,
         "quantity": 2,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -174,7 +214,11 @@
         },
         "level": 1,
         "quantity": 120,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -190,7 +234,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "neck",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+            "character": 1,
+            "location": "neck"
+        },
         "quality": 4,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -207,7 +255,11 @@
         },
         "level": 1,
         "quantity": 30,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "quality": 3,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -223,7 +275,11 @@
         },
         "level": 1,
         "quantity": 8,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -239,7 +295,11 @@
         },
         "level": 1,
         "quantity": 4,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -255,7 +315,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "forehead",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+            "character": 1,
+            "location": "forehead"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -271,7 +335,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "hands",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+            "character": 1,
+            "location": "hands"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -287,7 +355,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -303,7 +375,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "quality": 3,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -319,7 +395,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -335,7 +415,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -351,7 +435,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "quality": 3,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -368,7 +456,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -384,7 +476,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "quality": 3,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -401,7 +497,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -417,7 +517,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "quality": 3,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -433,7 +537,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -449,7 +557,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -465,7 +577,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -481,7 +597,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -497,7 +617,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "quality": 3,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -514,7 +638,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -530,7 +658,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "quality": 3,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -546,7 +678,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -562,7 +698,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -578,7 +718,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -594,7 +738,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -610,7 +758,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -626,7 +778,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -642,7 +798,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -658,7 +818,11 @@
         },
         "level": 1,
         "quantity": 50,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -674,7 +838,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -690,7 +858,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -706,7 +878,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -722,7 +898,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -736,7 +916,11 @@
         },
         "level": 50,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -752,7 +936,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -768,7 +956,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -784,7 +976,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -800,7 +996,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -816,7 +1016,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -830,7 +1034,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -846,7 +1054,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -862,7 +1074,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -878,7 +1094,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "legs",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+            "character": 1,
+            "location": "legs"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -894,7 +1114,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "chest",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+            "character": 1,
+            "location": "chest"
+        },
         "stackHash": "0000000000000000",
         "enhancements": [
             "named",
@@ -916,7 +1140,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -932,7 +1160,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -948,7 +1180,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -964,7 +1200,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -980,7 +1220,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -996,7 +1240,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1012,7 +1260,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1028,7 +1280,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1044,7 +1300,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1060,7 +1320,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "enhancements": [
             "imbued"
@@ -1085,7 +1349,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "enhancements": [
             "patched"
@@ -1113,7 +1381,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "enhancements": [
             "patched"
@@ -1133,7 +1405,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "enhancements": [
             "guilded"
@@ -1153,7 +1429,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1169,7 +1449,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1185,7 +1469,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1201,7 +1489,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1217,7 +1509,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1233,7 +1529,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1249,7 +1549,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1265,7 +1569,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1281,7 +1589,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1297,7 +1609,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1313,7 +1629,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1329,7 +1649,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1345,7 +1669,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1361,7 +1689,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1377,7 +1709,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1393,7 +1729,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1409,7 +1749,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1425,7 +1769,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1441,7 +1789,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "tradebag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "tradebag"
+        },
         "quality": 10,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -1458,7 +1810,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "tradebag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "tradebag"
+        },
         "quality": 10,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -1475,7 +1831,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "tradebag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "tradebag"
+        },
         "quality": 10,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -1492,7 +1852,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "tradebag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "tradebag"
+        },
         "quality": 5,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -1509,7 +1873,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "tradebag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "tradebag"
+        },
         "quality": 5,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -1526,7 +1894,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "tradebag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "tradebag"
+        },
         "quality": 5,
         "stackHash": "0000000000000000",
         "actions": {}
@@ -1543,7 +1915,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1559,7 +1935,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1575,7 +1955,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1591,7 +1975,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1607,7 +1995,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1623,7 +2015,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1639,7 +2035,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1655,7 +2055,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1671,7 +2075,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1687,7 +2095,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1703,7 +2115,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1719,7 +2135,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1735,7 +2155,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1751,7 +2175,11 @@
         },
         "level": 5,
         "quantity": 50,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1767,7 +2195,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1783,7 +2215,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1799,7 +2235,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1815,7 +2255,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1831,7 +2275,11 @@
         },
         "level": 5,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1847,7 +2295,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1863,7 +2315,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1879,7 +2335,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1895,7 +2355,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1911,7 +2375,11 @@
         },
         "level": 1,
         "quantity": 50,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1927,7 +2395,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1943,7 +2415,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1959,7 +2435,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1975,7 +2455,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "sellbag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "sellbag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     },
@@ -1991,7 +2475,11 @@
         },
         "level": 1,
         "quantity": 1,
-        "location": "bag",
+        "location": {
+            "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+            "character": 1,
+            "location": "bag"
+        },
         "stackHash": "0000000000000000",
         "actions": {}
     }

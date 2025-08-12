@@ -1,15 +1,23 @@
 {
-  "actions": {
-    "talk": {
-      "$type": "/v1/characters/actions/character-action-buy-recipes",
-      "id": "frohaband-tonicbrewer"
+    "actions": {
+        "talk": {
+            "$type": "/v1/characters/actions/character-action-buy-recipes",
+            "id": "frohaband-tonicbrewer"
+        }
+    },
+    "$type": "/v1/characters/character-header",
+    "appearance": {
+        "$type": "/v1/characters/appearance-profile",
+        "name": "Frohaband Tonicbrewer",
+        "title": "alchemist",
+        "image": "hum",
+        "level": {
+            "primary": 800
+        },
+        "sex": "M",
+        "status": {
+            "dead": false,
+            "jailed": false
+        }
     }
-  },
-  "$type": "/v1/characters/character-header",
-  "appearance": {
-    "$type": "/v1/characters/appearance-profile",
-    "name": "Frohaband Tonicbrewer",
-    "title": "alchemist",
-    "image": "hum"
-  }
 }

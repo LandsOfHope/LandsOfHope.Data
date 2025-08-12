@@ -1,10 +1,10 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/items/item-location.json",
+    "$id": "https://data.landsofhope.com/schemas/v1/items/location.json",
     "title": "ItemLocation",
     "type": "object",
     "properties": {
         "$type": {
-            "const": "/v1/items/item-location"
+            "const": "/v1/items/location"
         },
         "image": {
             "type": "string"

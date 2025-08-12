@@ -1,15 +1,23 @@
 {
-  "actions": {
-    "talk": {
-      "$type": "/v1/characters/actions/character-action-buy-recipes",
-      "id": "madame-strange"
+    "actions": {
+        "talk": {
+            "$type": "/v1/characters/actions/character-action-buy-recipes",
+            "id": "madame-strange"
+        }
+    },
+    "$type": "/v1/characters/character-header",
+    "appearance": {
+        "$type": "/v1/characters/appearance-profile",
+        "name": "Madame Strange",
+        "title": "alchemist",
+        "image": "huf",
+        "level": {
+            "primary": 600
+        },
+        "sex": "F",
+        "status": {
+            "dead": false,
+            "jailed": false
+        }
     }
-  },
-  "$type": "/v1/characters/character-header",
-  "appearance": {
-    "$type": "/v1/characters/appearance-profile",
-    "name": "Madame Strange",
-    "title": "alchemist",
-    "image": "huf"
-  }
 }

@@ -291,8 +291,14 @@
         "acid-defense": {
             "ofPostfix": "Acid defense"
         },
+        "acid-magic": {
+            "ofPostfix": "Acid Magic"
+        },
         "air-defense": {
             "ofPostfix": "Air defense"
+        },
+        "air-magic": {
+            "ofPostfix": "Air Magic"
         },
         "alchemy": {
             "ofPostfix": "Alchemy"
@@ -302,6 +308,18 @@
         },
         "arcane-defense": {
             "ofPostfix": "Arcane defense"
+        },
+        "aviating": {
+            "ofPostfix": "Aviating"
+        },
+        "backstabbing": {
+            "ofPostfix": "Backstabbing"
+        },
+        "beastseeking": {
+            "ofPostfix": "Beastseeking"
+        },
+        "begging": {
+            "ofPostfix": "Begging"
         },
         "bestial-honor": {
             "ofPostfix": "Bestial Honor"
@@ -315,6 +333,12 @@
         "bestial-wisdom": {
             "ofPostfix": "Bestial Wisdom"
         },
+        "blademastery": {
+            "ofPostfix": "Blademastery"
+        },
+        "blessing": {
+            "ofPostfix": "Blessing"
+        },
         "blocking": {
             "ofPostfix": "Blocking"
         },
@@ -324,8 +348,20 @@
         "blood-taint": {
             "ofPostfix": "Blood Taint"
         },
+        "bloodseeking": {
+            "ofPostfix": "Bloodseeking"
+        },
+        "bludgeoning": {
+            "ofPostfix": "Bludgeoning"
+        },
         "blurring": {
             "ofPostfix": "Blurring"
+        },
+        "bonce-breaking": {
+            "ofPostfix": "Bonce Breaking"
+        },
+        "breeding": {
+            "ofPostfix": "Breeding"
         },
         "building": {
             "ofPostfix": "Building"
@@ -336,8 +372,38 @@
         "caring": {
             "ofPostfix": "Caring"
         },
+        "carving": {
+            "ofPostfix": "Carving"
+        },
+        "celestial-defense": {
+            "ofPostfix": "Celestial defense"
+        },
+        "celestial-magic": {
+            "ofPostfix": "Celestial Magic"
+        },
+        "channeling": {
+            "ofPostfix": "Channeling"
+        },
+        "chucking": {
+            "ofPostfix": "Chucking"
+        },
+        "cleaving": {
+            "ofPostfix": "Cleaving"
+        },
+        "cold-blood": {
+            "ofPostfix": "Cold Blood"
+        },
         "cold-defense": {
             "ofPostfix": "Cold defense"
+        },
+        "cold-magic": {
+            "ofPostfix": "Cold Magic"
+        },
+        "concealing": {
+            "ofPostfix": "Concealing"
+        },
+        "contaminating": {
+            "ofPostfix": "Contaminating"
         },
         "cooking": {
             "ofPostfix": "Cooking"
@@ -354,8 +420,35 @@
         "crafting-iv": {
             "ofPostfix": "Crafting IV"
         },
+        "crosshooting": {
+            "ofPostfix": "Crosshooting"
+        },
+        "dark-magic": {
+            "ofPostfix": "Dark Magic"
+        },
+        "deathseeking": {
+            "ofPostfix": "Deathseeking"
+        },
+        "debuffing": {
+            "ofPostfix": "Debuffing"
+        },
+        "deceiving": {
+            "ofPostfix": "Deceiving"
+        },
+        "defending": {
+            "ofPostfix": "Defending"
+        },
         "deflecting": {
             "ofPostfix": "Deflecting"
+        },
+        "demonology": {
+            "ofPostfix": "Demonology"
+        },
+        "destroying": {
+            "ofPostfix": "Destroying"
+        },
+        "detecting": {
+            "ofPostfix": "Detecting"
         },
         "dragonrage": {
             "ofPostfix": "Dragonrage"
@@ -366,14 +459,23 @@
         "drain-defense": {
             "ofPostfix": "Drain defense"
         },
+        "druid-magic": {
+            "ofPostfix": "Druid Magic"
+        },
         "ducking": {
             "ofPostfix": "Ducking"
         },
         "earth-defense": {
             "ofPostfix": "Earth defense"
         },
+        "earth-magic": {
+            "ofPostfix": "Earth Magic"
+        },
         "energy-defense": {
             "ofPostfix": "Energy defense"
+        },
+        "energy-magic": {
+            "ofPostfix": "Energy Magic"
         },
         "exploring": {
             "ofPostfix": "Exploring"
@@ -384,8 +486,14 @@
         "fire-defense": {
             "ofPostfix": "Fire defense"
         },
+        "fire-magic": {
+            "ofPostfix": "Fire Magic"
+        },
         "fishing": {
             "ofPostfix": "Fishing"
+        },
+        "fizzing": {
+            "ofPostfix": "Fizzing"
         },
         "foraging": {
             "ofPostfix": "Foraging"
@@ -399,17 +507,59 @@
         "geology": {
             "ofPostfix": "Geology"
         },
+        "healing": {
+            "ofPostfix": "Healing"
+        },
         "health": {
             "ofPostfix": "Health"
         },
+        "hell-magic": {
+            "ofPostfix": "Hell Magic"
+        },
+        "hiding": {
+            "ofPostfix": "Hiding"
+        },
+        "hunting": {
+            "ofPostfix": "Hunting"
+        },
+        "ill-gotten-gains": {
+            "ofPostfix": "Ill-gotten Gains"
+        },
+        "inscription": {
+            "ofPostfix": "Inscription"
+        },
+        "instrumentation": {
+            "ofPostfix": "Instrumentation"
+        },
+        "insurping": {
+            "ofPostfix": "Insurping"
+        },
         "intelligence": {
             "ofPostfix": "Intelligence"
+        },
+        "invading": {
+            "ofPostfix": "Invading"
+        },
+        "invoking": {
+            "ofPostfix": "Invoking"
+        },
+        "keeping": {
+            "ofPostfix": "Keeping"
         },
         "knowledge": {
             "ofPostfix": "Knowledge"
         },
         "leatherworking": {
             "ofPostfix": "Leatherworking"
+        },
+        "life-magic": {
+            "ofPostfix": "Life Magic"
+        },
+        "lobbing": {
+            "ofPostfix": "Lobbing"
+        },
+        "lockpicking": {
+            "ofPostfix": "Lockpicking"
         },
         "lumberjacking": {
             "ofPostfix": "Lumberjacking"
@@ -420,14 +570,23 @@
         "mining": {
             "ofPostfix": "Mining"
         },
+        "munitions": {
+            "ofPostfix": "Munitions"
+        },
         "mystic-resolve": {
             "ofPostfix": "Mystic Resolve"
         },
         "mystical-defense": {
             "ofPostfix": "Mystical defense"
         },
+        "myth": {
+            "ofPostfix": "Myth"
+        },
         "nature-defense": {
             "ofPostfix": "Nature defense"
+        },
+        "necromancy": {
+            "ofPostfix": "Necromancy"
         },
         "noble-belief": {
             "ofPostfix": "Noble Belief"
@@ -438,11 +597,47 @@
         "parrying": {
             "ofPostfix": "Parrying"
         },
+        "patchcrafting": {
+            "ofPostfix": "Patchcrafting"
+        },
+        "performing": {
+            "ofPostfix": "Performing"
+        },
         "pinning": {
             "ofPostfix": "Pinning"
         },
+        "pistoling": {
+            "ofPostfix": "Pistoling"
+        },
         "poison-defense": {
             "ofPostfix": "Poison defense"
+        },
+        "poison-magic": {
+            "ofPostfix": "Poison Magic"
+        },
+        "poleing": {
+            "ofPostfix": "Poleing"
+        },
+        "portal-mastery": {
+            "ofPostfix": "Portal Mastery"
+        },
+        "possessing": {
+            "ofPostfix": "Possessing"
+        },
+        "preserving": {
+            "ofPostfix": "Preserving"
+        },
+        "propelling": {
+            "ofPostfix": "Propelling"
+        },
+        "protecting": {
+            "ofPostfix": "Protecting"
+        },
+        "pugilism": {
+            "ofPostfix": "Pugilism"
+        },
+        "restoring": {
+            "ofPostfix": "Restoring"
         },
         "royal-blood": {
             "ofPostfix": "Royal Blood"
@@ -450,14 +645,35 @@
         "royal-decree": {
             "ofPostfix": "Royal Decree"
         },
+        "shadeing": {
+            "ofPostfix": "Shadeing"
+        },
+        "sharpshooting": {
+            "ofPostfix": "Sharpshooting"
+        },
+        "shielding": {
+            "ofPostfix": "Shielding"
+        },
         "skinning": {
             "ofPostfix": "Skinning"
+        },
+        "slaving": {
+            "ofPostfix": "Slaving"
+        },
+        "slicing": {
+            "ofPostfix": "Slicing"
         },
         "smithing": {
             "ofPostfix": "Smithing"
         },
+        "soul-healing": {
+            "ofPostfix": "Soul Healing"
+        },
         "speed": {
             "ofPostfix": "Speed"
+        },
+        "spirit-magic": {
+            "ofPostfix": "Spirit Magic"
         },
         "stamina": {
             "ofPostfix": "Stamina"
@@ -465,11 +681,23 @@
         "stonemasonry": {
             "ofPostfix": "Stonemasonry"
         },
+        "stout-defending": {
+            "ofPostfix": "Stout Defending"
+        },
         "strength": {
             "ofPostfix": "Strength"
         },
+        "summoning": {
+            "ofPostfix": "Summoning"
+        },
+        "surgery": {
+            "ofPostfix": "Surgery"
+        },
         "tailoring": {
             "ofPostfix": "Tailoring"
+        },
+        "taming": {
+            "ofPostfix": "Taming"
         },
         "the-abbott": {
             "ofPostfix": "the Abbott"
@@ -732,17 +960,50 @@
         "the-wizard": {
             "ofPostfix": "the Wizard"
         },
+        "thieving": {
+            "ofPostfix": "Thieving"
+        },
+        "thudding": {
+            "ofPostfix": "Thudding"
+        },
+        "thwarting": {
+            "ofPostfix": "Thwarting"
+        },
         "tinkering": {
             "ofPostfix": "Tinkering"
+        },
+        "transmigration": {
+            "ofPostfix": "Transmigration"
+        },
+        "trapping": {
+            "ofPostfix": "Trapping"
         },
         "tricking": {
             "ofPostfix": "Tricking"
         },
+        "trueshooting": {
+            "ofPostfix": "Trueshooting"
+        },
         "vengance": {
             "ofPostfix": "Vengance"
         },
+        "wandering": {
+            "ofPostfix": "Wandering"
+        },
+        "warm-blood": {
+            "ofPostfix": "Warm Blood"
+        },
+        "water-breathing": {
+            "ofPostfix": "Water Breathing"
+        },
         "water-defense": {
             "ofPostfix": "Water defense"
+        },
+        "water-magic": {
+            "ofPostfix": "Water Magic"
+        },
+        "whacking": {
+            "ofPostfix": "Whacking"
         },
         "woodworking": {
             "ofPostfix": "Woodworking"

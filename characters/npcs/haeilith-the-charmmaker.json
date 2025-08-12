@@ -1,15 +1,23 @@
 {
-  "actions": {
-    "talk": {
-      "$type": "/v1/characters/actions/character-action-buy-recipes",
-      "id": "haeilith-the-charmmaker"
+    "actions": {
+        "talk": {
+            "$type": "/v1/characters/actions/character-action-buy-recipes",
+            "id": "haeilith-the-charmmaker"
+        }
+    },
+    "$type": "/v1/characters/character-header",
+    "appearance": {
+        "$type": "/v1/characters/appearance-profile",
+        "name": "Haeilith the Charmmaker",
+        "title": "carpenter",
+        "image": "huf",
+        "level": {
+            "primary": 650
+        },
+        "sex": "F",
+        "status": {
+            "dead": false,
+            "jailed": false
+        }
     }
-  },
-  "$type": "/v1/characters/character-header",
-  "appearance": {
-    "$type": "/v1/characters/appearance-profile",
-    "name": "Haeilith the Charmmaker",
-    "title": "carpenter",
-    "image": "huf"
-  }
 }

@@ -1,15 +1,23 @@
 {
-  "actions": {
-    "talk": {
-      "$type": "/v1/characters/actions/character-action-buy-recipes",
-      "id": "nadriend-woodshaper"
+    "actions": {
+        "talk": {
+            "$type": "/v1/characters/actions/character-action-buy-recipes",
+            "id": "nadriend-woodshaper"
+        }
+    },
+    "$type": "/v1/characters/character-header",
+    "appearance": {
+        "$type": "/v1/characters/appearance-profile",
+        "name": "Nadriend Woodshaper",
+        "title": "carpenter",
+        "image": "gem",
+        "level": {
+            "primary": 350
+        },
+        "sex": "M",
+        "status": {
+            "dead": false,
+            "jailed": false
+        }
     }
-  },
-  "$type": "/v1/characters/character-header",
-  "appearance": {
-    "$type": "/v1/characters/appearance-profile",
-    "name": "Nadriend Woodshaper",
-    "title": "carpenter",
-    "image": "gem"
-  }
 }

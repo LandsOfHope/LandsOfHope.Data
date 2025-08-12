@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "names/dark-magic",
+    "effects": {
+        "skills": {
+            "dark-magic": 0.5
+        }
+    }
+}

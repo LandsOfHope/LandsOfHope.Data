@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "names/trueshooting",
+    "effects": {
+        "skills": {
+            "bows": 0.5
+        }
+    }
+}

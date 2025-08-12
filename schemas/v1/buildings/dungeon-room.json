@@ -7,7 +7,7 @@
             "const": "/v1/buildings/dungeon-room"
         },
         "id": {
-            "type": "number"
+            "$ref": "/schemas/v1/buildings/building-id.json"
         },
         "roomName": {
             "type": "string"

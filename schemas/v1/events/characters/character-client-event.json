@@ -8,6 +8,18 @@
         },
         {
             "$ref": "/schemas/v1/events/characters/character-deleted-event.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/characters/character-skills-updated-event.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/characters/inventory/inventory-items-moved-event.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/characters/inventory/inventory-items-updated-event.json"
+        },
+        {
+            "$ref": "/schemas/v1/events/characters/inventory/inventory-items-flags-updated-event.json"
         }
     ]
 }

@@ -21,6 +21,21 @@
         },
         "image": {
             "$ref": "/schemas/v1/characters-images-id.gen.json"
+        },
+        "level": {
+            "$ref": "/schemas/v1/characters/character-level.json"
+        },
+        "sex": {
+            "$ref": "/schemas/v0/characters/character-sex.json"
+        },
+        "status": {
+            "$ref": "/schemas/v1/characters/character-status.json"
+        },
+        "mount": {
+            "$ref": "/schemas/v1/characters/appearance-profile.json"
+        },
+        "possessor": {
+            "$ref": "/schemas/v1/characters/appearance-profile.json"
         }
     },
     "additionalProperties": false,
@@ -28,6 +43,9 @@
         "$type",
         "name",
         "title",
-        "image"
+        "image",
+        "level",
+        "sex",
+        "status"
     ]
 }

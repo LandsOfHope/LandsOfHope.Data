@@ -1,15 +1,23 @@
 {
-  "actions": {
-    "talk": {
-      "$type": "/v1/characters/actions/character-action-buy-recipes",
-      "id": "elvil-gand-the-wandmaker"
+    "actions": {
+        "talk": {
+            "$type": "/v1/characters/actions/character-action-buy-recipes",
+            "id": "elvil-gand-the-wandmaker"
+        }
+    },
+    "$type": "/v1/characters/character-header",
+    "appearance": {
+        "$type": "/v1/characters/appearance-profile",
+        "name": "Elvil-Gand the Wandmaker",
+        "title": "stonemason",
+        "image": "gem",
+        "level": {
+            "primary": 600
+        },
+        "sex": "M",
+        "status": {
+            "dead": false,
+            "jailed": false
+        }
     }
-  },
-  "$type": "/v1/characters/character-header",
-  "appearance": {
-    "$type": "/v1/characters/appearance-profile",
-    "name": "Elvil-Gand the Wandmaker",
-    "title": "stonemason",
-    "image": "gem"
-  }
 }

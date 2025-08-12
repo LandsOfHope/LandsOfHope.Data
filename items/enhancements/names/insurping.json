@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "names/insurping",
+    "effects": {
+        "skills": {
+            "siege-magic": 0.5
+        }
+    }
+}

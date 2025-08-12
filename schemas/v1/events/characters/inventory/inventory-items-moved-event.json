@@ -1,0 +1,38 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/events/characters/inventory/inventory-items-moved-event.json",
+    "title": "InventoryItemsMovedEvent",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/events/characters/inventory/inventory-items-moved-event"
+        },
+        "moves": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "inventoryItemId": {
+                        "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+                    },
+                    "from": {
+                        "$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
+                    },
+                    "to": {
+                        "$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
+                    }
+                },
+                "additionalProperties": false,
+                "required": [
+                    "inventoryItemId",
+                    "from",
+                    "to"
+                ]
+            }
+        }
+    },
+    "required": [
+        "$type",
+        "moves"
+    ]
+}

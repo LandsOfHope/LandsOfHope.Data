@@ -1,0 +1,9 @@
+{
+    "$type": "/v1/items/enhancements/item-name",
+    "id": "names/aviating",
+    "effects": {
+        "skills": {
+            "air-survival": 0.5
+        }
+    }
+}

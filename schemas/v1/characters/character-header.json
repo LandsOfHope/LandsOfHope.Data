@@ -9,9 +9,6 @@
         "appearance": {
             "$ref": "/schemas/v1/characters/appearance-profile.json"
         },
-        "level": {
-            "$ref": "/schemas/v1/characters/character-level.json"
-        },
         "actions": {
             "$ref": "/schemas/v1/characters/actions/character-actions.json"
         }

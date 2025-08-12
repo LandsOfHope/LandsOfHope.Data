@@ -1,0 +1,49 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/player-equippable-location.json",
+    "title": "PlayerEquippableLocation",
+    "allOf": [
+        {
+            "oneOf": [
+                {
+                    "enum": [
+                        "neck",
+                        "head",
+                        "left-hand",
+                        "right-hand",
+                        "left-ear",
+                        "right-ear",
+                        "eyes",
+                        "forehead",
+                        "chest",
+                        "stomach",
+                        "legs",
+                        "hands",
+                        "arms",
+                        "feet",
+                        "wrists",
+                        "finger-1",
+                        "finger-2",
+                        "shoulders",
+                        "guild-colors",
+                        "back",
+                        "demonstone",
+                        "aura",
+                        "ranged",
+                        "ammo",
+                        "special-1",
+                        "special-2",
+                        "bonus-1",
+                        "bonus-2",
+                        "siege"
+                    ]
+                },
+                {
+                    "$ref": "/schemas/v1/characters/inventory/character-equippable-bag-location.json"
+                }
+            ]
+        },
+        {
+            "$ref": "/schemas/v1/items-locations-id.gen.json"
+        }
+    ]
+}

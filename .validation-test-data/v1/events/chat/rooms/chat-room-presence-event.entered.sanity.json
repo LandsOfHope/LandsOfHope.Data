@@ -7,7 +7,15 @@
             "$type": "/v1/characters/appearance-profile",
             "name": "Test",
             "title": "rogue",
-            "image": "sohum1"
+            "image": "sohum1",
+            "level": {
+                "primary": 1
+            },
+            "sex": "M",
+            "status": {
+                "dead": false,
+                "jailed": false
+            }
         },
         "color": "ffffff"
     },

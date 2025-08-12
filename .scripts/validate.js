@@ -51,6 +51,8 @@ const schemasWithOptionalTypeSpecifier = [
 
   "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-item-actions.json",
 
+  "https://data.landsofhope.com/schemas/v1/characters/character-status.json",
+
   // these inventory item enhancements are meant to be mixed in with inventory items
   "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-imbued.json",
   "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-bejewelled.json",
@@ -221,7 +223,7 @@ const main = async function () {
     validateAll("schemas/v1/items/image.json", "items/images/!(*.gen).json"),
     validateAll("schemas/v1/items/material.json", "items/materials/!(*.gen).json"),
     validateAll("schemas/v1/items/resource.json", "items/resources/!(*.gen).json"),
-    validateAll("schemas/v1/items/item-location.json", "items/locations/!(*.gen).json"),
+    validateAll("schemas/v1/items/location.json", "items/locations/!(*.gen).json"),
 
     validateAll("schemas/v1/vessel-item.json", "vessel-items/!(*.gen).json"),
 
@@ -253,6 +255,7 @@ const main = async function () {
     validateNegativeTestData("v1/events/accounts/returning/returning-account-imported"),
     validateTestData("v1/events/chat/rooms/chat-room-presence-event"),
     validateTestData("v1/events/chat/messages/chat-message-sent-event"),
+    validateTestData("v1/events/characters/inventory/inventory-items-moved-event"),
     validateTestData("v1/events/any-event"),
     // validateTestData("v1/events/server-event"),
     validateTestData("v1/events/client-event"),

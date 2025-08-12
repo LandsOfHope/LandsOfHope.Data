@@ -31,19 +31,7 @@
             "minimum": 1
         },
         "location": {
-            "$ref": "/schemas/v1/items-locations-id.gen.json"
-        },
-        "bag": {
-            "enum": [
-                "bag-slot-1",
-                "bag-slot-2",
-                "bag-slot-3",
-                "bag-slot-4",
-                "bag-slot-5",
-                "bag-slot-6",
-                "bag-slot-7",
-                "bag-slot-8"
-            ]
+            "$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
         },
         "locked": {
             "type": "object",
