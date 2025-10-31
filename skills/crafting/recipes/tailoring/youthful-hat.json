@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "tailoring/youthful-hat",
-    "item": "youthful-hat",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "youthful-hat"
+    },
     "image": "4530",
     "time": "PT15S",
     "quantity": 1,

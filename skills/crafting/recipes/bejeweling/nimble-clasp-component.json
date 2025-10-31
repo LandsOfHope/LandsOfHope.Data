@@ -1,0 +1,21 @@
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "bejeweling/nimble-clasp-component",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-bejewel",
+        "item": "dual-enhancement",
+        "bejewel": "bejewels/nimble-clasp-component"
+    },
+    "image": "bdm",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "bejeweling",
+    "skillValue": 2685,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ]
+}

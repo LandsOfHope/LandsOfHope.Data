@@ -3,9 +3,10 @@
     "id": 81839,
     "character": 56694456,
     "recipient": 56694456,
-    "image": "plk",
-    "item": "plank",
-    "material": "wood",
+    "makes": {
+        "$type": "/v1/characters/queue/character-queue-product-recipe",
+        "recipe": "carpentry/plank"
+    },
     "quantity": 2,
     "level": 1,
     "xp": 220,

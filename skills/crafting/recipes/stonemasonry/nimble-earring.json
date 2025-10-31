@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "stonemasonry/nimble-earring",
-    "item": "nimble-earring",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "nimble-earring"
+    },
     "image": "266",
     "time": "PT15S",
     "quantity": 1,

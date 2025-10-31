@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "carpentry/arrow",
-    "item": "arrow",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "arrow"
+    },
     "image": "arr1",
     "time": "PT15S",
     "quantity": 20,

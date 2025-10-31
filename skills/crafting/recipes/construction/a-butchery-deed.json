@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "construction/a-butchery-deed",
-    "item": "butchery-deed",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "butchery-deed"
+    },
     "image": "1070",
     "time": "PT15S",
     "quantity": 1,

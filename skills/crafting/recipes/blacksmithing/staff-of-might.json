@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "blacksmithing/staff-of-might",
-    "item": "staff-of-might",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "staff-of-might"
+    },
     "image": "som",
     "time": "PT15S",
     "quantity": 1,

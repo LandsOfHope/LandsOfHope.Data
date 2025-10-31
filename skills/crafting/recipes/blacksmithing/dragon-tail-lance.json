@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "blacksmithing/dragon-tail-lance",
-    "item": "dragon-tail-lance",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "dragon-tail-lance"
+    },
     "image": "dtl",
     "time": "PT15S",
     "quantity": 1,

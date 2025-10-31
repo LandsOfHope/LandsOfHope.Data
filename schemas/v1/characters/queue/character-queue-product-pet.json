@@ -1,0 +1,22 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-product-pet.json",
+    "title": "CharacterQueueProductPet",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/queue/character-queue-product-pet"
+        },
+        "raceParent": {
+            "$ref": "/schemas/v1/characters/character-id.json"
+        },
+        "professionParent": {
+            "$ref": "/schemas/v1/characters/character-id.json"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "raceParent",
+        "professionParent"
+    ]
+}

@@ -13,6 +13,9 @@
         },
         {
             "$ref": "/schemas/v1/buildings/items/building-item-storage-location.json"
+        },
+        {
+            "$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-queue-locked.json"
         }
     ]
 }

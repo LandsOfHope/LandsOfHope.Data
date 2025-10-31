@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "patchcrafting/mantrap-blossom-patch",
-    "item": "mantrap-blossom-patch",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "mantrap-blossom-patch"
+    },
     "image": "gmmablpa",
     "time": "PT15S",
     "quantity": 1,

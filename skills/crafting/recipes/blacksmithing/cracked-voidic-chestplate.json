@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "blacksmithing/cracked-voidic-chestplate",
-    "item": "cracked-voidic-chestplate",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "cracked-voidic-chestplate"
+    },
     "image": "679",
     "time": "PT15S",
     "quantity": 1,

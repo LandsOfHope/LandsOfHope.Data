@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "alchemy/weak-string-tonic",
-    "item": "weak-string-tonic",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "weak-string-tonic"
+    },
     "image": "pe8",
     "time": "PT15S",
     "quantity": 1,

@@ -1,0 +1,25 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/skills/crafting/recipe-product-item.json",
+    "title": "RecipeProductItem",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/skills/crafting/recipe-product-item"
+        },
+        "item": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/item.json"
+                },
+                {
+                    "$ref": "/schemas/v1/items-id.gen.json"
+                }
+            ]
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "item"
+    ]
+}

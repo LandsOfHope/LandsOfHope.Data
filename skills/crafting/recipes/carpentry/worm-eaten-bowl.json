@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "carpentry/worm-eaten-bowl",
-    "item": "worm-eaten-bowl",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "worm-eaten-bowl"
+    },
     "image": "abl",
     "time": "PT15S",
     "quantity": 1,

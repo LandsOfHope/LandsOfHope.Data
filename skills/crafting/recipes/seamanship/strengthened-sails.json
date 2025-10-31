@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "seamanship/strengthened-sails",
-    "vesselItem": "strengthened-sails",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-vessel-item",
+        "item": "strengthened-sails"
+    },
     "image": "bw",
     "time": "PT15S",
     "quantity": 1,

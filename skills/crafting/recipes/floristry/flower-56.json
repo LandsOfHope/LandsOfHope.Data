@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "floristry/flower-56",
-    "item": "flower-56",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "flower-56"
+    },
     "image": "5794",
     "time": "PT15S",
     "quantity": 1,

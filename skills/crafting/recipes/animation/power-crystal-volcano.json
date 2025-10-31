@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "animation/power-crystal-volcano",
-    "item": "power-crystal-volcano",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "power-crystal-volcano"
+    },
     "image": "2427",
     "time": "PT15S",
     "quantity": 1,

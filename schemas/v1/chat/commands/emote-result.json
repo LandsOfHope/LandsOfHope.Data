@@ -1,0 +1,13 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/chat/commands/emote-result.json",
+    "title": "EmoteChatCommandResult",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/chat/commands/emote-result"
+        }
+    },
+    "required": [
+        "$type"
+    ]
+}

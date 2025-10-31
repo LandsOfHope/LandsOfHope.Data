@@ -1,0 +1,21 @@
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "bejeweling/carpentry-ring-coating",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-bejewel",
+        "item": "ring-enhancement",
+        "bejewel": "bejewels/carpentry-ring-coating"
+    },
+    "image": "bp1",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "bejeweling",
+    "skillValue": 210,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ]
+}

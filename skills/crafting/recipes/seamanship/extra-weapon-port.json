@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "seamanship/extra-weapon-port",
-    "vesselItem": "extra-weapon-port",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-vessel-item",
+        "item": "extra-weapon-port"
+    },
     "image": "zulaar",
     "time": "PT15S",
     "quantity": 1,

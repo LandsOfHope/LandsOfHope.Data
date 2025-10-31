@@ -6,6 +6,9 @@
         "$type": {
             "const": "/v1/items/resource"
         },
+        "id": {
+            "$ref": "/schemas/v1/items-resources-id.gen.json"
+        },
         "skill": {
             "$ref": "/schemas/v1/skills-id.gen.json"
         },
@@ -24,10 +27,16 @@
             "minItems": 1
         },
         "bonuses": {
-            "type": "array",
-            "items": {
+            "type": "object",
+            "propertyNames": {
                 "$ref": "/schemas/v1/items-id.gen.json"
-            }
+            },
+            "patternProperties": {
+                ".*": {
+                    "$ref": "/schemas/v1/random-chance.json"
+                }
+            },
+            "additionalProperties": false
         },
         "material": {
             "$ref": "/schemas/v1/items-materials-id.gen.json"
@@ -39,6 +48,7 @@
     "additionalProperties": false,
     "required": [
         "$type",
+        "id",
         "skill",
         "tools",
         "items",

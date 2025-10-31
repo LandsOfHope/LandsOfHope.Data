@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "animation/wise-medium-golem-mk-iii",
-    "item": "wise-medium-golem-mk-iii",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "wise-medium-golem-mk-iii"
+    },
     "image": "2945",
     "time": "PT15S",
     "quantity": 1,

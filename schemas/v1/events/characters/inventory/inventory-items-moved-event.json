@@ -15,18 +15,14 @@
                     "inventoryItemId": {
                         "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
                     },
-                    "from": {
-                        "$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
-                    },
-                    "to": {
-                        "$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
+                    "delta": {
+                        "$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-moved-delta.json"
                     }
                 },
                 "additionalProperties": false,
                 "required": [
                     "inventoryItemId",
-                    "from",
-                    "to"
+                    "delta"
                 ]
             }
         }

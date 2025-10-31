@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "blacksmithing/singing-valera-sword",
-    "item": "singing-valera-sword",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "singing-valera-sword"
+    },
     "image": "sw6",
     "time": "PT15S",
     "quantity": 1,

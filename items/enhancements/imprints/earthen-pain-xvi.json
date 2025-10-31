@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/items/enhancements/item-imprint",
+    "id": "imprints/earthen-pain-xvi",
+    "spell": "earthen-pain-xvi",
+    "chance": {
+        "$type": "/v1/random-chance",
+        "numer": 18,
+        "denom": 100
+    }
+}

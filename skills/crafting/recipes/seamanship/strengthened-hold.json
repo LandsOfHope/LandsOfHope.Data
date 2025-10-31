@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "seamanship/strengthened-hold",
-    "vesselItem": "strengthened-hold",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-vessel-item",
+        "item": "strengthened-hold"
+    },
     "image": "na",
     "time": "PT15S",
     "quantity": 1,

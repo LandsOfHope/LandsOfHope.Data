@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "leatherworking/cured-basinet",
-    "item": "cured-basinet",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "cured-basinet"
+    },
     "image": "496",
     "time": "PT15S",
     "quantity": 1,

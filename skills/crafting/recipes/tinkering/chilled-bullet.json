@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "tinkering/chilled-bullet",
-    "item": "chilled-bullet",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "chilled-bullet"
+    },
     "image": "zuchbu",
     "time": "PT15S",
     "quantity": 20,

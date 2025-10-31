@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "seamanship/clean-deck",
-    "vesselItem": "clean-deck",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-vessel-item",
+        "item": "clean-deck"
+    },
     "image": "na",
     "time": "PT15S",
     "quantity": 1,

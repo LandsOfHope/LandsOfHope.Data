@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "blood-over-beauty/blank-stitched-face",
-    "item": "blank-stitched-face",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "blank-stitched-face"
+    },
     "image": "6854",
     "time": "PT15S",
     "quantity": 1,

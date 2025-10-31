@@ -1,0 +1,45 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/chat/chat-command-result.json",
+    "title": "ChatCommandResult",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/chat/chat-command-result"
+        },
+        "command": {
+            "$ref": "/schemas/v1/chat/commands/chat-command.json"
+        },
+        "result": {
+            "type": "object"
+        }
+    },
+    "oneOf": [
+        {
+            "properties": {
+                "command": {
+                    "$ref": "/schemas/v1/chat/commands/clear-room-messages.json"
+                },
+                "result": {
+                    "$ref": "/schemas/v1/chat/commands/clear-room-messages-result.json"
+                }
+            }
+        },
+        {
+            "properties": {
+                "command": {
+                    "$ref": "/schemas/v1/chat/commands/emote.json"
+                },
+                "result": {
+                    "$ref": "/schemas/v1/chat/commands/emote-result.json"
+                }
+            }
+        }
+    ],
+
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "command",
+        "result"
+    ]
+}

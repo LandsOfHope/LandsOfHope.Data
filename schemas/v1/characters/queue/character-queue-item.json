@@ -7,34 +7,40 @@
             "const": "/v1/characters/queue/character-queue-item"
         },
         "id": {
-            "type": "integer"
+            "$ref": "/schemas/v1/characters/queue/character-queue-item-id.json"
         },
         "character": {
-            "type": "integer"
+            "$ref": "/schemas/v1/characters/character-id.json"
         },
         "recipient": {
-            "type": "integer"
+            "$ref": "/schemas/v1/characters/character-id.json"
         },
-        "image": {
-            "$ref": "/schemas/v1/items-images-id.gen.json"
-        },
-        "item": {
-            "$ref": "/schemas/v1/items-id.gen.json"
-        },
-        "vesselItem": {
-            "$ref": "/schemas/v1/vessel-items-id.gen.json"
+        "makes": {
+            "title": "QueueItemProduct",
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/characters/queue/character-queue-product-recipe.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/queue/character-queue-product-pet.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/queue/character-queue-product-deconstruction.json"
+                },
+                {
+                    "$ref": "/schemas/v1/characters/queue/character-queue-product-item.json"
+                }
+            ]
         },
         "quantity": {
             "type": "integer"
-        },
-        "material": {
-            "$ref": "/schemas/v1/items-materials-id.gen.json"
         },
         "level": {
             "type": "integer"
         },
         "xp": {
-            "type": "integer"
+            "type": "integer",
+            "minimum": 1
         },
         "started": {
             "$ref": "/schemas/v0/datetime.json"
@@ -54,36 +60,12 @@
         "$type",
         "id",
         "character",
-        "recipient",
-        "image",
+        "makes",
         "quantity",
         "level",
-        "xp",
         "started",
         "finished",
         "cancellable",
         "bonus"
-    ],
-    "oneOf": [
-        {
-            "properties": {
-                "vesselItem": {
-                    "$ref": "/schemas/v1/vessel-items-id.gen.json"
-                }
-            },
-            "required": [
-                "vesselItem"
-            ]
-        },
-        {
-            "properties": {
-                "item": {
-                    "$ref": "/schemas/v1/items-id.gen.json"
-                }
-            },
-            "required": [
-                "item"
-            ]
-        }
     ]
 }

@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "floristry/yellow-formal-flower-dress",
-    "item": "yellow-formal-flower-dress",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "yellow-formal-flower-dress"
+    },
     "image": "6969",
     "time": "PT15S",
     "quantity": 1,

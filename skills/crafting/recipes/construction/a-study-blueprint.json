@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "construction/a-study-blueprint",
-    "item": "study-blueprint",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "study-blueprint"
+    },
     "image": "1936",
     "time": "PT15S",
     "quantity": 1,

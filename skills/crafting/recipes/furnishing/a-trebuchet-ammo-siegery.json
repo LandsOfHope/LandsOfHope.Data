@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "furnishing/a-trebuchet-ammo-siegery",
-    "item": "trebuchet-ammo-siegery",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "trebuchet-ammo-siegery"
+    },
     "image": "bl1",
     "time": "PT15S",
     "quantity": 1,

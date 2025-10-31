@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "animation/stitched-coating",
-    "item": "stitched-coating",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "stitched-coating"
+    },
     "image": "2439",
     "time": "PT15S",
     "quantity": 1,

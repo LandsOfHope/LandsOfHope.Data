@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "artisan/cookie-costume-box",
-    "item": "cookie-costume-box",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "cookie-costume-box"
+    },
     "image": "5625",
     "time": "PT15S",
     "quantity": 1,

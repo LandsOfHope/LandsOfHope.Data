@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "cooking/steak",
-    "item": "steak",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "steak"
+    },
     "image": "zustae",
     "time": "PT15S",
     "quantity": 1,

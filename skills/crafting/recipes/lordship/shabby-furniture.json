@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "lordship/shabby-furniture",
-    "item": "shabby-furniture",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "shabby-furniture"
+    },
     "image": "6423",
     "time": "PT30S",
     "quantity": 1,

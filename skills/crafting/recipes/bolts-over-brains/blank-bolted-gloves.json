@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "bolts-over-brains/blank-bolted-gloves",
-    "item": "blank-bolted-gloves",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "blank-bolted-gloves"
+    },
     "image": "6830",
     "time": "PT15S",
     "quantity": 1,

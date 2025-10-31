@@ -1,0 +1,25 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/skills/crafting/recipe-product-vessel-item.json",
+    "title": "RecipeProductVesselItem",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/skills/crafting/recipe-product-vessel-item"
+        },
+        "item": {
+            "oneOf": [
+                {
+                    "$ref": "/schemas/v1/vessel-item.json"
+                },
+                {
+                    "$ref": "/schemas/v1/vessel-items-id.gen.json"
+                }
+            ]
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "item"
+    ]
+}

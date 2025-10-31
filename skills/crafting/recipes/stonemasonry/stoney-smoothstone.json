@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "stonemasonry/stoney-smoothstone",
-    "item": "stoney-smoothstone",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "stoney-smoothstone"
+    },
     "image": "sms",
     "time": "PT15S",
     "quantity": 20,

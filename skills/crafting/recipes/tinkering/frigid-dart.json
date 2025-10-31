@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "tinkering/frigid-dart",
-    "item": "frigid-dart",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "frigid-dart"
+    },
     "image": "drt",
     "time": "PT15S",
     "quantity": 20,

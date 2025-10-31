@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "charms-and-hexes/ring-of-arcane-insight",
-    "item": "ring-of-arcane-insight",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "ring-of-arcane-insight"
+    },
     "image": "rg2",
     "time": "PT15S",
     "quantity": 1,
@@ -9,7 +12,11 @@
     "skillValue": 500,
     "quality": "common",
     "singleUse": true,
-    "failureChance": 60,
+    "failureChance": {
+        "$type": "/v1/random-chance",
+        "numer": 60,
+        "denom": 100
+    },
     "ingredients": [
         {
             "id": "gem",

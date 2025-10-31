@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "leatherworking/molded-chaps",
-    "item": "molded-chaps",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "molded-chaps"
+    },
     "image": "4416",
     "time": "PT15S",
     "quantity": 1,

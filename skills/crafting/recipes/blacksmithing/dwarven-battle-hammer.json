@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "blacksmithing/dwarven-battle-hammer",
-    "item": "dwarven-battle-hammer",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "dwarven-battle-hammer"
+    },
     "image": "bh2",
     "time": "PT15S",
     "quantity": 1,

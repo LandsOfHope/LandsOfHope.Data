@@ -1,0 +1,8 @@
+{
+    "/v1/chat/commands/clear-room-messages": {
+        "desc": "Clears all messages from the specified chat room.",
+        "codes": {
+            "ROOM_MESSAGES_CLEARED": "All messages in the chat have been cleared."
+        }
+    }
+}

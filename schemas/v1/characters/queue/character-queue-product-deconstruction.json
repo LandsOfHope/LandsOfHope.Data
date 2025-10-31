@@ -1,0 +1,18 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-product-deconstruction.json",
+    "title": "CharacterQueueProductDeconstruction",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/queue/character-queue-product-deconstruction"
+        },
+        "recipe": {
+            "$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "$type",
+        "recipe"
+    ]
+}

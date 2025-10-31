@@ -1,1 +1,21 @@
-{"$type":"/v1/items/resource","skill":"mining","tools":["pickaxe","razarks-pickaxe"],"items":["ore"],"bonuses":["gem"],"material":"metal","image":"ore"}
+{
+    "$type": "/v1/items/resource",
+    "id": "ore",
+    "skill": "mining",
+    "tools": [
+        "pickaxe",
+        "razarks-pickaxe"
+    ],
+    "items": [
+        "ore"
+    ],
+    "bonuses": {
+        "gem": {
+            "$type": "/v1/random-chance",
+            "numer": 6,
+            "denom": 100
+        }
+    },
+    "material": "metal",
+    "image": "ore"
+}

@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "floristry/regalaire-flower",
-    "item": "regalaire-flower",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "regalaire-flower"
+    },
     "image": "5787",
     "time": "PT15S",
     "quantity": 1,

@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "tinkering/stormy-bullet",
-    "item": "stormy-bullet",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "stormy-bullet"
+    },
     "image": "zustbu",
     "time": "PT15S",
     "quantity": 20,

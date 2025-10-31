@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "tinkering/germinating-bullet",
-    "item": "germinating-bullet",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "germinating-bullet"
+    },
     "image": "4155",
     "time": "PT15S",
     "quantity": 20,

@@ -1332,7 +1332,11 @@
         "imbuement": {
             "$type": "/v1/items/enhancements/item-imbuement",
             "id": "imbuements/h2h-weakness",
-            "chance": 22,
+            "chance": {
+                "$type": "/v1/random-chance",
+                "numer": 22,
+                "denom": 100
+            },
             "spell": "gamemastery/h2h-weakness"
         },
         "actions": {}

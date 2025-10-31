@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "carpentry/bloody-cross",
-    "item": "bloody-cross",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "bloody-cross"
+    },
     "image": "cso",
     "time": "PT15S",
     "quantity": 1,

@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "bolts-over-brains/blank-bolted-helmet",
-    "item": "blank-bolted-helmet",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "blank-bolted-helmet"
+    },
     "image": "6829",
     "time": "PT15S",
     "quantity": 1,

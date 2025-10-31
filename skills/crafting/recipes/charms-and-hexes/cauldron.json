@@ -1,14 +1,21 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "charms-and-hexes/cauldron",
-    "item": "cauldron",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "cauldron"
+    },
     "image": "6168",
     "time": "PT15S",
     "quantity": 1,
     "skill": "charms-and-hexes",
     "skillValue": 500,
     "quality": "common",
-    "failureChance": 52,
+    "failureChance": {
+        "$type": "/v1/random-chance",
+        "numer": 52,
+        "denom": 100
+    },
     "ingredients": [
         {
             "id": "ingot",

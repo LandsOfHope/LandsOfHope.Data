@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "blacksmithing/balanced-mace",
-    "item": "balanced-mace",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "balanced-mace"
+    },
     "image": "cb",
     "time": "PT15S",
     "quantity": 1,

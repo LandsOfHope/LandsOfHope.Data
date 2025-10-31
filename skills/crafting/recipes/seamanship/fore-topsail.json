@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "seamanship/fore-topsail",
-    "vesselItem": "fore-topsail",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-vessel-item",
+        "item": "fore-topsail"
+    },
     "image": "zulaar",
     "time": "PT15S",
     "quantity": 1,

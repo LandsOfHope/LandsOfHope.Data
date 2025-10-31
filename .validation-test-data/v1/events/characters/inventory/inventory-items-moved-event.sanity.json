@@ -3,15 +3,18 @@
     "moves": [
         {
             "inventoryItemId": 373712500,
-            "from": {
-                "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
-                "character": 56694456,
-                "location": "sellbag"
-            },
-            "to": {
-                "$type": "/v1/buildings/items/building-item-storage-location",
-                "buildingItem": 703788,
-                "location": "storage"
+            "delta": {
+                "$type": "/v1/characters/inventory/deltas/inventory-item-moved-delta",
+                "old": {
+                    "$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+                    "character": 56694456,
+                    "location": "sellbag"
+                },
+                "new": {
+                    "$type": "/v1/buildings/items/building-item-storage-location",
+                    "buildingItem": 703788,
+                    "location": "storage"
+                }
             }
         }
     ]

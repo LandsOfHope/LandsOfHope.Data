@@ -27,8 +27,7 @@
             "minimum": 0
         },
         "quantity": {
-            "type": "integer",
-            "minimum": 1
+            "$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
         },
         "location": {
             "$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
@@ -64,14 +63,14 @@
             "$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
         },
         "nickname": {
-            "type": "string",
-            "maxLength": 30
+            "$ref": "/schemas/v1/characters/inventory/inventory-item-nickname.json"
         },
         "enhancements": {
             "type": "array",
             "items": {
                 "enum": [
                     "imbued",
+                    "imprinted",
                     "bejewelled",
                     "named",
                     "patched",
@@ -90,6 +89,7 @@
                         "items": {
                             "enum": [
                                 "imbued",
+                                "imprinted",
                                 "bejewelled",
                                 "named",
                                 "patched",
@@ -106,6 +106,9 @@
         },
         {
             "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-imbued.json"
+        },
+        {
+            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-imprinted.json"
         },
         {
             "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-bejewelled.json"

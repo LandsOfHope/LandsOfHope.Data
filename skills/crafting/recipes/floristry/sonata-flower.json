@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "floristry/sonata-flower",
-    "item": "sonata-flower",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "sonata-flower"
+    },
     "image": "5753",
     "time": "PT15S",
     "quantity": 1,

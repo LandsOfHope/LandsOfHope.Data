@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "artisan/artisan-tool",
-    "item": "artisan-tool",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "artisan-tool"
+    },
     "image": "hr2",
     "time": "PT15S",
     "quantity": 1,

@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "carpentry/moldering-bowl",
-    "item": "moldering-bowl",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "moldering-bowl"
+    },
     "image": "abl",
     "time": "PT15S",
     "quantity": 1,

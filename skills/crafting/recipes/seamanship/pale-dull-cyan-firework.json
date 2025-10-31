@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "seamanship/pale-dull-cyan-firework",
-    "item": "firework",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "firework"
+    },
     "image": "fpaledullcy",
     "time": "PT15S",
     "quantity": 5,

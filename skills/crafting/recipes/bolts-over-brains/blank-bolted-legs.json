@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "bolts-over-brains/blank-bolted-legs",
-    "item": "blank-bolted-legs",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "blank-bolted-legs"
+    },
     "image": "6833",
     "time": "PT15S",
     "quantity": 1,

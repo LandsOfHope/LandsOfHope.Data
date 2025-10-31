@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "animation/small-shell",
-    "item": "small-shell",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "small-shell"
+    },
     "image": "2423",
     "time": "PT15S",
     "quantity": 1,

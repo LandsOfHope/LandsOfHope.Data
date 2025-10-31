@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "patchcrafting/frenzied-raptor-patch",
-    "item": "frenzied-raptor-patch",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "frenzied-raptor-patch"
+    },
     "image": "gmfrrapa",
     "time": "PT15S",
     "quantity": 1,

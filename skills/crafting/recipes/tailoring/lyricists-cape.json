@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "tailoring/lyricists-cape",
-    "item": "lyricists-cape",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "lyricists-cape"
+    },
     "image": "cob",
     "time": "PT15S",
     "quantity": 1,

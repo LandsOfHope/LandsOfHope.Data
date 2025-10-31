@@ -1,0 +1,21 @@
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "bejeweling/fortified-clip-component",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-bejewel",
+        "item": "dual-enhancement",
+        "bejewel": "bejewels/fortified-clip-component"
+    },
+    "image": "ccr",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "bejeweling",
+    "skillValue": 765,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ]
+}

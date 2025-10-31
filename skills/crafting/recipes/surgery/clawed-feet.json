@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "surgery/clawed-feet",
-    "item": "clawed-feet",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "clawed-feet"
+    },
     "image": "192",
     "time": "PT15S",
     "quantity": 1,

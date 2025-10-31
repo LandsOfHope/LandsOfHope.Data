@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "tinkering/battered-amulet",
-    "item": "battered-amulet",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "battered-amulet"
+    },
     "image": "bda",
     "time": "PT15S",
     "quantity": 1,

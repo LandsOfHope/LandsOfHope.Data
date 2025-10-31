@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "blacksmithing/spine-of-the-beast",
-    "item": "spine-of-the-beast",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "spine-of-the-beast"
+    },
     "image": "bes",
     "time": "PT15S",
     "quantity": 1,

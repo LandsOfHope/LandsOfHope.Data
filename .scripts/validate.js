@@ -55,6 +55,7 @@ const schemasWithOptionalTypeSpecifier = [
 
   // these inventory item enhancements are meant to be mixed in with inventory items
   "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-imbued.json",
+  "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-imprinted.json",
   "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-bejewelled.json",
   "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-named.json",
   "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-patched.json",

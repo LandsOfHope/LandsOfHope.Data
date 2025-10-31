@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "alchemy/veins-of-ice-potion",
-    "item": "veins-of-ice-potion",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "veins-of-ice-potion"
+    },
     "image": "pe8",
     "time": "PT15S",
     "quantity": 2,

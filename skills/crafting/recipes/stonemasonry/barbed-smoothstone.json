@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "stonemasonry/barbed-smoothstone",
-    "item": "barbed-smoothstone",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "barbed-smoothstone"
+    },
     "image": "sms",
     "time": "PT15S",
     "quantity": 20,

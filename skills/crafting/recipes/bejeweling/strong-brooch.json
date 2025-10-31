@@ -1,0 +1,21 @@
+{
+    "$type": "/v1/skills/crafting/recipe",
+    "id": "bejeweling/strong-brooch",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-bejewel",
+        "item": "dual-enhancement",
+        "bejewel": "bejewels/strong-brooch"
+    },
+    "image": "togem2",
+    "time": "PT15S",
+    "quantity": 1,
+    "skill": "bejeweling",
+    "skillValue": 4605,
+    "quality": "common",
+    "ingredients": [
+        {
+            "id": "pearl",
+            "quantity": 1
+        }
+    ]
+}

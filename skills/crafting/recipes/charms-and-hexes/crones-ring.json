@@ -1,14 +1,21 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "charms-and-hexes/crones-ring",
-    "item": "crones-ring",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "crones-ring"
+    },
     "image": "6162",
     "time": "PT15S",
     "quantity": 1,
     "skill": "charms-and-hexes",
     "skillValue": 750,
     "quality": "common",
-    "failureChance": 60,
+    "failureChance": {
+        "$type": "/v1/random-chance",
+        "numer": 60,
+        "denom": 100
+    },
     "ingredients": [
         {
             "id": "ingot",

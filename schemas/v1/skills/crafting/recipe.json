@@ -9,25 +9,8 @@
         "id": {
             "$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
         },
-        "item": {
-            "oneOf": [
-                {
-                    "$ref": "/schemas/v1/items-id.gen.json"
-                },
-                {
-                    "$ref": "/schemas/v1/item.json"
-                }
-            ]
-        },
-        "vesselItem": {
-            "oneOf": [
-                {
-                    "$ref": "/schemas/v1/vessel-items-id.gen.json"
-                },
-                {
-                    "$ref": "/schemas/v1/vessel-item.json"
-                }
-            ]
+        "makes": {
+            "$ref": "/schemas/v1/skills/crafting/recipe-product.json"
         },
         "image": {
             "$ref": "/schemas/v1/items-images-id.gen.json"
@@ -53,9 +36,7 @@
             "const": true
         },
         "failureChance": {
-            "type": "integer",
-            "minimum": 1,
-            "maximum": 100
+            "$ref": "/schemas/v1/random-chance.json"
         },
         "ingredients": {
             "type": "array",
@@ -85,34 +66,13 @@
         "$type",
         "id",
         "image",
+        "makes",
         "time",
         "quantity",
         "skill",
         "skillValue",
         "quality",
         "ingredients"
-    ],
-    "oneOf": [
-        {
-            "properties": {
-                "vesselItem": {
-                    "$ref": "/schemas/v1/vessel-items-id.gen.json"
-                }
-            },
-            "required": [
-                "vesselItem"
-            ]
-        },
-        {
-            "properties": {
-                "item": {
-                    "$ref": "/schemas/v1/items-id.gen.json"
-                }
-            },
-            "required": [
-                "item"
-            ]
-        }
     ],
     "additionalProperties": false
 }

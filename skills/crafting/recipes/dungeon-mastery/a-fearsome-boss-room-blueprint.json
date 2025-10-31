@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "dungeon-mastery/a-fearsome-boss-room-blueprint",
-    "item": "fearsome-boss-room-blueprint",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "fearsome-boss-room-blueprint"
+    },
     "image": "1936",
     "time": "PT15S",
     "quantity": 1,

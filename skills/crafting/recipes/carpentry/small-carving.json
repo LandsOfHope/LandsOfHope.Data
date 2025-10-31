@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "carpentry/small-carving",
-    "item": "small-carving",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "small-carving"
+    },
     "image": "brk",
     "time": "PT15S",
     "quantity": 1,

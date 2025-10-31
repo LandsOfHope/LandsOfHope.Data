@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "furnishing/tanning-rack",
-    "item": "tanning-rack",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "tanning-rack"
+    },
     "image": "5553",
     "time": "PT15S",
     "quantity": 1,

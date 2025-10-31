@@ -1,0 +1,22 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/deltas/inventory-item-moved-delta.json",
+    "title": "CharacterInventoryItemMovedDelta",
+    "type": "object",
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/inventory/deltas/inventory-item-moved-delta"
+        },
+        "old": {
+            "$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
+        },
+        "new": {
+            "$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
+        }
+    },
+    "required": [
+        "$type",
+        "old",
+        "new"
+    ],
+    "additionalProperties": false
+}

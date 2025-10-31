@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "blacksmithing/encrusted-chestplate",
-    "item": "encrusted-chestplate",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "encrusted-chestplate"
+    },
     "image": "727",
     "time": "PT15S",
     "quantity": 1,

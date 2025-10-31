@@ -1,0 +1,10 @@
+{
+    "$type": "/v1/items/enhancements/item-imprint",
+    "id": "imprints/burning-pain-x",
+    "spell": "burning-pain-x",
+    "chance": {
+        "$type": "/v1/random-chance",
+        "numer": 12,
+        "denom": 100
+    }
+}

@@ -1,7 +1,10 @@
 {
     "$type": "/v1/skills/crafting/recipe",
     "id": "carpentry/grief",
-    "item": "grief",
+    "makes": {
+        "$type": "/v1/skills/crafting/recipe-product-item",
+        "item": "grief"
+    },
     "image": "3212",
     "time": "PT600S",
     "quantity": 1,
