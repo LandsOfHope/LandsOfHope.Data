@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "diseased-wand",
-    "image": "wand04",
-    "type": "1-handed-equipment",
-    "dpr": 9,
-    "material": "stone",
-    "skill": "staves",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "diseased-wand",
+	"image": "wand04",
+	"type": "1-handed-equipment",
+	"dpr": 9,
+	"material": "stone",
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

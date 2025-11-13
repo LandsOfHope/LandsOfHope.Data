@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/childsbane-viii",
-    "requirements": {
-        "skill": 400,
-        "level": 701,
-        "mana": 8
-    },
-    "duration": "PT23M",
-    "effects": {
-        "skills": {
-            "earth-resistance": 800
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/childsbane-viii",
+	"requirements": {
+		"skill": 400,
+		"level": 701,
+		"mana": 8
+	},
+	"duration": "PT23M",
+	"effects": {
+		"skills": {
+			"earth-resistance": 800
+		}
+	}
 }

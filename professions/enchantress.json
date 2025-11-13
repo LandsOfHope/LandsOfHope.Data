@@ -1,28 +1,28 @@
 {
-    "$type": "/v1/profession",
-    "id": "enchantress",
-    "name": {
-        "en": "Enchantress"
-    },
-    "desc": {
-        "en": "The Enchantress is a Tier I evolution from the Hag Profession."
-    },
-    "skills": {
-        "two-handed-staves": 5,
-        "armor": 5,
-        "attack-power": 5,
-        "enchanted-weapons": 5,
-        "charms-and-hexes": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 2,
-        "MAXMANA": 2,
-        "MAXSTAMINA": 2,
-        "STRENGTH": 2
-    },
-    "evo": {
-        "temptress": 350
-    }
+	"$type": "/v1/profession",
+	"id": "enchantress",
+	"name": {
+		"en": "Enchantress"
+	},
+	"desc": {
+		"en": "The Enchantress is a Tier I evolution from the Hag Profession."
+	},
+	"skills": {
+		"two-handed-staves": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"enchanted-weapons": 5,
+		"charms-and-hexes": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"STRENGTH": 2
+	},
+	"evo": {
+		"temptress": 350
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/man-food-v",
-    "requirements": {
-        "skill": 250,
-        "level": 901,
-        "mana": 5
-    },
-    "duration": "PT305M",
-    "effects": {
-        "skills": {
-            "armor": 500
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/man-food-v",
+	"requirements": {
+		"skill": 250,
+		"level": 901,
+		"mana": 5
+	},
+	"duration": "PT305M",
+	"effects": {
+		"skills": {
+			"armor": 500
+		}
+	}
 }

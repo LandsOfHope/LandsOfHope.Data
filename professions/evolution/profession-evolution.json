@@ -1,114 +1,114 @@
 {
-    "$type": "/v1/professions/profession-evolution-graph",
-    "edges": [
-        ["archer", "scout"],
-        ["archer", "trooper"],
-        ["archer", "tracker"],
+	"$type": "/v1/professions/profession-evolution-graph",
+	"edges": [
+		["archer", "scout"],
+		["archer", "trooper"],
+		["archer", "tracker"],
 
-        ["scout", "beastmaster"],
-        ["beastmaster", "ranger"],
+		["scout", "beastmaster"],
+		["beastmaster", "ranger"],
 
-        ["trooper", "sharpshooter"],
-        ["sharpshooter", "bombadier"],
+		["trooper", "sharpshooter"],
+		["sharpshooter", "bombadier"],
 
-        ["tracker", "hunter"],
-        ["hunter", "beastlord"],
+		["tracker", "hunter"],
+		["hunter", "beastlord"],
 
-        ["caster", "invoker"],
-        ["caster", "mage"],
-        ["caster", "shaman"],
+		["caster", "invoker"],
+		["caster", "mage"],
+		["caster", "shaman"],
 
-        ["invoker", "summoner"],
-        ["summoner", "warlock"],
+		["invoker", "summoner"],
+		["summoner", "warlock"],
 
-        ["mage", "elementalist"],
-        ["elementalist", "wizard"],
-        
-        ["shaman", "necromancer"],
-        ["necromancer", "dark-lord"],
+		["mage", "elementalist"],
+		["elementalist", "wizard"],
 
-        ["fighter", "squire"],
-        ["fighter", "warrior"],
-        ["fighter", "grunt"],
+		["shaman", "necromancer"],
+		["necromancer", "dark-lord"],
 
-        ["squire", "knight"],
-        ["knight", "paladin"],
+		["fighter", "squire"],
+		["fighter", "warrior"],
+		["fighter", "grunt"],
 
-        ["warrior", "berserker"],
-        ["berserker", "warlord"],
+		["squire", "knight"],
+		["knight", "paladin"],
 
-        ["grunt", "soldier"],
-        ["soldier", "veteran"],
+		["warrior", "berserker"],
+		["berserker", "warlord"],
 
-        ["healer", "cleric"],
-        ["healer", "friar"],
-        ["healer", "protector"],
+		["grunt", "soldier"],
+		["soldier", "veteran"],
 
-        ["cleric", "priest"],
-        ["priest", "arch-priest"],
+		["healer", "cleric"],
+		["healer", "friar"],
+		["healer", "protector"],
 
-        ["friar", "monk"],
-        ["monk", "abbot"],
+		["cleric", "priest"],
+		["priest", "arch-priest"],
 
-        ["protector", "templar"],
-        ["templar", "crusader"],
+		["friar", "monk"],
+		["monk", "abbot"],
 
-        ["rogue", "pickpocket"],
-        ["rogue", "shadowstalker"],
-        ["rogue", "trickster"],
+		["protector", "templar"],
+		["templar", "crusader"],
 
-        ["pickpocket", "thief"],
-        ["thief", "crimelord"],
+		["rogue", "pickpocket"],
+		["rogue", "shadowstalker"],
+		["rogue", "trickster"],
 
-        ["shadowstalker", "assassin"],
-        ["assassin", "killer"],
+		["pickpocket", "thief"],
+		["thief", "crimelord"],
 
-        ["trickster", "deceiver"],
-        ["deceiver", "bard"],
+		["shadowstalker", "assassin"],
+		["assassin", "killer"],
 
-        ["hermit", "diviner"],
-        ["diviner", "warden"],
-        ["warden", "druid"],
+		["trickster", "deceiver"],
+		["deceiver", "bard"],
 
-        ["salvager", "adventurer"],
-        ["adventurer", "treasure-hunter"],
-        ["treasure-hunter", "archaeologist"],
+		["hermit", "diviner"],
+		["diviner", "warden"],
+		["warden", "druid"],
 
-        ["hag", "enchantress"],
-        ["enchantress", "temptress"],
-        ["temptress", "witch"],
+		["salvager", "adventurer"],
+		["adventurer", "treasure-hunter"],
+		["treasure-hunter", "archaeologist"],
 
-        ["rancher", "spy"],
-        ["rancher", "conscript"],
+		["hag", "enchantress"],
+		["enchantress", "temptress"],
+		["temptress", "witch"],
 
-        ["spy", "denshi"],
-        ["denshi", "ninja"],
+		["rancher", "spy"],
+		["rancher", "conscript"],
 
-        ["conscript", "samurai"],
-        ["samurai", "shogun"],
+		["spy", "denshi"],
+		["denshi", "ninja"],
 
-        ["stargazer", "stardreamer"],
-        ["stardreamer", "starchaser"],
-        ["starchaser", "star-catcher"],
+		["conscript", "samurai"],
+		["samurai", "shogun"],
 
-        ["league-privateer", "buccaneer"],
-        ["buccaneer", "raider"],
-        ["raider", "pirate"],
+		["stargazer", "stardreamer"],
+		["stardreamer", "starchaser"],
+		["starchaser", "star-catcher"],
 
-        ["navy-privateer", "sailor"],
-        ["sailor", "swashbuckler"],
-        ["swashbuckler", "pirate-hunter"],
+		["league-privateer", "buccaneer"],
+		["buccaneer", "raider"],
+		["raider", "pirate"],
 
-        ["apprentice", "novice"],
-        ["novice", "adept"],
-        ["adept", "master"],
+		["navy-privateer", "sailor"],
+		["sailor", "swashbuckler"],
+		["swashbuckler", "pirate-hunter"],
 
-        ["animator", "shaper"],
-        ["shaper", "manipulator"],
-        ["manipulator", "geomancer"],
+		["apprentice", "novice"],
+		["novice", "adept"],
+		["adept", "master"],
 
-        ["inventor", "junker"],
-        ["junker", "clockwork"],
-        ["clockwork", "war-machine"]
-    ]
+		["animator", "shaper"],
+		["shaper", "manipulator"],
+		["manipulator", "geomancer"],
+
+		["inventor", "junker"],
+		["junker", "clockwork"],
+		["clockwork", "war-machine"]
+	]
 }

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/items/enhancements/item-bejewel",
-    "id": "bejewels/mining-earring-jewel",
-    "item": "earring-enhancement",
-    "skillValue": 2100,
-    "ingredients": [
-        {
-            "id": "pearl",
-            "quantity": 1
-        }
-    ],
-    "effects": {
-        "skills": {
-            "mining": 1
-        }
-    }
+	"$type": "/v1/items/enhancements/item-bejewel",
+	"id": "bejewels/mining-earring-jewel",
+	"item": "earring-enhancement",
+	"skillValue": 2100,
+	"ingredients": [
+		{
+			"id": "pearl",
+			"quantity": 1
+		}
+	],
+	"effects": {
+		"skills": {
+			"mining": 1
+		}
+	}
 }

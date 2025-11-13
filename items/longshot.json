@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "longshot",
-    "image": "4989",
-    "type": "ranged-weapon",
-    "dpr": 8,
-    "material": "metal",
-    "skill": "bows",
-    "skills": {
-        "bows": 1,
-        "detect-hidden": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "longshot",
+	"image": "4989",
+	"type": "ranged-weapon",
+	"dpr": 8,
+	"material": "metal",
+	"skill": "bows",
+	"skills": {
+		"bows": 1,
+		"detect-hidden": 1,
+		"attack-power": 1
+	}
 }

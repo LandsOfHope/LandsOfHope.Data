@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-deadly-headsmasher",
-    "image": "bm",
-    "type": "2-handed-equipment",
-    "dpr": 73,
-    "material": "metal",
-    "skill": "two-handed-maces",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-deadly-headsmasher",
+	"image": "bm",
+	"type": "2-handed-equipment",
+	"dpr": 73,
+	"material": "metal",
+	"skill": "two-handed-maces",
+	"skills": {
+		"attack-power": 1
+	}
 }

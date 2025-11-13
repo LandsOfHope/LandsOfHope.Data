@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "legendary-mortar",
-    "image": "4915",
-    "type": "ranged-weapon",
-    "dpr": 120,
-    "legendary": true,
-    "material": "metal",
-    "skill": "heavy-munitions",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "legendary-mortar",
+	"image": "4915",
+	"type": "ranged-weapon",
+	"dpr": 120,
+	"legendary": true,
+	"material": "metal",
+	"skill": "heavy-munitions",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXSTAMINA": 1
+	}
 }

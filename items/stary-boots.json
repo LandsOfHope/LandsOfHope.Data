@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "stary-boots",
-    "image": "3098",
-    "type": "foot-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "stary-boots",
+	"image": "3098",
+	"type": "foot-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

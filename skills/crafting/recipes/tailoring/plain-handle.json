@@ -1,21 +1,21 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "tailoring/plain-handle",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "plain-handle"
-    },
-    "image": "feplha",
-    "time": "PT15S",
-    "quantity": 1,
-    "skill": "tailoring",
-    "skillValue": 5,
-    "quality": "common",
-    "ingredients": [
-        {
-            "id": "hide",
-            "quantity": 1,
-            "primary": true
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "tailoring/plain-handle",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "plain-handle"
+	},
+	"image": "feplha",
+	"time": "PT15S",
+	"quantity": 1,
+	"skill": "tailoring",
+	"skillValue": 5,
+	"quality": "common",
+	"ingredients": [
+		{
+			"id": "hide",
+			"quantity": 1,
+			"primary": true
+		}
+	]
 }

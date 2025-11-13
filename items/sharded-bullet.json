@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "sharded-bullet",
-    "image": "zushbu",
-    "type": "ammo-weapons-bullets",
-    "dpr": 90,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "sharded-bullet",
+	"image": "zushbu",
+	"type": "ammo-weapons-bullets",
+	"dpr": 90,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

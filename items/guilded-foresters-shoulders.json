@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-foresters-shoulders",
-    "image": "3875",
-    "type": "shoulders",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-foresters-shoulders",
+	"image": "3875",
+	"type": "shoulders",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

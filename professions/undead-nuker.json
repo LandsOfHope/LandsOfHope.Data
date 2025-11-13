@@ -1,24 +1,24 @@
 {
-    "$type": "/v1/profession",
-    "id": "undead-nuker",
-    "name": {
-        "en": "Undead Nuker"
-    },
-    "desc": {
-        "en": "An ancient mage."
-    },
-    "skills": {
-        "energy-magic": 5,
-        "mana-draining": 5,
-        "health-stealing": 5,
-        "energy-resistance": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 4,
-        "MAXMANA": 3,
-        "SPEED": 3
-    }
+	"$type": "/v1/profession",
+	"id": "undead-nuker",
+	"name": {
+		"en": "Undead Nuker"
+	},
+	"desc": {
+		"en": "An ancient mage."
+	},
+	"skills": {
+		"energy-magic": 5,
+		"mana-draining": 5,
+		"health-stealing": 5,
+		"energy-resistance": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 4,
+		"MAXMANA": 3,
+		"SPEED": 3
+	}
 }

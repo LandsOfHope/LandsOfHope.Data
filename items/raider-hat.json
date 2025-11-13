@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "raider-hat",
-    "image": "5236",
-    "type": "head-armour",
-    "armorType": "leather",
-    "expansion": "uncharted-waters",
-    "material": "cloth",
-    "skill": "pirate-league",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "raider-hat",
+	"image": "5236",
+	"type": "head-armour",
+	"armorType": "leather",
+	"expansion": "uncharted-waters",
+	"material": "cloth",
+	"skill": "pirate-league",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

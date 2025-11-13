@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "minions-bindings",
-    "image": "5923",
-    "type": "shoulders",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "minions-bindings",
+	"image": "5923",
+	"type": "shoulders",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

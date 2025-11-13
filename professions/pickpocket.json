@@ -1,28 +1,28 @@
 {
-    "$type": "/v1/profession",
-    "id": "pickpocket",
-    "name": {
-        "en": "Pickpocket"
-    },
-    "desc": {
-        "en": "The Pickpocket is a Tier I evolution from the Rogue Profession, while keeping all of the Rogues abilities the Pickpocket also gains the ability to use <b>Disguise</b> and to <b>Steal</b>.<br><br> As with the Rogue the Pickpocket can use Daggers, Fists and Thrown Weapons."
-    },
-    "skills": {
-        "stealth": 5,
-        "stealing": 5,
-        "disguise": 5,
-        "lockpicking": 5,
-        "dual-wielding": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "MAXHITPOINTS": 2,
-        "MAXSTAMINA": 2,
-        "SPEED": 2
-    },
-    "evo": {
-        "thief": 350
-    }
+	"$type": "/v1/profession",
+	"id": "pickpocket",
+	"name": {
+		"en": "Pickpocket"
+	},
+	"desc": {
+		"en": "The Pickpocket is a Tier I evolution from the Rogue Profession, while keeping all of the Rogues abilities the Pickpocket also gains the ability to use <b>Disguise</b> and to <b>Steal</b>.<br><br> As with the Rogue the Pickpocket can use Daggers, Fists and Thrown Weapons."
+	},
+	"skills": {
+		"stealth": 5,
+		"stealing": 5,
+		"disguise": 5,
+		"lockpicking": 5,
+		"dual-wielding": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"MAXHITPOINTS": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2
+	},
+	"evo": {
+		"thief": 350
+	}
 }

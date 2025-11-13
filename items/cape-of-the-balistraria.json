@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "cape-of-the-balistraria",
-    "image": "cob",
-    "type": "neck-clothing",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "cape-of-the-balistraria",
+	"image": "cob",
+	"type": "neck-clothing",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"attack-power": 1
+	}
 }

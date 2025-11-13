@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "air-magic/strengthening-wits",
-    "requirements": {
-        "skill": 321,
-        "mana": 321
-    },
-    "duration": "PT500M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 161
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "air-magic/strengthening-wits",
+	"requirements": {
+		"skill": 321,
+		"mana": 321
+	},
+	"duration": "PT500M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 161
+		}
+	}
 }

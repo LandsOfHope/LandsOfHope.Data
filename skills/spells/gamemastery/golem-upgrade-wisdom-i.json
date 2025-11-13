@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/golem-upgrade-wisdom-i",
-    "requirements": {
-        "skill": 1,
-        "mana": 1
-    },
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 4
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/golem-upgrade-wisdom-i",
+	"requirements": {
+		"skill": 1,
+		"mana": 1
+	},
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 4
+		}
+	}
 }

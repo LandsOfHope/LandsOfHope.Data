@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "legendary-blunderbuss",
-    "image": "re2",
-    "type": "2-handed-equipment",
-    "dpr": 120,
-    "legendary": true,
-    "material": "metal",
-    "skill": "two-handed-guns",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "legendary-blunderbuss",
+	"image": "re2",
+	"type": "2-handed-equipment",
+	"dpr": 120,
+	"legendary": true,
+	"material": "metal",
+	"skill": "two-handed-guns",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "kurts-swashbuckling-sash",
-    "image": "5514",
-    "type": "stomach",
-    "armorType": "leather",
-    "expansion": "uncharted-waters",
-    "material": "hide",
-    "skill": "pirate-league",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "kurts-swashbuckling-sash",
+	"image": "5514",
+	"type": "stomach",
+	"armorType": "leather",
+	"expansion": "uncharted-waters",
+	"material": "hide",
+	"skill": "pirate-league",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1
+	}
 }

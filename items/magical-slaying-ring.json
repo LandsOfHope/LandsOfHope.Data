@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "magical-slaying-ring",
-    "image": "6909",
-    "type": "ring",
-    "material": "gem",
-    "properties": {
-        "INTELLIGENCE": 1.1,
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "magical-slaying-ring",
+	"image": "6909",
+	"type": "ring",
+	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1.1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1
+	}
 }

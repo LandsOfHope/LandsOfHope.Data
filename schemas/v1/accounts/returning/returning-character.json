@@ -1,42 +1,42 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/accounts/returning/returning-character.json",
-    "title": "ReturningCharacter",
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {
-        "$type": {
-            "const": "/v1/accounts/returning/returning-character"
-        },
-        "name": {
-            "type": "string"
-        },
-        "race": {
-            "$ref": "/schemas/v1/races-id.gen.json"
-        },
-        "profession": {
-            "$ref": "/schemas/v1/professions-id.gen.json"
-        },
-        "sex": {
-            "$ref": "/schemas/v0/characters/character-sex.json"
-        },
-        "currentImage": {
-            "$ref": "/schemas/v1/characters-images-id.gen.json"
-        },
-        "importableImages": {
-            "type": "array",
-            "uniqueItems": true,
-            "items": {
-                "$ref": "/schemas/v1/characters-images-id.gen.json"
-            }
-        }
-    },
-    "required": [
-        "$type",
-        "name",
-        "race",
-        "profession",
-        "sex",
-        "currentImage",
-        "importableImages"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/accounts/returning/returning-character.json",
+	"title": "ReturningCharacter",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/accounts/returning/returning-character"
+		},
+		"name": {
+			"type": "string"
+		},
+		"race": {
+			"$ref": "/schemas/v1/races-id.gen.json"
+		},
+		"profession": {
+			"$ref": "/schemas/v1/professions-id.gen.json"
+		},
+		"sex": {
+			"$ref": "/schemas/v0/characters/character-sex.json"
+		},
+		"currentImage": {
+			"$ref": "/schemas/v1/characters-images-id.gen.json"
+		},
+		"importableImages": {
+			"type": "array",
+			"uniqueItems": true,
+			"items": {
+				"$ref": "/schemas/v1/characters-images-id.gen.json"
+			}
+		}
+	},
+	"required": [
+		"$type",
+		"name",
+		"race",
+		"profession",
+		"sex",
+		"currentImage",
+		"importableImages"
+	]
 }

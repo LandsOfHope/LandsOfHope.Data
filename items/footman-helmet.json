@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "footman-helmet",
-    "image": "2377",
-    "type": "head-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "footman-helmet",
+	"image": "2377",
+	"type": "head-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

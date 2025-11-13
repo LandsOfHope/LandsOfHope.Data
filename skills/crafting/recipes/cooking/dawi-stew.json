@@ -1,29 +1,29 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "cooking/dawi-stew",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "dawi-stew"
-    },
-    "image": "stw.jpg",
-    "time": "PT15S",
-    "quantity": 1,
-    "skill": "cooking",
-    "skillValue": 4750,
-    "quality": "common",
-    "ingredients": [
-        {
-            "id": "snake-venom",
-            "quantity": 1
-        },
-        {
-            "id": "side-of-meat",
-            "quantity": 1,
-            "primary": true
-        },
-        {
-            "id": "firegland",
-            "quantity": 1
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "cooking/dawi-stew",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "dawi-stew"
+	},
+	"image": "stw.jpg",
+	"time": "PT15S",
+	"quantity": 1,
+	"skill": "cooking",
+	"skillValue": 4750,
+	"quality": "common",
+	"ingredients": [
+		{
+			"id": "snake-venom",
+			"quantity": 1
+		},
+		{
+			"id": "side-of-meat",
+			"quantity": 1,
+			"primary": true
+		},
+		{
+			"id": "firegland",
+			"quantity": 1
+		}
+	]
 }

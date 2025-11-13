@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "splintchain-vest",
-    "image": "cv1",
-    "type": "chest-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "bladed-defense": 1,
-        "stringed-defense": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "splintchain-vest",
+	"image": "cv1",
+	"type": "chest-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"bladed-defense": 1,
+		"stringed-defense": 1,
+		"armor": 1
+	}
 }

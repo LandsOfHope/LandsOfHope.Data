@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "infamous-musket",
-    "image": "re3",
-    "type": "2-handed-equipment",
-    "dpr": 82,
-    "material": "metal",
-    "skill": "two-handed-guns",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "infamous-musket",
+	"image": "re3",
+	"type": "2-handed-equipment",
+	"dpr": 82,
+	"material": "metal",
+	"skill": "two-handed-guns",
+	"skills": {
+		"attack-power": 1
+	}
 }

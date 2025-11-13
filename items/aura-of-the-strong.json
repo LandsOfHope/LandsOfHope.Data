@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "aura-of-the-strong",
-    "image": "6695",
-    "type": "aura",
-    "material": "gem",
-    "properties": {
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "aura-of-the-strong",
+	"image": "6695",
+	"type": "aura",
+	"material": "gem",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "leech-demon",
-    "name": {
-        "en": "Leech Demon"
-    },
-    "desc": {
-        "en": "A demon that steals the life (health) of the enemy."
-    },
-    "skills": {
-        "health-stealing": 5,
-        "armor": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 4
-    }
+	"$type": "/v1/profession",
+	"id": "leech-demon",
+	"name": {
+		"en": "Leech Demon"
+	},
+	"desc": {
+		"en": "A demon that steals the life (health) of the enemy."
+	},
+	"skills": {
+		"health-stealing": 5,
+		"armor": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 4
+	}
 }

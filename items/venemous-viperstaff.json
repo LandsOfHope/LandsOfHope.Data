@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "venemous-viperstaff",
-    "image": "st1",
-    "type": "2-handed-equipment",
-    "dpr": 11,
-    "material": "gem",
-    "skill": "staves",
-    "skills": {
-        "staves": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "venemous-viperstaff",
+	"image": "st1",
+	"type": "2-handed-equipment",
+	"dpr": 11,
+	"material": "gem",
+	"skill": "staves",
+	"skills": {
+		"staves": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

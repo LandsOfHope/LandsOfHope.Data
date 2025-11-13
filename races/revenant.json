@@ -1,22 +1,18 @@
 {
-    "name": {
-        "en": "Revenant"
-    },
-    "desc": {
-        "en": ""
-    },
-    "appr": {
-        "en": ""
-    },
-    "hist": {
-        "en": ""
-    },
-    "pics": {
-        "M": [
-            "sc1"
-        ],
-        "F": [
-            "sc2"
-        ]
-    }
+	"name": {
+		"en": "Revenant"
+	},
+	"desc": {
+		"en": ""
+	},
+	"appr": {
+		"en": ""
+	},
+	"hist": {
+		"en": ""
+	},
+	"pics": {
+		"M": ["sc1"],
+		"F": ["sc2"]
+	}
 }

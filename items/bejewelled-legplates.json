@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "bejewelled-legplates",
-    "image": "2281",
-    "type": "leg-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "bejewelled-legplates",
+	"image": "2281",
+	"type": "leg-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

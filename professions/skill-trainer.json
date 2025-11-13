@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "skill-trainer",
-    "name": {
-        "en": "Skill Trainer"
-    },
-    "desc": {
-        "en": "Trains players in skills"
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 4
-    }
+	"$type": "/v1/profession",
+	"id": "skill-trainer",
+	"name": {
+		"en": "Skill Trainer"
+	},
+	"desc": {
+		"en": "Trains players in skills"
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 4
+	}
 }

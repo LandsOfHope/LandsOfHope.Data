@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"tracking","titles":{"500":"criminal-seeker","2500":"criminal-finder","5000":"criminal-tracker"}}
+{
+	"$type": "/v1/skill",
+	"group": "tracking",
+	"titles": {
+		"500": "criminal-seeker",
+		"2500": "criminal-finder",
+		"5000": "criminal-tracker"
+	}
+}

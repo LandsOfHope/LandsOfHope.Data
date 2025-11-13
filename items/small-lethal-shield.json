@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "small-lethal-shield",
-    "image": "sd7",
-    "type": "1-handed-equipment",
-    "dpr": 62,
-    "material": "wood",
-    "skill": "shields",
-    "skills": {
-        "air-resistance": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "small-lethal-shield",
+	"image": "sd7",
+	"type": "1-handed-equipment",
+	"dpr": 62,
+	"material": "wood",
+	"skill": "shields",
+	"skills": {
+		"air-resistance": 1,
+		"armor": 1
+	}
 }

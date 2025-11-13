@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "blessed-plate",
-    "image": "2302",
-    "type": "chest-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "blessed-plate",
+	"image": "2302",
+	"type": "chest-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

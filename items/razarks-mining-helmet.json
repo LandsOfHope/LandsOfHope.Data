@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "razarks-mining-helmet",
-    "image": "5028",
-    "type": "head-armour",
-    "armorType": "cloth",
-    "material": "gem",
-    "skill": "mining",
-    "skills": {
-        "mining": 1,
-        "damage-absorption": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "razarks-mining-helmet",
+	"image": "5028",
+	"type": "head-armour",
+	"armorType": "cloth",
+	"material": "gem",
+	"skill": "mining",
+	"skills": {
+		"mining": 1,
+		"damage-absorption": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

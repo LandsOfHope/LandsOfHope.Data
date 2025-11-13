@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/orcish-male-iii",
-    "requirements": {
-        "skill": 439,
-        "mana": 439
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 220
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/orcish-male-iii",
+	"requirements": {
+		"skill": 439,
+		"mana": 439
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 220
+		}
+	}
 }

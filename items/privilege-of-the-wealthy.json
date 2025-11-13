@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "privilege-of-the-wealthy",
-    "image": "5887",
-    "type": "exile-symbol",
-    "material": "gem",
-    "skills": {
-        "experience-bonus": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "privilege-of-the-wealthy",
+	"image": "5887",
+	"type": "exile-symbol",
+	"material": "gem",
+	"skills": {
+		"experience-bonus": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "elven-longbow",
-    "image": "bw3",
-    "type": "ranged-weapon",
-    "dpr": 5,
-    "material": "wood",
-    "skill": "bows",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "elven-longbow",
+	"image": "bw3",
+	"type": "ranged-weapon",
+	"dpr": 5,
+	"material": "wood",
+	"skill": "bows",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

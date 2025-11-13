@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "cracked-voidic-legs",
-    "image": "682",
-    "type": "leg-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "DEXTERITY": 1
-    }
+	"$type": "/v1/item",
+	"id": "cracked-voidic-legs",
+	"image": "682",
+	"type": "leg-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"DEXTERITY": 1
+	}
 }

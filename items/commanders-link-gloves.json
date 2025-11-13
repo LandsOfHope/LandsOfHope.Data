@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "commanders-link-gloves",
-    "image": "2638",
-    "type": "hand-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "commanders-link-gloves",
+	"image": "2638",
+	"type": "hand-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

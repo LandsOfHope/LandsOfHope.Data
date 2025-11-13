@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "apocalyptical-taint",
-    "image": "6733",
-    "type": "2-handed-equipment",
-    "dpr": 140,
-    "material": "color",
-    "skill": "martial-arts",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "apocalyptical-taint",
+	"image": "6733",
+	"type": "2-handed-equipment",
+	"dpr": 140,
+	"material": "color",
+	"skill": "martial-arts",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

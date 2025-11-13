@@ -1,25 +1,25 @@
 {
-    "$type": "/v1/profession",
-    "id": "gamemaster",
-    "name": {
-        "en": "Gamemaster"
-    },
-    "desc": {
-        "en": "One who controls the world."
-    },
-    "skills": {
-        "daggers": 5,
-        "fists": 5,
-        "gamemastery": 5,
-        "gm-magic": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 2,
-        "MAXMANA": 2,
-        "MAXSTAMINA": 2,
-        "SPEED": 2,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "gamemaster",
+	"name": {
+		"en": "Gamemaster"
+	},
+	"desc": {
+		"en": "One who controls the world."
+	},
+	"skills": {
+		"daggers": 5,
+		"fists": 5,
+		"gamemastery": 5,
+		"gm-magic": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	}
 }

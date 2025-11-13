@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"crafting","titles":{"500":"novice-patchcrafter","2500":"grand-patchcrafter","5000":"master-patchcrafter"}}
+{
+	"$type": "/v1/skill",
+	"group": "crafting",
+	"titles": {
+		"500": "novice-patchcrafter",
+		"2500": "grand-patchcrafter",
+		"5000": "master-patchcrafter"
+	}
+}

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "arthurs-ring",
-    "image": "6914",
-    "type": "ring",
-    "set": "arthurian-set",
-    "material": "gem",
-    "properties": {
-        "DEXTERITY": 0.5,
-        "MAXHITPOINTS": 1.2,
-        "MAXSTAMINA": 1.2,
-        "SPEED": 0.5,
-        "STRENGTH": 0.5
-    }
+	"$type": "/v1/item",
+	"id": "arthurs-ring",
+	"image": "6914",
+	"type": "ring",
+	"set": "arthurian-set",
+	"material": "gem",
+	"properties": {
+		"DEXTERITY": 0.5,
+		"MAXHITPOINTS": 1.2,
+		"MAXSTAMINA": 1.2,
+		"SPEED": 0.5,
+		"STRENGTH": 0.5
+	}
 }

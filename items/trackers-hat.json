@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "trackers-hat",
-    "image": "2910",
-    "type": "head-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "trackers-hat",
+	"image": "2910",
+	"type": "head-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

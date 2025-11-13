@@ -1,30 +1,30 @@
 {
-    "$type": "/v1/profession",
-    "id": "devourer-of-might",
-    "name": {
-        "en": "Devourer of Might"
-    },
-    "desc": {
-        "en": "This ancient demon was born from the deepest parts of the Hell Plane. It feeds on might, devouring the strengths and fears of all it encounters."
-    },
-    "skills": {
-        "frenzy": 3,
-        "stamina-regen": 1,
-        "gun-defense": 12,
-        "fire-resistance": 3,
-        "bladed-defense": 12,
-        "projectile-defense": 12,
-        "h2h-defense": 12,
-        "bludgeon-defense": 12,
-        "stringed-defense": 12,
-        "two-handed-swords": 9,
-        "pole-defense": 12,
-        "armor": 4
-    },
-    "properties": {
-        "DEXTERITY": 4,
-        "MAXHITPOINTS": 15,
-        "MAXSTAMINA": 9,
-        "STRENGTH": 7
-    }
+	"$type": "/v1/profession",
+	"id": "devourer-of-might",
+	"name": {
+		"en": "Devourer of Might"
+	},
+	"desc": {
+		"en": "This ancient demon was born from the deepest parts of the Hell Plane. It feeds on might, devouring the strengths and fears of all it encounters."
+	},
+	"skills": {
+		"frenzy": 3,
+		"stamina-regen": 1,
+		"gun-defense": 12,
+		"fire-resistance": 3,
+		"bladed-defense": 12,
+		"projectile-defense": 12,
+		"h2h-defense": 12,
+		"bludgeon-defense": 12,
+		"stringed-defense": 12,
+		"two-handed-swords": 9,
+		"pole-defense": 12,
+		"armor": 4
+	},
+	"properties": {
+		"DEXTERITY": 4,
+		"MAXHITPOINTS": 15,
+		"MAXSTAMINA": 9,
+		"STRENGTH": 7
+	}
 }

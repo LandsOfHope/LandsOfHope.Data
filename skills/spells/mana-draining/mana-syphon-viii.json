@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "mana-draining/mana-syphon-viii",
-    "requirements": {
-        "skill": 442,
-        "mana": 442
-    },
-    "duration": "PT25M",
-    "effects": {
-        "damage": 109,
-        "properties": {
-            "MANA": -216
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "mana-draining/mana-syphon-viii",
+	"requirements": {
+		"skill": 442,
+		"mana": 442
+	},
+	"duration": "PT25M",
+	"effects": {
+		"damage": 109,
+		"properties": {
+			"MANA": -216
+		}
+	}
 }

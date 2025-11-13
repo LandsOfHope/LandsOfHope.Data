@@ -1,22 +1,16 @@
 {
-    "$type": "/v1/items/resource",
-    "id": "crop",
-    "skill": "farming",
-    "tools": [
-        "scythe",
-        "crop-basket",
-        "harvestor-knife"
-    ],
-    "items": [
-        "crop"
-    ],
-    "bonuses": {
-        "fiber": {
-            "$type": "/v1/random-chance",
-            "numer": 6,
-            "denom": 100
-        }
-    },
-    "material": "crop",
-    "image": "cro"
+	"$type": "/v1/items/resource",
+	"id": "crop",
+	"skill": "farming",
+	"tools": ["scythe", "crop-basket", "harvestor-knife"],
+	"items": ["crop"],
+	"bonuses": {
+		"fiber": {
+			"$type": "/v1/random-chance",
+			"numer": 6,
+			"denom": 100
+		}
+	},
+	"material": "crop",
+	"image": "cro"
 }

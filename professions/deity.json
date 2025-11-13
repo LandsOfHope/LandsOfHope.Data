@@ -1,23 +1,23 @@
 {
-    "$type": "/v1/profession",
-    "id": "deity",
-    "name": {
-        "en": "Deity"
-    },
-    "desc": {
-        "en": "The ruler of a religion."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 5,
-        "MAXMANA": 1,
-        "MAXSTAMINA": 3,
-        "SPEED": 3,
-        "STRENGTH": 3
-    }
+	"$type": "/v1/profession",
+	"id": "deity",
+	"name": {
+		"en": "Deity"
+	},
+	"desc": {
+		"en": "The ruler of a religion."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 5,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 3,
+		"SPEED": 3,
+		"STRENGTH": 3
+	}
 }

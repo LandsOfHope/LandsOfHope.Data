@@ -1,22 +1,18 @@
 {
-    "name": {
-        "en": "Skaven"
-    },
-    "desc": {
-        "en": ""
-    },
-    "appr": {
-        "en": ""
-    },
-    "hist": {
-        "en": ""
-    },
-    "pics": {
-        "M": [
-            "sk1"
-        ],
-        "F": [
-            "sk2"
-        ]
-    }
+	"name": {
+		"en": "Skaven"
+	},
+	"desc": {
+		"en": ""
+	},
+	"appr": {
+		"en": ""
+	},
+	"hist": {
+		"en": ""
+	},
+	"pics": {
+		"M": ["sk1"],
+		"F": ["sk2"]
+	}
 }

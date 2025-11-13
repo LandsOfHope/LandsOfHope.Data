@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "charms-and-hexes/bloodtainting-pox-vi",
-    "requirements": {
-        "skill": 4000,
-        "mana": 3900
-    },
-    "duration": "PT4M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": -1450
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "charms-and-hexes/bloodtainting-pox-vi",
+	"requirements": {
+		"skill": 4000,
+		"mana": 3900
+	},
+	"duration": "PT4M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": -1450
+		}
+	}
 }

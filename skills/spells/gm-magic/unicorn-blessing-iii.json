@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/unicorn-blessing-iii",
-    "requirements": {
-        "skill": 701,
-        "mana": 701
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 351
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/unicorn-blessing-iii",
+	"requirements": {
+		"skill": 701,
+		"mana": 701
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 351
+		}
+	}
 }

@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "dragon-food",
-    "image": "5859",
-    "type": "dragon-food-items",
-    "expansion": "dragons-of-the-east",
-    "material": "gem",
-    "properties": {
-        "HITPOINTS": 0.5
-    }
+	"$type": "/v1/item",
+	"id": "dragon-food",
+	"image": "5859",
+	"type": "dragon-food-items",
+	"expansion": "dragons-of-the-east",
+	"material": "gem",
+	"properties": {
+		"HITPOINTS": 0.5
+	}
 }

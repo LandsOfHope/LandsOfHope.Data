@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"social","titles":{"500":"novice-beggar","2500":"adept-beggar","5000":"master-beggar"}}
+{
+	"$type": "/v1/skill",
+	"group": "social",
+	"titles": {
+		"500": "novice-beggar",
+		"2500": "adept-beggar",
+		"5000": "master-beggar"
+	}
+}

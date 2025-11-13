@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "freezing-dart",
-    "image": "drt",
-    "type": "ammo-weapons-darts",
-    "dpr": 53,
-    "material": "wood",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "freezing-dart",
+	"image": "drt",
+	"type": "ammo-weapons-darts",
+	"dpr": 53,
+	"material": "wood",
+	"skills": {
+		"attack-power": 1
+	}
 }

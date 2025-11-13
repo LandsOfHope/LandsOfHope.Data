@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "minions-club",
-    "image": "cb",
-    "type": "2-handed-equipment",
-    "dpr": 2,
-    "material": "wood",
-    "skill": "two-handed-maces",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "minions-club",
+	"image": "cb",
+	"type": "2-handed-equipment",
+	"dpr": 2,
+	"material": "wood",
+	"skill": "two-handed-maces",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

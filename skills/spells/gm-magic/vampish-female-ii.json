@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/vampish-female-ii",
-    "requirements": {
-        "skill": 364,
-        "mana": 364
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 183
-        },
-        "skills": {
-            "armor": 183
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/vampish-female-ii",
+	"requirements": {
+		"skill": 364,
+		"mana": 364
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 183
+		},
+		"skills": {
+			"armor": 183
+		}
+	}
 }

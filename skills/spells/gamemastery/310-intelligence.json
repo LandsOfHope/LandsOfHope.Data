@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/310-intelligence",
-    "requirements": {
-        "skill": 3100,
-        "level": 620,
-        "mana": 62
-    },
-    "duration": "PT60M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 310
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/310-intelligence",
+	"requirements": {
+		"skill": 3100,
+		"level": 620,
+		"mana": 62
+	},
+	"duration": "PT60M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 310
+		}
+	}
 }

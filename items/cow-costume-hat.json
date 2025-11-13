@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "cow-costume-hat",
-    "image": "arhat",
-    "type": "head-armour",
-    "material": "hide",
-    "skill": "artisan",
-    "skills": {
-        "farming": 1
-    }
+	"$type": "/v1/item",
+	"id": "cow-costume-hat",
+	"image": "arhat",
+	"type": "head-armour",
+	"material": "hide",
+	"skill": "artisan",
+	"skills": {
+		"farming": 1
+	}
 }

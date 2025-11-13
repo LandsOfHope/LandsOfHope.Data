@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/werewolf-male-i",
-    "requirements": {
-        "skill": 205,
-        "mana": 205
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 103
-        },
-        "skills": {
-            "attack-power": 103
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/werewolf-male-i",
+	"requirements": {
+		"skill": 205,
+		"mana": 205
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 103
+		},
+		"skills": {
+			"attack-power": 103
+		}
+	}
 }

@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "bejewelled-link-gloves",
-    "image": "2633",
-    "type": "hand-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "bejewelled-link-gloves",
+	"image": "2633",
+	"type": "hand-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

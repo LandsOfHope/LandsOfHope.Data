@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/bad-belly-berries-iii",
-    "requirements": {
-        "skill": 150,
-        "level": 501,
-        "mana": 3
-    },
-    "duration": "PT303M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": -900
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/bad-belly-berries-iii",
+	"requirements": {
+		"skill": 150,
+		"level": 501,
+		"mana": 3
+	},
+	"duration": "PT303M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": -900
+		}
+	}
 }

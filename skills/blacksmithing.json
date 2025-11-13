@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"crafting","titles":{"500":"novice-blacksmith","2500":"adept-blacksmith","5000":"master-blacksmith"}}
+{
+	"$type": "/v1/skill",
+	"group": "crafting",
+	"titles": {
+		"500": "novice-blacksmith",
+		"2500": "adept-blacksmith",
+		"5000": "master-blacksmith"
+	}
+}

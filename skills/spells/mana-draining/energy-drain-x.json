@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "mana-draining/energy-drain-x",
-    "requirements": {
-        "skill": 4726,
-        "mana": 4726
-    },
-    "duration": "PT25M",
-    "effects": {
-        "damage": 109,
-        "properties": {
-            "MANA": -2358
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "mana-draining/energy-drain-x",
+	"requirements": {
+		"skill": 4726,
+		"mana": 4726
+	},
+	"duration": "PT25M",
+	"effects": {
+		"damage": 109,
+		"properties": {
+			"MANA": -2358
+		}
+	}
 }

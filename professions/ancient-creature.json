@@ -1,23 +1,23 @@
 {
-    "$type": "/v1/profession",
-    "id": "ancient-creature",
-    "name": {
-        "en": "Ancient Creature"
-    },
-    "desc": {
-        "en": "An ancient creature."
-    },
-    "skills": {
-        "frenzy": 5,
-        "fists": 5,
-        "h2h-defense": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 3,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "ancient-creature",
+	"name": {
+		"en": "Ancient Creature"
+	},
+	"desc": {
+		"en": "An ancient creature."
+	},
+	"skills": {
+		"frenzy": 5,
+		"fists": 5,
+		"h2h-defense": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 3,
+		"STRENGTH": 2
+	}
 }

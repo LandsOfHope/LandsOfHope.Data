@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "guild-tourney-host",
-    "name": {
-        "en": "Guild Tourney Host"
-    },
-    "desc": {
-        "en": "The master of Guild Tourneys"
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 3,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "guild-tourney-host",
+	"name": {
+		"en": "Guild Tourney Host"
+	},
+	"desc": {
+		"en": "The master of Guild Tourneys"
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 3,
+		"STRENGTH": 2
+	}
 }

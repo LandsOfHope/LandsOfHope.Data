@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "royal-shoulder-pads",
-    "image": "3264",
-    "type": "shoulders",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "royal-shoulder-pads",
+	"image": "3264",
+	"type": "shoulders",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

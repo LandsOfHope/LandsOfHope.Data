@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "healing-magic/life-drain-xiv",
-    "requirements": {
-        "skill": 1951,
-        "mana": 1951
-    },
-    "duration": "PT25M",
-    "effects": {
-        "damage": 1380,
-        "properties": {
-            "HITPOINTS": 980
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "healing-magic/life-drain-xiv",
+	"requirements": {
+		"skill": 1951,
+		"mana": 1951
+	},
+	"duration": "PT25M",
+	"effects": {
+		"damage": 1380,
+		"properties": {
+			"HITPOINTS": 980
+		}
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "tanned-basinet",
-    "image": "498",
-    "type": "head-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "tanned-basinet",
+	"image": "498",
+	"type": "head-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

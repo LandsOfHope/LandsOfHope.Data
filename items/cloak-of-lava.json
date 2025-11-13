@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "cloak-of-lava",
-    "image": "zuclla",
-    "type": "neck-clothing",
-    "material": "cloth",
-    "skills": {
-        "fire-magic": 1,
-        "fire-survival": 1,
-        "fire-resistance": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "cloak-of-lava",
+	"image": "zuclla",
+	"type": "neck-clothing",
+	"material": "cloth",
+	"skills": {
+		"fire-magic": 1,
+		"fire-survival": 1,
+		"fire-resistance": 1,
+		"armor": 1
+	}
 }

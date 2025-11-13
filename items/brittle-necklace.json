@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "brittle-necklace",
-    "image": "btn",
-    "type": "neck",
-    "armorType": "cloth",
-    "material": "gem",
-    "skills": {
-        "poison-resistance": 1,
-        "arcane-resistance": 1
-    }
+	"$type": "/v1/item",
+	"id": "brittle-necklace",
+	"image": "btn",
+	"type": "neck",
+	"armorType": "cloth",
+	"material": "gem",
+	"skills": {
+		"poison-resistance": 1,
+		"arcane-resistance": 1
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "exquisite-discharge",
-    "image": "6631",
-    "type": "1-handed-equipment",
-    "dpr": 140,
-    "material": "metal",
-    "skill": "hand-guns",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "SPEED": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "exquisite-discharge",
+	"image": "6631",
+	"type": "1-handed-equipment",
+	"dpr": 140,
+	"material": "metal",
+	"skill": "hand-guns",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	}
 }

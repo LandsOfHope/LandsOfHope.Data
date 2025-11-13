@@ -1,20 +1,20 @@
 {
-    "$type": "/v1/profession",
-    "id": "bounty-master",
-    "name": {
-        "en": "Bounty Master"
-    },
-    "desc": {
-        "en": "A person responsible for handling bounty and the assignment of criminal capture."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 2,
-        "SPEED": 1
-    }
+	"$type": "/v1/profession",
+	"id": "bounty-master",
+	"name": {
+		"en": "Bounty Master"
+	},
+	"desc": {
+		"en": "A person responsible for handling bounty and the assignment of criminal capture."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 2,
+		"SPEED": 1
+	}
 }

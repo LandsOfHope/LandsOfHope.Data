@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "youthful-hat",
-    "image": "4530",
-    "type": "head-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "youthful-hat",
+	"image": "4530",
+	"type": "head-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

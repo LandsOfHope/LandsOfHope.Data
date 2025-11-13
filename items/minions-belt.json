@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "minions-belt",
-    "image": "5927",
-    "type": "stomach",
-    "material": "cloth",
-    "skills": {
-        "stamina-regen": 1
-    }
+	"$type": "/v1/item",
+	"id": "minions-belt",
+	"image": "5927",
+	"type": "stomach",
+	"material": "cloth",
+	"skills": {
+		"stamina-regen": 1
+	}
 }

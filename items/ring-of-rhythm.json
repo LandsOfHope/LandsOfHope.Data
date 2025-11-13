@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-rhythm",
-    "image": "torirh",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "instruments": 1,
-        "singing": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-rhythm",
+	"image": "torirh",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"instruments": 1,
+		"singing": 1
+	}
 }

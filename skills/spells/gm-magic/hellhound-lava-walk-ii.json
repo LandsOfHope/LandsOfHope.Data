@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/hellhound-lava-walk-ii",
-    "requirements": {
-        "skill": 358,
-        "mana": 358
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "fire-survival": 180
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/hellhound-lava-walk-ii",
+	"requirements": {
+		"skill": 358,
+		"mana": 358
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"fire-survival": 180
+		}
+	}
 }

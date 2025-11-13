@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "reinforced-plate-boots",
-    "image": "2316",
-    "type": "foot-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "reinforced-plate-boots",
+	"image": "2316",
+	"type": "foot-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

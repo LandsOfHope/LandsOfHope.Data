@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "hearty-brew",
-    "image": "pe8",
-    "type": "food",
-    "material": "crop",
-    "properties": {
-        "STAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "hearty-brew",
+	"image": "pe8",
+	"type": "food",
+	"material": "crop",
+	"properties": {
+		"STAMINA": 1
+	}
 }

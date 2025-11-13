@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "cooked-crab",
-    "image": "gmcocr",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "HITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "cooked-crab",
+	"image": "gmcocr",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"HITPOINTS": 1
+	}
 }

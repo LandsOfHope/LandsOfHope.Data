@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "vampiric-wand",
-    "image": "wand02",
-    "type": "1-handed-equipment",
-    "dpr": 12,
-    "material": "wood",
-    "skill": "staves",
-    "skills": {
-        "health-stealing": 1,
-        "poison-magic": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "vampiric-wand",
+	"image": "wand02",
+	"type": "1-handed-equipment",
+	"dpr": 12,
+	"material": "wood",
+	"skill": "staves",
+	"skills": {
+		"health-stealing": 1,
+		"poison-magic": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

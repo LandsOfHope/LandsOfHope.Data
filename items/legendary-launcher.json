@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "legendary-launcher",
-    "image": "4914",
-    "type": "ranged-weapon",
-    "dpr": 120,
-    "legendary": true,
-    "material": "metal",
-    "skill": "heavy-munitions",
-    "skills": {
-        "heavy-munitions": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "legendary-launcher",
+	"image": "4914",
+	"type": "ranged-weapon",
+	"dpr": 120,
+	"legendary": true,
+	"material": "metal",
+	"skill": "heavy-munitions",
+	"skills": {
+		"heavy-munitions": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "blank-bolted-boots",
-    "image": "6831",
-    "type": "foot-armour",
-    "set": "inventor-bolted-set",
-    "material": "metal",
-    "skill": "bolts-over-brains",
-    "skills": {
-        "armor": 0.5
-    }
+	"$type": "/v1/item",
+	"id": "blank-bolted-boots",
+	"image": "6831",
+	"type": "foot-armour",
+	"set": "inventor-bolted-set",
+	"material": "metal",
+	"skill": "bolts-over-brains",
+	"skills": {
+		"armor": 0.5
+	}
 }

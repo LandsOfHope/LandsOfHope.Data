@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "reinforced-armchains",
-    "image": "2734",
-    "type": "arm-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "reinforced-armchains",
+	"image": "2734",
+	"type": "arm-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

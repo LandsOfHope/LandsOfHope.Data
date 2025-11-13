@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "recruits-helmet",
-    "image": "gmxrh1",
-    "type": "head-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "recruits-helmet",
+	"image": "gmxrh1",
+	"type": "head-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

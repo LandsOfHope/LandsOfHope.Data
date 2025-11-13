@@ -1,30 +1,30 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-user-redemption-char-enhancement.json",
-    "title": "CreditHistoryUserRedemptionCharEnhancement",
-    "type": "object",
-    "allOf": [
-        {
-            "$ref": "/schemas/v1/payments/credits/credit-history.json"
-        }
-    ],
-    "properties": {
-        "$type": {
-            "const": "/v1/payments/credits/credit-history-user-redemption-char-enhancement"
-        },
-        "enhancementCharacterId": {
-            "type": "integer"
-        },
-        "enhancementType": {
-            "$ref": "/schemas/v1/characters-enhancements-id.gen.json"
-        },
-        "enhancementLevel": {
-            "type": "integer"
-        }
-    },
-    "required": [
-        "$type",
-        "enhancementCharacterId",
-        "enhancementType",
-        "enhancementLevel"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-user-redemption-char-enhancement.json",
+	"title": "CreditHistoryUserRedemptionCharEnhancement",
+	"type": "object",
+	"allOf": [
+		{
+			"$ref": "/schemas/v1/payments/credits/credit-history.json"
+		}
+	],
+	"properties": {
+		"$type": {
+			"const": "/v1/payments/credits/credit-history-user-redemption-char-enhancement"
+		},
+		"enhancementCharacterId": {
+			"type": "integer"
+		},
+		"enhancementType": {
+			"$ref": "/schemas/v1/characters-enhancements-id.gen.json"
+		},
+		"enhancementLevel": {
+			"type": "integer"
+		}
+	},
+	"required": [
+		"$type",
+		"enhancementCharacterId",
+		"enhancementType",
+		"enhancementLevel"
+	]
 }

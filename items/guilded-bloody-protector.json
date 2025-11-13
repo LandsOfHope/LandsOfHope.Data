@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-bloody-protector",
-    "image": "sd7",
-    "type": "1-handed-equipment",
-    "dpr": 53,
-    "material": "wood",
-    "skill": "shields",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-bloody-protector",
+	"image": "sd7",
+	"type": "1-handed-equipment",
+	"dpr": 53,
+	"material": "wood",
+	"skill": "shields",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

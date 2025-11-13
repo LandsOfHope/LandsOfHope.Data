@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "blistering-wand",
-    "image": "wand08",
-    "type": "1-handed-equipment",
-    "dpr": 63,
-    "material": "stone",
-    "skill": "staves",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "blistering-wand",
+	"image": "wand08",
+	"type": "1-handed-equipment",
+	"dpr": 63,
+	"material": "stone",
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

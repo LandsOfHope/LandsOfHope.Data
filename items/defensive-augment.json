@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "defensive-augment",
-    "image": "6819",
-    "type": "augment",
-    "material": "gem",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "STRENGTH": 0.5
-    }
+	"$type": "/v1/item",
+	"id": "defensive-augment",
+	"image": "6819",
+	"type": "augment",
+	"material": "gem",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"STRENGTH": 0.5
+	}
 }

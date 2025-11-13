@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "inn-keeper",
-    "name": {
-        "en": "Inn Keeper"
-    },
-    "desc": {
-        "en": "Owner of an Inn"
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 3,
-        "STRENGTH": 3
-    }
+	"$type": "/v1/profession",
+	"id": "inn-keeper",
+	"name": {
+		"en": "Inn Keeper"
+	},
+	"desc": {
+		"en": "Owner of an Inn"
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 3,
+		"STRENGTH": 3
+	}
 }

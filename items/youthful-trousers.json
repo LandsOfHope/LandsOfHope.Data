@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "youthful-trousers",
-    "image": "4529",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "youthful-trousers",
+	"image": "4529",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

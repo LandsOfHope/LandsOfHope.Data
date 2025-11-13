@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "summoning/burwyn-the-weaver",
-    "requirements": {
-        "skill": 1314,
-        "mana": 1314
-    },
-    "effects": {
-        "summon-pet": {
-            "race": "human",
-            "profession": "tailor"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "summoning/burwyn-the-weaver",
+	"requirements": {
+		"skill": 1314,
+		"mana": 1314
+	},
+	"effects": {
+		"summon-pet": {
+			"race": "human",
+			"profession": "tailor"
+		}
+	}
 }

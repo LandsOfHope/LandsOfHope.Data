@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "winchwinders-ring",
-    "image": "zuwiri",
-    "type": "ring",
-    "material": "metal",
-    "skills": {
-        "tinkering": 1
-    }
+	"$type": "/v1/item",
+	"id": "winchwinders-ring",
+	"image": "zuwiri",
+	"type": "ring",
+	"material": "metal",
+	"skills": {
+		"tinkering": 1
+	}
 }

@@ -1,20 +1,20 @@
 {
-    "$type": "/v1/profession",
-    "id": "flood-golem",
-    "name": {
-        "en": "Flood Golem"
-    },
-    "desc": {
-        "en": "Flood Golem Pet Class"
-    },
-    "skills": {
-        "water-magic": 5,
-        "water-resistance": 5,
-        "fists": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 0
-    }
+	"$type": "/v1/profession",
+	"id": "flood-golem",
+	"name": {
+		"en": "Flood Golem"
+	},
+	"desc": {
+		"en": "Flood Golem Pet Class"
+	},
+	"skills": {
+		"water-magic": 5,
+		"water-resistance": 5,
+		"fists": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 0
+	}
 }

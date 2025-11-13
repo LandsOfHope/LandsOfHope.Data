@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ravaged-pauldrons",
-    "image": "gmxpal1",
-    "type": "shoulders",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "ravaged-pauldrons",
+	"image": "gmxpal1",
+	"type": "shoulders",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

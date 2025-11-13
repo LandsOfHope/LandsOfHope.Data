@@ -1,29 +1,29 @@
 {
-    "$type": "/v1/profession",
-    "id": "legendary-bloodmage",
-    "name": {
-        "en": "Legendary Bloodmage"
-    },
-    "desc": {
-        "en": "Bought extra pet Bloodmage class."
-    },
-    "skills": {
-        "air-resistance": 5,
-        "mana-regen": 5,
-        "mana-draining": 5,
-        "energy-resistance": 5,
-        "poison-resistance": 5,
-        "poison-magic": 5,
-        "staves": 5,
-        "air-magic": 5,
-        "armor": 5,
-        "attack-power": 5,
-        "dark-magic": 5
-    },
-    "properties": {
-        "DEXTERITY": 5,
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 4,
-        "MAXMANA": 4
-    }
+	"$type": "/v1/profession",
+	"id": "legendary-bloodmage",
+	"name": {
+		"en": "Legendary Bloodmage"
+	},
+	"desc": {
+		"en": "Bought extra pet Bloodmage class."
+	},
+	"skills": {
+		"air-resistance": 5,
+		"mana-regen": 5,
+		"mana-draining": 5,
+		"energy-resistance": 5,
+		"poison-resistance": 5,
+		"poison-magic": 5,
+		"staves": 5,
+		"air-magic": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"dark-magic": 5
+	},
+	"properties": {
+		"DEXTERITY": 5,
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 4,
+		"MAXMANA": 4
+	}
 }

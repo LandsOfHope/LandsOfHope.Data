@@ -1,34 +1,34 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-user-redemption-char-item.json",
-    "title": "CreditHistoryUserRedemptionCharItem",
-    "type": "object",
-    "allOf": [
-        {
-            "$ref": "/schemas/v1/payments/credits/credit-history.json"
-        }
-    ],
-    "properties": {
-        "$type": {
-            "const": "/v1/payments/credits/credit-history-user-redemption-char-item"
-        },
-        "itemCharacterId": {
-            "type": "integer"
-        },
-        "itemExtraId": {
-            "$ref": "/schemas/v0/items-extras-id.gen.json"
-        },
-        "itemId": {
-            "type": "integer"
-        },
-        "itemQuantity": {
-            "type": "integer"
-        }
-    },
-    "required": [
-        "$type",
-        "itemCharacterId",
-        "itemExtraId",
-        "itemId",
-        "itemQuantity"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-user-redemption-char-item.json",
+	"title": "CreditHistoryUserRedemptionCharItem",
+	"type": "object",
+	"allOf": [
+		{
+			"$ref": "/schemas/v1/payments/credits/credit-history.json"
+		}
+	],
+	"properties": {
+		"$type": {
+			"const": "/v1/payments/credits/credit-history-user-redemption-char-item"
+		},
+		"itemCharacterId": {
+			"type": "integer"
+		},
+		"itemExtraId": {
+			"$ref": "/schemas/v0/items-extras-id.gen.json"
+		},
+		"itemId": {
+			"type": "integer"
+		},
+		"itemQuantity": {
+			"type": "integer"
+		}
+	},
+	"required": [
+		"$type",
+		"itemCharacterId",
+		"itemExtraId",
+		"itemId",
+		"itemQuantity"
+	]
 }

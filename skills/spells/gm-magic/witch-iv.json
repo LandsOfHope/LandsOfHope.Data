@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/witch-iv",
-    "requirements": {
-        "skill": 598,
-        "mana": 598
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 300
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/witch-iv",
+	"requirements": {
+		"skill": 598,
+		"mana": 598
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 300
+		}
+	}
 }

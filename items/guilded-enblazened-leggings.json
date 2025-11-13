@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-enblazened-leggings",
-    "image": "3885",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-enblazened-leggings",
+	"image": "3885",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

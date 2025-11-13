@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "raider-belt",
-    "image": "5238",
-    "type": "stomach",
-    "armorType": "leather",
-    "expansion": "uncharted-waters",
-    "material": "cloth",
-    "skill": "pirate-league",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "raider-belt",
+	"image": "5238",
+	"type": "stomach",
+	"armorType": "leather",
+	"expansion": "uncharted-waters",
+	"material": "cloth",
+	"skill": "pirate-league",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

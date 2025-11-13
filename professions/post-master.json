@@ -1,18 +1,18 @@
 {
-    "$type": "/v1/profession",
-    "id": "post-master",
-    "name": {
-        "en": "Post Master"
-    },
-    "desc": {
-        "en": "The manager of a post office."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 5,
-        "MAXSTAMINA": 2
-    }
+	"$type": "/v1/profession",
+	"id": "post-master",
+	"name": {
+		"en": "Post Master"
+	},
+	"desc": {
+		"en": "The manager of a post office."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 5,
+		"MAXSTAMINA": 2
+	}
 }

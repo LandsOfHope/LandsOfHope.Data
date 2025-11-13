@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/greater-mana-loss",
-    "requirements": {
-        "skill": 953,
-        "mana": 953
-    },
-    "duration": "PT135M",
-    "effects": {
-        "properties": {
-            "MAXMANA": -475
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/greater-mana-loss",
+	"requirements": {
+		"skill": 953,
+		"mana": 953
+	},
+	"duration": "PT135M",
+	"effects": {
+		"properties": {
+			"MAXMANA": -475
+		}
+	}
 }

@@ -1,24 +1,24 @@
 {
-    "$type": "/v1/profession",
-    "id": "hell-mage",
-    "name": {
-        "en": "Hell Mage"
-    },
-    "desc": {
-        "en": "Master of the Darkness and the depths of hell."
-    },
-    "skills": {
-        "mystical-magic": 5,
-        "mystical-resistance": 5,
-        "hell-magic": 5,
-        "two-handed-staves": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 2,
-        "MAXMANA": 4,
-        "SPEED": 1
-    }
+	"$type": "/v1/profession",
+	"id": "hell-mage",
+	"name": {
+		"en": "Hell Mage"
+	},
+	"desc": {
+		"en": "Master of the Darkness and the depths of hell."
+	},
+	"skills": {
+		"mystical-magic": 5,
+		"mystical-resistance": 5,
+		"hell-magic": 5,
+		"two-handed-staves": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 4,
+		"SPEED": 1
+	}
 }

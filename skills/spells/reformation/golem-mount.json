@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "reformation/golem-mount",
-    "requirements": {
-        "skill": 30,
-        "mana": 25
-    },
-    "effects": {
-        "summon-pet": {
-            "race": "mountable-golem"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "reformation/golem-mount",
+	"requirements": {
+		"skill": 30,
+		"mana": 25
+	},
+	"effects": {
+		"summon-pet": {
+			"race": "mountable-golem"
+		}
+	}
 }

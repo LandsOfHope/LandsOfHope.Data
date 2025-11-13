@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/anger-of-the-gods",
-    "requirements": {
-        "skill": 845,
-        "mana": 845
-    },
-    "duration": "PT30M",
-    "effects": {
-        "properties": {
-            "MAXMANA": -421
-        },
-        "skills": {
-            "attack-power": -421
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/anger-of-the-gods",
+	"requirements": {
+		"skill": 845,
+		"mana": 845
+	},
+	"duration": "PT30M",
+	"effects": {
+		"properties": {
+			"MAXMANA": -421
+		},
+		"skills": {
+			"attack-power": -421
+		}
+	}
 }

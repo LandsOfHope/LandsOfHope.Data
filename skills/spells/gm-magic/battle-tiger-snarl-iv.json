@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/battle-tiger-snarl-iv",
-    "requirements": {
-        "skill": 946,
-        "mana": 946
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "DEXTERITY": 130
-        },
-        "skills": {
-            "attack-power": 120
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/battle-tiger-snarl-iv",
+	"requirements": {
+		"skill": 946,
+		"mana": 946
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"DEXTERITY": 130
+		},
+		"skills": {
+			"attack-power": 120
+		}
+	}
 }

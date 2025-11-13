@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "glory-of-the-joust",
-    "image": "zugoj2",
-    "type": "2-handed-equipment",
-    "dpr": 2,
-    "material": "metal",
-    "skill": "two-handed-staves",
-    "skills": {
-        "divine-fury": 1,
-        "two-handed-staves": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "glory-of-the-joust",
+	"image": "zugoj2",
+	"type": "2-handed-equipment",
+	"dpr": 2,
+	"material": "metal",
+	"skill": "two-handed-staves",
+	"skills": {
+		"divine-fury": 1,
+		"two-handed-staves": 1,
+		"attack-power": 1
+	}
 }

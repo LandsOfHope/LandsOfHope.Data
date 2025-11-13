@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "summoning/high-tide",
-    "requirements": {
-        "skill": 1452,
-        "mana": 1452
-    },
-    "effects": {
-        "summon-pet": {
-            "race": "sea-horse",
-            "profession": "creature"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "summoning/high-tide",
+	"requirements": {
+		"skill": 1452,
+		"mana": 1452
+	},
+	"effects": {
+		"summon-pet": {
+			"race": "sea-horse",
+			"profession": "creature"
+		}
+	}
 }

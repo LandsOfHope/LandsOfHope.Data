@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "coral-helmet",
-    "image": "1566",
-    "type": "head-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "coral-helmet",
+	"image": "1566",
+	"type": "head-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

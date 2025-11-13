@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "blessing/self-blessing-of-intelligence-ii",
-    "requirements": {
-        "skill": 4566,
-        "mana": 4566
-    },
-    "duration": "PT120M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 471
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "blessing/self-blessing-of-intelligence-ii",
+	"requirements": {
+		"skill": 4566,
+		"mana": 4566
+	},
+	"duration": "PT120M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 471
+		}
+	}
 }

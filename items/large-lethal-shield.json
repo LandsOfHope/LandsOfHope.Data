@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "large-lethal-shield",
-    "image": "sda",
-    "type": "2-handed-equipment",
-    "dpr": 62,
-    "material": "wood",
-    "skill": "two-handed-shields",
-    "skills": {
-        "frenzy": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "large-lethal-shield",
+	"image": "sda",
+	"type": "2-handed-equipment",
+	"dpr": 62,
+	"material": "wood",
+	"skill": "two-handed-shields",
+	"skills": {
+		"frenzy": 1,
+		"armor": 1
+	}
 }

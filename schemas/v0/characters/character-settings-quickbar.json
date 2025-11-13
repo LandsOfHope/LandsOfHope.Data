@@ -1,16 +1,16 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v0/characters/character-settings-quickbar.json",
-    "title": "CharacterSettingsQuickbar",
-    "enum": [
-        "characters",
-        "fellowship",
-        "filters",
-        "friends",
-        "getting_started",
-        "messages",
-        "pets",
-        "shortcuts",
-        "tips",
-        "travel"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v0/characters/character-settings-quickbar.json",
+	"title": "CharacterSettingsQuickbar",
+	"enum": [
+		"characters",
+		"fellowship",
+		"filters",
+		"friends",
+		"getting_started",
+		"messages",
+		"pets",
+		"shortcuts",
+		"tips",
+		"travel"
+	]
 }

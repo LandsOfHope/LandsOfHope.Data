@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "mask-of-health",
-    "image": "zumahe",
-    "type": "reaper-symbol",
-    "material": "metal",
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "mask-of-health",
+	"image": "zumahe",
+	"type": "reaper-symbol",
+	"material": "metal",
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

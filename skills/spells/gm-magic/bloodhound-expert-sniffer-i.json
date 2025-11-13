@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/bloodhound-expert-sniffer-i",
-    "requirements": {
-        "skill": 50,
-        "mana": 50
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "track-beasts": 30
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/bloodhound-expert-sniffer-i",
+	"requirements": {
+		"skill": 50,
+		"mana": 50
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"track-beasts": 30
+		}
+	}
 }

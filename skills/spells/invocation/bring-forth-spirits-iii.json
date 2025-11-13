@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "invocation/bring-forth-spirits-iii",
-    "requirements": {
-        "skill": 2367,
-        "mana": 2367
-    },
-    "effects": {
-        "damage": 1671
-    }
+	"$type": "/v1/skills/spell",
+	"id": "invocation/bring-forth-spirits-iii",
+	"requirements": {
+		"skill": 2367,
+		"mana": 2367
+	},
+	"effects": {
+		"damage": 1671
+	}
 }

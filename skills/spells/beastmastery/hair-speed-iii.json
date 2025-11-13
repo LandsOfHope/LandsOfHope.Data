@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "beastmastery/hair-speed-iii",
-    "requirements": {
-        "skill": 3835,
-        "mana": 900
-    },
-    "duration": "PT125M",
-    "effects": {
-        "properties": {
-            "SPEED": 324
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "beastmastery/hair-speed-iii",
+	"requirements": {
+		"skill": 3835,
+		"mana": 900
+	},
+	"duration": "PT125M",
+	"effects": {
+		"properties": {
+			"SPEED": 324
+		}
+	}
 }

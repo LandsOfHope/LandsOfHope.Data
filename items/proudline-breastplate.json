@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "proudline-breastplate",
-    "image": "4730",
-    "type": "chest-armour",
-    "armorType": "plate",
-    "legendary": true,
-    "set": "proudline-legend",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "proudline-breastplate",
+	"image": "4730",
+	"type": "chest-armour",
+	"armorType": "plate",
+	"legendary": true,
+	"set": "proudline-legend",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

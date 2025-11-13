@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/barbarian-ii",
-    "requirements": {
-        "skill": 223,
-        "mana": 223
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 112
-        },
-        "skills": {
-            "two-handed-maces": 112
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/barbarian-ii",
+	"requirements": {
+		"skill": 223,
+		"mana": 223
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 112
+		},
+		"skills": {
+			"two-handed-maces": 112
+		}
+	}
 }

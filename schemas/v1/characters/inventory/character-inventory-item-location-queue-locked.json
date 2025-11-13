@@ -1,22 +1,18 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/character-inventory-item-location-queue-locked.json",
-    "title": "CharacterInventoryItemLocationQueueLocked",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/inventory/character-inventory-item-location-queue-locked"
-        },
-        "character": {
-            "$ref": "/schemas/v1/characters/character-id.json"
-        },
-        "queueId": {
-            "type": "integer",
-            "minimum": 1
-        }
-    },
-    "required": [
-        "$type",
-        "character",
-        "queueId"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/character-inventory-item-location-queue-locked.json",
+	"title": "CharacterInventoryItemLocationQueueLocked",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/inventory/character-inventory-item-location-queue-locked"
+		},
+		"character": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"queueId": {
+			"type": "integer",
+			"minimum": 1
+		}
+	},
+	"required": ["$type", "character", "queueId"]
 }

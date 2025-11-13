@@ -1,130 +1,144 @@
 "use strict";
 
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
 const directories = (() => {
-    const dirs = process.argv.slice(2);
-    if (dirs.length > 0)
-        return dirs;
-    return [
-        'professions',
-        'races',
-        'races/groups',
-        'skills',
-        'skills/crafting/recipes/*',
-        'skills/spells/*',
-        'skills/styles/*',
-        'maps/terrains/*',
-        'maps/worlds',
-        'maps/landmarks/types',
-        'maps/buildings/images',
-        'titles',
-        'allegiances',
-        'items',
-        'items/sets',
-        'items/types',
-        'items/images',
-        'items/extras',
-        'items/materials',
-        'items/resources',
-        'items/locations',
-        'items/enhancements/*',
-        'vessel-items',
-        'characters/images',
-        'characters/extra-images',
-        'characters/enhancements',
-        'characters/npcs',
-        'characters/npcs/recipes',
-        'stats/stat-categories',
-        'stats/rankings',
-        'expansions'
-    ];
+	const dirs = process.argv.slice(2);
+	if (dirs.length > 0) return dirs;
+	return [
+		"professions",
+		"races",
+		"races/groups",
+		"skills",
+		"skills/crafting/recipes/*",
+		"skills/spells/*",
+		"skills/styles/*",
+		"maps/terrains/*",
+		"maps/worlds",
+		"maps/landmarks/types",
+		"maps/buildings/images",
+		"titles",
+		"allegiances",
+		"items",
+		"items/sets",
+		"items/types",
+		"items/images",
+		"items/extras",
+		"items/materials",
+		"items/resources",
+		"items/locations",
+		"items/enhancements/*",
+		"vessel-items",
+		"characters/images",
+		"characters/extra-images",
+		"characters/enhancements",
+		"characters/npcs",
+		"characters/npcs/recipes",
+		"stats/stat-categories",
+		"stats/rankings",
+		"expansions",
+	];
 })();
-const schemas = 'schemas';
+const schemas = "schemas";
 const versions = {
-    'items/extras': 'v0',
-}
+	"items/extras": "v0",
+};
 
-directories.forEach(dir => {
-    const version = versions[dir] ?? 'v1';
-    const isGlob = dir.endsWith('*');
+directories.forEach((dir) => {
+	const version = versions[dir] ?? "v1";
+	const isGlob = dir.endsWith("*");
 
-    const parentOutputDir = path.join(schemas, version, path.dirname(dir));
-    if (!fs.existsSync(parentOutputDir))
-        fs.mkdirSync(parentOutputDir, { recursive: true } );
+	const parentOutputDir = path.join(schemas, version, path.dirname(dir));
+	if (!fs.existsSync(parentOutputDir))
+		fs.mkdirSync(parentOutputDir, { recursive: true });
 
-    console.log(`Generating ID schema for ${dir} in ${version}`, { isGlob, parentOutputDir });
+	console.log(`Generating ID schema for ${dir} in ${version}`, {
+		isGlob,
+		parentOutputDir,
+	});
 
-    const idNameBase = dir.replaceAll('/', ' ').replace('*', '').trim().replaceAll(' ', '-');
-    const idName = `${idNameBase}-id`;
-    const properTitle = idName.split('-').map(word => word.charAt(0).toUpperCase() + word.substring(1).toLowerCase()).join('');
+	const idNameBase = dir
+		.replaceAll("/", " ")
+		.replace("*", "")
+		.trim()
+		.replaceAll(" ", "-");
+	const idName = `${idNameBase}-id`;
+	const properTitle = idName
+		.split("-")
+		.map(
+			(word) => word.charAt(0).toUpperCase() + word.substring(1).toLowerCase(),
+		)
+		.join("");
 
-    const id_schema_file = `${schemas}/${version}/${idName}.gen.json`;
+	const id_schema_file = `${schemas}/${version}/${idName}.gen.json`;
 
-    const enumValues = [];
-    const childEnums = [];
-    if (isGlob) {
-        const parentDir = path.dirname(dir);
-        const subdirs = fs.readdirSync(parentDir);
-        subdirs.forEach(subdir => {
-            const subDirPath = path.join(parentDir, subdir);
-            const stat = fs.statSync(subDirPath);
-            if (stat.isDirectory()) {
-                const scopedEnumValues = [];
-                const scopedProperTitle = subdir.split('-').map(word => word.charAt(0).toUpperCase() + word.substring(1).toLowerCase()).join('') + properTitle;
-                const scoped_id_schema_file = `${schemas}/${version}/${parentDir}/${subdir}-${idName}.gen.json`;
-                const files = fs.readdirSync(subDirPath);
+	const enumValues = [];
+	const childEnums = [];
+	if (isGlob) {
+		const parentDir = path.dirname(dir);
+		const subdirs = fs.readdirSync(parentDir);
+		subdirs.forEach((subdir) => {
+			const subDirPath = path.join(parentDir, subdir);
+			const stat = fs.statSync(subDirPath);
+			if (stat.isDirectory()) {
+				const scopedEnumValues = [];
+				const scopedProperTitle =
+					subdir
+						.split("-")
+						.map(
+							(word) =>
+								word.charAt(0).toUpperCase() + word.substring(1).toLowerCase(),
+						)
+						.join("") + properTitle;
+				const scoped_id_schema_file = `${schemas}/${version}/${parentDir}/${subdir}-${idName}.gen.json`;
+				const files = fs.readdirSync(subDirPath);
 
-                for (const file of files) {
-                    if (file.endsWith('.json') && !file.endsWith('.gen.json')) {
-                        scopedEnumValues.push(`${subdir}/${file.slice(0, -5)}`);
-                    }
-                }
+				for (const file of files) {
+					if (file.endsWith(".json") && !file.endsWith(".gen.json")) {
+						scopedEnumValues.push(`${subdir}/${file.slice(0, -5)}`);
+					}
+				}
 
-                if (scopedEnumValues.length > 0) {
-                    enumValues.push(...scopedEnumValues);
-                }
+				if (scopedEnumValues.length > 0) {
+					enumValues.push(...scopedEnumValues);
+				}
 
-                fs.writeFileSync(
-                    path.join(parentOutputDir, `${subdir}-${idName}.gen.json`),
-                    JSON.stringify(
-                        {
-                            "$id": `https://data.landsofhope.com/${scoped_id_schema_file}`,
-                            "title": scopedProperTitle,
-                            "enum": scopedEnumValues
-                        }
-                    )
-                );
-                childEnums.push(scoped_id_schema_file);
-            }
-        });
-    } else {
-        const files = fs.readdirSync(dir);
-        for (const file of files) {
-            if (file.endsWith('.json') && !file.endsWith('.gen.json')) {
-                enumValues.push(file.slice(0, -5));
-            }
-        }
-    }
+				fs.writeFileSync(
+					path.join(parentOutputDir, `${subdir}-${idName}.gen.json`),
+					JSON.stringify({
+						$id: `https://data.landsofhope.com/${scoped_id_schema_file}`,
+						title: scopedProperTitle,
+						enum: scopedEnumValues,
+					}),
+				);
+				childEnums.push(scoped_id_schema_file);
+			}
+		});
+	} else {
+		const files = fs.readdirSync(dir);
+		for (const file of files) {
+			if (file.endsWith(".json") && !file.endsWith(".gen.json")) {
+				enumValues.push(file.slice(0, -5));
+			}
+		}
+	}
 
-    const enumTypeObj = {};
-    if(isGlob) {
-        enumTypeObj['oneOf'] = childEnums.map(childEnum => ({
-            $ref: `/${childEnum}`
-        }));
-    } else {
-        enumTypeObj['enum'] = enumValues;
-    }
+	const enumTypeObj = {};
+	if (isGlob) {
+		enumTypeObj["oneOf"] = childEnums.map((childEnum) => ({
+			$ref: `/${childEnum}`,
+		}));
+	} else {
+		enumTypeObj["enum"] = enumValues;
+	}
 
-    fs.writeFileSync(
-        id_schema_file,
-        JSON.stringify(
-            {
-                "$id": `https://data.landsofhope.com/${id_schema_file}`,
-                "title": properTitle,
-                ...enumTypeObj
-            }
-        )
-    );
+	fs.writeFileSync(
+		id_schema_file,
+		JSON.stringify({
+			$id: `https://data.landsofhope.com/${id_schema_file}`,
+			title: properTitle,
+			...enumTypeObj,
+		}),
+	);
 });

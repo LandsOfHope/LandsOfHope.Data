@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "baked-pasta",
-    "image": "zubapa",
-    "type": "food",
-    "material": "crop",
-    "properties": {
-        "HITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "baked-pasta",
+	"image": "zubapa",
+	"type": "food",
+	"material": "crop",
+	"properties": {
+		"HITPOINTS": 1
+	}
 }

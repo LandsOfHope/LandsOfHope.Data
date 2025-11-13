@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"crafting","titles":{"500":"novice-scribe","2500":"adept-scribe","5000":"master-scribe"}}
+{
+	"$type": "/v1/skill",
+	"group": "crafting",
+	"titles": {
+		"500": "novice-scribe",
+		"2500": "adept-scribe",
+		"5000": "master-scribe"
+	}
+}

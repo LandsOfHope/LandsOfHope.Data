@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "cookie-costume-boots",
-    "image": "cmbot",
-    "type": "foot-armour",
-    "set": "cookie-costume",
-    "material": "hide",
-    "skill": "artisan",
-    "skills": {
-        "farming": 1
-    }
+	"$type": "/v1/item",
+	"id": "cookie-costume-boots",
+	"image": "cmbot",
+	"type": "foot-armour",
+	"set": "cookie-costume",
+	"material": "hide",
+	"skill": "artisan",
+	"skills": {
+		"farming": 1
+	}
 }

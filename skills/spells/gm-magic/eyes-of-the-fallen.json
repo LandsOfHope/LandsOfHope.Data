@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/eyes-of-the-fallen",
-    "requirements": {
-        "skill": 834,
-        "mana": 834
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 250
-        },
-        "skills": {
-            "attack-power": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/eyes-of-the-fallen",
+	"requirements": {
+		"skill": 834,
+		"mana": 834
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 250
+		},
+		"skills": {
+			"attack-power": 100
+		}
+	}
 }

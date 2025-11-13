@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "mug-of-ale",
-    "image": "gmmual",
-    "type": "food",
-    "expansion": "uncharted-waters",
-    "material": "wood",
-    "properties": {
-        "HITPOINTS": 1,
-        "STAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "mug-of-ale",
+	"image": "gmmual",
+	"type": "food",
+	"expansion": "uncharted-waters",
+	"material": "wood",
+	"properties": {
+		"HITPOINTS": 1,
+		"STAMINA": 1
+	}
 }

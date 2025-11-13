@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "champions-ring",
-    "image": "6680",
-    "type": "ring",
-    "material": "gem",
-    "skill": "gods-favor",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "champions-ring",
+	"image": "6680",
+	"type": "ring",
+	"material": "gem",
+	"skill": "gods-favor",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

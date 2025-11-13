@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "battlehardened-vest",
-    "image": "2568",
-    "type": "chest-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "battlehardened-vest",
+	"image": "2568",
+	"type": "chest-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

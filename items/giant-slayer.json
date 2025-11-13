@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "giant-slayer",
-    "image": "ar",
-    "type": "ranged-weapon",
-    "dpr": 8,
-    "material": "stone",
-    "skill": "thrown-weapons",
-    "skills": {
-        "thrown-weapons": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "giant-slayer",
+	"image": "ar",
+	"type": "ranged-weapon",
+	"dpr": 8,
+	"material": "stone",
+	"skill": "thrown-weapons",
+	"skills": {
+		"thrown-weapons": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

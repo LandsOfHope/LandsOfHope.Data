@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/centaurian-female-i",
-    "requirements": {
-        "skill": 94,
-        "mana": 94
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "SPEED": 48
-        },
-        "skills": {
-            "armor": 48
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/centaurian-female-i",
+	"requirements": {
+		"skill": 94,
+		"mana": 94
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"SPEED": 48
+		},
+		"skills": {
+			"armor": 48
+		}
+	}
 }

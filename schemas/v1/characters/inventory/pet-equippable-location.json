@@ -1,32 +1,32 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/pet-equippable-location.json",
-    "title": "PetEquippableLocation",
-    "allOf": [
-        {
-            "enum": [
-                "neck",
-                "head",
-                "left-hand",
-                "right-hand",
-                "eyes",
-                "forehead",
-                "chest",
-                "stomach",
-                "legs",
-                "hands",
-                "arms",
-                "feet",
-                "wrists",
-                "shoulders",
-                "ranged",
-                "ammo",
-                "pet-bought-bonus",
-                "pet-bonus",
-                "siege"
-            ]
-        },
-        {
-            "$ref": "/schemas/v1/items-locations-id.gen.json"
-        }
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/pet-equippable-location.json",
+	"title": "PetEquippableLocation",
+	"allOf": [
+		{
+			"enum": [
+				"neck",
+				"head",
+				"left-hand",
+				"right-hand",
+				"eyes",
+				"forehead",
+				"chest",
+				"stomach",
+				"legs",
+				"hands",
+				"arms",
+				"feet",
+				"wrists",
+				"shoulders",
+				"ranged",
+				"ammo",
+				"pet-bought-bonus",
+				"pet-bonus",
+				"siege"
+			]
+		},
+		{
+			"$ref": "/schemas/v1/items-locations-id.gen.json"
+		}
+	]
 }

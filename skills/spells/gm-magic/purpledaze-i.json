@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/purpledaze-i",
-    "requirements": {
-        "skill": 50,
-        "level": 1,
-        "mana": 1
-    },
-    "duration": "PT16M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 50
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/purpledaze-i",
+	"requirements": {
+		"skill": 50,
+		"level": 1,
+		"mana": 1
+	},
+	"duration": "PT16M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 50
+		}
+	}
 }

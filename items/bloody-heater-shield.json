@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "bloody-heater-shield",
-    "image": "sd1",
-    "type": "2-handed-equipment",
-    "dpr": 52,
-    "material": "metal",
-    "skill": "two-handed-shields",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "bloody-heater-shield",
+	"image": "sd1",
+	"type": "2-handed-equipment",
+	"dpr": 52,
+	"material": "metal",
+	"skill": "two-handed-shields",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

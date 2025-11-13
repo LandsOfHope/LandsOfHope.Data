@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"thief","titles":{"500":"novice-locksmith","2500":"adept-locksmith","5000":"master-locksmith"}}
+{
+	"$type": "/v1/skill",
+	"group": "thief",
+	"titles": {
+		"500": "novice-locksmith",
+		"2500": "adept-locksmith",
+		"5000": "master-locksmith"
+	}
+}

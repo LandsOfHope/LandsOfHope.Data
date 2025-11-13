@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "flaming-potion",
-    "image": "pf1",
-    "type": "ammo-weapons-potions",
-    "dpr": 2,
-    "material": "gem",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "flaming-potion",
+	"image": "pf1",
+	"type": "ammo-weapons-potions",
+	"dpr": 2,
+	"material": "gem",
+	"skills": {
+		"attack-power": 1
+	}
 }

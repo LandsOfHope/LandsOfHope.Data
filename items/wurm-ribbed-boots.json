@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "wurm-ribbed-boots",
-    "image": "5815",
-    "type": "foot-armour",
-    "armorType": "mail",
-    "expansion": "dragons-of-the-east",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "wurm-ribbed-boots",
+	"image": "5815",
+	"type": "foot-armour",
+	"armorType": "mail",
+	"expansion": "dragons-of-the-east",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXSTAMINA": 1
+	}
 }

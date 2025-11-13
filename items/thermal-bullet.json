@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "thermal-bullet",
-    "image": "zuthbu",
-    "type": "ammo-weapons-bullets",
-    "dpr": 99,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "thermal-bullet",
+	"image": "zuthbu",
+	"type": "ammo-weapons-bullets",
+	"dpr": 99,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

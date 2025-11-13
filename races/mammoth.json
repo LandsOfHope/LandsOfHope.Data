@@ -1,22 +1,18 @@
 {
-    "name": {
-        "en": "Mammoth"
-    },
-    "desc": {
-        "en": "A large wooly animal."
-    },
-    "appr": {
-        "en": ""
-    },
-    "hist": {
-        "en": ""
-    },
-    "pics": {
-        "M": [
-            "mjpmammothm"
-        ],
-        "F": [
-            "mjpmammothf"
-        ]
-    }
+	"name": {
+		"en": "Mammoth"
+	},
+	"desc": {
+		"en": "A large wooly animal."
+	},
+	"appr": {
+		"en": ""
+	},
+	"hist": {
+		"en": ""
+	},
+	"pics": {
+		"M": ["mjpmammothm"],
+		"F": ["mjpmammothf"]
+	}
 }

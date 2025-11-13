@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "withered-headband",
-    "image": "1569",
-    "type": "forehead",
-    "armorType": "cloth",
-    "material": "wood",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "withered-headband",
+	"image": "1569",
+	"type": "forehead",
+	"armorType": "cloth",
+	"material": "wood",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXMANA": 1
+	}
 }

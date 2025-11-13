@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "holy-chestplate",
-    "image": "gmhoch",
-    "type": "chest-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "holy-chestplate",
+	"image": "gmhoch",
+	"type": "chest-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

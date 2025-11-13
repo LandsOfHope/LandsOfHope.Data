@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/preystalker-feline-reflexes-ii",
-    "requirements": {
-        "skill": 463,
-        "mana": 463
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "SPEED": 232
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/preystalker-feline-reflexes-ii",
+	"requirements": {
+		"skill": 463,
+		"mana": 463
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"SPEED": 232
+		}
+	}
 }

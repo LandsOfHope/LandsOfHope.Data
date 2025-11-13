@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "wine-bottle",
-    "image": "rew",
-    "type": "1-handed-equipment",
-    "dpr": 3,
-    "material": "berry",
-    "skill": "maces",
-    "skills": {
-        "maces": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "wine-bottle",
+	"image": "rew",
+	"type": "1-handed-equipment",
+	"dpr": 3,
+	"material": "berry",
+	"skill": "maces",
+	"skills": {
+		"maces": 1,
+		"attack-power": 1
+	}
 }

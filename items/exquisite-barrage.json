@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "exquisite-barrage",
-    "image": "6640",
-    "type": "ranged-weapon",
-    "dpr": 140,
-    "material": "metal",
-    "skill": "two-handed-guns",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "exquisite-barrage",
+	"image": "6640",
+	"type": "ranged-weapon",
+	"dpr": 140,
+	"material": "metal",
+	"skill": "two-handed-guns",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

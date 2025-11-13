@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "sandy-bullet",
-    "image": "4144",
-    "type": "ammo-weapons-bullets",
-    "dpr": 21,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "sandy-bullet",
+	"image": "4144",
+	"type": "ammo-weapons-bullets",
+	"dpr": 21,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

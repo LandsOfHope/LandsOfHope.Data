@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "halberd",
-    "image": "hal",
-    "type": "2-handed-equipment",
-    "dpr": 2,
-    "material": "metal",
-    "skill": "pole-weapons",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "halberd",
+	"image": "hal",
+	"type": "2-handed-equipment",
+	"dpr": 2,
+	"material": "metal",
+	"skill": "pole-weapons",
+	"skills": {
+		"attack-power": 1
+	}
 }

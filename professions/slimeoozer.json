@@ -1,37 +1,37 @@
 {
-    "$type": "/v1/profession",
-    "id": "slimeoozer",
-    "name": {
-        "en": "Slimeoozer"
-    },
-    "desc": {
-        "en": "None"
-    },
-    "skills": {
-        "mystical-resistance": 5,
-        "cold-resistance": 5,
-        "fire-resistance": 5,
-        "acid-resistance": 5,
-        "energy-resistance": 5,
-        "water-resistance": 5,
-        "earth-resistance": 5,
-        "maces": 5,
-        "two-handed-maces": 5,
-        "fists": 5,
-        "bladed-defense": 5,
-        "projectile-defense": 5,
-        "h2h-defense": 5,
-        "bludgeon-defense": 5,
-        "stringed-defense": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 2,
-        "MAXSTAMINA": 2,
-        "SPEED": 1
-    }
+	"$type": "/v1/profession",
+	"id": "slimeoozer",
+	"name": {
+		"en": "Slimeoozer"
+	},
+	"desc": {
+		"en": "None"
+	},
+	"skills": {
+		"mystical-resistance": 5,
+		"cold-resistance": 5,
+		"fire-resistance": 5,
+		"acid-resistance": 5,
+		"energy-resistance": 5,
+		"water-resistance": 5,
+		"earth-resistance": 5,
+		"maces": 5,
+		"two-handed-maces": 5,
+		"fists": 5,
+		"bladed-defense": 5,
+		"projectile-defense": 5,
+		"h2h-defense": 5,
+		"bludgeon-defense": 5,
+		"stringed-defense": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 1
+	}
 }

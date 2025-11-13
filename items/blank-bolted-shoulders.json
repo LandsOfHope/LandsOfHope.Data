@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "blank-bolted-shoulders",
-    "image": "6826",
-    "type": "shoulders",
-    "set": "inventor-bolted-set",
-    "material": "metal",
-    "skill": "bolts-over-brains",
-    "skills": {
-        "armor": 0.5
-    }
+	"$type": "/v1/item",
+	"id": "blank-bolted-shoulders",
+	"image": "6826",
+	"type": "shoulders",
+	"set": "inventor-bolted-set",
+	"material": "metal",
+	"skill": "bolts-over-brains",
+	"skills": {
+		"armor": 0.5
+	}
 }

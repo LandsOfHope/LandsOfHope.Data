@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "dungeoncreeper-pants",
-    "image": "4945",
-    "type": "leg-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "DEXTERITY": 1
-    }
+	"$type": "/v1/item",
+	"id": "dungeoncreeper-pants",
+	"image": "4945",
+	"type": "leg-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"DEXTERITY": 1
+	}
 }

@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "horned-helmet",
-    "image": "247",
-    "type": "head-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "horned-helmet",
+	"image": "247",
+	"type": "head-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1,
+		"attack-power": 1
+	}
 }

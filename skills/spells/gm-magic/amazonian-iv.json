@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/amazonian-iv",
-    "requirements": {
-        "skill": 628,
-        "mana": 628
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "SPEED": 315
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/amazonian-iv",
+	"requirements": {
+		"skill": 628,
+		"mana": 628
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"SPEED": 315
+		}
+	}
 }

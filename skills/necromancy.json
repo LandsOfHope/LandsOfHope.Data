@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"magic-abilities","titles":{"500":"novice-necromancer","2500":"adept-necromancer","5000":"master-necromancer"}}
+{
+	"$type": "/v1/skill",
+	"group": "magic-abilities",
+	"titles": {
+		"500": "novice-necromancer",
+		"2500": "adept-necromancer",
+		"5000": "master-necromancer"
+	}
+}

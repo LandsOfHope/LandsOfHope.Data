@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/centaur-speed-iii",
-    "requirements": {
-        "skill": 596,
-        "mana": 596
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "SPEED": 270
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/centaur-speed-iii",
+	"requirements": {
+		"skill": 596,
+		"mana": 596
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"SPEED": 270
+		}
+	}
 }

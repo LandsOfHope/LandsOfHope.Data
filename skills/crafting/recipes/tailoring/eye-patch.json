@@ -1,25 +1,25 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "tailoring/eye-patch",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "eye-patch"
-    },
-    "image": "eyp",
-    "time": "PT15S",
-    "quantity": 1,
-    "skill": "tailoring",
-    "skillValue": 2500,
-    "quality": "common",
-    "ingredients": [
-        {
-            "id": "thread",
-            "quantity": 15,
-            "primary": true
-        },
-        {
-            "id": "cloth",
-            "quantity": 10
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "tailoring/eye-patch",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "eye-patch"
+	},
+	"image": "eyp",
+	"time": "PT15S",
+	"quantity": 1,
+	"skill": "tailoring",
+	"skillValue": 2500,
+	"quality": "common",
+	"ingredients": [
+		{
+			"id": "thread",
+			"quantity": 15,
+			"primary": true
+		},
+		{
+			"id": "cloth",
+			"quantity": 10
+		}
+	]
 }

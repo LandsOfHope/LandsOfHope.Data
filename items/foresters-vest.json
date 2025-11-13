@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "foresters-vest",
-    "image": "2832",
-    "type": "chest-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "foresters-vest",
+	"image": "2832",
+	"type": "chest-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

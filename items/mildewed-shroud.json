@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "mildewed-shroud",
-    "image": "920",
-    "type": "chest-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "drain-resistance": 1,
-        "necromancy": 1
-    }
+	"$type": "/v1/item",
+	"id": "mildewed-shroud",
+	"image": "920",
+	"type": "chest-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"drain-resistance": 1,
+		"necromancy": 1
+	}
 }

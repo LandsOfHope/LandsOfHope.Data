@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "round-battle-shield",
-    "image": "sd6",
-    "type": "1-handed-equipment",
-    "dpr": 42,
-    "material": "wood",
-    "skill": "shields",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "round-battle-shield",
+	"image": "sd6",
+	"type": "1-handed-equipment",
+	"dpr": 42,
+	"material": "wood",
+	"skill": "shields",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

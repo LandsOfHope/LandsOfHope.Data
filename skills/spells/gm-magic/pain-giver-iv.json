@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/pain-giver-iv",
-    "requirements": {
-        "skill": 787,
-        "mana": 787
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 394
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/pain-giver-iv",
+	"requirements": {
+		"skill": 787,
+		"mana": 787
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 394
+		}
+	}
 }

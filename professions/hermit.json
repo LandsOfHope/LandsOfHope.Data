@@ -1,29 +1,29 @@
 {
-    "$type": "/v1/profession",
-    "id": "hermit",
-    "name": {
-        "en": "Hermit"
-    },
-    "desc": {
-        "en": "The Hermit lives a life of isolation, often they will spend countless hours in the woods ... no one knows what they do out there but you can often hear strange noises. Hermits dedicate themselves to the study of plants and nature. Although should the need arise a Hermit may fight with his trusty 2Handed Staff or simply pummel you with his or her fists if they desire to do so.you are likely to see a first hand demonstration of a Hermits skills."
-    },
-    "skills": {
-        "begging": 5,
-        "two-handed-staves": 5,
-        "transformation": 5,
-        "fists": 5,
-        "nature-magic": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1,
-        "SPEED": 1
-    },
-    "evo": {
-        "diviner": 50
-    }
+	"$type": "/v1/profession",
+	"id": "hermit",
+	"name": {
+		"en": "Hermit"
+	},
+	"desc": {
+		"en": "The Hermit lives a life of isolation, often they will spend countless hours in the woods ... no one knows what they do out there but you can often hear strange noises. Hermits dedicate themselves to the study of plants and nature. Although should the need arise a Hermit may fight with his trusty 2Handed Staff or simply pummel you with his or her fists if they desire to do so.you are likely to see a first hand demonstration of a Hermits skills."
+	},
+	"skills": {
+		"begging": 5,
+		"two-handed-staves": 5,
+		"transformation": 5,
+		"fists": 5,
+		"nature-magic": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"SPEED": 1
+	},
+	"evo": {
+		"diviner": 50
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/water-mage-iv",
-    "requirements": {
-        "skill": 682,
-        "mana": 682
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 342
-        },
-        "skills": {
-            "water-resistance": 342
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/water-mage-iv",
+	"requirements": {
+		"skill": 682,
+		"mana": 682
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 342
+		},
+		"skills": {
+			"water-resistance": 342
+		}
+	}
 }

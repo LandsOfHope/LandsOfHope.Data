@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "celestial-magic/overpowering-illumination",
-    "requirements": {
-        "skill": 709,
-        "mana": 709
-    },
-    "duration": "PT120M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 355
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "celestial-magic/overpowering-illumination",
+	"requirements": {
+		"skill": 709,
+		"mana": 709
+	},
+	"duration": "PT120M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 355
+		}
+	}
 }

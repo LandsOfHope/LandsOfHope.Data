@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "frozen-cloak",
-    "image": "cl8",
-    "type": "cloak",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "cold-resistance": 1,
-        "armor": 1,
-        "arcane-resistance": 1
-    }
+	"$type": "/v1/item",
+	"id": "frozen-cloak",
+	"image": "cl8",
+	"type": "cloak",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"cold-resistance": 1,
+		"armor": 1,
+		"arcane-resistance": 1
+	}
 }

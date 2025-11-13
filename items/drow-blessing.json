@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "drow-blessing",
-    "image": "6272",
-    "type": "forehead",
-    "armorType": "cloth",
-    "material": "stone",
-    "skills": {
-        "stealth": 1,
-        "poison-resistance": 1
-    }
+	"$type": "/v1/item",
+	"id": "drow-blessing",
+	"image": "6272",
+	"type": "forehead",
+	"armorType": "cloth",
+	"material": "stone",
+	"skills": {
+		"stealth": 1,
+		"poison-resistance": 1
+	}
 }

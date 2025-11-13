@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/childsbane-iii",
-    "requirements": {
-        "skill": 150,
-        "level": 201,
-        "mana": 3
-    },
-    "duration": "PT18M",
-    "effects": {
-        "skills": {
-            "earth-resistance": 300
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/childsbane-iii",
+	"requirements": {
+		"skill": 150,
+		"level": 201,
+		"mana": 3
+	},
+	"duration": "PT18M",
+	"effects": {
+		"skills": {
+			"earth-resistance": 300
+		}
+	}
 }

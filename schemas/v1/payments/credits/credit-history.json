@@ -1,25 +1,20 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history.json",
-    "title": "CreditHistory",
-    "type": "object",
-    "properties": {
-        "id": {
-            "$ref": "/schemas/v1/payments/credits/credit-history-id.json"
-        },
-        "created": {
-            "$ref": "/schemas/v0/datetime.json"
-        },
-        "amountTransferrable": {
-            "type": "integer"
-        },
-        "amountNontransferrable": {
-            "type": "integer"
-        }
-    },
-    "required": [
-        "id",
-        "created",
-        "amountTransferrable",
-        "amountNontransferrable"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history.json",
+	"title": "CreditHistory",
+	"type": "object",
+	"properties": {
+		"id": {
+			"$ref": "/schemas/v1/payments/credits/credit-history-id.json"
+		},
+		"created": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"amountTransferrable": {
+			"type": "integer"
+		},
+		"amountNontransferrable": {
+			"type": "integer"
+		}
+	},
+	"required": ["id", "created", "amountTransferrable", "amountNontransferrable"]
 }

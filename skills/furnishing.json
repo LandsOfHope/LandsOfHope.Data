@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"crafting","titles":{"500":"novice-furnisher","2500":"adept-furnisher","5000":"master-furnisher"}}
+{
+	"$type": "/v1/skill",
+	"group": "crafting",
+	"titles": {
+		"500": "novice-furnisher",
+		"2500": "adept-furnisher",
+		"5000": "master-furnisher"
+	}
+}

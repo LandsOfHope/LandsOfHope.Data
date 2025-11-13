@@ -1,9 +1,9 @@
 {
-    "$type": "/v1/items/enhancements/item-patch",
-    "id": "patches/armor-strengthener",
-    "effects": {
-        "skills": {
-            "armor": 0.04
-        }
-    }
+	"$type": "/v1/items/enhancements/item-patch",
+	"id": "patches/armor-strengthener",
+	"effects": {
+		"skills": {
+			"armor": 0.04
+		}
+	}
 }

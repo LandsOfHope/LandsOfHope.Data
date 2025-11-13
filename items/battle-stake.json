@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "battle-stake",
-    "image": "sed",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "material": "wood",
-    "skill": "staves",
-    "skills": {
-        "staves": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "battle-stake",
+	"image": "sed",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"material": "wood",
+	"skill": "staves",
+	"skills": {
+		"staves": 1,
+		"attack-power": 1
+	}
 }

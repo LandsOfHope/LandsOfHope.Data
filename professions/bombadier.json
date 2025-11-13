@@ -1,27 +1,27 @@
 {
-    "$type": "/v1/profession",
-    "id": "bombadier",
-    "name": {
-        "en": "Bombadier"
-    },
-    "desc": {
-        "en": "The Bombadier is a Tier III evolution from the Archer Profession via Soldier > Sharpshooter, while keeping all of the Sharpshooters abilities the Bombadier also gains the abilty to use <b>Heavy Munitions</b>."
-    },
-    "skills": {
-        "two-handed-guns": 5,
-        "dual-wielding": 5,
-        "heavy-munitions": 5,
-        "hand-guns": 5,
-        "armor": 5,
-        "attack-power": 10
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 2,
-        "MAXMANA": 1,
-        "MAXSTAMINA": 3,
-        "SPEED": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/profession",
+	"id": "bombadier",
+	"name": {
+		"en": "Bombadier"
+	},
+	"desc": {
+		"en": "The Bombadier is a Tier III evolution from the Archer Profession via Soldier > Sharpshooter, while keeping all of the Sharpshooters abilities the Bombadier also gains the abilty to use <b>Heavy Munitions</b>."
+	},
+	"skills": {
+		"two-handed-guns": 5,
+		"dual-wielding": 5,
+		"heavy-munitions": 5,
+		"hand-guns": 5,
+		"armor": 5,
+		"attack-power": 10
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 3,
+		"SPEED": 1,
+		"STRENGTH": 1
+	}
 }

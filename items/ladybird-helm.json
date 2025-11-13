@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "ladybird-helm",
-    "image": "5168",
-    "type": "head-armour",
-    "armorType": "plate",
-    "expansion": "jurassic-wars",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "ladybird-helm",
+	"image": "5168",
+	"type": "head-armour",
+	"armorType": "plate",
+	"expansion": "jurassic-wars",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

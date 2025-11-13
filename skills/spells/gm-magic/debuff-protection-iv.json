@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/debuff-protection-iv",
-    "requirements": {
-        "skill": 200,
-        "level": 701,
-        "mana": 4
-    },
-    "duration": "PT304M",
-    "effects": {
-        "skills": {
-            "debuff-resistance": 480
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/debuff-protection-iv",
+	"requirements": {
+		"skill": 200,
+		"level": 701,
+		"mana": 4
+	},
+	"duration": "PT304M",
+	"effects": {
+		"skills": {
+			"debuff-resistance": 480
+		}
+	}
 }

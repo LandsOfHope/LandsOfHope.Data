@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/weak-wind-tonic",
-    "requirements": {
-        "skill": 3000,
-        "mana": 850
-    },
-    "duration": "PT170M",
-    "effects": {
-        "skills": {
-            "air-resistance": 170
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/weak-wind-tonic",
+	"requirements": {
+		"skill": 3000,
+		"mana": 850
+	},
+	"duration": "PT170M",
+	"effects": {
+		"skills": {
+			"air-resistance": 170
+		}
+	}
 }

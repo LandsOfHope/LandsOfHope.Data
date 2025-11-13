@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/darfurk-hatred-iii",
-    "requirements": {
-        "skill": 624,
-        "mana": 624
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "attack-power": 313
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/darfurk-hatred-iii",
+	"requirements": {
+		"skill": 624,
+		"mana": 624
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"attack-power": 313
+		}
+	}
 }

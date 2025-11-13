@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "cragstone-pauldrons",
-    "image": "4724",
-    "type": "shoulders",
-    "armorType": "mail",
-    "legendary": true,
-    "set": "cragstone-legend",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "cragstone-pauldrons",
+	"image": "4724",
+	"type": "shoulders",
+	"armorType": "mail",
+	"legendary": true,
+	"set": "cragstone-legend",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"SPEED": 1
+	}
 }

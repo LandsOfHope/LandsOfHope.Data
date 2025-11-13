@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/dragon-female-ii",
-    "requirements": {
-        "skill": 373,
-        "mana": 373
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 187
-        },
-        "skills": {
-            "attack-power": 187
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/dragon-female-ii",
+	"requirements": {
+		"skill": 373,
+		"mana": 373
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 187
+		},
+		"skills": {
+			"attack-power": 187
+		}
+	}
 }

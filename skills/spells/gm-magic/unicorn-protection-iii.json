@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/unicorn-protection-iii",
-    "requirements": {
-        "skill": 729,
-        "mana": 729
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "armor": 365
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/unicorn-protection-iii",
+	"requirements": {
+		"skill": 729,
+		"mana": 729
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"armor": 365
+		}
+	}
 }

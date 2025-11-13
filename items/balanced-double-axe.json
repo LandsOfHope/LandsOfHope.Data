@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "balanced-double-axe",
-    "image": "ax12",
-    "type": "2-handed-equipment",
-    "dpr": 2,
-    "material": "stone",
-    "skill": "two-handed-axes",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "balanced-double-axe",
+	"image": "ax12",
+	"type": "2-handed-equipment",
+	"dpr": 2,
+	"material": "stone",
+	"skill": "two-handed-axes",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

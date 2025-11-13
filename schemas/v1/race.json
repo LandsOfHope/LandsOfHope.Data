@@ -1,30 +1,24 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/race.json",
-    "title": "Race",
-    "type": "object",
-    "properties": {
-        "name": {
-            "$ref": "/schemas/v1/localized-string.json"
-        },
-        "desc": {
-            "$ref": "/schemas/v1/localized-string.json"
-        },
-        "appr": {
-            "$ref": "/schemas/v1/localized-string.json"
-        },
-        "hist": {
-            "$ref": "/schemas/v1/localized-string.json"
-        },
-        "pics": {
-            "$ref": "/schemas/v1/races/images.json"
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "name",
-        "desc",
-        "appr",
-        "hist",
-        "pics"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/race.json",
+	"title": "Race",
+	"type": "object",
+	"properties": {
+		"name": {
+			"$ref": "/schemas/v1/localized-string.json"
+		},
+		"desc": {
+			"$ref": "/schemas/v1/localized-string.json"
+		},
+		"appr": {
+			"$ref": "/schemas/v1/localized-string.json"
+		},
+		"hist": {
+			"$ref": "/schemas/v1/localized-string.json"
+		},
+		"pics": {
+			"$ref": "/schemas/v1/races/images.json"
+		}
+	},
+	"additionalProperties": false,
+	"required": ["name", "desc", "appr", "hist", "pics"]
 }

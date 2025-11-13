@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "charms-and-hexes/the-black-spot-i",
-    "requirements": {
-        "skill": 1750,
-        "mana": 1650
-    },
-    "duration": "PT4M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": -650
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "charms-and-hexes/the-black-spot-i",
+	"requirements": {
+		"skill": 1750,
+		"mana": 1650
+	},
+	"duration": "PT4M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": -650
+		}
+	}
 }

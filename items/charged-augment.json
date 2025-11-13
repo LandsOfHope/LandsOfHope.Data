@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "charged-augment",
-    "image": "6863",
-    "type": "augment",
-    "material": "gem",
-    "properties": {
-        "INTELLIGENCE": 1.2,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "charged-augment",
+	"image": "6863",
+	"type": "augment",
+	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1.2,
+		"MAXMANA": 1
+	}
 }

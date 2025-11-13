@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/volatile-parasite",
-    "requirements": {
-        "skill": 997,
-        "mana": 997
-    },
-    "duration": "PT105M",
-    "effects": {
-        "properties": {
-            "STRENGTH": -497
-        },
-        "skills": {
-            "attack-power": -497
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/volatile-parasite",
+	"requirements": {
+		"skill": 997,
+		"mana": 997
+	},
+	"duration": "PT105M",
+	"effects": {
+		"properties": {
+			"STRENGTH": -497
+		},
+		"skills": {
+			"attack-power": -497
+		}
+	}
 }

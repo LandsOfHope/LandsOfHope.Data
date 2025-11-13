@@ -1,9 +1,9 @@
 {
-    "$type": "/v1/items/enhancements/item-name",
-    "id": "names/instrumentation",
-    "effects": {
-        "skills": {
-            "instruments": 0.5
-        }
-    }
+	"$type": "/v1/items/enhancements/item-name",
+	"id": "names/instrumentation",
+	"effects": {
+		"skills": {
+			"instruments": 0.5
+		}
+	}
 }

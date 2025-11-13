@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/items/enhancements/item-imbuement",
-    "id": "imbuements/bludgeon-weakness",
-    "chance": {
-        "$type": "/v1/random-chance",
-        "numer": 22,
-        "denom": 100
-    },
-    "spell": "gamemastery/bludgeon-weakness"
+	"$type": "/v1/items/enhancements/item-imbuement",
+	"id": "imbuements/bludgeon-weakness",
+	"chance": {
+		"$type": "/v1/random-chance",
+		"numer": 22,
+		"denom": 100
+	},
+	"spell": "gamemastery/bludgeon-weakness"
 }

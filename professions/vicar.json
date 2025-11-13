@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "vicar",
-    "name": {
-        "en": "Vicar"
-    },
-    "desc": {
-        "en": "A religious soul who can marry characters, divorce them and bury them."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 3
-    }
+	"$type": "/v1/profession",
+	"id": "vicar",
+	"name": {
+		"en": "Vicar"
+	},
+	"desc": {
+		"en": "A religious soul who can marry characters, divorce them and bury them."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 3
+	}
 }

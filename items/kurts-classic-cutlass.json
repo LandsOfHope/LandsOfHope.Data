@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "kurts-classic-cutlass",
-    "image": "gmkuclcu",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "expansion": "uncharted-waters",
-    "material": "metal",
-    "skill": "swords",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "kurts-classic-cutlass",
+	"image": "gmkuclcu",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"expansion": "uncharted-waters",
+	"material": "metal",
+	"skill": "swords",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"STRENGTH": 1
+	}
 }

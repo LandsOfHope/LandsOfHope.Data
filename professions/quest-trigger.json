@@ -1,18 +1,18 @@
 {
-    "$type": "/v1/profession",
-    "id": "quest-trigger",
-    "name": {
-        "en": "Quest Trigger"
-    },
-    "desc": {
-        "en": "The dealer of quests."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 3
-    }
+	"$type": "/v1/profession",
+	"id": "quest-trigger",
+	"name": {
+		"en": "Quest Trigger"
+	},
+	"desc": {
+		"en": "The dealer of quests."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 3
+	}
 }

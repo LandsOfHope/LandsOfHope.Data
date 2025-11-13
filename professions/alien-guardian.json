@@ -1,27 +1,27 @@
 {
-    "$type": "/v1/profession",
-    "id": "alien-guardian",
-    "name": {
-        "en": "Alien Guardian"
-    },
-    "desc": {
-        "en": "An elite alien guardian of ubernation!"
-    },
-    "skills": {
-        "frenzy": 5,
-        "daggers": 5,
-        "two-handed-axes": 5,
-        "two-handed-maces": 5,
-        "bludgeon-defense": 5,
-        "dual-wielding": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 5,
-        "MAXHITPOINTS": 17,
-        "MAXSTAMINA": 14,
-        "SPEED": 5,
-        "STRENGTH": 14
-    }
+	"$type": "/v1/profession",
+	"id": "alien-guardian",
+	"name": {
+		"en": "Alien Guardian"
+	},
+	"desc": {
+		"en": "An elite alien guardian of ubernation!"
+	},
+	"skills": {
+		"frenzy": 5,
+		"daggers": 5,
+		"two-handed-axes": 5,
+		"two-handed-maces": 5,
+		"bludgeon-defense": 5,
+		"dual-wielding": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 5,
+		"MAXHITPOINTS": 17,
+		"MAXSTAMINA": 14,
+		"SPEED": 5,
+		"STRENGTH": 14
+	}
 }

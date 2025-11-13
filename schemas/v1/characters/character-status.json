@@ -1,18 +1,15 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-status.json",
-    "type": "object",
-    "title": "CharacterStatus",
-    "properties": {
-        "dead": {
-            "type": "boolean"
-        },
-        "jailed": {
-            "type": "boolean"
-        }
-    },
-    "required": [
-        "dead",
-        "jailed"
-    ],
-    "additionalProperties": false
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/character-status.json",
+	"type": "object",
+	"title": "CharacterStatus",
+	"properties": {
+		"dead": {
+			"type": "boolean"
+		},
+		"jailed": {
+			"type": "boolean"
+		}
+	},
+	"required": ["dead", "jailed"],
+	"additionalProperties": false
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "pressed-trousers",
-    "image": "4521",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "DEXTERITY": 1
-    }
+	"$type": "/v1/item",
+	"id": "pressed-trousers",
+	"image": "4521",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"DEXTERITY": 1
+	}
 }

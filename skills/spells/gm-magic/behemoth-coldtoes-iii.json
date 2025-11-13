@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/behemoth-coldtoes-iii",
-    "requirements": {
-        "skill": 687,
-        "mana": 687
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "cold-survival": 344
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/behemoth-coldtoes-iii",
+	"requirements": {
+		"skill": 687,
+		"mana": 687
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"cold-survival": 344
+		}
+	}
 }

@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-lethal-shaped-crossbow",
-    "image": "xw2",
-    "type": "ranged-weapon",
-    "dpr": 63,
-    "material": "wood",
-    "skill": "crossbows",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-lethal-shaped-crossbow",
+	"image": "xw2",
+	"type": "ranged-weapon",
+	"dpr": 63,
+	"material": "wood",
+	"skill": "crossbows",
+	"skills": {
+		"attack-power": 1
+	}
 }

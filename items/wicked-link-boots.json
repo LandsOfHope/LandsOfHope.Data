@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "wicked-link-boots",
-    "image": "2603",
-    "type": "foot-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "wicked-link-boots",
+	"image": "2603",
+	"type": "foot-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

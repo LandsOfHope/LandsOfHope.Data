@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/snow-cat-toy-seeker",
-    "requirements": {
-        "skill": 50,
-        "mana": 50
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "toy-snatching": 1000
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/snow-cat-toy-seeker",
+	"requirements": {
+		"skill": 50,
+		"mana": 50
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"toy-snatching": 1000
+		}
+	}
 }

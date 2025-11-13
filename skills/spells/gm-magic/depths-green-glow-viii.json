@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/depths-green-glow-viii",
-    "requirements": {
-        "skill": 3500,
-        "mana": 40
-    },
-    "duration": "PT50000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 1600
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/depths-green-glow-viii",
+	"requirements": {
+		"skill": 3500,
+		"mana": 40
+	},
+	"duration": "PT50000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 1600
+		}
+	}
 }

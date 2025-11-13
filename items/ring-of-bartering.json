@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-bartering",
-    "image": "ring21",
-    "type": "ring",
-    "material": "gem",
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-bartering",
+	"image": "ring21",
+	"type": "ring",
+	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1
+	}
 }

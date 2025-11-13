@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "voyager-trousers",
-    "image": "5264",
-    "type": "leg-armour",
-    "armorType": "leather",
-    "expansion": "uncharted-waters",
-    "material": "cloth",
-    "skill": "myzan-navy",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "DEXTERITY": 1
-    }
+	"$type": "/v1/item",
+	"id": "voyager-trousers",
+	"image": "5264",
+	"type": "leg-armour",
+	"armorType": "leather",
+	"expansion": "uncharted-waters",
+	"material": "cloth",
+	"skill": "myzan-navy",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"DEXTERITY": 1
+	}
 }

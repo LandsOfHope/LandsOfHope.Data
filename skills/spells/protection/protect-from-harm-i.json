@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "protection/protect-from-harm-i",
-    "requirements": {
-        "skill": 1,
-        "mana": 1
-    },
-    "duration": 2,
-    "effects": {
-        "damage": 15,
-        "skills": {
-            "damage-absorption": 13
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "protection/protect-from-harm-i",
+	"requirements": {
+		"skill": 1,
+		"mana": 1
+	},
+	"duration": 2,
+	"effects": {
+		"damage": 15,
+		"skills": {
+			"damage-absorption": 13
+		}
+	}
 }

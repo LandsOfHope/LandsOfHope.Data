@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "scoop",
-    "image": "sp",
-    "type": "ranged-weapon",
-    "dpr": 2,
-    "material": "wood",
-    "skill": "thrown-magic",
-    "skills": {
-        "thrown-magic": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "scoop",
+	"image": "sp",
+	"type": "ranged-weapon",
+	"dpr": 2,
+	"material": "wood",
+	"skill": "thrown-magic",
+	"skills": {
+		"thrown-magic": 1,
+		"attack-power": 1
+	}
 }

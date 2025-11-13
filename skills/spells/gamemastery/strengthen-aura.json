@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/strengthen-aura",
-    "requirements": {
-        "skill": 857,
-        "mana": 857
-    },
-    "duration": "PT150M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 429
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/strengthen-aura",
+	"requirements": {
+		"skill": 857,
+		"mana": 857
+	},
+	"duration": "PT150M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 429
+		}
+	}
 }

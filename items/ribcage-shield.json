@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "ribcage-shield",
-    "image": "sdd",
-    "type": "2-handed-equipment",
-    "dpr": 3,
-    "material": "gem",
-    "skill": "two-handed-shields",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "ribcage-shield",
+	"image": "sdd",
+	"type": "2-handed-equipment",
+	"dpr": 3,
+	"material": "gem",
+	"skill": "two-handed-shields",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

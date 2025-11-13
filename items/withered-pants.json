@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "withered-pants",
-    "image": "1574",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "wood",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "withered-pants",
+	"image": "1574",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "wood",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXMANA": 1
+	}
 }

@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "wristbands",
-    "image": "bt1",
-    "type": "wrist-jewelry",
-    "material": "gem",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "wristbands",
+	"image": "bt1",
+	"type": "wrist-jewelry",
+	"material": "gem",
+	"skills": {
+		"armor": 1
+	}
 }

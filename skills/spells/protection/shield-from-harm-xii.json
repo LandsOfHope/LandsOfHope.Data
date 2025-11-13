@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "protection/shield-from-harm-xii",
-    "requirements": {
-        "skill": 1444,
-        "mana": 1444
-    },
-    "duration": 4,
-    "effects": {
-        "damage": 1025,
-        "skills": {
-            "damage-absorption": 922
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "protection/shield-from-harm-xii",
+	"requirements": {
+		"skill": 1444,
+		"mana": 1444
+	},
+	"duration": 4,
+	"effects": {
+		"damage": 1025,
+		"skills": {
+			"damage-absorption": 922
+		}
+	}
 }

@@ -1,45 +1,43 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/queue/deltas/character-queue-delta.json",
-    "title": "CharacterQueueDelta",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/queue/deltas/character-queue-delta"
-        },
-        "added": {
-            "type": "array",
-            "minItems": 1,
-            "items": {
-                "$ref": "/schemas/v1/characters/queue/character-queue-item.json"
-            }
-        },
-        "updated": {
-            "type": "array",
-            "items": {
-                "type": "array",
-                "items": [
-                    {
-                        "$ref": "/schemas/v1/characters/queue/character-queue-item-id.json"
-                    },
-                    {
-                        "$ref": "/schemas/v1/characters/queue/deltas/character-queue-item-updated-delta.json"
-                    }
-                ],
-                "minItems": 2,
-                "maxItems": 2
-            },
-            "minItems": 1
-        },
-        "removed": {
-            "type": "array",
-            "minItems": 1,
-            "items": {
-                "$ref": "/schemas/v1/characters/queue/character-queue-item-id.json"
-            }
-        }
-    },
-    "required": [
-        "$type"
-    ],
-    "additionalProperties": false
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/deltas/character-queue-delta.json",
+	"title": "CharacterQueueDelta",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/queue/deltas/character-queue-delta"
+		},
+		"added": {
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"$ref": "/schemas/v1/characters/queue/character-queue-item.json"
+			}
+		},
+		"updated": {
+			"type": "array",
+			"items": {
+				"type": "array",
+				"items": [
+					{
+						"$ref": "/schemas/v1/characters/queue/character-queue-item-id.json"
+					},
+					{
+						"$ref": "/schemas/v1/characters/queue/deltas/character-queue-item-updated-delta.json"
+					}
+				],
+				"minItems": 2,
+				"maxItems": 2
+			},
+			"minItems": 1
+		},
+		"removed": {
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"$ref": "/schemas/v1/characters/queue/character-queue-item-id.json"
+			}
+		}
+	},
+	"required": ["$type"],
+	"additionalProperties": false
 }

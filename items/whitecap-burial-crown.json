@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "whitecap-burial-crown",
-    "image": "5017",
-    "type": "head-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "whitecap-burial-crown",
+	"image": "5017",
+	"type": "head-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXSTAMINA": 1
+	}
 }

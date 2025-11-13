@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "divine-fury/crusaders-faith-viii",
-    "requirements": {
-        "skill": 4400,
-        "mana": 640
-    },
-    "duration": "PT120M",
-    "effects": {
-        "properties": {
-            "SPEED": 1550
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "divine-fury/crusaders-faith-viii",
+	"requirements": {
+		"skill": 4400,
+		"mana": 640
+	},
+	"duration": "PT120M",
+	"effects": {
+		"properties": {
+			"SPEED": 1550
+		}
+	}
 }

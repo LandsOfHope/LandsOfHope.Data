@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "blade-of-the-fallen",
-    "image": "swf",
-    "type": "1-handed-equipment",
-    "dpr": 10,
-    "material": "gem",
-    "skill": "swords",
-    "skills": {
-        "swords": 1,
-        "spirit-magic": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "blade-of-the-fallen",
+	"image": "swf",
+	"type": "1-handed-equipment",
+	"dpr": 10,
+	"material": "gem",
+	"skill": "swords",
+	"skills": {
+		"swords": 1,
+		"spirit-magic": 1,
+		"attack-power": 1
+	}
 }

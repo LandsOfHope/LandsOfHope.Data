@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/items/enhancements/item-name",
-    "id": "names/the-invoker",
-    "effects": {
-        "skills": {
-            "invocation": 0.6
-        },
-        "properties": {
-            "INTELLIGENCE": 0.6
-        }
-    }
+	"$type": "/v1/items/enhancements/item-name",
+	"id": "names/the-invoker",
+	"effects": {
+		"skills": {
+			"invocation": 0.6
+		},
+		"properties": {
+			"INTELLIGENCE": 0.6
+		}
+	}
 }

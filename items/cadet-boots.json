@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "cadet-boots",
-    "image": "2585",
-    "type": "foot-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "cadet-boots",
+	"image": "2585",
+	"type": "foot-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

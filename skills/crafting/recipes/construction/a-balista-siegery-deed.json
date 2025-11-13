@@ -1,29 +1,29 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "construction/a-balista-siegery-deed",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "balista-siegery-deed"
-    },
-    "image": "1070",
-    "time": "PT15S",
-    "quantity": 1,
-    "skill": "construction",
-    "skillValue": 4920,
-    "quality": "uncommon",
-    "ingredients": [
-        {
-            "id": "ingot",
-            "quantity": 10
-        },
-        {
-            "id": "brick",
-            "quantity": 14,
-            "primary": true
-        },
-        {
-            "id": "plank",
-            "quantity": 100
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "construction/a-balista-siegery-deed",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "balista-siegery-deed"
+	},
+	"image": "1070",
+	"time": "PT15S",
+	"quantity": 1,
+	"skill": "construction",
+	"skillValue": 4920,
+	"quality": "uncommon",
+	"ingredients": [
+		{
+			"id": "ingot",
+			"quantity": 10
+		},
+		{
+			"id": "brick",
+			"quantity": 14,
+			"primary": true
+		},
+		{
+			"id": "plank",
+			"quantity": 100
+		}
+	]
 }

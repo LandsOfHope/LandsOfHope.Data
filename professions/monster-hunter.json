@@ -1,21 +1,21 @@
 {
-    "$type": "/v1/profession",
-    "id": "monster-hunter",
-    "name": {
-        "en": "Monster Hunter"
-    },
-    "desc": {
-        "en": "The killer of things."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 1,
-        "SPEED": 1,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "monster-hunter",
+	"name": {
+		"en": "Monster Hunter"
+	},
+	"desc": {
+		"en": "The killer of things."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 2
+	}
 }

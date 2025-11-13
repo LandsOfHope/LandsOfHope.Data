@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/items/enhancements/item-name",
-    "id": "names/the-trickster",
-    "effects": {
-        "skills": {
-            "deception": 0.4,
-            "lockpicking": 0.4
-        },
-        "properties": {
-            "DEXTERITY": 0.4
-        }
-    }
+	"$type": "/v1/items/enhancements/item-name",
+	"id": "names/the-trickster",
+	"effects": {
+		"skills": {
+			"deception": 0.4,
+			"lockpicking": 0.4
+		},
+		"properties": {
+			"DEXTERITY": 0.4
+		}
+	}
 }

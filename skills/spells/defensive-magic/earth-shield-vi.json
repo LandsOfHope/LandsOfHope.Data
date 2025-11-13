@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "defensive-magic/earth-shield-vi",
-    "requirements": {
-        "skill": 659,
-        "mana": 659
-    },
-    "duration": "PT450M",
-    "effects": {
-        "skills": {
-            "earth-resistance": 344
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "defensive-magic/earth-shield-vi",
+	"requirements": {
+		"skill": 659,
+		"mana": 659
+	},
+	"duration": "PT450M",
+	"effects": {
+		"skills": {
+			"earth-resistance": 344
+		}
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "beastmastery/tamers-heart-v",
-    "requirements": {
-        "skill": 2480,
-        "mana": 1300
-    },
-    "duration": "PT25M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 166
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "beastmastery/tamers-heart-v",
+	"requirements": {
+		"skill": 2480,
+		"mana": 1300
+	},
+	"duration": "PT25M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 166
+		}
+	}
 }

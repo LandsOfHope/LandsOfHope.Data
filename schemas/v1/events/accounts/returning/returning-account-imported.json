@@ -1,26 +1,21 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/returning/returning-account-imported.json",
-    "title": "ReturningAccountImportedEvent",
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {
-        "$type": {
-            "const": "/v1/events/accounts/returning/returning-account-imported"
-        },
-        "username": {
-            "type": "string"
-        },
-        "email": {
-            "$ref": "/schemas/v1/email-address.json"
-        },
-        "returningPlayerAccountToken": {
-            "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
-        }
-    },
-    "required": [
-        "$type",
-        "username",
-        "email",
-        "returningPlayerAccountToken"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/events/accounts/returning/returning-account-imported.json",
+	"title": "ReturningAccountImportedEvent",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/events/accounts/returning/returning-account-imported"
+		},
+		"username": {
+			"type": "string"
+		},
+		"email": {
+			"$ref": "/schemas/v1/email-address.json"
+		},
+		"returningPlayerAccountToken": {
+			"$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
+		}
+	},
+	"required": ["$type", "username", "email", "returningPlayerAccountToken"]
 }

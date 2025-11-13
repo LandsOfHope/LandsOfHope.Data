@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "sabretooth-mask",
-    "image": "ta1",
-    "type": "head-armour",
-    "armorType": "leather",
-    "expansion": "jurassic-wars",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "sabretooth-mask",
+	"image": "ta1",
+	"type": "head-armour",
+	"armorType": "leather",
+	"expansion": "jurassic-wars",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

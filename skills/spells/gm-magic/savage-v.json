@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/savage-v",
-    "requirements": {
-        "skill": 817,
-        "mana": 817
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 409
-        },
-        "skills": {
-            "attack-power": 409
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/savage-v",
+	"requirements": {
+		"skill": 817,
+		"mana": 817
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 409
+		},
+		"skills": {
+			"attack-power": 409
+		}
+	}
 }

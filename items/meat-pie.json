@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "meat-pie",
-    "image": "zumepi",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "HITPOINTS": 3,
-        "STAMINA": 3
-    }
+	"$type": "/v1/item",
+	"id": "meat-pie",
+	"image": "zumepi",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"HITPOINTS": 3,
+		"STAMINA": 3
+	}
 }

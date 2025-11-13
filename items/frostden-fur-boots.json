@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "frostden-fur-boots",
-    "image": "5016",
-    "type": "foot-armour",
-    "material": "hide",
-    "skills": {
-        "cold-survival": 1,
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "frostden-fur-boots",
+	"image": "5016",
+	"type": "foot-armour",
+	"material": "hide",
+	"skills": {
+		"cold-survival": 1,
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

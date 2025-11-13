@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/maminal-female-v",
-    "requirements": {
-        "skill": 877,
-        "mana": 877
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "skills": {
-            "attack-power": 439
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/maminal-female-v",
+	"requirements": {
+		"skill": 877,
+		"mana": 877
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"skills": {
+			"attack-power": 439
+		}
+	}
 }

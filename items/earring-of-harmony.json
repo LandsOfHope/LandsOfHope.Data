@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "earring-of-harmony",
-    "image": "feeaha",
-    "type": "ear-jewelry",
-    "material": "gem",
-    "skills": {
-        "instruments": 1
-    },
-    "properties": {
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "earring-of-harmony",
+	"image": "feeaha",
+	"type": "ear-jewelry",
+	"material": "gem",
+	"skills": {
+		"instruments": 1
+	},
+	"properties": {
+		"MAXMANA": 1
+	}
 }

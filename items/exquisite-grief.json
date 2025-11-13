@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "exquisite-grief",
-    "image": "6622",
-    "type": "ranged-weapon",
-    "dpr": 140,
-    "material": "wood",
-    "skill": "propelled",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "SPEED": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "exquisite-grief",
+	"image": "6622",
+	"type": "ranged-weapon",
+	"dpr": 140,
+	"material": "wood",
+	"skill": "propelled",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	}
 }

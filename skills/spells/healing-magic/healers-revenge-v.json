@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "healing-magic/healers-revenge-v",
-    "requirements": {
-        "skill": 4351,
-        "mana": 4351
-    },
-    "duration": "PT25M",
-    "effects": {
-        "damage": 3060,
-        "properties": {
-            "HITPOINTS": 2180
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "healing-magic/healers-revenge-v",
+	"requirements": {
+		"skill": 4351,
+		"mana": 4351
+	},
+	"duration": "PT25M",
+	"effects": {
+		"damage": 3060,
+		"properties": {
+			"HITPOINTS": 2180
+		}
+	}
 }

@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "pickaxe",
-    "image": "9",
-    "type": "1-handed-equipment",
-    "material": "metal",
-    "skill": "mining",
-    "skills": {
-        "mining": 1
-    }
+	"$type": "/v1/item",
+	"id": "pickaxe",
+	"image": "9",
+	"type": "1-handed-equipment",
+	"material": "metal",
+	"skill": "mining",
+	"skills": {
+		"mining": 1
+	}
 }

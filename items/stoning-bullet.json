@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "stoning-bullet",
-    "image": "zustbu2",
-    "type": "ammo-weapons-bullets",
-    "dpr": 60,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "stoning-bullet",
+	"image": "zustbu2",
+	"type": "ammo-weapons-bullets",
+	"dpr": 60,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

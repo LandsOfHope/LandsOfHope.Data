@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "hunting-rifle",
-    "image": "re1",
-    "type": "ranged-weapon",
-    "dpr": 4,
-    "material": "metal",
-    "skill": "two-handed-guns",
-    "skills": {
-        "two-handed-guns": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "hunting-rifle",
+	"image": "re1",
+	"type": "ranged-weapon",
+	"dpr": 4,
+	"material": "metal",
+	"skill": "two-handed-guns",
+	"skills": {
+		"two-handed-guns": 1,
+		"attack-power": 1
+	}
 }

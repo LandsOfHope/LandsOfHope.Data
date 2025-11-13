@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/saos-tao",
-    "requirements": {
-        "skill": 5,
-        "mana": 50
-    },
-    "duration": "PT50000M",
-    "effects": {
-        "properties": {
-            "MAXSTAMINA": 600
-        },
-        "skills": {
-            "divine-fury": 600
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/saos-tao",
+	"requirements": {
+		"skill": 5,
+		"mana": 50
+	},
+	"duration": "PT50000M",
+	"effects": {
+		"properties": {
+			"MAXSTAMINA": 600
+		},
+		"skills": {
+			"divine-fury": 600
+		}
+	}
 }

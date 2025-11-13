@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/rhino-thick-skin-i",
-    "requirements": {
-        "skill": 50,
-        "mana": 50
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 30
-        },
-        "skills": {
-            "armor": 20
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/rhino-thick-skin-i",
+	"requirements": {
+		"skill": 50,
+		"mana": 50
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 30
+		},
+		"skills": {
+			"armor": 20
+		}
+	}
 }

@@ -1,23 +1,23 @@
 {
-    "actions": {
-        "talk": {
-            "$type": "/v1/characters/actions/character-action-buy-recipes",
-            "id": "crazy-carrie"
-        }
-    },
-    "$type": "/v1/characters/character-header",
-    "appearance": {
-        "$type": "/v1/characters/appearance-profile",
-        "name": "Crazy Carrie",
-        "title": "seamanship-trainer",
-        "image": "pirate10",
-        "level": {
-            "primary": 1
-        },
-        "sex": "F",
-        "status": {
-            "dead": false,
-            "jailed": false
-        }
-    }
+	"actions": {
+		"talk": {
+			"$type": "/v1/characters/actions/character-action-buy-recipes",
+			"id": "crazy-carrie"
+		}
+	},
+	"$type": "/v1/characters/character-header",
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"name": "Crazy Carrie",
+		"title": "seamanship-trainer",
+		"image": "pirate10",
+		"level": {
+			"primary": 1
+		},
+		"sex": "F",
+		"status": {
+			"dead": false,
+			"jailed": false
+		}
+	}
 }

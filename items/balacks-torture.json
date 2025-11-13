@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "balacks-torture",
-    "image": "5039",
-    "type": "1-handed-equipment",
-    "dpr": 93,
-    "material": "metal",
-    "skill": "exotic-weapons",
-    "skills": {
-        "exotic-weapons": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "balacks-torture",
+	"image": "5039",
+	"type": "1-handed-equipment",
+	"dpr": 93,
+	"material": "metal",
+	"skill": "exotic-weapons",
+	"skills": {
+		"exotic-weapons": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

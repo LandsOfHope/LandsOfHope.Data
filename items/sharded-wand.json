@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "sharded-wand",
-    "image": "wand14",
-    "type": "1-handed-equipment",
-    "dpr": 90,
-    "material": "stone",
-    "skill": "staves",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "sharded-wand",
+	"image": "wand14",
+	"type": "1-handed-equipment",
+	"dpr": 90,
+	"material": "stone",
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

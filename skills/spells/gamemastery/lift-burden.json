@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/lift-burden",
-    "requirements": {
-        "skill": 793,
-        "mana": 793
-    },
-    "duration": "PT300M",
-    "effects": {
-        "properties": {
-            "MAXSTAMINA": 397
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/lift-burden",
+	"requirements": {
+		"skill": 793,
+		"mana": 793
+	},
+	"duration": "PT300M",
+	"effects": {
+		"properties": {
+			"MAXSTAMINA": 397
+		}
+	}
 }

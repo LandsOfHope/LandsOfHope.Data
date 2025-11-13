@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "gloombringer",
-    "image": "ft3",
-    "type": "1-handed-equipment",
-    "dpr": 10,
-    "material": "metal",
-    "skill": "fists",
-    "skills": {
-        "stealth": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "gloombringer",
+	"image": "ft3",
+	"type": "1-handed-equipment",
+	"dpr": 10,
+	"material": "metal",
+	"skill": "fists",
+	"skills": {
+		"stealth": 1,
+		"attack-power": 1
+	}
 }

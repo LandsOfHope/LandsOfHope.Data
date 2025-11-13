@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "regal-bracelet",
-    "image": "gmrebr",
-    "type": "wrist-jewelry",
-    "armorType": "cloth",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "regal-bracelet",
+	"image": "gmrebr",
+	"type": "wrist-jewelry",
+	"armorType": "cloth",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

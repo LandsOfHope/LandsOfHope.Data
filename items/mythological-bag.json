@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "mythological-bag",
-    "image": "zumyba",
-    "type": "bag",
-    "material": "hide",
-    "skills": {
-        "myth-and-legends": 1
-    }
+	"$type": "/v1/item",
+	"id": "mythological-bag",
+	"image": "zumyba",
+	"type": "bag",
+	"material": "hide",
+	"skills": {
+		"myth-and-legends": 1
+	}
 }

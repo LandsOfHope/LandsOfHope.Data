@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "commanders-badge",
-    "image": "6558",
-    "type": "forehead",
-    "material": "metal",
-    "skills": {
-        "health-regen": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "commanders-badge",
+	"image": "6558",
+	"type": "forehead",
+	"material": "metal",
+	"skills": {
+		"health-regen": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1
+	}
 }

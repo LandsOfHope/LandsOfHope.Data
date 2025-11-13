@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/weak-debuff-tonic",
-    "requirements": {
-        "skill": 3000,
-        "mana": 500
-    },
-    "duration": "PT100M",
-    "effects": {
-        "skills": {
-            "debuff-resistance": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/weak-debuff-tonic",
+	"requirements": {
+		"skill": 3000,
+		"mana": 500
+	},
+	"duration": "PT100M",
+	"effects": {
+		"skills": {
+			"debuff-resistance": 100
+		}
+	}
 }

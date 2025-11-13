@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/profession",
-    "id": "mail-goods-vendor",
-    "name": {
-        "en": "Mail Goods Vendor"
-    },
-    "desc": {
-        "en": "Centaur Mason. An expert at creating stone items from quarried stone."
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "mail-goods-vendor",
+	"name": {
+		"en": "Mail Goods Vendor"
+	},
+	"desc": {
+		"en": "Centaur Mason. An expert at creating stone items from quarried stone."
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"STRENGTH": 2
+	}
 }

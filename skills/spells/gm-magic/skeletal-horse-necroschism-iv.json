@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/skeletal-horse-necroschism-iv",
-    "requirements": {
-        "skill": 834,
-        "mana": 834
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 550
-        },
-        "skills": {
-            "necromancy": 2500
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/skeletal-horse-necroschism-iv",
+	"requirements": {
+		"skill": 834,
+		"mana": 834
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 550
+		},
+		"skills": {
+			"necromancy": 2500
+		}
+	}
 }

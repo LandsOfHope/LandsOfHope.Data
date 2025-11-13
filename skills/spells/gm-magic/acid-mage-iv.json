@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/acid-mage-iv",
-    "requirements": {
-        "skill": 685,
-        "mana": 685
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 343
-        },
-        "skills": {
-            "acid-resistance": 343
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/acid-mage-iv",
+	"requirements": {
+		"skill": 685,
+		"mana": 685
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 343
+		},
+		"skills": {
+			"acid-resistance": 343
+		}
+	}
 }

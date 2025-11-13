@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "royal-headband",
-    "image": "3184",
-    "type": "head-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "royal-headband",
+	"image": "3184",
+	"type": "head-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

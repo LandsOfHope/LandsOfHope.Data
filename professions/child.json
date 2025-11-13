@@ -1,20 +1,20 @@
 {
-    "$type": "/v1/profession",
-    "id": "child",
-    "name": {
-        "en": "Child"
-    },
-    "desc": {
-        "en": "A smaller version of a full grown person."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1,
-        "SPEED": 3
-    }
+	"$type": "/v1/profession",
+	"id": "child",
+	"name": {
+		"en": "Child"
+	},
+	"desc": {
+		"en": "A smaller version of a full grown person."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 3
+	}
 }

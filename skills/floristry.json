@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"crafting","titles":{"500":"novice-florist","2500":"adept-florist","5000":"master-florist"}}
+{
+	"$type": "/v1/skill",
+	"group": "crafting",
+	"titles": {
+		"500": "novice-florist",
+		"2500": "adept-florist",
+		"5000": "master-florist"
+	}
+}

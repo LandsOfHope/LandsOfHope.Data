@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "commanders-helm",
-    "image": "2660",
-    "type": "head-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "commanders-helm",
+	"image": "2660",
+	"type": "head-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

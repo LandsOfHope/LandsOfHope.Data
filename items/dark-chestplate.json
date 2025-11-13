@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "dark-chestplate",
-    "image": "1557",
-    "type": "chest-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "dark-chestplate",
+	"image": "1557",
+	"type": "chest-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

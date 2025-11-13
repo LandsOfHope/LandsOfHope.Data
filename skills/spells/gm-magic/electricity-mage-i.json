@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/electricity-mage-i",
-    "requirements": {
-        "skill": 136,
-        "mana": 136
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 69
-        },
-        "skills": {
-            "energy-resistance": 69
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/electricity-mage-i",
+	"requirements": {
+		"skill": 136,
+		"mana": 136
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 69
+		},
+		"skills": {
+			"energy-resistance": 69
+		}
+	}
 }

@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-dark-shadows",
-    "image": "rg9",
-    "type": "ring",
-    "material": "gem",
-    "skill": "stealth",
-    "skills": {
-        "stealth": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-dark-shadows",
+	"image": "rg9",
+	"type": "ring",
+	"material": "gem",
+	"skill": "stealth",
+	"skills": {
+		"stealth": 1
+	}
 }

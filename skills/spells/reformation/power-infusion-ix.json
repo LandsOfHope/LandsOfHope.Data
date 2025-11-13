@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "reformation/power-infusion-ix",
-    "requirements": {
-        "skill": 4500,
-        "mana": 3400
-    },
-    "duration": "PT120M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 1700
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "reformation/power-infusion-ix",
+	"requirements": {
+		"skill": 4500,
+		"mana": 3400
+	},
+	"duration": "PT120M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 1700
+		}
+	}
 }

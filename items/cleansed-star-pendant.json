@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "cleansed-star-pendant",
-    "image": "6040",
-    "type": "neck",
-    "armorType": "cloth",
-    "material": "gem",
-    "skill": "celestial-weapons",
-    "skills": {
-        "celestial-defense": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "cleansed-star-pendant",
+	"image": "6040",
+	"type": "neck",
+	"armorType": "cloth",
+	"material": "gem",
+	"skill": "celestial-weapons",
+	"skills": {
+		"celestial-defense": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1
+	}
 }

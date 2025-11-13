@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "reinforced-chestplate",
-    "image": "2250",
-    "type": "chest-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "reinforced-chestplate",
+	"image": "2250",
+	"type": "chest-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

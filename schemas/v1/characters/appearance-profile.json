@@ -1,53 +1,46 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/appearance-profile.json",
-    "title": "AppearanceProfile",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/appearance-profile"
-        },
-        "name": {
-            "$ref": "/schemas/v1/characters/character-name.json"
-        },
-        "title": {
-            "oneOf": [
-                {
-                    "$ref": "/schemas/v1/titles-id.gen.json"
-                },
-                {
-                    "$ref": "/schemas/v1/professions-id.gen.json"
-                }
-            ]
-        },
-        "image": {
-            "$ref": "/schemas/v1/characters-images-id.gen.json"
-        },
-        "level": {
-            "$ref": "/schemas/v1/characters/character-level.json"
-        },
-        "sex": {
-            "$ref": "/schemas/v0/characters/character-sex.json"
-        },
-        "status": {
-            "$ref": "/schemas/v1/characters/character-status.json"
-        },
-        "mount": {
-            "$ref": "/schemas/v1/characters/appearance-profile.json"
-        },
-        "possessor": {
-            "$ref": "/schemas/v1/characters/appearance-profile.json"
-        },
-        "allegiance": {
-            "$ref": "/schemas/v1/allegiances-id.gen.json"
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "$type",
-        "name",
-        "title",
-        "image",
-        "level",
-        "sex"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/appearance-profile.json",
+	"title": "AppearanceProfile",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/appearance-profile"
+		},
+		"name": {
+			"$ref": "/schemas/v1/characters/character-name.json"
+		},
+		"title": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/titles-id.gen.json"
+				},
+				{
+					"$ref": "/schemas/v1/professions-id.gen.json"
+				}
+			]
+		},
+		"image": {
+			"$ref": "/schemas/v1/characters-images-id.gen.json"
+		},
+		"level": {
+			"$ref": "/schemas/v1/characters/character-level.json"
+		},
+		"sex": {
+			"$ref": "/schemas/v0/characters/character-sex.json"
+		},
+		"status": {
+			"$ref": "/schemas/v1/characters/character-status.json"
+		},
+		"mount": {
+			"$ref": "/schemas/v1/characters/appearance-profile.json"
+		},
+		"possessor": {
+			"$ref": "/schemas/v1/characters/appearance-profile.json"
+		},
+		"allegiance": {
+			"$ref": "/schemas/v1/allegiances-id.gen.json"
+		}
+	},
+	"additionalProperties": false,
+	"required": ["$type", "name", "title", "image", "level", "sex"]
 }

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/battle-lizard-health-ii",
-    "requirements": {
-        "skill": 435,
-        "mana": 435
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 50
-        },
-        "skills": {
-            "health-regen": 10
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/battle-lizard-health-ii",
+	"requirements": {
+		"skill": 435,
+		"mana": 435
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 50
+		},
+		"skills": {
+			"health-regen": 10
+		}
+	}
 }

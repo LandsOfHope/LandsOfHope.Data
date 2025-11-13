@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "dagger-of-lightning-blows",
-    "image": "zudalibl",
-    "type": "1-handed-equipment",
-    "dpr": 4,
-    "material": "metal",
-    "skill": "daggers",
-    "skills": {
-        "daggers": 1
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "dagger-of-lightning-blows",
+	"image": "zudalibl",
+	"type": "1-handed-equipment",
+	"dpr": 4,
+	"material": "metal",
+	"skill": "daggers",
+	"skills": {
+		"daggers": 1
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"SPEED": 1
+	}
 }

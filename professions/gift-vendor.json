@@ -1,27 +1,27 @@
 {
-    "$type": "/v1/profession",
-    "id": "gift-vendor",
-    "name": {
-        "en": "Gift Vendor"
-    },
-    "desc": {
-        "en": "Sells various trinkets and goods for holidays."
-    },
-    "skills": {
-        "fire-magic": 5,
-        "stealth": 5,
-        "track-undead": 5,
-        "crossbows": 5,
-        "shields": 5,
-        "protection": 5,
-        "two-handed-swords": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1,
-        "SPEED": 1
-    }
+	"$type": "/v1/profession",
+	"id": "gift-vendor",
+	"name": {
+		"en": "Gift Vendor"
+	},
+	"desc": {
+		"en": "Sells various trinkets and goods for holidays."
+	},
+	"skills": {
+		"fire-magic": 5,
+		"stealth": 5,
+		"track-undead": 5,
+		"crossbows": 5,
+		"shields": 5,
+		"protection": 5,
+		"two-handed-swords": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1
+	}
 }

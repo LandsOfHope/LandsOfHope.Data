@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "depraved-legs",
-    "image": "1815",
-    "type": "leg-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "depraved-legs",
+	"image": "1815",
+	"type": "leg-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

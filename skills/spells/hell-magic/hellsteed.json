@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "hell-magic/hellsteed",
-    "requirements": {
-        "skill": 997,
-        "mana": 997
-    },
-    "duration": "PT50M",
-    "effects": {
-        "summon-pet": {
-            "race": "nightmare",
-            "profession": "creature"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "hell-magic/hellsteed",
+	"requirements": {
+		"skill": 997,
+		"mana": 997
+	},
+	"duration": "PT50M",
+	"effects": {
+		"summon-pet": {
+			"race": "nightmare",
+			"profession": "creature"
+		}
+	}
 }

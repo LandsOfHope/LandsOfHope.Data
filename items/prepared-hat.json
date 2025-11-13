@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "prepared-hat",
-    "image": "what6",
-    "type": "head-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "prepared-hat",
+	"image": "what6",
+	"type": "head-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXMANA": 1
+	}
 }

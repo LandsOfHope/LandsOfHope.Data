@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "furnishing-tool",
-    "image": "clb",
-    "type": "1-handed-equipment",
-    "material": "metal",
-    "skill": "furnishing",
-    "skills": {
-        "furnishing": 1
-    }
+	"$type": "/v1/item",
+	"id": "furnishing-tool",
+	"image": "clb",
+	"type": "1-handed-equipment",
+	"material": "metal",
+	"skill": "furnishing",
+	"skills": {
+		"furnishing": 1
+	}
 }

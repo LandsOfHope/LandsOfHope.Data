@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "cheese-wheel",
-    "image": "ch3",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "HITPOINTS": 2
-    }
+	"$type": "/v1/item",
+	"id": "cheese-wheel",
+	"image": "ch3",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"HITPOINTS": 2
+	}
 }

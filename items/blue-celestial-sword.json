@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "blue-celestial-sword",
-    "image": "6005",
-    "type": "1-handed-equipment",
-    "dpr": 12,
-    "material": "metal",
-    "skill": "celestial-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "blue-celestial-sword",
+	"image": "6005",
+	"type": "1-handed-equipment",
+	"dpr": 12,
+	"material": "metal",
+	"skill": "celestial-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXMANA": 1
+	}
 }

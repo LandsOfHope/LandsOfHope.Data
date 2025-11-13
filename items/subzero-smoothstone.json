@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "subzero-smoothstone",
-    "image": "sms",
-    "type": "ammo-weapons-rocks",
-    "dpr": 71,
-    "material": "stone",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "subzero-smoothstone",
+	"image": "sms",
+	"type": "ammo-weapons-rocks",
+	"dpr": 71,
+	"material": "stone",
+	"skills": {
+		"attack-power": 1
+	}
 }

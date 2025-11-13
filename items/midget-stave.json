@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "midget-stave",
-    "image": "msf",
-    "type": "1-handed-equipment",
-    "dpr": 3,
-    "material": "wood",
-    "skill": "staves",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "midget-stave",
+	"image": "msf",
+	"type": "1-handed-equipment",
+	"dpr": 3,
+	"material": "wood",
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

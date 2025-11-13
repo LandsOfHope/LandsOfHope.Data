@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "swashbuckler-shirt",
-    "image": "5260",
-    "type": "chest-armour",
-    "armorType": "leather",
-    "expansion": "uncharted-waters",
-    "material": "cloth",
-    "skill": "myzan-navy",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "swashbuckler-shirt",
+	"image": "5260",
+	"type": "chest-armour",
+	"armorType": "leather",
+	"expansion": "uncharted-waters",
+	"material": "cloth",
+	"skill": "myzan-navy",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

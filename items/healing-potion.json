@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "healing-potion",
-    "image": "pr2",
-    "type": "magic-potion",
-    "material": "gem",
-    "properties": {
-        "HITPOINTS": 2
-    }
+	"$type": "/v1/item",
+	"id": "healing-potion",
+	"image": "pr2",
+	"type": "magic-potion",
+	"material": "gem",
+	"properties": {
+		"HITPOINTS": 2
+	}
 }

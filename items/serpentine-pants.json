@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "serpentine-pants",
-    "image": "2096",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "snake",
-    "skills": {
-        "poison-resistance": 1
-    }
+	"$type": "/v1/item",
+	"id": "serpentine-pants",
+	"image": "2096",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "snake",
+	"skills": {
+		"poison-resistance": 1
+	}
 }

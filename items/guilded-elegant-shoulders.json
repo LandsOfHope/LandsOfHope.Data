@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-elegant-shoulders",
-    "image": "3957",
-    "type": "shoulders",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-elegant-shoulders",
+	"image": "3957",
+	"type": "shoulders",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

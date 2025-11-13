@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "battle-headbreaker",
-    "image": "lsf",
-    "type": "2-handed-equipment",
-    "dpr": 42,
-    "material": "wood",
-    "skill": "two-handed-staves",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "battle-headbreaker",
+	"image": "lsf",
+	"type": "2-handed-equipment",
+	"dpr": 42,
+	"material": "wood",
+	"skill": "two-handed-staves",
+	"skills": {
+		"attack-power": 1
+	}
 }

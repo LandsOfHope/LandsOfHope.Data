@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "defensive-magic/fire-shield-iii",
-    "requirements": {
-        "skill": 225,
-        "mana": 225
-    },
-    "duration": "PT165M",
-    "effects": {
-        "skills": {
-            "fire-resistance": 127
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "defensive-magic/fire-shield-iii",
+	"requirements": {
+		"skill": 225,
+		"mana": 225
+	},
+	"duration": "PT165M",
+	"effects": {
+		"skills": {
+			"fire-resistance": 127
+		}
+	}
 }

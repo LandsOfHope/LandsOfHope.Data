@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-wicked-headguard",
-    "image": "3701",
-    "type": "head-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-wicked-headguard",
+	"image": "3701",
+	"type": "head-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

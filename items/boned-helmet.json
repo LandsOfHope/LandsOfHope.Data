@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "boned-helmet",
-    "image": "515",
-    "type": "head-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "boned-helmet",
+	"image": "515",
+	"type": "head-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

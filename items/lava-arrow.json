@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "lava-arrow",
-    "image": "zulaar",
-    "type": "ammo-weapons-bows",
-    "dpr": 5,
-    "material": "wood",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "lava-arrow",
+	"image": "zulaar",
+	"type": "ammo-weapons-bows",
+	"dpr": 5,
+	"material": "wood",
+	"skills": {
+		"attack-power": 1
+	}
 }

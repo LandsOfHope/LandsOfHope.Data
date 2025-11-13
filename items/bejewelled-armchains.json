@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "bejewelled-armchains",
-    "image": "2732",
-    "type": "arm-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "bejewelled-armchains",
+	"image": "2732",
+	"type": "arm-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

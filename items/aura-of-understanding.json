@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "aura-of-understanding",
-    "image": "6181",
-    "type": "aura",
-    "material": "gem",
-    "skills": {
-        "experience-bonus": 2
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "aura-of-understanding",
+	"image": "6181",
+	"type": "aura",
+	"material": "gem",
+	"skills": {
+		"experience-bonus": 2
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

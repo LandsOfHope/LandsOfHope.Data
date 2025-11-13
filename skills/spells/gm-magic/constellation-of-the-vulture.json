@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/constellation-of-the-vulture",
-    "requirements": {
-        "skill": 50,
-        "mana": 50
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "SPEED": 50
-        },
-        "skills": {
-            "detect-hidden": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/constellation-of-the-vulture",
+	"requirements": {
+		"skill": 50,
+		"mana": 50
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"SPEED": 50
+		},
+		"skills": {
+			"detect-hidden": 100
+		}
+	}
 }

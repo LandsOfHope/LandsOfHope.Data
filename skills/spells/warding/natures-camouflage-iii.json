@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "warding/natures-camouflage-iii",
-    "requirements": {
-        "skill": 505,
-        "mana": 426
-    },
-    "duration": 3,
-    "effects": {
-        "damage": 365,
-        "skills": {
-            "damage-absorption": 365
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "warding/natures-camouflage-iii",
+	"requirements": {
+		"skill": 505,
+		"mana": 426
+	},
+	"duration": 3,
+	"effects": {
+		"damage": 365,
+		"skills": {
+			"damage-absorption": 365
+		}
+	}
 }

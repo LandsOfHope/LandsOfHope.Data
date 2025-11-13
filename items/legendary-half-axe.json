@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "legendary-half-axe",
-    "image": "ham",
-    "type": "1-handed-equipment",
-    "dpr": 120,
-    "legendary": true,
-    "material": "metal",
-    "skill": "axes",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "legendary-half-axe",
+	"image": "ham",
+	"type": "1-handed-equipment",
+	"dpr": 120,
+	"legendary": true,
+	"material": "metal",
+	"skill": "axes",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

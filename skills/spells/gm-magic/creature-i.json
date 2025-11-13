@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/creature-i",
-    "requirements": {
-        "skill": 34,
-        "mana": 34
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 18
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/creature-i",
+	"requirements": {
+		"skill": 34,
+		"mana": 34
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 18
+		}
+	}
 }

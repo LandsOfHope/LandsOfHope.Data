@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "blessed-tenth-sandals",
-    "image": "ta4",
-    "type": "foot-armour",
-    "armorType": "cloth",
-    "set": "blessed-tenth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "blessed-tenth-sandals",
+	"image": "ta4",
+	"type": "foot-armour",
+	"armorType": "cloth",
+	"set": "blessed-tenth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	}
 }

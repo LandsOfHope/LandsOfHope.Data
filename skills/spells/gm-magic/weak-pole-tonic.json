@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/weak-pole-tonic",
-    "requirements": {
-        "skill": 3000,
-        "mana": 650
-    },
-    "duration": "PT130M",
-    "effects": {
-        "skills": {
-            "pole-defense": 130
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/weak-pole-tonic",
+	"requirements": {
+		"skill": 3000,
+		"mana": 650
+	},
+	"duration": "PT130M",
+	"effects": {
+		"skills": {
+			"pole-defense": 130
+		}
+	}
 }

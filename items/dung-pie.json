@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "dung-pie",
-    "image": "ap1",
-    "type": "ranged-weapon",
-    "dpr": 8,
-    "material": "hide",
-    "skill": "thrown-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "STAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "dung-pie",
+	"image": "ap1",
+	"type": "ranged-weapon",
+	"dpr": 8,
+	"material": "hide",
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"STAMINA": 1
+	}
 }

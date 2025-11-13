@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "death-shroud",
-    "image": "cl6",
-    "type": "cloak",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "poison-resistance": 1,
-        "poison-magic": 1
-    }
+	"$type": "/v1/item",
+	"id": "death-shroud",
+	"image": "cl6",
+	"type": "cloak",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"poison-resistance": 1,
+		"poison-magic": 1
+	}
 }

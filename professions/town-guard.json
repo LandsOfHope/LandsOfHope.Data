@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "town-guard",
-    "name": {
-        "en": "Town Guard"
-    },
-    "desc": {
-        "en": "The guardian of a town."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 5,
-        "MAXSTAMINA": 4,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "town-guard",
+	"name": {
+		"en": "Town Guard"
+	},
+	"desc": {
+		"en": "The guardian of a town."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 5,
+		"MAXSTAMINA": 4,
+		"STRENGTH": 2
+	}
 }

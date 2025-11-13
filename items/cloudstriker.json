@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "cloudstriker",
-    "image": "zuclcr",
-    "type": "2-handed-equipment",
-    "dpr": 12,
-    "material": "metal",
-    "skill": "two-handed-swords",
-    "skills": {
-        "air-survival": 1,
-        "two-handed-swords": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "cloudstriker",
+	"image": "zuclcr",
+	"type": "2-handed-equipment",
+	"dpr": 12,
+	"material": "metal",
+	"skill": "two-handed-swords",
+	"skills": {
+		"air-survival": 1,
+		"two-handed-swords": 1,
+		"attack-power": 1
+	}
 }

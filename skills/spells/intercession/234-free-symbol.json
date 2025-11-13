@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "intercession/234-free-symbol",
-    "requirements": {
-        "skill": 2340,
-        "level": 468,
-        "mana": 2340
-    },
-    "duration": "PT999M",
-    "effects": {
-        "properties": {
-            "MAXSTAMINA": 234
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "intercession/234-free-symbol",
+	"requirements": {
+		"skill": 2340,
+		"level": 468,
+		"mana": 2340
+	},
+	"duration": "PT999M",
+	"effects": {
+		"properties": {
+			"MAXSTAMINA": 234
+		}
+	}
 }

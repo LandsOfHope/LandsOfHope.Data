@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "bejewelled-sleeves",
-    "image": "2710",
-    "type": "arm-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "bejewelled-sleeves",
+	"image": "2710",
+	"type": "arm-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

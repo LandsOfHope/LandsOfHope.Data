@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/mindwraithe-hover-iii",
-    "requirements": {
-        "skill": 638,
-        "mana": 638
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "fire-survival": 320
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/mindwraithe-hover-iii",
+	"requirements": {
+		"skill": 638,
+		"mana": 638
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"fire-survival": 320
+		}
+	}
 }

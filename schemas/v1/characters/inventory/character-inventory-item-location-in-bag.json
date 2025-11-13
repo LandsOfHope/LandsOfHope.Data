@@ -1,38 +1,34 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/character-inventory-item-location-in-bag.json",
-    "title": "CharacterInventoryItemLocationInBag",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/inventory/character-inventory-item-location-in-bag"
-        },
-        "character": {
-            "$ref": "/schemas/v1/characters/character-id.json"
-        },
-        "location": {
-            "anyOf": [
-                {
-                    "$ref": "/schemas/v1/characters/inventory/character-default-bag-location.json"
-                },
-                {
-                    "$ref": "/schemas/v1/characters/inventory/character-equippable-bag-location.json"
-                },
-                {
-                    "allOf": [
-                        {
-                            "const": "tradebag"
-                        },
-                        {
-                            "$ref": "/schemas/v1/items-locations-id.gen.json"
-                        }
-                    ]
-                }
-            ]
-        }
-    },
-    "required": [
-        "$type",
-        "character",
-        "location"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/character-inventory-item-location-in-bag.json",
+	"title": "CharacterInventoryItemLocationInBag",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/inventory/character-inventory-item-location-in-bag"
+		},
+		"character": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"location": {
+			"anyOf": [
+				{
+					"$ref": "/schemas/v1/characters/inventory/character-default-bag-location.json"
+				},
+				{
+					"$ref": "/schemas/v1/characters/inventory/character-equippable-bag-location.json"
+				},
+				{
+					"allOf": [
+						{
+							"const": "tradebag"
+						},
+						{
+							"$ref": "/schemas/v1/items-locations-id.gen.json"
+						}
+					]
+				}
+			]
+		}
+	},
+	"required": ["$type", "character", "location"]
 }

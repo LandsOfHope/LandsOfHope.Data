@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/water-cow-swim-iii",
-    "requirements": {
-        "skill": 631,
-        "mana": 631
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "water-survival": 316
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/water-cow-swim-iii",
+	"requirements": {
+		"skill": 631,
+		"mana": 631
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"water-survival": 316
+		}
+	}
 }

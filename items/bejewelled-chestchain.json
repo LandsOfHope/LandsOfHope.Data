@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "bejewelled-chestchain",
-    "image": "2512",
-    "type": "chest-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "bejewelled-chestchain",
+	"image": "2512",
+	"type": "chest-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

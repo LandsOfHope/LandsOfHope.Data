@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "cracked-voidic-sleeves",
-    "image": "681",
-    "type": "arm-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "cracked-voidic-sleeves",
+	"image": "681",
+	"type": "arm-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

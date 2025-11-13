@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "necklace-of-insight",
-    "image": "zunov",
-    "type": "neck",
-    "material": "gem",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "necklace-of-insight",
+	"image": "zunov",
+	"type": "neck",
+	"material": "gem",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1
+	}
 }

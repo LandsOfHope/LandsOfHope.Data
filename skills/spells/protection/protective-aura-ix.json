@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "protection/protective-aura-ix",
-    "requirements": {
-        "skill": 4293,
-        "mana": 4293
-    },
-    "duration": 4,
-    "effects": {
-        "damage": 3020,
-        "skills": {
-            "damage-absorption": 2718
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "protection/protective-aura-ix",
+	"requirements": {
+		"skill": 4293,
+		"mana": 4293
+	},
+	"duration": 4,
+	"effects": {
+		"damage": 3020,
+		"skills": {
+			"damage-absorption": 2718
+		}
+	}
 }

@@ -1,6 +1,6 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item-nickname.json",
-    "title": "CharacterInventoryItemNickname",
-    "type": "string",
-    "maxLength": 30
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item-nickname.json",
+	"title": "CharacterInventoryItemNickname",
+	"type": "string",
+	"maxLength": 30
 }

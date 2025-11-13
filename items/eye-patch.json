@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "eye-patch",
-    "image": "eyp",
-    "type": "forehead",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "eye-patch",
+	"image": "eyp",
+	"type": "forehead",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

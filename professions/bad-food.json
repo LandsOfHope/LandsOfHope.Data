@@ -1,25 +1,25 @@
 {
-    "$type": "/v1/profession",
-    "id": "bad-food",
-    "name": {
-        "en": "Bad Food"
-    },
-    "desc": {
-        "en": ""
-    },
-    "skills": {
-        "frenzy": 5,
-        "fists": 5,
-        "cooking-magic": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 6,
-        "MAXMANA": 3,
-        "MAXSTAMINA": 2,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "bad-food",
+	"name": {
+		"en": "Bad Food"
+	},
+	"desc": {
+		"en": ""
+	},
+	"skills": {
+		"frenzy": 5,
+		"fists": 5,
+		"cooking-magic": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 6,
+		"MAXMANA": 3,
+		"MAXSTAMINA": 2,
+		"STRENGTH": 2
+	}
 }

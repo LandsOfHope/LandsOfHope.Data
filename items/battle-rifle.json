@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "battle-rifle",
-    "image": "re1",
-    "type": "2-handed-equipment",
-    "dpr": 42,
-    "material": "metal",
-    "skill": "two-handed-guns",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "battle-rifle",
+	"image": "re1",
+	"type": "2-handed-equipment",
+	"dpr": 42,
+	"material": "metal",
+	"skill": "two-handed-guns",
+	"skills": {
+		"attack-power": 1
+	}
 }

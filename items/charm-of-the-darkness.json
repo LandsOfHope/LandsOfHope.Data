@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "charm-of-the-darkness",
-    "image": "zuchda",
-    "type": "wrist-jewelry",
-    "material": "wood",
-    "skills": {
-        "dark-magic": 1
-    }
+	"$type": "/v1/item",
+	"id": "charm-of-the-darkness",
+	"image": "zuchda",
+	"type": "wrist-jewelry",
+	"material": "wood",
+	"skills": {
+		"dark-magic": 1
+	}
 }

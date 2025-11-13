@@ -1,25 +1,25 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "tinkering/primeval-dart",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "primeval-dart"
-    },
-    "image": "drt",
-    "time": "PT15S",
-    "quantity": 20,
-    "skill": "tinkering",
-    "skillValue": 2480,
-    "quality": "common",
-    "ingredients": [
-        {
-            "id": "dart-tip",
-            "quantity": 5
-        },
-        {
-            "id": "plank",
-            "quantity": 5,
-            "primary": true
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "tinkering/primeval-dart",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "primeval-dart"
+	},
+	"image": "drt",
+	"time": "PT15S",
+	"quantity": 20,
+	"skill": "tinkering",
+	"skillValue": 2480,
+	"quality": "common",
+	"ingredients": [
+		{
+			"id": "dart-tip",
+			"quantity": 5
+		},
+		{
+			"id": "plank",
+			"quantity": 5,
+			"primary": true
+		}
+	]
 }

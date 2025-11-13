@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/profession",
-    "id": "leather-goods-vendor",
-    "name": {
-        "en": "Leather Goods Vendor"
-    },
-    "desc": {
-        "en": "Pixie Tailor. An expert at creating tailored items from cloth and hide and feathers."
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/profession",
+	"id": "leather-goods-vendor",
+	"name": {
+		"en": "Leather Goods Vendor"
+	},
+	"desc": {
+		"en": "Pixie Tailor. An expert at creating tailored items from cloth and hide and feathers."
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1
+	}
 }

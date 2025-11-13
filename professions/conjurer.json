@@ -1,24 +1,24 @@
 {
-    "$type": "/v1/profession",
-    "id": "conjurer",
-    "name": {
-        "en": "Conjurer"
-    },
-    "desc": {
-        "en": "Conjurer"
-    },
-    "skills": {
-        "invocation": 5,
-        "mana-draining": 5,
-        "two-handed-staves": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 2,
-        "MAXMANA": 3,
-        "SPEED": 1
-    }
+	"$type": "/v1/profession",
+	"id": "conjurer",
+	"name": {
+		"en": "Conjurer"
+	},
+	"desc": {
+		"en": "Conjurer"
+	},
+	"skills": {
+		"invocation": 5,
+		"mana-draining": 5,
+		"two-handed-staves": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 3,
+		"SPEED": 1
+	}
 }

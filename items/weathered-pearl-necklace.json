@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "weathered-pearl-necklace",
-    "image": "4986",
-    "type": "neck",
-    "material": "gem",
-    "skills": {
-        "appraisal": 1
-    },
-    "properties": {
-        "DEXTERITY": 1
-    }
+	"$type": "/v1/item",
+	"id": "weathered-pearl-necklace",
+	"image": "4986",
+	"type": "neck",
+	"material": "gem",
+	"skills": {
+		"appraisal": 1
+	},
+	"properties": {
+		"DEXTERITY": 1
+	}
 }

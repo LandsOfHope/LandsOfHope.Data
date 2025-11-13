@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "the-sea-kings-eye",
-    "image": "6576",
-    "type": "glasses-shades",
-    "expansion": "uncharted-waters",
-    "material": "gem",
-    "skills": {
-        "exploration": 1,
-        "track-items": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "the-sea-kings-eye",
+	"image": "6576",
+	"type": "glasses-shades",
+	"expansion": "uncharted-waters",
+	"material": "gem",
+	"skills": {
+		"exploration": 1,
+		"track-items": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

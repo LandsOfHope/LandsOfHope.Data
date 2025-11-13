@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "virginias-ring-of-appraising",
-    "image": "6798",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "appraisal": 2
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "virginias-ring-of-appraising",
+	"image": "6798",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"appraisal": 2
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "raiding-hatchet",
-    "image": "zuraha",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "expansion": "uncharted-waters",
-    "material": "metal",
-    "skill": "axes",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "raiding-hatchet",
+	"image": "zuraha",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"expansion": "uncharted-waters",
+	"material": "metal",
+	"skill": "axes",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "banjo",
-    "image": "5983",
-    "type": "ranged-weapon",
-    "dpr": 4,
-    "material": "wood",
-    "skill": "instruments",
-    "properties": {
-        "MAXSTAMINA": 1,
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "banjo",
+	"image": "5983",
+	"type": "ranged-weapon",
+	"dpr": 4,
+	"material": "wood",
+	"skill": "instruments",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"SPEED": 1
+	}
 }

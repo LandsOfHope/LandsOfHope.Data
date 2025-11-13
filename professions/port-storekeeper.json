@@ -1,18 +1,18 @@
 {
-    "$type": "/v1/profession",
-    "id": "port-storekeeper",
-    "name": {
-        "en": "Port Storekeeper"
-    },
-    "desc": {
-        "en": "Keeper of the port stores"
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 2,
-        "MAXSTAMINA": 2
-    }
+	"$type": "/v1/profession",
+	"id": "port-storekeeper",
+	"name": {
+		"en": "Port Storekeeper"
+	},
+	"desc": {
+		"en": "Keeper of the port stores"
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 2,
+		"MAXSTAMINA": 2
+	}
 }

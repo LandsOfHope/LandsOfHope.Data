@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "verdant-bullet",
-    "image": "zuvebu",
-    "type": "ammo-weapons-bullets",
-    "dpr": 48,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "verdant-bullet",
+	"image": "zuvebu",
+	"type": "ammo-weapons-bullets",
+	"dpr": 48,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

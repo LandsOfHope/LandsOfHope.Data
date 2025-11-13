@@ -1,26 +1,26 @@
 {
-    "$type": "/v1/profession",
-    "id": "guard-battle-healer",
-    "name": {
-        "en": "Guard Battle Healer"
-    },
-    "desc": {
-        "en": "Guard Healer"
-    },
-    "skills": {
-        "healing-magic": 5,
-        "two-handed-staves": 5,
-        "staves": 5,
-        "bludgeon-defense": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 4,
-        "MAXMANA": 2,
-        "MAXSTAMINA": 3,
-        "SPEED": 2,
-        "STRENGTH": 3
-    }
+	"$type": "/v1/profession",
+	"id": "guard-battle-healer",
+	"name": {
+		"en": "Guard Battle Healer"
+	},
+	"desc": {
+		"en": "Guard Healer"
+	},
+	"skills": {
+		"healing-magic": 5,
+		"two-handed-staves": 5,
+		"staves": 5,
+		"bludgeon-defense": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 4,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 3,
+		"SPEED": 2,
+		"STRENGTH": 3
+	}
 }

@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "quest-marker",
-    "name": {
-        "en": "Quest Marker"
-    },
-    "desc": {
-        "en": "The fixer of quests."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 3
-    }
+	"$type": "/v1/profession",
+	"id": "quest-marker",
+	"name": {
+		"en": "Quest Marker"
+	},
+	"desc": {
+		"en": "The fixer of quests."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 3
+	}
 }

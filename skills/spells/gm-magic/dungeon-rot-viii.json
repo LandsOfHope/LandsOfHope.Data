@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/dungeon-rot-viii",
-    "requirements": {
-        "skill": 350,
-        "mana": 5
-    },
-    "duration": "PT25M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": -215
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/dungeon-rot-viii",
+	"requirements": {
+		"skill": 350,
+		"mana": 5
+	},
+	"duration": "PT25M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": -215
+		}
+	}
 }

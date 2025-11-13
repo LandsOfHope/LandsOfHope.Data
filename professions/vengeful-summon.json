@@ -1,23 +1,23 @@
 {
-    "$type": "/v1/profession",
-    "id": "vengeful-summon",
-    "name": {
-        "en": "Vengeful Summon"
-    },
-    "desc": {
-        "en": "A vengeful summon."
-    },
-    "skills": {
-        "frenzy": 5,
-        "fists": 5,
-        "dual-wielding": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 6,
-        "MAXSTAMINA": 7,
-        "SPEED": 3
-    }
+	"$type": "/v1/profession",
+	"id": "vengeful-summon",
+	"name": {
+		"en": "Vengeful Summon"
+	},
+	"desc": {
+		"en": "A vengeful summon."
+	},
+	"skills": {
+		"frenzy": 5,
+		"fists": 5,
+		"dual-wielding": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 6,
+		"MAXSTAMINA": 7,
+		"SPEED": 3
+	}
 }

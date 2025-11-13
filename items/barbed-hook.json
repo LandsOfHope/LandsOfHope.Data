@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "barbed-hook",
-    "image": "bbh",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "material": "metal",
-    "skill": "fists",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "barbed-hook",
+	"image": "bbh",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"material": "metal",
+	"skill": "fists",
+	"skills": {
+		"attack-power": 1
+	}
 }

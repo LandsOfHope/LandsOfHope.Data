@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "sooty-jacket",
-    "image": "zusoja",
-    "type": "chest-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "cold-resistance": 1,
-        "fire-resistance": 1
-    }
+	"$type": "/v1/item",
+	"id": "sooty-jacket",
+	"image": "zusoja",
+	"type": "chest-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"cold-resistance": 1,
+		"fire-resistance": 1
+	}
 }

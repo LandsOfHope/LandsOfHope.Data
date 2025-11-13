@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "faded-trousers",
-    "image": "ptro11",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "faded-trousers",
+	"image": "ptro11",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

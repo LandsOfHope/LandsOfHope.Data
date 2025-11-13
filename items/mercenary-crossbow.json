@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "mercenary-crossbow",
-    "image": "6657",
-    "type": "ranged-weapon",
-    "dpr": 3,
-    "material": "wood",
-    "skill": "crossbows",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "mercenary-crossbow",
+	"image": "6657",
+	"type": "ranged-weapon",
+	"dpr": 3,
+	"material": "wood",
+	"skill": "crossbows",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

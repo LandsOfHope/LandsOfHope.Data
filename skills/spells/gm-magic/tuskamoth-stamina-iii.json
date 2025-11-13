@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/tuskamoth-stamina-iii",
-    "requirements": {
-        "skill": 589,
-        "mana": 589
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXSTAMINA": 295
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/tuskamoth-stamina-iii",
+	"requirements": {
+		"skill": 589,
+		"mana": 589
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXSTAMINA": 295
+		}
+	}
 }

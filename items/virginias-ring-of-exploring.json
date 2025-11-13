@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "virginias-ring-of-exploring",
-    "image": "6797",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "exploration": 2
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "virginias-ring-of-exploring",
+	"image": "6797",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"exploration": 2
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

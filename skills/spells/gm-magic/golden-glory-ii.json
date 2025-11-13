@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/golden-glory-ii",
-    "requirements": {
-        "skill": 100,
-        "level": 101,
-        "mana": 2
-    },
-    "duration": "PT17M",
-    "effects": {
-        "skills": {
-            "armor": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/golden-glory-ii",
+	"requirements": {
+		"skill": 100,
+		"level": 101,
+		"mana": 2
+	},
+	"duration": "PT17M",
+	"effects": {
+		"skills": {
+			"armor": 100
+		}
+	}
 }

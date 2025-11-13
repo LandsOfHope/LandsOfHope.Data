@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "oiled-augment",
-    "image": "6824",
-    "type": "augment",
-    "material": "gem",
-    "properties": {
-        "MAXHITPOINTS": 1.1,
-        "STRENGTH": 0.5
-    }
+	"$type": "/v1/item",
+	"id": "oiled-augment",
+	"image": "6824",
+	"type": "augment",
+	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1.1,
+		"STRENGTH": 0.5
+	}
 }

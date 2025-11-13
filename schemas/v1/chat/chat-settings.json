@@ -1,22 +1,18 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/chat/chat-settings.json",
-    "title": "ChatSettings",
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {
-        "$type": {
-            "const": "/v1/chat/chat-settings"
-        },
-        "color": {
-            "$ref": "/schemas/v1/chat/chat-color.json"
-        },
-        "profileId": {
-            "type": "integer"
-        }
-    },
-    "required": [
-        "$type",
-        "color",
-        "profileId"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/chat/chat-settings.json",
+	"title": "ChatSettings",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/chat/chat-settings"
+		},
+		"color": {
+			"$ref": "/schemas/v1/chat/chat-color.json"
+		},
+		"profileId": {
+			"type": "integer"
+		}
+	},
+	"required": ["$type", "color", "profileId"]
 }

@@ -1,31 +1,28 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/professions/profession-evolution-graph.json",
-    "title": "ProfessionEvolutionGraph",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/professions/profession-evolution-graph"
-        },
-        "edges": {
-            "type": "array",
-            "items": {
-                "type": "array",
-                "minItems": 2,
-                "additionalItems": false,
-                "items": [
-                    {
-                        "$ref": "/schemas/v1/professions-id.gen.json"
-                    },
-                    {
-                        "$ref": "/schemas/v1/professions-id.gen.json"
-                    }
-                ]
-            }
-        }
-    },
-    "required": [
-        "$type",
-        "edges"
-    ],
-    "additionalProperties": false
+	"$id": "https://data.landsofhope.com/schemas/v1/professions/profession-evolution-graph.json",
+	"title": "ProfessionEvolutionGraph",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/professions/profession-evolution-graph"
+		},
+		"edges": {
+			"type": "array",
+			"items": {
+				"type": "array",
+				"minItems": 2,
+				"additionalItems": false,
+				"items": [
+					{
+						"$ref": "/schemas/v1/professions-id.gen.json"
+					},
+					{
+						"$ref": "/schemas/v1/professions-id.gen.json"
+					}
+				]
+			}
+		}
+	},
+	"required": ["$type", "edges"],
+	"additionalProperties": false
 }

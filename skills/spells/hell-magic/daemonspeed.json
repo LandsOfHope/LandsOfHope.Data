@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "hell-magic/daemonspeed",
-    "requirements": {
-        "skill": 541,
-        "mana": 541
-    },
-    "duration": "PT120M",
-    "effects": {
-        "properties": {
-            "SPEED": 271
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "hell-magic/daemonspeed",
+	"requirements": {
+		"skill": 541,
+		"mana": 541
+	},
+	"duration": "PT120M",
+	"effects": {
+		"properties": {
+			"SPEED": 271
+		}
+	}
 }

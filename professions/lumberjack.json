@@ -1,20 +1,20 @@
 {
-    "$type": "/v1/profession",
-    "id": "lumberjack",
-    "name": {
-        "en": "Lumberjack"
-    },
-    "desc": {
-        "en": "Lumberjack. An expert at chopping the trees of Saloa to make logs."
-    },
-    "skills": {
-        "lumberjacking": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 2,
-        "MAXSTAMINA": 2,
-        "STRENGTH": 4
-    }
+	"$type": "/v1/profession",
+	"id": "lumberjack",
+	"name": {
+		"en": "Lumberjack"
+	},
+	"desc": {
+		"en": "Lumberjack. An expert at chopping the trees of Saloa to make logs."
+	},
+	"skills": {
+		"lumberjacking": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 2,
+		"MAXSTAMINA": 2,
+		"STRENGTH": 4
+	}
 }

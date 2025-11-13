@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "health-stealing/life-steal-ix",
-    "requirements": {
-        "skill": 1387,
-        "mana": 1387
-    },
-    "duration": "PT25M",
-    "effects": {
-        "damage": 92,
-        "properties": {
-            "HITPOINTS": -688
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "health-stealing/life-steal-ix",
+	"requirements": {
+		"skill": 1387,
+		"mana": 1387
+	},
+	"duration": "PT25M",
+	"effects": {
+		"damage": 92,
+		"properties": {
+			"HITPOINTS": -688
+		}
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "frostvale-shoulders",
-    "image": "zufrsh",
-    "type": "shoulders",
-    "armorType": "leather",
-    "legendary": true,
-    "set": "frostvale-legend",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "frostvale-shoulders",
+	"image": "zufrsh",
+	"type": "shoulders",
+	"armorType": "leather",
+	"legendary": true,
+	"set": "frostvale-legend",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXSTAMINA": 1
+	}
 }

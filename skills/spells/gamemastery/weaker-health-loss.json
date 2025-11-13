@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/weaker-health-loss",
-    "requirements": {
-        "skill": 741,
-        "mana": 741
-    },
-    "duration": "PT45M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": -369
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/weaker-health-loss",
+	"requirements": {
+		"skill": 741,
+		"mana": 741
+	},
+	"duration": "PT45M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": -369
+		}
+	}
 }

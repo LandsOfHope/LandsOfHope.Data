@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "tenth-defender-chestplate",
-    "image": "5054",
-    "type": "chest-armour",
-    "armorType": "mail",
-    "set": "tenth-defender",
-    "material": "metal",
-    "skills": {
-        "stringed-defense": 1,
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "tenth-defender-chestplate",
+	"image": "5054",
+	"type": "chest-armour",
+	"armorType": "mail",
+	"set": "tenth-defender",
+	"material": "metal",
+	"skills": {
+		"stringed-defense": 1,
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

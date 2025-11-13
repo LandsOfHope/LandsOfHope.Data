@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "regal-boots",
-    "image": "3103",
-    "type": "foot-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "regal-boots",
+	"image": "3103",
+	"type": "foot-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

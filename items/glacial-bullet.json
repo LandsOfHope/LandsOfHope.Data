@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "glacial-bullet",
-    "image": "zuglbu",
-    "type": "ammo-weapons-bullets",
-    "dpr": 42,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "glacial-bullet",
+	"image": "zuglbu",
+	"type": "ammo-weapons-bullets",
+	"dpr": 42,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

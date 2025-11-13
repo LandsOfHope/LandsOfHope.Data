@@ -1,29 +1,29 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "artisan/work-toolbelt",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "work-toolbelt"
-    },
-    "image": "awbet",
-    "time": "PT15S",
-    "quantity": 1,
-    "skill": "artisan",
-    "skillValue": 20,
-    "quality": "uncommon",
-    "ingredients": [
-        {
-            "id": "thread",
-            "quantity": 5,
-            "primary": true
-        },
-        {
-            "id": "cloth",
-            "quantity": 4
-        },
-        {
-            "id": "artisan-tool",
-            "quantity": 0
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "artisan/work-toolbelt",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "work-toolbelt"
+	},
+	"image": "awbet",
+	"time": "PT15S",
+	"quantity": 1,
+	"skill": "artisan",
+	"skillValue": 20,
+	"quality": "uncommon",
+	"ingredients": [
+		{
+			"id": "thread",
+			"quantity": 5,
+			"primary": true
+		},
+		{
+			"id": "cloth",
+			"quantity": 4
+		},
+		{
+			"id": "artisan-tool",
+			"quantity": 0
+		}
+	]
 }

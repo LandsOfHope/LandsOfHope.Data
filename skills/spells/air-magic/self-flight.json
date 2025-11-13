@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "air-magic/self-flight",
-    "requirements": {
-        "skill": 21,
-        "mana": 21
-    },
-    "duration": "PT15M",
-    "effects": {
-        "skills": {
-            "air-survival": 11
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "air-magic/self-flight",
+	"requirements": {
+		"skill": 21,
+		"mana": 21
+	},
+	"duration": "PT15M",
+	"effects": {
+		"skills": {
+			"air-survival": 11
+		}
+	}
 }

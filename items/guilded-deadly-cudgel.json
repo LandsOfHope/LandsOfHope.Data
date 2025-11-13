@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-deadly-cudgel",
-    "image": "bm",
-    "type": "1-handed-equipment",
-    "dpr": 73,
-    "material": "metal",
-    "skill": "maces",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-deadly-cudgel",
+	"image": "bm",
+	"type": "1-handed-equipment",
+	"dpr": 73,
+	"material": "metal",
+	"skill": "maces",
+	"skills": {
+		"attack-power": 1
+	}
 }

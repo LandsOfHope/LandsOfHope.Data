@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "legendary-pistol",
-    "image": "pl1",
-    "type": "1-handed-equipment",
-    "dpr": 120,
-    "legendary": true,
-    "material": "metal",
-    "skill": "hand-guns",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "legendary-pistol",
+	"image": "pl1",
+	"type": "1-handed-equipment",
+	"dpr": 120,
+	"legendary": true,
+	"material": "metal",
+	"skill": "hand-guns",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "earring-of-clearsight",
-    "image": "zueacl",
-    "type": "ear-jewelry",
-    "material": "gem",
-    "skills": {
-        "detect-hidden": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "earring-of-clearsight",
+	"image": "zueacl",
+	"type": "ear-jewelry",
+	"material": "gem",
+	"skills": {
+		"detect-hidden": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

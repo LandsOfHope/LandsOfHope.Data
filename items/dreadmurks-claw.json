@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "dreadmurks-claw",
-    "image": "5020",
-    "type": "1-handed-equipment",
-    "dpr": 75,
-    "material": "hide",
-    "skill": "fists",
-    "skills": {
-        "poison-resistance": 1,
-        "fists": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "dreadmurks-claw",
+	"image": "5020",
+	"type": "1-handed-equipment",
+	"dpr": 75,
+	"material": "hide",
+	"skill": "fists",
+	"skills": {
+		"poison-resistance": 1,
+		"fists": 1,
+		"attack-power": 1
+	}
 }

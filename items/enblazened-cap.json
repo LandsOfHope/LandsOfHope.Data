@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "enblazened-cap",
-    "image": "3170",
-    "type": "head-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "enblazened-cap",
+	"image": "3170",
+	"type": "head-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

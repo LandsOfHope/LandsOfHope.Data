@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/mark-of-dishonor-potion",
-    "requirements": {
-        "level": 1,
-        "mana": 10
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 400
-        },
-        "skills": {
-            "attack-power": 150
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/mark-of-dishonor-potion",
+	"requirements": {
+		"level": 1,
+		"mana": 10
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 400
+		},
+		"skills": {
+			"attack-power": 150
+		}
+	}
 }

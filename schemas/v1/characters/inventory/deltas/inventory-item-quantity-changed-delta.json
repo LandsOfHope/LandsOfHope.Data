@@ -1,28 +1,24 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/deltas/inventory-item-quantity-changed-delta.json",
-    "title": "CharacterInventoryItemQuantityChangedDelta",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/inventory/deltas/inventory-item-quantity-changed-delta"
-        },
-        "old": {
-            "$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
-        },
-        "new": {
-            "oneOf": [
-                {
-                    "$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        }
-    },
-    "required": [
-        "$type",
-        "old",
-        "new"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/deltas/inventory-item-quantity-changed-delta.json",
+	"title": "CharacterInventoryItemQuantityChangedDelta",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/inventory/deltas/inventory-item-quantity-changed-delta"
+		},
+		"old": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
+		},
+		"new": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
+				},
+				{
+					"type": "null"
+				}
+			]
+		}
+	},
+	"required": ["$type", "old", "new"]
 }

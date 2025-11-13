@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-the-marketeer",
-    "image": "ring6",
-    "type": "ring",
-    "material": "metal",
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-the-marketeer",
+	"image": "ring6",
+	"type": "ring",
+	"material": "metal",
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

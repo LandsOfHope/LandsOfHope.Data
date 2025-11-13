@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/gorgon-male-ii",
-    "requirements": {
-        "skill": 526,
-        "mana": 526
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 264
-        },
-        "skills": {
-            "invoking-resistance": 264
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/gorgon-male-ii",
+	"requirements": {
+		"skill": 526,
+		"mana": 526
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 264
+		},
+		"skills": {
+			"invoking-resistance": 264
+		}
+	}
 }

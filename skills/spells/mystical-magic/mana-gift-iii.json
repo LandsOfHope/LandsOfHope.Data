@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "mystical-magic/mana-gift-iii",
-    "requirements": {
-        "skill": 343,
-        "mana": 343
-    },
-    "duration": "PT40M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 172
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "mystical-magic/mana-gift-iii",
+	"requirements": {
+		"skill": 343,
+		"mana": 343
+	},
+	"duration": "PT40M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 172
+		}
+	}
 }

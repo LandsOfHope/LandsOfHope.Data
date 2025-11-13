@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "reinforced-leggings",
-    "image": "2525",
-    "type": "leg-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "reinforced-leggings",
+	"image": "2525",
+	"type": "leg-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

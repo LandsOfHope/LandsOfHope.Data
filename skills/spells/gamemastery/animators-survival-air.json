@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/animators-survival-air",
-    "requirements": {
-        "level": 1,
-        "mana": 1
-    },
-    "duration": "PT120M",
-    "effects": {
-        "skills": {
-            "air-survival": 50
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/animators-survival-air",
+	"requirements": {
+		"level": 1,
+		"mana": 1
+	},
+	"duration": "PT120M",
+	"effects": {
+		"skills": {
+			"air-survival": 50
+		}
+	}
 }

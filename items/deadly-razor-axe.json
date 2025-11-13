@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "deadly-razor-axe",
-    "image": "aba",
-    "type": "2-handed-equipment",
-    "dpr": 72,
-    "material": "metal",
-    "skill": "two-handed-axes",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "deadly-razor-axe",
+	"image": "aba",
+	"type": "2-handed-equipment",
+	"dpr": 72,
+	"material": "metal",
+	"skill": "two-handed-axes",
+	"skills": {
+		"attack-power": 1
+	}
 }

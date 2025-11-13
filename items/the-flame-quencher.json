@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "the-flame-quencher",
-    "image": "sdd",
-    "type": "1-handed-equipment",
-    "dpr": 3,
-    "material": "gem",
-    "skill": "shields",
-    "skills": {
-        "fire-resistance": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "the-flame-quencher",
+	"image": "sdd",
+	"type": "1-handed-equipment",
+	"dpr": 3,
+	"material": "gem",
+	"skill": "shields",
+	"skills": {
+		"fire-resistance": 1,
+		"armor": 1
+	}
 }

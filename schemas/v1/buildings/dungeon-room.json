@@ -1,48 +1,48 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/buildings/dungeon-room.json",
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {
-        "$type": {
-            "const": "/v1/buildings/dungeon-room"
-        },
-        "id": {
-            "$ref": "/schemas/v1/buildings/building-id.json"
-        },
-        "roomName": {
-            "type": "string"
-        },
-        "img": {
-            "type": "string"
-        },
-        "img2": {
-            "type": "string"
-        },
-        "offsetX": {
-            "type": "integer"
-        },
-        "offsetY": {
-            "type": "integer"
-        },
-        "offsetZ": {
-            "type": "integer"
-        },
-        "roomTypeId": {
-            "type": "integer"
-        },
-        "spawn": {
-            "$ref": "/schemas/v1/buildings/dungeon-spawn.json"
-        }
-    },
-    "required": [
-        "$type",
-        "id",
-        "roomName",
-        "img",
-        "img2",
-        "offsetX",
-        "offsetY",
-        "roomTypeId"
-    ],
-    "title": "Room"
+	"$id": "https://data.landsofhope.com/schemas/v1/buildings/dungeon-room.json",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/buildings/dungeon-room"
+		},
+		"id": {
+			"$ref": "/schemas/v1/buildings/building-id.json"
+		},
+		"roomName": {
+			"type": "string"
+		},
+		"img": {
+			"type": "string"
+		},
+		"img2": {
+			"type": "string"
+		},
+		"offsetX": {
+			"type": "integer"
+		},
+		"offsetY": {
+			"type": "integer"
+		},
+		"offsetZ": {
+			"type": "integer"
+		},
+		"roomTypeId": {
+			"type": "integer"
+		},
+		"spawn": {
+			"$ref": "/schemas/v1/buildings/dungeon-spawn.json"
+		}
+	},
+	"required": [
+		"$type",
+		"id",
+		"roomName",
+		"img",
+		"img2",
+		"offsetX",
+		"offsetY",
+		"roomTypeId"
+	],
+	"title": "Room"
 }

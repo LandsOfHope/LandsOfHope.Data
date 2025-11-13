@@ -1,22 +1,18 @@
 {
-    "name": {
-        "en": "Mountable Golem"
-    },
-    "desc": {
-        "en": "Player crafted golem."
-    },
-    "appr": {
-        "en": ""
-    },
-    "hist": {
-        "en": ""
-    },
-    "pics": {
-        "M": [
-            "dy1"
-        ],
-        "F": [
-            "dy2"
-        ]
-    }
+	"name": {
+		"en": "Mountable Golem"
+	},
+	"desc": {
+		"en": "Player crafted golem."
+	},
+	"appr": {
+		"en": ""
+	},
+	"hist": {
+		"en": ""
+	},
+	"pics": {
+		"M": ["dy1"],
+		"F": ["dy2"]
+	}
 }

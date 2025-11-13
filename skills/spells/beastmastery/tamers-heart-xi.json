@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "beastmastery/tamers-heart-xi",
-    "requirements": {
-        "skill": 3680,
-        "mana": 3100
-    },
-    "duration": "PT25M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 406
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "beastmastery/tamers-heart-xi",
+	"requirements": {
+		"skill": 3680,
+		"mana": 3100
+	},
+	"duration": "PT25M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 406
+		}
+	}
 }

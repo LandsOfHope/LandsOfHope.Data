@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "worker",
-    "name": {
-        "en": "Worker"
-    },
-    "desc": {
-        "en": "Worker"
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 3,
-        "STRENGTH": 3
-    }
+	"$type": "/v1/profession",
+	"id": "worker",
+	"name": {
+		"en": "Worker"
+	},
+	"desc": {
+		"en": "Worker"
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 3,
+		"STRENGTH": 3
+	}
 }

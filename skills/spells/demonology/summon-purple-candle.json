@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "demonology/summon-purple-candle",
-    "requirements": {
-        "skill": 4000,
-        "mana": 200
-    },
-    "effects": {
-        "summon-item": {
-            "item": "purple-candle"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "demonology/summon-purple-candle",
+	"requirements": {
+		"skill": 4000,
+		"mana": 200
+	},
+	"effects": {
+		"summon-item": {
+			"item": "purple-candle"
+		}
+	}
 }

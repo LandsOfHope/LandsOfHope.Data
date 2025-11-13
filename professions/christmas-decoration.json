@@ -1,25 +1,25 @@
 {
-    "$type": "/v1/profession",
-    "id": "christmas-decoration",
-    "name": {
-        "en": "Christmas Decoration"
-    },
-    "desc": {
-        "en": "Wintersvale Product 2008."
-    },
-    "skills": {
-        "healing-magic": 5,
-        "poison-magic": 5,
-        "two-handed-staves": 5,
-        "air-magic": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 10,
-        "MAXMANA": 4,
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/profession",
+	"id": "christmas-decoration",
+	"name": {
+		"en": "Christmas Decoration"
+	},
+	"desc": {
+		"en": "Wintersvale Product 2008."
+	},
+	"skills": {
+		"healing-magic": 5,
+		"poison-magic": 5,
+		"two-handed-staves": 5,
+		"air-magic": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 10,
+		"MAXMANA": 4,
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

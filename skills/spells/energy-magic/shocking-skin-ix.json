@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "energy-magic/shocking-skin-ix",
-    "requirements": {
-        "skill": 851,
-        "mana": 851
-    },
-    "duration": 3,
-    "effects": {
-        "damage": 610,
-        "skills": {
-            "damage-absorption": 610
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "energy-magic/shocking-skin-ix",
+	"requirements": {
+		"skill": 851,
+		"mana": 851
+	},
+	"duration": 3,
+	"effects": {
+		"damage": 610,
+		"skills": {
+			"damage-absorption": 610
+		}
+	}
 }

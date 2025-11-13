@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "blessing/blessing-of-invocation-resistance-iii",
-    "requirements": {
-        "skill": 3540,
-        "mana": 3540
-    },
-    "duration": "PT75M",
-    "effects": {
-        "skills": {
-            "invoking-resistance": 369
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "blessing/blessing-of-invocation-resistance-iii",
+	"requirements": {
+		"skill": 3540,
+		"mana": 3540
+	},
+	"duration": "PT75M",
+	"effects": {
+		"skills": {
+			"invoking-resistance": 369
+		}
+	}
 }

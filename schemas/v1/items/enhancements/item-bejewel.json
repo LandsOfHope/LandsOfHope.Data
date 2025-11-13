@@ -1,50 +1,41 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/items/enhancements/item-bejewel.json",
-    "title": "ItemBejewel",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/items/enhancements/item-bejewel"
-        },
-        "id": {
-            "$ref": "/schemas/v1/items/enhancements/bejewels-items-enhancements-id.gen.json"
-        },
-        "item": {
-            "$ref": "/schemas/v1/items-id.gen.json"
-        },
-        "skillValue": {
-            "type": "integer",
-            "minimum": 5
-        },
-        "ingredients": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "id": {
-                        "$ref": "/schemas/v1/items-id.gen.json"
-                    },
-                    "quantity": {
-                        "type": "integer",
-                        "minimum": 0
-                    }
-                },
-                "required": [
-                    "id",
-                    "quantity"
-                ],
-                "additionalProperties": false
-            }
-        },
-        "effects": {
-            "$ref": "/schemas/v1/items/enhancements/enhancement-modified-effects.json"
-        }
-    },
-    "required": [
-        "$type",
-        "id",
-        "skillValue",
-        "ingredients",
-        "effects"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/items/enhancements/item-bejewel.json",
+	"title": "ItemBejewel",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/items/enhancements/item-bejewel"
+		},
+		"id": {
+			"$ref": "/schemas/v1/items/enhancements/bejewels-items-enhancements-id.gen.json"
+		},
+		"item": {
+			"$ref": "/schemas/v1/items-id.gen.json"
+		},
+		"skillValue": {
+			"type": "integer",
+			"minimum": 5
+		},
+		"ingredients": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"id": {
+						"$ref": "/schemas/v1/items-id.gen.json"
+					},
+					"quantity": {
+						"type": "integer",
+						"minimum": 0
+					}
+				},
+				"required": ["id", "quantity"],
+				"additionalProperties": false
+			}
+		},
+		"effects": {
+			"$ref": "/schemas/v1/items/enhancements/enhancement-modified-effects.json"
+		}
+	},
+	"required": ["$type", "id", "skillValue", "ingredients", "effects"]
 }

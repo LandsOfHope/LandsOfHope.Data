@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/fire-mage-i",
-    "requirements": {
-        "skill": 130,
-        "mana": 130
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 66
-        },
-        "skills": {
-            "fire-resistance": 66
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/fire-mage-i",
+	"requirements": {
+		"skill": 130,
+		"mana": 130
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 66
+		},
+		"skills": {
+			"fire-resistance": 66
+		}
+	}
 }

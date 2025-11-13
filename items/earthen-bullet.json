@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "earthen-bullet",
-    "image": "zueabu",
-    "type": "ammo-weapons-bullets",
-    "dpr": 44,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "earthen-bullet",
+	"image": "zueabu",
+	"type": "ammo-weapons-bullets",
+	"dpr": 44,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

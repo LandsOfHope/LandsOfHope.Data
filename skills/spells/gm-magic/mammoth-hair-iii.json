@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/mammoth-hair-iii",
-    "requirements": {
-        "skill": 638,
-        "mana": 638
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "cold-survival": 320
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/mammoth-hair-iii",
+	"requirements": {
+		"skill": 638,
+		"mana": 638
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"cold-survival": 320
+		}
+	}
 }

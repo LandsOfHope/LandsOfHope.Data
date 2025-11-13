@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "stealth-blade",
-    "image": "drk",
-    "type": "1-handed-equipment",
-    "dpr": 10,
-    "material": "stone",
-    "skill": "daggers",
-    "skills": {
-        "stealth": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "stealth-blade",
+	"image": "drk",
+	"type": "1-handed-equipment",
+	"dpr": 10,
+	"material": "stone",
+	"skill": "daggers",
+	"skills": {
+		"stealth": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

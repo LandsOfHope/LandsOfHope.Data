@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-blind-loyalty",
-    "image": "zurob",
-    "type": "ring",
-    "material": "metal",
-    "skills": {
-        "damage-absorption": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-blind-loyalty",
+	"image": "zurob",
+	"type": "ring",
+	"material": "metal",
+	"skills": {
+		"damage-absorption": 1
+	}
 }

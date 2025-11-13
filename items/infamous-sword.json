@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "infamous-sword",
-    "image": "sw9",
-    "type": "2-handed-equipment",
-    "dpr": 82,
-    "material": "metal",
-    "skill": "two-handed-swords",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "infamous-sword",
+	"image": "sw9",
+	"type": "2-handed-equipment",
+	"dpr": 82,
+	"material": "metal",
+	"skill": "two-handed-swords",
+	"skills": {
+		"attack-power": 1
+	}
 }

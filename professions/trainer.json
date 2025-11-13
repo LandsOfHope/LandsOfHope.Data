@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "trainer",
-    "name": {
-        "en": "Trainer"
-    },
-    "desc": {
-        "en": "Responsible for Guild Levelling."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 3
-    }
+	"$type": "/v1/profession",
+	"id": "trainer",
+	"name": {
+		"en": "Trainer"
+	},
+	"desc": {
+		"en": "Responsible for Guild Levelling."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 3
+	}
 }

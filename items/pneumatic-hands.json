@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "pneumatic-hands",
-    "image": "na",
-    "type": "2-handed-equipment",
-    "dpr": 5,
-    "material": "metal",
-    "skill": "fists",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "pneumatic-hands",
+	"image": "na",
+	"type": "2-handed-equipment",
+	"dpr": 5,
+	"material": "metal",
+	"skill": "fists",
+	"skills": {
+		"attack-power": 1
+	}
 }

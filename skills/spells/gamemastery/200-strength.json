@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/200-strength",
-    "requirements": {
-        "skill": 2000,
-        "level": 400,
-        "mana": 40
-    },
-    "duration": "PT60M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 200
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/200-strength",
+	"requirements": {
+		"skill": 2000,
+		"level": 400,
+		"mana": 40
+	},
+	"duration": "PT60M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 200
+		}
+	}
 }

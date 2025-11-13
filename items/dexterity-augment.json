@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "dexterity-augment",
-    "image": "6818",
-    "type": "augment",
-    "material": "gem",
-    "properties": {
-        "DEXTERITY": 1.2
-    }
+	"$type": "/v1/item",
+	"id": "dexterity-augment",
+	"image": "6818",
+	"type": "augment",
+	"material": "gem",
+	"properties": {
+		"DEXTERITY": 1.2
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "pelted-sandals",
-    "image": "sds",
-    "type": "foot-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "pelted-sandals",
+	"image": "sds",
+	"type": "foot-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

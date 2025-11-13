@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "chilling-bullet",
-    "image": "zuchbu2",
-    "type": "ammo-weapons-bullets",
-    "dpr": 27,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "chilling-bullet",
+	"image": "zuchbu2",
+	"type": "ammo-weapons-bullets",
+	"dpr": 27,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

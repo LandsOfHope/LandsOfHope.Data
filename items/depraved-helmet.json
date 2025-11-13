@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "depraved-helmet",
-    "image": "1816",
-    "type": "head-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "depraved-helmet",
+	"image": "1816",
+	"type": "head-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

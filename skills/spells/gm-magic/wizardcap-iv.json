@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/wizardcap-iv",
-    "requirements": {
-        "skill": 200,
-        "level": 301,
-        "mana": 4
-    },
-    "duration": "PT19M",
-    "effects": {
-        "skills": {
-            "mana-regen": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/wizardcap-iv",
+	"requirements": {
+		"skill": 200,
+		"level": 301,
+		"mana": 4
+	},
+	"duration": "PT19M",
+	"effects": {
+		"skills": {
+			"mana-regen": 100
+		}
+	}
 }

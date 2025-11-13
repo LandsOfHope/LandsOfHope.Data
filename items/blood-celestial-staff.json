@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "blood-celestial-staff",
-    "image": "6018",
-    "type": "2-handed-equipment",
-    "dpr": 52,
-    "material": "metal",
-    "skill": "celestial-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "blood-celestial-staff",
+	"image": "6018",
+	"type": "2-handed-equipment",
+	"dpr": 52,
+	"material": "metal",
+	"skill": "celestial-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

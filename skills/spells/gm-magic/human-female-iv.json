@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/human-female-iv",
-    "requirements": {
-        "skill": 574,
-        "mana": 574
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "skills": {
-            "cooking": 288
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/human-female-iv",
+	"requirements": {
+		"skill": 574,
+		"mana": 574
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"skills": {
+			"cooking": 288
+		}
+	}
 }

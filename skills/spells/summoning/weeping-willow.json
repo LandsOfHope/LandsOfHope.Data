@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "summoning/weeping-willow",
-    "requirements": {
-        "skill": 1176,
-        "mana": 1176
-    },
-    "duration": "PT225M",
-    "effects": {
-        "summon-item": {
-            "item": "weeping-willow"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "summoning/weeping-willow",
+	"requirements": {
+		"skill": 1176,
+		"mana": 1176
+	},
+	"duration": "PT225M",
+	"effects": {
+		"summon-item": {
+			"item": "weeping-willow"
+		}
+	}
 }

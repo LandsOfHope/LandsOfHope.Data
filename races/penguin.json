@@ -1,22 +1,18 @@
 {
-    "name": {
-        "en": "Penguin"
-    },
-    "desc": {
-        "en": ""
-    },
-    "appr": {
-        "en": ""
-    },
-    "hist": {
-        "en": ""
-    },
-    "pics": {
-        "M": [
-            "pengm"
-        ],
-        "F": [
-            "pengf"
-        ]
-    }
+	"name": {
+		"en": "Penguin"
+	},
+	"desc": {
+		"en": ""
+	},
+	"appr": {
+		"en": ""
+	},
+	"hist": {
+		"en": ""
+	},
+	"pics": {
+		"M": ["pengm"],
+		"F": ["pengf"]
+	}
 }

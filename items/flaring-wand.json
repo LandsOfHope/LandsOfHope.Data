@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "flaring-wand",
-    "image": "wand09",
-    "type": "1-handed-equipment",
-    "dpr": 57,
-    "material": "stone",
-    "skill": "staves",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "flaring-wand",
+	"image": "wand09",
+	"type": "1-handed-equipment",
+	"dpr": 57,
+	"material": "stone",
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

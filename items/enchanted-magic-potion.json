@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "enchanted-magic-potion",
-    "image": "pb1",
-    "type": "magic-potion",
-    "material": "gem",
-    "properties": {
-        "MANA": 3
-    }
+	"$type": "/v1/item",
+	"id": "enchanted-magic-potion",
+	"image": "pb1",
+	"type": "magic-potion",
+	"material": "gem",
+	"properties": {
+		"MANA": 3
+	}
 }

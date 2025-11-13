@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "razor-snowflake",
-    "image": "zurasn",
-    "type": "ranged-weapon",
-    "dpr": 65,
-    "material": "metal",
-    "skill": "thrown-weapons",
-    "skills": {
-        "thrown-weapons": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "razor-snowflake",
+	"image": "zurasn",
+	"type": "ranged-weapon",
+	"dpr": 65,
+	"material": "metal",
+	"skill": "thrown-weapons",
+	"skills": {
+		"thrown-weapons": 1,
+		"attack-power": 1
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/100-speed",
-    "requirements": {
-        "skill": 1000,
-        "level": 200,
-        "mana": 20
-    },
-    "duration": "PT60M",
-    "effects": {
-        "properties": {
-            "SPEED": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/100-speed",
+	"requirements": {
+		"skill": 1000,
+		"level": 200,
+		"mana": 20
+	},
+	"duration": "PT60M",
+	"effects": {
+		"properties": {
+			"SPEED": 100
+		}
+	}
 }

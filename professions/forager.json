@@ -1,24 +1,24 @@
 {
-    "$type": "/v1/profession",
-    "id": "forager",
-    "name": {
-        "en": "Forager"
-    },
-    "desc": {
-        "en": "Foragers are the loners of Saloa, they shun people and civilisations and are normally very unfriendly to people they meet on there travels. They are experts at self survival."
-    },
-    "skills": {
-        "first-aid": 5,
-        "staves": 5,
-        "foraging": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 1,
-        "MAXSTAMINA": 2
-    }
+	"$type": "/v1/profession",
+	"id": "forager",
+	"name": {
+		"en": "Forager"
+	},
+	"desc": {
+		"en": "Foragers are the loners of Saloa, they shun people and civilisations and are normally very unfriendly to people they meet on there travels. They are experts at self survival."
+	},
+	"skills": {
+		"first-aid": 5,
+		"staves": 5,
+		"foraging": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 2
+	}
 }

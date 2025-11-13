@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "intercession/388-sentient-symbol",
-    "requirements": {
-        "skill": 3880,
-        "level": 776,
-        "mana": 3880
-    },
-    "duration": "PT999M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 388
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "intercession/388-sentient-symbol",
+	"requirements": {
+		"skill": 3880,
+		"level": 776,
+		"mana": 3880
+	},
+	"duration": "PT999M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 388
+		}
+	}
 }

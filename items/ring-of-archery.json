@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-archery",
-    "image": "rg4",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "carpentry": 1,
-        "tinkering": 1,
-        "bows": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-archery",
+	"image": "rg4",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"carpentry": 1,
+		"tinkering": 1,
+		"bows": 1
+	}
 }

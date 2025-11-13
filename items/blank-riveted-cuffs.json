@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "blank-riveted-cuffs",
-    "image": "6845",
-    "type": "wrist-jewelry",
-    "set": "inventor-riveted-set",
-    "material": "metal",
-    "skill": "bolts-over-brains",
-    "skills": {
-        "armor": 0.7
-    }
+	"$type": "/v1/item",
+	"id": "blank-riveted-cuffs",
+	"image": "6845",
+	"type": "wrist-jewelry",
+	"set": "inventor-riveted-set",
+	"material": "metal",
+	"skill": "bolts-over-brains",
+	"skills": {
+		"armor": 0.7
+	}
 }

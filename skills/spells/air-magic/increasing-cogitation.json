@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "air-magic/increasing-cogitation",
-    "requirements": {
-        "skill": 561,
-        "mana": 561
-    },
-    "duration": "PT1250M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 281
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "air-magic/increasing-cogitation",
+	"requirements": {
+		"skill": 561,
+		"mana": 561
+	},
+	"duration": "PT1250M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 281
+		}
+	}
 }

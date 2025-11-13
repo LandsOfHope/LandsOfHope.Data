@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "enriched-healing-potion",
-    "image": "pr1",
-    "type": "magic-potion",
-    "material": "gem",
-    "properties": {
-        "HITPOINTS": 3
-    }
+	"$type": "/v1/item",
+	"id": "enriched-healing-potion",
+	"image": "pr1",
+	"type": "magic-potion",
+	"material": "gem",
+	"properties": {
+		"HITPOINTS": 3
+	}
 }

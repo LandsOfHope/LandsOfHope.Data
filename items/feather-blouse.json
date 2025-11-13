@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "feather-blouse",
-    "image": "611",
-    "type": "chest-armour",
-    "armorType": "cloth",
-    "material": "bird",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "feather-blouse",
+	"image": "611",
+	"type": "chest-armour",
+	"armorType": "cloth",
+	"material": "bird",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

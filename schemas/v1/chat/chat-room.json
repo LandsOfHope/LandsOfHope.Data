@@ -1,38 +1,30 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/chat/chat-room.json",
-    "title": "ChatRoom",
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {
-        "$type": {
-            "const": "/v1/chat/chat-room"
-        },
-        "id": {
-            "$ref": "/schemas/v1/chat/chat-room-id.json"
-        },
-        "name": {
-            "type": "string"
-        },
-        "desc": {
-            "type": "string"
-        },
-        "owner": {
-            "$ref": "/schemas/v1/accounts/account-id.json"
-        },
-        "created": {
-            "$ref": "/schemas/v0/datetime.json"
-        },
-        "modified": {
-            "$ref": "/schemas/v0/datetime.json"
-        }
-    },
-    "required": [
-        "$type",
-        "id",
-        "name",
-        "desc",
-        "owner",
-        "created",
-        "modified"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/chat/chat-room.json",
+	"title": "ChatRoom",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/chat/chat-room"
+		},
+		"id": {
+			"$ref": "/schemas/v1/chat/chat-room-id.json"
+		},
+		"name": {
+			"type": "string"
+		},
+		"desc": {
+			"type": "string"
+		},
+		"owner": {
+			"$ref": "/schemas/v1/accounts/account-id.json"
+		},
+		"created": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"modified": {
+			"$ref": "/schemas/v0/datetime.json"
+		}
+	},
+	"required": ["$type", "id", "name", "desc", "owner", "created", "modified"]
 }

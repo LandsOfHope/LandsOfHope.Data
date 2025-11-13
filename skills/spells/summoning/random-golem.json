@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "summoning/random-golem",
-    "requirements": {
-        "skill": 2648,
-        "mana": 2648
-    },
-    "effects": {
-        "summon-pet": {
-            "race": "golem"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "summoning/random-golem",
+	"requirements": {
+		"skill": 2648,
+		"mana": 2648
+	},
+	"effects": {
+		"summon-pet": {
+			"race": "golem"
+		}
+	}
 }

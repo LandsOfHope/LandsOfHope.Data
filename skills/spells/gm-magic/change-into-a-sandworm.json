@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/change-into-a-sandworm",
-    "requirements": {
-        "skill": 469,
-        "mana": 469
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 235
-        },
-        "skills": {
-            "armor": 235
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/change-into-a-sandworm",
+	"requirements": {
+		"skill": 469,
+		"mana": 469
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 235
+		},
+		"skills": {
+			"armor": 235
+		}
+	}
 }

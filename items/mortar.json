@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "mortar",
-    "image": "4636",
-    "type": "ranged-weapon",
-    "dpr": 90,
-    "material": "metal",
-    "skill": "heavy-munitions",
-    "skills": {
-        "heavy-munitions": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "mortar",
+	"image": "4636",
+	"type": "ranged-weapon",
+	"dpr": 90,
+	"material": "metal",
+	"skill": "heavy-munitions",
+	"skills": {
+		"heavy-munitions": 1,
+		"attack-power": 1
+	}
 }

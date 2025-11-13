@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "studded-breeches",
-    "image": "2807",
-    "type": "leg-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "studded-breeches",
+	"image": "2807",
+	"type": "leg-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

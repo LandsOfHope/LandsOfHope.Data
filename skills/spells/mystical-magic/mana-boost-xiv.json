@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "mystical-magic/mana-boost-xiv",
-    "requirements": {
-        "skill": 541,
-        "mana": 541
-    },
-    "duration": "PT1820M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 271
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "mystical-magic/mana-boost-xiv",
+	"requirements": {
+		"skill": 541,
+		"mana": 541
+	},
+	"duration": "PT1820M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 271
+		}
+	}
 }

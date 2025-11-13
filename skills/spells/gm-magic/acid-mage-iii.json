@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/acid-mage-iii",
-    "requirements": {
-        "skill": 490,
-        "mana": 490
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 246
-        },
-        "skills": {
-            "acid-resistance": 246
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/acid-mage-iii",
+	"requirements": {
+		"skill": 490,
+		"mana": 490
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 246
+		},
+		"skills": {
+			"acid-resistance": 246
+		}
+	}
 }

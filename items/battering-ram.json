@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "battering-ram",
-    "image": "ss7",
-    "type": "siege-weapon",
-    "dpr": 2,
-    "material": "wood",
-    "skill": "siege-weapons",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "battering-ram",
+	"image": "ss7",
+	"type": "siege-weapon",
+	"dpr": 2,
+	"material": "wood",
+	"skill": "siege-weapons",
+	"skills": {
+		"armor": 1
+	}
 }

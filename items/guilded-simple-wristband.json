@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-simple-wristband",
-    "image": "ta5",
-    "type": "wrist-jewelry",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-simple-wristband",
+	"image": "ta5",
+	"type": "wrist-jewelry",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "raider-shirt",
-    "image": "5235",
-    "type": "chest-armour",
-    "armorType": "leather",
-    "expansion": "uncharted-waters",
-    "material": "cloth",
-    "skill": "pirate-league",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "raider-shirt",
+	"image": "5235",
+	"type": "chest-armour",
+	"armorType": "leather",
+	"expansion": "uncharted-waters",
+	"material": "cloth",
+	"skill": "pirate-league",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "yellow-celestial-sword",
-    "image": "6006",
-    "type": "1-handed-equipment",
-    "dpr": 22,
-    "material": "metal",
-    "skill": "celestial-weapons",
-    "skills": {
-        "stamina-regen": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "yellow-celestial-sword",
+	"image": "6006",
+	"type": "1-handed-equipment",
+	"dpr": 22,
+	"material": "metal",
+	"skill": "celestial-weapons",
+	"skills": {
+		"stamina-regen": 1,
+		"attack-power": 1
+	}
 }

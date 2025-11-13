@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/deadly-health-loss",
-    "requirements": {
-        "skill": 925,
-        "mana": 925
-    },
-    "duration": "PT210M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": -461
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/deadly-health-loss",
+	"requirements": {
+		"skill": 925,
+		"mana": 925
+	},
+	"duration": "PT210M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": -461
+		}
+	}
 }

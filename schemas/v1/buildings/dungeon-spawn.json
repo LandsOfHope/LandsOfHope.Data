@@ -1,26 +1,21 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/buildings/dungeon-spawn.json",
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {
-        "$type": {
-            "const": "/v1/buildings/dungeon-spawn"
-        },
-        "raceId": {
-            "type": "integer"
-        },
-        "respawnTime": {
-            "$ref": "/schemas/v1/respawn-time.json"
-        },
-        "boss": {
-            "type": "boolean"
-        }
-    },
-    "required": [
-        "$type",
-        "raceId",
-        "respawnTime",
-        "boss"
-    ],
-    "title": "Spawn"
+	"$id": "https://data.landsofhope.com/schemas/v1/buildings/dungeon-spawn.json",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/buildings/dungeon-spawn"
+		},
+		"raceId": {
+			"type": "integer"
+		},
+		"respawnTime": {
+			"$ref": "/schemas/v1/respawn-time.json"
+		},
+		"boss": {
+			"type": "boolean"
+		}
+	},
+	"required": ["$type", "raceId", "respawnTime", "boss"],
+	"title": "Spawn"
 }

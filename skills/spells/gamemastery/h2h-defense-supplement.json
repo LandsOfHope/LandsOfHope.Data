@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/h2h-defense-supplement",
-    "requirements": {
-        "skill": 91,
-        "mana": 91
-    },
-    "duration": "PT30M",
-    "effects": {
-        "skills": {
-            "h2h-defense": 200
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/h2h-defense-supplement",
+	"requirements": {
+		"skill": 91,
+		"mana": 91
+	},
+	"duration": "PT30M",
+	"effects": {
+		"skills": {
+			"h2h-defense": 200
+		}
+	}
 }

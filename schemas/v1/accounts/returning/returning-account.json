@@ -1,40 +1,34 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/accounts/returning/returning-account.json",
-    "title": "ReturningAccount",
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {
-        "$type": {
-            "const": "/v1/accounts/returning/returning-account"
-        },
-        "token": {
-            "$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
-        },
-        "linked_account": {
-            "oneOf": [
-                {
-                    "$ref": "/schemas/v1/accounts/account-id.json"
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        },
-        "username": {
-            "type": "string"
-        },
-        "characters": {
-            "type": "array",
-            "items": {
-                "$ref": "/schemas/v1/accounts/returning/returning-character.json"
-            }
-        }
-    },
-    "required": [
-        "$type",
-        "token",
-        "linked_account",
-        "username",
-        "characters"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/accounts/returning/returning-account.json",
+	"title": "ReturningAccount",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/accounts/returning/returning-account"
+		},
+		"token": {
+			"$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
+		},
+		"linked_account": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/accounts/account-id.json"
+				},
+				{
+					"type": "null"
+				}
+			]
+		},
+		"username": {
+			"type": "string"
+		},
+		"characters": {
+			"type": "array",
+			"items": {
+				"$ref": "/schemas/v1/accounts/returning/returning-character.json"
+			}
+		}
+	},
+	"required": ["$type", "token", "linked_account", "username", "characters"]
 }

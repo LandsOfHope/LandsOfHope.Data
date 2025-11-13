@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "cadet-helmet",
-    "image": "2376",
-    "type": "head-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "cadet-helmet",
+	"image": "2376",
+	"type": "head-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/giant-spider-dexterity-ii",
-    "requirements": {
-        "skill": 295,
-        "mana": 295
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "DEXTERITY": 148
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/giant-spider-dexterity-ii",
+	"requirements": {
+		"skill": 295,
+		"mana": 295
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"DEXTERITY": 148
+		}
+	}
 }

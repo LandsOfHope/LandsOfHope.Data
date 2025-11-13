@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "charms-and-hexes/a-pox-on-you-vii",
-    "requirements": {
-        "skill": 1150,
-        "mana": 1050
-    },
-    "duration": "PT3M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": -400
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "charms-and-hexes/a-pox-on-you-vii",
+	"requirements": {
+		"skill": 1150,
+		"mana": 1050
+	},
+	"duration": "PT3M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": -400
+		}
+	}
 }

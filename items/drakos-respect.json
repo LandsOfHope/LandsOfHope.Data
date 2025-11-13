@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "drakos-respect",
-    "image": "6796",
-    "type": "ring",
-    "material": "gem",
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "drakos-respect",
+	"image": "6796",
+	"type": "ring",
+	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1
+	}
 }

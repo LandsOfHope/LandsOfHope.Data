@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "voidic-sleeves",
-    "image": "gmvosl",
-    "type": "arm-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "voidic-sleeves",
+	"image": "gmvosl",
+	"type": "arm-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

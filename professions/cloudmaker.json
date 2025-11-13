@@ -1,26 +1,26 @@
 {
-    "$type": "/v1/profession",
-    "id": "cloudmaker",
-    "name": {
-        "en": "Cloudmaker"
-    },
-    "desc": {
-        "en": "An ancient guardian"
-    },
-    "skills": {
-        "water-magic": 5,
-        "air-resistance": 5,
-        "water-resistance": 5,
-        "two-handed-staves": 5,
-        "air-magic": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 3,
-        "SPEED": 3,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "cloudmaker",
+	"name": {
+		"en": "Cloudmaker"
+	},
+	"desc": {
+		"en": "An ancient guardian"
+	},
+	"skills": {
+		"water-magic": 5,
+		"air-resistance": 5,
+		"water-resistance": 5,
+		"two-handed-staves": 5,
+		"air-magic": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 3,
+		"SPEED": 3,
+		"STRENGTH": 2
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "preservation-magic/arcane-resistance-xii",
-    "requirements": {
-        "skill": 3809,
-        "mana": 3809
-    },
-    "duration": "PT75M",
-    "effects": {
-        "skills": {
-            "arcane-resistance": 383
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "preservation-magic/arcane-resistance-xii",
+	"requirements": {
+		"skill": 3809,
+		"mana": 3809
+	},
+	"duration": "PT75M",
+	"effects": {
+		"skills": {
+			"arcane-resistance": 383
+		}
+	}
 }

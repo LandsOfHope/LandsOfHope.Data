@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "mercenary-axe",
-    "image": "6650",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "material": "metal",
-    "skill": "axes",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "mercenary-axe",
+	"image": "6650",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"material": "metal",
+	"skill": "axes",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

@@ -1,22 +1,22 @@
 {
-    "$type": "/v1/profession",
-    "id": "fire-mage",
-    "name": {
-        "en": "Fire Mage"
-    },
-    "desc": {
-        "en": "Fire Mage. An expert at casting Fire Magic."
-    },
-    "skills": {
-        "fire-magic": 5,
-        "mystical-magic": 5,
-        "fire-resistance": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 4
-    }
+	"$type": "/v1/profession",
+	"id": "fire-mage",
+	"name": {
+		"en": "Fire Mage"
+	},
+	"desc": {
+		"en": "Fire Mage. An expert at casting Fire Magic."
+	},
+	"skills": {
+		"fire-magic": 5,
+		"mystical-magic": 5,
+		"fire-resistance": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 4
+	}
 }

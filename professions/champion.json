@@ -1,23 +1,23 @@
 {
-    "$type": "/v1/profession",
-    "id": "champion",
-    "name": {
-        "en": "Champion"
-    },
-    "desc": {
-        "en": "An ancient guardian"
-    },
-    "skills": {
-        "divine-fury": 5,
-        "axes": 5,
-        "dual-wielding": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 3,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "champion",
+	"name": {
+		"en": "Champion"
+	},
+	"desc": {
+		"en": "An ancient guardian"
+	},
+	"skills": {
+		"divine-fury": 5,
+		"axes": 5,
+		"dual-wielding": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 3,
+		"STRENGTH": 2
+	}
 }

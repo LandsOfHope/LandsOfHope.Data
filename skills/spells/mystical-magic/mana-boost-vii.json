@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "mystical-magic/mana-boost-vii",
-    "requirements": {
-        "skill": 253,
-        "mana": 253
-    },
-    "duration": "PT910M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 127
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "mystical-magic/mana-boost-vii",
+	"requirements": {
+		"skill": 253,
+		"mana": 253
+	},
+	"duration": "PT910M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 127
+		}
+	}
 }

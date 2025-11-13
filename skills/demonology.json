@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"magic-abilities","titles":{"500":"novice-demonologist","2500":"adept-demonologist","5000":"master-demonologist"}}
+{
+	"$type": "/v1/skill",
+	"group": "magic-abilities",
+	"titles": {
+		"500": "novice-demonologist",
+		"2500": "adept-demonologist",
+		"5000": "master-demonologist"
+	}
+}

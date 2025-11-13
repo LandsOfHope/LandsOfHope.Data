@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "bag-of-1000-thieves",
-    "image": "6760",
-    "type": "special-bag",
-    "material": "cloth",
-    "skill": "stealing",
-    "skills": {
-        "nimble-fingers": 1
-    }
+	"$type": "/v1/item",
+	"id": "bag-of-1000-thieves",
+	"image": "6760",
+	"type": "special-bag",
+	"material": "cloth",
+	"skill": "stealing",
+	"skills": {
+		"nimble-fingers": 1
+	}
 }

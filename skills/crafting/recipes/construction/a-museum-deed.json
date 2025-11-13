@@ -1,21 +1,21 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "construction/a-museum-deed",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "museum-deed"
-    },
-    "image": "1070",
-    "time": "PT15S",
-    "quantity": 1,
-    "skill": "construction",
-    "skillValue": 5000,
-    "quality": "uncommon",
-    "ingredients": [
-        {
-            "id": "plank",
-            "quantity": 80,
-            "primary": true
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "construction/a-museum-deed",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "museum-deed"
+	},
+	"image": "1070",
+	"time": "PT15S",
+	"quantity": 1,
+	"skill": "construction",
+	"skillValue": 5000,
+	"quality": "uncommon",
+	"ingredients": [
+		{
+			"id": "plank",
+			"quantity": 80,
+			"primary": true
+		}
+	]
 }

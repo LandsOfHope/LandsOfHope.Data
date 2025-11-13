@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/change-into-a-fire-elemental",
-    "requirements": {
-        "skill": 646,
-        "mana": 646
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 324
-        },
-        "skills": {
-            "fire-resistance": 324
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/change-into-a-fire-elemental",
+	"requirements": {
+		"skill": 646,
+		"mana": 646
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 324
+		},
+		"skills": {
+			"fire-resistance": 324
+		}
+	}
 }

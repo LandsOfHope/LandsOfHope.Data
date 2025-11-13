@@ -1,22 +1,18 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/chat/messages/chat-message-sent-event.json",
-    "title": "ChatMessageSentEvent",
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {
-        "$type": {
-            "const": "/v1/events/chat/messages/chat-message-sent-event"
-        },
-        "message": {
-            "$ref": "/schemas/v1/chat/chat-message.json"
-        },
-        "room": {
-            "$ref": "/schemas/v1/chat/chat-room-id.json"
-        }
-    },
-    "required": [
-        "$type",
-        "message",
-        "room"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/events/chat/messages/chat-message-sent-event.json",
+	"title": "ChatMessageSentEvent",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/events/chat/messages/chat-message-sent-event"
+		},
+		"message": {
+			"$ref": "/schemas/v1/chat/chat-message.json"
+		},
+		"room": {
+			"$ref": "/schemas/v1/chat/chat-room-id.json"
+		}
+	},
+	"required": ["$type", "message", "room"]
 }

@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-hunters-long-staff",
-    "image": "sf",
-    "type": "2-handed-equipment",
-    "dpr": 23,
-    "material": "wood",
-    "skill": "two-handed-staves",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-hunters-long-staff",
+	"image": "sf",
+	"type": "2-handed-equipment",
+	"dpr": 23,
+	"material": "wood",
+	"skill": "two-handed-staves",
+	"skills": {
+		"attack-power": 1
+	}
 }

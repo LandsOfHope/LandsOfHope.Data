@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-arcane-insight",
-    "image": "rg2",
-    "type": "ring",
-    "material": "gem",
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-arcane-insight",
+	"image": "rg2",
+	"type": "ring",
+	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	}
 }

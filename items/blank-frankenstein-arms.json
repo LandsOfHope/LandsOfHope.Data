@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "blank-frankenstein-arms",
-    "image": "6947",
-    "type": "arm-armour",
-    "legendary": true,
-    "set": "frankenstein",
-    "material": "hide",
-    "skill": "blood-over-beauty",
-    "properties": {
-        "MAXSTAMINA": 0.75
-    }
+	"$type": "/v1/item",
+	"id": "blank-frankenstein-arms",
+	"image": "6947",
+	"type": "arm-armour",
+	"legendary": true,
+	"set": "frankenstein",
+	"material": "hide",
+	"skill": "blood-over-beauty",
+	"properties": {
+		"MAXSTAMINA": 0.75
+	}
 }

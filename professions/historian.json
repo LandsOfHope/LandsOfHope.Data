@@ -1,20 +1,20 @@
 {
-    "$type": "/v1/profession",
-    "id": "historian",
-    "name": {
-        "en": "Historian"
-    },
-    "desc": {
-        "en": "The studier of ancient ways and cultures."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 2
-    }
+	"$type": "/v1/profession",
+	"id": "historian",
+	"name": {
+		"en": "Historian"
+	},
+	"desc": {
+		"en": "The studier of ancient ways and cultures."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 2
+	}
 }

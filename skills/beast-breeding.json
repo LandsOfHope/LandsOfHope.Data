@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"pets-and-minions","titles":{"500":"novice-breeder","2500":"adept-breeder","5000":"master-breeder"}}
+{
+	"$type": "/v1/skill",
+	"group": "pets-and-minions",
+	"titles": {
+		"500": "novice-breeder",
+		"2500": "adept-breeder",
+		"5000": "master-breeder"
+	}
+}

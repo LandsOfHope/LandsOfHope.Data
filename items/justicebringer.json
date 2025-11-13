@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "justicebringer",
-    "image": "fejuue",
-    "type": "2-handed-equipment",
-    "dpr": 9,
-    "material": "wood",
-    "skill": "two-handed-staves",
-    "skills": {
-        "two-handed-staves": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "justicebringer",
+	"image": "fejuue",
+	"type": "2-handed-equipment",
+	"dpr": 9,
+	"material": "wood",
+	"skill": "two-handed-staves",
+	"skills": {
+		"two-handed-staves": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

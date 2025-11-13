@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "splintmail-leggings",
-    "image": "cls",
-    "type": "leg-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "splintmail-leggings",
+	"image": "cls",
+	"type": "leg-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

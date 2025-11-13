@@ -1,27 +1,27 @@
 {
-    "$type": "/v1/profession",
-    "id": "port-master",
-    "name": {
-        "en": "Port Master"
-    },
-    "desc": {
-        "en": "Responsible for the day to day runnings of the port."
-    },
-    "skills": {
-        "mystical-magic": 5,
-        "hell-magic": 5,
-        "poison-resistance": 5,
-        "fists": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 4,
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 4,
-        "MAXMANA": 2,
-        "MAXSTAMINA": 2,
-        "SPEED": 2,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "port-master",
+	"name": {
+		"en": "Port Master"
+	},
+	"desc": {
+		"en": "Responsible for the day to day runnings of the port."
+	},
+	"skills": {
+		"mystical-magic": 5,
+		"hell-magic": 5,
+		"poison-resistance": 5,
+		"fists": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 4,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 4,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	}
 }

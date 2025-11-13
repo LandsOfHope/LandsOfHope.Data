@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/golem-defense-iv",
-    "requirements": {
-        "skill": 911,
-        "mana": 911
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "armor": 456
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/golem-defense-iv",
+	"requirements": {
+		"skill": 911,
+		"mana": 911
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"armor": 456
+		}
+	}
 }

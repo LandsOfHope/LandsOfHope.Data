@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "air-magic/air-resistance-iii",
-    "requirements": {
-        "skill": 791,
-        "mana": 791
-    },
-    "duration": "PT3000M",
-    "effects": {
-        "skills": {
-            "air-resistance": 396
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "air-magic/air-resistance-iii",
+	"requirements": {
+		"skill": 791,
+		"mana": 791
+	},
+	"duration": "PT3000M",
+	"effects": {
+		"skills": {
+			"air-resistance": 396
+		}
+	}
 }

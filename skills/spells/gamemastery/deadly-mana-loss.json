@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/deadly-mana-loss",
-    "requirements": {
-        "skill": 993,
-        "mana": 993
-    },
-    "duration": "PT210M",
-    "effects": {
-        "properties": {
-            "MAXMANA": -495
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/deadly-mana-loss",
+	"requirements": {
+		"skill": 993,
+		"mana": 993
+	},
+	"duration": "PT210M",
+	"effects": {
+		"properties": {
+			"MAXMANA": -495
+		}
+	}
 }

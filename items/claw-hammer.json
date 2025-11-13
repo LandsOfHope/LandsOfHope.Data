@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "claw-hammer",
-    "image": "zuclha",
-    "type": "1-handed-equipment",
-    "material": "metal",
-    "skill": "construction",
-    "skills": {
-        "construction": 1
-    }
+	"$type": "/v1/item",
+	"id": "claw-hammer",
+	"image": "zuclha",
+	"type": "1-handed-equipment",
+	"material": "metal",
+	"skill": "construction",
+	"skills": {
+		"construction": 1
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/ancient-dragon-skin",
-    "requirements": {
-        "skill": 988,
-        "mana": 988
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "fire-resistance": 495
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/ancient-dragon-skin",
+	"requirements": {
+		"skill": 988,
+		"mana": 988
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"fire-resistance": 495
+		}
+	}
 }

@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "treasurer",
-    "name": {
-        "en": "Treasurer"
-    },
-    "desc": {
-        "en": "Responsible for Administering guild Treasury."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 2
-    }
+	"$type": "/v1/profession",
+	"id": "treasurer",
+	"name": {
+		"en": "Treasurer"
+	},
+	"desc": {
+		"en": "Responsible for Administering guild Treasury."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 2
+	}
 }

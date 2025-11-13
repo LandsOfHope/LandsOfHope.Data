@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/giant-eage-truesight",
-    "requirements": {
-        "skill": 400,
-        "mana": 400
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "detect-hidden": 500
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/giant-eage-truesight",
+	"requirements": {
+		"skill": 400,
+		"mana": 400
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"detect-hidden": 500
+		}
+	}
 }

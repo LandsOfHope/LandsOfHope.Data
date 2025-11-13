@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "longtooth-shoulders",
-    "image": "3198",
-    "type": "shoulders",
-    "armorType": "leather",
-    "legendary": true,
-    "set": "longtooth-legend",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "longtooth-shoulders",
+	"image": "3198",
+	"type": "shoulders",
+	"armorType": "leather",
+	"legendary": true,
+	"set": "longtooth-legend",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"SPEED": 1
+	}
 }

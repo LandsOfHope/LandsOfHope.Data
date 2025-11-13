@@ -1,21 +1,21 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "floristry/green-formal-flower-dress",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "green-formal-flower-dress"
-    },
-    "image": "6966",
-    "time": "PT15S",
-    "quantity": 1,
-    "skill": "floristry",
-    "skillValue": 3000,
-    "quality": "common",
-    "ingredients": [
-        {
-            "id": "allie-flower",
-            "quantity": 5,
-            "primary": true
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "floristry/green-formal-flower-dress",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "green-formal-flower-dress"
+	},
+	"image": "6966",
+	"time": "PT15S",
+	"quantity": 1,
+	"skill": "floristry",
+	"skillValue": 3000,
+	"quality": "common",
+	"ingredients": [
+		{
+			"id": "allie-flower",
+			"quantity": 5,
+			"primary": true
+		}
+	]
 }

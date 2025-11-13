@@ -1,25 +1,25 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "carpentry/stoney-arrow",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "stoney-arrow"
-    },
-    "image": "arr1",
-    "time": "PT15S",
-    "quantity": 20,
-    "skill": "carpentry",
-    "skillValue": 4205,
-    "quality": "common",
-    "ingredients": [
-        {
-            "id": "arrowhead",
-            "quantity": 5
-        },
-        {
-            "id": "plank",
-            "quantity": 5,
-            "primary": true
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "carpentry/stoney-arrow",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "stoney-arrow"
+	},
+	"image": "arr1",
+	"time": "PT15S",
+	"quantity": 20,
+	"skill": "carpentry",
+	"skillValue": 4205,
+	"quality": "common",
+	"ingredients": [
+		{
+			"id": "arrowhead",
+			"quantity": 5
+		},
+		{
+			"id": "plank",
+			"quantity": 5,
+			"primary": true
+		}
+	]
 }

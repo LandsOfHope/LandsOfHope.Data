@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "shaking-wand",
-    "image": "wand13",
-    "type": "1-handed-equipment",
-    "dpr": 54,
-    "material": "stone",
-    "skill": "staves",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "shaking-wand",
+	"image": "wand13",
+	"type": "1-handed-equipment",
+	"dpr": 54,
+	"material": "stone",
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

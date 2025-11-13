@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "stitchwork-belt",
-    "image": "6877",
-    "type": "stomach",
-    "material": "hide",
-    "skill": "blood-over-beauty",
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "stitchwork-belt",
+	"image": "6877",
+	"type": "stomach",
+	"material": "hide",
+	"skill": "blood-over-beauty",
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1
+	}
 }

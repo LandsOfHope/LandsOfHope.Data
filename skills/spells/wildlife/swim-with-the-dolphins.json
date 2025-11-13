@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "wildlife/swim-with-the-dolphins",
-    "requirements": {
-        "skill": 3033,
-        "mana": 303
-    },
-    "duration": "PT50M",
-    "effects": {
-        "skills": {
-            "water-survival": 318
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "wildlife/swim-with-the-dolphins",
+	"requirements": {
+		"skill": 3033,
+		"mana": 303
+	},
+	"duration": "PT50M",
+	"effects": {
+		"skills": {
+			"water-survival": 318
+		}
+	}
 }

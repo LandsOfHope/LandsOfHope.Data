@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "germinating-bullet",
-    "image": "4155",
-    "type": "ammo-weapons-bullets",
-    "dpr": 38,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "germinating-bullet",
+	"image": "4155",
+	"type": "ammo-weapons-bullets",
+	"dpr": 38,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

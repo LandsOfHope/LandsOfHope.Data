@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/golem-defense-ii",
-    "requirements": {
-        "skill": 372,
-        "mana": 372
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "armor": 187
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/golem-defense-ii",
+	"requirements": {
+		"skill": 372,
+		"mana": 372
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"armor": 187
+		}
+	}
 }

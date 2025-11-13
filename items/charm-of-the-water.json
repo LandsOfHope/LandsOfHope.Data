@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "charm-of-the-water",
-    "image": "zuchwa",
-    "type": "wrist-jewelry",
-    "material": "wood",
-    "skills": {
-        "water-magic": 1
-    }
+	"$type": "/v1/item",
+	"id": "charm-of-the-water",
+	"image": "zuchwa",
+	"type": "wrist-jewelry",
+	"material": "wood",
+	"skills": {
+		"water-magic": 1
+	}
 }

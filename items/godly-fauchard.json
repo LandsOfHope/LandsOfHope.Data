@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "godly-fauchard",
-    "image": "fau",
-    "type": "2-handed-equipment",
-    "dpr": 94,
-    "material": "metal",
-    "skill": "pole-weapons",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "godly-fauchard",
+	"image": "fau",
+	"type": "2-handed-equipment",
+	"dpr": 94,
+	"material": "metal",
+	"skill": "pole-weapons",
+	"skills": {
+		"attack-power": 1
+	}
 }

@@ -1,19 +1,16 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/chat/commands/emote.json",
-    "title": "EmoteChatCommand",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/chat/commands/emote"
-        },
-        "emote": {
-            "type": "string",
-            "minLength": 1,
-            "maxLength": 500
-        }
-    },
-    "required": [
-        "$type",
-        "emote"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/chat/commands/emote.json",
+	"title": "EmoteChatCommand",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/chat/commands/emote"
+		},
+		"emote": {
+			"type": "string",
+			"minLength": 1,
+			"maxLength": 500
+		}
+	},
+	"required": ["$type", "emote"]
 }

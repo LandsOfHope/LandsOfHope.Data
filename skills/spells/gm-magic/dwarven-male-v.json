@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/dwarven-male-v",
-    "requirements": {
-        "skill": 913,
-        "mana": 913
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 457
-        },
-        "skills": {
-            "fire-survival": 457
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/dwarven-male-v",
+	"requirements": {
+		"skill": 913,
+		"mana": 913
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 457
+		},
+		"skills": {
+			"fire-survival": 457
+		}
+	}
 }

@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "eyeball-pie",
-    "image": "zueypi",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "MANA": 3
-    }
+	"$type": "/v1/item",
+	"id": "eyeball-pie",
+	"image": "zueypi",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"MANA": 3
+	}
 }

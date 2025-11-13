@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "lime-prizehunter-goggles",
-    "image": "6257",
-    "type": "glasses-shades",
-    "material": "gem",
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "lime-prizehunter-goggles",
+	"image": "6257",
+	"type": "glasses-shades",
+	"material": "gem",
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1
+	}
 }

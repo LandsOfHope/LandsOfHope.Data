@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-blessed-chestprotector",
-    "image": "3730",
-    "type": "chest-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-blessed-chestprotector",
+	"image": "3730",
+	"type": "chest-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

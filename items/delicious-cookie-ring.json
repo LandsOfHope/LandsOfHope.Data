@@ -1,18 +1,18 @@
 {
-    "$type": "/v1/item",
-    "id": "delicious-cookie-ring",
-    "image": "6719",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1,
-        "SPEED": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "delicious-cookie-ring",
+	"image": "6719",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	}
 }

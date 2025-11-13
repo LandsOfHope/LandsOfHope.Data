@@ -1,18 +1,15 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-product-item.json",
-    "title": "CharacterQueueProductItem",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/queue/character-queue-product-item"
-        },
-        "item": {
-            "$ref": "/schemas/v1/items-id.gen.json"
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "$type",
-        "item"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-product-item.json",
+	"title": "CharacterQueueProductItem",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/queue/character-queue-product-item"
+		},
+		"item": {
+			"$ref": "/schemas/v1/items-id.gen.json"
+		}
+	},
+	"additionalProperties": false,
+	"required": ["$type", "item"]
 }

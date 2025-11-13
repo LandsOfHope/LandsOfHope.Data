@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "lifestealer",
-    "image": "hr2",
-    "type": "2-handed-equipment",
-    "dpr": 4,
-    "material": "metal",
-    "skill": "two-handed-maces",
-    "skills": {
-        "drain-resistance": 1,
-        "two-handed-maces": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "lifestealer",
+	"image": "hr2",
+	"type": "2-handed-equipment",
+	"dpr": 4,
+	"material": "metal",
+	"skill": "two-handed-maces",
+	"skills": {
+		"drain-resistance": 1,
+		"two-handed-maces": 1,
+		"attack-power": 1
+	}
 }

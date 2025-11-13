@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/mount-rage-iii",
-    "requirements": {
-        "skill": 582,
-        "mana": 582
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "SPEED": 292
-        },
-        "skills": {
-            "attack-power": 292
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/mount-rage-iii",
+	"requirements": {
+		"skill": 582,
+		"mana": 582
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"SPEED": 292
+		},
+		"skills": {
+			"attack-power": 292
+		}
+	}
 }

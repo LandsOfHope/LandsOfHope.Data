@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "ankylosaurus-leggings",
-    "image": "5164",
-    "type": "leg-armour",
-    "armorType": "mail",
-    "expansion": "jurassic-wars",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "ankylosaurus-leggings",
+	"image": "5164",
+	"type": "leg-armour",
+	"armorType": "mail",
+	"expansion": "jurassic-wars",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

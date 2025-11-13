@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/items/enhancements/item-bejewel",
-    "id": "bejewels/stonemasonry-ring-coating",
-    "item": "ring-enhancement",
-    "skillValue": 230,
-    "ingredients": [
-        {
-            "id": "pearl",
-            "quantity": 1
-        }
-    ],
-    "effects": {
-        "skills": {
-            "stonemasonry": 0.6
-        }
-    }
+	"$type": "/v1/items/enhancements/item-bejewel",
+	"id": "bejewels/stonemasonry-ring-coating",
+	"item": "ring-enhancement",
+	"skillValue": 230,
+	"ingredients": [
+		{
+			"id": "pearl",
+			"quantity": 1
+		}
+	],
+	"effects": {
+		"skills": {
+			"stonemasonry": 0.6
+		}
+	}
 }

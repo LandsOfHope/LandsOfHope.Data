@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/nurse-iii",
-    "requirements": {
-        "skill": 472,
-        "mana": 472
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 237
-        },
-        "skills": {
-            "healing-magic": 237
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/nurse-iii",
+	"requirements": {
+		"skill": 472,
+		"mana": 472
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 237
+		},
+		"skills": {
+			"healing-magic": 237
+		}
+	}
 }

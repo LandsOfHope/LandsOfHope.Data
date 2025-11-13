@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ethereal-feetwarmers",
-    "image": "3111",
-    "type": "foot-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "ethereal-feetwarmers",
+	"image": "3111",
+	"type": "foot-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "recruits-chestchain",
-    "image": "2507",
-    "type": "chest-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "recruits-chestchain",
+	"image": "2507",
+	"type": "chest-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

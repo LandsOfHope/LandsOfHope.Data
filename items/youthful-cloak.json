@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "youthful-cloak",
-    "image": "pclo11",
-    "type": "cloak",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "youthful-cloak",
+	"image": "pclo11",
+	"type": "cloak",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

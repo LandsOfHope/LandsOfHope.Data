@@ -1,18 +1,18 @@
 {
-    "$type": "/v1/profession",
-    "id": "basic-armor-store",
-    "name": {
-        "en": "Basic Armor Store"
-    },
-    "desc": {
-        "en": ""
-    },
-    "skills": {
-        "two-handed-swords": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "basic-armor-store",
+	"name": {
+		"en": "Basic Armor Store"
+	},
+	"desc": {
+		"en": ""
+	},
+	"skills": {
+		"two-handed-swords": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"STRENGTH": 2
+	}
 }

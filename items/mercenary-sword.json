@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "mercenary-sword",
-    "image": "6651",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "material": "metal",
-    "skill": "swords",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "mercenary-sword",
+	"image": "6651",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"material": "metal",
+	"skill": "swords",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

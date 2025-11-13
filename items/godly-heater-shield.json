@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "godly-heater-shield",
-    "image": "sd1",
-    "type": "2-handed-equipment",
-    "dpr": 94,
-    "material": "metal",
-    "skill": "two-handed-shields",
-    "skills": {
-        "armor": 1,
-        "arcane-resistance": 1
-    }
+	"$type": "/v1/item",
+	"id": "godly-heater-shield",
+	"image": "sd1",
+	"type": "2-handed-equipment",
+	"dpr": 94,
+	"material": "metal",
+	"skill": "two-handed-shields",
+	"skills": {
+		"armor": 1,
+		"arcane-resistance": 1
+	}
 }

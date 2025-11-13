@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "boo",
-    "image": "zushboo",
-    "type": "halloween-2007",
-    "skills": {
-        "armor": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "boo",
+	"image": "zushboo",
+	"type": "halloween-2007",
+	"skills": {
+		"armor": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

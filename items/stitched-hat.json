@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "stitched-hat",
-    "image": "what3",
-    "type": "head-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "stitched-hat",
+	"image": "what3",
+	"type": "head-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

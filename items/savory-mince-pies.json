@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "savory-mince-pies",
-    "image": "6195",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "STAMINA": 3
-    }
+	"$type": "/v1/item",
+	"id": "savory-mince-pies",
+	"image": "6195",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"STAMINA": 3
+	}
 }

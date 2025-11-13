@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "divine-fury/crusaders-mark-i",
-    "requirements": {
-        "skill": 3100,
-        "mana": 550
-    },
-    "duration": "PT120M",
-    "effects": {
-        "skills": {
-            "arcane-resistance": 800
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "divine-fury/crusaders-mark-i",
+	"requirements": {
+		"skill": 3100,
+		"mana": 550
+	},
+	"duration": "PT120M",
+	"effects": {
+		"skills": {
+			"arcane-resistance": 800
+		}
+	}
 }

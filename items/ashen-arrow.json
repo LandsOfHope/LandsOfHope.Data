@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ashen-arrow",
-    "image": "arr1",
-    "type": "ammo-weapons-bows",
-    "dpr": 33,
-    "material": "wood",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "ashen-arrow",
+	"image": "arr1",
+	"type": "ammo-weapons-bows",
+	"dpr": 33,
+	"material": "wood",
+	"skills": {
+		"attack-power": 1
+	}
 }

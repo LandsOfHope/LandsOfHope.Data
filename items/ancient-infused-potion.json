@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "ancient-infused-potion",
-    "image": "6479",
-    "type": "magic-potion",
-    "expansion": "dark-depths",
-    "material": "gem",
-    "properties": {
-        "HITPOINTS": 4,
-        "MANA": 4,
-        "STAMINA": 4
-    }
+	"$type": "/v1/item",
+	"id": "ancient-infused-potion",
+	"image": "6479",
+	"type": "magic-potion",
+	"expansion": "dark-depths",
+	"material": "gem",
+	"properties": {
+		"HITPOINTS": 4,
+		"MANA": 4,
+		"STAMINA": 4
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/reliable-parasite",
-    "requirements": {
-        "skill": 1033,
-        "mana": 1033
-    },
-    "duration": "PT195M",
-    "effects": {
-        "properties": {
-            "STRENGTH": -515
-        },
-        "skills": {
-            "attack-power": -515
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/reliable-parasite",
+	"requirements": {
+		"skill": 1033,
+		"mana": 1033
+	},
+	"duration": "PT195M",
+	"effects": {
+		"properties": {
+			"STRENGTH": -515
+		},
+		"skills": {
+			"attack-power": -515
+		}
+	}
 }

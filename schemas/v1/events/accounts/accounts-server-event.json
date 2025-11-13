@@ -1,43 +1,43 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/accounts/accounts-server-event.json",
-    "title": "AccountsServerEvent",
-    "type": "object",
-    "oneOf": [
-        {
-            "$ref": "/schemas/v1/events/accounts/keycloak/keycloak-account-deleted.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/accounts/keycloak/keycloak-account-email-updated.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/accounts/keycloak/keycloak-account-login.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/accounts/keycloak/keycloak-send-email.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/accounts/account-login.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/accounts/delete/account-delete-requested.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/accounts/delete/account-reactivated.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/accounts/delete/account-deleted.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/accounts/signup/account-sign-up.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/accounts/signup/returning-account-sign-up.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/accounts/returning/returning-account-unsubscribed.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/accounts/returning/returning-account-imported.json"
-        }
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/events/accounts/accounts-server-event.json",
+	"title": "AccountsServerEvent",
+	"type": "object",
+	"oneOf": [
+		{
+			"$ref": "/schemas/v1/events/accounts/keycloak/keycloak-account-deleted.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/accounts/keycloak/keycloak-account-email-updated.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/accounts/keycloak/keycloak-account-login.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/accounts/keycloak/keycloak-send-email.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/accounts/account-login.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/accounts/delete/account-delete-requested.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/accounts/delete/account-reactivated.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/accounts/delete/account-deleted.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/accounts/signup/account-sign-up.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/accounts/signup/returning-account-sign-up.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/accounts/returning/returning-account-unsubscribed.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/accounts/returning/returning-account-imported.json"
+		}
+	]
 }

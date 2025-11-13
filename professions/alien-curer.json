@@ -1,26 +1,26 @@
 {
-    "$type": "/v1/profession",
-    "id": "alien-curer",
-    "name": {
-        "en": "Alien Curer"
-    },
-    "desc": {
-        "en": "An alien healer."
-    },
-    "skills": {
-        "mana-draining": 5,
-        "health-stealing": 5,
-        "poison-resistance": 5,
-        "poison-magic": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 7,
-        "MAXMANA": 3,
-        "MAXSTAMINA": 4,
-        "SPEED": 3,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/profession",
+	"id": "alien-curer",
+	"name": {
+		"en": "Alien Curer"
+	},
+	"desc": {
+		"en": "An alien healer."
+	},
+	"skills": {
+		"mana-draining": 5,
+		"health-stealing": 5,
+		"poison-resistance": 5,
+		"poison-magic": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 7,
+		"MAXMANA": 3,
+		"MAXSTAMINA": 4,
+		"SPEED": 3,
+		"STRENGTH": 1
+	}
 }

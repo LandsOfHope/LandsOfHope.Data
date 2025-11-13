@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "elite-demented-earring",
-    "image": "5942",
-    "type": "ear-jewelry",
-    "material": "gem",
-    "properties": {
-        "INTELLIGENCE": 1.2,
-        "MAXHITPOINTS": 1.2,
-        "STRENGTH": 1.2
-    }
+	"$type": "/v1/item",
+	"id": "elite-demented-earring",
+	"image": "5942",
+	"type": "ear-jewelry",
+	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1.2,
+		"MAXHITPOINTS": 1.2,
+		"STRENGTH": 1.2
+	}
 }

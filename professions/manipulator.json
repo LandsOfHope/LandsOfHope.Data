@@ -1,28 +1,28 @@
 {
-    "$type": "/v1/profession",
-    "id": "manipulator",
-    "name": {
-        "en": "Manipulator"
-    },
-    "desc": {
-        "en": "The  Manipulator is a Tier II evolution from the Animator Profession via Shaper."
-    },
-    "skills": {
-        "swords": 5,
-        "two-handed-staves": 5,
-        "staves": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 2,
-        "MAXMANA": 2,
-        "MAXSTAMINA": 2,
-        "STRENGTH": 2
-    },
-    "evo": {
-        "geomancer": 650
-    }
+	"$type": "/v1/profession",
+	"id": "manipulator",
+	"name": {
+		"en": "Manipulator"
+	},
+	"desc": {
+		"en": "The  Manipulator is a Tier II evolution from the Animator Profession via Shaper."
+	},
+	"skills": {
+		"swords": 5,
+		"two-handed-staves": 5,
+		"staves": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"STRENGTH": 2
+	},
+	"evo": {
+		"geomancer": 650
+	}
 }

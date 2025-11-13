@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/way-of-the-warrior-v",
-    "requirements": {
-        "skill": 50,
-        "mana": 50
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "SPEED": 1600
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/way-of-the-warrior-v",
+	"requirements": {
+		"skill": 50,
+		"mana": 50
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"SPEED": 1600
+		}
+	}
 }

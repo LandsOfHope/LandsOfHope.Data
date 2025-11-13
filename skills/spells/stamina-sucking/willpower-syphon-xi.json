@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "stamina-sucking/willpower-syphon-xi",
-    "requirements": {
-        "skill": 631,
-        "mana": 631
-    },
-    "duration": "PT25M",
-    "effects": {
-        "damage": 109,
-        "properties": {
-            "STAMINA": -310
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "stamina-sucking/willpower-syphon-xi",
+	"requirements": {
+		"skill": 631,
+		"mana": 631
+	},
+	"duration": "PT25M",
+	"effects": {
+		"damage": 109,
+		"properties": {
+			"STAMINA": -310
+		}
+	}
 }

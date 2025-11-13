@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "frozen-celestial-kiri",
-    "image": "6031",
-    "type": "1-handed-equipment",
-    "dpr": 92,
-    "material": "metal",
-    "skill": "celestial-weapons",
-    "skills": {
-        "cold-resistance": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "frozen-celestial-kiri",
+	"image": "6031",
+	"type": "1-handed-equipment",
+	"dpr": 92,
+	"material": "metal",
+	"skill": "celestial-weapons",
+	"skills": {
+		"cold-resistance": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

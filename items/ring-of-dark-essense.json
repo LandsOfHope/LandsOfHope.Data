@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-dark-essense",
-    "image": "rg8",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "first-aid": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-dark-essense",
+	"image": "rg8",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"first-aid": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

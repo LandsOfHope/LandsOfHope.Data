@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "blank-severed-legs",
-    "image": "6841",
-    "type": "leg-armour",
-    "set": "inventor-severed-set",
-    "material": "hide",
-    "skill": "blood-over-beauty",
-    "properties": {
-        "MAXSTAMINA": 0.6
-    }
+	"$type": "/v1/item",
+	"id": "blank-severed-legs",
+	"image": "6841",
+	"type": "leg-armour",
+	"set": "inventor-severed-set",
+	"material": "hide",
+	"skill": "blood-over-beauty",
+	"properties": {
+		"MAXSTAMINA": 0.6
+	}
 }

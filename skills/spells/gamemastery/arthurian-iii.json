@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/arthurian-iii",
-    "requirements": {
-        "skill": 15,
-        "mana": 15
-    },
-    "duration": "PT140000M",
-    "effects": {
-        "skills": {
-            "experience-bonus": 200
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/arthurian-iii",
+	"requirements": {
+		"skill": 15,
+		"mana": 15
+	},
+	"duration": "PT140000M",
+	"effects": {
+		"skills": {
+			"experience-bonus": 200
+		}
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "healing-magic/life-drain-viii",
-    "requirements": {
-        "skill": 1501,
-        "mana": 1501
-    },
-    "duration": "PT25M",
-    "effects": {
-        "damage": 1065,
-        "properties": {
-            "HITPOINTS": 755
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "healing-magic/life-drain-viii",
+	"requirements": {
+		"skill": 1501,
+		"mana": 1501
+	},
+	"duration": "PT25M",
+	"effects": {
+		"damage": 1065,
+		"properties": {
+			"HITPOINTS": 755
+		}
+	}
 }

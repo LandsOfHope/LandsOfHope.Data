@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "saddled-standard",
-    "image": "zsgc9",
-    "type": "guild-color",
-    "material": "cloth",
-    "properties": {
-        "HITPOINTS": 1,
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "saddled-standard",
+	"image": "zsgc9",
+	"type": "guild-color",
+	"material": "cloth",
+	"properties": {
+		"HITPOINTS": 1,
+		"MAXHITPOINTS": 1
+	}
 }

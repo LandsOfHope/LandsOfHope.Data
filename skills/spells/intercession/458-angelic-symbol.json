@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "intercession/458-angelic-symbol",
-    "requirements": {
-        "skill": 4580,
-        "level": 916,
-        "mana": 4580
-    },
-    "duration": "PT999M",
-    "effects": {
-        "skills": {
-            "armor": 458
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "intercession/458-angelic-symbol",
+	"requirements": {
+		"skill": 4580,
+		"level": 916,
+		"mana": 4580
+	},
+	"duration": "PT999M",
+	"effects": {
+		"skills": {
+			"armor": 458
+		}
+	}
 }

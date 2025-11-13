@@ -1,79 +1,77 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/deltas/inventory-item-delta.json",
-    "title": "CharacterInventoryItemDelta",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/inventory/deltas/inventory-item-delta"
-        },
-        "added": {
-            "type": "array",
-            "minItems": 1,
-            "items": {
-                "$ref": "/schemas/v1/characters/inventory/inventory-item.json"
-            }
-        },
-        "moved": {
-            "type": "array",
-            "items": {
-                "type": "array",
-                "items": [
-                    {
-                        "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
-                    },
-                    {
-                        "$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-moved-delta.json"
-                    }
-                ],
-                "minItems": 2,
-                "maxItems": 2
-            },
-            "minItems": 1
-        },
-        "flagsChanged": {
-            "type": "array",
-            "items": {
-                "type": "array",
-                "items": [
-                    {
-                        "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
-                    },
-                    {
-                        "$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-flags-changed-delta.json"
-                    }
-                ],
-                "minItems": 2,
-                "maxItems": 2
-            },
-            "minItems": 1
-        },
-        "quantitiesChanged": {
-            "type": "array",
-            "items": {
-                "type": "array",
-                "items": [
-                    {
-                        "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
-                    },
-                    {
-                        "$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-quantity-changed-delta.json"
-                    }
-                ],
-                "minItems": 2,
-                "maxItems": 2
-            },
-            "minItems": 1
-        },
-        "removed": {
-            "type": "array",
-            "minItems": 1,
-            "items": {
-                "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
-            }
-        }
-    },
-    "required": [
-        "$type"
-    ],
-    "additionalProperties": false
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/deltas/inventory-item-delta.json",
+	"title": "CharacterInventoryItemDelta",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/inventory/deltas/inventory-item-delta"
+		},
+		"added": {
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"$ref": "/schemas/v1/characters/inventory/inventory-item.json"
+			}
+		},
+		"moved": {
+			"type": "array",
+			"items": {
+				"type": "array",
+				"items": [
+					{
+						"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+					},
+					{
+						"$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-moved-delta.json"
+					}
+				],
+				"minItems": 2,
+				"maxItems": 2
+			},
+			"minItems": 1
+		},
+		"flagsChanged": {
+			"type": "array",
+			"items": {
+				"type": "array",
+				"items": [
+					{
+						"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+					},
+					{
+						"$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-flags-changed-delta.json"
+					}
+				],
+				"minItems": 2,
+				"maxItems": 2
+			},
+			"minItems": 1
+		},
+		"quantitiesChanged": {
+			"type": "array",
+			"items": {
+				"type": "array",
+				"items": [
+					{
+						"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+					},
+					{
+						"$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-quantity-changed-delta.json"
+					}
+				],
+				"minItems": 2,
+				"maxItems": 2
+			},
+			"minItems": 1
+		},
+		"removed": {
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+			}
+		}
+	},
+	"required": ["$type"],
+	"additionalProperties": false
 }

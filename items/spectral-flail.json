@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "spectral-flail",
-    "image": "bm",
-    "type": "1-handed-equipment",
-    "dpr": 9,
-    "material": "metal",
-    "skill": "maces",
-    "skills": {
-        "maces": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "spectral-flail",
+	"image": "bm",
+	"type": "1-handed-equipment",
+	"dpr": 9,
+	"material": "metal",
+	"skill": "maces",
+	"skills": {
+		"maces": 1,
+		"attack-power": 1
+	}
 }

@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "cured-bracers",
-    "image": "495",
-    "type": "arm-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "cured-bracers",
+	"image": "495",
+	"type": "arm-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

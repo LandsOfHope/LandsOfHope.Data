@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "dribbling-bolt",
-    "image": "arr1",
-    "type": "ammo-weapons-crossbows",
-    "dpr": 21,
-    "material": "wood",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "dribbling-bolt",
+	"image": "arr1",
+	"type": "ammo-weapons-crossbows",
+	"dpr": 21,
+	"material": "wood",
+	"skills": {
+		"attack-power": 1
+	}
 }

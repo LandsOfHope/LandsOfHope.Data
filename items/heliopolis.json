@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "heliopolis",
-    "image": "ss5",
-    "type": "siege-weapon",
-    "dpr": 13,
-    "material": "wood",
-    "skill": "siege-weapons",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "heliopolis",
+	"image": "ss5",
+	"type": "siege-weapon",
+	"dpr": 13,
+	"material": "wood",
+	"skill": "siege-weapons",
+	"skills": {
+		"armor": 1
+	}
 }

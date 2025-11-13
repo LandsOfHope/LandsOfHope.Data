@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "intercession/332-sentient-symbol",
-    "requirements": {
-        "skill": 3320,
-        "level": 664,
-        "mana": 3320
-    },
-    "duration": "PT999M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 332
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "intercession/332-sentient-symbol",
+	"requirements": {
+		"skill": 3320,
+		"level": 664,
+		"mana": 3320
+	},
+	"duration": "PT999M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 332
+		}
+	}
 }

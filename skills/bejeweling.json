@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"crafting","titles":{"500":"novice-bejeweler","2500":"shiny-bejeweler","5000":"sparkly-bejeweler"}}
+{
+	"$type": "/v1/skill",
+	"group": "crafting",
+	"titles": {
+		"500": "novice-bejeweler",
+		"2500": "shiny-bejeweler",
+		"5000": "sparkly-bejeweler"
+	}
+}

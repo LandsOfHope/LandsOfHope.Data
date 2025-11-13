@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "twisted-heart-mace",
-    "image": "nmc",
-    "type": "1-handed-equipment",
-    "dpr": 10,
-    "material": "metal",
-    "skill": "maces",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "twisted-heart-mace",
+	"image": "nmc",
+	"type": "1-handed-equipment",
+	"dpr": 10,
+	"material": "metal",
+	"skill": "maces",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"STRENGTH": 1
+	}
 }

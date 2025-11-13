@@ -1,23 +1,23 @@
 {
-    "$type": "/v1/profession",
-    "id": "island-wavecaller",
-    "name": {
-        "en": "Island Wavecaller"
-    },
-    "desc": {
-        "en": "Found in the Pirate Expansion."
-    },
-    "skills": {
-        "water-magic": 5,
-        "mana-draining": 5,
-        "water-resistance": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 4,
-        "MAXMANA": 3
-    }
+	"$type": "/v1/profession",
+	"id": "island-wavecaller",
+	"name": {
+		"en": "Island Wavecaller"
+	},
+	"desc": {
+		"en": "Found in the Pirate Expansion."
+	},
+	"skills": {
+		"water-magic": 5,
+		"mana-draining": 5,
+		"water-resistance": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 4,
+		"MAXMANA": 3
+	}
 }

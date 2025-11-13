@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "battlehardened-chestplate",
-    "image": "2249",
-    "type": "chest-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "battlehardened-chestplate",
+	"image": "2249",
+	"type": "chest-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

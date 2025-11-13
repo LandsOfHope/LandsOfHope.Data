@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "gladiator-wings",
-    "image": "6681",
-    "type": "wings",
-    "material": "hide",
-    "skill": "gods-favor",
-    "skills": {
-        "air-survival": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "gladiator-wings",
+	"image": "6681",
+	"type": "wings",
+	"material": "hide",
+	"skill": "gods-favor",
+	"skills": {
+		"air-survival": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

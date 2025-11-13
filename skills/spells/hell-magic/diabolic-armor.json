@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "hell-magic/diabolic-armor",
-    "requirements": {
-        "skill": 949,
-        "mana": 949
-    },
-    "duration": "PT240M",
-    "effects": {
-        "skills": {
-            "celestial-defense": 475
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "hell-magic/diabolic-armor",
+	"requirements": {
+		"skill": 949,
+		"mana": 949
+	},
+	"duration": "PT240M",
+	"effects": {
+		"skills": {
+			"celestial-defense": 475
+		}
+	}
 }

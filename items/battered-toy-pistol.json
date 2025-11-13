@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "battered-toy-pistol",
-    "image": "pl2",
-    "type": "1-handed-equipment",
-    "dpr": 4,
-    "material": "wood",
-    "skill": "hand-guns",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "battered-toy-pistol",
+	"image": "pl2",
+	"type": "1-handed-equipment",
+	"dpr": 4,
+	"material": "wood",
+	"skill": "hand-guns",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

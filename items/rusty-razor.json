@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "rusty-razor",
-    "image": "dg",
-    "type": "1-handed-equipment",
-    "dpr": 65,
-    "material": "metal",
-    "skill": "exotic-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "rusty-razor",
+	"image": "dg",
+	"type": "1-handed-equipment",
+	"dpr": 65,
+	"material": "metal",
+	"skill": "exotic-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

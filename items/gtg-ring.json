@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "gtg-ring",
-    "image": "6728",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "blacksmithing": 1,
-        "furnishing": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "gtg-ring",
+	"image": "6728",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"blacksmithing": 1,
+		"furnishing": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

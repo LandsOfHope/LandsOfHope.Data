@@ -1,22 +1,18 @@
 {
-    "name": {
-        "en": "Ship's Monkey"
-    },
-    "desc": {
-        "en": ""
-    },
-    "appr": {
-        "en": ""
-    },
-    "hist": {
-        "en": ""
-    },
-    "pics": {
-        "M": [
-            "mjmonk1"
-        ],
-        "F": [
-            "mjmonk2"
-        ]
-    }
+	"name": {
+		"en": "Ship's Monkey"
+	},
+	"desc": {
+		"en": ""
+	},
+	"appr": {
+		"en": ""
+	},
+	"hist": {
+		"en": ""
+	},
+	"pics": {
+		"M": ["mjmonk1"],
+		"F": ["mjmonk2"]
+	}
 }

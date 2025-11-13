@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "dribbling-bullet",
-    "image": "zudrbu1",
-    "type": "ammo-weapons-bullets",
-    "dpr": 24,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "dribbling-bullet",
+	"image": "zudrbu1",
+	"type": "ammo-weapons-bullets",
+	"dpr": 24,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

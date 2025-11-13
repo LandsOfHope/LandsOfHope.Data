@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ethereal-hat",
-    "image": "3161",
-    "type": "head-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "ethereal-hat",
+	"image": "3161",
+	"type": "head-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

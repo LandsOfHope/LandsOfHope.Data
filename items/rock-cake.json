@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "rock-cake",
-    "image": "ce3",
-    "type": "1-handed-equipment",
-    "dpr": 3,
-    "material": "berry",
-    "skill": "maces",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "rock-cake",
+	"image": "ce3",
+	"type": "1-handed-equipment",
+	"dpr": 3,
+	"material": "berry",
+	"skill": "maces",
+	"skills": {
+		"attack-power": 1
+	}
 }

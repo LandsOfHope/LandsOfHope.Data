@@ -1,25 +1,25 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "blacksmithing/battered-toy-pistol",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "battered-toy-pistol"
-    },
-    "image": "pl2",
-    "time": "PT15S",
-    "quantity": 1,
-    "skill": "blacksmithing",
-    "skillValue": 100,
-    "quality": "uncommon",
-    "ingredients": [
-        {
-            "id": "ingot",
-            "quantity": 2,
-            "primary": true
-        },
-        {
-            "id": "small-stock",
-            "quantity": 1
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "blacksmithing/battered-toy-pistol",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "battered-toy-pistol"
+	},
+	"image": "pl2",
+	"time": "PT15S",
+	"quantity": 1,
+	"skill": "blacksmithing",
+	"skillValue": 100,
+	"quality": "uncommon",
+	"ingredients": [
+		{
+			"id": "ingot",
+			"quantity": 2,
+			"primary": true
+		},
+		{
+			"id": "small-stock",
+			"quantity": 1
+		}
+	]
 }

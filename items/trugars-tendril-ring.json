@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "trugars-tendril-ring",
-    "image": "rg1",
-    "type": "ring",
-    "material": "wood",
-    "skills": {
-        "earth-resistance": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "trugars-tendril-ring",
+	"image": "rg1",
+	"type": "ring",
+	"material": "wood",
+	"skills": {
+		"earth-resistance": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

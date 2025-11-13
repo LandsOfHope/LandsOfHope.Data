@@ -1,22 +1,22 @@
 {
-    "$type": "/v1/profession",
-    "id": "lottery-prize-giver",
-    "name": {
-        "en": "Lottery Prize Giver"
-    },
-    "desc": {
-        "en": ""
-    },
-    "skills": {
-        "earth-resistance": 5,
-        "earth-magic": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 3,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/profession",
+	"id": "lottery-prize-giver",
+	"name": {
+		"en": "Lottery Prize Giver"
+	},
+	"desc": {
+		"en": ""
+	},
+	"skills": {
+		"earth-resistance": 5,
+		"earth-magic": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 3,
+		"STRENGTH": 1
+	}
 }

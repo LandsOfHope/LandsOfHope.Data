@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "nocturnal-stilletos",
-    "image": "6753",
-    "type": "foot-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "stealth": 1,
-        "armor": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "nocturnal-stilletos",
+	"image": "6753",
+	"type": "foot-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"stealth": 1,
+		"armor": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

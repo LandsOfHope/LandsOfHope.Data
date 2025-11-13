@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-ethereal-cap",
-    "image": "3926",
-    "type": "head-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-ethereal-cap",
+	"image": "3926",
+	"type": "head-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

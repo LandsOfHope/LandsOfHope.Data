@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "earring-of-invisibility",
-    "image": "zueain",
-    "type": "ear-jewelry",
-    "material": "gem",
-    "skills": {
-        "stealth": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "earring-of-invisibility",
+	"image": "zueain",
+	"type": "ear-jewelry",
+	"material": "gem",
+	"skills": {
+		"stealth": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

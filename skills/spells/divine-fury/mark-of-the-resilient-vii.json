@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "divine-fury/mark-of-the-resilient-vii",
-    "requirements": {
-        "skill": 4350,
-        "mana": 670
-    },
-    "duration": "PT120M",
-    "effects": {
-        "skills": {
-            "arcane-resistance": -700
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "divine-fury/mark-of-the-resilient-vii",
+	"requirements": {
+		"skill": 4350,
+		"mana": 670
+	},
+	"duration": "PT120M",
+	"effects": {
+		"skills": {
+			"arcane-resistance": -700
+		}
+	}
 }

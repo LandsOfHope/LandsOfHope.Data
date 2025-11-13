@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "autumnal-cloak",
-    "image": "jwadc",
-    "type": "neck-clothing",
-    "armorType": "leather",
-    "expansion": "jurassic-wars",
-    "material": "wood",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "autumnal-cloak",
+	"image": "jwadc",
+	"type": "neck-clothing",
+	"armorType": "leather",
+	"expansion": "jurassic-wars",
+	"material": "wood",
+	"skills": {
+		"armor": 1
+	}
 }

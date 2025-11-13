@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "land-owners-mark",
-    "image": "3199",
-    "type": "bonus-slot",
-    "material": "cloth",
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "land-owners-mark",
+	"image": "3199",
+	"type": "bonus-slot",
+	"material": "cloth",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1
+	}
 }

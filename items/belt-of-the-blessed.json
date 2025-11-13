@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "belt-of-the-blessed",
-    "image": "zubebl",
-    "type": "stomach",
-    "armorType": "cloth",
-    "set": "myzan-defenders",
-    "material": "metal",
-    "skill": "myzan-defenders",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "belt-of-the-blessed",
+	"image": "zubebl",
+	"type": "stomach",
+	"armorType": "cloth",
+	"set": "myzan-defenders",
+	"material": "metal",
+	"skill": "myzan-defenders",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXSTAMINA": 1
+	}
 }

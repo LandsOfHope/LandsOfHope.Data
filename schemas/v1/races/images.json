@@ -1,44 +1,39 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/races/images.json",
-    "title": "RaceImages",
-    "type": "object",
-    "oneOf": [
-        {
-            "properties": {
-                "M": {
-                    "type": "array",
-                    "uniqueItems": true,
-                    "items": {
-                        "$ref": "/schemas/v1/characters-images-id.gen.json"
-                    }
-                },
-                "F": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "/schemas/v1/characters-images-id.gen.json"
-                    }
-                }
-            },
-            "required": [
-                "M",
-                "F"
-            ],
-            "additionalProperties": false
-        },
-        {
-            "properties": {
-                "U": {
-                    "type": "array",
-                    "uniqueItems": true,
-                    "items": {
-                        "$ref": "/schemas/v1/characters-images-id.gen.json"
-                    }
-                }
-            },
-            "required": [
-                "U"
-            ],
-            "additionalProperties": false
-        }
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/races/images.json",
+	"title": "RaceImages",
+	"type": "object",
+	"oneOf": [
+		{
+			"properties": {
+				"M": {
+					"type": "array",
+					"uniqueItems": true,
+					"items": {
+						"$ref": "/schemas/v1/characters-images-id.gen.json"
+					}
+				},
+				"F": {
+					"type": "array",
+					"items": {
+						"$ref": "/schemas/v1/characters-images-id.gen.json"
+					}
+				}
+			},
+			"required": ["M", "F"],
+			"additionalProperties": false
+		},
+		{
+			"properties": {
+				"U": {
+					"type": "array",
+					"uniqueItems": true,
+					"items": {
+						"$ref": "/schemas/v1/characters-images-id.gen.json"
+					}
+				}
+			},
+			"required": ["U"],
+			"additionalProperties": false
+		}
+	]
 }

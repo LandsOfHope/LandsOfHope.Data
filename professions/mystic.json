@@ -1,23 +1,23 @@
 {
-    "$type": "/v1/profession",
-    "id": "mystic",
-    "name": {
-        "en": "Mystic"
-    },
-    "desc": {
-        "en": ""
-    },
-    "skills": {
-        "mystical-magic": 5,
-        "healing-magic": 5,
-        "two-handed-staves": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 4,
-        "MAXMANA": 3,
-        "MAXSTAMINA": 2
-    }
+	"$type": "/v1/profession",
+	"id": "mystic",
+	"name": {
+		"en": "Mystic"
+	},
+	"desc": {
+		"en": ""
+	},
+	"skills": {
+		"mystical-magic": 5,
+		"healing-magic": 5,
+		"two-handed-staves": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 4,
+		"MAXMANA": 3,
+		"MAXSTAMINA": 2
+	}
 }

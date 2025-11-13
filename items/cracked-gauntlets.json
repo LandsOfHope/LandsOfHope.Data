@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "cracked-gauntlets",
-    "image": "c1g",
-    "type": "hand-armour",
-    "armorType": "plate",
-    "material": "gem",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "cracked-gauntlets",
+	"image": "c1g",
+	"type": "hand-armour",
+	"armorType": "plate",
+	"material": "gem",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

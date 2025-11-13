@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/greater-parasite",
-    "requirements": {
-        "skill": 1013,
-        "mana": 1013
-    },
-    "duration": "PT135M",
-    "effects": {
-        "properties": {
-            "STRENGTH": -505
-        },
-        "skills": {
-            "attack-power": -505
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/greater-parasite",
+	"requirements": {
+		"skill": 1013,
+		"mana": 1013
+	},
+	"duration": "PT135M",
+	"effects": {
+		"properties": {
+			"STRENGTH": -505
+		},
+		"skills": {
+			"attack-power": -505
+		}
+	}
 }

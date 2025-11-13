@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "lineage",
-    "image": "gmliig",
-    "type": "wings",
-    "material": "hide",
-    "skills": {
-        "air-survival": 1,
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "lineage",
+	"image": "gmliig",
+	"type": "wings",
+	"material": "hide",
+	"skills": {
+		"air-survival": 1,
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1
+	}
 }

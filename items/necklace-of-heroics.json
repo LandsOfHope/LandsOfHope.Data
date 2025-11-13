@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "necklace-of-heroics",
-    "image": "zunehe",
-    "type": "neck",
-    "armorType": "cloth",
-    "set": "myzan-defenders",
-    "material": "gem",
-    "skill": "myzan-defenders",
-    "skills": {
-        "detect-hidden": 1,
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "necklace-of-heroics",
+	"image": "zunehe",
+	"type": "neck",
+	"armorType": "cloth",
+	"set": "myzan-defenders",
+	"material": "gem",
+	"skill": "myzan-defenders",
+	"skills": {
+		"detect-hidden": 1,
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

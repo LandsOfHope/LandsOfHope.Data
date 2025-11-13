@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/gryphon-flight-iv",
-    "requirements": {
-        "skill": 848,
-        "mana": 848
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "air-survival": 425
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/gryphon-flight-iv",
+	"requirements": {
+		"skill": 848,
+		"mana": 848
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"air-survival": 425
+		}
+	}
 }

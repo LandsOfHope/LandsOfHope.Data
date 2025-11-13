@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "cookie-costume-gloves",
-    "image": "cmglv",
-    "type": "hand-armour",
-    "set": "cookie-costume",
-    "material": "cloth",
-    "skill": "artisan",
-    "skills": {
-        "fishing": 1
-    }
+	"$type": "/v1/item",
+	"id": "cookie-costume-gloves",
+	"image": "cmglv",
+	"type": "hand-armour",
+	"set": "cookie-costume",
+	"material": "cloth",
+	"skill": "artisan",
+	"skills": {
+		"fishing": 1
+	}
 }

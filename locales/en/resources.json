@@ -1,85 +1,85 @@
 {
-    "fish": {
-        "verb": "Fishing",
-        "bonus": {
-            "treasure-map-in-a-bottle": "You recover a treasure map in a bottle from the water."
-        },
-        "success": "You hook {{ mat }} using your {{ item }} it will take you {{ time }} seconds to land the catch",
-        "successOther": "Your pet hooks {{ mat }}, it will take {{ time }} seconds to land the catch"
-    },
-    "log": {
-        "verb": "Lumberjacking",
-        "bonus": {
-            "egg": "Your lumberjacking dislodges some bird eggs.",
-            "bark": "You keep the bark from the tree."
-        },
-        "success": "You chop some {{ mat }} logs with your {{ item }}, the wood will be ready to use in {{ time }} seconds",
-        "successOther": "Your pet chops {{ mat }} logs, the wood will be ready to use in {{ time }} seconds"
-    },
-    "crop": {
-        "verb": "Farming",
-        "bonus": {
-            "fiber": "You remove a plant fiber from the crops."
-        },
-        "success": "You harvest some {{ mat }} crops, they will be dried and ready to use in {{ time }} seconds",
-        "successOther": "Your pet harvests  some {{ mat }} crops, they will be dried and ready to use in {{ time }} seconds"
-    },
-    "vegetable": {
-        "verb": "Foraging",
-        "bonus": {
-            "fiber": "You remove a plant fiber from the harvest."
-        },
-        "success": "You dig up some {{ mat }} vegetables, they will be washed and ready to use in {{ time }} seconds",
-        "successOther": "Your pet digs up some {{ mat }} vegetables, they will be washed and ready to use in {{ time }} seconds"
-    },
-    "berry": {
-        "verb": "Foraging",
-        "bonus": {
-            "fiber": "You remove a plant fiber from the berries."
-        },
-        "success": "You pick some {{ mat }} wild fruit, they will be washed and ready to use in {{ time }} seconds",
-        "successOther": "Your pet picks some {{ mat }} wild fruit, they will be washed and ready to use in {{ time }} seconds"
-    },
-    "ore": {
-        "verb": "Mining",
-        "bonus": {
-            "gem": "You find a gem amongst the ore."
-        },
-        "success": "You hit a vein of {{ mat }} ore, your ore should be refined in {{ time }} seconds",
-        "successOther": "Your pet hits a vein of {{ mat }} ore, the ore should be refined in {{ time }} seconds"
-    },
-    "gem": {
-        "verb": "Geology",
-        "bonus": {
-            "ore": "You find a piece of ore amongst the gem.",
-            "stone-block": "You find a piece of stone amongst the gem."
-        },
-        "success": "You hit a deposit of {{ mat }} gems, your gems should be refined in {{ time }} seconds",
-        "successOther": "Your pet hit a deposit of {{ mat }} gems, the gems should be refined in {{ time }} seconds"
-    },
-    "cloth": {
-        "verb": "Farming",
-        "bonus": {
-            "crop": "You remove some crops from the fiber."
-        },
-        "success": "You cut a growth of {{ mat }} fiber, your fiber should be dried in {{ time }} seconds",
-        "successOther": "Your pet cuts a growth of {{ mat }} fiber, the fiber should be dried in {{ time }} seconds"
-    },
-    "stone": {
-        "verb": "Mining",
-        "bonus": {
-            "gem": "You find a gem amongst the stone."
-        },
-        "success": "You quarry some {{ mat }} stone, it will be ready to use in {{ time }} seconds",
-        "successOther": "Your pet quarries some {{ mat }} stone, it will be ready to use in {{ time }} seconds"
-    },
-    "marine-trap": {
-        "verb": "Marine Husbandry",
-        "bonus": {
-            "fish": "You find a fish in the trap.",
-            "pearl": "You find a pearl in the trap."
-        },
-        "success": "You raise the marine trap and find {{ name }}, it will be ready to use in {{ time }} seconds",
-        "successOther": "Your pet raises the marine trap and finds {{ name }}, it will be ready to use in {{ time }} seconds"
-    }
+	"berry": {
+		"bonus": {
+			"fiber": "You remove a plant fiber from the berries."
+		},
+		"success": "You pick some {{ mat }} wild fruit, they will be washed and ready to use in {{ time }} seconds",
+		"successOther": "Your pet picks some {{ mat }} wild fruit, they will be washed and ready to use in {{ time }} seconds",
+		"verb": "Foraging"
+	},
+	"cloth": {
+		"bonus": {
+			"crop": "You remove some crops from the fiber."
+		},
+		"success": "You cut a growth of {{ mat }} fiber, your fiber should be dried in {{ time }} seconds",
+		"successOther": "Your pet cuts a growth of {{ mat }} fiber, the fiber should be dried in {{ time }} seconds",
+		"verb": "Farming"
+	},
+	"crop": {
+		"bonus": {
+			"fiber": "You remove a plant fiber from the crops."
+		},
+		"success": "You harvest some {{ mat }} crops, they will be dried and ready to use in {{ time }} seconds",
+		"successOther": "Your pet harvests  some {{ mat }} crops, they will be dried and ready to use in {{ time }} seconds",
+		"verb": "Farming"
+	},
+	"fish": {
+		"bonus": {
+			"treasure-map-in-a-bottle": "You recover a treasure map in a bottle from the water."
+		},
+		"success": "You hook {{ mat }} using your {{ item }} it will take you {{ time }} seconds to land the catch",
+		"successOther": "Your pet hooks {{ mat }}, it will take {{ time }} seconds to land the catch",
+		"verb": "Fishing"
+	},
+	"gem": {
+		"bonus": {
+			"ore": "You find a piece of ore amongst the gem.",
+			"stone-block": "You find a piece of stone amongst the gem."
+		},
+		"success": "You hit a deposit of {{ mat }} gems, your gems should be refined in {{ time }} seconds",
+		"successOther": "Your pet hit a deposit of {{ mat }} gems, the gems should be refined in {{ time }} seconds",
+		"verb": "Geology"
+	},
+	"log": {
+		"bonus": {
+			"bark": "You keep the bark from the tree.",
+			"egg": "Your lumberjacking dislodges some bird eggs."
+		},
+		"success": "You chop some {{ mat }} logs with your {{ item }}, the wood will be ready to use in {{ time }} seconds",
+		"successOther": "Your pet chops {{ mat }} logs, the wood will be ready to use in {{ time }} seconds",
+		"verb": "Lumberjacking"
+	},
+	"marine-trap": {
+		"bonus": {
+			"fish": "You find a fish in the trap.",
+			"pearl": "You find a pearl in the trap."
+		},
+		"success": "You raise the marine trap and find {{ name }}, it will be ready to use in {{ time }} seconds",
+		"successOther": "Your pet raises the marine trap and finds {{ name }}, it will be ready to use in {{ time }} seconds",
+		"verb": "Marine Husbandry"
+	},
+	"ore": {
+		"bonus": {
+			"gem": "You find a gem amongst the ore."
+		},
+		"success": "You hit a vein of {{ mat }} ore, your ore should be refined in {{ time }} seconds",
+		"successOther": "Your pet hits a vein of {{ mat }} ore, the ore should be refined in {{ time }} seconds",
+		"verb": "Mining"
+	},
+	"stone": {
+		"bonus": {
+			"gem": "You find a gem amongst the stone."
+		},
+		"success": "You quarry some {{ mat }} stone, it will be ready to use in {{ time }} seconds",
+		"successOther": "Your pet quarries some {{ mat }} stone, it will be ready to use in {{ time }} seconds",
+		"verb": "Mining"
+	},
+	"vegetable": {
+		"bonus": {
+			"fiber": "You remove a plant fiber from the harvest."
+		},
+		"success": "You dig up some {{ mat }} vegetables, they will be washed and ready to use in {{ time }} seconds",
+		"successOther": "Your pet digs up some {{ mat }} vegetables, they will be washed and ready to use in {{ time }} seconds",
+		"verb": "Foraging"
+	}
 }

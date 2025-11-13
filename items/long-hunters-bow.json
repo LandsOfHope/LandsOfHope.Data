@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "long-hunters-bow",
-    "image": "bw2",
-    "type": "ranged-weapon",
-    "dpr": 22,
-    "material": "wood",
-    "skill": "bows",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "long-hunters-bow",
+	"image": "bw2",
+	"type": "ranged-weapon",
+	"dpr": 22,
+	"material": "wood",
+	"skill": "bows",
+	"skills": {
+		"attack-power": 1
+	}
 }

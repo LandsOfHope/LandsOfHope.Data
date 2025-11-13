@@ -1,18 +1,15 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-product-recipe.json",
-    "title": "CharacterQueueProductRecipe",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/queue/character-queue-product-recipe"
-        },
-        "recipe": {
-            "$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "$type",
-        "recipe"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-product-recipe.json",
+	"title": "CharacterQueueProductRecipe",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/queue/character-queue-product-recipe"
+		},
+		"recipe": {
+			"$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
+		}
+	},
+	"additionalProperties": false,
+	"required": ["$type", "recipe"]
 }

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "allsparks-steampowered-helmet",
-    "image": "6726",
-    "type": "forehead",
-    "material": "hide",
-    "skills": {
-        "blacksmithing": 1,
-        "alchemy": 1,
-        "appraisal": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "allsparks-steampowered-helmet",
+	"image": "6726",
+	"type": "forehead",
+	"material": "hide",
+	"skills": {
+		"blacksmithing": 1,
+		"alchemy": 1,
+		"appraisal": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/change-into-a-giant-frog",
-    "requirements": {
-        "skill": 286,
-        "mana": 286
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "SPEED": 144
-        },
-        "skills": {
-            "water-survival": 144
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/change-into-a-giant-frog",
+	"requirements": {
+		"skill": 286,
+		"mana": 286
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"SPEED": 144
+		},
+		"skills": {
+			"water-survival": 144
+		}
+	}
 }

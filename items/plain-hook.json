@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "plain-hook",
-    "image": "bbh",
-    "type": "1-handed-equipment",
-    "dpr": 85,
-    "material": "metal",
-    "skill": "exotic-weapons",
-    "skills": {
-        "exotic-weapons": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "plain-hook",
+	"image": "bbh",
+	"type": "1-handed-equipment",
+	"dpr": 85,
+	"material": "metal",
+	"skill": "exotic-weapons",
+	"skills": {
+		"exotic-weapons": 1,
+		"attack-power": 1
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "healing-magic/stronger-health-boost",
-    "requirements": {
-        "skill": 4789,
-        "mana": 4789
-    },
-    "duration": "PT960M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 441
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "healing-magic/stronger-health-boost",
+	"requirements": {
+		"skill": 4789,
+		"mana": 4789
+	},
+	"duration": "PT960M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 441
+		}
+	}
 }

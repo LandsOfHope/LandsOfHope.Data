@@ -1,57 +1,52 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/races/race-evolution-graph.json",
-    "title": "RaceEvolutionGraph",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/races/race-evolution-graph"
-        },
-        "edges": {
-            "type": "array",
-            "items": {
-                "type": "array",
-                "minItems": 3,
-                "additionalItems": false,
-                "items": [
-                    {
-                        "$ref": "/schemas/v1/races-id.gen.json"
-                    },
-                    {
-                        "$ref": "/schemas/v1/races-id.gen.json"
-                    },
-                    {
-                        "type": "object",
-                        "properties": {
-                            "level": {
-                                "type": "integer",
-                                "minimum": 0
-                            },
-                            "properties": {
-                                "type": "object",
-                                "patternProperties": {
-                                    ".*": {
-                                        "type": "integer",
-                                        "minimum": 0
-                                    }
-                                },
-                                "propertyNames": {
-                                    "$ref": "/schemas/v1/characters/character-property-name.json"
-                                },
-                                "additionalProperties": false
-                            }
-                        },
-                        "required": [
-                            "level"
-                        ],
-                        "additionalProperties": false
-                    }
-                ]
-            }
-        }
-    },
-    "required": [
-        "$type",
-        "edges"
-    ],
-    "additionalProperties": false
+	"$id": "https://data.landsofhope.com/schemas/v1/races/race-evolution-graph.json",
+	"title": "RaceEvolutionGraph",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/races/race-evolution-graph"
+		},
+		"edges": {
+			"type": "array",
+			"items": {
+				"type": "array",
+				"minItems": 3,
+				"additionalItems": false,
+				"items": [
+					{
+						"$ref": "/schemas/v1/races-id.gen.json"
+					},
+					{
+						"$ref": "/schemas/v1/races-id.gen.json"
+					},
+					{
+						"type": "object",
+						"properties": {
+							"level": {
+								"type": "integer",
+								"minimum": 0
+							},
+							"properties": {
+								"type": "object",
+								"patternProperties": {
+									".*": {
+										"type": "integer",
+										"minimum": 0
+									}
+								},
+								"propertyNames": {
+									"$ref": "/schemas/v1/characters/character-property-name.json"
+								},
+								"additionalProperties": false
+							}
+						},
+						"required": ["level"],
+						"additionalProperties": false
+					}
+				]
+			}
+		}
+	},
+	"required": ["$type", "edges"],
+	"additionalProperties": false
 }

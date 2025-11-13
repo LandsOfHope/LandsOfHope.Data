@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/raptor-blood-frenzy-iii",
-    "requirements": {
-        "skill": 512,
-        "mana": 512
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "frenzy": 257
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/raptor-blood-frenzy-iii",
+	"requirements": {
+		"skill": 512,
+		"mana": 512
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"frenzy": 257
+		}
+	}
 }

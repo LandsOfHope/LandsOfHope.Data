@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "hellish-sack",
-    "image": "gmhesa",
-    "type": "bag",
-    "material": "cloth",
-    "skills": {
-        "fire-survival": 1
-    }
+	"$type": "/v1/item",
+	"id": "hellish-sack",
+	"image": "gmhesa",
+	"type": "bag",
+	"material": "cloth",
+	"skills": {
+		"fire-survival": 1
+	}
 }

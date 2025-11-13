@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "darkroot-symbol",
-    "image": "zudasy",
-    "type": "special-slot",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "darkroot-symbol",
+	"image": "zudasy",
+	"type": "special-slot",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1
+	}
 }

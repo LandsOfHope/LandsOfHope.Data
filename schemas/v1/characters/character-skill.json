@@ -1,47 +1,39 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-skill.json",
-    "title": "CharacterSkill",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/character-skill"
-        },
-        "natural": {
-            "type": "integer"
-        },
-        "bonus": {
-            "type": "object",
-            "properties": {
-                "item": {
-                    "type": "number"
-                },
-                "spell": {
-                    "type": "number"
-                }
-            },
-            "additionalProperties": false,
-            "required": [
-                "item",
-                "spell"
-            ]
-        },
-        "limit": {
-            "oneOf": [
-                {
-                    "type": "integer",
-                    "exclusiveMinimum": 0
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "$type",
-        "natural",
-        "bonus",
-        "limit"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/character-skill.json",
+	"title": "CharacterSkill",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/character-skill"
+		},
+		"natural": {
+			"type": "integer"
+		},
+		"bonus": {
+			"type": "object",
+			"properties": {
+				"item": {
+					"type": "number"
+				},
+				"spell": {
+					"type": "number"
+				}
+			},
+			"additionalProperties": false,
+			"required": ["item", "spell"]
+		},
+		"limit": {
+			"oneOf": [
+				{
+					"type": "integer",
+					"exclusiveMinimum": 0
+				},
+				{
+					"type": "null"
+				}
+			]
+		}
+	},
+	"additionalProperties": false,
+	"required": ["$type", "natural", "bonus", "limit"]
 }

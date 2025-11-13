@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "silverclaw-leggings",
-    "image": "4706",
-    "type": "leg-armour",
-    "armorType": "leather",
-    "legendary": true,
-    "set": "silverclaw-legend",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "silverclaw-leggings",
+	"image": "4706",
+	"type": "leg-armour",
+	"armorType": "leather",
+	"legendary": true,
+	"set": "silverclaw-legend",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

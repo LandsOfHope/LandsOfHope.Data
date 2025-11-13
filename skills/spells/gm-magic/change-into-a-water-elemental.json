@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/change-into-a-water-elemental",
-    "requirements": {
-        "skill": 850,
-        "mana": 850
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 426
-        },
-        "skills": {
-            "water-resistance": 426
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/change-into-a-water-elemental",
+	"requirements": {
+		"skill": 850,
+		"mana": 850
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 426
+		},
+		"skills": {
+			"water-resistance": 426
+		}
+	}
 }

@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-bejewelled-headguard",
-    "image": "3698",
-    "type": "head-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-bejewelled-headguard",
+	"image": "3698",
+	"type": "head-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

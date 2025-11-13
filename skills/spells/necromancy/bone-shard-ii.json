@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "necromancy/bone-shard-ii",
-    "requirements": {
-        "skill": 928,
-        "mana": 928
-    },
-    "effects": {
-        "damage": 664
-    }
+	"$type": "/v1/skills/spell",
+	"id": "necromancy/bone-shard-ii",
+	"requirements": {
+		"skill": 928,
+		"mana": 928
+	},
+	"effects": {
+		"damage": 664
+	}
 }

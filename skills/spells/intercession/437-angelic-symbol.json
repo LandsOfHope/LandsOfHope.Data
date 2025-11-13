@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "intercession/437-angelic-symbol",
-    "requirements": {
-        "skill": 4370,
-        "level": 874,
-        "mana": 4370
-    },
-    "duration": "PT999M",
-    "effects": {
-        "skills": {
-            "armor": 437
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "intercession/437-angelic-symbol",
+	"requirements": {
+		"skill": 4370,
+		"level": 874,
+		"mana": 4370
+	},
+	"duration": "PT999M",
+	"effects": {
+		"skills": {
+			"armor": 437
+		}
+	}
 }

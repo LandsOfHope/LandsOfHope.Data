@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "balanced-duster",
-    "image": "nft",
-    "type": "1-handed-equipment",
-    "dpr": 4,
-    "material": "stone",
-    "skill": "fists",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "balanced-duster",
+	"image": "nft",
+	"type": "1-handed-equipment",
+	"dpr": 4,
+	"material": "stone",
+	"skill": "fists",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

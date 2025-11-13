@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "health-stealing/life-syphon-v",
-    "requirements": {
-        "skill": 1954,
-        "mana": 1954
-    },
-    "duration": "PT25M",
-    "effects": {
-        "damage": 101,
-        "properties": {
-            "HITPOINTS": -972
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "health-stealing/life-syphon-v",
+	"requirements": {
+		"skill": 1954,
+		"mana": 1954
+	},
+	"duration": "PT25M",
+	"effects": {
+		"damage": 101,
+		"properties": {
+			"HITPOINTS": -972
+		}
+	}
 }

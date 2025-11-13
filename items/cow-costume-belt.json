@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "cow-costume-belt",
-    "image": "arbet",
-    "type": "stomach",
-    "set": "cow-costume",
-    "material": "hide",
-    "skill": "artisan",
-    "skills": {
-        "farming": 1
-    }
+	"$type": "/v1/item",
+	"id": "cow-costume-belt",
+	"image": "arbet",
+	"type": "stomach",
+	"set": "cow-costume",
+	"material": "hide",
+	"skill": "artisan",
+	"skills": {
+		"farming": 1
+	}
 }

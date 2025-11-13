@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"dungeon","titles":{"500":"dungeon-plotter","2500":"dungeon-shaper","5000":"dungeon-maker"}}
+{
+	"$type": "/v1/skill",
+	"group": "dungeon",
+	"titles": {
+		"500": "dungeon-plotter",
+		"2500": "dungeon-shaper",
+		"5000": "dungeon-maker"
+	}
+}

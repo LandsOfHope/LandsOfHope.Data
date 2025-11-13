@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "traps/painful-flooding-trap",
-    "requirements": {
-        "skill": 4537,
-        "mana": 4537
-    },
-    "effects": {
-        "damage": 3190
-    }
+	"$type": "/v1/skills/spell",
+	"id": "traps/painful-flooding-trap",
+	"requirements": {
+		"skill": 4537,
+		"mana": 4537
+	},
+	"effects": {
+		"damage": 3190
+	}
 }

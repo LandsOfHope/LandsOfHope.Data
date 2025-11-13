@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "fishing-net",
-    "image": "fin",
-    "type": "1-handed-equipment",
-    "material": "cloth",
-    "skill": "fishing",
-    "skills": {
-        "fishing": 1
-    }
+	"$type": "/v1/item",
+	"id": "fishing-net",
+	"image": "fin",
+	"type": "1-handed-equipment",
+	"material": "cloth",
+	"skill": "fishing",
+	"skills": {
+		"fishing": 1
+	}
 }

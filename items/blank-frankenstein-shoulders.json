@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "blank-frankenstein-shoulders",
-    "image": "6946",
-    "type": "shoulders",
-    "legendary": true,
-    "set": "frankenstein",
-    "material": "hide",
-    "skill": "blood-over-beauty",
-    "properties": {
-        "MAXSTAMINA": 0.75
-    }
+	"$type": "/v1/item",
+	"id": "blank-frankenstein-shoulders",
+	"image": "6946",
+	"type": "shoulders",
+	"legendary": true,
+	"set": "frankenstein",
+	"material": "hide",
+	"skill": "blood-over-beauty",
+	"properties": {
+		"MAXSTAMINA": 0.75
+	}
 }

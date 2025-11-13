@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "javelin",
-    "image": "fejaia",
-    "type": "ranged-weapon",
-    "dpr": 5,
-    "material": "wood",
-    "skill": "thrown-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "javelin",
+	"image": "fejaia",
+	"type": "ranged-weapon",
+	"dpr": 5,
+	"material": "wood",
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"crafting","titles":{"500":"novice-alchemist","2500":"adept-alchemist","5000":"master-alchemist"}}
+{
+	"$type": "/v1/skill",
+	"group": "crafting",
+	"titles": {
+		"500": "novice-alchemist",
+		"2500": "adept-alchemist",
+		"5000": "master-alchemist"
+	}
+}

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/sithanu-male-iv",
-    "requirements": {
-        "skill": 709,
-        "mana": 709
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "skills": {
-            "attack-power": 355
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/sithanu-male-iv",
+	"requirements": {
+		"skill": 709,
+		"mana": 709
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"skills": {
+			"attack-power": 355
+		}
+	}
 }

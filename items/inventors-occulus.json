@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "inventors-occulus",
-    "image": "6929",
-    "type": "forehead",
-    "material": "hide",
-    "skill": "augmenting",
-    "skills": {
-        "geology": 1
-    }
+	"$type": "/v1/item",
+	"id": "inventors-occulus",
+	"image": "6929",
+	"type": "forehead",
+	"material": "hide",
+	"skill": "augmenting",
+	"skills": {
+		"geology": 1
+	}
 }

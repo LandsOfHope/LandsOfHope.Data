@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "rocky-arrow",
-    "image": "arr1",
-    "type": "ammo-weapons-bows",
-    "dpr": 74,
-    "material": "wood",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "rocky-arrow",
+	"image": "arr1",
+	"type": "ammo-weapons-bows",
+	"dpr": 74,
+	"material": "wood",
+	"skills": {
+		"attack-power": 1
+	}
 }

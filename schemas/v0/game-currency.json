@@ -1,5 +1,5 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v0/game-currency.json",
-    "type": "integer",
-    "title": "GameCurrency"
+	"$id": "https://data.landsofhope.com/schemas/v0/game-currency.json",
+	"title": "GameCurrency",
+	"type": "integer"
 }

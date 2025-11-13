@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "preservation-magic/acid-resistance-i",
-    "requirements": {
-        "skill": 1,
-        "mana": 1
-    },
-    "duration": "PT75M",
-    "effects": {
-        "skills": {
-            "acid-resistance": 3
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "preservation-magic/acid-resistance-i",
+	"requirements": {
+		"skill": 1,
+		"mana": 1
+	},
+	"duration": "PT75M",
+	"effects": {
+		"skills": {
+			"acid-resistance": 3
+		}
+	}
 }

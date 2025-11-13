@@ -1,24 +1,24 @@
 {
-    "$type": "/v1/profession",
-    "id": "majestic-cutey",
-    "name": {
-        "en": "Majestic Cutey"
-    },
-    "desc": {
-        "en": "Bought extra pet Cutey class."
-    },
-    "skills": {
-        "frenzy": 5,
-        "fists": 5,
-        "thrown-weapons": 5,
-        "exotic-weapons": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 3,
-        "SPEED": 3,
-        "STRENGTH": 3
-    }
+	"$type": "/v1/profession",
+	"id": "majestic-cutey",
+	"name": {
+		"en": "Majestic Cutey"
+	},
+	"desc": {
+		"en": "Bought extra pet Cutey class."
+	},
+	"skills": {
+		"frenzy": 5,
+		"fists": 5,
+		"thrown-weapons": 5,
+		"exotic-weapons": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 3,
+		"SPEED": 3,
+		"STRENGTH": 3
+	}
 }

@@ -1,29 +1,29 @@
 {
-    "$type": "/v1/profession",
-    "id": "tracker",
-    "name": {
-        "en": "Tracker"
-    },
-    "desc": {
-        "en": "The Tracker is a Tier I evolution from the Archer Profession, while keeping all of the Archers abilities the tracker also gains the ability to <b>Track Beasts</b> and make <b>Traps</b>.<br><br> As with the Archer the Tracker can use Daggers, Bows and Crossbows but also gains <b>Axes</b>."
-    },
-    "skills": {
-        "traps": 5,
-        "axes": 5,
-        "track-beasts": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1,
-        "MAXSTAMINA": 1,
-        "SPEED": 1,
-        "STRENGTH": 1
-    },
-    "evo": {
-        "hunter": 350
-    }
+	"$type": "/v1/profession",
+	"id": "tracker",
+	"name": {
+		"en": "Tracker"
+	},
+	"desc": {
+		"en": "The Tracker is a Tier I evolution from the Archer Profession, while keeping all of the Archers abilities the tracker also gains the ability to <b>Track Beasts</b> and make <b>Traps</b>.<br><br> As with the Archer the Tracker can use Daggers, Bows and Crossbows but also gains <b>Axes</b>."
+	},
+	"skills": {
+		"traps": 5,
+		"axes": 5,
+		"track-beasts": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"evo": {
+		"hunter": 350
+	}
 }

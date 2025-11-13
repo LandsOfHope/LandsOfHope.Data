@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/crafting-expertise",
-    "requirements": {
-        "skill": 5,
-        "mana": 5
-    },
-    "duration": "PT150M",
-    "effects": {
-        "skills": {
-            "experience-bonus": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/crafting-expertise",
+	"requirements": {
+		"skill": 5,
+		"mana": 5
+	},
+	"duration": "PT150M",
+	"effects": {
+		"skills": {
+			"experience-bonus": 100
+		}
+	}
 }

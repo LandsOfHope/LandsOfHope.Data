@@ -1,29 +1,29 @@
 {
-    "$type": "/v1/profession",
-    "id": "veteran",
-    "name": {
-        "en": "Veteran"
-    },
-    "desc": {
-        "en": "The Veteran is a Tier III evolution from the Fighter Profession via Grunt > Soldier keeping all of the Soldiers abilities the Veteran also gains the abilty to use <b>Two Handed Axes</b> and <b>Two Handed Shields</b>."
-    },
-    "skills": {
-        "daggers": 5,
-        "axes": 5,
-        "two-handed-axes": 5,
-        "maces": 5,
-        "thrown-weapons": 5,
-        "shields": 5,
-        "two-handed-shields": 5,
-        "dual-wielding": 5,
-        "armor": 10,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 3,
-        "SPEED": 1,
-        "STRENGTH": 4
-    }
+	"$type": "/v1/profession",
+	"id": "veteran",
+	"name": {
+		"en": "Veteran"
+	},
+	"desc": {
+		"en": "The Veteran is a Tier III evolution from the Fighter Profession via Grunt > Soldier keeping all of the Soldiers abilities the Veteran also gains the abilty to use <b>Two Handed Axes</b> and <b>Two Handed Shields</b>."
+	},
+	"skills": {
+		"daggers": 5,
+		"axes": 5,
+		"two-handed-axes": 5,
+		"maces": 5,
+		"thrown-weapons": 5,
+		"shields": 5,
+		"two-handed-shields": 5,
+		"dual-wielding": 5,
+		"armor": 10,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 3,
+		"SPEED": 1,
+		"STRENGTH": 4
+	}
 }

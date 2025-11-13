@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "beastmastery/tamers-soul-xi",
-    "requirements": {
-        "skill": 3765,
-        "mana": 3200
-    },
-    "duration": "PT25M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 415
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "beastmastery/tamers-soul-xi",
+	"requirements": {
+		"skill": 3765,
+		"mana": 3200
+	},
+	"duration": "PT25M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 415
+		}
+	}
 }

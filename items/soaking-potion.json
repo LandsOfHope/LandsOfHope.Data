@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "soaking-potion",
-    "image": "pe5",
-    "type": "ammo-weapons-potions",
-    "dpr": 56,
-    "material": "gem",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "soaking-potion",
+	"image": "pe5",
+	"type": "ammo-weapons-potions",
+	"dpr": 56,
+	"material": "gem",
+	"skills": {
+		"attack-power": 1
+	}
 }

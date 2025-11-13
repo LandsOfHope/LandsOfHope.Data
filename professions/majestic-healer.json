@@ -1,24 +1,24 @@
 {
-    "$type": "/v1/profession",
-    "id": "majestic-healer",
-    "name": {
-        "en": "Majestic Healer"
-    },
-    "desc": {
-        "en": "Bought extra pet Healer class."
-    },
-    "skills": {
-        "healing-magic": 5,
-        "mana-draining": 5,
-        "staves": 5,
-        "life-magic": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 4,
-        "MAXMANA": 3
-    }
+	"$type": "/v1/profession",
+	"id": "majestic-healer",
+	"name": {
+		"en": "Majestic Healer"
+	},
+	"desc": {
+		"en": "Bought extra pet Healer class."
+	},
+	"skills": {
+		"healing-magic": 5,
+		"mana-draining": 5,
+		"staves": 5,
+		"life-magic": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 4,
+		"MAXMANA": 3
+	}
 }

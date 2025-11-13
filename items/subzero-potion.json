@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "subzero-potion",
-    "image": "pe5",
-    "type": "ammo-weapons-potions",
-    "dpr": 70,
-    "material": "gem",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "subzero-potion",
+	"image": "pe5",
+	"type": "ammo-weapons-potions",
+	"dpr": 70,
+	"material": "gem",
+	"skills": {
+		"attack-power": 1
+	}
 }

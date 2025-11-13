@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/wisp-mana-iv",
-    "requirements": {
-        "skill": 939,
-        "mana": 939
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 470
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/wisp-mana-iv",
+	"requirements": {
+		"skill": 939,
+		"mana": 939
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 470
+		}
+	}
 }

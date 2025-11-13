@@ -1,18 +1,18 @@
 {
-    "$type": "/v1/profession",
-    "id": "artifact-imbuer",
-    "name": {
-        "en": "Artifact Imbuer"
-    },
-    "desc": {
-        "en": "Imbues artifacts with strange powers."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 5,
-        "MAXSTAMINA": 2
-    }
+	"$type": "/v1/profession",
+	"id": "artifact-imbuer",
+	"name": {
+		"en": "Artifact Imbuer"
+	},
+	"desc": {
+		"en": "Imbues artifacts with strange powers."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 5,
+		"MAXSTAMINA": 2
+	}
 }

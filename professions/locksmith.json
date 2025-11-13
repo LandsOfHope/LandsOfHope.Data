@@ -1,20 +1,20 @@
 {
-    "$type": "/v1/profession",
-    "id": "locksmith",
-    "name": {
-        "en": "Locksmith"
-    },
-    "desc": {
-        "en": "Someone who can unlock items."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 2,
-        "MAXSTAMINA": 1,
-        "STRENGTH": 3
-    }
+	"$type": "/v1/profession",
+	"id": "locksmith",
+	"name": {
+		"en": "Locksmith"
+	},
+	"desc": {
+		"en": "Someone who can unlock items."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 2,
+		"MAXSTAMINA": 1,
+		"STRENGTH": 3
+	}
 }

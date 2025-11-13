@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/nightmare-dexterity-iii",
-    "requirements": {
-        "skill": 715,
-        "mana": 715
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "DEXTERITY": 358
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/nightmare-dexterity-iii",
+	"requirements": {
+		"skill": 715,
+		"mana": 715
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"DEXTERITY": 358
+		}
+	}
 }

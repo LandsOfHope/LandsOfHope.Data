@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "cooked-shrimp",
-    "image": "1696",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "MANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "cooked-shrimp",
+	"image": "1696",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"MANA": 1
+	}
 }

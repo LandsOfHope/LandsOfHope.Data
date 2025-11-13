@@ -1,21 +1,21 @@
 {
-    "$type": "/v1/profession",
-    "id": "demonic-follower",
-    "name": {
-        "en": "Demonic Follower"
-    },
-    "desc": {
-        "en": "A follower of the ways of the demon plane."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 2,
-        "SPEED": 1,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "demonic-follower",
+	"name": {
+		"en": "Demonic Follower"
+	},
+	"desc": {
+		"en": "A follower of the ways of the demon plane."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 2,
+		"SPEED": 1,
+		"STRENGTH": 2
+	}
 }

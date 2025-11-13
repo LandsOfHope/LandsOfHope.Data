@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "mystical-magic/mana-boost-v",
-    "requirements": {
-        "skill": 181,
-        "mana": 181
-    },
-    "duration": "PT650M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 91
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "mystical-magic/mana-boost-v",
+	"requirements": {
+		"skill": 181,
+		"mana": 181
+	},
+	"duration": "PT650M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 91
+		}
+	}
 }

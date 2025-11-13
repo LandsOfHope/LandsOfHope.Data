@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "defensive-magic/earth-shield-xii",
-    "requirements": {
-        "skill": 869,
-        "mana": 869
-    },
-    "duration": "PT900M",
-    "effects": {
-        "skills": {
-            "earth-resistance": 449
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "defensive-magic/earth-shield-xii",
+	"requirements": {
+		"skill": 869,
+		"mana": 869
+	},
+	"duration": "PT900M",
+	"effects": {
+		"skills": {
+			"earth-resistance": 449
+		}
+	}
 }

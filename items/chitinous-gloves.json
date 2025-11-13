@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "chitinous-gloves",
-    "image": "ctg",
-    "type": "hand-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "shields": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "chitinous-gloves",
+	"image": "ctg",
+	"type": "hand-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"shields": 1,
+		"armor": 1
+	}
 }

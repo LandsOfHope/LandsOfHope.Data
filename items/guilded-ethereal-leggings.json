@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-ethereal-leggings",
-    "image": "3886",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-ethereal-leggings",
+	"image": "3886",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

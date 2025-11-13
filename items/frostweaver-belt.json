@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "frostweaver-belt",
-    "image": "5029",
-    "type": "stomach",
-    "armorType": "cloth",
-    "material": "gem",
-    "skills": {
-        "cold-magic": 1,
-        "cold-resistance": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "frostweaver-belt",
+	"image": "5029",
+	"type": "stomach",
+	"armorType": "cloth",
+	"material": "gem",
+	"skills": {
+		"cold-magic": 1,
+		"cold-resistance": 1,
+		"armor": 1
+	}
 }

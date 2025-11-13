@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "masters-blueprints",
-    "image": "3202",
-    "type": "special-slot",
-    "material": "hide",
-    "skills": {
-        "construction": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "masters-blueprints",
+	"image": "3202",
+	"type": "special-slot",
+	"material": "hide",
+	"skills": {
+		"construction": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

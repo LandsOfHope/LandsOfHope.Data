@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "infamous-heater-shield",
-    "image": "sd1",
-    "type": "2-handed-equipment",
-    "dpr": 82,
-    "material": "metal",
-    "skill": "two-handed-shields",
-    "skills": {
-        "nature-resistance": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "infamous-heater-shield",
+	"image": "sd1",
+	"type": "2-handed-equipment",
+	"dpr": 82,
+	"material": "metal",
+	"skill": "two-handed-shields",
+	"skills": {
+		"nature-resistance": 1,
+		"armor": 1
+	}
 }

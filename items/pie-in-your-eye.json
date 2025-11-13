@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "pie-in-your-eye",
-    "image": "4999",
-    "type": "ranged-weapon",
-    "dpr": 8,
-    "material": "metal",
-    "skill": "thrown-weapons",
-    "skills": {
-        "thrown-weapons": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "pie-in-your-eye",
+	"image": "4999",
+	"type": "ranged-weapon",
+	"dpr": 8,
+	"material": "metal",
+	"skill": "thrown-weapons",
+	"skills": {
+		"thrown-weapons": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

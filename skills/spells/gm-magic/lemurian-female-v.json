@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/lemurian-female-v",
-    "requirements": {
-        "skill": 865,
-        "mana": 865
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 433
-        },
-        "skills": {
-            "air-survival": 433
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/lemurian-female-v",
+	"requirements": {
+		"skill": 865,
+		"mana": 865
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 433
+		},
+		"skills": {
+			"air-survival": 433
+		}
+	}
 }

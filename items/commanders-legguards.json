@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "commanders-legguards",
-    "image": "2539",
-    "type": "leg-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "commanders-legguards",
+	"image": "2539",
+	"type": "leg-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

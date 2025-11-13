@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "meal",
-    "image": "zumeea",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "STAMINA": 3
-    }
+	"$type": "/v1/item",
+	"id": "meal",
+	"image": "zumeea",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"STAMINA": 3
+	}
 }

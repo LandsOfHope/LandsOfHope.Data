@@ -1,18 +1,18 @@
 {
-    "$type": "/v1/item",
-    "id": "north-star",
-    "image": "6731",
-    "type": "ranged-weapon",
-    "dpr": 140,
-    "expansion": "dragons-of-the-east",
-    "material": "metal",
-    "skill": "thrown-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "SPEED": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "north-star",
+	"image": "6731",
+	"type": "ranged-weapon",
+	"dpr": 140,
+	"expansion": "dragons-of-the-east",
+	"material": "metal",
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	}
 }

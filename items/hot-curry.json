@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "hot-curry",
-    "image": "stw.jpg",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "HITPOINTS": 3
-    }
+	"$type": "/v1/item",
+	"id": "hot-curry",
+	"image": "stw.jpg",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"HITPOINTS": 3
+	}
 }

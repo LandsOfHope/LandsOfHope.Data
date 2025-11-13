@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "blessed-link-boots",
-    "image": "2599",
-    "type": "foot-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "blessed-link-boots",
+	"image": "2599",
+	"type": "foot-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

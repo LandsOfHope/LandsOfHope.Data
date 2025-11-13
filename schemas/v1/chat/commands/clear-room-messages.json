@@ -1,17 +1,14 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/chat/commands/clear-room-messages.json",
-    "title": "ClearRoomMessagesChatCommand",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/chat/commands/clear-room-messages"
-        },
-        "room": {
-            "$ref": "/schemas/v1/chat/chat-room-id.json"
-        }
-    },
-    "required": [
-        "$type",
-        "room"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/chat/commands/clear-room-messages.json",
+	"title": "ClearRoomMessagesChatCommand",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/chat/commands/clear-room-messages"
+		},
+		"room": {
+			"$ref": "/schemas/v1/chat/chat-room-id.json"
+		}
+	},
+	"required": ["$type", "room"]
 }

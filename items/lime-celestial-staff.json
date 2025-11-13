@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "lime-celestial-staff",
-    "image": "6020",
-    "type": "2-handed-equipment",
-    "dpr": 72,
-    "material": "metal",
-    "skill": "celestial-weapons",
-    "skills": {
-        "mystical-resistance": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "lime-celestial-staff",
+	"image": "6020",
+	"type": "2-handed-equipment",
+	"dpr": 72,
+	"material": "metal",
+	"skill": "celestial-weapons",
+	"skills": {
+		"mystical-resistance": 1,
+		"attack-power": 1
+	}
 }

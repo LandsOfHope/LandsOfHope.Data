@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "hoods-gambit",
-    "image": "4988",
-    "type": "ranged-weapon",
-    "dpr": 8,
-    "material": "wood",
-    "skill": "bows",
-    "skills": {
-        "disguise": 1,
-        "bows": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "hoods-gambit",
+	"image": "4988",
+	"type": "ranged-weapon",
+	"dpr": 8,
+	"material": "wood",
+	"skill": "bows",
+	"skills": {
+		"disguise": 1,
+		"bows": 1,
+		"attack-power": 1
+	}
 }

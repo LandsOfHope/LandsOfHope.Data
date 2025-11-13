@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/dungeon-rot-xi",
-    "requirements": {
-        "skill": 500,
-        "mana": 5
-    },
-    "duration": "PT25M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": -305
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/dungeon-rot-xi",
+	"requirements": {
+		"skill": 500,
+		"mana": 5
+	},
+	"duration": "PT25M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": -305
+		}
+	}
 }

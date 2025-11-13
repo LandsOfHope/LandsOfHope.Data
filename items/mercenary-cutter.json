@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "mercenary-cutter",
-    "image": "6662",
-    "type": "ranged-weapon",
-    "dpr": 2,
-    "material": "wood",
-    "skill": "thrown-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "mercenary-cutter",
+	"image": "6662",
+	"type": "ranged-weapon",
+	"dpr": 2,
+	"material": "wood",
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

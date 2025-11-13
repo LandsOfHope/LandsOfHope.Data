@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/dungeon-blessing-iv",
-    "requirements": {
-        "skill": 280,
-        "mana": 5
-    },
-    "duration": "PT25M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 130
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/dungeon-blessing-iv",
+	"requirements": {
+		"skill": 280,
+		"mana": 5
+	},
+	"duration": "PT25M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 130
+		}
+	}
 }

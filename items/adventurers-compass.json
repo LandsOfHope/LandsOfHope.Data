@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "adventurers-compass",
-    "image": "zuadco",
-    "type": "special-slot",
-    "material": "gem",
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "adventurers-compass",
+	"image": "zuadco",
+	"type": "special-slot",
+	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

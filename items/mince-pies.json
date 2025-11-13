@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "mince-pies",
-    "image": "6197",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "HITPOINTS": 3
-    }
+	"$type": "/v1/item",
+	"id": "mince-pies",
+	"image": "6197",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"HITPOINTS": 3
+	}
 }

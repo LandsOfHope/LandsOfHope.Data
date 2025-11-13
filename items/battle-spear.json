@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "battle-spear",
-    "image": "acs",
-    "type": "2-handed-equipment",
-    "dpr": 4,
-    "material": "wood",
-    "skill": "thrown-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "battle-spear",
+	"image": "acs",
+	"type": "2-handed-equipment",
+	"dpr": 4,
+	"material": "wood",
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

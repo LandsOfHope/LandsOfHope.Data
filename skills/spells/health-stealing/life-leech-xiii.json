@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "health-stealing/life-leech-xiii",
-    "requirements": {
-        "skill": 4096,
-        "mana": 4096
-    },
-    "duration": "PT25M",
-    "effects": {
-        "damage": 135,
-        "properties": {
-            "HITPOINTS": -2043
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "health-stealing/life-leech-xiii",
+	"requirements": {
+		"skill": 4096,
+		"mana": 4096
+	},
+	"duration": "PT25M",
+	"effects": {
+		"damage": 135,
+		"properties": {
+			"HITPOINTS": -2043
+		}
+	}
 }

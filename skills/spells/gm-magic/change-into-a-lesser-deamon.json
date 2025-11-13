@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/change-into-a-lesser-deamon",
-    "requirements": {
-        "skill": 550,
-        "mana": 550
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 276
-        },
-        "skills": {
-            "attack-power": 276
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/change-into-a-lesser-deamon",
+	"requirements": {
+		"skill": 550,
+		"mana": 550
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 276
+		},
+		"skills": {
+			"attack-power": 276
+		}
+	}
 }

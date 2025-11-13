@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/veins-of-ice",
-    "requirements": {
-        "level": 40,
-        "mana": 10
-    },
-    "duration": "PT1440M",
-    "effects": {
-        "skills": {
-            "cold-survival": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/veins-of-ice",
+	"requirements": {
+		"level": 40,
+		"mana": 10
+	},
+	"duration": "PT1440M",
+	"effects": {
+		"skills": {
+			"cold-survival": 100
+		}
+	}
 }

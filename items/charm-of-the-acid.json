@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "charm-of-the-acid",
-    "image": "zuchac",
-    "type": "wrist-jewelry",
-    "material": "wood",
-    "skills": {
-        "acid-magic": 1
-    }
+	"$type": "/v1/item",
+	"id": "charm-of-the-acid",
+	"image": "zuchac",
+	"type": "wrist-jewelry",
+	"material": "wood",
+	"skills": {
+		"acid-magic": 1
+	}
 }

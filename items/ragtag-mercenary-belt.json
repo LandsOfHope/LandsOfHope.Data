@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "ragtag-mercenary-belt",
-    "image": "6687",
-    "type": "stomach",
-    "material": "metal",
-    "skill": "gods-favor",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "ragtag-mercenary-belt",
+	"image": "6687",
+	"type": "stomach",
+	"material": "metal",
+	"skill": "gods-favor",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

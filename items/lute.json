@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "lute",
-    "image": "le1",
-    "type": "ranged-weapon",
-    "dpr": 4,
-    "material": "wood",
-    "skill": "instruments",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "lute",
+	"image": "le1",
+	"type": "ranged-weapon",
+	"dpr": 4,
+	"material": "wood",
+	"skill": "instruments",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

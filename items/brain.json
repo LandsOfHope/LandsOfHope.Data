@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "brain",
-    "image": "4462",
-    "type": "head-armour",
-    "material": "hide",
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "brain",
+	"image": "4462",
+	"type": "head-armour",
+	"material": "hide",
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

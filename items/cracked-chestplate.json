@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "cracked-chestplate",
-    "image": "c1c",
-    "type": "chest-armour",
-    "armorType": "plate",
-    "material": "gem",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "cracked-chestplate",
+	"image": "c1c",
+	"type": "chest-armour",
+	"armorType": "plate",
+	"material": "gem",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXMANA": 1
+	}
 }

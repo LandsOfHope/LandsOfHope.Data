@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "nest-queen",
-    "name": {
-        "en": "Nest Queen"
-    },
-    "desc": {
-        "en": "Nest Queen"
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 5,
-        "MAXHITPOINTS": 5,
-        "MAXSTAMINA": 5
-    }
+	"$type": "/v1/profession",
+	"id": "nest-queen",
+	"name": {
+		"en": "Nest Queen"
+	},
+	"desc": {
+		"en": "Nest Queen"
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 5,
+		"MAXHITPOINTS": 5,
+		"MAXSTAMINA": 5
+	}
 }

@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "polished-turtle-shield",
-    "image": "sd3",
-    "type": "1-handed-equipment",
-    "dpr": 5,
-    "material": "gem",
-    "skill": "shields",
-    "skills": {
-        "stringed-defense": 1,
-        "armor": 1
-    },
-    "properties": {
-        "DEXTERITY": 1
-    }
+	"$type": "/v1/item",
+	"id": "polished-turtle-shield",
+	"image": "sd3",
+	"type": "1-handed-equipment",
+	"dpr": 5,
+	"material": "gem",
+	"skill": "shields",
+	"skills": {
+		"stringed-defense": 1,
+		"armor": 1
+	},
+	"properties": {
+		"DEXTERITY": 1
+	}
 }

@@ -1,18 +1,18 @@
 {
-    "$type": "/v1/profession",
-    "id": "guide",
-    "name": {
-        "en": "Guide"
-    },
-    "desc": {
-        "en": "A helper/guide in the land of Saloa."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 3
-    }
+	"$type": "/v1/profession",
+	"id": "guide",
+	"name": {
+		"en": "Guide"
+	},
+	"desc": {
+		"en": "A helper/guide in the land of Saloa."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 3
+	}
 }

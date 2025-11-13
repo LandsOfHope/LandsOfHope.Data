@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "health-stealing/health-syphon-xi",
-    "requirements": {
-        "skill": 631,
-        "mana": 631
-    },
-    "duration": "PT25M",
-    "effects": {
-        "damage": 80,
-        "properties": {
-            "HITPOINTS": -310
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "health-stealing/health-syphon-xi",
+	"requirements": {
+		"skill": 631,
+		"mana": 631
+	},
+	"duration": "PT25M",
+	"effects": {
+		"damage": 80,
+		"properties": {
+			"HITPOINTS": -310
+		}
+	}
 }

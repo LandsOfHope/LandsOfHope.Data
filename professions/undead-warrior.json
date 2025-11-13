@@ -1,25 +1,25 @@
 {
-    "$type": "/v1/profession",
-    "id": "undead-warrior",
-    "name": {
-        "en": "Undead Warrior"
-    },
-    "desc": {
-        "en": "An ancient warrior."
-    },
-    "skills": {
-        "daggers": 5,
-        "two-handed-axes": 5,
-        "two-handed-maces": 5,
-        "bludgeon-defense": 5,
-        "dual-wielding": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 3,
-        "STRENGTH": 3
-    }
+	"$type": "/v1/profession",
+	"id": "undead-warrior",
+	"name": {
+		"en": "Undead Warrior"
+	},
+	"desc": {
+		"en": "An ancient warrior."
+	},
+	"skills": {
+		"daggers": 5,
+		"two-handed-axes": 5,
+		"two-handed-maces": 5,
+		"bludgeon-defense": 5,
+		"dual-wielding": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 3,
+		"STRENGTH": 3
+	}
 }

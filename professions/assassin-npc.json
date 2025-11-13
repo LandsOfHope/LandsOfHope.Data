@@ -1,26 +1,26 @@
 {
-    "$type": "/v1/profession",
-    "id": "assassin-npc",
-    "name": {
-        "en": "Assassin NPC"
-    },
-    "desc": {
-        "en": "Assassin NPC"
-    },
-    "skills": {
-        "defensive-magic": 5,
-        "mystical-magic": 5,
-        "hell-magic": 5,
-        "fists": 5,
-        "invoking-resistance": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 1,
-        "SPEED": 2,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "assassin-npc",
+	"name": {
+		"en": "Assassin NPC"
+	},
+	"desc": {
+		"en": "Assassin NPC"
+	},
+	"skills": {
+		"defensive-magic": 5,
+		"mystical-magic": 5,
+		"hell-magic": 5,
+		"fists": 5,
+		"invoking-resistance": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 1,
+		"SPEED": 2,
+		"STRENGTH": 2
+	}
 }

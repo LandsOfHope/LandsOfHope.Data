@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "botanical-wand",
-    "image": "wand10",
-    "type": "1-handed-equipment",
-    "dpr": 47,
-    "material": "stone",
-    "skill": "staves",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "botanical-wand",
+	"image": "wand10",
+	"type": "1-handed-equipment",
+	"dpr": 47,
+	"material": "stone",
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

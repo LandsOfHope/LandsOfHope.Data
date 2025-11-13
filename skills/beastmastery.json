@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"pets-and-minions","titles":{"500":"novice-tamer","2500":"adept-tamer","5000":"master-tamer"}}
+{
+	"$type": "/v1/skill",
+	"group": "pets-and-minions",
+	"titles": {
+		"500": "novice-tamer",
+		"2500": "adept-tamer",
+		"5000": "master-tamer"
+	}
+}

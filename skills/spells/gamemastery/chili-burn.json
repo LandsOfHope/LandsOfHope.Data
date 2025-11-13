@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/chili-burn",
-    "requirements": {
-        "skill": 53,
-        "mana": 53
-    },
-    "duration": "PT80M",
-    "effects": {
-        "skills": {
-            "cold-survival": 27
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/chili-burn",
+	"requirements": {
+		"skill": 53,
+		"mana": 53
+	},
+	"duration": "PT80M",
+	"effects": {
+		"skills": {
+			"cold-survival": 27
+		}
+	}
 }

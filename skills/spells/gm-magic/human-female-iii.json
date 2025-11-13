@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/human-female-iii",
-    "requirements": {
-        "skill": 403,
-        "mana": 403
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "skills": {
-            "cooking": 202
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/human-female-iii",
+	"requirements": {
+		"skill": 403,
+		"mana": 403
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"skills": {
+			"cooking": 202
+		}
+	}
 }

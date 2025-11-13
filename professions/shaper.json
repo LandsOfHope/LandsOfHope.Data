@@ -1,27 +1,27 @@
 {
-    "$type": "/v1/profession",
-    "id": "shaper",
-    "name": {
-        "en": "Shaper"
-    },
-    "desc": {
-        "en": "The Shaper is a Tier I evolution from the Animator Profession."
-    },
-    "skills": {
-        "two-handed-staves": 5,
-        "staves": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 2,
-        "MAXMANA": 2,
-        "MAXSTAMINA": 2,
-        "STRENGTH": 2
-    },
-    "evo": {
-        "manipulator": 350
-    }
+	"$type": "/v1/profession",
+	"id": "shaper",
+	"name": {
+		"en": "Shaper"
+	},
+	"desc": {
+		"en": "The Shaper is a Tier I evolution from the Animator Profession."
+	},
+	"skills": {
+		"two-handed-staves": 5,
+		"staves": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"STRENGTH": 2
+	},
+	"evo": {
+		"manipulator": 350
+	}
 }

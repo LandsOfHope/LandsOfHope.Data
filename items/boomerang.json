@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "boomerang",
-    "image": "bgb",
-    "type": "ranged-weapon",
-    "dpr": 7,
-    "material": "wood",
-    "skill": "thrown-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "boomerang",
+	"image": "bgb",
+	"type": "ranged-weapon",
+	"dpr": 7,
+	"material": "wood",
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

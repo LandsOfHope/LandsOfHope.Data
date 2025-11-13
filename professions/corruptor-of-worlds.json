@@ -1,43 +1,43 @@
 {
-    "$type": "/v1/profession",
-    "id": "corruptor-of-worlds",
-    "name": {
-        "en": "Corruptor of Worlds"
-    },
-    "desc": {
-        "en": "The ancient leader of the Demons."
-    },
-    "skills": {
-        "mystical-resistance": 3,
-        "hell-magic": 5,
-        "air-resistance": 3,
-        "drain-resistance": 3,
-        "gun-defense": 3,
-        "mana-regen": 1,
-        "cold-resistance": 3,
-        "fire-resistance": 3,
-        "acid-resistance": 3,
-        "energy-resistance": 3,
-        "water-resistance": 3,
-        "poison-resistance": 3,
-        "poison-magic": 5,
-        "earth-resistance": 3,
-        "bladed-defense": 3,
-        "projectile-defense": 3,
-        "h2h-defense": 3,
-        "bludgeon-defense": 3,
-        "nature-resistance": 3,
-        "pole-defense": 3,
-        "invoking-resistance": 3,
-        "debuff-resistance": 3,
-        "dark-magic": 5,
-        "arcane-resistance": 3
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "INTELLIGENCE": 7,
-        "MAXHITPOINTS": 16,
-        "MAXMANA": 9,
-        "SPEED": 3
-    }
+	"$type": "/v1/profession",
+	"id": "corruptor-of-worlds",
+	"name": {
+		"en": "Corruptor of Worlds"
+	},
+	"desc": {
+		"en": "The ancient leader of the Demons."
+	},
+	"skills": {
+		"mystical-resistance": 3,
+		"hell-magic": 5,
+		"air-resistance": 3,
+		"drain-resistance": 3,
+		"gun-defense": 3,
+		"mana-regen": 1,
+		"cold-resistance": 3,
+		"fire-resistance": 3,
+		"acid-resistance": 3,
+		"energy-resistance": 3,
+		"water-resistance": 3,
+		"poison-resistance": 3,
+		"poison-magic": 5,
+		"earth-resistance": 3,
+		"bladed-defense": 3,
+		"projectile-defense": 3,
+		"h2h-defense": 3,
+		"bludgeon-defense": 3,
+		"nature-resistance": 3,
+		"pole-defense": 3,
+		"invoking-resistance": 3,
+		"debuff-resistance": 3,
+		"dark-magic": 5,
+		"arcane-resistance": 3
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"INTELLIGENCE": 7,
+		"MAXHITPOINTS": 16,
+		"MAXMANA": 9,
+		"SPEED": 3
+	}
 }

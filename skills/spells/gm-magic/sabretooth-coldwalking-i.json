@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/sabretooth-coldwalking-i",
-    "requirements": {
-        "skill": 204,
-        "mana": 204
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "cold-survival": 103
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/sabretooth-coldwalking-i",
+	"requirements": {
+		"skill": 204,
+		"mana": 204
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"cold-survival": 103
+		}
+	}
 }

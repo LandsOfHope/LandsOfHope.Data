@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "tainted-chestplate",
-    "image": "l3",
-    "type": "chest-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "h2h-defense": 1,
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "tainted-chestplate",
+	"image": "l3",
+	"type": "chest-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"h2h-defense": 1,
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "transformation/form-of-the-dragonflyer",
-    "requirements": {
-        "skill": 1,
-        "mana": 1
-    },
-    "duration": "PT1500M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 500
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "transformation/form-of-the-dragonflyer",
+	"requirements": {
+		"skill": 1,
+		"mana": 1
+	},
+	"duration": "PT1500M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 500
+		}
+	}
 }

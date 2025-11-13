@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-reinforced-legchain",
-    "image": "3744",
-    "type": "leg-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-reinforced-legchain",
+	"image": "3744",
+	"type": "leg-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"world","titles":{"500":"novice-analyzer","2500":"adept-analyzer","5000":"master-analyzer"}}
+{
+	"$type": "/v1/skill",
+	"group": "world",
+	"titles": {
+		"500": "novice-analyzer",
+		"2500": "adept-analyzer",
+		"5000": "master-analyzer"
+	}
+}

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "grimbrow-gauntlets",
-    "image": "4718",
-    "type": "hand-armour",
-    "armorType": "mail",
-    "legendary": true,
-    "set": "grimbrow-legend",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "grimbrow-gauntlets",
+	"image": "4718",
+	"type": "hand-armour",
+	"armorType": "mail",
+	"legendary": true,
+	"set": "grimbrow-legend",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "stew",
-    "image": "stw.jpg",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "STAMINA": 3
-    }
+	"$type": "/v1/item",
+	"id": "stew",
+	"image": "stw.jpg",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"STAMINA": 3
+	}
 }

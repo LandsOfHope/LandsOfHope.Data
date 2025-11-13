@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "topaz-bag",
-    "image": "5867",
-    "type": "bag",
-    "expansion": "dragons-of-the-east",
-    "material": "hide",
-    "skills": {
-        "mystical-resistance": 1,
-        "water-resistance": 1
-    }
+	"$type": "/v1/item",
+	"id": "topaz-bag",
+	"image": "5867",
+	"type": "bag",
+	"expansion": "dragons-of-the-east",
+	"material": "hide",
+	"skills": {
+		"mystical-resistance": 1,
+		"water-resistance": 1
+	}
 }

@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "smoothie",
-    "image": "cof",
-    "type": "food",
-    "material": "berry",
-    "properties": {
-        "HITPOINTS": 2
-    }
+	"$type": "/v1/item",
+	"id": "smoothie",
+	"image": "cof",
+	"type": "food",
+	"material": "berry",
+	"properties": {
+		"HITPOINTS": 2
+	}
 }

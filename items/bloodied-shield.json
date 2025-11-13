@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "bloodied-shield",
-    "image": "sd3",
-    "type": "2-handed-equipment",
-    "dpr": 7,
-    "material": "gem",
-    "skill": "two-handed-shields",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "bloodied-shield",
+	"image": "sd3",
+	"type": "2-handed-equipment",
+	"dpr": 7,
+	"material": "gem",
+	"skill": "two-handed-shields",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"STRENGTH": 1
+	}
 }

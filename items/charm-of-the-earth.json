@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "charm-of-the-earth",
-    "image": "zuchea",
-    "type": "wrist-jewelry",
-    "material": "wood",
-    "skills": {
-        "earth-magic": 1
-    }
+	"$type": "/v1/item",
+	"id": "charm-of-the-earth",
+	"image": "zuchea",
+	"type": "wrist-jewelry",
+	"material": "wood",
+	"skills": {
+		"earth-magic": 1
+	}
 }

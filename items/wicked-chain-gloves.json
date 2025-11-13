@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "wicked-chain-gloves",
-    "image": "2625",
-    "type": "hand-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "wicked-chain-gloves",
+	"image": "2625",
+	"type": "hand-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

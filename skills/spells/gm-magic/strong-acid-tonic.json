@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/strong-acid-tonic",
-    "requirements": {
-        "skill": 3000,
-        "mana": 3550
-    },
-    "duration": "PT710M",
-    "effects": {
-        "skills": {
-            "acid-resistance": 710
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/strong-acid-tonic",
+	"requirements": {
+		"skill": 3000,
+		"mana": 3550
+	},
+	"duration": "PT710M",
+	"effects": {
+		"skills": {
+			"acid-resistance": 710
+		}
+	}
 }

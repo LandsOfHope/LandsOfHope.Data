@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "preservation-magic/mystical-resistance-xiv",
-    "requirements": {
-        "skill": 4453,
-        "mana": 4453
-    },
-    "duration": "PT75M",
-    "effects": {
-        "skills": {
-            "mystical-resistance": 448
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "preservation-magic/mystical-resistance-xiv",
+	"requirements": {
+		"skill": 4453,
+		"mana": 4453
+	},
+	"duration": "PT75M",
+	"effects": {
+		"skills": {
+			"mystical-resistance": 448
+		}
+	}
 }

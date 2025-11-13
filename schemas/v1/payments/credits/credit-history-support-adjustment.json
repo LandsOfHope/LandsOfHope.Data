@@ -1,22 +1,19 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-support-adjustment.json",
-    "title": "CreditHistorySupportAdjustment",
-    "type": "object",
-    "allOf": [
-        {
-            "$ref": "/schemas/v1/payments/credits/credit-history.json"
-        }
-    ],
-    "properties": {
-        "$type": {
-            "const": "/v1/payments/credits/credit-history-support-adjustment"
-        },
-        "supportAdjustmentDescription": {
-            "type": "string"
-        }
-    },
-    "required": [
-        "$type",
-        "supportAdjustmentDescription"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-support-adjustment.json",
+	"title": "CreditHistorySupportAdjustment",
+	"type": "object",
+	"allOf": [
+		{
+			"$ref": "/schemas/v1/payments/credits/credit-history.json"
+		}
+	],
+	"properties": {
+		"$type": {
+			"const": "/v1/payments/credits/credit-history-support-adjustment"
+		},
+		"supportAdjustmentDescription": {
+			"type": "string"
+		}
+	},
+	"required": ["$type", "supportAdjustmentDescription"]
 }

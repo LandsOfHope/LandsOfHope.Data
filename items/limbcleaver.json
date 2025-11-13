@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "limbcleaver",
-    "image": "d",
-    "type": "1-handed-equipment",
-    "dpr": 5,
-    "material": "metal",
-    "skill": "axes",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "limbcleaver",
+	"image": "d",
+	"type": "1-handed-equipment",
+	"dpr": 5,
+	"material": "metal",
+	"skill": "axes",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

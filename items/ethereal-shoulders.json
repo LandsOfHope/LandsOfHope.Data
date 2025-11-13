@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ethereal-shoulders",
-    "image": "3251",
-    "type": "shoulders",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "ethereal-shoulders",
+	"image": "3251",
+	"type": "shoulders",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v0/characters/character-enhancement",
-    "max": 20,
-    "levels": {
-        "10": {
-            "value": 10,
-            "hc": 1
-        },
-        "20": {
-            "value": 20,
-            "hc": 2
-        }
-    }
+	"$type": "/v0/characters/character-enhancement",
+	"max": 20,
+	"levels": {
+		"10": {
+			"value": 10,
+			"hc": 1
+		},
+		"20": {
+			"value": 20,
+			"hc": 2
+		}
+	}
 }

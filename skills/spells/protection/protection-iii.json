@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "protection/protection-iii",
-    "requirements": {
-        "skill": 3109,
-        "mana": 3109
-    },
-    "duration": 4,
-    "effects": {
-        "damage": 2191,
-        "skills": {
-            "damage-absorption": 1972
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "protection/protection-iii",
+	"requirements": {
+		"skill": 3109,
+		"mana": 3109
+	},
+	"duration": 4,
+	"effects": {
+		"damage": 2191,
+		"skills": {
+			"damage-absorption": 1972
+		}
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/chariot-battle-platform-ii",
-    "requirements": {
-        "skill": 435,
-        "mana": 435
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 60
-        },
-        "skills": {
-            "armor": 80
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/chariot-battle-platform-ii",
+	"requirements": {
+		"skill": 435,
+		"mana": 435
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 60
+		},
+		"skills": {
+			"armor": 80
+		}
+	}
 }

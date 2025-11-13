@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "headband-of-wisdom",
-    "image": "789",
-    "type": "forehead",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "headband-of-wisdom",
+	"image": "789",
+	"type": "forehead",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	}
 }

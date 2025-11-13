@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/poisoner-iii",
-    "requirements": {
-        "skill": 463,
-        "mana": 463
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "DEXTERITY": 232
-        },
-        "skills": {
-            "poison-magic": 232
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/poisoner-iii",
+	"requirements": {
+		"skill": 463,
+		"mana": 463
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"DEXTERITY": 232
+		},
+		"skills": {
+			"poison-magic": 232
+		}
+	}
 }

@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "medal-of-distinction",
-    "image": "4659",
-    "type": "society-symbol",
-    "material": "metal",
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "medal-of-distinction",
+	"image": "4659",
+	"type": "society-symbol",
+	"material": "metal",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1
+	}
 }

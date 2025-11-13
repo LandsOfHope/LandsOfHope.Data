@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "spiked-shoulder-pads",
-    "image": "sss",
-    "type": "shoulders",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "spiked-shoulder-pads",
+	"image": "sss",
+	"type": "shoulders",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1,
+		"attack-power": 1
+	}
 }

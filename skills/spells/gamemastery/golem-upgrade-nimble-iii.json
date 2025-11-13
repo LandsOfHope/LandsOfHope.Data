@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/golem-upgrade-nimble-iii",
-    "requirements": {
-        "skill": 1,
-        "mana": 1
-    },
-    "effects": {
-        "properties": {
-            "DEXTERITY": 6
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/golem-upgrade-nimble-iii",
+	"requirements": {
+		"skill": 1,
+		"mana": 1
+	},
+	"effects": {
+		"properties": {
+			"DEXTERITY": 6
+		}
+	}
 }

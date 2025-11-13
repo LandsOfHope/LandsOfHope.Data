@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/psychic-v",
-    "requirements": {
-        "skill": 757,
-        "mana": 757
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "skills": {
-            "tinkering": 379
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/psychic-v",
+	"requirements": {
+		"skill": 757,
+		"mana": 757
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"skills": {
+			"tinkering": 379
+		}
+	}
 }

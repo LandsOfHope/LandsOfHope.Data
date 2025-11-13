@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "small-infamous-shield",
-    "image": "sd7",
-    "type": "1-handed-equipment",
-    "dpr": 82,
-    "material": "wood",
-    "skill": "shields",
-    "skills": {
-        "cold-resistance": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "small-infamous-shield",
+	"image": "sd7",
+	"type": "1-handed-equipment",
+	"dpr": 82,
+	"material": "wood",
+	"skill": "shields",
+	"skills": {
+		"cold-resistance": 1,
+		"armor": 1
+	}
 }

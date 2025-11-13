@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "bloody-shield",
-    "image": "sd5",
-    "type": "1-handed-equipment",
-    "dpr": 52,
-    "material": "wood",
-    "skill": "shields",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "bloody-shield",
+	"image": "sd5",
+	"type": "1-handed-equipment",
+	"dpr": 52,
+	"material": "wood",
+	"skill": "shields",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

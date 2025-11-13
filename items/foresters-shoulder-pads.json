@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "foresters-shoulder-pads",
-    "image": "3019",
-    "type": "shoulders",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "foresters-shoulder-pads",
+	"image": "3019",
+	"type": "shoulders",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

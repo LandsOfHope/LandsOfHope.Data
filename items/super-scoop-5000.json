@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "super-scoop-5000",
-    "image": "toelch",
-    "type": "ranged-weapon",
-    "dpr": 120,
-    "legendary": true,
-    "material": "wood",
-    "skill": "thrown-magic",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "super-scoop-5000",
+	"image": "toelch",
+	"type": "ranged-weapon",
+	"dpr": 120,
+	"legendary": true,
+	"material": "wood",
+	"skill": "thrown-magic",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	}
 }

@@ -1,136 +1,132 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item.json",
-    "title": "CharacterInventoryItem",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/inventory/inventory-item"
-        },
-        "id": {
-            "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
-        },
-        "item": {
-            "oneOf": [
-                {
-                    "$ref": "/schemas/v1/item.json"
-                },
-                {
-                    "$ref": "/schemas/v1/items-id.gen.json"
-                },
-                {
-                    "$ref": "/schemas/v1/characters/inventory/unidentified-item.json"
-                }
-            ]
-        },
-        "level": {
-            "type": "integer",
-            "minimum": 0
-        },
-        "quantity": {
-            "$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
-        },
-        "location": {
-            "$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
-        },
-        "locked": {
-            "type": "object",
-            "properties": {
-                "lockpicking": {
-                    "type": "integer",
-                    "minimum": 5
-                }
-            },
-            "additionalProperties": false,
-            "required": [
-                "lockpicking"
-            ]
-        },
-        "expiry": {
-            "$ref": "/schemas/v0/datetime.json"
-        },
-        "guild": {
-            "type": "integer",
-            "minimum": 1
-        },
-        "quality": {
-            "type": "integer",
-            "minimum": 0
-        },
-        "actions": {
-            "$ref": "/schemas/v1/characters/inventory/actions/inventory-item-actions.json"
-        },
-        "stackHash": {
-            "$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
-        },
-        "nickname": {
-            "$ref": "/schemas/v1/characters/inventory/inventory-item-nickname.json"
-        },
-        "enhancements": {
-            "type": "array",
-            "items": {
-                "enum": [
-                    "imbued",
-                    "imprinted",
-                    "bejewelled",
-                    "named",
-                    "patched",
-                    "guilded"
-                ]
-            },
-            "minItems": 1
-        }
-    },
-    "anyOf": [
-        {
-            "not": {
-                "properties": {
-                    "enhancements": {
-                        "type": "array",
-                        "items": {
-                            "enum": [
-                                "imbued",
-                                "imprinted",
-                                "bejewelled",
-                                "named",
-                                "patched",
-                                "guilded"
-                            ]
-                        },
-                        "minItems": 1
-                    }
-                },
-                "required": [
-                    "enhancements"
-                ]
-            }
-        },
-        {
-            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-imbued.json"
-        },
-        {
-            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-imprinted.json"
-        },
-        {
-            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-bejewelled.json"
-        },
-        {
-            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-named.json"
-        },
-        {
-            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-patched.json"
-        },
-        {
-            "$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-guilded.json"
-        }
-    ],
-    "required": [
-        "$type",
-        "id",
-        "item",
-        "level",
-        "quantity",
-        "location",
-        "actions",
-        "stackHash"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item.json",
+	"title": "CharacterInventoryItem",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/inventory/inventory-item"
+		},
+		"id": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+		},
+		"item": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/item.json"
+				},
+				{
+					"$ref": "/schemas/v1/items-id.gen.json"
+				},
+				{
+					"$ref": "/schemas/v1/characters/inventory/unidentified-item.json"
+				}
+			]
+		},
+		"level": {
+			"type": "integer",
+			"minimum": 0
+		},
+		"quantity": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
+		},
+		"location": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
+		},
+		"locked": {
+			"type": "object",
+			"properties": {
+				"lockpicking": {
+					"type": "integer",
+					"minimum": 5
+				}
+			},
+			"additionalProperties": false,
+			"required": ["lockpicking"]
+		},
+		"expiry": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"guild": {
+			"type": "integer",
+			"minimum": 1
+		},
+		"quality": {
+			"type": "integer",
+			"minimum": 0
+		},
+		"actions": {
+			"$ref": "/schemas/v1/characters/inventory/actions/inventory-item-actions.json"
+		},
+		"stackHash": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
+		},
+		"nickname": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-nickname.json"
+		},
+		"enhancements": {
+			"type": "array",
+			"items": {
+				"enum": [
+					"imbued",
+					"imprinted",
+					"bejewelled",
+					"named",
+					"patched",
+					"guilded"
+				]
+			},
+			"minItems": 1
+		}
+	},
+	"anyOf": [
+		{
+			"not": {
+				"properties": {
+					"enhancements": {
+						"type": "array",
+						"items": {
+							"enum": [
+								"imbued",
+								"imprinted",
+								"bejewelled",
+								"named",
+								"patched",
+								"guilded"
+							]
+						},
+						"minItems": 1
+					}
+				},
+				"required": ["enhancements"]
+			}
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-imbued.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-imprinted.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-bejewelled.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-named.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-patched.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-guilded.json"
+		}
+	],
+	"required": [
+		"$type",
+		"id",
+		"item",
+		"level",
+		"quantity",
+		"location",
+		"actions",
+		"stackHash"
+	]
 }

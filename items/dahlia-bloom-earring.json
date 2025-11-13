@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "dahlia-bloom-earring",
-    "image": "1183",
-    "type": "ear-jewelry",
-    "armorType": "leather",
-    "set": "dahlia-blossom",
-    "material": "gem",
-    "properties": {
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "dahlia-bloom-earring",
+	"image": "1183",
+	"type": "ear-jewelry",
+	"armorType": "leather",
+	"set": "dahlia-blossom",
+	"material": "gem",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

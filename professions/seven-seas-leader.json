@@ -1,18 +1,18 @@
 {
-    "$type": "/v1/profession",
-    "id": "seven-seas-leader",
-    "name": {
-        "en": "Seven Seas Leader"
-    },
-    "desc": {
-        "en": "Promotes pirates."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 5,
-        "MAXSTAMINA": 5
-    }
+	"$type": "/v1/profession",
+	"id": "seven-seas-leader",
+	"name": {
+		"en": "Seven Seas Leader"
+	},
+	"desc": {
+		"en": "Promotes pirates."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 5,
+		"MAXSTAMINA": 5
+	}
 }

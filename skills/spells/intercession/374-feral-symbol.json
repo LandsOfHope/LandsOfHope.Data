@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "intercession/374-feral-symbol",
-    "requirements": {
-        "skill": 3740,
-        "level": 748,
-        "mana": 3740
-    },
-    "duration": "PT999M",
-    "effects": {
-        "skills": {
-            "attack-power": 374
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "intercession/374-feral-symbol",
+	"requirements": {
+		"skill": 3740,
+		"level": 748,
+		"mana": 3740
+	},
+	"duration": "PT999M",
+	"effects": {
+		"skills": {
+			"attack-power": 374
+		}
+	}
 }

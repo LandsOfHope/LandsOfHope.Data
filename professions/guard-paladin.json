@@ -1,26 +1,26 @@
 {
-    "$type": "/v1/profession",
-    "id": "guard-paladin",
-    "name": {
-        "en": "Guard Paladin"
-    },
-    "desc": {
-        "en": "Guard Paladin"
-    },
-    "skills": {
-        "healing-magic": 5,
-        "protection": 5,
-        "pole-weapons": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 4,
-        "MAXMANA": 2,
-        "MAXSTAMINA": 2,
-        "SPEED": 2,
-        "STRENGTH": 3
-    }
+	"$type": "/v1/profession",
+	"id": "guard-paladin",
+	"name": {
+		"en": "Guard Paladin"
+	},
+	"desc": {
+		"en": "Guard Paladin"
+	},
+	"skills": {
+		"healing-magic": 5,
+		"protection": 5,
+		"pole-weapons": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 4,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 3
+	}
 }

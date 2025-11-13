@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "icandrias-mantle",
-    "image": "mle",
-    "type": "chest-armour",
-    "armorType": "cloth",
-    "material": "hide",
-    "skills": {
-        "cold-resistance": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "icandrias-mantle",
+	"image": "mle",
+	"type": "chest-armour",
+	"armorType": "cloth",
+	"material": "hide",
+	"skills": {
+		"cold-resistance": 1,
+		"armor": 1
+	}
 }

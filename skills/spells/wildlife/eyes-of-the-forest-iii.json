@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "wildlife/eyes-of-the-forest-iii",
-    "requirements": {
-        "skill": 3462,
-        "mana": 346
-    },
-    "duration": "PT165M",
-    "effects": {
-        "skills": {
-            "exploration": 361
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "wildlife/eyes-of-the-forest-iii",
+	"requirements": {
+		"skill": 3462,
+		"mana": 346
+	},
+	"duration": "PT165M",
+	"effects": {
+		"skills": {
+			"exploration": 361
+		}
+	}
 }

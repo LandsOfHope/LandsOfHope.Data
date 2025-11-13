@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "mercenary-bow",
-    "image": "6656",
-    "type": "ranged-weapon",
-    "dpr": 3,
-    "material": "wood",
-    "skill": "bows",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "mercenary-bow",
+	"image": "6656",
+	"type": "ranged-weapon",
+	"dpr": 3,
+	"material": "wood",
+	"skill": "bows",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

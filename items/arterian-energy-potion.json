@@ -1,9 +1,9 @@
 {
-    "$type": "/v1/item",
-    "id": "arterian-energy-potion",
-    "image": "gmarenpo",
-    "type": "magic-potion",
-    "properties": {
-        "MANA": 6
-    }
+	"$type": "/v1/item",
+	"id": "arterian-energy-potion",
+	"image": "gmarenpo",
+	"type": "magic-potion",
+	"properties": {
+		"MANA": 6
+	}
 }

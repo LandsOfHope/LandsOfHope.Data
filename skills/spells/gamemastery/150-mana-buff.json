@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/150-mana-buff",
-    "requirements": {
-        "skill": 729,
-        "mana": 729
-    },
-    "duration": "PT60M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 365
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/150-mana-buff",
+	"requirements": {
+		"skill": 729,
+		"mana": 729
+	},
+	"duration": "PT60M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 365
+		}
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/spellbound-energized-vii",
-    "requirements": {
-        "skill": 3150,
-        "mana": 5
-    },
-    "duration": "PT50000M",
-    "effects": {
-        "properties": {
-            "SPEED": 150
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/spellbound-energized-vii",
+	"requirements": {
+		"skill": 3150,
+		"mana": 5
+	},
+	"duration": "PT50000M",
+	"effects": {
+		"properties": {
+			"SPEED": 150
+		}
+	}
 }

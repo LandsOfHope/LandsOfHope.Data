@@ -1,23 +1,23 @@
 {
-    "$type": "/v1/profession",
-    "id": "majestic-songsmith",
-    "name": {
-        "en": "Majestic Songsmith"
-    },
-    "desc": {
-        "en": "Bought extra pet Songsmith class."
-    },
-    "skills": {
-        "instruments": 5,
-        "singing": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 3,
-        "SPEED": 3
-    }
+	"$type": "/v1/profession",
+	"id": "majestic-songsmith",
+	"name": {
+		"en": "Majestic Songsmith"
+	},
+	"desc": {
+		"en": "Bought extra pet Songsmith class."
+	},
+	"skills": {
+		"instruments": 5,
+		"singing": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 3,
+		"SPEED": 3
+	}
 }

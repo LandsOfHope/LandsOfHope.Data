@@ -1,22 +1,18 @@
 {
-    "name": {
-        "en": "Skeletal Dog"
-    },
-    "desc": {
-        "en": "A cute little doggy, probably one of the many you killed in Knotwood Valley."
-    },
-    "appr": {
-        "en": ""
-    },
-    "hist": {
-        "en": ""
-    },
-    "pics": {
-        "M": [
-            "mjpudm"
-        ],
-        "F": [
-            "mjpudf"
-        ]
-    }
+	"name": {
+		"en": "Skeletal Dog"
+	},
+	"desc": {
+		"en": "A cute little doggy, probably one of the many you killed in Knotwood Valley."
+	},
+	"appr": {
+		"en": ""
+	},
+	"hist": {
+		"en": ""
+	},
+	"pics": {
+		"M": ["mjpudm"],
+		"F": ["mjpudf"]
+	}
 }

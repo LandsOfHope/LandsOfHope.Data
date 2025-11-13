@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "beastmastery/tamers-heart-xiv",
-    "requirements": {
-        "skill": 4280,
-        "mana": 4000
-    },
-    "duration": "PT25M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 526
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "beastmastery/tamers-heart-xiv",
+	"requirements": {
+		"skill": 4280,
+		"mana": 4000
+	},
+	"duration": "PT25M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 526
+		}
+	}
 }

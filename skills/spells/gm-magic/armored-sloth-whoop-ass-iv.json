@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/armored-sloth-whoop-ass-iv",
-    "requirements": {
-        "skill": 834,
-        "mana": 834
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 550
-        },
-        "skills": {
-            "frenzy": 700
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/armored-sloth-whoop-ass-iv",
+	"requirements": {
+		"skill": 834,
+		"mana": 834
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 550
+		},
+		"skills": {
+			"frenzy": 700
+		}
+	}
 }

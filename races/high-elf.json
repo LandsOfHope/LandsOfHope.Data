@@ -1,22 +1,18 @@
 {
-    "name": {
-        "en": "High Elf"
-    },
-    "desc": {
-        "en": ""
-    },
-    "appr": {
-        "en": ""
-    },
-    "hist": {
-        "en": ""
-    },
-    "pics": {
-        "M": [
-            "mjpelfm"
-        ],
-        "F": [
-            "mjpelff"
-        ]
-    }
+	"name": {
+		"en": "High Elf"
+	},
+	"desc": {
+		"en": ""
+	},
+	"appr": {
+		"en": ""
+	},
+	"hist": {
+		"en": ""
+	},
+	"pics": {
+		"M": ["mjpelfm"],
+		"F": ["mjpelff"]
+	}
 }

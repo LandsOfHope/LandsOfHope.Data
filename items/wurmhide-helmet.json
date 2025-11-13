@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "wurmhide-helmet",
-    "image": "5824",
-    "type": "head-armour",
-    "armorType": "cloth",
-    "expansion": "dragons-of-the-east",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "wurmhide-helmet",
+	"image": "5824",
+	"type": "head-armour",
+	"armorType": "cloth",
+	"expansion": "dragons-of-the-east",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	}
 }

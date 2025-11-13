@@ -1,54 +1,50 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/profession.json",
-    "title": "Profession",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/profession"
-        },
-        "id": {
-            "$ref": "/schemas/v1/professions-id.gen.json"
-        },
-        "name": {
-            "$ref": "/schemas/v1/localized-string.json"
-        },
-        "desc": {
-            "$ref": "/schemas/v1/localized-string.json"
-        },
-        "skills": {
-            "type": "object",
-            "patternProperties": {
-                ".*": {
-                    "type": "integer"
-                }
-            },
-            "propertyNames": {
-                "$ref": "/schemas/v1/skills-id.gen.json"
-            },
-            "minProperties": 1,
-            "additionalProperties": false
-        },
-        "properties": {
-            "type": "object",
-            "patternProperties": {
-                ".*": {
-                    "type": "integer"
-                }
-            },
-            "propertyNames": {
-                "$ref": "/schemas/v1/characters/character-property-name.json"
-            },
-            "minProperties": 1,
-            "additionalProperties": false
-        },
-        "evo": {
-            "$ref": "/schemas/v1/profession-evolution.json"
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "$type",
-        "name",
-        "desc"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/profession.json",
+	"title": "Profession",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/profession"
+		},
+		"id": {
+			"$ref": "/schemas/v1/professions-id.gen.json"
+		},
+		"name": {
+			"$ref": "/schemas/v1/localized-string.json"
+		},
+		"desc": {
+			"$ref": "/schemas/v1/localized-string.json"
+		},
+		"skills": {
+			"type": "object",
+			"patternProperties": {
+				".*": {
+					"type": "integer"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/skills-id.gen.json"
+			},
+			"minProperties": 1,
+			"additionalProperties": false
+		},
+		"properties": {
+			"type": "object",
+			"patternProperties": {
+				".*": {
+					"type": "integer"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/characters/character-property-name.json"
+			},
+			"minProperties": 1,
+			"additionalProperties": false
+		},
+		"evo": {
+			"$ref": "/schemas/v1/profession-evolution.json"
+		}
+	},
+	"additionalProperties": false,
+	"required": ["$type", "name", "desc"]
 }

@@ -1,23 +1,23 @@
 {
-    "$type": "/v1/profession",
-    "id": "earthshaker",
-    "name": {
-        "en": "Earthshaker"
-    },
-    "desc": {
-        "en": "An ancient guardian"
-    },
-    "skills": {
-        "energy-resistance": 5,
-        "two-handed-maces": 5,
-        "earth-magic": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 3,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "earthshaker",
+	"name": {
+		"en": "Earthshaker"
+	},
+	"desc": {
+		"en": "An ancient guardian"
+	},
+	"skills": {
+		"energy-resistance": 5,
+		"two-handed-maces": 5,
+		"earth-magic": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 3,
+		"STRENGTH": 2
+	}
 }

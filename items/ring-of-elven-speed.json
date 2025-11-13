@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-elven-speed",
-    "image": "rgd",
-    "type": "ring",
-    "material": "gem",
-    "properties": {
-        "DEXTERITY": 1,
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-elven-speed",
+	"image": "rgd",
+	"type": "ring",
+	"material": "gem",
+	"properties": {
+		"DEXTERITY": 1,
+		"SPEED": 1
+	}
 }

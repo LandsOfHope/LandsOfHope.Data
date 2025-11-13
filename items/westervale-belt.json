@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "westervale-belt",
-    "image": "zuwebe",
-    "type": "stomach",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "westervale-belt",
+	"image": "zuwebe",
+	"type": "stomach",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

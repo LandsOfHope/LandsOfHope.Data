@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "mallet",
-    "image": "569",
-    "type": "1-handed-equipment",
-    "dpr": 4,
-    "material": "metal",
-    "skill": "maces",
-    "skills": {
-        "maces": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "mallet",
+	"image": "569",
+	"type": "1-handed-equipment",
+	"dpr": 4,
+	"material": "metal",
+	"skill": "maces",
+	"skills": {
+		"maces": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

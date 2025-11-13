@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "necklace-of-the-summoners",
-    "image": "zunesu",
-    "type": "neck",
-    "material": "gem",
-    "skill": "summoning",
-    "skills": {
-        "summoning": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "necklace-of-the-summoners",
+	"image": "zunesu",
+	"type": "neck",
+	"material": "gem",
+	"skill": "summoning",
+	"skills": {
+		"summoning": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	}
 }

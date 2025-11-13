@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "shadowseekers-ring",
-    "image": "6565",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "stealth": 1,
-        "track-items": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "shadowseekers-ring",
+	"image": "6565",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"stealth": 1,
+		"track-items": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

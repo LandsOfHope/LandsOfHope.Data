@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "pendant-of-excavation",
-    "image": "zuruam",
-    "type": "neck",
-    "material": "gem",
-    "skill": "mining",
-    "skills": {
-        "mining": 1,
-        "geology": 1
-    }
+	"$type": "/v1/item",
+	"id": "pendant-of-excavation",
+	"image": "zuruam",
+	"type": "neck",
+	"material": "gem",
+	"skill": "mining",
+	"skills": {
+		"mining": 1,
+		"geology": 1
+	}
 }

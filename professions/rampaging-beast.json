@@ -1,24 +1,24 @@
 {
-    "$type": "/v1/profession",
-    "id": "rampaging-beast",
-    "name": {
-        "en": "Rampaging Beast"
-    },
-    "desc": {
-        "en": ""
-    },
-    "skills": {
-        "frenzy": 5,
-        "maces": 5,
-        "two-handed-maces": 5,
-        "bludgeon-defense": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 4,
-        "STRENGTH": 4
-    }
+	"$type": "/v1/profession",
+	"id": "rampaging-beast",
+	"name": {
+		"en": "Rampaging Beast"
+	},
+	"desc": {
+		"en": ""
+	},
+	"skills": {
+		"frenzy": 5,
+		"maces": 5,
+		"two-handed-maces": 5,
+		"bludgeon-defense": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 4,
+		"STRENGTH": 4
+	}
 }

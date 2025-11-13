@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/battle-falcon-swoop-ii",
-    "requirements": {
-        "skill": 435,
-        "mana": 435
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 220
-        },
-        "skills": {
-            "attack-power": 60
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/battle-falcon-swoop-ii",
+	"requirements": {
+		"skill": 435,
+		"mana": 435
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 220
+		},
+		"skills": {
+			"attack-power": 60
+		}
+	}
 }

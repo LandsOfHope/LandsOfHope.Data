@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "prepared-trousers",
-    "image": "ptro10",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "prepared-trousers",
+	"image": "ptro10",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXMANA": 1
+	}
 }

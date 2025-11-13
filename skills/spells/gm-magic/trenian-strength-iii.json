@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/trenian-strength-iii",
-    "requirements": {
-        "skill": 512,
-        "mana": 512
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 320
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/trenian-strength-iii",
+	"requirements": {
+		"skill": 512,
+		"mana": 512
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 320
+		}
+	}
 }

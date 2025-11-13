@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "nocturnal-skirt",
-    "image": "6752",
-    "type": "leg-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "nocturnal-skirt",
+	"image": "6752",
+	"type": "leg-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"STRENGTH": 1
+	}
 }

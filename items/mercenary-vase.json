@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "mercenary-vase",
-    "image": "6663",
-    "type": "1-handed-equipment",
-    "dpr": 3,
-    "material": "gem",
-    "skill": "exotic-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "mercenary-vase",
+	"image": "6663",
+	"type": "1-handed-equipment",
+	"dpr": 3,
+	"material": "gem",
+	"skill": "exotic-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

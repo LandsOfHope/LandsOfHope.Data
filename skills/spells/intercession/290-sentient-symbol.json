@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "intercession/290-sentient-symbol",
-    "requirements": {
-        "skill": 2900,
-        "level": 580,
-        "mana": 2900
-    },
-    "duration": "PT999M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 290
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "intercession/290-sentient-symbol",
+	"requirements": {
+		"skill": 2900,
+		"level": 580,
+		"mana": 2900
+	},
+	"duration": "PT999M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 290
+		}
+	}
 }

@@ -1,28 +1,24 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/character-inventory-item-location-equipped.json",
-    "title": "CharacterInventoryItemLocationEquipped",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/inventory/character-inventory-item-location-equipped"
-        },
-        "character": {
-            "$ref": "/schemas/v1/characters/character-id.json"
-        },
-        "location": {
-            "anyOf": [
-                {
-                    "$ref": "/schemas/v1/characters/inventory/player-equippable-location.json"
-                },
-                {
-                    "$ref": "/schemas/v1/characters/inventory/pet-equippable-location.json"
-                }
-            ]
-        }
-    },
-    "required": [
-        "$type",
-        "character",
-        "location"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/character-inventory-item-location-equipped.json",
+	"title": "CharacterInventoryItemLocationEquipped",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/inventory/character-inventory-item-location-equipped"
+		},
+		"character": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"location": {
+			"anyOf": [
+				{
+					"$ref": "/schemas/v1/characters/inventory/player-equippable-location.json"
+				},
+				{
+					"$ref": "/schemas/v1/characters/inventory/pet-equippable-location.json"
+				}
+			]
+		}
+	},
+	"required": ["$type", "character", "location"]
 }

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "nocturnal-hood",
-    "image": "6749",
-    "type": "head-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "stealth": 1,
-        "armor": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "nocturnal-hood",
+	"image": "6749",
+	"type": "head-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"stealth": 1,
+		"armor": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

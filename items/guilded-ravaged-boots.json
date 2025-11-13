@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-ravaged-boots",
-    "image": "3751",
-    "type": "foot-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-ravaged-boots",
+	"image": "3751",
+	"type": "foot-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

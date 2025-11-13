@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-devilish-leggings",
-    "image": "3824",
-    "type": "leg-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-devilish-leggings",
+	"image": "3824",
+	"type": "leg-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

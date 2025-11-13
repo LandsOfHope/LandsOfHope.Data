@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "reformation/golem-fury-x",
-    "requirements": {
-        "skill": 4750,
-        "mana": 4750
-    },
-    "duration": "PT120M",
-    "effects": {
-        "skills": {
-            "frenzy": 1900
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "reformation/golem-fury-x",
+	"requirements": {
+		"skill": 4750,
+		"mana": 4750
+	},
+	"duration": "PT120M",
+	"effects": {
+		"skills": {
+			"frenzy": 1900
+		}
+	}
 }

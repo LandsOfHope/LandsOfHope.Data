@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "blistering-bullet",
-    "image": "zublbu",
-    "type": "ammo-weapons-bullets",
-    "dpr": 63,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "blistering-bullet",
+	"image": "zublbu",
+	"type": "ammo-weapons-bullets",
+	"dpr": 63,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

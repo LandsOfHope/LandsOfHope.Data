@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "red-dragon-potion",
-    "image": "5861",
-    "type": "dragon-food-items",
-    "expansion": "dragons-of-the-east",
-    "material": "gem",
-    "properties": {
-        "HITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "red-dragon-potion",
+	"image": "5861",
+	"type": "dragon-food-items",
+	"expansion": "dragons-of-the-east",
+	"material": "gem",
+	"properties": {
+		"HITPOINTS": 1
+	}
 }

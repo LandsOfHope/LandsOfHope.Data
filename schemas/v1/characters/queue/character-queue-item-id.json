@@ -1,6 +1,6 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-item-id.json",
-    "title": "CharacterQueueItemId",
-    "type": "integer",
-    "minimum": 1
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-item-id.json",
+	"title": "CharacterQueueItemId",
+	"type": "integer",
+	"minimum": 1
 }

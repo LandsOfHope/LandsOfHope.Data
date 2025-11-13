@@ -1,9 +1,9 @@
 {
-    "$type": "/v1/item",
-    "id": "arterian-stamina-potion",
-    "image": "gmarstpo",
-    "type": "magic-potion",
-    "properties": {
-        "STAMINA": 6
-    }
+	"$type": "/v1/item",
+	"id": "arterian-stamina-potion",
+	"image": "gmarstpo",
+	"type": "magic-potion",
+	"properties": {
+		"STAMINA": 6
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "preservation-magic/drain-resistance-vi",
-    "requirements": {
-        "skill": 1849,
-        "mana": 1849
-    },
-    "duration": "PT75M",
-    "effects": {
-        "skills": {
-            "drain-resistance": 187
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "preservation-magic/drain-resistance-vi",
+	"requirements": {
+		"skill": 1849,
+		"mana": 1849
+	},
+	"duration": "PT75M",
+	"effects": {
+		"skills": {
+			"drain-resistance": 187
+		}
+	}
 }

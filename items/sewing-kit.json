@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "sewing-kit",
-    "image": "gmseki",
-    "type": "1-handed-equipment",
-    "material": "metal",
-    "skill": "tailoring",
-    "skills": {
-        "tailoring": 1
-    }
+	"$type": "/v1/item",
+	"id": "sewing-kit",
+	"image": "gmseki",
+	"type": "1-handed-equipment",
+	"material": "metal",
+	"skill": "tailoring",
+	"skills": {
+		"tailoring": 1
+	}
 }

@@ -1,24 +1,24 @@
 {
-    "$type": "/v1/profession",
-    "id": "demon-soldier",
-    "name": {
-        "en": "Demon Soldier"
-    },
-    "desc": {
-        "en": "An ancient guardian"
-    },
-    "skills": {
-        "frenzy": 5,
-        "fire-resistance": 5,
-        "swords": 5,
-        "axes": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 6,
-        "MAXSTAMINA": 5,
-        "STRENGTH": 4
-    }
+	"$type": "/v1/profession",
+	"id": "demon-soldier",
+	"name": {
+		"en": "Demon Soldier"
+	},
+	"desc": {
+		"en": "An ancient guardian"
+	},
+	"skills": {
+		"frenzy": 5,
+		"fire-resistance": 5,
+		"swords": 5,
+		"axes": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 6,
+		"MAXSTAMINA": 5,
+		"STRENGTH": 4
+	}
 }

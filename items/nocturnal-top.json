@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "nocturnal-top",
-    "image": "6751",
-    "type": "chest-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "stealth": 1,
-        "armor": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "nocturnal-top",
+	"image": "6751",
+	"type": "chest-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"stealth": 1,
+		"armor": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

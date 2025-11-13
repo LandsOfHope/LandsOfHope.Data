@@ -1,30 +1,26 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/random-chance.json",
-    "type": "object",
-    "title": "RandomChance",
-    "properties": {
-        "$type": {
-            "const": "/v1/random-chance"
-        },
-        "numer": {
-            "type": "integer",
-            "minimum": 1
-        },
-        "denom": {
-            "oneOf": [
-                {
-                    "const": 100
-                },
-                {
-                    "const": 1000
-                }
-            ]
-        }
-    },
-    "required": [
-        "$type",
-        "numer",
-        "denom"
-    ],
-    "additionalProperties": false
+	"$id": "https://data.landsofhope.com/schemas/v1/random-chance.json",
+	"type": "object",
+	"title": "RandomChance",
+	"properties": {
+		"$type": {
+			"const": "/v1/random-chance"
+		},
+		"numer": {
+			"type": "integer",
+			"minimum": 1
+		},
+		"denom": {
+			"oneOf": [
+				{
+					"const": 100
+				},
+				{
+					"const": 1000
+				}
+			]
+		}
+	},
+	"required": ["$type", "numer", "denom"],
+	"additionalProperties": false
 }

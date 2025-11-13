@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "battleready-headband",
-    "image": "zumahb",
-    "type": "forehead",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "battleready-headband",
+	"image": "zumahb",
+	"type": "forehead",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1
+	}
 }

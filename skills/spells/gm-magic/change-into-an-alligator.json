@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/change-into-an-alligator",
-    "requirements": {
-        "skill": 322,
-        "mana": 322
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "skills": {
-            "attack-power": 162
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/change-into-an-alligator",
+	"requirements": {
+		"skill": 322,
+		"mana": 322
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"skills": {
+			"attack-power": 162
+		}
+	}
 }

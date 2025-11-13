@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "charm-of-the-light",
-    "image": "zuchli",
-    "type": "wrist-jewelry",
-    "material": "wood",
-    "skills": {
-        "celestial-magic": 1
-    }
+	"$type": "/v1/item",
+	"id": "charm-of-the-light",
+	"image": "zuchli",
+	"type": "wrist-jewelry",
+	"material": "wood",
+	"skills": {
+		"celestial-magic": 1
+	}
 }

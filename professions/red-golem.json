@@ -1,21 +1,21 @@
 {
-    "$type": "/v1/profession",
-    "id": "red-golem",
-    "name": {
-        "en": "Red Golem"
-    },
-    "desc": {
-        "en": "Red Golem Pet Class"
-    },
-    "skills": {
-        "health-stealing": 5,
-        "swords": 5,
-        "fists": 5,
-        "shields": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 0
-    }
+	"$type": "/v1/profession",
+	"id": "red-golem",
+	"name": {
+		"en": "Red Golem"
+	},
+	"desc": {
+		"en": "Red Golem Pet Class"
+	},
+	"skills": {
+		"health-stealing": 5,
+		"swords": 5,
+		"fists": 5,
+		"shields": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 0
+	}
 }

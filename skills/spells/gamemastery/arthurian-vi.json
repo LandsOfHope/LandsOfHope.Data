@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/arthurian-vi",
-    "requirements": {
-        "skill": 30,
-        "mana": 30
-    },
-    "duration": "PT140000M",
-    "effects": {
-        "skills": {
-            "experience-bonus": 500
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/arthurian-vi",
+	"requirements": {
+		"skill": 30,
+		"mana": 30
+	},
+	"duration": "PT140000M",
+	"effects": {
+		"skills": {
+			"experience-bonus": 500
+		}
+	}
 }

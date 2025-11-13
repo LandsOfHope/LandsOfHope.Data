@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/constellation-of-the-turtle",
-    "requirements": {
-        "skill": 50,
-        "mana": 50
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXSTAMINA": 10
-        },
-        "skills": {
-            "damage-absorption": 6
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/constellation-of-the-turtle",
+	"requirements": {
+		"skill": 50,
+		"mana": 50
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXSTAMINA": 10
+		},
+		"skills": {
+			"damage-absorption": 6
+		}
+	}
 }

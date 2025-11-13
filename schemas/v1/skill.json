@@ -1,27 +1,24 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/skill.json",
-    "title": "Skill",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/skill"
-        },
-        "group": {
-            "$ref": "/schemas/v1/skill-group.json"
-        },
-        "titles": {
-            "type": "object",
-            "patternProperties": {
-                "^[0-9]+$": {
-                    "$ref": "/schemas/v1/titles-id.gen.json"
-                }
-            },
-            "additionalProperties": false
-        }
-    },
-    "required": [
-        "$type",
-        "group"
-    ],
-    "additionalProperties": false
+	"$id": "https://data.landsofhope.com/schemas/v1/skill.json",
+	"title": "Skill",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/skill"
+		},
+		"group": {
+			"$ref": "/schemas/v1/skill-group.json"
+		},
+		"titles": {
+			"type": "object",
+			"patternProperties": {
+				"^[0-9]+$": {
+					"$ref": "/schemas/v1/titles-id.gen.json"
+				}
+			},
+			"additionalProperties": false
+		}
+	},
+	"required": ["$type", "group"],
+	"additionalProperties": false
 }

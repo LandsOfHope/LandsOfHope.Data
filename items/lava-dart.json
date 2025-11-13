@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "lava-dart",
-    "image": "drt",
-    "type": "ammo-weapons-darts",
-    "dpr": 3,
-    "material": "wood",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "lava-dart",
+	"image": "drt",
+	"type": "ammo-weapons-darts",
+	"dpr": 3,
+	"material": "wood",
+	"skills": {
+		"attack-power": 1
+	}
 }

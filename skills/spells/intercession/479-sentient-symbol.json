@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "intercession/479-sentient-symbol",
-    "requirements": {
-        "skill": 4790,
-        "level": 958,
-        "mana": 4790
-    },
-    "duration": "PT999M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 479
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "intercession/479-sentient-symbol",
+	"requirements": {
+		"skill": 4790,
+		"level": 958,
+		"mana": 4790
+	},
+	"duration": "PT999M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 479
+		}
+	}
 }

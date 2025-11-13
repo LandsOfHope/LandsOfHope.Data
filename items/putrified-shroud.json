@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "putrified-shroud",
-    "image": "998",
-    "type": "chest-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "earth-resistance": 1,
-        "necromancy": 1
-    }
+	"$type": "/v1/item",
+	"id": "putrified-shroud",
+	"image": "998",
+	"type": "chest-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"earth-resistance": 1,
+		"necromancy": 1
+	}
 }

@@ -1,26 +1,26 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "tinkering/bombardment",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "bombardment"
-    },
-    "image": "gmbobm",
-    "time": "PT600S",
-    "quantity": 1,
-    "skill": "tinkering",
-    "skillValue": 5000,
-    "quality": "artifact",
-    "singleUse": true,
-    "ingredients": [
-        {
-            "id": "ingot",
-            "quantity": 1000,
-            "primary": true
-        },
-        {
-            "id": "plank",
-            "quantity": 1000
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "tinkering/bombardment",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "bombardment"
+	},
+	"image": "gmbobm",
+	"time": "PT600S",
+	"quantity": 1,
+	"skill": "tinkering",
+	"skillValue": 5000,
+	"quality": "artifact",
+	"singleUse": true,
+	"ingredients": [
+		{
+			"id": "ingot",
+			"quantity": 1000,
+			"primary": true
+		},
+		{
+			"id": "plank",
+			"quantity": 1000
+		}
+	]
 }

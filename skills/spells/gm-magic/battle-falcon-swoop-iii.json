@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/battle-falcon-swoop-iii",
-    "requirements": {
-        "skill": 582,
-        "mana": 582
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 260
-        },
-        "skills": {
-            "attack-power": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/battle-falcon-swoop-iii",
+	"requirements": {
+		"skill": 582,
+		"mana": 582
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 260
+		},
+		"skills": {
+			"attack-power": 100
+		}
+	}
 }

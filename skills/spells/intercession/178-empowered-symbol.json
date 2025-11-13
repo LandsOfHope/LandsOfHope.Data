@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "intercession/178-empowered-symbol",
-    "requirements": {
-        "skill": 1780,
-        "level": 356,
-        "mana": 1780
-    },
-    "duration": "PT999M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 178
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "intercession/178-empowered-symbol",
+	"requirements": {
+		"skill": 1780,
+		"level": 356,
+		"mana": 1780
+	},
+	"duration": "PT999M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 178
+		}
+	}
 }

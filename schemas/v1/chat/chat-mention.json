@@ -1,26 +1,21 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/chat/chat-mention.json",
-    "title": "ChatMention",
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {
-        "$type": {
-            "const": "/v1/chat/chat-mention"
-        },
-        "raw": {
-            "type": "string"
-        },
-        "participant": {
-            "$ref": "/schemas/v1/chat/chat-participant-id.json"
-        },
-        "appearance": {
-            "$ref": "/schemas/v1/characters/appearance-profile.json"
-        }
-    },
-    "required": [
-        "$type",
-        "raw",
-        "participant",
-        "appearance"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/chat/chat-mention.json",
+	"title": "ChatMention",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/chat/chat-mention"
+		},
+		"raw": {
+			"type": "string"
+		},
+		"participant": {
+			"$ref": "/schemas/v1/chat/chat-participant-id.json"
+		},
+		"appearance": {
+			"$ref": "/schemas/v1/characters/appearance-profile.json"
+		}
+	},
+	"required": ["$type", "raw", "participant", "appearance"]
 }

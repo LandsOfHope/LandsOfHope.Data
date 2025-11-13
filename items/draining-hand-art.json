@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "draining-hand-art",
-    "image": "6232",
-    "type": "2-handed-equipment",
-    "dpr": 82,
-    "material": "color",
-    "skill": "martial-arts",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "draining-hand-art",
+	"image": "6232",
+	"type": "2-handed-equipment",
+	"dpr": 82,
+	"material": "color",
+	"skill": "martial-arts",
+	"skills": {
+		"attack-power": 1
+	}
 }

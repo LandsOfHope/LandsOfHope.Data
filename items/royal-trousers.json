@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "royal-trousers",
-    "image": "3074",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "royal-trousers",
+	"image": "3074",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

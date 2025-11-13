@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/glowing-wind-tonic",
-    "requirements": {
-        "skill": 3000,
-        "mana": 3600
-    },
-    "duration": "PT720M",
-    "effects": {
-        "skills": {
-            "air-resistance": 720
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/glowing-wind-tonic",
+	"requirements": {
+		"skill": 3000,
+		"mana": 3600
+	},
+	"duration": "PT720M",
+	"effects": {
+		"skills": {
+			"air-resistance": 720
+		}
+	}
 }

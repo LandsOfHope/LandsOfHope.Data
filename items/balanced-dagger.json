@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "balanced-dagger",
-    "image": "dg",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "material": "stone",
-    "skill": "daggers",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "balanced-dagger",
+	"image": "dg",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"material": "stone",
+	"skill": "daggers",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

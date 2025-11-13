@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "arborescent-bullet",
-    "image": "zuarbu",
-    "type": "ammo-weapons-bullets",
-    "dpr": 50,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "arborescent-bullet",
+	"image": "zuarbu",
+	"type": "ammo-weapons-bullets",
+	"dpr": 50,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

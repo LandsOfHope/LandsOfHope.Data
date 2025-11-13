@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "shimmering-celestial-bow",
-    "image": "6034",
-    "type": "ranged-weapon",
-    "dpr": 97,
-    "material": "metal",
-    "skill": "celestial-weapons",
-    "skills": {
-        "attack-power": 1,
-        "celestial-defense": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "shimmering-celestial-bow",
+	"image": "6034",
+	"type": "ranged-weapon",
+	"dpr": 97,
+	"material": "metal",
+	"skill": "celestial-weapons",
+	"skills": {
+		"attack-power": 1,
+		"celestial-defense": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

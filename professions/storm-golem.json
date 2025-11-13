@@ -1,20 +1,20 @@
 {
-    "$type": "/v1/profession",
-    "id": "storm-golem",
-    "name": {
-        "en": "Storm Golem"
-    },
-    "desc": {
-        "en": "Storm Golem Pet Class"
-    },
-    "skills": {
-        "air-resistance": 5,
-        "fists": 5,
-        "air-magic": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 0
-    }
+	"$type": "/v1/profession",
+	"id": "storm-golem",
+	"name": {
+		"en": "Storm Golem"
+	},
+	"desc": {
+		"en": "Storm Golem Pet Class"
+	},
+	"skills": {
+		"air-resistance": 5,
+		"fists": 5,
+		"air-magic": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 0
+	}
 }

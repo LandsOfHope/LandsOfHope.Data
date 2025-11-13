@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/change-into-a-bear",
-    "requirements": {
-        "skill": 325,
-        "mana": 325
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 163
-        },
-        "skills": {
-            "attack-power": 163
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/change-into-a-bear",
+	"requirements": {
+		"skill": 325,
+		"mana": 325
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 163
+		},
+		"skills": {
+			"attack-power": 163
+		}
+	}
 }

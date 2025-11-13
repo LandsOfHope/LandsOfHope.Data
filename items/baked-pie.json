@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "baked-pie",
-    "image": "bdp",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "STAMINA": 2
-    }
+	"$type": "/v1/item",
+	"id": "baked-pie",
+	"image": "bdp",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"STAMINA": 2
+	}
 }

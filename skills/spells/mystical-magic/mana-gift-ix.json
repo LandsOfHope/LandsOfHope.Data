@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "mystical-magic/mana-gift-ix",
-    "requirements": {
-        "skill": 552,
-        "mana": 552
-    },
-    "duration": "PT100M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 277
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "mystical-magic/mana-gift-ix",
+	"requirements": {
+		"skill": 552,
+		"mana": 552
+	},
+	"duration": "PT100M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 277
+		}
+	}
 }

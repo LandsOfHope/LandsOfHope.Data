@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "summoning/oxnald-metalforge",
-    "requirements": {
-        "skill": 2004,
-        "mana": 2004
-    },
-    "effects": {
-        "summon-pet": {
-            "race": "human",
-            "profession": "blacksmith"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "summoning/oxnald-metalforge",
+	"requirements": {
+		"skill": 2004,
+		"mana": 2004
+	},
+	"effects": {
+		"summon-pet": {
+			"race": "human",
+			"profession": "blacksmith"
+		}
+	}
 }

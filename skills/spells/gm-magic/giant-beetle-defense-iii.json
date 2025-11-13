@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/giant-beetle-defense-iii",
-    "requirements": {
-        "skill": 526,
-        "mana": 526
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "armor": 264
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/giant-beetle-defense-iii",
+	"requirements": {
+		"skill": 526,
+		"mana": 526
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"armor": 264
+		}
+	}
 }

@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "subzero-dart",
-    "image": "drt",
-    "type": "ammo-weapons-darts",
-    "dpr": 71,
-    "material": "wood",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "subzero-dart",
+	"image": "drt",
+	"type": "ammo-weapons-darts",
+	"dpr": 71,
+	"material": "wood",
+	"skills": {
+		"attack-power": 1
+	}
 }

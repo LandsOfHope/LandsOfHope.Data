@@ -1,26 +1,26 @@
 {
-    "$type": "/v1/profession",
-    "id": "dementalist",
-    "name": {
-        "en": "Dementalist"
-    },
-    "desc": {
-        "en": "A demented mentalist."
-    },
-    "skills": {
-        "energy-magic": 5,
-        "dual-wielding": 5,
-        "instruments": 5,
-        "singing": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 5,
-        "MAXMANA": 6,
-        "MAXSTAMINA": 2,
-        "SPEED": 2
-    }
+	"$type": "/v1/profession",
+	"id": "dementalist",
+	"name": {
+		"en": "Dementalist"
+	},
+	"desc": {
+		"en": "A demented mentalist."
+	},
+	"skills": {
+		"energy-magic": 5,
+		"dual-wielding": 5,
+		"instruments": 5,
+		"singing": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 5,
+		"MAXMANA": 6,
+		"MAXSTAMINA": 2,
+		"SPEED": 2
+	}
 }

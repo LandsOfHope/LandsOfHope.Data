@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "reinforced-pauldrons",
-    "image": "2481",
-    "type": "shoulders",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "reinforced-pauldrons",
+	"image": "2481",
+	"type": "shoulders",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

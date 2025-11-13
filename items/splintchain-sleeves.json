@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "splintchain-sleeves",
-    "image": "css",
-    "type": "arm-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "bladed-defense": 1,
-        "stringed-defense": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "splintchain-sleeves",
+	"image": "css",
+	"type": "arm-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"bladed-defense": 1,
+		"stringed-defense": 1,
+		"armor": 1
+	}
 }

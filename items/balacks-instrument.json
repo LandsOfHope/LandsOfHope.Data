@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "balacks-instrument",
-    "image": "5040",
-    "type": "1-handed-equipment",
-    "material": "metal",
-    "skill": "surgery",
-    "skills": {
-        "surgery": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "balacks-instrument",
+	"image": "5040",
+	"type": "1-handed-equipment",
+	"material": "metal",
+	"skill": "surgery",
+	"skills": {
+		"surgery": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	}
 }

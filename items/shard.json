@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "shard",
-    "image": "dg3",
-    "type": "1-handed-equipment",
-    "dpr": 3,
-    "material": "gem",
-    "skill": "daggers",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "shard",
+	"image": "dg3",
+	"type": "1-handed-equipment",
+	"dpr": 3,
+	"material": "gem",
+	"skill": "daggers",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

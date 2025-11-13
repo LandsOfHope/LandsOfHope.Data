@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "germinating-arrow",
-    "image": "arr1",
-    "type": "ammo-weapons-bows",
-    "dpr": 39,
-    "material": "wood",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "germinating-arrow",
+	"image": "arr1",
+	"type": "ammo-weapons-bows",
+	"dpr": 39,
+	"material": "wood",
+	"skills": {
+		"attack-power": 1
+	}
 }

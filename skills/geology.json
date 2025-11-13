@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"gathering","titles":{"500":"novice-geologist","2500":"adept-geologist","5000":"master-geologist"}}
+{
+	"$type": "/v1/skill",
+	"group": "gathering",
+	"titles": {
+		"500": "novice-geologist",
+		"2500": "adept-geologist",
+		"5000": "master-geologist"
+	}
+}

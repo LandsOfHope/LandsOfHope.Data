@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "magic-carpet",
-    "image": "6554",
-    "type": "wings",
-    "expansion": "dark-depths",
-    "material": "hide",
-    "skills": {
-        "dungeon-mastery": 1,
-        "construction": 1,
-        "furnishing": 1,
-        "air-magic": 1
-    }
+	"$type": "/v1/item",
+	"id": "magic-carpet",
+	"image": "6554",
+	"type": "wings",
+	"expansion": "dark-depths",
+	"material": "hide",
+	"skills": {
+		"dungeon-mastery": 1,
+		"construction": 1,
+		"furnishing": 1,
+		"air-magic": 1
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/brain-food-iii",
-    "requirements": {
-        "skill": 150,
-        "level": 501,
-        "mana": 3
-    },
-    "duration": "PT303M",
-    "effects": {
-        "skills": {
-            "experience-bonus": 240
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/brain-food-iii",
+	"requirements": {
+		"skill": 150,
+		"level": 501,
+		"mana": 3
+	},
+	"duration": "PT303M",
+	"effects": {
+		"skills": {
+			"experience-bonus": 240
+		}
+	}
 }

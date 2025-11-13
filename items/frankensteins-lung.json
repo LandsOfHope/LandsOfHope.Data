@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "frankensteins-lung",
-    "image": "6344",
-    "type": "chest-armour",
-    "armorType": "cloth",
-    "set": "frankenstein-set",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "frankensteins-lung",
+	"image": "6344",
+	"type": "chest-armour",
+	"armorType": "cloth",
+	"set": "frankenstein-set",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1
+	}
 }

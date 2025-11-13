@@ -1,23 +1,23 @@
 {
-    "$type": "/v1/profession",
-    "id": "ancient-hunter",
-    "name": {
-        "en": "Ancient Hunter"
-    },
-    "desc": {
-        "en": "4th Anniversary"
-    },
-    "skills": {
-        "daggers": 5,
-        "bows": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 2,
-        "SPEED": 1,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "ancient-hunter",
+	"name": {
+		"en": "Ancient Hunter"
+	},
+	"desc": {
+		"en": "4th Anniversary"
+	},
+	"skills": {
+		"daggers": 5,
+		"bows": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 2,
+		"SPEED": 1,
+		"STRENGTH": 2
+	}
 }

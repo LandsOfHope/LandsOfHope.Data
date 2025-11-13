@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "minions-short-staff",
-    "image": "shs",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "material": "wood",
-    "skill": "staves",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "minions-short-staff",
+	"image": "shs",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"material": "wood",
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

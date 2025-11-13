@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "darkroot-totem",
-    "image": "zudato",
-    "type": "special-slot",
-    "material": "hide",
-    "skill": "druid-magic",
-    "skills": {
-        "druid-magic": 1,
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "darkroot-totem",
+	"image": "zudato",
+	"type": "special-slot",
+	"material": "hide",
+	"skill": "druid-magic",
+	"skills": {
+		"druid-magic": 1,
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

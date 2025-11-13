@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "jewel-encrusted-earring",
-    "image": "4830",
-    "type": "ear-jewelry",
-    "material": "gem",
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "jewel-encrusted-earring",
+	"image": "4830",
+	"type": "ear-jewelry",
+	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1
+	}
 }

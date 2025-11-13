@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "light-purple-potion",
-    "image": "pp1",
-    "type": "magic-potion",
-    "material": "gem",
-    "properties": {
-        "HITPOINTS": 1.25,
-        "MANA": 1.25
-    }
+	"$type": "/v1/item",
+	"id": "light-purple-potion",
+	"image": "pp1",
+	"type": "magic-potion",
+	"material": "gem",
+	"properties": {
+		"HITPOINTS": 1.25,
+		"MANA": 1.25
+	}
 }

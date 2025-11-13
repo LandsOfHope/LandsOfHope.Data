@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "tanned-breeches",
-    "image": "2804",
-    "type": "leg-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "tanned-breeches",
+	"image": "2804",
+	"type": "leg-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

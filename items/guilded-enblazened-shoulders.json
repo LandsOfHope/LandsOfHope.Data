@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-enblazened-shoulders",
-    "image": "3955",
-    "type": "shoulders",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-enblazened-shoulders",
+	"image": "3955",
+	"type": "shoulders",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

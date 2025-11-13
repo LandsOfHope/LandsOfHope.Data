@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/barbarian-i",
-    "requirements": {
-        "skill": 73,
-        "mana": 73
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 37
-        },
-        "skills": {
-            "two-handed-maces": 37
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/barbarian-i",
+	"requirements": {
+		"skill": 73,
+		"mana": 73
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 37
+		},
+		"skills": {
+			"two-handed-maces": 37
+		}
+	}
 }

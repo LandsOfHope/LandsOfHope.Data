@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "moss-bullet",
-    "image": "4142",
-    "type": "ammo-weapons-bullets",
-    "dpr": 18,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "moss-bullet",
+	"image": "4142",
+	"type": "ammo-weapons-bullets",
+	"dpr": 18,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

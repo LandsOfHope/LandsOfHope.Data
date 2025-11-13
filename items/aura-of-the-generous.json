@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "aura-of-the-generous",
-    "image": "6177",
-    "type": "aura",
-    "material": "gem",
-    "skills": {
-        "experience-bonus": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "aura-of-the-generous",
+	"image": "6177",
+	"type": "aura",
+	"material": "gem",
+	"skills": {
+		"experience-bonus": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

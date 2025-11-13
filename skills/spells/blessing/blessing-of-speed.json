@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "blessing/blessing-of-speed",
-    "requirements": {
-        "skill": 4998,
-        "mana": 4998
-    },
-    "duration": "PT120M",
-    "effects": {
-        "properties": {
-            "SPEED": 514
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "blessing/blessing-of-speed",
+	"requirements": {
+		"skill": 4998,
+		"mana": 4998
+	},
+	"duration": "PT120M",
+	"effects": {
+		"properties": {
+			"SPEED": 514
+		}
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "radical-shirt",
-    "image": "pshi5",
-    "type": "chest-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "radical-shirt",
+	"image": "pshi5",
+	"type": "chest-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

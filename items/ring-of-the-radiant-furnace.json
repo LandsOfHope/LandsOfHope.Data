@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-the-radiant-furnace",
-    "image": "ring5",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "blacksmithing": 1,
-        "tinkering": 1,
-        "mining": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-the-radiant-furnace",
+	"image": "ring5",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"blacksmithing": 1,
+		"tinkering": 1,
+		"mining": 1
+	}
 }

@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "ancient-broadsword",
-    "image": "zuanbr",
-    "type": "2-handed-equipment",
-    "dpr": 3,
-    "material": "metal",
-    "skill": "two-handed-swords",
-    "skills": {
-        "frenzy": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "ancient-broadsword",
+	"image": "zuanbr",
+	"type": "2-handed-equipment",
+	"dpr": 3,
+	"material": "metal",
+	"skill": "two-handed-swords",
+	"skills": {
+		"frenzy": 1,
+		"attack-power": 1
+	}
 }

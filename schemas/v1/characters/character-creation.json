@@ -1,225 +1,194 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/character-creation.json",
-    "type": "object",
-    "title": "CharacterCreation",
-    "oneOf": [
-        {
-            "type": "object",
-            "properties": {
-                "character": {
-                    "allOf": [
-                        {
-                            "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
-                        },
-                        {
-                            "type": "object",
-                            "properties": {
-                                "profession": {
-                                    "enum": [
-                                        "archer",
-                                        "caster",
-                                        "figher",
-                                        "healer",
-                                        "rogue",
-                                        "animator",
-                                        "farmer",
-                                        "inventor",
-                                        "salvager",
-                                        "hermit"
-                                    ]
-                                },
-                                "image": {
-                                    "$ref": "/schemas/v1/characters-creation-standard-images.gen.json"
-                                }
-                            },
-                            "required": [
-                                "profession",
-                                "image"
-                            ]
-                        }
-                    ]
-                },
-                "additionalArgs": {
-                    "$ref": "/schemas/v1/characters/creation/standard-additional-creation-args.json"
-                }
-            },
-            "required": [
-                "character",
-                "additionalArgs"
-            ],
-            "additionalProperties": false
-        },
-        {
-            "type": "object",
-            "properties": {
-                "character": {
-                    "allOf": [
-                        {
-                            "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
-                        },
-                        {
-                            "type": "object",
-                            "properties": {
-                                "sex": {
-                                    "const": "F"
-                                },
-                                "profession": {
-                                    "const": "hag"
-                                },
-                                "image": {
-                                    "$ref": "/schemas/v1/characters-creation-hag-images.gen.json"
-                                }
-                            },
-                            "required": [
-                                "sex",
-                                "profession",
-                                "image"
-                            ]
-                        }
-                    ]
-                }
-            },
-            "required": [
-                "character"
-            ],
-            "additionalProperties": false
-        },
-        {
-            "type": "object",
-            "properties": {
-                "character": {
-                    "allOf": [
-                        {
-                            "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
-                        },
-                        {
-                            "type": "object",
-                            "properties": {
-                                "profession": {
-                                    "const": "apprentice"
-                                }
-                            },
-                            "required": [
-                                "profession"
-                            ]
-                        }
-                    ]
-                }
-            },
-            "required": [
-                "character"
-            ],
-            "additionalProperties": false
-        },
-        {
-            "type": "object",
-            "properties": {
-                "character": {
-                    "allOf": [
-                        {
-                            "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
-                        },
-                        {
-                            "oneOf": [
-                                {
-                                    "type": "object",
-                                    "properties": {
-                                        "profession": {
-                                            "const": "navy-privateer"
-                                        },
-                                        "image": {
-                                            "oneOf": [
-                                                {
-                                                    "$ref": "/schemas/v1/characters-creation-uncharted-waters-navy-images.gen.json"
-                                                },
-                                                {
-                                                    "$ref": "/schemas/v1/characters-creation-standard-images.gen.json"
-                                                }
-                                            ]
-                                        }
-                                    },
-                                    "required": [
-                                        "profession",
-                                        "image"
-                                    ]
-                                },
-                                {
-                                    "type": "object",
-                                    "properties": {
-                                        "profession": {
-                                            "const": "league-privateer"
-                                        },
-                                        "image": {
-                                            "oneOf": [
-                                                {
-                                                    "$ref": "/schemas/v1/characters-creation-uncharted-waters-pirate-images.gen.json"
-                                                },
-                                                {
-                                                    "$ref": "/schemas/v1/characters-creation-standard-images.gen.json"
-                                                }
-                                            ]
-                                        }
-                                    },
-                                    "required": [
-                                        "profession",
-                                        "image"
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "additionalArgs": {
-                    "$ref": "/schemas/v1/characters/creation/uncharted-waters/uncharted-waters-creation-args.json"
-                }
-            },
-            "required": [
-                "character",
-                "additionalArgs"
-            ],
-            "additionalProperties": false
-        },
-        {
-            "type": "object",
-            "properties": {
-                "character": {
-                    "allOf": [
-                        {
-                            "$ref": "/schemas/v1/characters/creation/common-creation-args.json"
-                        },
-                        {
-                            "type": "object",
-                            "properties": {
-                                "profession": {
-                                    "const": "stargazer"
-                                },
-                                "image": {
-                                    "oneOf": [
-                                        {
-                                            "$ref": "/schemas/v1/characters-creation-stargazer-images.gen.json"
-                                        },
-                                        {
-                                            "$ref": "/schemas/v1/characters-creation-standard-images.gen.json"
-                                        }
-                                    ]
-                                }
-                            },
-                            "required": [
-                                "profession",
-                                "image"
-                            ]
-                        }
-                    ]
-                },
-                "additionalArgs": {
-                    "$ref": "/schemas/v1/characters/creation/stargazer-creation-args.json"
-                }
-            },
-            "required": [
-                "character",
-                "additionalArgs"
-            ],
-            "additionalProperties": false
-        }
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/character-creation.json",
+	"type": "object",
+	"title": "CharacterCreation",
+	"oneOf": [
+		{
+			"type": "object",
+			"properties": {
+				"character": {
+					"allOf": [
+						{
+							"$ref": "/schemas/v1/characters/creation/common-creation-args.json"
+						},
+						{
+							"type": "object",
+							"properties": {
+								"profession": {
+									"enum": [
+										"archer",
+										"caster",
+										"figher",
+										"healer",
+										"rogue",
+										"animator",
+										"farmer",
+										"inventor",
+										"salvager",
+										"hermit"
+									]
+								},
+								"image": {
+									"$ref": "/schemas/v1/characters-creation-standard-images.gen.json"
+								}
+							},
+							"required": ["profession", "image"]
+						}
+					]
+				},
+				"additionalArgs": {
+					"$ref": "/schemas/v1/characters/creation/standard-additional-creation-args.json"
+				}
+			},
+			"required": ["character", "additionalArgs"],
+			"additionalProperties": false
+		},
+		{
+			"type": "object",
+			"properties": {
+				"character": {
+					"allOf": [
+						{
+							"$ref": "/schemas/v1/characters/creation/common-creation-args.json"
+						},
+						{
+							"type": "object",
+							"properties": {
+								"sex": {
+									"const": "F"
+								},
+								"profession": {
+									"const": "hag"
+								},
+								"image": {
+									"$ref": "/schemas/v1/characters-creation-hag-images.gen.json"
+								}
+							},
+							"required": ["sex", "profession", "image"]
+						}
+					]
+				}
+			},
+			"required": ["character"],
+			"additionalProperties": false
+		},
+		{
+			"type": "object",
+			"properties": {
+				"character": {
+					"allOf": [
+						{
+							"$ref": "/schemas/v1/characters/creation/common-creation-args.json"
+						},
+						{
+							"type": "object",
+							"properties": {
+								"profession": {
+									"const": "apprentice"
+								}
+							},
+							"required": ["profession"]
+						}
+					]
+				}
+			},
+			"required": ["character"],
+			"additionalProperties": false
+		},
+		{
+			"type": "object",
+			"properties": {
+				"character": {
+					"allOf": [
+						{
+							"$ref": "/schemas/v1/characters/creation/common-creation-args.json"
+						},
+						{
+							"oneOf": [
+								{
+									"type": "object",
+									"properties": {
+										"profession": {
+											"const": "navy-privateer"
+										},
+										"image": {
+											"oneOf": [
+												{
+													"$ref": "/schemas/v1/characters-creation-uncharted-waters-navy-images.gen.json"
+												},
+												{
+													"$ref": "/schemas/v1/characters-creation-standard-images.gen.json"
+												}
+											]
+										}
+									},
+									"required": ["profession", "image"]
+								},
+								{
+									"type": "object",
+									"properties": {
+										"profession": {
+											"const": "league-privateer"
+										},
+										"image": {
+											"oneOf": [
+												{
+													"$ref": "/schemas/v1/characters-creation-uncharted-waters-pirate-images.gen.json"
+												},
+												{
+													"$ref": "/schemas/v1/characters-creation-standard-images.gen.json"
+												}
+											]
+										}
+									},
+									"required": ["profession", "image"]
+								}
+							]
+						}
+					]
+				},
+				"additionalArgs": {
+					"$ref": "/schemas/v1/characters/creation/uncharted-waters/uncharted-waters-creation-args.json"
+				}
+			},
+			"required": ["character", "additionalArgs"],
+			"additionalProperties": false
+		},
+		{
+			"type": "object",
+			"properties": {
+				"character": {
+					"allOf": [
+						{
+							"$ref": "/schemas/v1/characters/creation/common-creation-args.json"
+						},
+						{
+							"type": "object",
+							"properties": {
+								"profession": {
+									"const": "stargazer"
+								},
+								"image": {
+									"oneOf": [
+										{
+											"$ref": "/schemas/v1/characters-creation-stargazer-images.gen.json"
+										},
+										{
+											"$ref": "/schemas/v1/characters-creation-standard-images.gen.json"
+										}
+									]
+								}
+							},
+							"required": ["profession", "image"]
+						}
+					]
+				},
+				"additionalArgs": {
+					"$ref": "/schemas/v1/characters/creation/stargazer-creation-args.json"
+				}
+			},
+			"required": ["character", "additionalArgs"],
+			"additionalProperties": false
+		}
+	]
 }

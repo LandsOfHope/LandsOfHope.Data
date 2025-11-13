@@ -1,20 +1,20 @@
 {
-    "$type": "/v1/profession",
-    "id": "quarrier",
-    "name": {
-        "en": "Quarrier"
-    },
-    "desc": {
-        "en": "Quarrier. An expert at Quarrying rocks for stone."
-    },
-    "skills": {
-        "geology": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 3,
-        "STRENGTH": 3
-    }
+	"$type": "/v1/profession",
+	"id": "quarrier",
+	"name": {
+		"en": "Quarrier"
+	},
+	"desc": {
+		"en": "Quarrier. An expert at Quarrying rocks for stone."
+	},
+	"skills": {
+		"geology": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 3,
+		"STRENGTH": 3
+	}
 }

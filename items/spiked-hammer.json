@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "spiked-hammer",
-    "image": "shr",
-    "type": "2-handed-equipment",
-    "dpr": 10,
-    "material": "metal",
-    "skill": "pole-weapons",
-    "skills": {
-        "pole-weapons": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "spiked-hammer",
+	"image": "shr",
+	"type": "2-handed-equipment",
+	"dpr": 10,
+	"material": "metal",
+	"skill": "pole-weapons",
+	"skills": {
+		"pole-weapons": 1,
+		"attack-power": 1
+	}
 }

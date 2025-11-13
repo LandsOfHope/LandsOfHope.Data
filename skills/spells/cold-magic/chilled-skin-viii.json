@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "cold-magic/chilled-skin-viii",
-    "requirements": {
-        "skill": 1021,
-        "mana": 1021
-    },
-    "duration": 3,
-    "effects": {
-        "damage": 729,
-        "skills": {
-            "damage-absorption": 729
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "cold-magic/chilled-skin-viii",
+	"requirements": {
+		"skill": 1021,
+		"mana": 1021
+	},
+	"duration": 3,
+	"effects": {
+		"damage": 729,
+		"skills": {
+			"damage-absorption": 729
+		}
+	}
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"world","titles":{"500":"novice-trapper","2500":"adept-trapper","5000":"master-trapper"}}
+{
+	"$type": "/v1/skill",
+	"group": "world",
+	"titles": {
+		"500": "novice-trapper",
+		"2500": "adept-trapper",
+		"5000": "master-trapper"
+	}
+}

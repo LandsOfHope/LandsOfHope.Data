@@ -1,24 +1,24 @@
 {
-    "$type": "/v1/events/chat/rooms/chat-room-presence-event",
-    "participant": {
-        "$type": "/v1/chat/chat-participant",
-        "id": "chatpartid_TEST_PARTICIPANT_ID",
-        "appearance": {
-            "$type": "/v1/characters/appearance-profile",
-            "name": "Test",
-            "title": "rogue",
-            "image": "sohum1",
-            "level": {
-                "primary": 1
-            },
-            "sex": "M",
-            "status": {
-                "dead": false,
-                "jailed": false
-            }
-        },
-        "color": "ffffff"
-    },
-    "status": "exited",
-    "room": "CHAT_ROOM_ID"
+	"$type": "/v1/events/chat/rooms/chat-room-presence-event",
+	"participant": {
+		"$type": "/v1/chat/chat-participant",
+		"id": "chatpartid_TEST_PARTICIPANT_ID",
+		"appearance": {
+			"$type": "/v1/characters/appearance-profile",
+			"name": "Test",
+			"title": "rogue",
+			"image": "sohum1",
+			"level": {
+				"primary": 1
+			},
+			"sex": "M",
+			"status": {
+				"dead": false,
+				"jailed": false
+			}
+		},
+		"color": "ffffff"
+	},
+	"status": "exited",
+	"room": "CHAT_ROOM_ID"
 }

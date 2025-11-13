@@ -1,33 +1,33 @@
 {
-    "$type": "/v1/profession",
-    "id": "legendary-warrior",
-    "name": {
-        "en": "Legendary Warrior"
-    },
-    "desc": {
-        "en": "Bought extra pet Warrior class."
-    },
-    "skills": {
-        "health-regen": 5,
-        "daggers": 5,
-        "swords": 5,
-        "axes": 5,
-        "two-handed-axes": 5,
-        "maces": 5,
-        "two-handed-maces": 5,
-        "shields": 5,
-        "two-handed-shields": 5,
-        "dual-wielding": 5,
-        "two-handed-swords": 5,
-        "armor": 5,
-        "attack-power": 5,
-        "targeted-combat": 5,
-        "way-of-the-warrior": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 5,
-        "MAXSTAMINA": 5,
-        "STRENGTH": 4
-    }
+	"$type": "/v1/profession",
+	"id": "legendary-warrior",
+	"name": {
+		"en": "Legendary Warrior"
+	},
+	"desc": {
+		"en": "Bought extra pet Warrior class."
+	},
+	"skills": {
+		"health-regen": 5,
+		"daggers": 5,
+		"swords": 5,
+		"axes": 5,
+		"two-handed-axes": 5,
+		"maces": 5,
+		"two-handed-maces": 5,
+		"shields": 5,
+		"two-handed-shields": 5,
+		"dual-wielding": 5,
+		"two-handed-swords": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"targeted-combat": 5,
+		"way-of-the-warrior": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 5,
+		"MAXSTAMINA": 5,
+		"STRENGTH": 4
+	}
 }

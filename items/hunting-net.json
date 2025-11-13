@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "hunting-net",
-    "image": "hun",
-    "type": "ranged-weapon",
-    "dpr": 9,
-    "material": "cloth",
-    "skill": "thrown-weapons",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "hunting-net",
+	"image": "hun",
+	"type": "ranged-weapon",
+	"dpr": 9,
+	"material": "cloth",
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1
+	}
 }

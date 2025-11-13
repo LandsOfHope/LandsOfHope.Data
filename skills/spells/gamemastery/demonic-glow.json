@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/demonic-glow",
-    "requirements": {
-        "skill": 4635,
-        "mana": 33
-    },
-    "duration": "PT2000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 4000
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/demonic-glow",
+	"requirements": {
+		"skill": 4635,
+		"mana": 33
+	},
+	"duration": "PT2000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 4000
+		}
+	}
 }

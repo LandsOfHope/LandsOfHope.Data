@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/420-speed",
-    "requirements": {
-        "skill": 4200,
-        "level": 840,
-        "mana": 84
-    },
-    "duration": "PT60M",
-    "effects": {
-        "properties": {
-            "SPEED": 420
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/420-speed",
+	"requirements": {
+		"skill": 4200,
+		"level": 840,
+		"mana": 84
+	},
+	"duration": "PT60M",
+	"effects": {
+		"properties": {
+			"SPEED": 420
+		}
+	}
 }

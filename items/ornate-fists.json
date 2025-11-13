@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "ornate-fists",
-    "image": "ft2",
-    "type": "1-handed-equipment",
-    "dpr": 32,
-    "material": "metal",
-    "skill": "fists",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "ornate-fists",
+	"image": "ft2",
+	"type": "1-handed-equipment",
+	"dpr": 32,
+	"material": "metal",
+	"skill": "fists",
+	"skills": {
+		"attack-power": 1
+	}
 }

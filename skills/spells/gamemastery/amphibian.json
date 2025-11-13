@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/amphibian",
-    "requirements": {
-        "level": 10,
-        "mana": 10
-    },
-    "duration": "PT1440M",
-    "effects": {
-        "skills": {
-            "water-survival": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/amphibian",
+	"requirements": {
+		"level": 10,
+		"mana": 10
+	},
+	"duration": "PT1440M",
+	"effects": {
+		"skills": {
+			"water-survival": 100
+		}
+	}
 }

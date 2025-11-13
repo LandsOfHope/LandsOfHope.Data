@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "transformation/form-of-the-ladybird",
-    "requirements": {
-        "skill": 1,
-        "mana": 1
-    },
-    "duration": "PT1500M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 200
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "transformation/form-of-the-ladybird",
+	"requirements": {
+		"skill": 1,
+		"mana": 1
+	},
+	"duration": "PT1500M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 200
+		}
+	}
 }

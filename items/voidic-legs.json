@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "voidic-legs",
-    "image": "gmxlegv1",
-    "type": "leg-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "voidic-legs",
+	"image": "gmxlegv1",
+	"type": "leg-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1,
+		"attack-power": 1
+	}
 }

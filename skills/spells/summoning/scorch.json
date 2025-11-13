@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "summoning/scorch",
-    "requirements": {
-        "skill": 2418,
-        "mana": 2418
-    },
-    "effects": {
-        "summon-pet": {
-            "race": "cinder-beast",
-            "profession": "wild-animal"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "summoning/scorch",
+	"requirements": {
+		"skill": 2418,
+		"mana": 2418
+	},
+	"effects": {
+		"summon-pet": {
+			"race": "cinder-beast",
+			"profession": "wild-animal"
+		}
+	}
 }

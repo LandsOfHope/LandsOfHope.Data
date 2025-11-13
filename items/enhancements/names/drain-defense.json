@@ -1,9 +1,9 @@
 {
-    "$type": "/v1/items/enhancements/item-name",
-    "id": "names/drain-defense",
-    "effects": {
-        "skills": {
-            "drain-resistance": 0.5
-        }
-    }
+	"$type": "/v1/items/enhancements/item-name",
+	"id": "names/drain-defense",
+	"effects": {
+		"skills": {
+			"drain-resistance": 0.5
+		}
+	}
 }

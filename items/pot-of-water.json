@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "pot-of-water",
-    "image": "pw1",
-    "type": "1-handed-equipment",
-    "material": "gem",
-    "skill": "cooking",
-    "properties": {
-        "HITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "pot-of-water",
+	"image": "pw1",
+	"type": "1-handed-equipment",
+	"material": "gem",
+	"skill": "cooking",
+	"properties": {
+		"HITPOINTS": 1
+	}
 }

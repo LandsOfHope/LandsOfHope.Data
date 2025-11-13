@@ -1,23 +1,20 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-stripe-purchase.json",
-    "title": "CreditHistoryStripePurchase",
-    "type": "object",
-    "allOf": [
-        {
-            "$ref": "/schemas/v1/payments/credits/credit-history.json"
-        }
-    ],
-    "properties": {
-        "$type": {
-            "const": "/v1/payments/credits/credit-history-stripe-purchase"
-        },
-        "stripeId": {
-            "type": "string"
-        }
-    },
-    "required": [
-        "$type",
-        "stripeId"
-    ],
-    "additionalProperties": false
+	"$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-stripe-purchase.json",
+	"title": "CreditHistoryStripePurchase",
+	"type": "object",
+	"allOf": [
+		{
+			"$ref": "/schemas/v1/payments/credits/credit-history.json"
+		}
+	],
+	"properties": {
+		"$type": {
+			"const": "/v1/payments/credits/credit-history-stripe-purchase"
+		},
+		"stripeId": {
+			"type": "string"
+		}
+	},
+	"required": ["$type", "stripeId"],
+	"additionalProperties": false
 }

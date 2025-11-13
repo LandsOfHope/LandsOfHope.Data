@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "war-hatchet",
-    "image": "ax8",
-    "type": "1-handed-equipment",
-    "dpr": 3,
-    "material": "metal",
-    "skill": "axes",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "war-hatchet",
+	"image": "ax8",
+	"type": "1-handed-equipment",
+	"dpr": 3,
+	"material": "metal",
+	"skill": "axes",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

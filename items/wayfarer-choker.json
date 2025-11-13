@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "wayfarer-choker",
-    "image": "1991",
-    "type": "neck",
-    "material": "gem",
-    "properties": {
-        "DEXTERITY": 1
-    }
+	"$type": "/v1/item",
+	"id": "wayfarer-choker",
+	"image": "1991",
+	"type": "neck",
+	"material": "gem",
+	"properties": {
+		"DEXTERITY": 1
+	}
 }

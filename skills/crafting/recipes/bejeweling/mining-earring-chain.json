@@ -1,21 +1,21 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "bejeweling/mining-earring-chain",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-bejewel",
-        "item": "earring-enhancement",
-        "bejewel": "bejewels/mining-earring-chain"
-    },
-    "image": "bt2",
-    "time": "PT15S",
-    "quantity": 1,
-    "skill": "bejeweling",
-    "skillValue": 45,
-    "quality": "common",
-    "ingredients": [
-        {
-            "id": "pearl",
-            "quantity": 1
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "bejeweling/mining-earring-chain",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-bejewel",
+		"item": "earring-enhancement",
+		"bejewel": "bejewels/mining-earring-chain"
+	},
+	"image": "bt2",
+	"time": "PT15S",
+	"quantity": 1,
+	"skill": "bejeweling",
+	"skillValue": 45,
+	"quality": "common",
+	"ingredients": [
+		{
+			"id": "pearl",
+			"quantity": 1
+		}
+	]
 }

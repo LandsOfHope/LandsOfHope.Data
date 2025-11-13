@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/morphish-male-i",
-    "requirements": {
-        "skill": 154,
-        "mana": 154
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 78
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/morphish-male-i",
+	"requirements": {
+		"skill": 154,
+		"mana": 154
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 78
+		}
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "defensive-magic/electricity-shield-v",
-    "requirements": {
-        "skill": 253,
-        "mana": 253
-    },
-    "duration": "PT400M",
-    "effects": {
-        "skills": {
-            "energy-resistance": 141
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "defensive-magic/electricity-shield-v",
+	"requirements": {
+		"skill": 253,
+		"mana": 253
+	},
+	"duration": "PT400M",
+	"effects": {
+		"skills": {
+			"energy-resistance": 141
+		}
+	}
 }

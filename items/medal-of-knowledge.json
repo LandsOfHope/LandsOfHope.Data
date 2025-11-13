@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "medal-of-knowledge",
-    "image": "2212",
-    "type": "society-symbol",
-    "material": "metal",
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "medal-of-knowledge",
+	"image": "2212",
+	"type": "society-symbol",
+	"material": "metal",
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

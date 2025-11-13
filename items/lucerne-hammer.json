@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "lucerne-hammer",
-    "image": "1594",
-    "type": "2-handed-equipment",
-    "dpr": 9,
-    "material": "metal",
-    "skill": "two-handed-maces",
-    "skills": {
-        "two-handed-maces": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "lucerne-hammer",
+	"image": "1594",
+	"type": "2-handed-equipment",
+	"dpr": 9,
+	"material": "metal",
+	"skill": "two-handed-maces",
+	"skills": {
+		"two-handed-maces": 1,
+		"attack-power": 1
+	}
 }

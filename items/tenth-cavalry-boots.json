@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "tenth-cavalry-boots",
-    "image": "5047",
-    "type": "foot-armour",
-    "armorType": "leather",
-    "set": "tenth-cavalry",
-    "material": "hide",
-    "skills": {
-        "track-beasts": 1,
-        "armor": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "tenth-cavalry-boots",
+	"image": "5047",
+	"type": "foot-armour",
+	"armorType": "leather",
+	"set": "tenth-cavalry",
+	"material": "hide",
+	"skills": {
+		"track-beasts": 1,
+		"armor": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "blue-prizehunter-goggles",
-    "image": "6253",
-    "type": "glasses-shades",
-    "material": "gem",
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "blue-prizehunter-goggles",
+	"image": "6253",
+	"type": "glasses-shades",
+	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	}
 }

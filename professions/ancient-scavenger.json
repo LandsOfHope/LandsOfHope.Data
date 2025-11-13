@@ -1,25 +1,25 @@
 {
-    "$type": "/v1/profession",
-    "id": "ancient-scavenger",
-    "name": {
-        "en": "Ancient Scavenger"
-    },
-    "desc": {
-        "en": "4th Anniversary"
-    },
-    "skills": {
-        "daggers": 5,
-        "swords": 5,
-        "shields": 5,
-        "two-handed-swords": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 2,
-        "SPEED": 2,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "ancient-scavenger",
+	"name": {
+		"en": "Ancient Scavenger"
+	},
+	"desc": {
+		"en": "4th Anniversary"
+	},
+	"skills": {
+		"daggers": 5,
+		"swords": 5,
+		"shields": 5,
+		"two-handed-swords": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	}
 }

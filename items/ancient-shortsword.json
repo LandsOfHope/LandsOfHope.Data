@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "ancient-shortsword",
-    "image": "sw9",
-    "type": "1-handed-equipment",
-    "dpr": 9,
-    "material": "metal",
-    "skill": "swords",
-    "skills": {
-        "poison-resistance": 1,
-        "poison-magic": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "ancient-shortsword",
+	"image": "sw9",
+	"type": "1-handed-equipment",
+	"dpr": 9,
+	"material": "metal",
+	"skill": "swords",
+	"skills": {
+		"poison-resistance": 1,
+		"poison-magic": 1,
+		"attack-power": 1
+	}
 }

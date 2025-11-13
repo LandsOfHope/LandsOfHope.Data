@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/reliable-mana-loss",
-    "requirements": {
-        "skill": 985,
-        "mana": 985
-    },
-    "duration": "PT195M",
-    "effects": {
-        "properties": {
-            "MAXMANA": -491
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/reliable-mana-loss",
+	"requirements": {
+		"skill": 985,
+		"mana": 985
+	},
+	"duration": "PT195M",
+	"effects": {
+		"properties": {
+			"MAXMANA": -491
+		}
+	}
 }

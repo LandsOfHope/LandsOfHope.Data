@@ -1,78 +1,75 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/skills/crafting/recipe.json",
-    "title": "SkillsCraftingRecipe",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/skills/crafting/recipe"
-        },
-        "id": {
-            "$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
-        },
-        "makes": {
-            "$ref": "/schemas/v1/skills/crafting/recipe-product.json"
-        },
-        "image": {
-            "$ref": "/schemas/v1/items-images-id.gen.json"
-        },
-        "time": {
-            "$ref": "/schemas/v0/duration.json"
-        },
-        "quantity": {
-            "type": "integer",
-            "minimum": 1
-        },
-        "skill": {
-            "$ref": "/schemas/v1/skills-id.gen.json"
-        },
-        "skillValue": {
-            "type": "integer",
-            "minimum": 1
-        },
-        "quality": {
-            "$ref": "/schemas/v1/items/item-quality.json"
-        },
-        "singleUse": {
-            "const": true
-        },
-        "failureChance": {
-            "$ref": "/schemas/v1/random-chance.json"
-        },
-        "ingredients": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "id": {
-                        "$ref": "/schemas/v1/items-id.gen.json"
-                    },
-                    "quantity": {
-                        "type": "integer",
-                        "minimum": 0
-                    },
-                    "primary": {
-                        "const": true
-                    }
-                },
-                "required": [
-                    "id",
-                    "quantity"
-                ],
-                "additionalProperties": false
-            }
-        }
-    },
-    "required": [
-        "$type",
-        "id",
-        "image",
-        "makes",
-        "time",
-        "quantity",
-        "skill",
-        "skillValue",
-        "quality",
-        "ingredients"
-    ],
-    "additionalProperties": false
+	"$id": "https://data.landsofhope.com/schemas/v1/skills/crafting/recipe.json",
+	"title": "SkillsCraftingRecipe",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/skills/crafting/recipe"
+		},
+		"id": {
+			"$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
+		},
+		"makes": {
+			"$ref": "/schemas/v1/skills/crafting/recipe-product.json"
+		},
+		"image": {
+			"$ref": "/schemas/v1/items-images-id.gen.json"
+		},
+		"time": {
+			"$ref": "/schemas/v0/duration.json"
+		},
+		"quantity": {
+			"type": "integer",
+			"minimum": 1
+		},
+		"skill": {
+			"$ref": "/schemas/v1/skills-id.gen.json"
+		},
+		"skillValue": {
+			"type": "integer",
+			"minimum": 1
+		},
+		"quality": {
+			"$ref": "/schemas/v1/items/item-quality.json"
+		},
+		"singleUse": {
+			"const": true
+		},
+		"failureChance": {
+			"$ref": "/schemas/v1/random-chance.json"
+		},
+		"ingredients": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"id": {
+						"$ref": "/schemas/v1/items-id.gen.json"
+					},
+					"quantity": {
+						"type": "integer",
+						"minimum": 0
+					},
+					"primary": {
+						"const": true
+					}
+				},
+				"required": ["id", "quantity"],
+				"additionalProperties": false
+			}
+		}
+	},
+	"required": [
+		"$type",
+		"id",
+		"image",
+		"makes",
+		"time",
+		"quantity",
+		"skill",
+		"skillValue",
+		"quality",
+		"ingredients"
+	],
+	"additionalProperties": false
 }

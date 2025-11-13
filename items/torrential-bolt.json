@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "torrential-bolt",
-    "image": "arr1",
-    "type": "ammo-weapons-crossbows",
-    "dpr": 95,
-    "material": "wood",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "torrential-bolt",
+	"image": "arr1",
+	"type": "ammo-weapons-crossbows",
+	"dpr": 95,
+	"material": "wood",
+	"skills": {
+		"attack-power": 1
+	}
 }

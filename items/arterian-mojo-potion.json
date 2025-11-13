@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "arterian-mojo-potion",
-    "image": "gmarmop",
-    "type": "magic-potion",
-    "properties": {
-        "HITPOINTS": 5,
-        "MANA": 5
-    }
+	"$type": "/v1/item",
+	"id": "arterian-mojo-potion",
+	"image": "gmarmop",
+	"type": "magic-potion",
+	"properties": {
+		"HITPOINTS": 5,
+		"MANA": 5
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "obstruction",
-    "image": "gmobtt",
-    "type": "1-handed-equipment",
-    "dpr": 120,
-    "material": "metal",
-    "skill": "shields",
-    "skills": {
-        "armor": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "obstruction",
+	"image": "gmobtt",
+	"type": "1-handed-equipment",
+	"dpr": 120,
+	"material": "metal",
+	"skill": "shields",
+	"skills": {
+		"armor": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXSTAMINA": 1
+	}
 }

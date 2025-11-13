@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "cured-boots",
-    "image": "494",
-    "type": "foot-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "cured-boots",
+	"image": "494",
+	"type": "foot-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

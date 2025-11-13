@@ -1,22 +1,18 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/links/link.json",
-    "title": "Link",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/links/link"
-        },
-        "raw": {
-            "type": "string"
-        },
-        "href": {
-            "type": "string"
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "$type",
-        "raw",
-        "href"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/links/link.json",
+	"title": "Link",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/links/link"
+		},
+		"raw": {
+			"type": "string"
+		},
+		"href": {
+			"type": "string"
+		}
+	},
+	"additionalProperties": false,
+	"required": ["$type", "raw", "href"]
 }

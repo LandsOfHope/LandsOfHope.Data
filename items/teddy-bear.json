@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "teddy-bear",
-    "image": "888",
-    "type": "1-handed-equipment",
-    "material": "cloth",
-    "skills": {
-        "frenzy": 1,
-        "shields": 1
-    }
+	"$type": "/v1/item",
+	"id": "teddy-bear",
+	"image": "888",
+	"type": "1-handed-equipment",
+	"material": "cloth",
+	"skills": {
+		"frenzy": 1,
+		"shields": 1
+	}
 }

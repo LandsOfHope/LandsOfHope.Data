@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "aura-of-nobility",
-    "image": "6899",
-    "type": "aura",
-    "material": "gem",
-    "skills": {
-        "stamina-regen": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1.5
-    }
+	"$type": "/v1/item",
+	"id": "aura-of-nobility",
+	"image": "6899",
+	"type": "aura",
+	"material": "gem",
+	"skills": {
+		"stamina-regen": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1.5
+	}
 }

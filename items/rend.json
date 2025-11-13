@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "rend",
-    "image": "gmrede",
-    "type": "2-handed-equipment",
-    "dpr": 120,
-    "material": "metal",
-    "skill": "two-handed-axes",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "rend",
+	"image": "gmrede",
+	"type": "2-handed-equipment",
+	"dpr": 120,
+	"material": "metal",
+	"skill": "two-handed-axes",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

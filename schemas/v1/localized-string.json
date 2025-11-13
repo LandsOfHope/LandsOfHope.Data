@@ -1,13 +1,11 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/localized-string.json",
-    "title": "LocalizedString",
-    "type": "object",
-    "properties": {
-        "en": {
-            "type": "string"
-        }
-    },
-    "required": [
-        "en"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/localized-string.json",
+	"title": "LocalizedString",
+	"type": "object",
+	"properties": {
+		"en": {
+			"type": "string"
+		}
+	},
+	"required": ["en"]
 }

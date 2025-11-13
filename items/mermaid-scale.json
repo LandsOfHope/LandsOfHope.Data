@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "mermaid-scale",
-    "image": "scale02",
-    "type": "wrist-jewelry",
-    "material": "hide",
-    "skills": {
-        "water-survival": 1,
-        "water-resistance": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "mermaid-scale",
+	"image": "scale02",
+	"type": "wrist-jewelry",
+	"material": "hide",
+	"skills": {
+		"water-survival": 1,
+		"water-resistance": 1,
+		"armor": 1
+	}
 }

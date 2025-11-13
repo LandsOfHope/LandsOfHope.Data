@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "small-hunters-shield",
-    "image": "sd7",
-    "type": "1-handed-equipment",
-    "dpr": 22,
-    "material": "wood",
-    "skill": "shields",
-    "skills": {
-        "stringed-defense": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "small-hunters-shield",
+	"image": "sd7",
+	"type": "1-handed-equipment",
+	"dpr": 22,
+	"material": "wood",
+	"skill": "shields",
+	"skills": {
+		"stringed-defense": 1,
+		"armor": 1
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "deadmoon",
-    "image": "zudeam",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "material": "gem",
-    "skills": {
-        "mana-draining": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "deadmoon",
+	"image": "zudeam",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"material": "gem",
+	"skills": {
+		"mana-draining": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXMANA": 1
+	}
 }

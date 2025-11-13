@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "fist-of-unending-torment",
-    "image": "ft3",
-    "type": "1-handed-equipment",
-    "dpr": 4,
-    "material": "metal",
-    "skill": "fists",
-    "skills": {
-        "fists": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "fist-of-unending-torment",
+	"image": "ft3",
+	"type": "1-handed-equipment",
+	"dpr": 4,
+	"material": "metal",
+	"skill": "fists",
+	"skills": {
+		"fists": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

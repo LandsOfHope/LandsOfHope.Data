@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/honorable-blessing-potion",
-    "requirements": {
-        "level": 1,
-        "mana": 10
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 200
-        },
-        "skills": {
-            "armor": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/honorable-blessing-potion",
+	"requirements": {
+		"level": 1,
+		"mana": 10
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 200
+		},
+		"skills": {
+			"armor": 100
+		}
+	}
 }

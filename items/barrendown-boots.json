@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "barrendown-boots",
-    "image": "5668",
-    "type": "foot-armour",
-    "armorType": "mail",
-    "legendary": true,
-    "set": "barrendown-legend",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "barrendown-boots",
+	"image": "5668",
+	"type": "foot-armour",
+	"armorType": "mail",
+	"legendary": true,
+	"set": "barrendown-legend",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	}
 }

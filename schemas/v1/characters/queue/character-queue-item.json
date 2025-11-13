@@ -1,71 +1,71 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-item.json",
-    "title": "CharacterQueueItem",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/queue/character-queue-item"
-        },
-        "id": {
-            "$ref": "/schemas/v1/characters/queue/character-queue-item-id.json"
-        },
-        "character": {
-            "$ref": "/schemas/v1/characters/character-id.json"
-        },
-        "recipient": {
-            "$ref": "/schemas/v1/characters/character-id.json"
-        },
-        "makes": {
-            "title": "QueueItemProduct",
-            "oneOf": [
-                {
-                    "$ref": "/schemas/v1/characters/queue/character-queue-product-recipe.json"
-                },
-                {
-                    "$ref": "/schemas/v1/characters/queue/character-queue-product-pet.json"
-                },
-                {
-                    "$ref": "/schemas/v1/characters/queue/character-queue-product-deconstruction.json"
-                },
-                {
-                    "$ref": "/schemas/v1/characters/queue/character-queue-product-item.json"
-                }
-            ]
-        },
-        "quantity": {
-            "type": "integer"
-        },
-        "level": {
-            "type": "integer"
-        },
-        "xp": {
-            "type": "integer",
-            "minimum": 1
-        },
-        "started": {
-            "$ref": "/schemas/v0/datetime.json"
-        },
-        "finished": {
-            "$ref": "/schemas/v0/datetime.json"
-        },
-        "cancellable": {
-            "type": "boolean"
-        },
-        "bonus": {
-            "type": "boolean"
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "$type",
-        "id",
-        "character",
-        "makes",
-        "quantity",
-        "level",
-        "started",
-        "finished",
-        "cancellable",
-        "bonus"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-item.json",
+	"title": "CharacterQueueItem",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/queue/character-queue-item"
+		},
+		"id": {
+			"$ref": "/schemas/v1/characters/queue/character-queue-item-id.json"
+		},
+		"character": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"recipient": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"makes": {
+			"title": "QueueItemProduct",
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/characters/queue/character-queue-product-recipe.json"
+				},
+				{
+					"$ref": "/schemas/v1/characters/queue/character-queue-product-pet.json"
+				},
+				{
+					"$ref": "/schemas/v1/characters/queue/character-queue-product-deconstruction.json"
+				},
+				{
+					"$ref": "/schemas/v1/characters/queue/character-queue-product-item.json"
+				}
+			]
+		},
+		"quantity": {
+			"type": "integer"
+		},
+		"level": {
+			"type": "integer"
+		},
+		"xp": {
+			"type": "integer",
+			"minimum": 1
+		},
+		"started": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"finished": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"cancellable": {
+			"type": "boolean"
+		},
+		"bonus": {
+			"type": "boolean"
+		}
+	},
+	"additionalProperties": false,
+	"required": [
+		"$type",
+		"id",
+		"character",
+		"makes",
+		"quantity",
+		"level",
+		"started",
+		"finished",
+		"cancellable",
+		"bonus"
+	]
 }

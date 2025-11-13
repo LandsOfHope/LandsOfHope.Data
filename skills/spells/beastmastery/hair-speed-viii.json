@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "beastmastery/hair-speed-viii",
-    "requirements": {
-        "skill": 4335,
-        "mana": 2400
-    },
-    "duration": "PT125M",
-    "effects": {
-        "properties": {
-            "SPEED": 524
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "beastmastery/hair-speed-viii",
+	"requirements": {
+		"skill": 4335,
+		"mana": 2400
+	},
+	"duration": "PT125M",
+	"effects": {
+		"properties": {
+			"SPEED": 524
+		}
+	}
 }

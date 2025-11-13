@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "cadet-gloves",
-    "image": "2607",
-    "type": "hand-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "cadet-gloves",
+	"image": "2607",
+	"type": "hand-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

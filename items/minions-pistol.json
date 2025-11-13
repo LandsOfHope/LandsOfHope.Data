@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "minions-pistol",
-    "image": "pl1",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "material": "metal",
-    "skill": "hand-guns",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "minions-pistol",
+	"image": "pl1",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"material": "metal",
+	"skill": "hand-guns",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

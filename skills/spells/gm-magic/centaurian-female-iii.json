@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/centaurian-female-iii",
-    "requirements": {
-        "skill": 535,
-        "mana": 535
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "SPEED": 268
-        },
-        "skills": {
-            "armor": 268
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/centaurian-female-iii",
+	"requirements": {
+		"skill": 535,
+		"mana": 535
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"SPEED": 268
+		},
+		"skills": {
+			"armor": 268
+		}
+	}
 }

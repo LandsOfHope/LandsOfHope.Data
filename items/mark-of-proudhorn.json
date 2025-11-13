@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "mark-of-proudhorn",
-    "image": "zumapr",
-    "type": "exile-symbol",
-    "set": "myzan-defenders",
-    "material": "metal",
-    "skill": "myzan-defenders",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "mark-of-proudhorn",
+	"image": "zumapr",
+	"type": "exile-symbol",
+	"set": "myzan-defenders",
+	"material": "metal",
+	"skill": "myzan-defenders",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

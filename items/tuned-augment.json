@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "tuned-augment",
-    "image": "6869",
-    "type": "augment",
-    "material": "gem",
-    "properties": {
-        "MAXHITPOINTS": 1.2,
-        "STRENGTH": 0.65
-    }
+	"$type": "/v1/item",
+	"id": "tuned-augment",
+	"image": "6869",
+	"type": "augment",
+	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1.2,
+		"STRENGTH": 0.65
+	}
 }

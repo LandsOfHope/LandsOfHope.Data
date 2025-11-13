@@ -1,14 +1,14 @@
 {
-    "character": {
-        "$type": "/v1/characters/creation/common-creation-args",
-        "name": "Happy",
-        "sex": "M",
-        "profession": "stargazer",
-        "image": "starm1"
-    },
-    "additionalArgs": {
-        "$type": "/v1/characters/creation/stargazer-creation-args",
-        "constellation": "fox",
-        "skipTutorial": false
-    }
+	"character": {
+		"$type": "/v1/characters/creation/common-creation-args",
+		"name": "Happy",
+		"sex": "M",
+		"profession": "stargazer",
+		"image": "starm1"
+	},
+	"additionalArgs": {
+		"$type": "/v1/characters/creation/stargazer-creation-args",
+		"constellation": "fox",
+		"skipTutorial": false
+	}
 }

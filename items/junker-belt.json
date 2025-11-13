@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "junker-belt",
-    "image": "6876",
-    "type": "stomach",
-    "material": "metal",
-    "skill": "bolts-over-brains",
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "junker-belt",
+	"image": "6876",
+	"type": "stomach",
+	"material": "metal",
+	"skill": "bolts-over-brains",
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"STRENGTH": 1
+	}
 }

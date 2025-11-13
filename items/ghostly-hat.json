@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ghostly-hat",
-    "image": "2911",
-    "type": "head-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "ghostly-hat",
+	"image": "2911",
+	"type": "head-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

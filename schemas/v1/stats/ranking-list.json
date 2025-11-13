@@ -1,96 +1,92 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/stats/ranking-list.json",
-    "title": "RankingList",
-    "type": "object",
-    "oneOf": [
-        {
-            "properties": {
-                "$type": {
-                    "const": "/v1/stats/ranking-list"
-                },
-                "stat": {
-                    "const": "level"
-                },
-                "data": {
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "properties": {
-                            "name": {
-                                "$ref": "/schemas/v1/characters/character-name.json"
-                            },
-                            "level": {
-                                "type": "number"
-                            },
-                            "image": {
-                                "$ref": "/schemas/v1/characters-images-id.gen.json"
-                            }
-                        }
-                    }
-                }
-            },
-            "additionalProperties": false
-        },
-        {
-            "properties": {
-                "$type": {
-                    "const": "/v1/stats/ranking-list"
-                },
-                "stat": {
-                    "const": "strength"
-                },
-                "data": {
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "properties": {
-                            "name": {
-                                "$ref": "/schemas/v1/characters/character-name.json"
-                            },
-                            "strength": {
-                                "type": "integer"
-                            },
-                            "image": {
-                                "$ref": "/schemas/v1/characters-images-id.gen.json"
-                            }
-                        }
-                    }
-                }
-            },
-            "additionalProperties": false
-        },
-        {
-            "properties": {
-                "$type": {
-                    "const": "/v1/stats/ranking-list"
-                },
-                "stat": {
-                    "const": "intelligence"
-                },
-                "data": {
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "properties": {
-                            "name": {
-                                "$ref": "/schemas/v1/characters/character-name.json"
-                            },
-                            "intelligence": {
-                                "type": "integer"
-                            },
-                            "image": {
-                                "$ref": "/schemas/v1/characters-images-id.gen.json"
-                            }
-                        }
-                    }
-                }
-            },
-            "additionalProperties": false
-        }
-    ],
-    "required": [
-        "$type",
-        "stat",
-        "data"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/stats/ranking-list.json",
+	"title": "RankingList",
+	"type": "object",
+	"oneOf": [
+		{
+			"properties": {
+				"$type": {
+					"const": "/v1/stats/ranking-list"
+				},
+				"stat": {
+					"const": "level"
+				},
+				"data": {
+					"type": "array",
+					"items": {
+						"type": "object",
+						"properties": {
+							"name": {
+								"$ref": "/schemas/v1/characters/character-name.json"
+							},
+							"level": {
+								"type": "number"
+							},
+							"image": {
+								"$ref": "/schemas/v1/characters-images-id.gen.json"
+							}
+						}
+					}
+				}
+			},
+			"additionalProperties": false
+		},
+		{
+			"properties": {
+				"$type": {
+					"const": "/v1/stats/ranking-list"
+				},
+				"stat": {
+					"const": "strength"
+				},
+				"data": {
+					"type": "array",
+					"items": {
+						"type": "object",
+						"properties": {
+							"name": {
+								"$ref": "/schemas/v1/characters/character-name.json"
+							},
+							"strength": {
+								"type": "integer"
+							},
+							"image": {
+								"$ref": "/schemas/v1/characters-images-id.gen.json"
+							}
+						}
+					}
+				}
+			},
+			"additionalProperties": false
+		},
+		{
+			"properties": {
+				"$type": {
+					"const": "/v1/stats/ranking-list"
+				},
+				"stat": {
+					"const": "intelligence"
+				},
+				"data": {
+					"type": "array",
+					"items": {
+						"type": "object",
+						"properties": {
+							"name": {
+								"$ref": "/schemas/v1/characters/character-name.json"
+							},
+							"intelligence": {
+								"type": "integer"
+							},
+							"image": {
+								"$ref": "/schemas/v1/characters-images-id.gen.json"
+							}
+						}
+					}
+				}
+			},
+			"additionalProperties": false
+		}
+	],
+	"required": ["$type", "stat", "data"]
 }

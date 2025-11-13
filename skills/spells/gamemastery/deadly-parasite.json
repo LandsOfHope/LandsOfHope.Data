@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/deadly-parasite",
-    "requirements": {
-        "skill": 1037,
-        "mana": 1037
-    },
-    "duration": "PT210M",
-    "effects": {
-        "properties": {
-            "STRENGTH": -517
-        },
-        "skills": {
-            "attack-power": -517
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/deadly-parasite",
+	"requirements": {
+		"skill": 1037,
+		"mana": 1037
+	},
+	"duration": "PT210M",
+	"effects": {
+		"properties": {
+			"STRENGTH": -517
+		},
+		"skills": {
+			"attack-power": -517
+		}
+	}
 }

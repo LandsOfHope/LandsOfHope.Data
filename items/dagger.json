@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "dagger",
-    "image": "dg",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "material": "metal",
-    "skill": "daggers",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "dagger",
+	"image": "dg",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"material": "metal",
+	"skill": "daggers",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

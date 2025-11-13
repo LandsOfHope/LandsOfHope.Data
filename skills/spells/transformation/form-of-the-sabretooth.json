@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "transformation/form-of-the-sabretooth",
-    "requirements": {
-        "skill": 1,
-        "mana": 1
-    },
-    "duration": "PT1500M",
-    "effects": {
-        "properties": {
-            "SPEED": 200
-        },
-        "skills": {
-            "attack-power": 250
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "transformation/form-of-the-sabretooth",
+	"requirements": {
+		"skill": 1,
+		"mana": 1
+	},
+	"duration": "PT1500M",
+	"effects": {
+		"properties": {
+			"SPEED": 200
+		},
+		"skills": {
+			"attack-power": 250
+		}
+	}
 }

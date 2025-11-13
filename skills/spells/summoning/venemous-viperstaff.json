@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "summoning/venemous-viperstaff",
-    "requirements": {
-        "skill": 1498,
-        "mana": 1498
-    },
-    "duration": "PT225M",
-    "effects": {
-        "summon-item": {
-            "item": "venemous-viperstaff"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "summoning/venemous-viperstaff",
+	"requirements": {
+		"skill": 1498,
+		"mana": 1498
+	},
+	"duration": "PT225M",
+	"effects": {
+		"summon-item": {
+			"item": "venemous-viperstaff"
+		}
+	}
 }

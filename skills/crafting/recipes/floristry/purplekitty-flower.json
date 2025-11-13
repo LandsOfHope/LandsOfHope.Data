@@ -1,25 +1,25 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "floristry/purplekitty-flower",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "purplekitty-flower"
-    },
-    "image": "5758",
-    "time": "PT15S",
-    "quantity": 1,
-    "skill": "floristry",
-    "skillValue": 800,
-    "quality": "common",
-    "ingredients": [
-        {
-            "id": "flower-seed",
-            "quantity": 1
-        },
-        {
-            "id": "flower-pot",
-            "quantity": 1,
-            "primary": true
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "floristry/purplekitty-flower",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "purplekitty-flower"
+	},
+	"image": "5758",
+	"time": "PT15S",
+	"quantity": 1,
+	"skill": "floristry",
+	"skillValue": 800,
+	"quality": "common",
+	"ingredients": [
+		{
+			"id": "flower-seed",
+			"quantity": 1
+		},
+		{
+			"id": "flower-pot",
+			"quantity": 1,
+			"primary": true
+		}
+	]
 }

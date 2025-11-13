@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"thief","titles":{"500":"novice-slinker","2500":"adept-slinker","5000":"master-slinker"}}
+{
+	"$type": "/v1/skill",
+	"group": "thief",
+	"titles": {
+		"500": "novice-slinker",
+		"2500": "adept-slinker",
+		"5000": "master-slinker"
+	}
+}

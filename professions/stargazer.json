@@ -1,29 +1,29 @@
 {
-    "$type": "/v1/profession",
-    "id": "stargazer",
-    "name": {
-        "en": "Stargazer"
-    },
-    "desc": {
-        "en": "The Stargazer spends their time gazing intently up at the heavens, watching the stars and wondering what fate they might have in store for them."
-    },
-    "skills": {
-        "appraisal": 5,
-        "daggers": 5,
-        "fists": 5,
-        "celestial-magic": 5,
-        "armor": 5,
-        "attack-power": 5,
-        "celestial-weapons": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1,
-        "MAXSTAMINA": 1,
-        "SPEED": 1
-    },
-    "evo": {
-        "stardreamer": 50
-    }
+	"$type": "/v1/profession",
+	"id": "stargazer",
+	"name": {
+		"en": "Stargazer"
+	},
+	"desc": {
+		"en": "The Stargazer spends their time gazing intently up at the heavens, watching the stars and wondering what fate they might have in store for them."
+	},
+	"skills": {
+		"appraisal": 5,
+		"daggers": 5,
+		"fists": 5,
+		"celestial-magic": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"celestial-weapons": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1
+	},
+	"evo": {
+		"stardreamer": 50
+	}
 }

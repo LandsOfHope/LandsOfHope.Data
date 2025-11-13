@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "spiked-shoulders",
-    "image": "sss",
-    "type": "shoulders",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "spiked-shoulders",
+	"image": "sss",
+	"type": "shoulders",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

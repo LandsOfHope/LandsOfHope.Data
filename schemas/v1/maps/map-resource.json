@@ -1,26 +1,21 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/maps/map-resource.json",
-    "title": "MapResource",
-    "type": "object",
-    "properties": {
-        "resource": {
-            "$ref": "/schemas/v1/items-resources-id.gen.json"
-        },
-        "respawn": {
-            "$ref": "/schemas/v0/duration.json"
-        },
-        "level": {
-            "type": "integer"
-        },
-        "quantity": {
-            "type": "integer"
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "resource",
-        "respawn",
-        "level",
-        "quantity"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/maps/map-resource.json",
+	"title": "MapResource",
+	"type": "object",
+	"properties": {
+		"resource": {
+			"$ref": "/schemas/v1/items-resources-id.gen.json"
+		},
+		"respawn": {
+			"$ref": "/schemas/v0/duration.json"
+		},
+		"level": {
+			"type": "integer"
+		},
+		"quantity": {
+			"type": "integer"
+		}
+	},
+	"additionalProperties": false,
+	"required": ["resource", "respawn", "level", "quantity"]
 }

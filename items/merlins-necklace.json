@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "merlins-necklace",
-    "image": "6919",
-    "type": "neck",
-    "set": "arthurian-set",
-    "material": "gem",
-    "properties": {
-        "DEXTERITY": 0.7,
-        "INTELLIGENCE": 1.2,
-        "MAXHITPOINTS": 1.2,
-        "SPEED": 0.7
-    }
+	"$type": "/v1/item",
+	"id": "merlins-necklace",
+	"image": "6919",
+	"type": "neck",
+	"set": "arthurian-set",
+	"material": "gem",
+	"properties": {
+		"DEXTERITY": 0.7,
+		"INTELLIGENCE": 1.2,
+		"MAXHITPOINTS": 1.2,
+		"SPEED": 0.7
+	}
 }

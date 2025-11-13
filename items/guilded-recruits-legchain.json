@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-recruits-legchain",
-    "image": "3737",
-    "type": "leg-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-recruits-legchain",
+	"image": "3737",
+	"type": "leg-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

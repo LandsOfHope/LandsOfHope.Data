@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "fruitcake",
-    "image": "zufrai",
-    "type": "food",
-    "material": "berry",
-    "properties": {
-        "MANA": 2
-    }
+	"$type": "/v1/item",
+	"id": "fruitcake",
+	"image": "zufrai",
+	"type": "food",
+	"material": "berry",
+	"properties": {
+		"MANA": 2
+	}
 }

@@ -1,38 +1,38 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v0/fights/fight-session.json",
-    "title": "FightSession",
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {
-        "$type": {
-            "const": "/v0/fights/fight-session"
-        },
-        "id": {
-            "$ref": "/schemas/v0/fights/fight-session-id.json"
-        },
-        "leftF": {
-            "type": "integer"
-        },
-        "rightF": {
-            "type": "integer"
-        },
-        "sessionDateTime": {
-            "$ref": "/schemas/v0/datetime.json"
-        },
-        "sessionStarter": {
-            "type": "integer"
-        },
-        "monsterFight": {
-            "type": "boolean"
-        }
-    },
-    "required": [
-        "$type",
-        "id",
-        "leftF",
-        "rightF",
-        "sessionDateTime",
-        "sessionStarter",
-        "monsterFight"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v0/fights/fight-session.json",
+	"title": "FightSession",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v0/fights/fight-session"
+		},
+		"id": {
+			"$ref": "/schemas/v0/fights/fight-session-id.json"
+		},
+		"leftF": {
+			"type": "integer"
+		},
+		"rightF": {
+			"type": "integer"
+		},
+		"sessionDateTime": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"sessionStarter": {
+			"type": "integer"
+		},
+		"monsterFight": {
+			"type": "boolean"
+		}
+	},
+	"required": [
+		"$type",
+		"id",
+		"leftF",
+		"rightF",
+		"sessionDateTime",
+		"sessionStarter",
+		"monsterFight"
+	]
 }

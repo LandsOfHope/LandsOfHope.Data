@@ -1,24 +1,24 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-imprinted.json",
-    "title": "EnhancedImprinted",
-    "type": "object",
-    "properties": {
-        "enhancements": {
-            "type": "array",
-            "contains": {
-                "const": "imprinted"
-            }
-        },
-        "imprint": {
-            "oneOf": [
-                {
-                    "$ref": "/schemas/v1/items/enhancements/imprints-items-enhancements-id.gen.json"
-                },
-                {
-                    "$ref": "/schemas/v1/items/enhancements/item-imprint.json"
-                }
-            ]
-        }
-    },
-    "required": ["enhancements", "imprint"]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-imprinted.json",
+	"title": "EnhancedImprinted",
+	"type": "object",
+	"properties": {
+		"enhancements": {
+			"type": "array",
+			"contains": {
+				"const": "imprinted"
+			}
+		},
+		"imprint": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/items/enhancements/imprints-items-enhancements-id.gen.json"
+				},
+				{
+					"$ref": "/schemas/v1/items/enhancements/item-imprint.json"
+				}
+			]
+		}
+	},
+	"required": ["enhancements", "imprint"]
 }

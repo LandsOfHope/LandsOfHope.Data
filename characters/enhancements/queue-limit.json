@@ -1,26 +1,26 @@
 {
-    "$type": "/v0/characters/character-enhancement",
-    "max": 100,
-    "levels": {
-        "5": {
-            "value": 5,
-            "hc": 1
-        },
-        "10": {
-            "value": 10,
-            "hc": 2
-        },
-        "25": {
-            "value": 25,
-            "hc": 5
-        },
-        "50": {
-            "value": 50,
-            "hc": 10
-        },
-        "100": {
-            "value": 100,
-            "hc": 20
-        }
-    }
+	"$type": "/v0/characters/character-enhancement",
+	"max": 100,
+	"levels": {
+		"5": {
+			"value": 5,
+			"hc": 1
+		},
+		"10": {
+			"value": 10,
+			"hc": 2
+		},
+		"25": {
+			"value": 25,
+			"hc": 5
+		},
+		"50": {
+			"value": 50,
+			"hc": 10
+		},
+		"100": {
+			"value": 100,
+			"hc": 20
+		}
+	}
 }

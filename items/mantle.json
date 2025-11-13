@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "mantle",
-    "image": "mle",
-    "type": "chest-armour",
-    "armorType": "cloth",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "mantle",
+	"image": "mle",
+	"type": "chest-armour",
+	"armorType": "cloth",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXMANA": 1
+	}
 }

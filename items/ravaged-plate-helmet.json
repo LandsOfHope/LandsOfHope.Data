@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ravaged-plate-helmet",
-    "image": "gmraplhe",
-    "type": "head-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "ravaged-plate-helmet",
+	"image": "gmraplhe",
+	"type": "head-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

@@ -1,8 +1,5 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/payments/subscriptions/subscription-status.json",
-    "title": "SubscriptionStatus",
-    "enum": [
-        "active",
-        "inactive"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/payments/subscriptions/subscription-status.json",
+	"title": "SubscriptionStatus",
+	"enum": ["active", "inactive"]
 }

@@ -1,28 +1,28 @@
 {
-    "$type": "/v1/profession",
-    "id": "guard-mage",
-    "name": {
-        "en": "Guard Mage"
-    },
-    "desc": {
-        "en": "Guard Mage"
-    },
-    "skills": {
-        "fire-magic": 5,
-        "mystical-magic": 5,
-        "mystical-resistance": 5,
-        "air-resistance": 5,
-        "mana-draining": 5,
-        "fire-resistance": 5,
-        "air-magic": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 5,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 5,
-        "SPEED": 2,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/profession",
+	"id": "guard-mage",
+	"name": {
+		"en": "Guard Mage"
+	},
+	"desc": {
+		"en": "Guard Mage"
+	},
+	"skills": {
+		"fire-magic": 5,
+		"mystical-magic": 5,
+		"mystical-resistance": 5,
+		"air-resistance": 5,
+		"mana-draining": 5,
+		"fire-resistance": 5,
+		"air-magic": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 5,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 5,
+		"SPEED": 2,
+		"STRENGTH": 1
+	}
 }

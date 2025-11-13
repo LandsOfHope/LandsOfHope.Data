@@ -1,21 +1,21 @@
 {
-    "$type": "/v1/profession",
-    "id": "star-catcher",
-    "name": {
-        "en": "Star Catcher"
-    },
-    "desc": {
-        "en": "The Star Catcher is a Tier III evolution from the Stargazer Profession via Stardreamer > Starchaser while keeping all of the Starchasers abilities the Star Catcher can also choose an additional constellation."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 3,
-        "MAXSTAMINA": 3,
-        "SPEED": 3
-    }
+	"$type": "/v1/profession",
+	"id": "star-catcher",
+	"name": {
+		"en": "Star Catcher"
+	},
+	"desc": {
+		"en": "The Star Catcher is a Tier III evolution from the Stargazer Profession via Stardreamer > Starchaser while keeping all of the Starchasers abilities the Star Catcher can also choose an additional constellation."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 3,
+		"MAXSTAMINA": 3,
+		"SPEED": 3
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/change-into-an-ice-troll",
-    "requirements": {
-        "skill": 994,
-        "mana": 994
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 498
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/change-into-an-ice-troll",
+	"requirements": {
+		"skill": 994,
+		"mana": 994
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 498
+		}
+	}
 }

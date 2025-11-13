@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "devilish-hat",
-    "image": "2913",
-    "type": "head-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "devilish-hat",
+	"image": "2913",
+	"type": "head-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

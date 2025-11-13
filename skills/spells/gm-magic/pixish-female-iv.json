@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/pixish-female-iv",
-    "requirements": {
-        "skill": 649,
-        "mana": 649
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 325
-        },
-        "skills": {
-            "air-survival": 325
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/pixish-female-iv",
+	"requirements": {
+		"skill": 649,
+		"mana": 649
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 325
+		},
+		"skills": {
+			"air-survival": 325
+		}
+	}
 }

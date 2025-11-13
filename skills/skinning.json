@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"gathering","titles":{"500":"novice-skinner","2500":"adept-skinner","5000":"master-skinner"}}
+{
+	"$type": "/v1/skill",
+	"group": "gathering",
+	"titles": {
+		"500": "novice-skinner",
+		"2500": "adept-skinner",
+		"5000": "master-skinner"
+	}
+}

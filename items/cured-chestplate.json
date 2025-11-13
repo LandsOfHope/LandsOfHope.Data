@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "cured-chestplate",
-    "image": "492",
-    "type": "chest-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "cured-chestplate",
+	"image": "492",
+	"type": "chest-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

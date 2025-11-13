@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "darksoul",
-    "image": "fedaro",
-    "type": "2-handed-equipment",
-    "dpr": 6,
-    "material": "metal",
-    "skill": "two-handed-axes",
-    "skills": {
-        "two-handed-axes": 1,
-        "attack-power": 1,
-        "dark-magic": 1
-    }
+	"$type": "/v1/item",
+	"id": "darksoul",
+	"image": "fedaro",
+	"type": "2-handed-equipment",
+	"dpr": 6,
+	"material": "metal",
+	"skill": "two-handed-axes",
+	"skills": {
+		"two-handed-axes": 1,
+		"attack-power": 1,
+		"dark-magic": 1
+	}
 }

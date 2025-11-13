@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "haggard-trousers",
-    "image": "ptro6",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "haggard-trousers",
+	"image": "ptro6",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/35-intelligence",
-    "requirements": {
-        "skill": 350,
-        "level": 70,
-        "mana": 7
-    },
-    "duration": "PT60M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 35
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/35-intelligence",
+	"requirements": {
+		"skill": 350,
+		"level": 70,
+		"mana": 7
+	},
+	"duration": "PT60M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 35
+		}
+	}
 }

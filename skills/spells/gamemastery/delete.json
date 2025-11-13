@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/delete",
-    "requirements": {
-        "skill": 49,
-        "mana": 49
-    },
-    "duration": "PT80M",
-    "effects": {
-        "skills": {
-            "fire-survival": 25
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/delete",
+	"requirements": {
+		"skill": 49,
+		"mana": 49
+	},
+	"duration": "PT80M",
+	"effects": {
+		"skills": {
+			"fire-survival": 25
+		}
+	}
 }

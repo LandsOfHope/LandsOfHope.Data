@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/gorgon-female-iv",
-    "requirements": {
-        "skill": 853,
-        "mana": 853
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 427
-        },
-        "skills": {
-            "poison-resistance": 427
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/gorgon-female-iv",
+	"requirements": {
+		"skill": 853,
+		"mana": 853
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 427
+		},
+		"skills": {
+			"poison-resistance": 427
+		}
+	}
 }

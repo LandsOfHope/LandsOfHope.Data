@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "halberd-of-virtue-trollcutter",
-    "image": "1623",
-    "type": "2-handed-equipment",
-    "dpr": 4,
-    "material": "metal",
-    "skill": "pole-weapons",
-    "skills": {
-        "h2h-defense": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "halberd-of-virtue-trollcutter",
+	"image": "1623",
+	"type": "2-handed-equipment",
+	"dpr": 4,
+	"material": "metal",
+	"skill": "pole-weapons",
+	"skills": {
+		"h2h-defense": 1,
+		"attack-power": 1
+	}
 }

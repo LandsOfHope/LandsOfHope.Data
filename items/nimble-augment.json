@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "nimble-augment",
-    "image": "6822",
-    "type": "augment",
-    "material": "gem",
-    "properties": {
-        "DEXTERITY": 1.1,
-        "SPEED": 1.1
-    }
+	"$type": "/v1/item",
+	"id": "nimble-augment",
+	"image": "6822",
+	"type": "augment",
+	"material": "gem",
+	"properties": {
+		"DEXTERITY": 1.1,
+		"SPEED": 1.1
+	}
 }

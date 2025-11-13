@@ -1,20 +1,20 @@
 {
-    "$type": "/v1/profession",
-    "id": "guild-promoter",
-    "name": {
-        "en": "Guild Promoter"
-    },
-    "desc": {
-        "en": "The leader of a guild."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 2,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "guild-promoter",
+	"name": {
+		"en": "Guild Promoter"
+	},
+	"desc": {
+		"en": "The leader of a guild."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 2,
+		"STRENGTH": 2
+	}
 }

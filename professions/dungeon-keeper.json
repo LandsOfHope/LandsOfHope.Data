@@ -1,23 +1,23 @@
 {
-    "$type": "/v1/profession",
-    "id": "dungeon-keeper",
-    "name": {
-        "en": "Dungeon Keeper"
-    },
-    "desc": {
-        "en": "Master of Dungeons"
-    },
-    "skills": {
-        "dungeon-mastery": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 1,
-        "MAXSTAMINA": 3,
-        "SPEED": 1
-    }
+	"$type": "/v1/profession",
+	"id": "dungeon-keeper",
+	"name": {
+		"en": "Dungeon Keeper"
+	},
+	"desc": {
+		"en": "Master of Dungeons"
+	},
+	"skills": {
+		"dungeon-mastery": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 3,
+		"SPEED": 1
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/little-spout",
-    "requirements": {
-        "skill": 17,
-        "mana": 17
-    },
-    "effects": {
-        "summon-pet": {
-            "race": "water-wisp",
-            "profession": "creature"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/little-spout",
+	"requirements": {
+		"skill": 17,
+		"mana": 17
+	},
+	"effects": {
+		"summon-pet": {
+			"race": "water-wisp",
+			"profession": "creature"
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-    "$type": "/v1/profession",
-    "id": "majestic-thief",
-    "name": {
-        "en": "Majestic Thief"
-    },
-    "desc": {
-        "en": "Bought extra pet Thief class."
-    },
-    "skills": {
-        "stealth": 5,
-        "stealing": 5,
-        "lockpicking": 5,
-        "daggers": 5,
-        "swords": 5,
-        "dual-wielding": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 3,
-        "SPEED": 3,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/profession",
+	"id": "majestic-thief",
+	"name": {
+		"en": "Majestic Thief"
+	},
+	"desc": {
+		"en": "Bought extra pet Thief class."
+	},
+	"skills": {
+		"stealth": 5,
+		"stealing": 5,
+		"lockpicking": 5,
+		"daggers": 5,
+		"swords": 5,
+		"dual-wielding": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 3,
+		"SPEED": 3,
+		"STRENGTH": 1
+	}
 }

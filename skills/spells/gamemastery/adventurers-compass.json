@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/adventurers-compass",
-    "requirements": {
-        "level": 1,
-        "mana": 1
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "exploration": 5000
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/adventurers-compass",
+	"requirements": {
+		"level": 1,
+		"mana": 1
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"exploration": 5000
+		}
+	}
 }

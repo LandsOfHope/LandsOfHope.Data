@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "fire-magic/evaporation-ii",
-    "requirements": {
-        "skill": 541,
-        "mana": 541
-    },
-    "duration": "PT30M",
-    "effects": {
-        "skills": {
-            "fire-resistance": -269
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "fire-magic/evaporation-ii",
+	"requirements": {
+		"skill": 541,
+		"mana": 541
+	},
+	"duration": "PT30M",
+	"effects": {
+		"skills": {
+			"fire-resistance": -269
+		}
+	}
 }

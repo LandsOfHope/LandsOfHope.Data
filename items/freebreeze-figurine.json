@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "freebreeze-figurine",
-    "image": "relic7",
-    "type": "special-slot",
-    "material": "metal",
-    "skill": "archaeology",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "freebreeze-figurine",
+	"image": "relic7",
+	"type": "special-slot",
+	"material": "metal",
+	"skill": "archaeology",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

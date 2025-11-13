@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "healing-magic/stronger-drain-shield",
-    "requirements": {
-        "skill": 4369,
-        "mana": 4369
-    },
-    "duration": "PT2160M",
-    "effects": {
-        "skills": {
-            "drain-resistance": 396
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "healing-magic/stronger-drain-shield",
+	"requirements": {
+		"skill": 4369,
+		"mana": 4369
+	},
+	"duration": "PT2160M",
+	"effects": {
+		"skills": {
+			"drain-resistance": 396
+		}
+	}
 }

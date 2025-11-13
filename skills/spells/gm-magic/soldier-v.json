@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/soldier-v",
-    "requirements": {
-        "skill": 835,
-        "mana": 835
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 418
-        },
-        "skills": {
-            "propelled": 418
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/soldier-v",
+	"requirements": {
+		"skill": 835,
+		"mana": 835
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 418
+		},
+		"skills": {
+			"propelled": 418
+		}
+	}
 }

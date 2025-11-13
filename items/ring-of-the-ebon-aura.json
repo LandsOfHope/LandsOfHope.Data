@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-the-ebon-aura",
-    "image": "ring11",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "armor": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-the-ebon-aura",
+	"image": "ring11",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"armor": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

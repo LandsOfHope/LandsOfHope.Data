@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "bargaining-hood",
-    "image": "bh",
-    "type": "neck-clothing",
-    "armorType": "cloth",
-    "material": "cloth",
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "bargaining-hood",
+	"image": "bh",
+	"type": "neck-clothing",
+	"armorType": "cloth",
+	"material": "cloth",
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

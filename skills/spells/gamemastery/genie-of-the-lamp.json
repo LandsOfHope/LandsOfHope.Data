@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/genie-of-the-lamp",
-    "requirements": {
-        "skill": 1,
-        "mana": 1
-    },
-    "effects": {
-        "summon-pet": {
-            "race": "genie",
-            "profession": "djinn"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/genie-of-the-lamp",
+	"requirements": {
+		"skill": 1,
+		"mana": 1
+	},
+	"effects": {
+		"summon-pet": {
+			"race": "genie",
+			"profession": "djinn"
+		}
+	}
 }

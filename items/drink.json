@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "drink",
-    "image": "zudrir",
-    "type": "food",
-    "material": "berry",
-    "properties": {
-        "MANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "drink",
+	"image": "zudrir",
+	"type": "food",
+	"material": "berry",
+	"properties": {
+		"MANA": 1
+	}
 }

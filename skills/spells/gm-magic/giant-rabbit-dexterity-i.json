@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/giant-rabbit-dexterity-i",
-    "requirements": {
-        "skill": 99,
-        "mana": 99
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "DEXTERITY": 50
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/giant-rabbit-dexterity-i",
+	"requirements": {
+		"skill": 99,
+		"mana": 99
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"DEXTERITY": 50
+		}
+	}
 }

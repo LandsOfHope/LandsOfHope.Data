@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/drakish-female-ii",
-    "requirements": {
-        "skill": 367,
-        "mana": 367
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXSTAMINA": 184
-        },
-        "skills": {
-            "armor": 184
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/drakish-female-ii",
+	"requirements": {
+		"skill": 367,
+		"mana": 367
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXSTAMINA": 184
+		},
+		"skills": {
+			"armor": 184
+		}
+	}
 }

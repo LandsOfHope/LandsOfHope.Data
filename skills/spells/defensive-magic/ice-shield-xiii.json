@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "defensive-magic/ice-shield-xiii",
-    "requirements": {
-        "skill": 603,
-        "mana": 603
-    },
-    "duration": "PT715M",
-    "effects": {
-        "skills": {
-            "cold-resistance": 316
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "defensive-magic/ice-shield-xiii",
+	"requirements": {
+		"skill": 603,
+		"mana": 603
+	},
+	"duration": "PT715M",
+	"effects": {
+		"skills": {
+			"cold-resistance": 316
+		}
+	}
 }

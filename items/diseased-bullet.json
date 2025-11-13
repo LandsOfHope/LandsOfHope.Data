@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "diseased-bullet",
-    "image": "zudibu",
-    "type": "ammo-weapons-bullets",
-    "dpr": 9,
-    "material": "metal",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "diseased-bullet",
+	"image": "zudibu",
+	"type": "ammo-weapons-bullets",
+	"dpr": 9,
+	"material": "metal",
+	"skills": {
+		"attack-power": 1
+	}
 }

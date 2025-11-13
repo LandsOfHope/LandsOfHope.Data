@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/water-survival",
-    "requirements": {
-        "skill": 91,
-        "mana": 91
-    },
-    "duration": "PT30M",
-    "effects": {
-        "skills": {
-            "water-survival": 200
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/water-survival",
+	"requirements": {
+		"skill": 91,
+		"mana": 91
+	},
+	"duration": "PT30M",
+	"effects": {
+		"skills": {
+			"water-survival": 200
+		}
+	}
 }

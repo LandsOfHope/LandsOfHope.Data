@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "divine-fury/mark-of-the-resilient-iii",
-    "requirements": {
-        "skill": 3550,
-        "mana": 590
-    },
-    "duration": "PT120M",
-    "effects": {
-        "skills": {
-            "arcane-resistance": -300
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "divine-fury/mark-of-the-resilient-iii",
+	"requirements": {
+		"skill": 3550,
+		"mana": 590
+	},
+	"duration": "PT120M",
+	"effects": {
+		"skills": {
+			"arcane-resistance": -300
+		}
+	}
 }

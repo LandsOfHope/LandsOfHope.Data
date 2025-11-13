@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "defensive-magic/earth-shield-x",
-    "requirements": {
-        "skill": 799,
-        "mana": 799
-    },
-    "duration": "PT750M",
-    "effects": {
-        "skills": {
-            "earth-resistance": 414
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "defensive-magic/earth-shield-x",
+	"requirements": {
+		"skill": 799,
+		"mana": 799
+	},
+	"duration": "PT750M",
+	"effects": {
+		"skills": {
+			"earth-resistance": 414
+		}
+	}
 }

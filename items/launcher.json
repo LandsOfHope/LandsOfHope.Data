@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "launcher",
-    "image": "4634",
-    "type": "ranged-weapon",
-    "dpr": 70,
-    "material": "metal",
-    "skill": "heavy-munitions",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "launcher",
+	"image": "4634",
+	"type": "ranged-weapon",
+	"dpr": 70,
+	"material": "metal",
+	"skill": "heavy-munitions",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

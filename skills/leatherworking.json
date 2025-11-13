@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"crafting","titles":{"500":"novice-leatherworker","2500":"adept-leatherworker","5000":"master-leatherworker"}}
+{
+	"$type": "/v1/skill",
+	"group": "crafting",
+	"titles": {
+		"500": "novice-leatherworker",
+		"2500": "adept-leatherworker",
+		"5000": "master-leatherworker"
+	}
+}

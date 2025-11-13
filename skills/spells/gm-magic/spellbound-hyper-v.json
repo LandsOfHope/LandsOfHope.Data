@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/spellbound-hyper-v",
-    "requirements": {
-        "skill": 2200,
-        "mana": 5
-    },
-    "duration": "PT50000M",
-    "effects": {
-        "properties": {
-            "SPEED": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/spellbound-hyper-v",
+	"requirements": {
+		"skill": 2200,
+		"mana": 5
+	},
+	"duration": "PT50000M",
+	"effects": {
+		"properties": {
+			"SPEED": 100
+		}
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "hell-magic/cerberus",
-    "requirements": {
-        "skill": 121,
-        "mana": 121
-    },
-    "duration": "PT20M",
-    "effects": {
-        "summon-pet": {
-            "race": "cerberus",
-            "profession": "creature"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "hell-magic/cerberus",
+	"requirements": {
+		"skill": 121,
+		"mana": 121
+	},
+	"duration": "PT20M",
+	"effects": {
+		"summon-pet": {
+			"race": "cerberus",
+			"profession": "creature"
+		}
+	}
 }

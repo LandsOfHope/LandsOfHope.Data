@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "healing-magic/life-drain-xiii",
-    "requirements": {
-        "skill": 1876,
-        "mana": 1876
-    },
-    "duration": "PT25M",
-    "effects": {
-        "damage": 1328,
-        "properties": {
-            "HITPOINTS": 943
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "healing-magic/life-drain-xiii",
+	"requirements": {
+		"skill": 1876,
+		"mana": 1876
+	},
+	"duration": "PT25M",
+	"effects": {
+		"damage": 1328,
+		"properties": {
+			"HITPOINTS": 943
+		}
+	}
 }

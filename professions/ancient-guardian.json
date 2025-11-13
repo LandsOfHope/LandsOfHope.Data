@@ -1,26 +1,26 @@
 {
-    "$type": "/v1/profession",
-    "id": "ancient-guardian",
-    "name": {
-        "en": "Ancient Guardian"
-    },
-    "desc": {
-        "en": "An ancient guardian"
-    },
-    "skills": {
-        "divine-fury": 5,
-        "mana-draining": 5,
-        "earth-resistance": 5,
-        "two-handed-staves": 5,
-        "earth-magic": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 6,
-        "MAXHITPOINTS": 6,
-        "MAXMANA": 3,
-        "MAXSTAMINA": 1,
-        "SPEED": 3
-    }
+	"$type": "/v1/profession",
+	"id": "ancient-guardian",
+	"name": {
+		"en": "Ancient Guardian"
+	},
+	"desc": {
+		"en": "An ancient guardian"
+	},
+	"skills": {
+		"divine-fury": 5,
+		"mana-draining": 5,
+		"earth-resistance": 5,
+		"two-handed-staves": 5,
+		"earth-magic": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 6,
+		"MAXHITPOINTS": 6,
+		"MAXMANA": 3,
+		"MAXSTAMINA": 1,
+		"SPEED": 3
+	}
 }

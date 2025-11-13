@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "headband-of-nimbleness",
-    "image": "827",
-    "type": "forehead",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "headband-of-nimbleness",
+	"image": "827",
+	"type": "forehead",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"SPEED": 1
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "purple-alien-crystal-shard",
-    "image": "7004",
-    "type": "neck",
-    "material": "gem",
-    "skills": {
-        "alien-hunting": 1.5
-    },
-    "properties": {
-        "INTELLIGENCE": 1.5,
-        "MAXHITPOINTS": 1.5,
-        "STRENGTH": 1.5
-    }
+	"$type": "/v1/item",
+	"id": "purple-alien-crystal-shard",
+	"image": "7004",
+	"type": "neck",
+	"material": "gem",
+	"skills": {
+		"alien-hunting": 1.5
+	},
+	"properties": {
+		"INTELLIGENCE": 1.5,
+		"MAXHITPOINTS": 1.5,
+		"STRENGTH": 1.5
+	}
 }

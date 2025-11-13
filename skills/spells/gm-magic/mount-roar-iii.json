@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/mount-roar-iii",
-    "requirements": {
-        "skill": 582,
-        "mana": 582
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXSTAMINA": 292
-        },
-        "skills": {
-            "attack-power": 292
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/mount-roar-iii",
+	"requirements": {
+		"skill": 582,
+		"mana": 582
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXSTAMINA": 292
+		},
+		"skills": {
+			"attack-power": 292
+		}
+	}
 }

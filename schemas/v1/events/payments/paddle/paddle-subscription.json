@@ -1,49 +1,38 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-subscription.json",
-    "title": "PaddleSubscription",
-    "type": "object",
-    "additionalProperties": true,
-    "properties": {
-        "id": {
-            "type": "string"
-        },
-        "status": {
-            "enum": [
-                "active",
-                "canceled",
-                "past_due",
-                "paused",
-                "trialing"
-            ]
-        },
-        "customer_id": {
-            "type": "string"
-        },
-        "current_billing_period": {
-            "oneOf": [
-                {
-                    "$ref": "/schemas/v1/events/payments/paddle/paddle-billing-period.json"
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        },
-        "custom_data": {
-            "oneOf": [
-                {
-                    "type": "object"
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        }
-    },
-    "required": [
-        "id",
-        "status",
-        "customer_id",
-        "custom_data"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-subscription.json",
+	"title": "PaddleSubscription",
+	"type": "object",
+	"additionalProperties": true,
+	"properties": {
+		"id": {
+			"type": "string"
+		},
+		"status": {
+			"enum": ["active", "canceled", "past_due", "paused", "trialing"]
+		},
+		"customer_id": {
+			"type": "string"
+		},
+		"current_billing_period": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/events/payments/paddle/paddle-billing-period.json"
+				},
+				{
+					"type": "null"
+				}
+			]
+		},
+		"custom_data": {
+			"oneOf": [
+				{
+					"type": "object"
+				},
+				{
+					"type": "null"
+				}
+			]
+		}
+	},
+	"required": ["id", "status", "customer_id", "custom_data"]
 }

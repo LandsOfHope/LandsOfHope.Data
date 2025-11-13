@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "guardian-mage-compendium",
-    "image": "6374",
-    "type": "special-slot",
-    "material": "hide",
-    "skill": "ancient-guardians",
-    "skills": {
-        "fire-resistance": 1,
-        "armor": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "guardian-mage-compendium",
+	"image": "6374",
+	"type": "special-slot",
+	"material": "hide",
+	"skill": "ancient-guardians",
+	"skills": {
+		"fire-resistance": 1,
+		"armor": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

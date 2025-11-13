@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "warped-ring",
-    "image": "gmwari",
-    "type": "ring",
-    "material": "gem",
-    "skill": "hellscar-legion",
-    "properties": {
-        "DEXTERITY": 1,
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "warped-ring",
+	"image": "gmwari",
+	"type": "ring",
+	"material": "gem",
+	"skill": "hellscar-legion",
+	"properties": {
+		"DEXTERITY": 1,
+		"SPEED": 1
+	}
 }

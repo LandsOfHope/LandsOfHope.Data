@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/neutral-holiday",
-    "requirements": {
-        "skill": 5,
-        "mana": 33
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 100
-        },
-        "skills": {
-            "experience-bonus": 200
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/neutral-holiday",
+	"requirements": {
+		"skill": 5,
+		"mana": 33
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 100
+		},
+		"skills": {
+			"experience-bonus": 200
+		}
+	}
 }

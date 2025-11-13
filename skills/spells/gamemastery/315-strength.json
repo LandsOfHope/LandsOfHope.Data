@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/315-strength",
-    "requirements": {
-        "skill": 3150,
-        "level": 630,
-        "mana": 63
-    },
-    "duration": "PT60M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 315
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/315-strength",
+	"requirements": {
+		"skill": 3150,
+		"level": 630,
+		"mana": 63
+	},
+	"duration": "PT60M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 315
+		}
+	}
 }

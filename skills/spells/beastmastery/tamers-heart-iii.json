@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "beastmastery/tamers-heart-iii",
-    "requirements": {
-        "skill": 2080,
-        "mana": 700
-    },
-    "duration": "PT25M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 95
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "beastmastery/tamers-heart-iii",
+	"requirements": {
+		"skill": 2080,
+		"mana": 700
+	},
+	"duration": "PT25M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 95
+		}
+	}
 }

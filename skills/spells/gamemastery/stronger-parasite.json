@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/stronger-parasite",
-    "requirements": {
-        "skill": 1029,
-        "mana": 1029
-    },
-    "duration": "PT180M",
-    "effects": {
-        "properties": {
-            "STRENGTH": -513
-        },
-        "skills": {
-            "attack-power": -513
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/stronger-parasite",
+	"requirements": {
+		"skill": 1029,
+		"mana": 1029
+	},
+	"duration": "PT180M",
+	"effects": {
+		"properties": {
+			"STRENGTH": -513
+		},
+		"skills": {
+			"attack-power": -513
+		}
+	}
 }

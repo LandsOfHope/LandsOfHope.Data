@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "preservation-magic/invocation-resistance-ix",
-    "requirements": {
-        "skill": 2857,
-        "mana": 2857
-    },
-    "duration": "PT75M",
-    "effects": {
-        "skills": {
-            "invoking-resistance": 288
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "preservation-magic/invocation-resistance-ix",
+	"requirements": {
+		"skill": 2857,
+		"mana": 2857
+	},
+	"duration": "PT75M",
+	"effects": {
+		"skills": {
+			"invoking-resistance": 288
+		}
+	}
 }

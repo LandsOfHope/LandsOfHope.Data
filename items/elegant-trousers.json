@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "elegant-trousers",
-    "image": "3072",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "elegant-trousers",
+	"image": "3072",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

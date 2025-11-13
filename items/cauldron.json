@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "cauldron",
-    "image": "6168",
-    "type": "2-handed-equipment",
-    "dpr": 12,
-    "material": "metal",
-    "skill": "enchanted-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "cauldron",
+	"image": "6168",
+	"type": "2-handed-equipment",
+	"dpr": 12,
+	"material": "metal",
+	"skill": "enchanted-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

@@ -1,22 +1,22 @@
 {
-    "$type": "/v1/profession",
-    "id": "man-at-arms",
-    "name": {
-        "en": "Man-at-arms"
-    },
-    "desc": {
-        "en": ""
-    },
-    "skills": {
-        "pole-weapons": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "MAXHITPOINTS": 4,
-        "MAXSTAMINA": 2,
-        "SPEED": 1,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "man-at-arms",
+	"name": {
+		"en": "Man-at-arms"
+	},
+	"desc": {
+		"en": ""
+	},
+	"skills": {
+		"pole-weapons": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"MAXHITPOINTS": 4,
+		"MAXSTAMINA": 2,
+		"SPEED": 1,
+		"STRENGTH": 2
+	}
 }

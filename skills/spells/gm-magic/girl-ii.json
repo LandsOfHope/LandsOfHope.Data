@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/girl-ii",
-    "requirements": {
-        "skill": 190,
-        "mana": 190
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "skills": {
-            "cooking": 96
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/girl-ii",
+	"requirements": {
+		"skill": 190,
+		"mana": 190
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"skills": {
+			"cooking": 96
+		}
+	}
 }

@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "monacle-of-impartiality",
-    "image": "gmmoimx",
-    "type": "lore-item",
-    "material": "gem",
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "monacle-of-impartiality",
+	"image": "gmmoimx",
+	"type": "lore-item",
+	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXSTAMINA": 1
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "hearty-mercenary-belt",
-    "image": "6683",
-    "type": "stomach",
-    "material": "metal",
-    "skill": "gods-favor",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "hearty-mercenary-belt",
+	"image": "6683",
+	"type": "stomach",
+	"material": "metal",
+	"skill": "gods-favor",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

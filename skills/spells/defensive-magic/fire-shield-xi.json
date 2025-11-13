@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "defensive-magic/fire-shield-xi",
-    "requirements": {
-        "skill": 757,
-        "mana": 757
-    },
-    "duration": "PT605M",
-    "effects": {
-        "skills": {
-            "fire-resistance": 393
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "defensive-magic/fire-shield-xi",
+	"requirements": {
+		"skill": 757,
+		"mana": 757
+	},
+	"duration": "PT605M",
+	"effects": {
+		"skills": {
+			"fire-resistance": 393
+		}
+	}
 }

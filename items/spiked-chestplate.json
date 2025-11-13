@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "spiked-chestplate",
-    "image": "1849",
-    "type": "chest-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "spiked-chestplate",
+	"image": "1849",
+	"type": "chest-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1,
+		"attack-power": 1
+	}
 }

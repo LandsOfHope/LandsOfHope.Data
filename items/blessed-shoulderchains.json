@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "blessed-shoulderchains",
-    "image": "2742",
-    "type": "shoulders",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "blessed-shoulderchains",
+	"image": "2742",
+	"type": "shoulders",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

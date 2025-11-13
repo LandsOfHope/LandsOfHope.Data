@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "druid-magic/plant-possession",
-    "requirements": {
-        "skill": 5000,
-        "mana": 1
-    },
-    "effects": {
-        "posess": {
-            "class": "plant"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "druid-magic/plant-possession",
+	"requirements": {
+		"skill": 5000,
+		"mana": 1
+	},
+	"effects": {
+		"posess": {
+			"class": "plant"
+		}
+	}
 }

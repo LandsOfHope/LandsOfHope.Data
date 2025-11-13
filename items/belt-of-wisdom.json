@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "belt-of-wisdom",
-    "image": "pbelt5",
-    "type": "stomach",
-    "material": "hide",
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "belt-of-wisdom",
+	"image": "pbelt5",
+	"type": "stomach",
+	"material": "hide",
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

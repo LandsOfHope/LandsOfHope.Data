@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "summoning/iop-delap",
-    "requirements": {
-        "skill": 2924,
-        "mana": 2924
-    },
-    "effects": {
-        "summon-pet": {
-            "race": "elemental",
-            "profession": "creature"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "summoning/iop-delap",
+	"requirements": {
+		"skill": 2924,
+		"mana": 2924
+	},
+	"effects": {
+		"summon-pet": {
+			"race": "elemental",
+			"profession": "creature"
+		}
+	}
 }

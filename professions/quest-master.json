@@ -1,18 +1,18 @@
 {
-    "$type": "/v1/profession",
-    "id": "quest-master",
-    "name": {
-        "en": "Quest Master"
-    },
-    "desc": {
-        "en": "The dealer of quests."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 5,
-        "MAXSTAMINA": 5
-    }
+	"$type": "/v1/profession",
+	"id": "quest-master",
+	"name": {
+		"en": "Quest Master"
+	},
+	"desc": {
+		"en": "The dealer of quests."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 5,
+		"MAXSTAMINA": 5
+	}
 }

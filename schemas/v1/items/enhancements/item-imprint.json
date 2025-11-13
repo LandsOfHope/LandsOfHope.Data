@@ -1,26 +1,21 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/items/enhancements/item-imprint.json",
-    "title": "ItemImprint",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/items/enhancements/item-imprint"
-        },
-        "id": {
-            "$ref": "/schemas/v1/items/enhancements/imprints-items-enhancements-id.gen.json"
-        },
-        "spell": {
-            "$ref": "/schemas/v1/skills-spells-id.gen.json"
-        },
-        "chance": {
-            "$ref": "/schemas/v1/random-chance.json"
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "$type",
-        "id",
-        "spell",
-        "chance"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/items/enhancements/item-imprint.json",
+	"title": "ItemImprint",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/items/enhancements/item-imprint"
+		},
+		"id": {
+			"$ref": "/schemas/v1/items/enhancements/imprints-items-enhancements-id.gen.json"
+		},
+		"spell": {
+			"$ref": "/schemas/v1/skills-spells-id.gen.json"
+		},
+		"chance": {
+			"$ref": "/schemas/v1/random-chance.json"
+		}
+	},
+	"additionalProperties": false,
+	"required": ["$type", "id", "spell", "chance"]
 }

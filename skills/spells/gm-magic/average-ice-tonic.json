@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/average-ice-tonic",
-    "requirements": {
-        "skill": 3000,
-        "mana": 1350
-    },
-    "duration": "PT270M",
-    "effects": {
-        "skills": {
-            "cold-resistance": 270
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/average-ice-tonic",
+	"requirements": {
+		"skill": 3000,
+		"mana": 1350
+	},
+	"duration": "PT270M",
+	"effects": {
+		"skills": {
+			"cold-resistance": 270
+		}
+	}
 }

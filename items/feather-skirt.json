@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "feather-skirt",
-    "image": "fst",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "bird",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "feather-skirt",
+	"image": "fst",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "bird",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

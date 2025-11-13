@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "sailor-trousers",
-    "image": "5249",
-    "type": "leg-armour",
-    "armorType": "leather",
-    "expansion": "uncharted-waters",
-    "material": "cloth",
-    "skill": "myzan-navy",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "sailor-trousers",
+	"image": "5249",
+	"type": "leg-armour",
+	"armorType": "leather",
+	"expansion": "uncharted-waters",
+	"material": "cloth",
+	"skill": "myzan-navy",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"SPEED": 1
+	}
 }

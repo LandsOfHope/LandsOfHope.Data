@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "sausage-roll",
-    "image": "zusaro",
-    "type": "food",
-    "material": "hide",
-    "properties": {
-        "HITPOINTS": 3
-    }
+	"$type": "/v1/item",
+	"id": "sausage-roll",
+	"image": "zusaro",
+	"type": "food",
+	"material": "hide",
+	"properties": {
+		"HITPOINTS": 3
+	}
 }

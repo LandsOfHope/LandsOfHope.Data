@@ -1,21 +1,21 @@
-{    
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item-location.json",
-    "title": "CharacterInventoryItemLocation",
-    "oneOf": [
-        {
-            "$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-equipped.json"
-        },
-        {
-            "$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-in-bag.json"
-        },
-        {
-            "$ref": "/schemas/v1/maps/items/map-item-storage-location.json"
-        },
-        {
-            "$ref": "/schemas/v1/buildings/items/building-item-storage-location.json"
-        },
-        {
-            "$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-queue-locked.json"
-        }
-    ]
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item-location.json",
+	"title": "CharacterInventoryItemLocation",
+	"oneOf": [
+		{
+			"$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-equipped.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-in-bag.json"
+		},
+		{
+			"$ref": "/schemas/v1/maps/items/map-item-storage-location.json"
+		},
+		{
+			"$ref": "/schemas/v1/buildings/items/building-item-storage-location.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-queue-locked.json"
+		}
+	]
 }

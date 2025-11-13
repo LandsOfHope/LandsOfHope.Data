@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "magicians-folly",
-    "image": "5012",
-    "type": "1-handed-equipment",
-    "dpr": 5,
-    "material": "wood",
-    "skill": "staves",
-    "skills": {
-        "staves": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "magicians-folly",
+	"image": "5012",
+	"type": "1-handed-equipment",
+	"dpr": 5,
+	"material": "wood",
+	"skill": "staves",
+	"skills": {
+		"staves": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXMANA": 1
+	}
 }

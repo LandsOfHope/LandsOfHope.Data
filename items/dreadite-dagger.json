@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "dreadite-dagger",
-    "image": "zudrda",
-    "type": "1-handed-equipment",
-    "dpr": 75,
-    "material": "metal",
-    "skill": "daggers",
-    "skills": {
-        "track-humanoids": 1,
-        "daggers": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "dreadite-dagger",
+	"image": "zudrda",
+	"type": "1-handed-equipment",
+	"dpr": 75,
+	"material": "metal",
+	"skill": "daggers",
+	"skills": {
+		"track-humanoids": 1,
+		"daggers": 1,
+		"attack-power": 1
+	}
 }

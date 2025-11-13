@@ -1,21 +1,21 @@
 {
-    "$type": "/v1/profession",
-    "id": "peasant",
-    "name": {
-        "en": "Peasant"
-    },
-    "desc": {
-        "en": "The mark of a thievery attempt."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "MAXHITPOINTS": 1,
-        "MAXSTAMINA": 1,
-        "SPEED": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/profession",
+	"id": "peasant",
+	"name": {
+		"en": "Peasant"
+	},
+	"desc": {
+		"en": "The mark of a thievery attempt."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXHITPOINTS": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	}
 }

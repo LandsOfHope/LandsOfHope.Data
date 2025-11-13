@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "freezing-wand",
-    "image": "wand11",
-    "type": "1-handed-equipment",
-    "dpr": 53,
-    "material": "stone",
-    "skill": "staves",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "freezing-wand",
+	"image": "wand11",
+	"type": "1-handed-equipment",
+	"dpr": 53,
+	"material": "stone",
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

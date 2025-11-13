@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"uncharted-waters","titles":{"500":"novice-saboteur","2500":"grand-saboteur","5000":"master-saboteur"}}
+{
+	"$type": "/v1/skill",
+	"group": "uncharted-waters",
+	"titles": {
+		"500": "novice-saboteur",
+		"2500": "grand-saboteur",
+		"5000": "master-saboteur"
+	}
+}

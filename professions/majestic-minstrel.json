@@ -1,24 +1,24 @@
 {
-    "$type": "/v1/profession",
-    "id": "majestic-minstrel",
-    "name": {
-        "en": "Majestic Minstrel"
-    },
-    "desc": {
-        "en": "Bought extra pet Minstrel class."
-    },
-    "skills": {
-        "swords": 5,
-        "shields": 5,
-        "instruments": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 5,
-        "SPEED": 1,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "majestic-minstrel",
+	"name": {
+		"en": "Majestic Minstrel"
+	},
+	"desc": {
+		"en": "Bought extra pet Minstrel class."
+	},
+	"skills": {
+		"swords": 5,
+		"shields": 5,
+		"instruments": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 5,
+		"SPEED": 1,
+		"STRENGTH": 2
+	}
 }

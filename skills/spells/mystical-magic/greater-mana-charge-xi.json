@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "mystical-magic/greater-mana-charge-xi",
-    "requirements": {
-        "skill": 865,
-        "mana": 865
-    },
-    "duration": "PT350M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 433
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "mystical-magic/greater-mana-charge-xi",
+	"requirements": {
+		"skill": 865,
+		"mana": 865
+	},
+	"duration": "PT350M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 433
+		}
+	}
 }

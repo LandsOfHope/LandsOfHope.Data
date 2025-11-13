@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/giant-frog-dexterity-iv",
-    "requirements": {
-        "skill": 764,
-        "mana": 764
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "DEXTERITY": 383
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/giant-frog-dexterity-iv",
+	"requirements": {
+		"skill": 764,
+		"mana": 764
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"DEXTERITY": 383
+		}
+	}
 }

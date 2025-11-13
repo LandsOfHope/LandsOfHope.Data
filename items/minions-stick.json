@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "minions-stick",
-    "image": "sk1",
-    "type": "2-handed-equipment",
-    "dpr": 2,
-    "material": "wood",
-    "skill": "maces",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "minions-stick",
+	"image": "sk1",
+	"type": "2-handed-equipment",
+	"dpr": 2,
+	"material": "wood",
+	"skill": "maces",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

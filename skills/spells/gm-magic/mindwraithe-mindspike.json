@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/mindwraithe-mindspike",
-    "requirements": {
-        "skill": 400,
-        "mana": 400
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 250
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/mindwraithe-mindspike",
+	"requirements": {
+		"skill": 400,
+		"mana": 400
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 250
+		}
+	}
 }

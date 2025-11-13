@@ -1,18 +1,15 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v0/fights/fight-round-log.json",
-    "title": "FightRoundLog",
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {
-        "$type": {
-            "const": "/v0/fights/fight-round-log"
-        },
-        "roundLogHtml": {
-            "type": "string"
-        }
-    },
-    "required": [
-        "$type",
-        "roundLogHtml"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v0/fights/fight-round-log.json",
+	"title": "FightRoundLog",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v0/fights/fight-round-log"
+		},
+		"roundLogHtml": {
+			"type": "string"
+		}
+	},
+	"required": ["$type", "roundLogHtml"]
 }

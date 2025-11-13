@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "tenth-guard-chestplate",
-    "image": "5051",
-    "type": "chest-armour",
-    "armorType": "plate",
-    "set": "tenth-guard",
-    "material": "metal",
-    "skills": {
-        "bladed-defense": 1,
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "tenth-guard-chestplate",
+	"image": "5051",
+	"type": "chest-armour",
+	"armorType": "plate",
+	"set": "tenth-guard",
+	"material": "metal",
+	"skills": {
+		"bladed-defense": 1,
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

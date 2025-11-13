@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "dark-forge-hammer",
-    "image": "dbh",
-    "type": "2-handed-equipment",
-    "dpr": 11,
-    "material": "metal",
-    "skill": "two-handed-maces",
-    "skills": {
-        "blacksmithing": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "dark-forge-hammer",
+	"image": "dbh",
+	"type": "2-handed-equipment",
+	"dpr": 11,
+	"material": "metal",
+	"skill": "two-handed-maces",
+	"skills": {
+		"blacksmithing": 1,
+		"attack-power": 1
+	}
 }

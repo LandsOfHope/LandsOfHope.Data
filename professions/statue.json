@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "statue",
-    "name": {
-        "en": "Statue"
-    },
-    "desc": {
-        "en": "A Statue."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 5,
-        "MAXSTAMINA": 1,
-        "STRENGTH": 5
-    }
+	"$type": "/v1/profession",
+	"id": "statue",
+	"name": {
+		"en": "Statue"
+	},
+	"desc": {
+		"en": "A Statue."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 5,
+		"MAXSTAMINA": 1,
+		"STRENGTH": 5
+	}
 }

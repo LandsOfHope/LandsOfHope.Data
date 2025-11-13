@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "aged-leg",
-    "image": "age",
-    "type": "1-handed-equipment",
-    "dpr": 7,
-    "material": "hide",
-    "skill": "maces",
-    "skills": {
-        "poison-magic": 1,
-        "maces": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "aged-leg",
+	"image": "age",
+	"type": "1-handed-equipment",
+	"dpr": 7,
+	"material": "hide",
+	"skill": "maces",
+	"skills": {
+		"poison-magic": 1,
+		"maces": 1,
+		"attack-power": 1
+	}
 }

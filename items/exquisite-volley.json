@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "exquisite-volley",
-    "image": "6626",
-    "type": "ranged-weapon",
-    "dpr": 140,
-    "material": "metal",
-    "skill": "bows",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "exquisite-volley",
+	"image": "6626",
+	"type": "ranged-weapon",
+	"dpr": 140,
+	"material": "metal",
+	"skill": "bows",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

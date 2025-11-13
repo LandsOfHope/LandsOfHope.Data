@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "frankensteins-kidney",
-    "image": "6345",
-    "type": "stomach",
-    "armorType": "cloth",
-    "set": "frankenstein-set",
-    "material": "hide",
-    "skills": {
-        "bludgeon-defense": 1,
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "frankensteins-kidney",
+	"image": "6345",
+	"type": "stomach",
+	"armorType": "cloth",
+	"set": "frankenstein-set",
+	"material": "hide",
+	"skills": {
+		"bludgeon-defense": 1,
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

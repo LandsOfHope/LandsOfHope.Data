@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "medium-shell",
-    "image": "2424",
-    "type": "golem-parts",
-    "material": "stone",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "medium-shell",
+	"image": "2424",
+	"type": "golem-parts",
+	"material": "stone",
+	"skills": {
+		"armor": 1
+	}
 }

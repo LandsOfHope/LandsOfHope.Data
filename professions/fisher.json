@@ -1,21 +1,21 @@
 {
-    "$type": "/v1/profession",
-    "id": "fisher",
-    "name": {
-        "en": "Fisher"
-    },
-    "desc": {
-        "en": "Fisher. An expert at fishing in the rivers, lakes and seas to catch fish."
-    },
-    "skills": {
-        "fishing": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 2,
-        "SPEED": 2
-    }
+	"$type": "/v1/profession",
+	"id": "fisher",
+	"name": {
+		"en": "Fisher"
+	},
+	"desc": {
+		"en": "Fisher. An expert at fishing in the rivers, lakes and seas to catch fish."
+	},
+	"skills": {
+		"fishing": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 2,
+		"SPEED": 2
+	}
 }

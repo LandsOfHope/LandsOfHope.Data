@@ -1,20 +1,6 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/stargazer-constellation.json",
-    "title": "StargazerConstellation",
-    "enum": [
-        "fox",
-        "bear",
-        "eagle",
-        "turtle",
-        "rat",
-        "chameleon"
-    ],
-    "tsEnumNames": [
-        "fox",
-        "bear",
-        "eagle",
-        "turtle",
-        "rat",
-        "chameleon"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/creation/stargazer-constellation.json",
+	"title": "StargazerConstellation",
+	"enum": ["fox", "bear", "eagle", "turtle", "rat", "chameleon"],
+	"tsEnumNames": ["fox", "bear", "eagle", "turtle", "rat", "chameleon"]
 }

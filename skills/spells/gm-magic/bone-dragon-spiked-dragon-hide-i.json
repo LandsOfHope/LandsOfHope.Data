@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/bone-dragon-spiked-dragon-hide-i",
-    "requirements": {
-        "skill": 204,
-        "mana": 204
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "attack-power": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/bone-dragon-spiked-dragon-hide-i",
+	"requirements": {
+		"skill": 204,
+		"mana": 204
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"attack-power": 100
+		}
+	}
 }

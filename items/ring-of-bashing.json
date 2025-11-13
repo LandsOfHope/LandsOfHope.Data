@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-bashing",
-    "image": "rg5",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "maces": 1,
-        "two-handed-maces": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-bashing",
+	"image": "rg5",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"maces": 1,
+		"two-handed-maces": 1
+	}
 }

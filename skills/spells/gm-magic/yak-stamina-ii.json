@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/yak-stamina-ii",
-    "requirements": {
-        "skill": 484,
-        "mana": 484
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXSTAMINA": 170
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/yak-stamina-ii",
+	"requirements": {
+		"skill": 484,
+		"mana": 484
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXSTAMINA": 170
+		}
+	}
 }

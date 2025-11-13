@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/preystalker-feline-reflexes-iii",
-    "requirements": {
-        "skill": 729,
-        "mana": 729
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "SPEED": 365
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/preystalker-feline-reflexes-iii",
+	"requirements": {
+		"skill": 729,
+		"mana": 729
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"SPEED": 365
+		}
+	}
 }

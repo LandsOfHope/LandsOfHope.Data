@@ -1,18 +1,18 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/silverclaw-blessing",
-    "requirements": {
-        "skill": 1,
-        "level": 1,
-        "mana": 1
-    },
-    "duration": "PT1400M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 600
-        },
-        "skills": {
-            "attack-power": 600
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/silverclaw-blessing",
+	"requirements": {
+		"skill": 1,
+		"level": 1,
+		"mana": 1
+	},
+	"duration": "PT1400M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 600
+		},
+		"skills": {
+			"attack-power": 600
+		}
+	}
 }

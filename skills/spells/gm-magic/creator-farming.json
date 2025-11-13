@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/creator-farming",
-    "requirements": {
-        "skill": 50,
-        "mana": 50
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "farming": 51
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/creator-farming",
+	"requirements": {
+		"skill": 50,
+		"mana": 50
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"farming": 51
+		}
+	}
 }

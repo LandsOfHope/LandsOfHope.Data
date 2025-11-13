@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "stary-armbraces",
-    "image": "3228",
-    "type": "arm-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "stary-armbraces",
+	"image": "3228",
+	"type": "arm-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

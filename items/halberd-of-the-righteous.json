@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "halberd-of-the-righteous",
-    "image": "tohari",
-    "type": "2-handed-equipment",
-    "dpr": 4,
-    "material": "metal",
-    "skill": "pole-weapons",
-    "skills": {
-        "protection": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "halberd-of-the-righteous",
+	"image": "tohari",
+	"type": "2-handed-equipment",
+	"dpr": 4,
+	"material": "metal",
+	"skill": "pole-weapons",
+	"skills": {
+		"protection": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	}
 }

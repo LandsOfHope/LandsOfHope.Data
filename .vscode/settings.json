@@ -1,25 +1,40 @@
 {
-    "json.schemas": [
-        {
-            "fileMatch": [
-                "/professions/*.json"
-            ],
-            "url": "./schemas/profession.json"
-        },
-        {
-            "fileMatch": [
-                "/skills/*.json"
-            ],
-            "url": "./schemas/skill.json"
-        },
-        {
-            "fileMatch": [
-                "/races/*.json"
-            ],
-            "url": "./schemas/race.json"
-        },
-        {
-            "url": "./schemas/professon-evolution.json"
-        }
-    ]
+	"[javascript]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"biome.lsp.bin": ".scripts/node_modules/.bin/biome",
+	"biome.requireConfiguration": true,
+	"editor.codeActionsOnSave": {
+		"source.action.useSortedKeys.biome": "explicit",
+		"source.fixAll.biome": "explicit",
+		"source.organizeImports.biome": "explicit"
+	},
+	"editor.formatOnSave": true,
+	"json.schemas": [
+		{
+			"fileMatch": ["/professions/*.json"],
+			"url": "./schemas/profession.json"
+		},
+		{
+			"fileMatch": ["/skills/*.json"],
+			"url": "./schemas/skill.json"
+		},
+		{
+			"fileMatch": ["/races/*.json"],
+			"url": "./schemas/race.json"
+		},
+		{
+			"fileMatch": ["./professions/evolution/profession-evolution.json"],
+			"url": "./schemas/profession-evolution.json"
+		}
+	]
 }

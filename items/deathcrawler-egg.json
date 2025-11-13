@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "deathcrawler-egg",
-    "image": "zudeeg",
-    "type": "monster-spawner",
-    "material": "gem",
-    "skill": "dark-hollow-clan",
-    "skills": {
-        "fishing": 1,
-        "cooking": 1,
-        "farming": 1
-    }
+	"$type": "/v1/item",
+	"id": "deathcrawler-egg",
+	"image": "zudeeg",
+	"type": "monster-spawner",
+	"material": "gem",
+	"skill": "dark-hollow-clan",
+	"skills": {
+		"fishing": 1,
+		"cooking": 1,
+		"farming": 1
+	}
 }

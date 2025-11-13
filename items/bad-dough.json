@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "bad-dough",
-    "image": "dou",
-    "type": "1-handed-equipment",
-    "dpr": 5,
-    "material": "crop",
-    "skill": "thrown-weapons",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "HITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "bad-dough",
+	"image": "dou",
+	"type": "1-handed-equipment",
+	"dpr": 5,
+	"material": "crop",
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"HITPOINTS": 1
+	}
 }

@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"gathering","titles":{"500":"novice-farmer","2500":"adept-farmer","5000":"master-farmer"}}
+{
+	"$type": "/v1/skill",
+	"group": "gathering",
+	"titles": {
+		"500": "novice-farmer",
+		"2500": "adept-farmer",
+		"5000": "master-farmer"
+	}
+}

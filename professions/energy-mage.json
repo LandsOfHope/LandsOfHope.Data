@@ -1,22 +1,22 @@
 {
-    "$type": "/v1/profession",
-    "id": "energy-mage",
-    "name": {
-        "en": "Energy Mage"
-    },
-    "desc": {
-        "en": "Energy Mage"
-    },
-    "skills": {
-        "energy-magic": 5,
-        "mystical-magic": 5,
-        "energy-resistance": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 4
-    }
+	"$type": "/v1/profession",
+	"id": "energy-mage",
+	"name": {
+		"en": "Energy Mage"
+	},
+	"desc": {
+		"en": "Energy Mage"
+	},
+	"skills": {
+		"energy-magic": 5,
+		"mystical-magic": 5,
+		"energy-resistance": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 4
+	}
 }

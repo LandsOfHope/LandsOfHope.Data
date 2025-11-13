@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "heater-shield",
-    "image": "sd1",
-    "type": "2-handed-equipment",
-    "dpr": 3,
-    "material": "metal",
-    "skill": "two-handed-shields",
-    "skills": {
-        "bladed-defense": 1,
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "heater-shield",
+	"image": "sd1",
+	"type": "2-handed-equipment",
+	"dpr": 3,
+	"material": "metal",
+	"skill": "two-handed-shields",
+	"skills": {
+		"bladed-defense": 1,
+		"armor": 1
+	}
 }

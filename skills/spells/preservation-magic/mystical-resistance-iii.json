@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "preservation-magic/mystical-resistance-iii",
-    "requirements": {
-        "skill": 897,
-        "mana": 897
-    },
-    "duration": "PT75M",
-    "effects": {
-        "skills": {
-            "mystical-resistance": 92
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "preservation-magic/mystical-resistance-iii",
+	"requirements": {
+		"skill": 897,
+		"mana": 897
+	},
+	"duration": "PT75M",
+	"effects": {
+		"skills": {
+			"mystical-resistance": 92
+		}
+	}
 }

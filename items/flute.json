@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "flute",
-    "image": "fe1",
-    "type": "ranged-weapon",
-    "dpr": 3,
-    "material": "wood",
-    "skill": "instruments",
-    "skills": {
-        "instruments": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "flute",
+	"image": "fe1",
+	"type": "ranged-weapon",
+	"dpr": 3,
+	"material": "wood",
+	"skill": "instruments",
+	"skills": {
+		"instruments": 1,
+		"attack-power": 1
+	}
 }

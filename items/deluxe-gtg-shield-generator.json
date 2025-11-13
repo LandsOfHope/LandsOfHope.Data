@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "deluxe-gtg-shield-generator",
-    "image": "6738",
-    "type": "aura",
-    "material": "gem",
-    "skills": {
-        "damage-absorption": 1
-    }
+	"$type": "/v1/item",
+	"id": "deluxe-gtg-shield-generator",
+	"image": "6738",
+	"type": "aura",
+	"material": "gem",
+	"skills": {
+		"damage-absorption": 1
+	}
 }

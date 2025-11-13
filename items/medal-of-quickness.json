@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "medal-of-quickness",
-    "image": "1856",
-    "type": "society-symbol",
-    "material": "metal",
-    "properties": {
-        "SPEED": 1
-    }
+	"$type": "/v1/item",
+	"id": "medal-of-quickness",
+	"image": "1856",
+	"type": "society-symbol",
+	"material": "metal",
+	"properties": {
+		"SPEED": 1
+	}
 }

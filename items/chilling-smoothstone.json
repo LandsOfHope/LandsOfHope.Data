@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "chilling-smoothstone",
-    "image": "sms",
-    "type": "ammo-weapons-rocks",
-    "dpr": 27,
-    "material": "stone",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "chilling-smoothstone",
+	"image": "sms",
+	"type": "ammo-weapons-rocks",
+	"dpr": 27,
+	"material": "stone",
+	"skills": {
+		"attack-power": 1
+	}
 }

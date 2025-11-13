@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "preservation-magic/improved-health-viii",
-    "requirements": {
-        "skill": 3500,
-        "mana": 3500
-    },
-    "duration": "PT240M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 1250
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "preservation-magic/improved-health-viii",
+	"requirements": {
+		"skill": 3500,
+		"mana": 3500
+	},
+	"duration": "PT240M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 1250
+		}
+	}
 }

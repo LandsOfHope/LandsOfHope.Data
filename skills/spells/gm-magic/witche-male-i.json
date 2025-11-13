@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/witche-male-i",
-    "requirements": {
-        "skill": 178,
-        "mana": 178
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 90
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/witche-male-i",
+	"requirements": {
+		"skill": 178,
+		"mana": 178
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 90
+		}
+	}
 }

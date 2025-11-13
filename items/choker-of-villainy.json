@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "choker-of-villainy",
-    "image": "zuchvi",
-    "type": "neck",
-    "armorType": "cloth",
-    "set": "dark-hollow-clan",
-    "material": "metal",
-    "skill": "dark-hollow-clan",
-    "skills": {
-        "stealth": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "choker-of-villainy",
+	"image": "zuchvi",
+	"type": "neck",
+	"armorType": "cloth",
+	"set": "dark-hollow-clan",
+	"material": "metal",
+	"skill": "dark-hollow-clan",
+	"skills": {
+		"stealth": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "stary-leggings",
-    "image": "3058",
-    "type": "leg-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "stary-leggings",
+	"image": "3058",
+	"type": "leg-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

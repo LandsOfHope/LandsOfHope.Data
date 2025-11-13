@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "ice-maker",
-    "image": "st1",
-    "type": "2-handed-equipment",
-    "dpr": 8,
-    "material": "gem",
-    "skill": "staves",
-    "skills": {
-        "cold-resistance": 1,
-        "attack-power": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "ice-maker",
+	"image": "st1",
+	"type": "2-handed-equipment",
+	"dpr": 8,
+	"material": "gem",
+	"skill": "staves",
+	"skills": {
+		"cold-resistance": 1,
+		"attack-power": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "encrusted-legs",
-    "image": "724",
-    "type": "leg-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "encrusted-legs",
+	"image": "724",
+	"type": "leg-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1,
+		"attack-power": 1
+	}
 }

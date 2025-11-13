@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/dolphin-intelligence-iv",
-    "requirements": {
-        "skill": 939,
-        "mana": 939
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "INTELLIGENCE": 470
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/dolphin-intelligence-iv",
+	"requirements": {
+		"skill": 939,
+		"mana": 939
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"INTELLIGENCE": 470
+		}
+	}
 }

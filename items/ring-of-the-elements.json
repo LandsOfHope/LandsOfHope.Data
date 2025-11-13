@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-the-elements",
-    "image": "rgk",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "fire-survival": 1,
-        "water-survival": 1,
-        "air-survival": 1,
-        "cold-survival": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-the-elements",
+	"image": "rgk",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"fire-survival": 1,
+		"water-survival": 1,
+		"air-survival": 1,
+		"cold-survival": 1
+	}
 }

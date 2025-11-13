@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "vine-arrow",
-    "image": "arr1",
-    "type": "ammo-weapons-bows",
-    "dpr": 24,
-    "material": "wood",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "vine-arrow",
+	"image": "arr1",
+	"type": "ammo-weapons-bows",
+	"dpr": 24,
+	"material": "wood",
+	"skills": {
+		"attack-power": 1
+	}
 }

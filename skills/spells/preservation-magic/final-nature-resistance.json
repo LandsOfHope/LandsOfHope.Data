@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "preservation-magic/final-nature-resistance",
-    "requirements": {
-        "skill": 5000,
-        "mana": 5001
-    },
-    "duration": "PT100M",
-    "effects": {
-        "skills": {
-            "nature-resistance": 704
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "preservation-magic/final-nature-resistance",
+	"requirements": {
+		"skill": 5000,
+		"mana": 5001
+	},
+	"duration": "PT100M",
+	"effects": {
+		"skills": {
+			"nature-resistance": 704
+		}
+	}
 }

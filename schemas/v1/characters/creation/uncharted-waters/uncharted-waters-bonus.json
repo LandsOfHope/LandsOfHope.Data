@@ -1,16 +1,6 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/creation/uncharted-waters/uncharted-waters-bonus.json",
-    "title": "UnchartedWatersBonus",
-    "enum": [
-        "wealth",
-        "attack",
-        "defense",
-        "cargo"
-    ],
-    "tsEnumNames": [
-        "wealth",
-        "attack",
-        "defense",
-        "cargo"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/creation/uncharted-waters/uncharted-waters-bonus.json",
+	"title": "UnchartedWatersBonus",
+	"enum": ["wealth", "attack", "defense", "cargo"],
+	"tsEnumNames": ["wealth", "attack", "defense", "cargo"]
 }

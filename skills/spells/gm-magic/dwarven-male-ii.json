@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/dwarven-male-ii",
-    "requirements": {
-        "skill": 328,
-        "mana": 328
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 165
-        },
-        "skills": {
-            "fire-survival": 165
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/dwarven-male-ii",
+	"requirements": {
+		"skill": 328,
+		"mana": 328
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 165
+		},
+		"skills": {
+			"fire-survival": 165
+		}
+	}
 }

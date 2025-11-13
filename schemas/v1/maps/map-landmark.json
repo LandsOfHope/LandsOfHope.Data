@@ -1,77 +1,77 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/maps/map-landmark.json",
-    "title": "MapLandmark",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/maps/map-landmark"
-        },
-        "id": {
-            "$ref": "/schemas/v1/maps/map-landmark-id.json"
-        },
-        "name": {
-            "type": "string",
-            "minLength": 1,
-            "maxLength": 40
-        },
-        "desc": {
-            "type": "string",
-            "minLength": 1,
-            "maxLength": 300
-        },
-        "world": {
-            "$ref": "/schemas/v1/maps-worlds-id.gen.json"
-        },
-        "location": {
-            "$ref": "/schemas/v1/coordinate2.json"
-        },
-        "image": {
-            "$ref": "/schemas/v1/maps-buildings-images-id.gen.json"
-        },
-        "type": {
-            "$ref": "/schemas/v1/maps-landmarks-types-id.gen.json"
-        },
-        "owner": {
-            "oneOf": [
-                {
-                    "type": "null"
-                },
-                {
-                    "$ref": "/schemas/v1/characters/character-id.json"
-                }
-            ]
-        },
-        "allegiance": {
-            "$ref": "/schemas/v1/allegiances-id.gen.json"
-        },
-        "level": {
-            "type": "object",
-            "properties": {
-                "min": {
-                    "type": "integer",
-                    "minimum": 1,
-                    "maximum": 1000
-                },
-                "max": {
-                    "type": "integer",
-                    "minimum": 1,
-                    "maximum": 1000
-                }
-            },
-            "additionalProperties": false
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "$type",
-        "id",
-        "name",
-        "desc",
-        "world",
-        "location",
-        "image",
-        "type",
-        "owner",
-        "allegiance"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/maps/map-landmark.json",
+	"title": "MapLandmark",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/maps/map-landmark"
+		},
+		"id": {
+			"$ref": "/schemas/v1/maps/map-landmark-id.json"
+		},
+		"name": {
+			"type": "string",
+			"minLength": 1,
+			"maxLength": 40
+		},
+		"desc": {
+			"type": "string",
+			"minLength": 1,
+			"maxLength": 300
+		},
+		"world": {
+			"$ref": "/schemas/v1/maps-worlds-id.gen.json"
+		},
+		"location": {
+			"$ref": "/schemas/v1/coordinate2.json"
+		},
+		"image": {
+			"$ref": "/schemas/v1/maps-buildings-images-id.gen.json"
+		},
+		"type": {
+			"$ref": "/schemas/v1/maps-landmarks-types-id.gen.json"
+		},
+		"owner": {
+			"oneOf": [
+				{
+					"type": "null"
+				},
+				{
+					"$ref": "/schemas/v1/characters/character-id.json"
+				}
+			]
+		},
+		"allegiance": {
+			"$ref": "/schemas/v1/allegiances-id.gen.json"
+		},
+		"level": {
+			"type": "object",
+			"properties": {
+				"min": {
+					"type": "integer",
+					"minimum": 1,
+					"maximum": 1000
+				},
+				"max": {
+					"type": "integer",
+					"minimum": 1,
+					"maximum": 1000
+				}
+			},
+			"additionalProperties": false
+		}
+	},
+	"additionalProperties": false,
+	"required": [
+		"$type",
+		"id",
+		"name",
+		"desc",
+		"world",
+		"location",
+		"image",
+		"type",
+		"owner",
+		"allegiance"
+	]
 }

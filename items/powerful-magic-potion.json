@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "powerful-magic-potion",
-    "image": "pb3",
-    "type": "magic-potion",
-    "material": "gem",
-    "properties": {
-        "MANA": 3.5
-    }
+	"$type": "/v1/item",
+	"id": "powerful-magic-potion",
+	"image": "pb3",
+	"type": "magic-potion",
+	"material": "gem",
+	"properties": {
+		"MANA": 3.5
+	}
 }

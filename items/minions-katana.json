@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "minions-katana",
-    "image": "zukann",
-    "type": "2-handed-equipment",
-    "dpr": 2,
-    "material": "metal",
-    "skill": "two-handed-swords",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "minions-katana",
+	"image": "zukann",
+	"type": "2-handed-equipment",
+	"dpr": 2,
+	"material": "metal",
+	"skill": "two-handed-swords",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

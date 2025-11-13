@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "moccasins",
-    "image": "220",
-    "type": "foot-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "moccasins",
+	"image": "220",
+	"type": "foot-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXMANA": 1
+	}
 }

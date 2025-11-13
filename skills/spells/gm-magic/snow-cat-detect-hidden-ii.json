@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/snow-cat-detect-hidden-ii",
-    "requirements": {
-        "skill": 400,
-        "mana": 400
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "skills": {
-            "detect-hidden": 201
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/snow-cat-detect-hidden-ii",
+	"requirements": {
+		"skill": 400,
+		"mana": 400
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"skills": {
+			"detect-hidden": 201
+		}
+	}
 }

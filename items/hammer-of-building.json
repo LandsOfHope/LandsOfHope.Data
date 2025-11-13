@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "hammer-of-building",
-    "image": "fehabu",
-    "type": "2-handed-equipment",
-    "dpr": 10,
-    "material": "metal",
-    "skill": "construction",
-    "skills": {
-        "construction": 1
-    }
+	"$type": "/v1/item",
+	"id": "hammer-of-building",
+	"image": "fehabu",
+	"type": "2-handed-equipment",
+	"dpr": 10,
+	"material": "metal",
+	"skill": "construction",
+	"skills": {
+		"construction": 1
+	}
 }

@@ -1,18 +1,15 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/actions/character-action-buy-recipes.json",
-    "title": "CharacterActionBuyRecipes",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/actions/character-action-buy-recipes"
-        },
-        "id": {
-            "$ref": "/schemas/v1/characters-npcs-recipes-id.gen.json"
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "$type",
-        "id"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/actions/character-action-buy-recipes.json",
+	"title": "CharacterActionBuyRecipes",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/actions/character-action-buy-recipes"
+		},
+		"id": {
+			"$ref": "/schemas/v1/characters-npcs-recipes-id.gen.json"
+		}
+	},
+	"additionalProperties": false,
+	"required": ["$type", "id"]
 }

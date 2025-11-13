@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-blessed-gauntlets",
-    "image": "3686",
-    "type": "hand-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-blessed-gauntlets",
+	"image": "3686",
+	"type": "hand-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

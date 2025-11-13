@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "healers-aid",
-    "image": "zuheai",
-    "type": "neck",
-    "material": "metal",
-    "skills": {
-        "acid-resistance": 1,
-        "poison-resistance": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "healers-aid",
+	"image": "zuheai",
+	"type": "neck",
+	"material": "metal",
+	"skills": {
+		"acid-resistance": 1,
+		"poison-resistance": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

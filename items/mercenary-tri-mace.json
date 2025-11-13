@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "mercenary-tri-mace",
-    "image": "6659",
-    "type": "2-handed-equipment",
-    "dpr": 3,
-    "material": "metal",
-    "skill": "two-handed-maces",
-    "skills": {
-        "attack-power": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "mercenary-tri-mace",
+	"image": "6659",
+	"type": "2-handed-equipment",
+	"dpr": 3,
+	"material": "metal",
+	"skill": "two-handed-maces",
+	"skills": {
+		"attack-power": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

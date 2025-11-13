@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/item",
-    "id": "grimbrow-leggings",
-    "image": "4719",
-    "type": "leg-armour",
-    "armorType": "mail",
-    "legendary": true,
-    "set": "grimbrow-legend",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1,
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "grimbrow-leggings",
+	"image": "4719",
+	"type": "leg-armour",
+	"armorType": "mail",
+	"legendary": true,
+	"set": "grimbrow-legend",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	}
 }

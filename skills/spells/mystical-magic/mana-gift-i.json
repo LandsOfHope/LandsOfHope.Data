@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "mystical-magic/mana-gift-i",
-    "requirements": {
-        "skill": 58,
-        "mana": 58
-    },
-    "duration": "PT20M",
-    "effects": {
-        "properties": {
-            "MAXMANA": 30
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "mystical-magic/mana-gift-i",
+	"requirements": {
+		"skill": 58,
+		"mana": 58
+	},
+	"duration": "PT20M",
+	"effects": {
+		"properties": {
+			"MAXMANA": 30
+		}
+	}
 }

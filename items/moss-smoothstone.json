@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "moss-smoothstone",
-    "image": "sms",
-    "type": "ammo-weapons-rocks",
-    "dpr": 18,
-    "material": "stone",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "moss-smoothstone",
+	"image": "sms",
+	"type": "ammo-weapons-rocks",
+	"dpr": 18,
+	"material": "stone",
+	"skills": {
+		"attack-power": 1
+	}
 }

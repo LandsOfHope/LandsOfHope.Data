@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "guilded-cadet-headguard",
-    "image": "3694",
-    "type": "head-armour",
-    "armorType": "plate",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "guilded-cadet-headguard",
+	"image": "3694",
+	"type": "head-armour",
+	"armorType": "plate",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

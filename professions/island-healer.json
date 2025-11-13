@@ -1,22 +1,22 @@
 {
-    "$type": "/v1/profession",
-    "id": "island-healer",
-    "name": {
-        "en": "Island Healer"
-    },
-    "desc": {
-        "en": "Found in the Pirate Expansion."
-    },
-    "skills": {
-        "healing-magic": 5,
-        "mana-draining": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 4,
-        "MAXMANA": 3
-    }
+	"$type": "/v1/profession",
+	"id": "island-healer",
+	"name": {
+		"en": "Island Healer"
+	},
+	"desc": {
+		"en": "Found in the Pirate Expansion."
+	},
+	"skills": {
+		"healing-magic": 5,
+		"mana-draining": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 4,
+		"MAXMANA": 3
+	}
 }

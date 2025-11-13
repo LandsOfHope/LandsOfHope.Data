@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "riveted-sleeves",
-    "image": "css",
-    "type": "arm-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "riveted-sleeves",
+	"image": "css",
+	"type": "arm-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

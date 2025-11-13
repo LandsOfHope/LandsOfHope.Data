@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/horse-speed-iv",
-    "requirements": {
-        "skill": 757,
-        "mana": 757
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "SPEED": 379
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/horse-speed-iv",
+	"requirements": {
+		"skill": 757,
+		"mana": 757
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"SPEED": 379
+		}
+	}
 }

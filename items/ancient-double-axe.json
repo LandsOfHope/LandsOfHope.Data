@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "ancient-double-axe",
-    "image": "ax12",
-    "type": "2-handed-equipment",
-    "dpr": 8,
-    "material": "gem",
-    "skill": "two-handed-axes",
-    "skills": {
-        "poison-resistance": 1,
-        "poison-magic": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "ancient-double-axe",
+	"image": "ax12",
+	"type": "2-handed-equipment",
+	"dpr": 8,
+	"material": "gem",
+	"skill": "two-handed-axes",
+	"skills": {
+		"poison-resistance": 1,
+		"poison-magic": 1,
+		"attack-power": 1
+	}
 }

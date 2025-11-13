@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "tomahawk",
-    "image": "ax7",
-    "type": "ranged-weapon",
-    "dpr": 8,
-    "material": "metal",
-    "skill": "thrown-weapons",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "tomahawk",
+	"image": "ax7",
+	"type": "ranged-weapon",
+	"dpr": 8,
+	"material": "metal",
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1
+	}
 }

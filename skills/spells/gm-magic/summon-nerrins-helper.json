@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/summon-nerrins-helper",
-    "requirements": {
-        "skill": 1,
-        "mana": 1
-    },
-    "duration": "PT60M",
-    "effects": {
-        "summon-pet": {
-            "race": "wisp",
-            "profession": "powerseeker"
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/summon-nerrins-helper",
+	"requirements": {
+		"skill": 1,
+		"mana": 1
+	},
+	"duration": "PT60M",
+	"effects": {
+		"summon-pet": {
+			"race": "wisp",
+			"profession": "powerseeker"
+		}
+	}
 }

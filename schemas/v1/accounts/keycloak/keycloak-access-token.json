@@ -1,104 +1,94 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/accounts/keycloak/keycloak-access-token.json",
-    "title": "KeycloakAccessToken",
-    "type": "object",
-    "additionalProperties": true,
-    "oneOf": [
-        {
-            "properties": {
-                "sub": {
-                    "$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
-                },
-                "groups": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "/schemas/v1/accounts/account-group.json"
-                    }
-                },
-                "iss": {
-                    "type": "string",
-                    "format": "uri"
-                },
-                "azp": {
-                    "type": "string"
-                },
-                "typ": {
-                    "const": "Bearer"
-                },
-                "exp": {
-                    "type": "number"
-                },
-                "iat": {
-                    "type": "number"
-                },
-                "preferred_username": {
-                    "type": "string"
-                },
-                "scope": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "sub",
-                "iss",
-                "azp",
-                "typ",
-                "exp",
-                "iat",
-                "preferred_username"
-            ]
-        },
-        {
-            "properties": {
-                "sub": {
-                    "$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
-                },
-                "aud": {
-                    "oneOf": [
-                        {
-                            "type": "string",
-                            "format": "uri"
-                        },
-                        {
-                            "type": "array",
-                            "items": {
-                                "type": "string",
-                                "format": "uri"
-                            }
-                        }
-                    ]
-                },
-                "iss": {
-                    "type": "string",
-                    "format": "uri"
-                },
-                "azp": {
-                    "type": "string"
-                },
-                "typ": {
-                    "const": "Bearer"
-                },
-                "exp": {
-                    "type": "number"
-                },
-                "iat": {
-                    "type": "number"
-                },
-                "scope": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "sub",
-                "aud",
-                "scope",
-                "iss",
-                "azp",
-                "typ",
-                "exp",
-                "iat"
-            ]
-        }
-    
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/accounts/keycloak/keycloak-access-token.json",
+	"title": "KeycloakAccessToken",
+	"type": "object",
+	"additionalProperties": true,
+	"oneOf": [
+		{
+			"properties": {
+				"sub": {
+					"$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
+				},
+				"groups": {
+					"type": "array",
+					"items": {
+						"$ref": "/schemas/v1/accounts/account-group.json"
+					}
+				},
+				"iss": {
+					"type": "string",
+					"format": "uri"
+				},
+				"azp": {
+					"type": "string"
+				},
+				"typ": {
+					"const": "Bearer"
+				},
+				"exp": {
+					"type": "number"
+				},
+				"iat": {
+					"type": "number"
+				},
+				"preferred_username": {
+					"type": "string"
+				},
+				"scope": {
+					"type": "string"
+				}
+			},
+			"required": [
+				"sub",
+				"iss",
+				"azp",
+				"typ",
+				"exp",
+				"iat",
+				"preferred_username"
+			]
+		},
+		{
+			"properties": {
+				"sub": {
+					"$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
+				},
+				"aud": {
+					"oneOf": [
+						{
+							"type": "string",
+							"format": "uri"
+						},
+						{
+							"type": "array",
+							"items": {
+								"type": "string",
+								"format": "uri"
+							}
+						}
+					]
+				},
+				"iss": {
+					"type": "string",
+					"format": "uri"
+				},
+				"azp": {
+					"type": "string"
+				},
+				"typ": {
+					"const": "Bearer"
+				},
+				"exp": {
+					"type": "number"
+				},
+				"iat": {
+					"type": "number"
+				},
+				"scope": {
+					"type": "string"
+				}
+			},
+			"required": ["sub", "aud", "scope", "iss", "azp", "typ", "exp", "iat"]
+		}
+	]
 }

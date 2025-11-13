@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/strength-potion",
-    "requirements": {
-        "level": 1,
-        "mana": 10
-    },
-    "duration": "PT100M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 100
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/strength-potion",
+	"requirements": {
+		"level": 1,
+		"mana": 10
+	},
+	"duration": "PT100M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 100
+		}
+	}
 }

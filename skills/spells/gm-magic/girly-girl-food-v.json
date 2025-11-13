@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/girly-girl-food-v",
-    "requirements": {
-        "skill": 250,
-        "level": 901,
-        "mana": 5
-    },
-    "duration": "PT305M",
-    "effects": {
-        "skills": {
-            "cooking": 400
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/girly-girl-food-v",
+	"requirements": {
+		"skill": 250,
+		"level": 901,
+		"mana": 5
+	},
+	"duration": "PT305M",
+	"effects": {
+		"skills": {
+			"cooking": 400
+		}
+	}
 }

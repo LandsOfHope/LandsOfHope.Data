@@ -1,15 +1,15 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/skills/crafting/recipe-product.json",
-    "title": "RecipeProduct",
-    "oneOf": [
-        {
-            "$ref": "/schemas/v1/skills/crafting/recipe-product-item.json"
-        },
-        {
-            "$ref": "/schemas/v1/skills/crafting/recipe-product-vessel-item.json"
-        },
-        {
-            "$ref": "/schemas/v1/skills/crafting/recipe-product-bejewel.json"
-        }
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/skills/crafting/recipe-product.json",
+	"title": "RecipeProduct",
+	"oneOf": [
+		{
+			"$ref": "/schemas/v1/skills/crafting/recipe-product-item.json"
+		},
+		{
+			"$ref": "/schemas/v1/skills/crafting/recipe-product-vessel-item.json"
+		},
+		{
+			"$ref": "/schemas/v1/skills/crafting/recipe-product-bejewel.json"
+		}
+	]
 }

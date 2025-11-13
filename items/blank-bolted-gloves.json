@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "blank-bolted-gloves",
-    "image": "6830",
-    "type": "hand-armour",
-    "set": "inventor-bolted-set",
-    "material": "metal",
-    "skill": "bolts-over-brains",
-    "skills": {
-        "armor": 0.5
-    }
+	"$type": "/v1/item",
+	"id": "blank-bolted-gloves",
+	"image": "6830",
+	"type": "hand-armour",
+	"set": "inventor-bolted-set",
+	"material": "metal",
+	"skill": "bolts-over-brains",
+	"skills": {
+		"armor": 0.5
+	}
 }

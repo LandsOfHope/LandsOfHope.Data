@@ -1,30 +1,30 @@
 {
-    "$type": "/v1/profession",
-    "id": "paladin",
-    "name": {
-        "en": "Paladin"
-    },
-    "desc": {
-        "en": "The Paladin is a Tier III evolution from the Fighter Profession via Squire > Knight > Paladin, the Paladin gains the ability to <b>Track Undead</b> and wield <b>Pole Blades</b> and <b>Two Handed Swords</b>."
-    },
-    "skills": {
-        "first-aid": 5,
-        "swords": 5,
-        "track-undead": 5,
-        "shields": 5,
-        "protection": 5,
-        "dual-wielding": 5,
-        "two-handed-swords": 5,
-        "pole-weapons": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 2,
-        "INTELLIGENCE": 2,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 2,
-        "MAXSTAMINA": 3,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "paladin",
+	"name": {
+		"en": "Paladin"
+	},
+	"desc": {
+		"en": "The Paladin is a Tier III evolution from the Fighter Profession via Squire > Knight > Paladin, the Paladin gains the ability to <b>Track Undead</b> and wield <b>Pole Blades</b> and <b>Two Handed Swords</b>."
+	},
+	"skills": {
+		"first-aid": 5,
+		"swords": 5,
+		"track-undead": 5,
+		"shields": 5,
+		"protection": 5,
+		"dual-wielding": 5,
+		"two-handed-swords": 5,
+		"pole-weapons": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 3,
+		"STRENGTH": 2
+	}
 }

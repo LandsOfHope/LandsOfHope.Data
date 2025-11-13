@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "ravaged-chain-boots",
-    "image": "2576",
-    "type": "foot-armour",
-    "armorType": "mail",
-    "material": "metal",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "ravaged-chain-boots",
+	"image": "2576",
+	"type": "foot-armour",
+	"armorType": "mail",
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-melody",
-    "image": "ring15",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "instruments": 1,
-        "singing": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-melody",
+	"image": "ring15",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"instruments": 1,
+		"singing": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

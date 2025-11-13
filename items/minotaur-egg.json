@@ -1,8 +1,8 @@
 {
-    "$type": "/v1/item",
-    "id": "minotaur-egg",
-    "image": "zumieg",
-    "type": "monster-spawner",
-    "material": "gem",
-    "skill": "myzan-defenders"
+	"$type": "/v1/item",
+	"id": "minotaur-egg",
+	"image": "zumieg",
+	"type": "monster-spawner",
+	"material": "gem",
+	"skill": "myzan-defenders"
 }

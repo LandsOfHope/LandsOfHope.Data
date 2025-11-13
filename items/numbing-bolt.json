@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "numbing-bolt",
-    "image": "arr1",
-    "type": "ammo-weapons-crossbows",
-    "dpr": 75,
-    "material": "wood",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "numbing-bolt",
+	"image": "arr1",
+	"type": "ammo-weapons-crossbows",
+	"dpr": 75,
+	"material": "wood",
+	"skills": {
+		"attack-power": 1
+	}
 }

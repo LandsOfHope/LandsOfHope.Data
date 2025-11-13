@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "enchanter",
-    "name": {
-        "en": "Enchanter"
-    },
-    "desc": {
-        "en": "Someone who can enchant items."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 4,
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 4
-    }
+	"$type": "/v1/profession",
+	"id": "enchanter",
+	"name": {
+		"en": "Enchanter"
+	},
+	"desc": {
+		"en": "Someone who can enchant items."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 4,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 4
+	}
 }

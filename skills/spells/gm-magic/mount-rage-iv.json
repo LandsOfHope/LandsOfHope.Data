@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/mount-rage-iv",
-    "requirements": {
-        "skill": 946,
-        "mana": 946
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "SPEED": 474
-        },
-        "skills": {
-            "attack-power": 474
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/mount-rage-iv",
+	"requirements": {
+		"skill": 946,
+		"mana": 946
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"SPEED": 474
+		},
+		"skills": {
+			"attack-power": 474
+		}
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "dungeonseeker-shirt",
-    "image": "4954",
-    "type": "chest-armour",
-    "armorType": "cloth",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "dungeonseeker-shirt",
+	"image": "4954",
+	"type": "chest-armour",
+	"armorType": "cloth",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

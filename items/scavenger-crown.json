@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "scavenger-crown",
-    "image": "849",
-    "type": "head-armour",
-    "material": "metal",
-    "skills": {
-        "appraisal": 1,
-        "exploration": 1
-    }
+	"$type": "/v1/item",
+	"id": "scavenger-crown",
+	"image": "849",
+	"type": "head-armour",
+	"material": "metal",
+	"skills": {
+		"appraisal": 1,
+		"exploration": 1
+	}
 }

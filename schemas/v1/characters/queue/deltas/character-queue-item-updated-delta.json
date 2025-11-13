@@ -1,54 +1,42 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/characters/queue/deltas/character-queue-item-updated-delta.json",
-    "title": "CharacterQueueItemUpdatedDelta",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/characters/queue/deltas/character-queue-item-updated-delta"
-        },
-        "old": {
-            "type": "object",
-            "properties": {
-                "start": {
-                    "$ref": "/schemas/v0/datetime.json"
-                },
-                "finish": {
-                    "$ref": "/schemas/v0/datetime.json"
-                },
-                "cancellable": {
-                    "type": "boolean"
-                }
-            },
-            "required": [
-                "start",
-                "finish",
-                "cancellable"
-            ]
-        },
-        "new": {
-            "type": "object",
-            "properties": {
-                "start": {
-                    "$ref": "/schemas/v0/datetime.json"
-                },
-                "finish": {
-                    "$ref": "/schemas/v0/datetime.json"
-                },
-                "cancellable": {
-                    "type": "boolean"
-                }
-            },
-            "required": [
-                "start",
-                "finish",
-                "cancellable"
-            ]
-        }
-    },
-    "required": [
-        "$type",
-        "old",
-        "new"
-    ],
-    "additionalProperties": false
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/deltas/character-queue-item-updated-delta.json",
+	"title": "CharacterQueueItemUpdatedDelta",
+	"type": "object",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/queue/deltas/character-queue-item-updated-delta"
+		},
+		"old": {
+			"type": "object",
+			"properties": {
+				"start": {
+					"$ref": "/schemas/v0/datetime.json"
+				},
+				"finish": {
+					"$ref": "/schemas/v0/datetime.json"
+				},
+				"cancellable": {
+					"type": "boolean"
+				}
+			},
+			"required": ["start", "finish", "cancellable"]
+		},
+		"new": {
+			"type": "object",
+			"properties": {
+				"start": {
+					"$ref": "/schemas/v0/datetime.json"
+				},
+				"finish": {
+					"$ref": "/schemas/v0/datetime.json"
+				},
+				"cancellable": {
+					"type": "boolean"
+				}
+			},
+			"required": ["start", "finish", "cancellable"]
+		}
+	},
+	"required": ["$type", "old", "new"],
+	"additionalProperties": false
 }

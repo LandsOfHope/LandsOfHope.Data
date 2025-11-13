@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/270-dexterity",
-    "requirements": {
-        "skill": 2700,
-        "level": 540,
-        "mana": 54
-    },
-    "duration": "PT60M",
-    "effects": {
-        "properties": {
-            "DEXTERITY": 270
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/270-dexterity",
+	"requirements": {
+		"skill": 2700,
+		"level": 540,
+		"mana": 54
+	},
+	"duration": "PT60M",
+	"effects": {
+		"properties": {
+			"DEXTERITY": 270
+		}
+	}
 }

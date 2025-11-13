@@ -1,23 +1,23 @@
 {
-    "$type": "/v1/profession",
-    "id": "demon-beast",
-    "name": {
-        "en": "Demon Beast"
-    },
-    "desc": {
-        "en": "An ancient guardian"
-    },
-    "skills": {
-        "frenzy": 5,
-        "fire-resistance": 5,
-        "fists": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "MAXHITPOINTS": 5,
-        "MAXSTAMINA": 4,
-        "STRENGTH": 4
-    }
+	"$type": "/v1/profession",
+	"id": "demon-beast",
+	"name": {
+		"en": "Demon Beast"
+	},
+	"desc": {
+		"en": "An ancient guardian"
+	},
+	"skills": {
+		"frenzy": 5,
+		"fire-resistance": 5,
+		"fists": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"MAXHITPOINTS": 5,
+		"MAXSTAMINA": 4,
+		"STRENGTH": 4
+	}
 }

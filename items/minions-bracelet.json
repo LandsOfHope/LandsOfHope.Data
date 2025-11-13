@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "minions-bracelet",
-    "image": "5931",
-    "type": "wrist-jewelry",
-    "material": "cloth",
-    "skills": {
-        "mana-regen": 1
-    }
+	"$type": "/v1/item",
+	"id": "minions-bracelet",
+	"image": "5931",
+	"type": "wrist-jewelry",
+	"material": "cloth",
+	"skills": {
+		"mana-regen": 1
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/meal-ready-to-eat",
-    "requirements": {
-        "skill": 5,
-        "mana": 33
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "MAXSTAMINA": 200
-        },
-        "skills": {
-            "experience-bonus": 400
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/meal-ready-to-eat",
+	"requirements": {
+		"skill": 5,
+		"mana": 33
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"MAXSTAMINA": 200
+		},
+		"skills": {
+			"experience-bonus": 400
+		}
+	}
 }

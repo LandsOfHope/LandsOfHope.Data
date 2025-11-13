@@ -1,1 +1,9 @@
-{"$type":"/v1/skill","group":"world","titles":{"500":"lesser-archaeologist","2500":"adept-archaeologist","5000":"master-archaeologist"}}
+{
+	"$type": "/v1/skill",
+	"group": "world",
+	"titles": {
+		"500": "lesser-archaeologist",
+		"2500": "adept-archaeologist",
+		"5000": "master-archaeologist"
+	}
+}

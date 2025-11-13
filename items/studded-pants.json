@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "studded-pants",
-    "image": "2785",
-    "type": "leg-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "studded-pants",
+	"image": "2785",
+	"type": "leg-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	}
 }

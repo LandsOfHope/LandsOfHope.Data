@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "heartstone",
-    "image": "zuheen",
-    "type": "neck",
-    "material": "metal",
-    "skills": {
-        "summoning": 1,
-        "necromancy": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1,
-        "MAXMANA": 1
-    }
+	"$type": "/v1/item",
+	"id": "heartstone",
+	"image": "zuheen",
+	"type": "neck",
+	"material": "metal",
+	"skills": {
+		"summoning": 1,
+		"necromancy": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1
+	}
 }

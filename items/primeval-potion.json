@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "primeval-potion",
-    "image": "pe5",
-    "type": "ammo-weapons-potions",
-    "dpr": 52,
-    "material": "gem",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "primeval-potion",
+	"image": "pe5",
+	"type": "ammo-weapons-potions",
+	"dpr": 52,
+	"material": "gem",
+	"skills": {
+		"attack-power": 1
+	}
 }

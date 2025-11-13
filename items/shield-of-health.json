@@ -1,15 +1,15 @@
 {
-    "$type": "/v1/item",
-    "id": "shield-of-health",
-    "image": "542",
-    "type": "2-handed-equipment",
-    "dpr": 4,
-    "material": "wood",
-    "skill": "two-handed-shields",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "shield-of-health",
+	"image": "542",
+	"type": "2-handed-equipment",
+	"dpr": 4,
+	"material": "wood",
+	"skill": "two-handed-shields",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

@@ -1,19 +1,19 @@
 {
-    "$type": "/v1/profession",
-    "id": "prophet",
-    "name": {
-        "en": "Prophet"
-    },
-    "desc": {
-        "en": "Someone who sees things."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "INTELLIGENCE": 5,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 2
-    }
+	"$type": "/v1/profession",
+	"id": "prophet",
+	"name": {
+		"en": "Prophet"
+	},
+	"desc": {
+		"en": "Someone who sees things."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"INTELLIGENCE": 5,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 2
+	}
 }

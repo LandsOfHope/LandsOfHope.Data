@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/nobleman-i",
-    "requirements": {
-        "skill": 151,
-        "mana": 151
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 76
-        },
-        "skills": {
-            "swords": 76
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/nobleman-i",
+	"requirements": {
+		"skill": 151,
+		"mana": 151
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 76
+		},
+		"skills": {
+			"swords": 76
+		}
+	}
 }

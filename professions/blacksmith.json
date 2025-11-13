@@ -1,20 +1,20 @@
 {
-    "$type": "/v1/profession",
-    "id": "blacksmith",
-    "name": {
-        "en": "Blacksmith"
-    },
-    "desc": {
-        "en": "Blacksmith. An expert at creating metal items from ingots."
-    },
-    "skills": {
-        "blacksmithing": 5,
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "MAXHITPOINTS": 3,
-        "MAXSTAMINA": 2,
-        "STRENGTH": 4
-    }
+	"$type": "/v1/profession",
+	"id": "blacksmith",
+	"name": {
+		"en": "Blacksmith"
+	},
+	"desc": {
+		"en": "Blacksmith. An expert at creating metal items from ingots."
+	},
+	"skills": {
+		"blacksmithing": 5,
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 2,
+		"STRENGTH": 4
+	}
 }

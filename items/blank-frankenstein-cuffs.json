@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "blank-frankenstein-cuffs",
-    "image": "6948",
-    "type": "wrist-jewelry",
-    "legendary": true,
-    "set": "frankenstein",
-    "material": "hide",
-    "skill": "blood-over-beauty",
-    "properties": {
-        "MAXSTAMINA": 0.75
-    }
+	"$type": "/v1/item",
+	"id": "blank-frankenstein-cuffs",
+	"image": "6948",
+	"type": "wrist-jewelry",
+	"legendary": true,
+	"set": "frankenstein",
+	"material": "hide",
+	"skill": "blood-over-beauty",
+	"properties": {
+		"MAXSTAMINA": 0.75
+	}
 }

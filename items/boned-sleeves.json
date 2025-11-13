@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/item",
-    "id": "boned-sleeves",
-    "image": "513",
-    "type": "arm-armour",
-    "armorType": "leather",
-    "material": "hide",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXHITPOINTS": 1
-    }
+	"$type": "/v1/item",
+	"id": "boned-sleeves",
+	"image": "513",
+	"type": "arm-armour",
+	"armorType": "leather",
+	"material": "hide",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXHITPOINTS": 1
+	}
 }

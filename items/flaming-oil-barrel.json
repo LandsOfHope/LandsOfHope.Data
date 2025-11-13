@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "flaming-oil-barrel",
-    "image": "6904",
-    "type": "catapult-ammo",
-    "material": "gem",
-    "skill": "siege-weapons",
-    "skills": {
-        "attack-power": 1.2
-    }
+	"$type": "/v1/item",
+	"id": "flaming-oil-barrel",
+	"image": "6904",
+	"type": "catapult-ammo",
+	"material": "gem",
+	"skill": "siege-weapons",
+	"skills": {
+		"attack-power": 1.2
+	}
 }

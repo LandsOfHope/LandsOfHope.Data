@@ -1,12 +1,12 @@
 {
-    "$type": "/v1/item",
-    "id": "harvestor-knife",
-    "image": "fehakn",
-    "type": "1-handed-equipment",
-    "dpr": 2,
-    "material": "metal",
-    "skill": "farming",
-    "skills": {
-        "farming": 1
-    }
+	"$type": "/v1/item",
+	"id": "harvestor-knife",
+	"image": "fehakn",
+	"type": "1-handed-equipment",
+	"dpr": 2,
+	"material": "metal",
+	"skill": "farming",
+	"skills": {
+		"farming": 1
+	}
 }

@@ -1,20 +1,20 @@
 {
-    "$type": "/v1/profession",
-    "id": "chamberlain",
-    "name": {
-        "en": "Chamberlain"
-    },
-    "desc": {
-        "en": "Responsible for Administering the guild Credit System."
-    },
-    "skills": {
-        "armor": 5,
-        "attack-power": 5
-    },
-    "properties": {
-        "DEXTERITY": 3,
-        "INTELLIGENCE": 3,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 2
-    }
+	"$type": "/v1/profession",
+	"id": "chamberlain",
+	"name": {
+		"en": "Chamberlain"
+	},
+	"desc": {
+		"en": "Responsible for Administering the guild Credit System."
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 2
+	}
 }

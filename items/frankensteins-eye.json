@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "frankensteins-eye",
-    "image": "6349",
-    "type": "glasses-shades",
-    "armorType": "cloth",
-    "set": "frankenstein-set",
-    "material": "hide",
-    "skills": {
-        "energy-resistance": 1,
-        "poison-resistance": 1
-    },
-    "properties": {
-        "INTELLIGENCE": 1
-    }
+	"$type": "/v1/item",
+	"id": "frankensteins-eye",
+	"image": "6349",
+	"type": "glasses-shades",
+	"armorType": "cloth",
+	"set": "frankenstein-set",
+	"material": "hide",
+	"skills": {
+		"energy-resistance": 1,
+		"poison-resistance": 1
+	},
+	"properties": {
+		"INTELLIGENCE": 1
+	}
 }

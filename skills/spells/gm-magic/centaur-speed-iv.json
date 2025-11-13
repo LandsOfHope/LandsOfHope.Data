@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/centaur-speed-iv",
-    "requirements": {
-        "skill": 771,
-        "mana": 771
-    },
-    "duration": "PT5000M",
-    "effects": {
-        "properties": {
-            "SPEED": 386
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/centaur-speed-iv",
+	"requirements": {
+		"skill": 771,
+		"mana": 771
+	},
+	"duration": "PT5000M",
+	"effects": {
+		"properties": {
+			"SPEED": 386
+		}
+	}
 }

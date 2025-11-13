@@ -1,17 +1,17 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gm-magic/change-into-a-boneguard",
-    "requirements": {
-        "skill": 994,
-        "mana": 994
-    },
-    "duration": "PT14000M",
-    "effects": {
-        "properties": {
-            "STRENGTH": 598
-        },
-        "skills": {
-            "attack-power": 498
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gm-magic/change-into-a-boneguard",
+	"requirements": {
+		"skill": 994,
+		"mana": 994
+	},
+	"duration": "PT14000M",
+	"effects": {
+		"properties": {
+			"STRENGTH": 598
+		},
+		"skills": {
+			"attack-power": 498
+		}
+	}
 }

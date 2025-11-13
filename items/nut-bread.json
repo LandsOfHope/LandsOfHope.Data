@@ -1,10 +1,10 @@
 {
-    "$type": "/v1/item",
-    "id": "nut-bread",
-    "image": "nub",
-    "type": "food",
-    "material": "berry",
-    "properties": {
-        "STAMINA": 2
-    }
+	"$type": "/v1/item",
+	"id": "nut-bread",
+	"image": "nub",
+	"type": "food",
+	"material": "berry",
+	"properties": {
+		"STAMINA": 2
+	}
 }

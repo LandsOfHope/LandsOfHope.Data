@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "healing-magic/volatile-health-boost",
-    "requirements": {
-        "skill": 4089,
-        "mana": 4089
-    },
-    "duration": "PT560M",
-    "effects": {
-        "properties": {
-            "MAXHITPOINTS": 351
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "healing-magic/volatile-health-boost",
+	"requirements": {
+		"skill": 4089,
+		"mana": 4089
+	},
+	"duration": "PT560M",
+	"effects": {
+		"properties": {
+			"MAXHITPOINTS": 351
+		}
+	}
 }

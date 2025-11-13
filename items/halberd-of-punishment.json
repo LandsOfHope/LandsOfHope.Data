@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "halberd-of-punishment",
-    "image": "1909",
-    "type": "2-handed-equipment",
-    "dpr": 11,
-    "material": "metal",
-    "skill": "pole-weapons",
-    "skills": {
-        "pole-weapons": 1,
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "halberd-of-punishment",
+	"image": "1909",
+	"type": "2-handed-equipment",
+	"dpr": 11,
+	"material": "metal",
+	"skill": "pole-weapons",
+	"skills": {
+		"pole-weapons": 1,
+		"attack-power": 1
+	}
 }

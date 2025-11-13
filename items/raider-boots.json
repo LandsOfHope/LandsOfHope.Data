@@ -1,16 +1,16 @@
 {
-    "$type": "/v1/item",
-    "id": "raider-boots",
-    "image": "5237",
-    "type": "foot-armour",
-    "armorType": "leather",
-    "expansion": "uncharted-waters",
-    "material": "cloth",
-    "skill": "pirate-league",
-    "skills": {
-        "armor": 1
-    },
-    "properties": {
-        "MAXSTAMINA": 1
-    }
+	"$type": "/v1/item",
+	"id": "raider-boots",
+	"image": "5237",
+	"type": "foot-armour",
+	"armorType": "leather",
+	"expansion": "uncharted-waters",
+	"material": "cloth",
+	"skill": "pirate-league",
+	"skills": {
+		"armor": 1
+	},
+	"properties": {
+		"MAXSTAMINA": 1
+	}
 }

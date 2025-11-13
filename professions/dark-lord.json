@@ -1,26 +1,26 @@
 {
-    "$type": "/v1/profession",
-    "id": "dark-lord",
-    "name": {
-        "en": "Dark Lord"
-    },
-    "desc": {
-        "en": "The Dark Lord is a Tier III evolution from the Caster Profession via Shaman > Necromancer keeping all of the Necromancers abilities the Dark Lord also gains the abilty to use <b>Dark</b> magic, <b>Mana Draining</b> and <b>Maces</b>."
-    },
-    "skills": {
-        "mana-draining": 5,
-        "maces": 5,
-        "armor": 5,
-        "attack-power": 5,
-        "dark-magic": 5
-    },
-    "properties": {
-        "DEXTERITY": 1,
-        "INTELLIGENCE": 1,
-        "MAXHITPOINTS": 3,
-        "MAXMANA": 3,
-        "MAXSTAMINA": 2,
-        "SPEED": 1,
-        "STRENGTH": 2
-    }
+	"$type": "/v1/profession",
+	"id": "dark-lord",
+	"name": {
+		"en": "Dark Lord"
+	},
+	"desc": {
+		"en": "The Dark Lord is a Tier III evolution from the Caster Profession via Shaman > Necromancer keeping all of the Necromancers abilities the Dark Lord also gains the abilty to use <b>Dark</b> magic, <b>Mana Draining</b> and <b>Maces</b>."
+	},
+	"skills": {
+		"mana-draining": 5,
+		"maces": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"dark-magic": 5
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 3,
+		"MAXSTAMINA": 2,
+		"SPEED": 1,
+		"STRENGTH": 2
+	}
 }

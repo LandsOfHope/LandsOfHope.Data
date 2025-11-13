@@ -1,14 +1,14 @@
 {
-    "$type": "/v1/skills/spell",
-    "id": "gamemastery/all-seeing-eye",
-    "requirements": {
-        "skill": 1,
-        "mana": 61
-    },
-    "duration": "PT150M",
-    "effects": {
-        "skills": {
-            "experience-bonus": 10000
-        }
-    }
+	"$type": "/v1/skills/spell",
+	"id": "gamemastery/all-seeing-eye",
+	"requirements": {
+		"skill": 1,
+		"mana": 61
+	},
+	"duration": "PT150M",
+	"effects": {
+		"skills": {
+			"experience-bonus": 10000
+		}
+	}
 }

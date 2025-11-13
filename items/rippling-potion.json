@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "rippling-potion",
-    "image": "pe5",
-    "type": "ammo-weapons-potions",
-    "dpr": 90,
-    "material": "gem",
-    "skills": {
-        "attack-power": 1
-    }
+	"$type": "/v1/item",
+	"id": "rippling-potion",
+	"image": "pe5",
+	"type": "ammo-weapons-potions",
+	"dpr": 90,
+	"material": "gem",
+	"skills": {
+		"attack-power": 1
+	}
 }

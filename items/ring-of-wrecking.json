@@ -1,13 +1,13 @@
 {
-    "$type": "/v1/item",
-    "id": "ring-of-wrecking",
-    "image": "ring1",
-    "type": "ring",
-    "material": "gem",
-    "skills": {
-        "deconstruction": 1
-    },
-    "properties": {
-        "STRENGTH": 1
-    }
+	"$type": "/v1/item",
+	"id": "ring-of-wrecking",
+	"image": "ring1",
+	"type": "ring",
+	"material": "gem",
+	"skills": {
+		"deconstruction": 1
+	},
+	"properties": {
+		"STRENGTH": 1
+	}
 }

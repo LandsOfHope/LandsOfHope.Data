@@ -1,11 +1,11 @@
 {
-    "$type": "/v1/item",
-    "id": "simple-doublet",
-    "image": "3075",
-    "type": "chest-armour",
-    "armorType": "cloth",
-    "material": "cloth",
-    "skills": {
-        "armor": 1
-    }
+	"$type": "/v1/item",
+	"id": "simple-doublet",
+	"image": "3075",
+	"type": "chest-armour",
+	"armorType": "cloth",
+	"material": "cloth",
+	"skills": {
+		"armor": 1
+	}
 }

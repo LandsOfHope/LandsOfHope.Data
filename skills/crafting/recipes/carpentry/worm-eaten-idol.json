@@ -1,21 +1,21 @@
 {
-    "$type": "/v1/skills/crafting/recipe",
-    "id": "carpentry/worm-eaten-idol",
-    "makes": {
-        "$type": "/v1/skills/crafting/recipe-product-item",
-        "item": "worm-eaten-idol"
-    },
-    "image": "962",
-    "time": "PT15S",
-    "quantity": 1,
-    "skill": "carpentry",
-    "skillValue": 2725,
-    "quality": "common",
-    "ingredients": [
-        {
-            "id": "plank",
-            "quantity": 13,
-            "primary": true
-        }
-    ]
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "carpentry/worm-eaten-idol",
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "worm-eaten-idol"
+	},
+	"image": "962",
+	"time": "PT15S",
+	"quantity": 1,
+	"skill": "carpentry",
+	"skillValue": 2725,
+	"quality": "common",
+	"ingredients": [
+		{
+			"id": "plank",
+			"quantity": 13,
+			"primary": true
+		}
+	]
 }
