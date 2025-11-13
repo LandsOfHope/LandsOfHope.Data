@@ -1,0 +1,44 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/maps/map-tile-settings.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/maps/map-tile-settings"
+		},
+		"desc": {
+			"maxLength": 255,
+			"type": "string"
+		},
+		"name": {
+			"maxLength": 25,
+			"type": "string"
+		},
+		"requirePermitToBuild": {
+			"type": "boolean"
+		},
+		"salePrice": {
+			"oneOf": [
+				{
+					"minimum": 1,
+					"type": "number"
+				},
+				{
+					"type": "null"
+				}
+			]
+		},
+		"spawnEnemies": {
+			"type": "boolean"
+		}
+	},
+	"required": [
+		"$type",
+		"name",
+		"desc",
+		"requirePermitToBuild",
+		"spawnEnemies",
+		"salePrice"
+	],
+	"title": "MapTileSettings",
+	"type": "object"
+}

@@ -1,0 +1,21 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/events/maps/map-landmark-updated-event.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/events/maps/map-landmark-updated-event"
+		},
+		"landmark": {
+			"$ref": "/schemas/v1/maps/map-landmark-id.json"
+		},
+		"new": {
+			"$ref": "/schemas/v1/maps/map-landmark.json"
+		},
+		"old": {
+			"$ref": "/schemas/v1/maps/map-landmark.json"
+		}
+	},
+	"required": ["$type", "landmark", "new"],
+	"title": "MapLandmarkUpdatedEvent",
+	"type": "object"
+}

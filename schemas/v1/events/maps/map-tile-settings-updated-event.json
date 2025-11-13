@@ -1,0 +1,24 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/events/maps/map-tile-settings-updated-event.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/events/maps/map-tile-settings-updated-event"
+		},
+		"map": {
+			"$ref": "/schemas/v1/maps/map-id.json"
+		},
+		"new": {
+			"$ref": "/schemas/v1/maps/map-tile-settings.json"
+		},
+		"old": {
+			"$ref": "/schemas/v1/maps/map-tile-settings.json"
+		},
+		"tile": {
+			"$ref": "/schemas/v1/coordinate.json"
+		}
+	},
+	"required": ["$type", "map", "tile", "new"],
+	"title": "MapTileSettingsUpdatedEvent",
+	"type": "object"
+}

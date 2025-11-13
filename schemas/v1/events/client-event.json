@@ -1,16 +1,19 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/client-event.json",
-    "title": "ClientEvent",
-    "type": "object",
-    "oneOf": [
-        {
-            "$ref": "/schemas/v1/events/chat/chat-client-event.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/characters/character-client-event.json"
-        },
-        {
-            "$ref": "/schemas/v1/events/live/live-client-event.json"
-        }
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/events/client-event.json",
+	"oneOf": [
+		{
+			"$ref": "/schemas/v1/events/chat/chat-client-event.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/characters/character-client-event.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/live/live-client-event.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/maps/map-client-event.json"
+		}
+	],
+	"title": "ClientEvent",
+	"type": "object"
 }

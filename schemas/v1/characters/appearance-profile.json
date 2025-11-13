@@ -36,6 +36,9 @@
         },
         "possessor": {
             "$ref": "/schemas/v1/characters/appearance-profile.json"
+        },
+        "allegiance": {
+            "$ref": "/schemas/v1/allegiances-id.gen.json"
         }
     },
     "additionalProperties": false,

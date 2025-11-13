@@ -1,0 +1,19 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/events/maps/map-client-event.json",
+	"oneOf": [
+		{
+			"$ref": "/schemas/v1/events/maps/map-tile-settings-updated-event.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/maps/map-landmark-updated-event.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/maps/map-landmark-added-event.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/maps/map-landmark-removed-event.json"
+		}
+	],
+	"title": "MapClientEvent",
+	"type": "object"
+}

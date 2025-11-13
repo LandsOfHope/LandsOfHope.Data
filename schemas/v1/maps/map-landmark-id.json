@@ -1,0 +1,6 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/maps/map-landmark-id.json",
+    "title": "MapLandmarkId",
+    "type": "integer",
+    "minimum": 1
+}

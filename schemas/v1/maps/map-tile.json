@@ -1,34 +1,31 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/maps/map-tile.json",
-    "title": "MapTile",
-    "type": "object",
-    "properties": {
-        "img": {
-            "$ref": "/schemas/v1/maps/map-tile-img.json"
-        },
-        "img2": {
-            "$ref": "/schemas/v1/maps/map-tile-img.json"
-        },
-        "terrain": {
-            "oneOf": [
-                {
-                    "$ref": "/schemas/v1/maps/terrain.json"
-                },
-                {
-                    "$ref": "/schemas/v1/maps-terrains-id.gen.json"
-                }
-            ]
-        },
-        "level": {
-            "type": "number"
-        },
-        "color": {
-            "$ref": "/schemas/v1/color-hex.json"
-        }
-    },
-    "additionalProperties": false,
-    "required": [
-        "terrain",
-        "level"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/maps/map-tile.json",
+	"additionalProperties": false,
+	"properties": {
+		"color": {
+			"$ref": "/schemas/v1/color-hex.json"
+		},
+		"img": {
+			"$ref": "/schemas/v1/maps/map-tile-img.json"
+		},
+		"img2": {
+			"$ref": "/schemas/v1/maps/map-tile-img.json"
+		},
+		"level": {
+			"type": "number"
+		},
+		"terrain": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/maps/terrain.json"
+				},
+				{
+					"$ref": "/schemas/v1/maps-terrains-id.gen.json"
+				}
+			]
+		}
+	},
+	"required": ["terrain", "level"],
+	"title": "MapTile",
+	"type": "object"
 }
