@@ -1,0 +1,26 @@
+{
+	"$schema": "https://biomejs.dev/schemas/2.3.4/schema.json",
+	"assist": {
+		"actions": {
+			"source": {
+				"organizeImports": {
+					"level": "on",
+					"options": {}
+				},
+				"useSortedAttributes": {
+					"level": "on",
+					"options": {}
+				},
+				"useSortedKeys": {
+					"level": "on",
+					"options": {}
+				},
+				"useSortedProperties": {
+					"level": "on",
+					"options": {}
+				}
+			}
+		},
+		"enabled": true
+	}
+}
