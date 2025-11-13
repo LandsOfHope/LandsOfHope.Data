@@ -1,22 +1,18 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/characters/character-skills-updated-event.json",
-    "title": "CharacterSkillsUpdatedEvent",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/events/characters/character-skills-updated-event"
-        },
-        "character": {
-            "$ref": "/schemas/v1/characters/character-id.json"
-        },
-        "updated": {
-            "$ref": "/schemas/v1/characters/character-skills.json"
-        }
-    },
-    "required": [
-        "$type",
-        "character",
-        "updated"
-    ],
-    "additionalProperties": false
+	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/character-skills-updated-event.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/events/characters/character-skills-updated-event"
+		},
+		"character": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"updated": {
+			"$ref": "/schemas/v1/characters/character-skills.json"
+		}
+	},
+	"required": ["$type", "character", "updated"],
+	"title": "CharacterSkillsUpdatedEvent",
+	"type": "object"
 }

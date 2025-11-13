@@ -1,34 +1,28 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/characters/inventory/inventory-items-moved-event.json",
-    "title": "InventoryItemsMovedEvent",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/events/characters/inventory/inventory-items-moved-event"
-        },
-        "moves": {
-            "type": "array",
-            "minItems": 1,
-            "items": {
-                "type": "object",
-                "properties": {
-                    "inventoryItemId": {
-                        "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
-                    },
-                    "delta": {
-                        "$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-moved-delta.json"
-                    }
-                },
-                "additionalProperties": false,
-                "required": [
-                    "inventoryItemId",
-                    "delta"
-                ]
-            }
-        }
-    },
-    "required": [
-        "$type",
-        "moves"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/inventory/inventory-items-moved-event.json",
+	"properties": {
+		"$type": {
+			"const": "/v1/events/characters/inventory/inventory-items-moved-event"
+		},
+		"moves": {
+			"items": {
+				"additionalProperties": false,
+				"properties": {
+					"delta": {
+						"$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-moved-delta.json"
+					},
+					"inventoryItemId": {
+						"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+					}
+				},
+				"required": ["inventoryItemId", "delta"],
+				"type": "object"
+			},
+			"minItems": 1,
+			"type": "array"
+		}
+	},
+	"required": ["$type", "moves"],
+	"title": "InventoryItemsMovedEvent",
+	"type": "object"
 }

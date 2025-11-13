@@ -1,0 +1,20 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/inventory/inventory-currency-updated-event.json",
+	"properties": {
+		"$type": {
+			"const": "/v1/events/characters/inventory/inventory-currency-updated-event"
+		},
+		"character": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"new": {
+			"$ref": "/schemas/v0/game-currency.json"
+		},
+		"old": {
+			"$ref": "/schemas/v0/game-currency.json"
+		}
+	},
+	"required": ["$type", "character", "new"],
+	"title": "InventoryCurrencyUpdatedEvent",
+	"type": "object"
+}

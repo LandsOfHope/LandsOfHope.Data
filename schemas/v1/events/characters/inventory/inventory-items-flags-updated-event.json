@@ -1,29 +1,25 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/characters/inventory/inventory-items-flags-updated-event.json",
-    "title": "InventoryItemsFlagsUpdatedEvent",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/events/characters/inventory/inventory-items-flags-updated-event"
-        },
-        "character": {
-            "type": "integer"
-        },
-        "updated": {
-            "type": "object",
-            "propertyNames": {
-                "$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
-            },
-            "patternProperties": {
-                "\\d+": {
-                    "$ref": "/schemas/v1/characters/inventory/inventory-item-flags.json"
-                }
-            }
-        }
-    },
-    "required": [
-        "$type",
-        "character",
-        "updated"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/inventory/inventory-items-flags-updated-event.json",
+	"properties": {
+		"$type": {
+			"const": "/v1/events/characters/inventory/inventory-items-flags-updated-event"
+		},
+		"character": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"updated": {
+			"patternProperties": {
+				"\\d+": {
+					"$ref": "/schemas/v1/characters/inventory/inventory-item-flags.json"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+			},
+			"type": "object"
+		}
+	},
+	"required": ["$type", "character", "updated"],
+	"title": "InventoryItemsFlagsUpdatedEvent",
+	"type": "object"
 }

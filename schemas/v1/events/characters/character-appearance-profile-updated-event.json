@@ -1,21 +1,17 @@
 {
-    "$id": "https://data.landsofhope.com/schemas/v1/events/characters/character-appearance-profile-updated-event.json",
-    "title": "CharacterAppearanceProfileUpdatedEvent",
-    "type": "object",
-    "properties": {
-        "$type": {
-            "const": "/v1/events/characters/character-appearance-profile-updated-event"
-        },
-        "character": {
-            "type": "integer"
-        },
-        "appearanceProfile": {
-            "$ref": "/schemas/v1/characters/appearance-profile.json"
-        }
-    },
-    "required": [
-        "$type",
-        "character",
-        "appearanceProfile"
-    ]
+	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/character-appearance-profile-updated-event.json",
+	"properties": {
+		"$type": {
+			"const": "/v1/events/characters/character-appearance-profile-updated-event"
+		},
+		"appearanceProfile": {
+			"$ref": "/schemas/v1/characters/appearance-profile.json"
+		},
+		"character": {
+			"type": "integer"
+		}
+	},
+	"required": ["$type", "character", "appearanceProfile"],
+	"title": "CharacterAppearanceProfileUpdatedEvent",
+	"type": "object"
 }
