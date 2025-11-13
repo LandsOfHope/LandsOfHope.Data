@@ -48,13 +48,6 @@
                 ]
             },
             {
-                "$type": "/v1/menus/menu",
-                "name": {
-                    "en": "Claim Account Item"
-                },
-                "link": "fhaccountitem.asp"
-            },
-            {
                 "$type": "/v1/menus/horizontal-rule",
                 "img": "hr.gif"
             },
