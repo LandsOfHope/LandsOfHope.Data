@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-cleaver",
 	"image": "aba",
-	"type": "2-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "metal",
-	"skill": "two-handed-axes",
-	"skills": {
-		"frenzy": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"skill": "two-handed-axes",
+	"skills": {
+		"attack-power": 1,
+		"frenzy": 1
+	},
+	"type": "2-handed-equipment"
 }

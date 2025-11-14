@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "serpentine-hat",
 	"image": "2097",
-	"type": "head-armour",
-	"armorType": "cloth",
 	"material": "snake",
 	"properties": {
 		"DEXTERITY": 1
-	}
+	},
+	"type": "head-armour"
 }

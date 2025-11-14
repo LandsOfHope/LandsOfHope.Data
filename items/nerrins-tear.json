@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "nerrins-tear",
 	"image": "am1",
-	"type": "neck-clothing",
 	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "neck-clothing"
 }

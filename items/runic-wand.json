@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 5,
 	"id": "runic-wand",
 	"image": "wand01",
-	"type": "1-handed-equipment",
-	"dpr": 5,
 	"material": "gem",
-	"skill": "staves",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXMANA": 1
-	}
+	},
+	"skill": "staves",
+	"type": "1-handed-equipment"
 }

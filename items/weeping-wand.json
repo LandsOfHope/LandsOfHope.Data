@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 62,
 	"id": "weeping-wand",
 	"image": "wand14",
-	"type": "1-handed-equipment",
-	"dpr": 62,
 	"material": "stone",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skill": "staves",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "1-handed-equipment"
 }

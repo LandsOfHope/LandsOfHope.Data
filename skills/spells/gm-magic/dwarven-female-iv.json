@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/dwarven-female-iv",
-	"requirements": {
-		"skill": 712,
-		"mana": 712
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"fire-survival": 357
 		}
+	},
+	"id": "gm-magic/dwarven-female-iv",
+	"requirements": {
+		"mana": 712,
+		"skill": 712
 	}
 }

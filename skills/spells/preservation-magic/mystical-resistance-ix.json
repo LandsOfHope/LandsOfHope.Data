@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "preservation-magic/mystical-resistance-ix",
-	"requirements": {
-		"skill": 2913,
-		"mana": 2913
-	},
 	"duration": "PT75M",
 	"effects": {
 		"skills": {
 			"mystical-resistance": 294
 		}
+	},
+	"id": "preservation-magic/mystical-resistance-ix",
+	"requirements": {
+		"mana": 2913,
+		"skill": 2913
 	}
 }

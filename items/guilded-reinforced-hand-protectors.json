@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "guilded-reinforced-hand-protectors",
 	"image": "3766",
-	"type": "hand-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "hand-armour"
 }

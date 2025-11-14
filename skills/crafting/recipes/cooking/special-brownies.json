@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "cooking/special-brownies",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "special-brownies"
-	},
 	"image": "zuspbr",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "cooking",
-	"skillValue": 240,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "egg",
-			"quantity": 6,
-			"primary": true
+			"primary": true,
+			"quantity": 6
 		},
 		{
 			"id": "small-stove",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "special-brownies"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "cooking",
+	"skillValue": 240,
+	"time": "PT15S"
 }

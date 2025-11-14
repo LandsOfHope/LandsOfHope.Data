@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "afotram-the-coifmaker"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Afotram the Coifmaker",
-		"title": "blacksmith",
 		"image": "ham",
 		"level": {
 			"primary": 600
 		},
+		"name": "Afotram the Coifmaker",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "blacksmith"
 	}
 }

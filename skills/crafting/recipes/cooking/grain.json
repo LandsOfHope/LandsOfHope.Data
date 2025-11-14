@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "cooking/grain",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "grain"
-	},
 	"image": "gn1",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "cooking",
-	"skillValue": 5,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "bowl",
@@ -18,8 +9,17 @@
 		},
 		{
 			"id": "crop",
-			"quantity": 2,
-			"primary": true
+			"primary": true,
+			"quantity": 2
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "grain"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "cooking",
+	"skillValue": 5,
+	"time": "PT15S"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1324
+	},
 	"id": "shields/enhanced-block-and-strike-xii",
 	"requirements": {
 		"skill": 2641,
 		"stamina": 2640
-	},
-	"effects": {
-		"damage": 1324
 	}
 }

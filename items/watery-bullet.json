@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 30,
 	"id": "watery-bullet",
 	"image": "zuwabu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 30,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

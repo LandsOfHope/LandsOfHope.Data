@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "cured-mitts",
 	"image": "2882",
-	"type": "hand-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "hand-armour"
 }

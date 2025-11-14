@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "preservation-magic/improved-health-iv",
-	"requirements": {
-		"skill": 1500,
-		"mana": 1500
-	},
 	"duration": "PT240M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": 300
 		}
+	},
+	"id": "preservation-magic/improved-health-iv",
+	"requirements": {
+		"mana": 1500,
+		"skill": 1500
 	}
 }

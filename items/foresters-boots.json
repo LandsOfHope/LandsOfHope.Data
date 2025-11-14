@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "foresters-boots",
 	"image": "2843",
-	"type": "foot-armour",
-	"armorType": "leather",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

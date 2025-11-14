@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/girly-girl-food-iii",
-	"requirements": {
-		"skill": 150,
-		"level": 501,
-		"mana": 3
-	},
 	"duration": "PT303M",
 	"effects": {
 		"skills": {
 			"cooking": 240
 		}
+	},
+	"id": "gm-magic/girly-girl-food-iii",
+	"requirements": {
+		"level": 501,
+		"mana": 3,
+		"skill": 150
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "regal-tunic",
 	"image": "3043",
-	"type": "chest-armour",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "chest-armour"
 }

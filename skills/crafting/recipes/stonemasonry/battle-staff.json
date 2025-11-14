@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "stonemasonry/battle-staff",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "battle-staff"
-	},
 	"image": "bas",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "stonemasonry",
-	"skillValue": 150,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "gem",
-			"quantity": 2,
-			"primary": true
+			"primary": true,
+			"quantity": 2
 		},
 		{
 			"id": "stone-block",
@@ -25,5 +16,14 @@
 			"id": "masons-tools",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "battle-staff"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "stonemasonry",
+	"skillValue": 150,
+	"time": "PT15S"
 }

@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "great-bull-ring",
 	"image": "rgf",
-	"type": "ring",
 	"material": "gem",
+	"properties": {
+		"SPEED": 1
+	},
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "ring"
 }

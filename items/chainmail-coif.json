@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "chainmail-coif",
 	"image": "4466",
-	"type": "head-armour",
-	"armorType": "mail",
 	"material": "metal",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "head-armour"
 }

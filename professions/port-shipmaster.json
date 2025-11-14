@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/profession",
-	"id": "port-shipmaster",
-	"name": {
-		"en": "Port Shipmaster"
-	},
 	"desc": {
 		"en": "Responsible for improving ships and buying or selling new ships."
 	},
-	"skills": {
-		"defensive-magic": 5,
-		"mystical-magic": 5,
-		"hell-magic": 5,
-		"fists": 5,
-		"invoking-resistance": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "port-shipmaster",
+	"name": {
+		"en": "Port Shipmaster"
 	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"defensive-magic": 5,
+		"fists": 5,
+		"hell-magic": 5,
+		"invoking-resistance": 5,
+		"mystical-magic": 5
 	}
 }

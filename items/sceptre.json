@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 4,
 	"id": "sceptre",
 	"image": "sce",
-	"type": "1-handed-equipment",
-	"dpr": 4,
 	"material": "gem",
-	"skill": "staves",
 	"properties": {
 		"MANA": 1,
 		"MAXMANA": 1
-	}
+	},
+	"skill": "staves",
+	"type": "1-handed-equipment"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "beastmastery/hair-speed-x",
-	"requirements": {
-		"skill": 4535,
-		"mana": 3000
-	},
 	"duration": "PT125M",
 	"effects": {
 		"properties": {
 			"SPEED": 604
 		}
+	},
+	"id": "beastmastery/hair-speed-x",
+	"requirements": {
+		"mana": 3000,
+		"skill": 4535
 	}
 }

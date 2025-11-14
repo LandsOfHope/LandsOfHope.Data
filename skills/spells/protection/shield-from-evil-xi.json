@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "protection/shield-from-evil-xi",
-	"requirements": {
-		"skill": 1925,
-		"mana": 1925
-	},
 	"duration": 4,
 	"effects": {
 		"damage": 1362,
 		"skills": {
 			"damage-absorption": 1226
 		}
+	},
+	"id": "protection/shield-from-evil-xi",
+	"requirements": {
+		"mana": 1925,
+		"skill": 1925
 	}
 }

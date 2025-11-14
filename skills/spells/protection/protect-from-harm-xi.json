@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "protection/protect-from-harm-xi",
-	"requirements": {
-		"skill": 371,
-		"mana": 371
-	},
 	"duration": 2,
 	"effects": {
 		"damage": 274,
 		"skills": {
 			"damage-absorption": 247
 		}
+	},
+	"id": "protection/protect-from-harm-xi",
+	"requirements": {
+		"mana": 371,
+		"skill": 371
 	}
 }

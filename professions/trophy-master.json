@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
-	"id": "trophy-master",
-	"name": {
-		"en": "Trophy Master"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "trophy-master",
+	"name": {
+		"en": "Trophy Master"
 	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 5
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

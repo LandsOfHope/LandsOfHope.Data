@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "blank-severed-chestpiece",
 	"image": "6840",
-	"type": "chest-armour",
-	"set": "inventor-severed-set",
 	"material": "hide",
-	"skill": "blood-over-beauty",
 	"properties": {
 		"MAXSTAMINA": 0.6
-	}
+	},
+	"set": "inventor-severed-set",
+	"skill": "blood-over-beauty",
+	"type": "chest-armour"
 }

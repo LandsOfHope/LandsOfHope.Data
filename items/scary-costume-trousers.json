@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "scary-costume-trousers",
 	"image": "ttro2",
-	"type": "leg-armour",
-	"set": "halloween-costume",
 	"material": "hide",
+	"set": "halloween-costume",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "leg-armour"
 }

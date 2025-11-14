@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "raptor-boots",
-	"image": "5153",
-	"type": "foot-armour",
 	"armorType": "leather",
 	"expansion": "jurassic-wars",
+	"id": "raptor-boots",
+	"image": "5153",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

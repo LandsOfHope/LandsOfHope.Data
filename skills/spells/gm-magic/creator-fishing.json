@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/creator-fishing",
-	"requirements": {
-		"skill": 834,
-		"mana": 834
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"fishing": 51
 		}
+	},
+	"id": "gm-magic/creator-fishing",
+	"requirements": {
+		"mana": 834,
+		"skill": 834
 	}
 }

@@ -1,6 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item-location.json",
-	"title": "CharacterInventoryItemLocation",
 	"oneOf": [
 		{
 			"$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-equipped.json"
@@ -17,5 +16,6 @@
 		{
 			"$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-queue-locked.json"
 		}
-	]
+	],
+	"title": "CharacterInventoryItemLocation"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "defensive-magic/ice-shield-iii",
-	"requirements": {
-		"skill": 85,
-		"mana": 85
-	},
 	"duration": "PT165M",
 	"effects": {
 		"skills": {
 			"cold-resistance": 57
 		}
+	},
+	"id": "defensive-magic/ice-shield-iii",
+	"requirements": {
+		"mana": 85,
+		"skill": 85
 	}
 }

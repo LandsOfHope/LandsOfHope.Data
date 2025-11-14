@@ -1,68 +1,20 @@
 {
 	"bd": {
-		"11,60": {
-			"name": "Desolation Logging Camp",
-			"desc": "This camp is used by Carpenters from Desolation."
-		},
-		"18,41": {
-			"name": "Forestglen",
-			"desc": "This small outpost sits amongst the forests of the Barrens."
-		},
-		"18,50": {
-			"name": "Greenbridge Outpost",
-			"desc": "This small outpost is all that stands in the way of the evil that lurks in the forest ... those damn evil Pixies"
-		},
 		"2,28": {
-			"name": "Deathpit",
-			"desc": "The pit descends into the darkness legend states this place is where the dying and diseased were taken and dumped."
-		},
-		"22,62": {
-			"name": "Bloodstone Valley",
-			"desc": "This valley is said to be tinged with the blood of those that fought for this land centuries ago."
+			"desc": "The pit descends into the darkness legend states this place is where the dying and diseased were taken and dumped.",
+			"name": "Deathpit"
 		},
 		"3,69": {
-			"name": "Desolation",
-			"desc": "This ramshackled town sits in the dirt plains of the Barren Downs."
-		},
-		"49,44": {
-			"name": "Dusthole",
-			"desc": "This small outpost is commanded by the Exile leader Alfred Longshanks."
+			"desc": "This ramshackled town sits in the dirt plains of the Barren Downs.",
+			"name": "Desolation"
 		},
 		"5,74": {
-			"name": "Dune Mound",
-			"desc": "This large mound of sand overlooks Desolation."
-		},
-		"52,4": {
-			"name": "Greenglade",
-			"desc": "This town serves as a small outpost for weary travellers."
-		},
-		"57,18": {
-			"name": "Three Rivers",
-			"desc": "This town earnt its name as it sits astride three rivers."
-		},
-		"64,80": {
-			"name": "Sandharper Caverns",
-			"desc": "As the desert gives way to sandstone rocks a small fissure seems to have been used to gain access to some caves ... what lies beneath."
-		},
-		"79,82": {
-			"name": "Valley Mouth",
-			"desc": "This small outpost has long since been desert except for one small hut."
-		},
-		"81,37": {
-			"name": "Tombs of the Muddy",
-			"desc": "Originally this tile was home to a Mudmen village but a freak storm entombed everyone with a massive mudslide."
-		},
-		"81,7": {
-			"name": "Cornerstone",
-			"desc": "This small outpost sits on the edge of a huge dust plain."
-		},
-		"86,62": {
-			"name": "Cactus Hold",
-			"desc": "This town sits deep within the Sand dunes of the Barrens. Few survive long enough to reach it."
+			"desc": "This large mound of sand overlooks Desolation.",
+			"name": "Dune Mound"
 		},
 		"9,16": {
-			"name": "Deathtop Mountain",
-			"desc": "This mountain is battle scarred and stained with blood."
+			"desc": "This mountain is battle scarred and stained with blood.",
+			"name": "Deathtop Mountain"
 		},
 		"9,18": {
 			"name": "Altar of Spirits"
@@ -71,15 +23,84 @@
 			"name": "Nightsky Forest"
 		},
 		"9,98": {
-			"name": "Sandstorm Retreat",
-			"desc": "This small outpost serves as a place to hold up during severe sandstorms."
+			"desc": "This small outpost serves as a place to hold up during severe sandstorms.",
+			"name": "Sandstorm Retreat"
+		},
+		"11,60": {
+			"desc": "This camp is used by Carpenters from Desolation.",
+			"name": "Desolation Logging Camp"
+		},
+		"18,41": {
+			"desc": "This small outpost sits amongst the forests of the Barrens.",
+			"name": "Forestglen"
+		},
+		"18,50": {
+			"desc": "This small outpost is all that stands in the way of the evil that lurks in the forest ... those damn evil Pixies",
+			"name": "Greenbridge Outpost"
+		},
+		"22,62": {
+			"desc": "This valley is said to be tinged with the blood of those that fought for this land centuries ago.",
+			"name": "Bloodstone Valley"
+		},
+		"49,44": {
+			"desc": "This small outpost is commanded by the Exile leader Alfred Longshanks.",
+			"name": "Dusthole"
+		},
+		"52,4": {
+			"desc": "This town serves as a small outpost for weary travellers.",
+			"name": "Greenglade"
+		},
+		"57,18": {
+			"desc": "This town earnt its name as it sits astride three rivers.",
+			"name": "Three Rivers"
+		},
+		"64,80": {
+			"desc": "As the desert gives way to sandstone rocks a small fissure seems to have been used to gain access to some caves ... what lies beneath.",
+			"name": "Sandharper Caverns"
+		},
+		"79,82": {
+			"desc": "This small outpost has long since been desert except for one small hut.",
+			"name": "Valley Mouth"
+		},
+		"81,7": {
+			"desc": "This small outpost sits on the edge of a huge dust plain.",
+			"name": "Cornerstone"
+		},
+		"81,37": {
+			"desc": "Originally this tile was home to a Mudmen village but a freak storm entombed everyone with a massive mudslide.",
+			"name": "Tombs of the Muddy"
+		},
+		"86,62": {
+			"desc": "This town sits deep within the Sand dunes of the Barrens. Few survive long enough to reach it.",
+			"name": "Cactus Hold"
 		},
 		"91,53": {
-			"name": "Ramiro Estate",
-			"desc": "This estate is home to the Society Ramiro Family."
+			"desc": "This estate is home to the Society Ramiro Family.",
+			"name": "Ramiro Estate"
 		}
 	},
 	"bf": {
+		"2,49": {
+			"name": "Reaper Outpost"
+		},
+		"3,21": {
+			"name": "Exile Outpost"
+		},
+		"4,98": {
+			"name": "Reaper Outpost"
+		},
+		"5,7": {
+			"name": "Society Outpost"
+		},
+		"5,33": {
+			"name": "Exile Outpost"
+		},
+		"5,63": {
+			"name": "Society Outpost"
+		},
+		"7,82": {
+			"name": "Exile Outpost"
+		},
 		"11,35": {
 			"name": "Pureheart Keep"
 		},
@@ -97,9 +118,6 @@
 		},
 		"18,80": {
 			"name": "Sandydale Keep"
-		},
-		"2,49": {
-			"name": "Reaper Outpost"
 		},
 		"21,58": {
 			"name": "Exile Outpost"
@@ -119,9 +137,6 @@
 		"29,73": {
 			"name": "Reaper Outpost"
 		},
-		"3,21": {
-			"name": "Exile Outpost"
-		},
 		"31,25": {
 			"name": "Reaper Outpost"
 		},
@@ -139,9 +154,6 @@
 		},
 		"36,91": {
 			"name": "Exile Outpost"
-		},
-		"4,98": {
-			"name": "Reaper Outpost"
 		},
 		"40,54": {
 			"name": "Society Outpost"
@@ -162,15 +174,6 @@
 			"name": "Exile Outpost"
 		},
 		"47,94": {
-			"name": "Society Outpost"
-		},
-		"5,33": {
-			"name": "Exile Outpost"
-		},
-		"5,63": {
-			"name": "Society Outpost"
-		},
-		"5,7": {
 			"name": "Society Outpost"
 		},
 		"52,73": {
@@ -211,9 +214,6 @@
 		},
 		"68,11": {
 			"name": "Society Outpost"
-		},
-		"7,82": {
-			"name": "Exile Outpost"
 		},
 		"71,94": {
 			"name": "Knotwood Keep"
@@ -275,19 +275,19 @@
 	},
 	"bv": {
 		"22,13": {
-			"name": "Oldglen",
-			"desc": "This ancient town has stood in the center of this lake for thousands of years."
+			"desc": "This ancient town has stood in the center of this lake for thousands of years.",
+			"name": "Oldglen"
 		},
 		"31,59": {
 			"desc": "Nestled on a spit of land between the great lake and the river of dreams sits Springlade home of the Humans."
 		},
 		"37,22": {
-			"name": "Oldglen Outpost",
-			"desc": "This small enclave serves as an outpost to the larger town to the North West on the island."
+			"desc": "This small enclave serves as an outpost to the larger town to the North West on the island.",
+			"name": "Oldglen Outpost"
 		},
 		"85,22": {
-			"name": "Deadmans Vale",
-			"desc": "This town, if you can call it that sits precariously close to the edge of the lava."
+			"desc": "This town, if you can call it that sits precariously close to the edge of the lava.",
+			"name": "Deadmans Vale"
 		},
 		"96,25": {
 			"name": "Lair of Ariaxis"
@@ -295,50 +295,50 @@
 	},
 	"ce": {
 		"11,36": {
-			"name": "Icengard",
-			"desc": "This ancient snow capped city was destroyed some time ago by a horde of rampaging reapers."
+			"desc": "This ancient snow capped city was destroyed some time ago by a horde of rampaging reapers.",
+			"name": "Icengard"
 		},
 		"19,24": {
-			"name": "Elder Frostden Caves",
-			"desc": "A cave dominates the area with fresh bloody tracks leading into it."
+			"desc": "A cave dominates the area with fresh bloody tracks leading into it.",
+			"name": "Elder Frostden Caves"
 		},
 		"20,57": {
-			"name": "Blizzard Point",
-			"desc": "Covered by years of harsh snow fall this outpost is derelict."
+			"desc": "Covered by years of harsh snow fall this outpost is derelict.",
+			"name": "Blizzard Point"
 		},
 		"25,6": {
-			"name": "Frostden Caves",
-			"desc": "A cave dominates the area with fresh tracks leading into it."
+			"desc": "A cave dominates the area with fresh tracks leading into it.",
+			"name": "Frostden Caves"
 		},
 		"41,94": {
-			"name": "Necrocropolis",
-			"desc": "This dark outpost serves the Reapers."
+			"desc": "This dark outpost serves the Reapers.",
+			"name": "Necrocropolis"
 		},
 		"45,42": {
 			"name": "Snowdrops"
 		},
 		"51,36": {
-			"name": "Upper Snowden",
-			"desc": "This snow covered town, is alive with constant activity. Perhaps this is how people stay warm in cold climates."
+			"desc": "This snow covered town, is alive with constant activity. Perhaps this is how people stay warm in cold climates.",
+			"name": "Upper Snowden"
 		},
 		"51,83": {
-			"name": "Lower Snowden",
-			"desc": "This outpost is twinned with Upper Snowden but now lies empty due to a tragic accident with an Ice Troll and twelve dwarfs."
+			"desc": "This outpost is twinned with Upper Snowden but now lies empty due to a tragic accident with an Ice Troll and twelve dwarfs.",
+			"name": "Lower Snowden"
 		},
 		"51,90": {
-			"name": "Demonic Ritual Site",
-			"desc": "This place has been used over the years for a number of horrid acts."
+			"desc": "This place has been used over the years for a number of horrid acts.",
+			"name": "Demonic Ritual Site"
 		},
 		"56,53": {
-			"name": "Icandria`s Palace",
-			"desc": "The seat of power of Icandria the Ice Queen."
+			"desc": "The seat of power of Icandria the Ice Queen.",
+			"name": "Icandria`s Palace"
 		},
 		"58,70": {
 			"name": "Ruined Tower"
 		},
 		"67,29": {
-			"name": "Soares Estate",
-			"desc": "This estate is home to the Soares family."
+			"desc": "This estate is home to the Soares family.",
+			"name": "Soares Estate"
 		},
 		"67,41": {
 			"name": "Old Tower"
@@ -347,20 +347,20 @@
 			"name": "Forestprowler Caves"
 		},
 		"70,69": {
-			"name": "Maern`s Tower",
-			"desc": "A powerful wizard resides at this abode."
+			"desc": "A powerful wizard resides at this abode.",
+			"name": "Maern`s Tower"
 		},
 		"71,67": {
-			"name": "River Heath",
-			"desc": "A small Exile outpost."
+			"desc": "A small Exile outpost.",
+			"name": "River Heath"
 		},
 		"74,69": {
-			"name": "Temple of Icandria",
-			"desc": "A temple to honor Icandria the Icequeen."
+			"desc": "A temple to honor Icandria the Icequeen.",
+			"name": "Temple of Icandria"
 		},
 		"80,36": {
-			"name": "Frigid Grotto",
-			"desc": "A cold and desolate place ..."
+			"desc": "A cold and desolate place ...",
+			"name": "Frigid Grotto"
 		},
 		"81,64": {
 			"name": "Towerpoint"
@@ -369,15 +369,15 @@
 			"name": "Tower of Evolution"
 		},
 		"91,63": {
-			"name": "Heathton",
-			"desc": "This delightful little town sits in perhaps the only hospitable valley in this cold realm"
+			"desc": "This delightful little town sits in perhaps the only hospitable valley in this cold realm",
+			"name": "Heathton"
 		},
 		"92,66": {
 			"name": "Muddy Bank"
 		},
 		"98,93": {
-			"name": "Dark Tower",
-			"desc": "This small tower sits atop a mountain."
+			"desc": "This small tower sits atop a mountain.",
+			"name": "Dark Tower"
 		}
 	},
 	"dp": {
@@ -399,8 +399,8 @@
 			"name": "Diamond Gathering Hall"
 		},
 		"16,86": {
-			"name": "Deserted Diamond Outpost",
-			"desc": "This outpost was deserted many years ago..."
+			"desc": "This outpost was deserted many years ago...",
+			"name": "Deserted Diamond Outpost"
 		},
 		"50,50": {
 			"name": "Eydencourt"
@@ -419,23 +419,41 @@
 		"1,70": {
 			"name": "Demon bush"
 		},
+		"2,62": {
+			"name": "Demon bush"
+		},
+		"3,64": {
+			"name": "Demon bush"
+		},
+		"4,88": {
+			"name": "Demon bush"
+		},
+		"7,14": {
+			"name": "Angel bush"
+		},
+		"7,70": {
+			"name": "Demon bush"
+		},
+		"8,7": {
+			"name": "Angel bush"
+		},
 		"10,34": {
+			"name": "Angel bush"
+		},
+		"11,19": {
 			"name": "Angel bush"
 		},
 		"11,100": {
 			"name": "Demon bush"
 		},
-		"11,19": {
+		"14,24": {
 			"name": "Angel bush"
 		},
-		"14,24": {
+		"16,7": {
 			"name": "Angel bush"
 		},
 		"16,58": {
 			"name": "Demon bush"
-		},
-		"16,7": {
-			"name": "Angel bush"
 		},
 		"17,31": {
 			"name": "Angel bush"
@@ -450,9 +468,6 @@
 			"name": "Angel bush"
 		},
 		"19,80": {
-			"name": "Demon bush"
-		},
-		"2,62": {
 			"name": "Demon bush"
 		},
 		"20,3": {
@@ -506,9 +521,6 @@
 		"29,41": {
 			"name": "Angel bush"
 		},
-		"3,64": {
-			"name": "Demon bush"
-		},
 		"30,27": {
 			"name": "Angel bush"
 		},
@@ -536,9 +548,6 @@
 		"38,42": {
 			"name": "Angel bush"
 		},
-		"4,88": {
-			"name": "Demon bush"
-		},
 		"42,10": {
 			"name": "Angel bush"
 		},
@@ -551,11 +560,11 @@
 		"43,27": {
 			"name": "Angel bush"
 		},
-		"45,65": {
-			"name": "Demon bush"
-		},
 		"45,9": {
 			"name": "Angel bush"
+		},
+		"45,65": {
+			"name": "Demon bush"
 		},
 		"48,18": {
 			"name": "Angel bush"
@@ -564,8 +573,8 @@
 			"name": "Demon bush"
 		},
 		"50,50": {
-			"name": "River of Dreams",
-			"desc": "The river of dreams is sometimes squandered but always flows."
+			"desc": "The river of dreams is sometimes squandered but always flows.",
+			"name": "River of Dreams"
 		},
 		"50,80": {
 			"name": "Demon bush"
@@ -618,12 +627,6 @@
 		"69,3": {
 			"name": "Angel bush"
 		},
-		"7,14": {
-			"name": "Angel bush"
-		},
-		"7,70": {
-			"name": "Demon bush"
-		},
 		"70,15": {
 			"name": "Riversbend Outpost"
 		},
@@ -639,16 +642,13 @@
 		"76,83": {
 			"name": "Demon bush"
 		},
-		"8,7": {
-			"name": "Angel bush"
-		},
 		"82,78": {
 			"name": "Demon bush"
 		},
-		"83,14": {
+		"83,3": {
 			"name": "Angel bush"
 		},
-		"83,3": {
+		"83,14": {
 			"name": "Angel bush"
 		},
 		"85,22": {
@@ -696,42 +696,42 @@
 			"name": "Crafting Camp"
 		},
 		"15,28": {
-			"name": "Greenbay",
-			"desc": "This large town has excellent views over the ocean."
+			"desc": "This large town has excellent views over the ocean.",
+			"name": "Greenbay"
 		},
 		"22,16": {
 			"name": "Northern Tower"
 		},
 		"26,85": {
-			"name": "Pits of Volcanoss",
-			"desc": "Deep within the fiery pits of this mountain dwells the ruler of fire and lava ... Volcanoss is his name and slaughtering you may be his game"
+			"desc": "Deep within the fiery pits of this mountain dwells the ruler of fire and lava ... Volcanoss is his name and slaughtering you may be his game",
+			"name": "Pits of Volcanoss"
 		},
 		"35,28": {
-			"name": "Ancient Tower",
-			"desc": "This tower has stood here for millenia."
+			"desc": "This tower has stood here for millenia.",
+			"name": "Ancient Tower"
 		},
 		"42,84": {
-			"name": "Caverns of Volcanos",
-			"desc": "A group of underwater caverns leading to the volcano."
+			"desc": "A group of underwater caverns leading to the volcano.",
+			"name": "Caverns of Volcanos"
 		},
 		"50,6": {
-			"name": "Kingston Outpost",
-			"desc": "This exiles outpost is commanded by James Kingston."
-		},
-		"54,57": {
-			"name": "Raul Estate",
-			"desc": "This society estate is owned and managed by the exceedingly wealthy Raul family."
+			"desc": "This exiles outpost is commanded by James Kingston.",
+			"name": "Kingston Outpost"
 		},
 		"54,8": {
 			"name": "Snow covered Tower"
 		},
+		"54,57": {
+			"desc": "This society estate is owned and managed by the exceedingly wealthy Raul family.",
+			"name": "Raul Estate"
+		},
 		"64,75": {
-			"name": "Lowerbasin",
-			"desc": "This small outpost rests on a large land mass which sticks out into the sea."
+			"desc": "This small outpost rests on a large land mass which sticks out into the sea.",
+			"name": "Lowerbasin"
 		},
 		"69,95": {
-			"name": "Grimrock",
-			"desc": "This blood splattered and sea worn rock is the home to a reaper outpost."
+			"desc": "This blood splattered and sea worn rock is the home to a reaper outpost.",
+			"name": "Grimrock"
 		},
 		"78,79": {
 			"name": "Lost Cause"
@@ -749,12 +749,12 @@
 			"name": "Icegrip Outpost"
 		},
 		"92,63": {
-			"name": "Whitecap",
-			"desc": "This town is named after a mountain to the south which never loses its snowy covered cap."
+			"desc": "This town is named after a mountain to the south which never loses its snowy covered cap.",
+			"name": "Whitecap"
 		},
 		"94,62": {
-			"name": "Crafters Camp",
-			"desc": "This small camp houses many crafters and the like."
+			"desc": "This small camp houses many crafters and the like.",
+			"name": "Crafters Camp"
 		}
 	},
 	"ff": {
@@ -773,75 +773,78 @@
 	},
 	"ja": {
 		"16,64": {
-			"name": "Camp Riverforge",
-			"desc": "This camp was setup after the main Eversight camp was almost destroyed in a wild animal attack."
+			"desc": "This camp was setup after the main Eversight camp was almost destroyed in a wild animal attack.",
+			"name": "Camp Riverforge"
 		},
 		"35,63": {
-			"name": "Bush Town",
-			"desc": "This small outpost was formed by a faction of the Eversight expedition."
+			"desc": "This small outpost was formed by a faction of the Eversight expedition.",
+			"name": "Bush Town"
 		},
 		"41,6": {
-			"name": "Camp Lonesome",
-			"desc": "This camp is the most northernly outpost that the Eversight expedition has created."
+			"desc": "This camp is the most northernly outpost that the Eversight expedition has created.",
+			"name": "Camp Lonesome"
 		},
 		"43,71": {
-			"name": "Camp Eversight",
-			"desc": "This small outpost is the expeditions main outpost in this strange land."
+			"desc": "This small outpost is the expeditions main outpost in this strange land.",
+			"name": "Camp Eversight"
 		},
 		"63,32": {
-			"name": "Dragons Bay",
-			"desc": "The home to the Dragons of this realm the Dragonkin."
+			"desc": "The home to the Dragons of this realm the Dragonkin.",
+			"name": "Dragons Bay"
 		},
 		"67,48": {
-			"name": "Camp Dustbowl",
-			"desc": "This camp is the eastern most official Eversight camp."
+			"desc": "This camp is the eastern most official Eversight camp.",
+			"name": "Camp Dustbowl"
 		}
 	},
 	"kv": {
+		"8,82": {
+			"name": "Talon Mountain"
+		},
 		"14,53": {
 			"name": "Westernvale Quarry"
 		},
 		"15,59": {
-			"name": "Greenmead",
-			"desc": "This small trading outpost seems to be elitist and will only serve people who have paid for the game."
+			"desc": "This small trading outpost seems to be elitist and will only serve people who have paid for the game.",
+			"name": "Greenmead"
 		},
 		"17,68": {
-			"name": "Darkcrest Citadel",
-			"desc": "Home of the Darkcrest family this Citadel is a stronghold for the Society."
+			"desc": "Home of the Darkcrest family this Citadel is a stronghold for the Society.",
+			"name": "Darkcrest Citadel"
 		},
 		"18,57": {
-			"name": "Westervale Outpost",
-			"desc": "After many years of conflict a number of people settled at this small outpost."
+			"desc": "After many years of conflict a number of people settled at this small outpost.",
+			"name": "Westervale Outpost"
 		},
 		"20,44": {
-			"name": "Ethereal Fortress",
-			"desc": "This tile appears to have some form of magical fortress on it."
+			"desc": "This tile appears to have some form of magical fortress on it.",
+			"name": "Ethereal Fortress"
 		},
 		"20,77": {
 			"name": "Spiders Grotto"
 		},
 		"20,90": {
-			"name": "Rockycrop Ridge",
-			"desc": "This grassy ridge serves as a simple trading outpost."
+			"desc": "This grassy ridge serves as a simple trading outpost.",
+			"name": "Rockycrop Ridge"
 		},
 		"22,13": {
-			"name": "Coldglen",
-			"desc": "Situated on the southern tip of a frozen river sits Coldglen an ancient city."
+			"desc": "Situated on the southern tip of a frozen river sits Coldglen an ancient city.",
+			"name": "Coldglen"
 		},
 		"23,51": {
 			"desc": "There are fresh animal prints on the ground something large was here not long ago. Its tracks disappear into the forest."
 		},
 		"24,58": {
-			"name": "-bad-`s Reliquary",
-			"desc": "There`s a path leading up to a locked reliquary, but you can`t shake the suspicion that there`s more to this place than meets the eye."
+			"desc": "There`s a path leading up to a locked reliquary, but you can`t shake the suspicion that there`s more to this place than meets the eye.",
+			"name": "-bad-`s Reliquary"
 		},
 		"27,17": {
-			"name": "Coldglen Border",
-			"desc": "This small outpost serves as a border between the Coldglen glacier and the Northglen vales."
+			"desc": "This small outpost serves as a border between the Coldglen glacier and the Northglen vales.",
+			"name": "Coldglen Border"
 		},
 		"27,47": {
-			"name": "Northglen Village",
-			"desc": "At the edge of the Northern Forests nestled in a valley sits Northglen."
+			"desc": "At the edge of the Northern Forests nestled in a valley sits Northglen.",
+			"name": "Northglen Village"
 		},
 		"29,50": {
 			"name": "Spiders Grotto"
@@ -853,8 +856,8 @@
 			"name": "Grass"
 		},
 		"31,59": {
-			"name": "Springlade",
-			"desc": "Nestled on a spit of land between the great lake and the river of dreams sits Springlade home of the Humans."
+			"desc": "Nestled on a spit of land between the great lake and the river of dreams sits Springlade home of the Humans.",
+			"name": "Springlade"
 		},
 		"32,62": {
 			"name": "Southglade Tower"
@@ -863,8 +866,8 @@
 			"name": "Spiders Grotto"
 		},
 		"33,60": {
-			"name": "Fishermans Drop",
-			"desc": "This innocent bend in the river hides a deep body of water. Great for fishing"
+			"desc": "This innocent bend in the river hides a deep body of water. Great for fishing",
+			"name": "Fishermans Drop"
 		},
 		"60,59": {
 			"name": "Spiders Grotto"
@@ -872,92 +875,89 @@
 		"64,9": {
 			"name": "Spiders Grotto"
 		},
+		"66,8": {
+			"desc": "A shady tile.",
+			"name": "Shadow Hold"
+		},
 		"66,76": {
 			"name": "Heartsgrove"
-		},
-		"66,8": {
-			"name": "Shadow Hold",
-			"desc": "A shady tile."
 		},
 		"67,75": {
 			"name": "Paradise Lost"
 		},
 		"70,39": {
-			"name": "Atlas Portal",
-			"desc": "As you enter this tile you notice a strange magic portal standing before you ...."
-		},
-		"8,82": {
-			"name": "Talon Mountain"
+			"desc": "As you enter this tile you notice a strange magic portal standing before you ....",
+			"name": "Atlas Portal"
 		},
 		"81,71": {
-			"name": "Greengnoll Manor",
-			"desc": "This town once served as a summer retreat for the royal family, now it has been turned into a safehaven for the Exiles."
+			"desc": "This town once served as a summer retreat for the royal family, now it has been turned into a safehaven for the Exiles.",
+			"name": "Greengnoll Manor"
 		},
 		"85,22": {
-			"name": "Deadmans Vale",
-			"desc": "This town, if you can call it that sits precariously close to the edge of the lava."
+			"desc": "This town, if you can call it that sits precariously close to the edge of the lava.",
+			"name": "Deadmans Vale"
 		}
 	},
 	"lw": {
 		"17,48": {
-			"name": "Dreadwatch Tower",
-			"desc": "This tower has been taken over by a dark cult."
+			"desc": "This tower has been taken over by a dark cult.",
+			"name": "Dreadwatch Tower"
 		},
 		"25,88": {
-			"name": "Skull Mountain",
-			"desc": "This mountain gained its name from the passing resemblence to a skull."
+			"desc": "This mountain gained its name from the passing resemblence to a skull.",
+			"name": "Skull Mountain"
 		},
 		"26,66": {
-			"name": "Deathpoint",
-			"desc": "This Reaper outpost is led by the infamous Tarjan the Destroy"
+			"desc": "This Reaper outpost is led by the infamous Tarjan the Destroy",
+			"name": "Deathpoint"
 		},
 		"43,84": {
-			"name": "Western Guard Post",
-			"desc": "This is a guard post on the estern outskirts of Vale."
+			"desc": "This is a guard post on the estern outskirts of Vale.",
+			"name": "Western Guard Post"
 		},
 		"44,9": {
 			"name": "Lands End Logging Camp"
 		},
 		"45,10": {
-			"name": "Lands End",
-			"desc": "This town sits south of the mountains and dirt plains that lead to the snow covered north."
+			"desc": "This town sits south of the mountains and dirt plains that lead to the snow covered north.",
+			"name": "Lands End"
 		},
 		"48,5": {
 			"name": "Grimey Dirt Mount"
 		},
 		"56,78": {
-			"name": "Vale",
-			"desc": "This town is simply known as vale to its occupants."
+			"desc": "This town is simply known as vale to its occupants.",
+			"name": "Vale"
 		},
 		"58,13": {
 			"name": "Animal Hole"
 		},
 		"58,79": {
-			"name": "Watch Tower",
-			"desc": "This tower has a few simple buildings around it."
+			"desc": "This tower has a few simple buildings around it.",
+			"name": "Watch Tower"
 		},
 		"59,78": {
-			"name": "Vale Crypts",
-			"desc": "For centuries the people of Vale have used these crypts to bury dead noblemen and women."
+			"desc": "For centuries the people of Vale have used these crypts to bury dead noblemen and women.",
+			"name": "Vale Crypts"
 		},
 		"59,83": {
-			"name": "Flower Garden",
-			"desc": "This small flower garden is regularly tended to."
+			"desc": "This small flower garden is regularly tended to.",
+			"name": "Flower Garden"
 		},
 		"63,64": {
 			"name": "Midglen Tower"
 		},
 		"65,70": {
-			"name": "Overlook Bay",
-			"desc": "This small outpost overlooks the lake that gives this realm its name."
+			"desc": "This small outpost overlooks the lake that gives this realm its name.",
+			"name": "Overlook Bay"
 		},
 		"68,46": {
-			"name": "Salazar Estate",
-			"desc": "This estate is managed by the Society Salazar family."
+			"desc": "This estate is managed by the Society Salazar family.",
+			"name": "Salazar Estate"
 		},
 		"71,63": {
-			"name": "Moonlit Pools",
-			"desc": "Deep below the lake lies a series of caverns."
+			"desc": "Deep below the lake lies a series of caverns.",
+			"name": "Moonlit Pools"
 		},
 		"78,59": {
 			"name": "Lakeview Terrace"
@@ -975,32 +975,40 @@
 			"name": "Lakeview Terrace"
 		},
 		"93,68": {
-			"name": "Rockingham Manor",
-			"desc": "This manor is home to the Exile Rockingham family."
+			"desc": "This manor is home to the Exile Rockingham family.",
+			"name": "Rockingham Manor"
 		}
 	},
 	"re": {
+		"8,10": {
+			"name": "Ravine"
+		},
 		"27,11": {
 			"name": "Clay"
 		},
 		"65,56": {
 			"name": "Pumice"
-		},
-		"8,10": {
-			"name": "Ravine"
 		}
 	},
 	"rh": {
+		"3,68": {
+			"desc": "The path winds through the mountains and past a series of caves.",
+			"name": "Hollow Mountain"
+		},
+		"5,46": {
+			"desc": "An old reaper dungeon.",
+			"name": "Dark Hollow Mountain"
+		},
 		"14,47": {
-			"name": "Tomb of the Kings",
-			"desc": "The final resting place of the royal line."
+			"desc": "The final resting place of the royal line.",
+			"name": "Tomb of the Kings"
 		},
 		"19,25": {
 			"name": "Crafters Clearing"
 		},
 		"21,24": {
-			"name": "Pleasant Meadows",
-			"desc": "This quiet little town lies on royal ground."
+			"desc": "This quiet little town lies on royal ground.",
+			"name": "Pleasant Meadows"
 		},
 		"23,62": {
 			"name": "Waters Edge"
@@ -1011,132 +1019,124 @@
 		"25,61": {
 			"name": "Crafters Corner"
 		},
-		"3,68": {
-			"name": "Hollow Mountain",
-			"desc": "The path winds through the mountains and past a series of caves."
-		},
 		"32,41": {
-			"name": "Royal Excavations",
-			"desc": "An old dig originally started by the royal blood line."
-		},
-		"5,46": {
-			"name": "Dark Hollow Mountain",
-			"desc": "An old reaper dungeon."
+			"desc": "An old dig originally started by the royal blood line.",
+			"name": "Royal Excavations"
 		},
 		"53,41": {
-			"name": "Citadel",
-			"desc": "The royal town, home to the King and Queen."
+			"desc": "The royal town, home to the King and Queen.",
+			"name": "Citadel"
 		},
 		"68,78": {
-			"name": "Old Town",
-			"desc": "This town was once the capital of the known realms of Myzan but the capital was moved to the Citadel."
+			"desc": "This town was once the capital of the known realms of Myzan but the capital was moved to the Citadel.",
+			"name": "Old Town"
 		},
 		"72,8": {
-			"name": "Jezenda`s Gambit",
-			"desc": "One of the queen of the Drakes many hatching grounds although none of her original offspring remain there are many drakes here that are diluted variants of her children."
+			"desc": "One of the queen of the Drakes many hatching grounds although none of her original offspring remain there are many drakes here that are diluted variants of her children.",
+			"name": "Jezenda`s Gambit"
 		},
 		"73,95": {
-			"name": "Legions Roost",
-			"desc": "One of the Tenth Legions holding facilities."
+			"desc": "One of the Tenth Legions holding facilities.",
+			"name": "Legions Roost"
 		},
 		"74,55": {
-			"name": "Ramirez Estate",
-			"desc": "The Ramirez Estate is somewhat vacant although a few members still live here, many now live in the Palace."
+			"desc": "The Ramirez Estate is somewhat vacant although a few members still live here, many now live in the Palace.",
+			"name": "Ramirez Estate"
 		},
 		"92,11": {
-			"name": "Death Valley",
-			"desc": "A dark and foreboding place, home to a large Reaper outpost which has survived for centuries."
+			"desc": "A dark and foreboding place, home to a large Reaper outpost which has survived for centuries.",
+			"name": "Death Valley"
 		},
 		"93,94": {
-			"name": "Demonic Ritual Site",
-			"desc": "This place has been used as a site for demonic rituals for many years."
+			"desc": "This place has been used as a site for demonic rituals for many years.",
+			"name": "Demonic Ritual Site"
 		},
 		"95,67": {
-			"name": "Caves of Rebellion",
-			"desc": "These caves have in the past offered shelter in times of hardship now they are home to the exiled royal family."
+			"desc": "These caves have in the past offered shelter in times of hardship now they are home to the exiled royal family.",
+			"name": "Caves of Rebellion"
 		},
 		"98,43": {
-			"name": "Impact Crater",
-			"desc": "A huge meteorite impacted the ground here."
+			"desc": "A huge meteorite impacted the ground here.",
+			"name": "Impact Crater"
 		}
 	},
 	"rs": {
-		"12,50": {
-			"name": "Riverden Logging Camp",
-			"desc": "This camp is used by local lumberjacks and carpenters."
-		},
-		"12,57": {
-			"name": "Greater Riverden",
-			"desc": "This town sits across the river from Lesser Riverden."
-		},
-		"13,54": {
-			"name": "Lesser Riverden",
-			"desc": "This small town sits on one side of the Riverscape Tributary, across the river sits Greater Riverden."
-		},
-		"16,35": {
-			"name": "Northern Outpost",
-			"desc": "This outpost sits at the northern boundary of Riverden."
-		},
-		"19,93": {
-			"name": "The Grotto",
-			"desc": "This small grotto has a simple outpost."
-		},
 		"2,55": {
-			"name": "Whirlpool Chasm",
-			"desc": "This chasm in the river seems to defy the laws of magic and descends all the way to the river bed."
-		},
-		"24,27": {
-			"name": "Riverrock Camp",
-			"desc": "This camp has a few shops, nothing spectacular."
-		},
-		"32,81": {
-			"name": "Deepwash Manor",
-			"desc": "This pretty little manor sits on the edge of the river and is home to the Cromwell family."
-		},
-		"40,24": {
-			"name": "Grimpoint",
-			"desc": "This desloate outcrop serves as a Reaper outpost here in Riverscape."
-		},
-		"41,52": {
-			"name": "Francotinopal",
-			"desc": "This decident complex is home to the Franco family."
+			"desc": "This chasm in the river seems to defy the laws of magic and descends all the way to the river bed.",
+			"name": "Whirlpool Chasm"
 		},
 		"6,5": {
-			"name": "Blackdepths",
-			"desc": "This mountain hides a dark secret ...."
+			"desc": "This mountain hides a dark secret ....",
+			"name": "Blackdepths"
+		},
+		"12,50": {
+			"desc": "This camp is used by local lumberjacks and carpenters.",
+			"name": "Riverden Logging Camp"
+		},
+		"12,57": {
+			"desc": "This town sits across the river from Lesser Riverden.",
+			"name": "Greater Riverden"
+		},
+		"13,54": {
+			"desc": "This small town sits on one side of the Riverscape Tributary, across the river sits Greater Riverden.",
+			"name": "Lesser Riverden"
+		},
+		"16,35": {
+			"desc": "This outpost sits at the northern boundary of Riverden.",
+			"name": "Northern Outpost"
+		},
+		"19,93": {
+			"desc": "This small grotto has a simple outpost.",
+			"name": "The Grotto"
+		},
+		"24,27": {
+			"desc": "This camp has a few shops, nothing spectacular.",
+			"name": "Riverrock Camp"
+		},
+		"32,81": {
+			"desc": "This pretty little manor sits on the edge of the river and is home to the Cromwell family.",
+			"name": "Deepwash Manor"
+		},
+		"40,24": {
+			"desc": "This desloate outcrop serves as a Reaper outpost here in Riverscape.",
+			"name": "Grimpoint"
+		},
+		"41,52": {
+			"desc": "This decident complex is home to the Franco family.",
+			"name": "Francotinopal"
 		},
 		"74,65": {
-			"name": "Waters End",
-			"desc": "This small outpost sits at the end of a river."
+			"desc": "This small outpost sits at the end of a river.",
+			"name": "Waters End"
 		},
 		"82,16": {
-			"name": "Alderman Crypts",
-			"desc": "The ancestral resting place of the Alderman family."
+			"desc": "The ancestral resting place of the Alderman family.",
+			"name": "Alderman Crypts"
 		},
 		"90,70": {
-			"name": "Redrock",
-			"desc": "This small outpost is aptly named after the color of the rocks its built on."
+			"desc": "This small outpost is aptly named after the color of the rocks its built on.",
+			"name": "Redrock"
 		},
 		"91,18": {
-			"name": "Onerock Hill",
-			"desc": "This hill stands out amongst the dark and desolate mountains."
+			"desc": "This hill stands out amongst the dark and desolate mountains.",
+			"name": "Onerock Hill"
 		},
 		"91,26": {
-			"name": "Helmscroft Crypts",
-			"desc": "The ancestral resting place of the Helmscroft family"
+			"desc": "The ancestral resting place of the Helmscroft family",
+			"name": "Helmscroft Crypts"
 		},
 		"95,86": {
 			"name": "Tower of Evil"
 		},
 		"96,91": {
-			"name": "The Lost City",
-			"desc": "This city was once lost in the infamous Sand Storm that gripped this region for many years turning lush grasslands to dusty desert."
+			"desc": "This city was once lost in the infamous Sand Storm that gripped this region for many years turning lush grasslands to dusty desert.",
+			"name": "The Lost City"
 		}
 	},
 	"sb": {
 		"10,36": {
-			"name": "Southpoint",
-			"desc": "This small point overlooking the ocean houses a bustling sea port."
+			"desc": "This small point overlooking the ocean houses a bustling sea port.",
+			"name": "Southpoint"
 		},
 		"18,76": {
 			"name": "Fenwood Quarry"
@@ -1145,8 +1145,8 @@
 			"name": "Strangers Folly"
 		},
 		"34,69": {
-			"name": "Clifftop Retreat",
-			"desc": "This small outpost is one of only a handful of Exile positions."
+			"desc": "This small outpost is one of only a handful of Exile positions.",
+			"name": "Clifftop Retreat"
 		},
 		"44,88": {
 			"name": "Fenwood Town"
@@ -1161,8 +1161,8 @@
 			"name": "Palmbay View"
 		},
 		"54,92": {
-			"name": "Portal to Knotwood",
-			"desc": "This is the portal back to Knotwood Vale"
+			"desc": "This is the portal back to Knotwood Vale",
+			"name": "Portal to Knotwood"
 		},
 		"62,65": {
 			"name": "Bloodbuckle Bay"
@@ -1174,55 +1174,62 @@
 			"name": "Bramble Patch"
 		},
 		"74,3": {
-			"name": "Tombs of the Forgotten",
-			"desc": "Many have forgotten the sacrifices the dead have made, but while few living souls visit these tombs to pay their respects other things now inhabit them."
+			"desc": "Many have forgotten the sacrifices the dead have made, but while few living souls visit these tombs to pay their respects other things now inhabit them.",
+			"name": "Tombs of the Forgotten"
 		},
 		"78,13": {
-			"name": "Blackdeep",
-			"desc": "This majestic city is carved into the face of a mountain."
+			"desc": "This majestic city is carved into the face of a mountain.",
+			"name": "Blackdeep"
 		},
 		"90,82": {
-			"name": "Island of the Lost",
-			"desc": "This island shimmers in and out of sight as if its hanging onto this plane of existense with all its strength."
+			"desc": "This island shimmers in and out of sight as if its hanging onto this plane of existense with all its strength.",
+			"name": "Island of the Lost"
 		},
 		"93,39": {
 			"name": "Greenglade"
 		},
 		"95,40": {
-			"name": "Umberto Manor",
-			"desc": "This manor is home to Antonio and Francesca Umberto ruling family of the Society."
+			"desc": "This manor is home to Antonio and Francesca Umberto ruling family of the Society.",
+			"name": "Umberto Manor"
 		},
 		"96,97": {
-			"name": "Dark Grotto",
-			"desc": "This grotto is home to something dark and deadly."
+			"desc": "This grotto is home to something dark and deadly.",
+			"name": "Dark Grotto"
 		}
 	},
 	"si": {
+		"5,68": {
+			"desc": "A sheltered cove where the local fleet anchors.",
+			"name": "Jellyfish Island Mooring"
+		},
+		"6,67": {
+			"name": "Shabby Town"
+		},
 		"11,44": {
 			"name": "Dilapidated Town"
 		},
 		"11,46": {
-			"name": "Puzzle Island Mooring",
-			"desc": "A sheltered cove where the local fleet anchors."
+			"desc": "A sheltered cove where the local fleet anchors.",
+			"name": "Puzzle Island Mooring"
 		},
 		"11,85": {
-			"name": "Angel Island Mooring",
-			"desc": "A sheltered cove where the local fleet anchors."
+			"desc": "A sheltered cove where the local fleet anchors.",
+			"name": "Angel Island Mooring"
 		},
 		"12,90": {
 			"name": "Angel Island Caves"
 		},
 		"17,16": {
-			"name": "Aggressive Training Bay",
-			"desc": "This area has training buoys setup so you can practice vessel combat."
+			"desc": "This area has training buoys setup so you can practice vessel combat.",
+			"name": "Aggressive Training Bay"
 		},
 		"18,16": {
-			"name": "Training Bay",
-			"desc": "This area has training buoys setup so you can practice vessel combat."
+			"desc": "This area has training buoys setup so you can practice vessel combat.",
+			"name": "Training Bay"
 		},
 		"30,13": {
-			"name": "Fin Island Mooring",
-			"desc": "A sheltered cove where the local fleet anchors."
+			"desc": "A sheltered cove where the local fleet anchors.",
+			"name": "Fin Island Mooring"
 		},
 		"31,11": {
 			"name": "Broken Town"
@@ -1234,15 +1241,15 @@
 			"name": "Fin Island Hideaway"
 		},
 		"45,39": {
-			"name": "Entrance to Pacifica",
-			"desc": "There is a large opening behind the waterfall that leads down under the surface of the water."
+			"desc": "There is a large opening behind the waterfall that leads down under the surface of the water.",
+			"name": "Entrance to Pacifica"
 		},
 		"45,88": {
 			"name": "Bedraggled Town"
 		},
 		"46,89": {
-			"name": "Clam Shell Mooring",
-			"desc": "A sheltered cove where the local fleet anchors."
+			"desc": "A sheltered cove where the local fleet anchors.",
+			"name": "Clam Shell Mooring"
 		},
 		"49,48": {
 			"name": "Valley"
@@ -1250,51 +1257,44 @@
 		"49,50": {
 			"name": "Valley"
 		},
-		"5,68": {
-			"name": "Jellyfish Island Mooring",
-			"desc": "A sheltered cove where the local fleet anchors."
-		},
 		"51,51": {
 			"name": "Valley"
-		},
-		"6,67": {
-			"name": "Shabby Town"
 		},
 		"65,29": {
 			"name": "Terranticle`s Haunt"
 		},
 		"70,78": {
-			"name": "Squid Island Mooring",
-			"desc": "A sheltered cove where the local fleet anchors."
-		},
-		"72,10": {
-			"name": "Shell Island Mooring",
-			"desc": "A sheltered cove where the local fleet anchors."
+			"desc": "A sheltered cove where the local fleet anchors.",
+			"name": "Squid Island Mooring"
 		},
 		"72,9": {
 			"name": "Stained Town"
+		},
+		"72,10": {
+			"desc": "A sheltered cove where the local fleet anchors.",
+			"name": "Shell Island Mooring"
 		},
 		"88,65": {
 			"name": "Ramshackled Town"
 		},
 		"88,67": {
-			"name": "Gull Island Mooring",
-			"desc": "A sheltered cove where the local fleet anchors."
+			"desc": "A sheltered cove where the local fleet anchors.",
+			"name": "Gull Island Mooring"
 		},
 		"89,87": {
-			"name": "Aggressive Training Bay",
-			"desc": "This area has training buoys setup so you can practice vessel combat."
+			"desc": "This area has training buoys setup so you can practice vessel combat.",
+			"name": "Aggressive Training Bay"
 		},
 		"93,15": {
 			"name": "Wrecked Town"
 		},
 		"93,47": {
-			"name": "Hawk Island Mooring",
-			"desc": "A sheltered cove where the local fleet anchors."
+			"desc": "A sheltered cove where the local fleet anchors.",
+			"name": "Hawk Island Mooring"
 		},
 		"94,13": {
-			"name": "Jagged Island Mooring",
-			"desc": "A sheltered cove where the local fleet anchors."
+			"desc": "A sheltered cove where the local fleet anchors.",
+			"name": "Jagged Island Mooring"
 		},
 		"94,24": {
 			"name": "Snappers Beach"
@@ -1304,70 +1304,73 @@
 		}
 	},
 	"ss": {
+		"7,31": {
+			"desc": "This is where Ella is rumored to be buried.",
+			"name": "Ella`s Grave"
+		},
 		"21,79": {
-			"name": "Jodie`s Grave",
-			"desc": "This place is rumored to be where Jodie was buried."
+			"desc": "This place is rumored to be where Jodie was buried.",
+			"name": "Jodie`s Grave"
 		},
 		"22,49": {
-			"name": "Forest Retreat",
-			"desc": "This small outpost is commanded by Eliza Yorkwell."
+			"desc": "This small outpost is commanded by Eliza Yorkwell.",
+			"name": "Forest Retreat"
 		},
 		"24,65": {
-			"name": "Impendium",
-			"desc": "This small outpost is deep in the land of Imps"
+			"desc": "This small outpost is deep in the land of Imps",
+			"name": "Impendium"
 		},
 		"29,92": {
-			"name": "Emily`s Grave",
-			"desc": "The rumored location of the grave of Emily."
+			"desc": "The rumored location of the grave of Emily.",
+			"name": "Emily`s Grave"
 		},
 		"30,24": {
-			"name": "Sera`s Grave",
-			"desc": "The rumored location of Sera`s grave."
+			"desc": "The rumored location of Sera`s grave.",
+			"name": "Sera`s Grave"
 		},
 		"38,90": {
-			"name": "Hallowed Covenant",
-			"desc": "This place is where the Seven Sisters used to live work and practice magic and witchcraft."
+			"desc": "This place is where the Seven Sisters used to live work and practice magic and witchcraft.",
+			"name": "Hallowed Covenant"
 		},
 		"49,35": {
-			"name": "Vesper`s Grave",
-			"desc": "The rumored location of Vesper`s grave."
+			"desc": "The rumored location of Vesper`s grave.",
+			"name": "Vesper`s Grave"
 		},
 		"52,55": {
-			"name": "Marie`s Grave",
-			"desc": "The rumored location of the grave of Marie."
+			"desc": "The rumored location of the grave of Marie.",
+			"name": "Marie`s Grave"
 		},
 		"53,88": {
-			"name": "Destiny`s Grave",
-			"desc": "The rumored location of the grave of Destiny."
+			"desc": "The rumored location of the grave of Destiny.",
+			"name": "Destiny`s Grave"
 		},
 		"66,67": {
-			"name": "Needlepoint",
-			"desc": "This Reaper outpost is situated at the top of some cliffs overlooking wave washed needles."
-		},
-		"7,31": {
-			"name": "Ella`s Grave",
-			"desc": "This is where Ella is rumored to be buried."
+			"desc": "This Reaper outpost is situated at the top of some cliffs overlooking wave washed needles.",
+			"name": "Needlepoint"
 		},
 		"81,7": {
-			"name": "Foundation Town",
-			"desc": "This ancient town has withstood the test of time and mother nature with flying colors."
+			"desc": "This ancient town has withstood the test of time and mother nature with flying colors.",
+			"name": "Foundation Town"
 		},
 		"82,7": {
 			"name": "Eastern Fringe"
 		},
 		"87,85": {
-			"name": "Botherton",
-			"desc": "This large outpost overlooks the lush grasslands to the north."
+			"desc": "This large outpost overlooks the lush grasslands to the north.",
+			"name": "Botherton"
 		},
 		"90,70": {
-			"name": "Villborn Manor",
-			"desc": "This manor is owned by the infamous Villborn family, loyal Society members."
+			"desc": "This manor is owned by the infamous Villborn family, loyal Society members.",
+			"name": "Villborn Manor"
 		},
 		"99,67": {
 			"name": "Border Tower"
 		}
 	},
 	"tg": {
+		"2,62": {
+			"name": "Gate Tower"
+		},
 		"15,5": {
 			"name": "Frosthaven"
 		},
@@ -1375,19 +1378,16 @@
 			"name": "Frosthaven Guard Station"
 		},
 		"16,16": {
-			"name": "Frozen Prison",
-			"desc": "A long time ago this prison was abandoned to the ravages of the cold."
-		},
-		"2,62": {
-			"name": "Gate Tower"
+			"desc": "A long time ago this prison was abandoned to the ravages of the cold.",
+			"name": "Frozen Prison"
 		},
 		"21,92": {
-			"name": "Bonegnoll Glades",
-			"desc": "This horrid looking outpost is frequented by the nastiest, stinkiest Reapers."
+			"desc": "This horrid looking outpost is frequented by the nastiest, stinkiest Reapers.",
+			"name": "Bonegnoll Glades"
 		},
 		"23,79": {
-			"name": "Tramplegen",
-			"desc": "This pretty little village, has a small population but provides welcome relaxation to weary travellers."
+			"desc": "This pretty little village, has a small population but provides welcome relaxation to weary travellers.",
+			"name": "Tramplegen"
 		},
 		"25,78": {
 			"name": "Tramplegen Craft Camp"
@@ -1396,12 +1396,12 @@
 			"name": "Glade in the Glen"
 		},
 		"27,27": {
-			"name": "Gomez Towers",
-			"desc": "These elaborate towers are home to the Gomez family and a Society outpost."
+			"desc": "These elaborate towers are home to the Gomez family and a Society outpost.",
+			"name": "Gomez Towers"
 		},
 		"41,80": {
-			"name": "Chilled Forest",
-			"desc": "The forest here is slowly dying the trees and grass are cold to the touch."
+			"desc": "The forest here is slowly dying the trees and grass are cold to the touch.",
+			"name": "Chilled Forest"
 		},
 		"48,86": {
 			"name": "Gardens of Munari"
@@ -1410,12 +1410,12 @@
 			"name": "Icenvale"
 		},
 		"59,87": {
-			"name": "Crafting Camp",
-			"desc": "This small camp shows a hussle of activity."
+			"desc": "This small camp shows a hussle of activity.",
+			"name": "Crafting Camp"
 		},
 		"60,88": {
-			"name": "Gornal City",
-			"desc": "This once magnificent city is now assaulted on a daily basis by the changing moods of mother nature."
+			"desc": "This once magnificent city is now assaulted on a daily basis by the changing moods of mother nature.",
+			"name": "Gornal City"
 		},
 		"61,97": {
 			"name": "Southplains Tower"
@@ -1430,26 +1430,26 @@
 			"name": "Snowden Hills"
 		},
 		"76,99": {
-			"name": "Riverbed Deeps",
-			"desc": "A strange noise can be heard coming from the water ... you feel strangely drawn to it."
+			"desc": "A strange noise can be heard coming from the water ... you feel strangely drawn to it.",
+			"name": "Riverbed Deeps"
 		},
 		"87,11": {
-			"name": "Ironsted",
-			"desc": "This quanit village serves as an outpost for the Exiles, led by Edward Ironside."
+			"desc": "This quanit village serves as an outpost for the Exiles, led by Edward Ironside.",
+			"name": "Ironsted"
 		},
 		"88,67": {
-			"name": "Eastplains",
-			"desc": "This town is run down and in need of some attention."
+			"desc": "This town is run down and in need of some attention.",
+			"name": "Eastplains"
 		}
 	},
 	"uw": {
 		"54,52": {
-			"name": "Fallen Necropolis",
-			"desc": "The entry way to the Afterlife ... new souls arrive on an hourly basis."
+			"desc": "The entry way to the Afterlife ... new souls arrive on an hourly basis.",
+			"name": "Fallen Necropolis"
 		},
 		"64,58": {
-			"name": "Templar Outpost",
-			"desc": "A refuge of the Knights Templar."
+			"desc": "A refuge of the Knights Templar.",
+			"name": "Templar Outpost"
 		}
 	}
 }

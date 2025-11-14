@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/suncap-ix",
-	"requirements": {
-		"skill": 450,
-		"level": 801,
-		"mana": 9
-	},
 	"duration": "PT24M",
 	"effects": {
 		"properties": {
 			"MAXSTAMINA": 450
 		}
+	},
+	"id": "gm-magic/suncap-ix",
+	"requirements": {
+		"level": 801,
+		"mana": 9,
+		"skill": 450
 	}
 }

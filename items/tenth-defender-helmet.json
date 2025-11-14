@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "tenth-defender-helmet",
 	"image": "5055",
-	"type": "head-armour",
-	"armorType": "mail",
-	"set": "tenth-defender",
 	"material": "metal",
-	"skills": {
-		"stringed-defense": 1,
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1
-	}
+	},
+	"set": "tenth-defender",
+	"skills": {
+		"armor": 1,
+		"stringed-defense": 1
+	},
+	"type": "head-armour"
 }

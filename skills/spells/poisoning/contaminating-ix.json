@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "poisoning/contaminating-ix",
-	"requirements": {
-		"skill": 4500,
-		"level": 4500,
-		"mana": 14
-	},
 	"duration": 2,
 	"effects": {
 		"damage": 1365
+	},
+	"id": "poisoning/contaminating-ix",
+	"requirements": {
+		"level": 4500,
+		"mana": 14,
+		"skill": 4500
 	}
 }

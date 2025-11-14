@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/golem-upgrade-dual-wield",
-	"requirements": {
-		"skill": 1,
-		"mana": 1
-	},
 	"effects": {
 		"skills": {
 			"dual-wielding": 5
 		}
+	},
+	"id": "gamemastery/golem-upgrade-dual-wield",
+	"requirements": {
+		"mana": 1,
+		"skill": 1
 	}
 }

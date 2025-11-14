@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "arcane-robe",
 	"image": "rb3",
-	"type": "neck",
 	"material": "gem",
-	"skills": {
-		"bladed-defense": 1,
-		"armor": 1
-	},
 	"properties": {
 		"MAXMANA": 1
-	}
+	},
+	"skills": {
+		"armor": 1,
+		"bladed-defense": 1
+	},
+	"type": "neck"
 }

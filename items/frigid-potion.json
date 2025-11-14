@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 23,
 	"id": "frigid-potion",
 	"image": "pe5",
-	"type": "ammo-weapons-potions",
-	"dpr": 23,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-potions"
 }

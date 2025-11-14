@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "heavy-munitions/major-rock-bomb",
-	"requirements": {
-		"skill": 3594,
-		"mana": 3594
-	},
 	"effects": {
 		"damage": 1930
+	},
+	"id": "heavy-munitions/major-rock-bomb",
+	"requirements": {
+		"mana": 3594,
+		"skill": 3594
 	}
 }

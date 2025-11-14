@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 87,
 	"id": "fiery-dart",
 	"image": "drt",
-	"type": "ammo-weapons-darts",
-	"dpr": 87,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-darts"
 }

@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "adrealdan-wandmaker"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Adrealdan Wandmaker",
-		"title": "stonemason",
 		"image": "hum",
 		"level": {
 			"primary": 550
 		},
+		"name": "Adrealdan Wandmaker",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "stonemason"
 	}
 }

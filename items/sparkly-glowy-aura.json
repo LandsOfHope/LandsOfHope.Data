@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "sparkly-glowy-aura",
 	"image": "7010",
-	"type": "aura",
 	"material": "gem",
-	"skills": {
-		"armor": 1,
-		"alien-hunting": 3
-	},
 	"properties": {
 		"MAXHITPOINTS": 2
-	}
+	},
+	"skills": {
+		"alien-hunting": 3,
+		"armor": 1
+	},
+	"type": "aura"
 }

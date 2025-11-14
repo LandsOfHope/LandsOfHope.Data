@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "raptor-jerkin",
-	"image": "5151",
-	"type": "chest-armour",
 	"armorType": "leather",
 	"expansion": "jurassic-wars",
+	"id": "raptor-jerkin",
+	"image": "5151",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "chest-armour"
 }

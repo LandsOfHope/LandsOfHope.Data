@@ -1,26 +1,12 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/accounts/account.json",
-	"title": "Account",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/accounts/account"
 		},
-		"uid": {
-			"$ref": "/schemas/v1/accounts/account-id.json"
-		},
-		"primarySource": {
-			"$ref": "/schemas/v1/accounts/account-source.json"
-		},
-		"secret": {
-			"$ref": "/schemas/v1/accounts/account-secret.json"
-		},
 		"created": {
 			"$ref": "/schemas/v0/datetime.json"
-		},
-		"sources": {
-			"$ref": "/schemas/v1/accounts/account-sources.json"
 		},
 		"deleteRequested": {
 			"oneOf": [
@@ -31,6 +17,18 @@
 					"type": "null"
 				}
 			]
+		},
+		"primarySource": {
+			"$ref": "/schemas/v1/accounts/account-source.json"
+		},
+		"secret": {
+			"$ref": "/schemas/v1/accounts/account-secret.json"
+		},
+		"sources": {
+			"$ref": "/schemas/v1/accounts/account-sources.json"
+		},
+		"uid": {
+			"$ref": "/schemas/v1/accounts/account-id.json"
 		}
 	},
 	"required": [
@@ -41,5 +39,7 @@
 		"created",
 		"sources",
 		"deleteRequested"
-	]
+	],
+	"title": "Account",
+	"type": "object"
 }

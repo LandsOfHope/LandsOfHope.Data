@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "blessing/blessing-of-strength",
-	"requirements": {
-		"skill": 4962,
-		"mana": 4962
-	},
 	"duration": "PT120M",
 	"effects": {
 		"properties": {
 			"STRENGTH": 511
 		}
+	},
+	"id": "blessing/blessing-of-strength",
+	"requirements": {
+		"mana": 4962,
+		"skill": 4962
 	}
 }

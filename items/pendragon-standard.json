@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "pendragon-standard",
 	"image": "6756",
-	"type": "guild-color",
 	"material": "cloth",
-	"skills": {
-		"fire-survival": 1,
-		"cold-survival": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"skills": {
+		"cold-survival": 1,
+		"fire-survival": 1
+	},
+	"type": "guild-color"
 }

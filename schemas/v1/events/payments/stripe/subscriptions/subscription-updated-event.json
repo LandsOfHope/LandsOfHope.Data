@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/payments/stripe/subscriptions/subscription-updated-event.json",
-	"title": "StripeSubscriptionUpdateEvent",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -20,5 +18,7 @@
 			"type": "string"
 		}
 	},
-	"required": ["$type", "account", "secret", "status", "stripeSubscriptionId"]
+	"required": ["$type", "account", "secret", "status", "stripeSubscriptionId"],
+	"title": "StripeSubscriptionUpdateEvent",
+	"type": "object"
 }

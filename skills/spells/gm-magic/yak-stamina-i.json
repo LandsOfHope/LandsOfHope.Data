@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/yak-stamina-i",
-	"requirements": {
-		"skill": 211,
-		"mana": 211
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"MAXSTAMINA": 106
 		}
+	},
+	"id": "gm-magic/yak-stamina-i",
+	"requirements": {
+		"mana": 211,
+		"skill": 211
 	}
 }

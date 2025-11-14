@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/315-speed",
-	"requirements": {
-		"skill": 3150,
-		"level": 630,
-		"mana": 63
-	},
 	"duration": "PT60M",
 	"effects": {
 		"properties": {
 			"SPEED": 315
 		}
+	},
+	"id": "gamemastery/315-speed",
+	"requirements": {
+		"level": 630,
+		"mana": 63,
+		"skill": 3150
 	}
 }

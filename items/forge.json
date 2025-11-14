@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "forge",
 	"image": "fg2",
-	"type": "smithing-smelting-tool",
 	"material": "stone",
 	"skill": "blacksmithing",
 	"skills": {
 		"blacksmithing": 1
-	}
+	},
+	"type": "smithing-smelting-tool"
 }

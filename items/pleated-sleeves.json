@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "pleated-sleeves",
 	"image": "3216",
-	"type": "arm-armour",
-	"armorType": "cloth",
-	"material": "cloth"
+	"material": "cloth",
+	"type": "arm-armour"
 }

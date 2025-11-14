@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/rocksmasher-quartzhands",
-	"requirements": {
-		"skill": 2878,
-		"mana": 2878
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "orc-lord",
-			"profession": "quarrier"
+			"profession": "quarrier",
+			"race": "orc-lord"
 		}
+	},
+	"id": "summoning/rocksmasher-quartzhands",
+	"requirements": {
+		"mana": 2878,
+		"skill": 2878
 	}
 }

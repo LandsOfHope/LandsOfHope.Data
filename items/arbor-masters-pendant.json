@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "arbor-masters-pendant",
 	"image": "amp",
-	"type": "neck",
 	"material": "wood",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skills": {
 		"carpentry": 1,
 		"lumberjacking": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "neck"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 3,
 	"id": "shocking-potion",
 	"image": "pf2",
-	"type": "ammo-weapons-potions",
-	"dpr": 3,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-potions"
 }

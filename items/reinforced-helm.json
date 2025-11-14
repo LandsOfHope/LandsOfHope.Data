@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "reinforced-helm",
 	"image": "2657",
-	"type": "head-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "head-armour"
 }

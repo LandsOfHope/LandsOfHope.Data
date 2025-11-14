@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "guilded-cured-gloves",
 	"image": "3837",
-	"type": "hand-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "hand-armour"
 }

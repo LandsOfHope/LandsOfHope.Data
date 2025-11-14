@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "fire-magic/fiery-breath",
-	"requirements": {
-		"skill": 1401,
-		"mana": 1401
-	},
 	"effects": {
 		"damage": 995
+	},
+	"id": "fire-magic/fiery-breath",
+	"requirements": {
+		"mana": 1401,
+		"skill": 1401
 	}
 }

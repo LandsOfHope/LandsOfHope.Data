@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "sabretooth-shoulders",
-	"image": "shp",
-	"type": "shoulders",
 	"armorType": "leather",
 	"expansion": "jurassic-wars",
+	"id": "sabretooth-shoulders",
+	"image": "shp",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

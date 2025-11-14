@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 93,
 	"id": "rippling-arrow",
 	"image": "arr1",
-	"type": "ammo-weapons-bows",
-	"dpr": 93,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bows"
 }

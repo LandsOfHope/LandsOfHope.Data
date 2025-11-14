@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 52,
 	"id": "bloody-light-crossbow",
 	"image": "xw2",
-	"type": "ranged-weapon",
-	"dpr": 52,
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ranged-weapon"
 }

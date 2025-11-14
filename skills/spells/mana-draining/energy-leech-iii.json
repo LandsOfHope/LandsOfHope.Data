@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "mana-draining/energy-leech-iii",
-	"requirements": {
-		"skill": 3466,
-		"mana": 3466
-	},
 	"duration": "PT25M",
 	"effects": {
 		"damage": 109,
 		"properties": {
 			"MANA": -1728
 		}
+	},
+	"id": "mana-draining/energy-leech-iii",
+	"requirements": {
+		"mana": 3466,
+		"skill": 3466
 	}
 }

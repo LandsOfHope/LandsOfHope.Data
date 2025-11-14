@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "darkness-braces",
 	"image": "3000",
-	"type": "arm-armour",
-	"armorType": "leather",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "arm-armour"
 }

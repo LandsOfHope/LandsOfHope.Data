@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Ladybird"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Ladybird"
+	},
 	"pics": {
-		"M": ["lbm"],
-		"F": ["lbf"]
+		"F": ["lbf"],
+		"M": ["lbm"]
 	}
 }

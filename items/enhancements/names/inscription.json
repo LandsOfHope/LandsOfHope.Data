@@ -1,9 +1,9 @@
 {
 	"$type": "/v1/items/enhancements/item-name",
-	"id": "names/inscription",
 	"effects": {
 		"skills": {
 			"inscription": 0.5
 		}
-	}
+	},
+	"id": "names/inscription"
 }

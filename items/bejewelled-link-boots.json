@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "bejewelled-link-boots",
 	"image": "2600",
-	"type": "foot-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

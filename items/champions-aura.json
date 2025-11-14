@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "champions-aura",
 	"image": "6178",
-	"type": "aura",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 2
+	},
 	"skills": {
 		"health-regen": 0.5
 	},
-	"properties": {
-		"MAXHITPOINTS": 2
-	}
+	"type": "aura"
 }

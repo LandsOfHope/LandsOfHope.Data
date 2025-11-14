@@ -1,116 +1,27 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v0/buildings/building.json",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v0/buildings/building"
 		},
-		"buildingId": {
+		"allegiance": {
 			"type": "integer"
 		},
-		"buildingParentId": {
-			"type": ["integer", "null"]
+		"allowIndex": {
+			"type": "integer"
 		},
-		"buildingName": {
-			"type": "string"
+		"autoSpellId": {
+			"type": "integer"
 		},
-		"img": {
+		"bLootItemName": {
 			"type": ["string", "null"]
 		},
-		"img1": {
+		"bLootItemPicture": {
 			"type": ["string", "null"]
-		},
-		"img2": {
-			"type": ["string", "null"]
-		},
-		"characterId": {
-			"type": "integer"
-		},
-		"buildingTypeId": {
-			"type": "integer"
-		},
-		"mapX": {
-			"type": "integer"
-		},
-		"mapY": {
-			"type": "integer"
-		},
-		"mapZ": {
-			"type": "integer"
-		},
-		"gameId": {
-			"type": "integer"
-		},
-		"server": {
-			"type": "integer"
-		},
-		"offsetX": {
-			"type": "integer"
-		},
-		"offsetY": {
-			"type": "integer"
-		},
-		"description": {
-			"type": ["string", "null"]
-		},
-		"roomId": {
-			"type": ["integer", "null"]
-		},
-		"npc": {
-			"type": "integer"
-		},
-		"locked": {
-			"type": "integer"
-		},
-		"visible": {
-			"type": "integer"
-		},
-		"playerBuilt": {
-			"type": "integer"
-		},
-		"completed": {
-			"type": "integer"
-		},
-		"pickable": {
-			"type": ["integer", "null"]
-		},
-		"dungeon": {
-			"type": "integer"
-		},
-		"name": {
-			"type": ["string", "null"]
-		},
-		"spawns": {
-			"type": "integer"
-		},
-		"respawnMins": {
-			"type": "integer"
-		},
-		"raceId": {
-			"type": "integer"
-		},
-		"professionId": {
-			"type": ["integer", "null"]
-		},
-		"level": {
-			"type": "integer"
-		},
-		"gotoBuildingId": {
-			"type": "integer"
 		},
 		"boss": {
 			"type": "integer"
-		},
-		"lastUsed": {
-			"oneOf": [
-				{
-					"$ref": "/schemas/v0/datetime.json"
-				},
-				{
-					"type": "null"
-				}
-			]
 		},
 		"buildingDisappears": {
 			"oneOf": [
@@ -122,28 +33,61 @@
 				}
 			]
 		},
-		"flying": {
+		"buildingId": {
 			"type": "integer"
 		},
-		"underwater": {
+		"buildingLevel": {
 			"type": "integer"
 		},
-		"hidden": {
+		"buildingName": {
+			"type": "string"
+		},
+		"buildingOrder": {
 			"type": "integer"
 		},
-		"specialFlag": {
-			"type": "integer"
-		},
-		"useBuildingLoot": {
-			"type": "integer"
+		"buildingParentId": {
+			"type": ["integer", "null"]
 		},
 		"buildingPrice": {
 			"type": "number"
 		},
-		"discoveredBy": {
+		"buildingTag": {
+			"type": "string"
+		},
+		"buildingTypeId": {
 			"type": "integer"
 		},
-		"discoveredSkill": {
+		"challengeId": {
+			"type": "integer"
+		},
+		"challengeType": {
+			"type": "integer"
+		},
+		"characterId": {
+			"type": "integer"
+		},
+		"completed": {
+			"type": "integer"
+		},
+		"decayed": {
+			"type": "integer"
+		},
+		"description": {
+			"type": ["string", "null"]
+		},
+		"detectedBy": {
+			"type": "integer"
+		},
+		"detectedDate": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"detectedSkill": {
+			"type": "integer"
+		},
+		"dirty": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"discoveredBy": {
 			"type": "integer"
 		},
 		"discoveredDate": {
@@ -156,31 +100,153 @@
 				}
 			]
 		},
-		"spawnAllegiance": {
+		"discoveredSkill": {
 			"type": "integer"
 		},
-		"monster": {
-			"type": "boolean"
-		},
-		"npcCount": {
+		"dungeon": {
 			"type": "integer"
 		},
-		"allegiance": {
+		"flying": {
 			"type": "integer"
 		},
-		"noMove": {
+		"forSale": {
 			"type": "boolean"
 		},
-		"noMark": {
-			"type": "boolean"
+		"gameId": {
+			"type": "integer"
 		},
-		"buildingLevel": {
+		"gotoBuildingId": {
+			"type": "integer"
+		},
+		"guildId": {
+			"type": "integer"
+		},
+		"happiness": {
+			"type": "integer"
+		},
+		"hidden": {
+			"type": "integer"
+		},
+		"img": {
+			"type": ["string", "null"]
+		},
+		"img1": {
+			"type": ["string", "null"]
+		},
+		"img2": {
+			"type": ["string", "null"]
+		},
+		"lastSpellCast": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v0/datetime.json"
+				},
+				{
+					"type": "null"
+				}
+			]
+		},
+		"lastUsed": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v0/datetime.json"
+				},
+				{
+					"type": "null"
+				}
+			]
+		},
+		"level": {
 			"type": "integer"
 		},
 		"lightSource": {
 			"type": "boolean"
 		},
+		"locked": {
+			"type": "integer"
+		},
+		"lordshipRating": {
+			"type": "integer"
+		},
+		"mapX": {
+			"type": "integer"
+		},
+		"mapY": {
+			"type": "integer"
+		},
+		"mapZ": {
+			"type": "integer"
+		},
+		"monster": {
+			"type": "boolean"
+		},
+		"music": {
+			"type": ["string", "null"]
+		},
+		"name": {
+			"type": ["string", "null"]
+		},
+		"needPaid": {
+			"type": "boolean"
+		},
+		"newColor": {
+			"type": "integer"
+		},
+		"noDelete": {
+			"type": "boolean"
+		},
+		"noMark": {
+			"type": "boolean"
+		},
+		"noMove": {
+			"type": "boolean"
+		},
+		"noSiege": {
+			"type": "boolean"
+		},
+		"npc": {
+			"type": "integer"
+		},
+		"npcCount": {
+			"type": "integer"
+		},
+		"offsetX": {
+			"type": "integer"
+		},
+		"offsetY": {
+			"type": "integer"
+		},
 		"originalAllegiance": {
+			"type": "integer"
+		},
+		"ownerAccountId": {
+			"type": "integer"
+		},
+		"peasants": {
+			"type": "integer"
+		},
+		"pImg": {
+			"type": ["string", "null"]
+		},
+		"pickable": {
+			"type": ["integer", "null"]
+		},
+		"playerBuilt": {
+			"type": "integer"
+		},
+		"professionId": {
+			"type": ["integer", "null"]
+		},
+		"raceId": {
+			"type": "integer"
+		},
+		"respawnMins": {
+			"type": "integer"
+		},
+		"roomId": {
+			"type": ["integer", "null"]
+		},
+		"server": {
 			"type": "integer"
 		},
 		"siegeDate": {
@@ -193,99 +259,32 @@
 				}
 			]
 		},
-		"noSiege": {
-			"type": "boolean"
-		},
-		"pImg": {
-			"type": ["string", "null"]
-		},
-		"decayed": {
-			"type": "integer"
-		},
-		"guildId": {
-			"type": "integer"
-		},
 		"soundEffect": {
 			"type": ["string", "null"]
 		},
-		"forSale": {
-			"type": "boolean"
-		},
-		"newColor": {
+		"spawnAllegiance": {
 			"type": "integer"
-		},
-		"music": {
-			"type": ["string", "null"]
-		},
-		"detectedBy": {
-			"type": "integer"
-		},
-		"detectedDate": {
-			"$ref": "/schemas/v0/datetime.json"
-		},
-		"detectedSkill": {
-			"type": "integer"
-		},
-		"buildingOrder": {
-			"type": "integer"
-		},
-		"challengeType": {
-			"type": "integer"
-		},
-		"challengeId": {
-			"type": "integer"
-		},
-		"spawnSex": {
-			"type": "string"
 		},
 		"spawnPicture": {
 			"type": "string"
 		},
-		"ownerAccountId": {
-			"type": "integer"
-		},
-		"buildingTag": {
+		"spawnSex": {
 			"type": "string"
 		},
-		"noDelete": {
-			"type": "boolean"
-		},
-		"needPaid": {
-			"type": "boolean"
-		},
-		"autoSpellId": {
+		"spawns": {
 			"type": "integer"
 		},
-		"lastSpellCast": {
-			"oneOf": [
-				{
-					"$ref": "/schemas/v0/datetime.json"
-				},
-				{
-					"type": "null"
-				}
-			]
-		},
-		"bLootItemName": {
-			"type": ["string", "null"]
-		},
-		"bLootItemPicture": {
-			"type": ["string", "null"]
-		},
-		"allowIndex": {
+		"specialFlag": {
 			"type": "integer"
 		},
-		"lordshipRating": {
+		"underwater": {
 			"type": "integer"
 		},
-		"peasants": {
+		"useBuildingLoot": {
 			"type": "integer"
 		},
-		"happiness": {
+		"visible": {
 			"type": "integer"
-		},
-		"dirty": {
-			"$ref": "/schemas/v0/datetime.json"
 		}
 	},
 	"required": [
@@ -373,5 +372,6 @@
 		"happiness",
 		"dirty"
 	],
-	"title": "Building"
+	"title": "Building",
+	"type": "object"
 }

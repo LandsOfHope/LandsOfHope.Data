@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "fleetfoot-standard",
 	"image": "zsgc10",
-	"type": "guild-color",
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1,
 		"HITPOINTS": 1,
 		"MAXHITPOINTS": 1,
 		"SPEED": 1
-	}
+	},
+	"type": "guild-color"
 }

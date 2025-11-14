@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "fast-small-golem-mk-ii",
 	"image": "2682",
-	"type": "golem",
 	"material": "stone",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "golem"
 }

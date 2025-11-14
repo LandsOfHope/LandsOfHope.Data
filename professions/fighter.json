@@ -1,22 +1,16 @@
 {
 	"$type": "/v1/profession",
-	"id": "fighter",
-	"name": {
-		"en": "Fighter"
-	},
 	"desc": {
 		"en": "Throughout history we have known many wars each one tainted by the blood of the fallen souls who died defending their \"point of view\", the Fighter profession would in most wars be the first to die or the last person standing at the end of the conflict. They are skilled expertly in most one handed weapons to the point where they can dual wield and still be effective."
 	},
-	"skills": {
-		"taunting": 5,
-		"daggers": 5,
-		"swords": 5,
-		"axes": 5,
-		"maces": 5,
-		"fists": 5,
-		"dual-wielding": 5,
-		"armor": 10,
-		"attack-power": 5
+	"evo": {
+		"grunt": 50,
+		"squire": 50,
+		"warrior": 50
+	},
+	"id": "fighter",
+	"name": {
+		"en": "Fighter"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -25,9 +19,15 @@
 		"SPEED": 1,
 		"STRENGTH": 1
 	},
-	"evo": {
-		"warrior": 50,
-		"squire": 50,
-		"grunt": 50
+	"skills": {
+		"armor": 10,
+		"attack-power": 5,
+		"axes": 5,
+		"daggers": 5,
+		"dual-wielding": 5,
+		"fists": 5,
+		"maces": 5,
+		"swords": 5,
+		"taunting": 5
 	}
 }

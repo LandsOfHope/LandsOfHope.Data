@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-knuckle-duster",
 	"image": "nft",
-	"type": "1-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "metal",
+	"properties": {
+		"DEXTERITY": 1,
+		"STRENGTH": 1
+	},
 	"skill": "fists",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"DEXTERITY": 1,
-		"STRENGTH": 1
-	}
+	"type": "1-handed-equipment"
 }

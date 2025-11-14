@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "crafters-chest",
 	"image": "sc2",
-	"type": "crafters-gift",
 	"material": "wood",
-	"skill": "artisan"
+	"skill": "artisan",
+	"type": "crafters-gift"
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "flour",
 	"image": "fr1",
-	"type": "rawfood",
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1
-	}
+	},
+	"type": "rawfood"
 }

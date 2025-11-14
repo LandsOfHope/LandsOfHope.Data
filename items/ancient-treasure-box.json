@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dark-depths",
 	"id": "ancient-treasure-box",
 	"image": "6477",
-	"type": "special-bag",
-	"expansion": "dark-depths",
-	"material": "cloth"
+	"material": "cloth",
+	"type": "special-bag"
 }

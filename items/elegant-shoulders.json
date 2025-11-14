@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "elegant-shoulders",
 	"image": "3252",
-	"type": "shoulders",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "raider-trousers",
-	"image": "5234",
-	"type": "leg-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "raider-trousers",
+	"image": "5234",
 	"material": "cloth",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "leg-armour"
 }

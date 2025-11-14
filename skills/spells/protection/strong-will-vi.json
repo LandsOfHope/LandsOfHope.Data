@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "protection/strong-will-vi",
-	"requirements": {
-		"skill": 2258,
-		"mana": 2258
-	},
 	"duration": 4,
 	"effects": {
 		"damage": 1595,
 		"skills": {
 			"damage-absorption": 1435
 		}
+	},
+	"id": "protection/strong-will-vi",
+	"requirements": {
+		"mana": 2258,
+		"skill": 2258
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "celestial-magic/starbolt-vi",
-	"requirements": {
-		"skill": 3396,
-		"mana": 3396
-	},
 	"effects": {
 		"damage": 2392
+	},
+	"id": "celestial-magic/starbolt-vi",
+	"requirements": {
+		"mana": 3396,
+		"skill": 3396
 	}
 }

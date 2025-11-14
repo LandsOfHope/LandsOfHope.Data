@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 109
+	},
 	"id": "fists/training-punch-vii",
 	"requirements": {
 		"skill": 211,
 		"stamina": 210
-	},
-	"effects": {
-		"damage": 109
 	}
 }

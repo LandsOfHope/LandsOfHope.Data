@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "stitched-coating",
 	"image": "2439",
-	"type": "golem-parts",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "golem-parts"
 }

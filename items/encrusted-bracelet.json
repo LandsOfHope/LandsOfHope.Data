@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "encrusted-bracelet",
 	"image": "gmenbr",
-	"type": "wrist-jewelry",
-	"armorType": "cloth",
-	"material": "metal"
+	"material": "metal",
+	"type": "wrist-jewelry"
 }

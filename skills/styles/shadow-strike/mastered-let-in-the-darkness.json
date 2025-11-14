@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 2967
+	},
 	"id": "shadow-strike/mastered-let-in-the-darkness",
 	"requirements": {
 		"skill": 4929,
 		"stamina": 4929
-	},
-	"effects": {
-		"damage": 2967
 	}
 }

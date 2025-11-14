@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "invocation/invoked-creature",
-	"requirements": {
-		"skill": 250,
-		"mana": 250
-	},
 	"duration": "PT25M",
 	"effects": {
 		"summon-pet": {
-			"race": "angel",
-			"profession": "creature"
+			"profession": "creature",
+			"race": "angel"
 		}
+	},
+	"id": "invocation/invoked-creature",
+	"requirements": {
+		"mana": 250,
+		"skill": 250
 	}
 }

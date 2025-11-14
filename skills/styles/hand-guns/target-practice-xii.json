@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 724
+	},
 	"id": "hand-guns/target-practice-xii",
 	"requirements": {
 		"skill": 1441,
 		"stamina": 1440
-	},
-	"effects": {
-		"damage": 724
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 2089
+	},
 	"id": "shields/mastered-block-and-strike-x",
 	"requirements": {
 		"skill": 4171,
 		"stamina": 4170
-	},
-	"effects": {
-		"damage": 2089
 	}
 }

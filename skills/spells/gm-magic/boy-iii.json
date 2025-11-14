@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/boy-iii",
-	"requirements": {
-		"skill": 397,
-		"mana": 397
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"skills": {
 			"begging": 199
 		}
+	},
+	"id": "gm-magic/boy-iii",
+	"requirements": {
+		"mana": 397,
+		"skill": 397
 	}
 }

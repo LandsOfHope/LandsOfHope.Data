@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "crown-of-glory",
 	"image": "zucrgl",
-	"type": "forehead",
-	"armorType": "cloth",
-	"set": "myzan-defenders",
 	"material": "metal",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXSTAMINA": 1
+	},
+	"set": "myzan-defenders",
 	"skill": "myzan-defenders",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1,
-		"MAXSTAMINA": 1
-	}
+	"type": "forehead"
 }

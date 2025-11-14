@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "tainted-chaps",
 	"image": "cgh",
-	"type": "leg-armour",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "leg-armour"
 }

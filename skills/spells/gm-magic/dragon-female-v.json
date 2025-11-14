@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/dragon-female-v",
-	"requirements": {
-		"skill": 952,
-		"mana": 952
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"attack-power": 477
 		}
+	},
+	"id": "gm-magic/dragon-female-v",
+	"requirements": {
+		"mana": 952,
+		"skill": 952
 	}
 }

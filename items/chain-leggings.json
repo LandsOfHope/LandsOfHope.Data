@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "chain-leggings",
 	"image": "cls",
-	"type": "leg-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skills": {
-		"bludgeon-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"bludgeon-defense": 1
+	},
+	"type": "leg-armour"
 }

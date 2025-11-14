@@ -1,41 +1,33 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v0/accounts/account.json",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v0/accounts/account"
 		},
+		"AccountChatOff": {
+			"type": "integer"
+		},
+		"AccountCredits": {
+			"type": "integer"
+		},
+		"AccountEmail": {
+			"maxLength": 50,
+			"type": "string"
+		},
 		"AccountID": {
 			"type": "integer"
 		},
 		"AccountName": {
-			"type": "string",
-			"maxLength": 36
+			"maxLength": 36,
+			"type": "string"
 		},
-		"AccountEmail": {
-			"type": "string",
-			"maxLength": 50
+		"AccountPassword": {
+			"maxLength": 50,
+			"type": "string"
 		},
-		"TransactionID": {
-			"oneOf": [
-				{
-					"type": "string",
-					"maxLength": 50
-				},
-				{
-					"type": "null"
-				}
-			]
-		},
-		"System": {
+		"AccountPermission": {
 			"type": "integer"
-		},
-		"LastActive": {
-			"$ref": "/schemas/v0/datetime.json"
-		},
-		"FirstActive": {
-			"$ref": "/schemas/v0/datetime.json"
 		},
 		"Banned": {
 			"oneOf": [
@@ -57,40 +49,11 @@
 				}
 			]
 		},
-		"LastIPAddress1": {
+		"BoughtProfs": {
 			"oneOf": [
 				{
-					"type": "string",
-					"maxLength": 16
-				},
-				{
-					"type": "null"
-				}
-			]
-		},
-		"Type": {
-			"type": "integer"
-		},
-		"P2PDate": {
-			"$ref": "/schemas/v0/datetime.json"
-		},
-		"Donation": {
-			"type": "integer"
-		},
-		"Slots": {
-			"type": "integer"
-		},
-		"Referrer": {
-			"type": "integer"
-		},
-		"Dollars": {
-			"type": "number"
-		},
-		"InstallPath": {
-			"oneOf": [
-				{
-					"type": "string",
-					"maxLength": 65
+					"maxLength": 65,
+					"type": "string"
 				},
 				{
 					"type": "null"
@@ -100,19 +63,8 @@
 		"BoughtRaces": {
 			"oneOf": [
 				{
-					"type": "string",
-					"maxLength": 65
-				},
-				{
-					"type": "null"
-				}
-			]
-		},
-		"BoughtProfs": {
-			"oneOf": [
-				{
-					"type": "string",
-					"maxLength": 65
+					"maxLength": 65,
+					"type": "string"
 				},
 				{
 					"type": "null"
@@ -122,112 +74,159 @@
 		"CanEmail": {
 			"type": "integer"
 		},
-		"EmailVerified": {
+		"CanEmailAuction": {
 			"type": "integer"
 		},
-		"EVC": {
-			"type": "string",
-			"maxLength": 20
-		},
-		"FoundHow": {
-			"type": "integer"
-		},
-		"TrialPeriod": {
-			"type": "integer"
-		},
-		"EmailStatus": {
-			"type": "integer"
-		},
-		"PaidAmount": {
-			"type": "integer"
-		},
-		"Theme": {
-			"type": "string",
-			"maxLength": 20
-		},
-		"WebPaid": {
-			"type": "integer"
-		},
-		"WebMode": {
-			"type": "integer"
-		},
-		"AccountPermission": {
-			"type": "integer"
-		},
-		"LastPatchInstalled": {
-			"type": "number"
-		},
-		"CountryCode": {
-			"type": "string",
-			"maxLength": 2
-		},
-		"DateofBirth": {
-			"$ref": "/schemas/v0/datetime.json"
-		},
-		"ChatIsDisabled": {
+		"CardLimit": {
 			"type": "integer"
 		},
 		"CharactersOnAccount": {
 			"type": "integer"
 		},
+		"ChatIsDisabled": {
+			"type": "integer"
+		},
+		"CountryCode": {
+			"maxLength": 2,
+			"type": "string"
+		},
+		"DateofBirth": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"Dollars": {
+			"type": "number"
+		},
+		"Donation": {
+			"type": "integer"
+		},
+		"EmailStatus": {
+			"type": "integer"
+		},
+		"EmailVerified": {
+			"type": "integer"
+		},
+		"EVC": {
+			"maxLength": 20,
+			"type": "string"
+		},
 		"ExpansionPacks": {
-			"type": "string",
-			"maxLength": 10
+			"maxLength": 10,
+			"type": "string"
 		},
-		"CardLimit": {
-			"type": "integer"
+		"FacebookID": {
+			"maxLength": 50,
+			"type": "string"
 		},
-		"CanEmailAuction": {
-			"type": "integer"
-		},
-		"AccountChatOff": {
-			"type": "integer"
+		"FirstActive": {
+			"$ref": "/schemas/v0/datetime.json"
 		},
 		"FiveCount": {
 			"type": "integer"
 		},
-		"ReferralPoints": {
+		"FoundHow": {
 			"type": "integer"
 		},
-		"ReferralGoldPoints": {
-			"type": "integer"
+		"InstallPath": {
+			"oneOf": [
+				{
+					"maxLength": 65,
+					"type": "string"
+				},
+				{
+					"type": "null"
+				}
+			]
+		},
+		"LastActive": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"LastIPAddress1": {
+			"oneOf": [
+				{
+					"maxLength": 16,
+					"type": "string"
+				},
+				{
+					"type": "null"
+				}
+			]
+		},
+		"LastPatchInstalled": {
+			"type": "number"
 		},
 		"MainStyle": {
 			"type": "integer"
 		},
-		"AccountCredits": {
+		"MiniCredits": {
 			"type": "integer"
 		},
 		"NewspaperPoints": {
 			"type": "integer"
 		},
-		"TotalNewspaperPoints": {
-			"type": "integer"
-		},
-		"WindowDetails": {
-			"type": "string",
-			"maxLength": 1000
-		},
-		"MiniCredits": {
-			"type": "integer"
-		},
 		"OldPassword": {
-			"type": "string",
-			"maxLength": 20
+			"maxLength": 20,
+			"type": "string"
 		},
 		"OldPasswordReset": {
 			"type": "integer"
 		},
-		"AccountPassword": {
-			"type": "string",
-			"maxLength": 50
+		"P2PDate": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"PaidAmount": {
+			"type": "integer"
+		},
+		"ReferralGoldPoints": {
+			"type": "integer"
+		},
+		"ReferralPoints": {
+			"type": "integer"
+		},
+		"Referrer": {
+			"type": "integer"
 		},
 		"Reward": {
 			"type": "integer"
 		},
-		"FacebookID": {
-			"type": "string",
-			"maxLength": 50
+		"Slots": {
+			"type": "integer"
+		},
+		"System": {
+			"type": "integer"
+		},
+		"Theme": {
+			"maxLength": 20,
+			"type": "string"
+		},
+		"TotalNewspaperPoints": {
+			"type": "integer"
+		},
+		"TransactionID": {
+			"oneOf": [
+				{
+					"maxLength": 50,
+					"type": "string"
+				},
+				{
+					"type": "null"
+				}
+			]
+		},
+		"TrialPeriod": {
+			"type": "integer"
+		},
+		"Type": {
+			"type": "integer"
+		},
+		"WebMode": {
+			"type": "integer"
+		},
+		"WebPaid": {
+			"type": "integer"
+		},
+		"WindowDetails": {
+			"maxLength": 1000,
+			"type": "string"
 		}
 	},
 	"required": [
@@ -268,5 +267,6 @@
 		"MiniCredits",
 		"AccountPassword"
 	],
-	"title": "Account"
+	"title": "Account",
+	"type": "object"
 }

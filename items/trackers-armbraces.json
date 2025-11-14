@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "trackers-armbraces",
 	"image": "2987",
-	"type": "arm-armour",
-	"armorType": "leather",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "arm-armour"
 }

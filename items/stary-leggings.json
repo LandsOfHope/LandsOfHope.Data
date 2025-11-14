@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "stary-leggings",
 	"image": "3058",
-	"type": "leg-armour",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "leg-armour"
 }

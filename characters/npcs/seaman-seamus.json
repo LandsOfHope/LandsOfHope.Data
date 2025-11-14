@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "seaman-seamus"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Seaman Seamus",
-		"title": "seamanship-trainer",
 		"image": "pirate8",
 		"level": {
 			"primary": 1
 		},
+		"name": "Seaman Seamus",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "seamanship-trainer"
 	}
 }

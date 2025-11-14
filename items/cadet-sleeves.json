@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "cadet-sleeves",
 	"image": "2706",
-	"type": "arm-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "arm-armour"
 }

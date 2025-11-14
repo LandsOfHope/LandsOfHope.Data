@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "guilded-follower-shoulders",
 	"image": "3952",
-	"type": "shoulders",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

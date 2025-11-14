@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 43,
 	"id": "guilded-battle-headsmasher",
 	"image": "bm",
-	"type": "2-handed-equipment",
-	"dpr": 43,
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "prepared-shirt",
 	"image": "pshi8",
-	"type": "chest-armour",
-	"armorType": "cloth",
 	"material": "cloth",
+	"properties": {
+		"MAXMANA": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXMANA": 1
-	}
+	"type": "chest-armour"
 }

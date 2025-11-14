@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 140,
 	"id": "exquisite-decimate",
 	"image": "6632",
-	"type": "ranged-weapon",
-	"dpr": 140,
 	"material": "metal",
-	"skill": "heavy-munitions",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "heavy-munitions",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "ranged-weapon"
 }

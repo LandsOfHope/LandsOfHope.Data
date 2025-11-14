@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/absorb-spells",
-	"requirements": {
-		"skill": 769,
-		"mana": 769
-	},
 	"duration": "PT300M",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 385
 		}
+	},
+	"id": "gamemastery/absorb-spells",
+	"requirements": {
+		"mana": 769,
+		"skill": 769
 	}
 }

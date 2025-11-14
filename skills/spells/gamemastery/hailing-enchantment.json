@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
+	"effects": {
+		"damage": 383
+	},
 	"id": "gamemastery/hailing-enchantment",
 	"requirements": {
 		"level": 766,
 		"mana": 1
-	},
-	"effects": {
-		"damage": 383
 	}
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/skeletal-dog-healthy-iv",
-	"requirements": {
-		"skill": 834,
-		"mana": 834
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": 418
 		}
+	},
+	"id": "gm-magic/skeletal-dog-healthy-iv",
+	"requirements": {
+		"mana": 834,
+		"skill": 834
 	}
 }

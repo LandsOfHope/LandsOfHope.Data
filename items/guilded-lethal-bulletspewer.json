@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 63,
 	"id": "guilded-lethal-bulletspewer",
 	"image": "re1",
-	"type": "2-handed-equipment",
-	"dpr": 63,
 	"material": "metal",
 	"skill": "two-handed-guns",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

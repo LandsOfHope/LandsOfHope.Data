@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/dragonflyer-wisdom-iii",
-	"requirements": {
-		"skill": 512,
-		"mana": 512
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 150
 		}
+	},
+	"id": "gm-magic/dragonflyer-wisdom-iii",
+	"requirements": {
+		"mana": 512,
+		"skill": 512
 	}
 }

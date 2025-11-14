@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/armored-sloth-whoop-ass-iv",
-	"requirements": {
-		"skill": 834,
-		"mana": 834
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"frenzy": 700
 		}
+	},
+	"id": "gm-magic/armored-sloth-whoop-ass-iv",
+	"requirements": {
+		"mana": 834,
+		"skill": 834
 	}
 }

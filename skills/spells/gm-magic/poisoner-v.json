@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/poisoner-v",
-	"requirements": {
-		"skill": 856,
-		"mana": 856
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"poison-magic": 429
 		}
+	},
+	"id": "gm-magic/poisoner-v",
+	"requirements": {
+		"mana": 856,
+		"skill": 856
 	}
 }

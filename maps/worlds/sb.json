@@ -1,18 +1,18 @@
 {
 	"$type": "/v1/maps/map",
-	"id": "sb",
 	"entry": {
 		"x": 44,
 		"y": 88
 	},
 	"extents": {
-		"topLeft": {
-			"x": 1,
-			"y": 1
-		},
 		"bottomRight": {
 			"x": 100,
 			"y": 100
+		},
+		"topLeft": {
+			"x": 1,
+			"y": 1
 		}
-	}
+	},
+	"id": "sb"
 }

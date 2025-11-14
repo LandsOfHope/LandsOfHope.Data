@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "blessing/blessing-of-air-resistance-viii",
-	"requirements": {
-		"skill": 4746,
-		"mana": 4746
-	},
 	"duration": "PT75M",
 	"effects": {
 		"skills": {
 			"air-resistance": 489
 		}
+	},
+	"id": "blessing/blessing-of-air-resistance-viii",
+	"requirements": {
+		"mana": 4746,
+		"skill": 4746
 	}
 }

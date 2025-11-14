@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 8,
 	"id": "poisoned-arrow",
 	"image": "arrp",
-	"type": "ammo-weapons-bows",
-	"dpr": 8,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bows"
 }

@@ -1,32 +1,9 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/skills/spell.json",
-	"title": "SkillsSpell",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/skills/spell"
-		},
-		"id": {
-			"type": "string"
-		},
-		"requirements": {
-			"type": "object",
-			"properties": {
-				"skill": {
-					"type": "integer",
-					"minimum": 1
-				},
-				"level": {
-					"type": "integer",
-					"minimum": 1
-				},
-				"mana": {
-					"type": "integer",
-					"minimum": 1
-				}
-			},
-			"required": ["mana"],
-			"additionalProperties": false
 		},
 		"duration": {
 			"oneOf": [
@@ -34,46 +11,66 @@
 					"$ref": "/schemas/v0/duration.json"
 				},
 				{
-					"type": "integer",
-					"minimum": 1
+					"minimum": 1,
+					"type": "integer"
 				}
 			]
 		},
 		"effects": {
-			"type": "object",
+			"additionalProperties": false,
+			"minProperties": 1,
 			"properties": {
 				"damage": {
-					"type": "integer"
-				},
-				"heal": {
 					"type": "integer"
 				},
 				"dead": {
 					"type": "integer"
 				},
+				"heal": {
+					"type": "integer"
+				},
 				"heldcurrency": {
 					"type": "integer"
 				},
-				"queuebonus": {
-					"type": "integer"
-				},
-				"raceid2": {
-					"type": "integer"
-				},
-				"skills": {
-					"type": "object",
-					"patternProperties": {
-						".*": {
-							"type": "integer"
+				"posess": {
+					"additionalProperties": false,
+					"oneOf": [
+						{
+							"properties": {
+								"class": {
+									"type": "string"
+								}
+							},
+							"required": ["class"]
+						},
+						{
+							"properties": {
+								"race": {
+									"$ref": "/schemas/v1/races-id.gen.json"
+								}
+							},
+							"required": ["race"]
+						},
+						{
+							"additionalProperties": false,
+							"properties": {}
+						}
+					],
+					"properties": {
+						"class": {
+							"type": "string"
+						},
+						"profession": {
+							"$ref": "/schemas/v1/professions-id.gen.json"
+						},
+						"race": {
+							"$ref": "/schemas/v1/races-id.gen.json"
 						}
 					},
-					"propertyNames": {
-						"$ref": "/schemas/v1/skills-id.gen.json"
-					},
-					"additionalProperties": false
+					"type": "object"
 				},
 				"properties": {
-					"type": "object",
+					"additionalProperties": false,
 					"patternProperties": {
 						".*": {
 							"type": "integer"
@@ -82,68 +79,37 @@
 					"propertyNames": {
 						"$ref": "/schemas/v1/characters/character-property-name.json"
 					},
-					"additionalProperties": false
+					"type": "object"
 				},
-				"posess": {
-					"type": "object",
-					"properties": {
-						"race": {
-							"$ref": "/schemas/v1/races-id.gen.json"
-						},
-						"profession": {
-							"$ref": "/schemas/v1/professions-id.gen.json"
-						},
-						"class": {
-							"type": "string"
+				"queuebonus": {
+					"type": "integer"
+				},
+				"raceid2": {
+					"type": "integer"
+				},
+				"skills": {
+					"additionalProperties": false,
+					"patternProperties": {
+						".*": {
+							"type": "integer"
 						}
 					},
-					"additionalProperties": false,
-					"oneOf": [
-						{
-							"properties": {
-								"class": {
-									"type": "string"
-								}
-							},
-							"required": ["class"]
-						},
-						{
-							"properties": {
-								"race": {
-									"$ref": "/schemas/v1/races-id.gen.json"
-								}
-							},
-							"required": ["race"]
-						},
-						{
-							"properties": {},
-							"additionalProperties": false
-						}
-					]
+					"propertyNames": {
+						"$ref": "/schemas/v1/skills-id.gen.json"
+					},
+					"type": "object"
 				},
 				"summon-item": {
-					"type": "object",
+					"additionalProperties": false,
 					"properties": {
 						"item": {
 							"$ref": "/schemas/v1/items-id.gen.json"
 						}
 					},
-					"additionalProperties": false,
-					"required": ["item"]
+					"required": ["item"],
+					"type": "object"
 				},
 				"summon-pet": {
-					"type": "object",
-					"properties": {
-						"race": {
-							"$ref": "/schemas/v1/races-id.gen.json"
-						},
-						"profession": {
-							"$ref": "/schemas/v1/professions-id.gen.json"
-						},
-						"class": {
-							"type": "string"
-						}
-					},
 					"additionalProperties": false,
 					"oneOf": [
 						{
@@ -162,13 +128,47 @@
 							},
 							"required": ["race"]
 						}
-					]
+					],
+					"properties": {
+						"class": {
+							"type": "string"
+						},
+						"profession": {
+							"$ref": "/schemas/v1/professions-id.gen.json"
+						},
+						"race": {
+							"$ref": "/schemas/v1/races-id.gen.json"
+						}
+					},
+					"type": "object"
 				}
 			},
-			"minProperties": 1,
-			"additionalProperties": false
+			"type": "object"
+		},
+		"id": {
+			"type": "string"
+		},
+		"requirements": {
+			"additionalProperties": false,
+			"properties": {
+				"level": {
+					"minimum": 1,
+					"type": "integer"
+				},
+				"mana": {
+					"minimum": 1,
+					"type": "integer"
+				},
+				"skill": {
+					"minimum": 1,
+					"type": "integer"
+				}
+			},
+			"required": ["mana"],
+			"type": "object"
 		}
 	},
 	"required": ["$type", "id", "requirements", "effects"],
-	"additionalProperties": false
+	"title": "SkillsSpell",
+	"type": "object"
 }

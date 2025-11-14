@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/warephant-battle-charge-iv",
-	"requirements": {
-		"skill": 834,
-		"mana": 834
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"SPEED": 550
 		}
+	},
+	"id": "gm-magic/warephant-battle-charge-iv",
+	"requirements": {
+		"mana": 834,
+		"skill": 834
 	}
 }

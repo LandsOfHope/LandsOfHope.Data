@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/nightmare-flight-ii",
-	"requirements": {
-		"skill": 568,
-		"mana": 568
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"air-survival": 285
 		}
+	},
+	"id": "gm-magic/nightmare-flight-ii",
+	"requirements": {
+		"mana": 568,
+		"skill": 568
 	}
 }

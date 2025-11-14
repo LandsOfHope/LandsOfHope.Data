@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "gloves-of-smashing",
 	"image": "1148",
-	"type": "hand-armour",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
-		"siege-weapons": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"siege-weapons": 1
+	},
+	"type": "hand-armour"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "Trains in Plans for Crafting"
+	},
 	"id": "craft-trainer",
 	"name": {
 		"en": "Craft Trainer"
-	},
-	"desc": {
-		"en": "Trains in Plans for Crafting"
 	},
 	"properties": {
 		"DEXTERITY": 2,

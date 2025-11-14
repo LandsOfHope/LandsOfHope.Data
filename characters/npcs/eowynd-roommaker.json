@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "eowynd-roommaker"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Eowynd Roommaker",
-		"title": "renovator",
 		"image": "elm",
 		"level": {
 			"primary": 250
 		},
+		"name": "Eowynd Roommaker",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "renovator"
 	}
 }

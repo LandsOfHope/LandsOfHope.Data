@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "webbed-trousers",
 	"image": "2088",
-	"type": "leg-armour",
-	"armorType": "cloth",
 	"material": "spider",
 	"properties": {
 		"SPEED": 1,
 		"STRENGTH": 1
-	}
+	},
+	"type": "leg-armour"
 }

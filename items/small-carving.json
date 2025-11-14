@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "small-carving",
 	"image": "brk",
-	"type": "stone-masonry-result",
 	"material": "wood",
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 1
-	}
+	},
+	"type": "stone-masonry-result"
 }

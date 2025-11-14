@@ -1,6 +1,6 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/creation/stargazer-constellation.json",
-	"title": "StargazerConstellation",
 	"enum": ["fox", "bear", "eagle", "turtle", "rat", "chameleon"],
+	"title": "StargazerConstellation",
 	"tsEnumNames": ["fox", "bear", "eagle", "turtle", "rat", "chameleon"]
 }

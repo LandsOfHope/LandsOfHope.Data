@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 73,
 	"id": "guilded-deadly-shaped-bow",
 	"image": "bw",
-	"type": "ranged-weapon",
-	"dpr": 73,
 	"material": "wood",
 	"skill": "bows",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ranged-weapon"
 }

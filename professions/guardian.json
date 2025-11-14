@@ -1,24 +1,24 @@
 {
 	"$type": "/v1/profession",
-	"id": "guardian",
-	"name": {
-		"en": "Guardian"
-	},
 	"desc": {
 		"en": "An ancient guardian"
 	},
-	"skills": {
-		"frenzy": 5,
-		"swords": 5,
-		"shields": 5,
-		"dual-wielding": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "guardian",
+	"name": {
+		"en": "Guardian"
 	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 3,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"dual-wielding": 5,
+		"frenzy": 5,
+		"shields": 5,
+		"swords": 5
 	}
 }

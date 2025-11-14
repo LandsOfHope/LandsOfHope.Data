@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "lady-kelly-endochan"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Lady Kelly Endochan",
-		"title": "lordship-trainer",
 		"image": "asif2",
 		"level": {
 			"primary": 650
 		},
+		"name": "Lady Kelly Endochan",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "lordship-trainer"
 	}
 }

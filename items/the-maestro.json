@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "the-maestro",
 	"image": "dss",
-	"type": "ranged-weapon",
-	"dpr": 120,
 	"legendary": true,
 	"material": "hide",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	},
 	"skill": "instruments",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1,
-		"MAXMANA": 1
-	}
+	"type": "ranged-weapon"
 }

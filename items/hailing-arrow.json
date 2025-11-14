@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 78,
 	"id": "hailing-arrow",
 	"image": "arr1",
-	"type": "ammo-weapons-bows",
-	"dpr": 78,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bows"
 }

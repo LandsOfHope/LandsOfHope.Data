@@ -1,6 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/chat/chat-color.json",
-	"title": "ChatColor",
 	"enum": [
 		"ffffff",
 		"ff6666",
@@ -26,5 +25,6 @@
 		"99CCCC",
 		"FF7256",
 		"CC3299"
-	]
+	],
+	"title": "ChatColor"
 }

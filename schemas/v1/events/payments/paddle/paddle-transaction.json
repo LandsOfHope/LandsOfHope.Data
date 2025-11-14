@@ -1,9 +1,20 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-transaction.json",
-	"title": "PaddleTransaction",
-	"type": "object",
 	"additionalProperties": true,
 	"properties": {
+		"custom_data": {
+			"oneOf": [
+				{
+					"type": "object"
+				},
+				{
+					"type": "null"
+				}
+			]
+		},
+		"customer_id": {
+			"type": "string"
+		},
 		"id": {
 			"type": "string"
 		},
@@ -17,20 +28,9 @@
 				"canceled",
 				"past_due"
 			]
-		},
-		"customer_id": {
-			"type": "string"
-		},
-		"custom_data": {
-			"oneOf": [
-				{
-					"type": "object"
-				},
-				{
-					"type": "null"
-				}
-			]
 		}
 	},
-	"required": ["id", "status", "customer_id", "custom_data"]
+	"required": ["id", "status", "customer_id", "custom_data"],
+	"title": "PaddleTransaction",
+	"type": "object"
 }

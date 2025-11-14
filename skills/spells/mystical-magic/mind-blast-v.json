@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "mystical-magic/mind-blast-v",
-	"requirements": {
-		"skill": 445,
-		"mana": 445
-	},
 	"duration": "PT5M",
 	"effects": {
 		"damage": 326
+	},
+	"id": "mystical-magic/mind-blast-v",
+	"requirements": {
+		"mana": 445,
+		"skill": 445
 	}
 }

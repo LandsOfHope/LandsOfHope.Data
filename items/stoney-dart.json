@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 84,
 	"id": "stoney-dart",
 	"image": "drt",
-	"type": "ammo-weapons-darts",
-	"dpr": 84,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-darts"
 }

@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/items/resource",
-	"id": "cloth",
-	"skill": "farming",
-	"tools": ["scythe", "crop-basket", "harvestor-knife"],
-	"items": ["fiber"],
 	"bonuses": {
 		"crop": {
 			"$type": "/v1/random-chance",
-			"numer": 6,
-			"denom": 100
+			"denom": 100,
+			"numer": 6
 		}
 	},
+	"id": "cloth",
+	"image": "flower13",
+	"items": ["fiber"],
 	"material": "cloth",
-	"image": "flower13"
+	"skill": "farming",
+	"tools": ["scythe", "crop-basket", "harvestor-knife"]
 }

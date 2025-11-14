@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "special-locket",
 	"image": "zusplo",
-	"type": "neck",
-	"armorType": "plate",
 	"material": "metal",
 	"skills": {
 		"begging": 1,
 		"disguise": 1
-	}
+	},
+	"type": "neck"
 }

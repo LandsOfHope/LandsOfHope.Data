@@ -1,16 +1,12 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/character-skill.json",
-	"title": "CharacterSkill",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/character-skill"
 		},
-		"natural": {
-			"type": "integer"
-		},
 		"bonus": {
-			"type": "object",
+			"additionalProperties": false,
 			"properties": {
 				"item": {
 					"type": "number"
@@ -19,21 +15,25 @@
 					"type": "number"
 				}
 			},
-			"additionalProperties": false,
-			"required": ["item", "spell"]
+			"required": ["item", "spell"],
+			"type": "object"
 		},
 		"limit": {
 			"oneOf": [
 				{
-					"type": "integer",
-					"exclusiveMinimum": 0
+					"exclusiveMinimum": 0,
+					"type": "integer"
 				},
 				{
 					"type": "null"
 				}
 			]
+		},
+		"natural": {
+			"type": "integer"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "natural", "bonus", "limit"]
+	"required": ["$type", "natural", "bonus", "limit"],
+	"title": "CharacterSkill",
+	"type": "object"
 }

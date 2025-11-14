@@ -1,14 +1,6 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-bejewelled.json",
-	"title": "EnhancedBejewelled",
-	"type": "object",
 	"properties": {
-		"enhancements": {
-			"type": "array",
-			"contains": {
-				"const": "bejewelled"
-			}
-		},
 		"bejewel": {
 			"oneOf": [
 				{
@@ -18,7 +10,15 @@
 					"$ref": "/schemas/v1/items/enhancements/item-bejewel.json"
 				}
 			]
+		},
+		"enhancements": {
+			"contains": {
+				"const": "bejewelled"
+			},
+			"type": "array"
 		}
 	},
-	"required": ["enhancements", "bejewel"]
+	"required": ["enhancements", "bejewel"],
+	"title": "EnhancedBejewelled",
+	"type": "object"
 }

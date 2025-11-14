@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "privateer-hat",
-	"image": "5221",
-	"type": "head-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "privateer-hat",
+	"image": "5221",
 	"material": "cloth",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skill": "seamanship",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "head-armour"
 }

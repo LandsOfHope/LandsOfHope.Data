@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "toy-box",
 	"image": "6187",
-	"type": "bag",
 	"material": "wood",
 	"skills": {
 		"toy-snatching": 1
-	}
+	},
+	"type": "bag"
 }

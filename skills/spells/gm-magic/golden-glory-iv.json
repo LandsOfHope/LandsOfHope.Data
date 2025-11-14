@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/golden-glory-iv",
-	"requirements": {
-		"skill": 200,
-		"level": 301,
-		"mana": 4
-	},
 	"duration": "PT19M",
 	"effects": {
 		"skills": {
 			"armor": 200
 		}
+	},
+	"id": "gm-magic/golden-glory-iv",
+	"requirements": {
+		"level": 301,
+		"mana": 4,
+		"skill": 200
 	}
 }

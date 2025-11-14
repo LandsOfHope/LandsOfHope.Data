@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Boneguard"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Boneguard"
+	},
 	"pics": {
-		"M": ["mjpmbg"],
-		"F": ["mjpfbg"]
+		"F": ["mjpfbg"],
+		"M": ["mjpmbg"]
 	}
 }

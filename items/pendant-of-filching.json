@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "pendant-of-filching",
 	"image": "pdt",
-	"type": "neck",
 	"material": "gem",
 	"skill": "stealing",
 	"skills": {
 		"stealing": 1
-	}
+	},
+	"type": "neck"
 }

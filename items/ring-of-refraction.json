@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "ring-of-refraction",
 	"image": "rgk",
-	"type": "ring",
 	"material": "gem",
-	"skills": {
-		"nature-resistance": 1,
-		"arcane-resistance": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1
-	}
+	},
+	"skills": {
+		"arcane-resistance": 1,
+		"nature-resistance": 1
+	},
+	"type": "ring"
 }

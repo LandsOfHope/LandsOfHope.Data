@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-crossbow",
 	"image": "xw2",
-	"type": "ranged-weapon",
-	"dpr": 120,
 	"legendary": true,
 	"material": "wood",
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXSTAMINA": 1
+	},
 	"skill": "crossbows",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"DEXTERITY": 1,
-		"MAXSTAMINA": 1
-	}
+	"type": "ranged-weapon"
 }

@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/fire-mage-i",
-	"requirements": {
-		"skill": 130,
-		"mana": 130
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"fire-resistance": 66
 		}
+	},
+	"id": "gm-magic/fire-mage-i",
+	"requirements": {
+		"mana": 130,
+		"skill": 130
 	}
 }

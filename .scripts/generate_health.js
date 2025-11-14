@@ -1,13 +1,13 @@
 const service = require("../package.json");
-const fs = require("fs");
+const fs = require("node:fs");
 
 fs.writeFileSync(
 	"health",
 	JSON.stringify({
 		...service,
-		status: 200,
-		message: "all systems go",
 		env: "production",
+		message: "all systems go",
+		status: 200,
 		timestamp: Date.now(),
 	}),
 );

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/failed-frankenstein-experiment",
-	"requirements": {
-		"skill": 1,
-		"mana": 1
-	},
 	"effects": {
 		"raceid2": 279
+	},
+	"id": "gamemastery/failed-frankenstein-experiment",
+	"requirements": {
+		"mana": 1,
+		"skill": 1
 	}
 }

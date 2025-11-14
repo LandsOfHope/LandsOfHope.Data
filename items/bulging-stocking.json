@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "bulging-stocking",
 	"image": "6199",
-	"type": "bag",
 	"material": "wood",
 	"skills": {
 		"toy-snatching": 1
-	}
+	},
+	"type": "bag"
 }

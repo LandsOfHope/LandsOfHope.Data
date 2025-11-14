@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/werewolf-female-iii",
-	"requirements": {
-		"skill": 625,
-		"mana": 625
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"MAXSTAMINA": 313
 		}
+	},
+	"id": "gm-magic/werewolf-female-iii",
+	"requirements": {
+		"mana": 625,
+		"skill": 625
 	}
 }

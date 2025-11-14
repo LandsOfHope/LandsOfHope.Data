@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "thrandil-spearcarver"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Thrandil Spearcarver",
-		"title": "master-carpenter",
 		"image": "gem",
 		"level": {
 			"primary": 250
 		},
+		"name": "Thrandil Spearcarver",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "master-carpenter"
 	}
 }

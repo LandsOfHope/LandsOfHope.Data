@@ -1,20 +1,20 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "Volcanic Golem Pet Class"
+	},
 	"id": "volcanic-golem",
 	"name": {
 		"en": "Volcanic Golem"
 	},
-	"desc": {
-		"en": "Volcanic Golem Pet Class"
-	},
-	"skills": {
-		"fire-magic": 5,
-		"fire-resistance": 5,
-		"fists": 5,
-		"armor": 5,
-		"attack-power": 5
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fire-magic": 5,
+		"fire-resistance": 5,
+		"fists": 5
 	}
 }

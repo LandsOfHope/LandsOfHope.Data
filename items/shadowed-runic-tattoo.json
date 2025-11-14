@@ -2,14 +2,14 @@
 	"$type": "/v1/item",
 	"id": "shadowed-runic-tattoo",
 	"image": "tattoo1",
-	"type": "glasses-shades",
 	"material": "gem",
+	"properties": {
+		"DEXTERITY": 1,
+		"SPEED": 1
+	},
 	"skill": "hellscar-legion",
 	"skills": {
 		"stealth": 1
 	},
-	"properties": {
-		"DEXTERITY": 1,
-		"SPEED": 1
-	}
+	"type": "glasses-shades"
 }

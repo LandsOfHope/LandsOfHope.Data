@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "pirate-map-piece-32",
 	"image": "puz32",
-	"type": "pirate-puzzle",
-	"expansion": "uncharted-waters",
-	"material": "color"
+	"material": "color",
+	"type": "pirate-puzzle"
 }

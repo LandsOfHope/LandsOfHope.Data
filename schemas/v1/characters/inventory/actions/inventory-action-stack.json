@@ -1,17 +1,16 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-action-stack.json",
-	"title": "InventoryActionStack",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/inventory/actions/inventory-action-stack"
 		},
 		"stackInventoryItemIds": {
-			"type": "array",
 			"items": {
 				"type": "integer"
 			},
 			"minItems": 1,
+			"type": "array",
 			"uniqueItems": true
 		},
 		"stackLocationId": {
@@ -19,5 +18,6 @@
 		}
 	},
 	"required": ["$type"],
-	"additionalProperties": false
+	"title": "InventoryActionStack",
+	"type": "object"
 }

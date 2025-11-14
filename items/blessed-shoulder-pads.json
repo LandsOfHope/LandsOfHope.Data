@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "blessed-shoulder-pads",
 	"image": "2753",
-	"type": "shoulders",
-	"armorType": "mail",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

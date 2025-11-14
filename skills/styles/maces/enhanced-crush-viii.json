@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1459
+	},
 	"id": "maces/enhanced-crush-viii",
 	"requirements": {
 		"skill": 2911,
 		"stamina": 2910
-	},
-	"effects": {
-		"damage": 1459
 	}
 }

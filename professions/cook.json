@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "An expert food and drink maker, who likes nothing more than to bake a good cake every now and then."
+	},
 	"id": "cook",
 	"name": {
 		"en": "Cook"
 	},
-	"desc": {
-		"en": "An expert food and drink maker, who likes nothing more than to bake a good cake every now and then."
-	},
-	"skills": {
-		"cooking": 5,
-		"armor": 5,
-		"attack-power": 5
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cooking": 5
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "earth-magic/tremor-xi",
-	"requirements": {
-		"skill": 4026,
-		"mana": 4026
-	},
 	"effects": {
 		"damage": 2833
+	},
+	"id": "earth-magic/tremor-xi",
+	"requirements": {
+		"mana": 4026,
+		"skill": 4026
 	}
 }

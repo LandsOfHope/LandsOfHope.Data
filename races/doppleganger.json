@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Doppleganger"
+	"appr": {
+		"en": ""
 	},
 	"desc": {
 		"en": "A Drow doppleganger."
 	},
-	"appr": {
-		"en": ""
-	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Doppleganger"
+	},
 	"pics": {
-		"M": ["mpmaqm"],
-		"F": ["mpmaqf"]
+		"F": ["mpmaqf"],
+		"M": ["mpmaqm"]
 	}
 }

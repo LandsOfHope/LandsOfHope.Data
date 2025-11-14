@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "trebuchet-ammo-siegery",
 	"image": "bl1",
-	"type": "resource-harvester",
-	"material": "hide"
+	"material": "hide",
+	"type": "resource-harvester"
 }

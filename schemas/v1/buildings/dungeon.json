@@ -1,22 +1,33 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/buildings/dungeon.json",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/buildings/dungeon"
 		},
+		"buildingName": {
+			"type": "string"
+		},
+		"buildingTypeId": {
+			"type": "integer"
+		},
 		"characterId": {
 			"type": "integer"
 		},
-		"buildingName": {
-			"type": "string"
+		"dungeonV": {
+			"type": "integer"
+		},
+		"gameId": {
+			"type": "integer"
 		},
 		"img": {
 			"type": "string"
 		},
 		"img1": {
 			"type": "string"
+		},
+		"level": {
+			"type": "integer"
 		},
 		"mapX": {
 			"type": "integer"
@@ -30,26 +41,14 @@
 		"offsetY": {
 			"type": "integer"
 		},
-		"gameId": {
-			"type": "integer"
-		},
-		"level": {
-			"type": "integer"
-		},
-		"dungeonV": {
-			"type": "integer"
+		"rooms": {
+			"items": {
+				"$ref": "/schemas/v1/buildings/dungeon-room.json"
+			},
+			"type": "array"
 		},
 		"server": {
 			"type": "integer"
-		},
-		"buildingTypeId": {
-			"type": "integer"
-		},
-		"rooms": {
-			"type": "array",
-			"items": {
-				"$ref": "/schemas/v1/buildings/dungeon-room.json"
-			}
 		}
 	},
 	"required": [
@@ -69,5 +68,6 @@
 		"rooms",
 		"server"
 	],
-	"title": "Dungeon"
+	"title": "Dungeon",
+	"type": "object"
 }

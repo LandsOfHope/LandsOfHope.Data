@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/random-pack-horse",
-	"requirements": {
-		"skill": 1084,
-		"mana": 1084
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "pack-horse",
-			"profession": "creature"
+			"profession": "creature",
+			"race": "pack-horse"
 		}
+	},
+	"id": "summoning/random-pack-horse",
+	"requirements": {
+		"mana": 1084,
+		"skill": 1084
 	}
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "band",
 	"image": "rgg",
-	"type": "ring",
 	"material": "stone",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ring"
 }

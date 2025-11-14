@@ -1,26 +1,26 @@
 {
 	"$type": "/v1/profession",
-	"id": "majestic-master",
-	"name": {
-		"en": "Majestic Master"
-	},
 	"desc": {
 		"en": "Bought extra pet Master class."
 	},
-	"skills": {
-		"mystical-resistance": 5,
-		"frenzy": 5,
-		"cooking": 5,
-		"two-handed-staves": 5,
-		"fists": 5,
-		"two-handed-swords": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "majestic-master",
+	"name": {
+		"en": "Majestic Master"
 	},
 	"properties": {
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 3,
 		"SPEED": 3,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cooking": 5,
+		"fists": 5,
+		"frenzy": 5,
+		"mystical-resistance": 5,
+		"two-handed-staves": 5,
+		"two-handed-swords": 5
 	}
 }

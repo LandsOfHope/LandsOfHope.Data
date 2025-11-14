@@ -2,14 +2,14 @@
 	"$type": "/v1/item",
 	"id": "brotherhood-warrior-codex",
 	"image": "6373",
-	"type": "special-slot",
 	"material": "hide",
-	"skill": "brothers-of-sakure",
-	"skills": {
-		"earth-resistance": 1,
-		"armor": 1
-	},
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"skill": "brothers-of-sakure",
+	"skills": {
+		"armor": 1,
+		"earth-resistance": 1
+	},
+	"type": "special-slot"
 }

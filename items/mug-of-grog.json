@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "mug-of-grog",
 	"image": "gmmugr",
-	"type": "food",
-	"expansion": "uncharted-waters",
 	"material": "wood",
 	"properties": {
 		"HITPOINTS": 1
-	}
+	},
+	"type": "food"
 }

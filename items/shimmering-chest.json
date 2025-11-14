@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "shimmering-chest",
 	"image": "ct4",
-	"type": "good-spawner",
-	"material": "metal"
+	"material": "metal",
+	"type": "good-spawner"
 }

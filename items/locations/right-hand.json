@@ -2,8 +2,8 @@
 	"$type": "/v1/items/location",
 	"image": "righthand",
 	"slot": {
-		"player": true,
 		"pet": false,
+		"player": true,
 		"pos": {
 			"x": 10,
 			"y": 70

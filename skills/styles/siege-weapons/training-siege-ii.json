@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 43
+	},
 	"id": "siege-weapons/training-siege-ii",
 	"requirements": {
 		"skill": 600,
 		"stamina": 50
-	},
-	"effects": {
-		"damage": 43
 	}
 }

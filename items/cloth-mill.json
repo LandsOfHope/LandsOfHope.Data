@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "cloth-mill",
 	"image": "1066",
-	"type": "resource-harvester",
-	"material": "hide"
+	"material": "hide",
+	"type": "resource-harvester"
 }

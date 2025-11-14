@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "eye-of-the-first",
 	"image": "4831",
-	"type": "lore-item",
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "lore-item"
 }

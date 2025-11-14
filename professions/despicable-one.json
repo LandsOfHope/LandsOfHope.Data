@@ -1,19 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "despicable-one",
-	"name": {
-		"en": "Despicable One"
-	},
 	"desc": {
 		"en": "The spawn from a big big questy."
 	},
-	"skills": {
-		"mystical-magic": 5,
-		"hell-magic": 5,
-		"poison-resistance": 5,
-		"fists": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "despicable-one",
+	"name": {
+		"en": "Despicable One"
 	},
 	"properties": {
 		"DEXTERITY": 3,
@@ -21,5 +13,13 @@
 		"MAXSTAMINA": 3,
 		"SPEED": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fists": 5,
+		"hell-magic": 5,
+		"mystical-magic": 5,
+		"poison-resistance": 5
 	}
 }

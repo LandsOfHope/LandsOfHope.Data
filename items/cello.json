@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 4,
 	"id": "cello",
 	"image": "5982",
-	"type": "ranged-weapon",
-	"dpr": 4,
 	"material": "wood",
-	"skill": "instruments",
 	"properties": {
 		"INTELLIGENCE": 1
-	}
+	},
+	"skill": "instruments",
+	"type": "ranged-weapon"
 }

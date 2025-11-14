@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "ornate-carving",
 	"image": "brk",
-	"type": "stone-masonry-result",
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"type": "stone-masonry-result"
 }

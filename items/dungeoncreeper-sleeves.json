@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "dungeoncreeper-sleeves",
 	"image": "4943",
-	"type": "arm-armour",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "arm-armour"
 }

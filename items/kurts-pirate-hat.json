@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
-	"id": "kurts-pirate-hat",
-	"image": "gmkupiha",
-	"type": "head-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "kurts-pirate-hat",
+	"image": "gmkupiha",
 	"material": "cloth",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"SPEED": 1
+	},
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1,
-		"SPEED": 1
-	}
+	"type": "head-armour"
 }

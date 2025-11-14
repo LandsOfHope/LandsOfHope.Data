@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "guilded-trackers-shoulders",
 	"image": "3876",
-	"type": "shoulders",
-	"armorType": "leather",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 47,
 	"id": "arborescent-bolt",
 	"image": "arr1",
-	"type": "ammo-weapons-crossbows",
-	"dpr": 47,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-crossbows"
 }

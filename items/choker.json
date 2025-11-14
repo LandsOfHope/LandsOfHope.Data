@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "choker",
 	"image": "chk",
-	"type": "neck",
 	"material": "gem",
 	"skills": {
 		"appraisal": 1,
 		"arcane-resistance": 1
-	}
+	},
+	"type": "neck"
 }

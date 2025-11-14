@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dark-depths",
 	"id": "muses-journal",
 	"image": "6535",
-	"type": "special-slot",
-	"expansion": "dark-depths",
 	"material": "hide",
-	"skills": {
-		"damage-absorption": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"skills": {
+		"damage-absorption": 1
+	},
+	"type": "special-slot"
 }

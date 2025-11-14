@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "fil-garil-pantstitcher"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Fil-Garil Pantstitcher",
-		"title": "tailor",
 		"image": "elm",
 		"level": {
 			"primary": 750
 		},
+		"name": "Fil-Garil Pantstitcher",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "tailor"
 	}
 }

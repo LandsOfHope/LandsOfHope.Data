@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "foresters-breeches",
 	"image": "2810",
-	"type": "leg-armour",
-	"armorType": "leather",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "leg-armour"
 }

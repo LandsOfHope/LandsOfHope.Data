@@ -2,15 +2,15 @@
 	"$type": "/v1/item",
 	"id": "red-alien-crystal-shard",
 	"image": "7003",
-	"type": "neck",
 	"material": "gem",
-	"skills": {
-		"alien-hunting": 1.2
-	},
 	"properties": {
 		"HITPOINTS": 1.2,
 		"MAXHITPOINTS": 1.2,
 		"MAXSTAMINA": 1.2,
 		"STAMINA": 1.2
-	}
+	},
+	"skills": {
+		"alien-hunting": 1.2
+	},
+	"type": "neck"
 }

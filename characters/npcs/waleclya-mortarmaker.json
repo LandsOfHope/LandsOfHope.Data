@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "waleclya-mortarmaker"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Waleclya Mortarmaker",
-		"title": "blacksmith",
 		"image": "haf",
 		"level": {
 			"primary": 900
 		},
+		"name": "Waleclya Mortarmaker",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "blacksmith"
 	}
 }

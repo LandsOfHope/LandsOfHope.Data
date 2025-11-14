@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "oracles-aura",
 	"image": "6179",
-	"type": "aura",
 	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 2
+	},
 	"skills": {
 		"mana-regen": 0.5
 	},
-	"properties": {
-		"INTELLIGENCE": 2
-	}
+	"type": "aura"
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "intercession/416-feral-symbol",
-	"requirements": {
-		"skill": 4160,
-		"level": 832,
-		"mana": 4160
-	},
 	"duration": "PT999M",
 	"effects": {
 		"skills": {
 			"attack-power": 416
 		}
+	},
+	"id": "intercession/416-feral-symbol",
+	"requirements": {
+		"level": 832,
+		"mana": 4160,
+		"skill": 4160
 	}
 }

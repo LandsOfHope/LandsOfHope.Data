@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 9,
 	"id": "stabber",
 	"image": "sta",
-	"type": "1-handed-equipment",
-	"dpr": 9,
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

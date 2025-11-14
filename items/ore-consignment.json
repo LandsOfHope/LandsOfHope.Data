@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "ore-consignment",
 	"image": "bx",
-	"type": "quest-item",
-	"material": "metal"
+	"material": "metal",
+	"type": "quest-item"
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "preystalking-ring",
 	"image": "6791",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
 		"track-beasts": 20
-	}
+	},
+	"type": "ring"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "blessed-greaves",
 	"image": "2335",
-	"type": "foot-armour",
-	"armorType": "plate",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

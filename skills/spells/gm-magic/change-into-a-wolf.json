@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/change-into-a-wolf",
-	"requirements": {
-		"skill": 406,
-		"mana": 406
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"attack-power": 204
 		}
+	},
+	"id": "gm-magic/change-into-a-wolf",
+	"requirements": {
+		"mana": 406,
+		"skill": 406
 	}
 }

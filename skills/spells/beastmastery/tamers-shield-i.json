@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "beastmastery/tamers-shield-i",
-	"requirements": {
-		"skill": 1850,
-		"mana": 185
-	},
 	"duration": "PT25M",
 	"effects": {
 		"skills": {
 			"armor": 64
 		}
+	},
+	"id": "beastmastery/tamers-shield-i",
+	"requirements": {
+		"mana": 185,
+		"skill": 1850
 	}
 }

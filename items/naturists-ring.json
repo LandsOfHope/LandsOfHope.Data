@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "naturists-ring",
 	"image": "rgf",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
 		"nature-resistance": 1
-	}
+	},
+	"type": "ring"
 }

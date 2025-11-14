@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "ankylosaurus-helm",
-	"image": "5162",
-	"type": "head-armour",
 	"armorType": "mail",
 	"expansion": "jurassic-wars",
+	"id": "ankylosaurus-helm",
+	"image": "5162",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "head-armour"
 }

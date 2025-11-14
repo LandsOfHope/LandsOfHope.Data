@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/wizard-v",
-	"requirements": {
-		"skill": 760,
-		"mana": 760
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 381
 		}
+	},
+	"id": "gm-magic/wizard-v",
+	"requirements": {
+		"mana": 760,
+		"skill": 760
 	}
 }

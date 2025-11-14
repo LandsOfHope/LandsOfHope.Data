@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "dwarven-sleeves",
 	"image": "484",
-	"type": "arm-armour",
-	"armorType": "plate",
 	"material": "metal",
 	"skills": {
-		"h2h-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"h2h-defense": 1
+	},
+	"type": "arm-armour"
 }

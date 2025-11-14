@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "mask-of-knowledge",
 	"image": "zumakn",
-	"type": "reaper-symbol",
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1
-	}
+	},
+	"type": "reaper-symbol"
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "charm-of-the-flame",
 	"image": "zuchfl",
-	"type": "wrist-jewelry",
 	"material": "wood",
 	"skills": {
 		"fire-magic": 1
-	}
+	},
+	"type": "wrist-jewelry"
 }

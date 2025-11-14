@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/ground-pounder",
-	"requirements": {
-		"skill": 1544,
-		"mana": 1544
-	},
 	"duration": "PT225M",
 	"effects": {
 		"summon-item": {
 			"item": "ground-pounder"
 		}
+	},
+	"id": "summoning/ground-pounder",
+	"requirements": {
+		"mana": 1544,
+		"skill": 1544
 	}
 }

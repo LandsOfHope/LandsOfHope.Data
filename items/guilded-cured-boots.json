@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "guilded-cured-boots",
 	"image": "3826",
-	"type": "foot-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "foot-armour"
 }

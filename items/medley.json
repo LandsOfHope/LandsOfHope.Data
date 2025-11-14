@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "medley",
 	"image": "zumedl",
-	"type": "food",
 	"material": "berry",
 	"properties": {
 		"MANA": 1
-	}
+	},
+	"type": "food"
 }

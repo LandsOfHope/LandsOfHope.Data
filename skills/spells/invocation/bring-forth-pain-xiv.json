@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "invocation/bring-forth-pain-xiv",
-	"requirements": {
-		"skill": 3597,
-		"mana": 3597
-	},
 	"effects": {
 		"damage": 2532
+	},
+	"id": "invocation/bring-forth-pain-xiv",
+	"requirements": {
+		"mana": 3597,
+		"skill": 3597
 	}
 }

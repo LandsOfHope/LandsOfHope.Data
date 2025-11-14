@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 65,
 	"id": "icandrias-icicle",
 	"image": "zuicic",
-	"type": "1-handed-equipment",
-	"dpr": 65,
 	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skill": "staves",
 	"skills": {
 		"cold-magic": 1,
 		"staves": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "1-handed-equipment"
 }

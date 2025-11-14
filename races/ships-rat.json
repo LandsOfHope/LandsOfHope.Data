@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Ship's Rat"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Ship's Rat"
+	},
 	"pics": {
-		"M": ["ra1"],
-		"F": ["ra2"]
+		"F": ["ra2"],
+		"M": ["ra1"]
 	}
 }

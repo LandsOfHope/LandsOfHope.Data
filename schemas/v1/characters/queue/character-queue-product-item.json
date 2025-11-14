@@ -1,7 +1,6 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-product-item.json",
-	"title": "CharacterQueueProductItem",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/queue/character-queue-product-item"
@@ -10,6 +9,7 @@
 			"$ref": "/schemas/v1/items-id.gen.json"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "item"]
+	"required": ["$type", "item"],
+	"title": "CharacterQueueProductItem",
+	"type": "object"
 }

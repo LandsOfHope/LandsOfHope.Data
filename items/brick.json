@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "brick",
 	"image": "bk5",
-	"type": "house-resource-stone",
-	"material": "stone"
+	"material": "stone",
+	"type": "house-resource-stone"
 }

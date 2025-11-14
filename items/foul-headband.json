@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "foul-headband",
 	"image": "1807",
-	"type": "forehead",
-	"armorType": "cloth",
 	"material": "hide",
 	"skills": {
-		"poison-resistance": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"poison-resistance": 1
+	},
+	"type": "forehead"
 }

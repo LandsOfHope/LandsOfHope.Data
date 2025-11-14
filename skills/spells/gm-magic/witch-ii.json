@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/witch-ii",
-	"requirements": {
-		"skill": 184,
-		"mana": 184
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 93
 		}
+	},
+	"id": "gm-magic/witch-ii",
+	"requirements": {
+		"mana": 184,
+		"skill": 184
 	}
 }

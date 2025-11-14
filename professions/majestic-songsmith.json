@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "majestic-songsmith",
-	"name": {
-		"en": "Majestic Songsmith"
-	},
 	"desc": {
 		"en": "Bought extra pet Songsmith class."
 	},
-	"skills": {
-		"instruments": 5,
-		"singing": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "majestic-songsmith",
+	"name": {
+		"en": "Majestic Songsmith"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -19,5 +13,11 @@
 		"MAXHITPOINTS": 3,
 		"MAXMANA": 3,
 		"SPEED": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"instruments": 5,
+		"singing": 5
 	}
 }

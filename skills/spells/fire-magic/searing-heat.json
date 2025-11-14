@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "fire-magic/searing-heat",
-	"requirements": {
-		"skill": 911,
-		"mana": 911
-	},
 	"effects": {
 		"damage": 652
+	},
+	"id": "fire-magic/searing-heat",
+	"requirements": {
+		"mana": 911,
+		"skill": 911
 	}
 }

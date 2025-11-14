@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "magical-soil",
 	"image": "soil",
-	"type": "quest-item",
 	"material": "stone",
 	"properties": {
 		"HITPOINTS": 1
-	}
+	},
+	"type": "quest-item"
 }

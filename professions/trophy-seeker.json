@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "Collects creature and quest trophys."
+	},
 	"id": "trophy-seeker",
 	"name": {
 		"en": "Trophy Seeker"
-	},
-	"desc": {
-		"en": "Collects creature and quest trophys."
 	},
 	"properties": {
 		"INTELLIGENCE": 4,

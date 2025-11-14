@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tinkering/necklace",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "necklace"
-	},
 	"image": "ann",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "tinkering",
-	"skillValue": 50,
-	"quality": "uncommon",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 20,
-			"primary": true
+			"primary": true,
+			"quantity": 20
 		},
 		{
 			"id": "rivet",
@@ -25,5 +16,14 @@
 			"id": "lining",
 			"quantity": 4
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "necklace"
+	},
+	"quality": "uncommon",
+	"quantity": 1,
+	"skill": "tinkering",
+	"skillValue": 50,
+	"time": "PT15S"
 }

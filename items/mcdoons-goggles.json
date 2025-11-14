@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "mcdoons-goggles",
 	"image": "6077",
-	"type": "glasses-shades",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"exploration": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "glasses-shades"
 }

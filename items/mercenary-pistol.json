@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "mercenary-pistol",
 	"image": "6660",
-	"type": "1-handed-equipment",
-	"dpr": 2,
 	"material": "metal",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "hand-guns",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "1-handed-equipment"
 }

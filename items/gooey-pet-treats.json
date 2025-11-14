@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "gooey-pet-treats",
 	"image": "5735",
-	"type": "pet-bought-bonus",
 	"material": "hide",
-	"skills": {
-		"health-regen": 1,
-		"armor": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"skills": {
+		"armor": 1,
+		"health-regen": 1
+	},
+	"type": "pet-bought-bonus"
 }

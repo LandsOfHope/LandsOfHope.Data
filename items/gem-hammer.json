@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "gem-hammer",
 	"image": "zugeha",
-	"type": "1-handed-equipment",
 	"material": "metal",
 	"skill": "geology",
 	"skills": {
 		"geology": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

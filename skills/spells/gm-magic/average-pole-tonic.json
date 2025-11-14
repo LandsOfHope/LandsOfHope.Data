@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/average-pole-tonic",
-	"requirements": {
-		"skill": 3000,
-		"mana": 1600
-	},
 	"duration": "PT320M",
 	"effects": {
 		"skills": {
 			"pole-defense": 320
 		}
+	},
+	"id": "gm-magic/average-pole-tonic",
+	"requirements": {
+		"mana": 1600,
+		"skill": 3000
 	}
 }

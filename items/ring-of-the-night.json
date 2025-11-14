@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "ring-of-the-night",
 	"image": "6166",
-	"type": "ring",
 	"material": "gem",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skills": {
 		"cold-survival": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "ring"
 }

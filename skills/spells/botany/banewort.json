@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "botany/banewort",
-	"requirements": {
-		"skill": 2880,
-		"mana": 576
-	},
 	"duration": "PT50M",
 	"effects": {
 		"summon-item": {
 			"item": "banewort"
 		}
+	},
+	"id": "botany/banewort",
+	"requirements": {
+		"mana": 576,
+		"skill": 2880
 	}
 }

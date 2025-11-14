@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 140,
 	"id": "exquisite-downfall",
 	"image": "6637",
-	"type": "1-handed-equipment",
-	"dpr": 140,
 	"material": "metal",
-	"skill": "staves",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 1
-	}
+	},
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "1-handed-equipment"
 }

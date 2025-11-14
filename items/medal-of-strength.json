@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "medal-of-strength",
 	"image": "2217",
-	"type": "society-symbol",
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"type": "society-symbol"
 }

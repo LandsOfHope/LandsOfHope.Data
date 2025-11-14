@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 32,
 	"id": "ornate-heater-shield",
 	"image": "sd1",
-	"type": "2-handed-equipment",
-	"dpr": 32,
 	"material": "metal",
 	"skill": "two-handed-shields",
 	"skills": {
 		"air-resistance": 1,
 		"armor": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

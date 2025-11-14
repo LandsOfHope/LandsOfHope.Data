@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "ring-of-the-dead",
 	"image": "rgo",
-	"type": "ring",
 	"material": "metal",
 	"skill": "necromancy",
 	"skills": {
-		"necromancy": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"necromancy": 1
+	},
+	"type": "ring"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "mystical-magic/mana-boost-iv",
-	"requirements": {
-		"skill": 145,
-		"mana": 145
-	},
 	"duration": "PT520M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 73
 		}
+	},
+	"id": "mystical-magic/mana-boost-iv",
+	"requirements": {
+		"mana": 145,
+		"skill": 145
 	}
 }

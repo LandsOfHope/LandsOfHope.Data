@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "health-stealing/life-drain-vii",
-	"requirements": {
-		"skill": 4537,
-		"mana": 4537
-	},
 	"duration": "PT25M",
 	"effects": {
 		"damage": 142,
 		"properties": {
 			"HITPOINTS": -2263
 		}
+	},
+	"id": "health-stealing/life-drain-vii",
+	"requirements": {
+		"mana": 4537,
+		"skill": 4537
 	}
 }

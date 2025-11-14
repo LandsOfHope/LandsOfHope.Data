@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "portalstone",
 	"image": "po1",
-	"type": "portal-ii",
 	"material": "gem",
-	"skill": "portal-mastery"
+	"skill": "portal-mastery",
+	"type": "portal-ii"
 }

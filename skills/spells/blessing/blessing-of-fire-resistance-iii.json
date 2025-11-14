@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "blessing/blessing-of-fire-resistance-iii",
-	"requirements": {
-		"skill": 3504,
-		"mana": 3504
-	},
 	"duration": "PT75M",
 	"effects": {
 		"skills": {
 			"fire-resistance": 365
 		}
+	},
+	"id": "blessing/blessing-of-fire-resistance-iii",
+	"requirements": {
+		"mana": 3504,
+		"skill": 3504
 	}
 }

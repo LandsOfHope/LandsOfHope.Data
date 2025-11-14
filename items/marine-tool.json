@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
-	"id": "marine-tool",
-	"image": "fehakn",
-	"type": "1-handed-equipment",
 	"dpr": 2,
 	"expansion": "uncharted-waters",
+	"id": "marine-tool",
+	"image": "fehakn",
 	"material": "metal",
 	"skill": "marine-husbandry",
 	"skills": {
 		"marine-husbandry": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

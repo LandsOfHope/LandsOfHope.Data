@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "cold-magic/frozen-skin-viii",
-	"requirements": {
-		"skill": 2857,
-		"mana": 2857
-	},
 	"duration": 3,
 	"effects": {
 		"damage": 2014,
 		"skills": {
 			"damage-absorption": 2014
 		}
+	},
+	"id": "cold-magic/frozen-skin-viii",
+	"requirements": {
+		"mana": 2857,
+		"skill": 2857
 	}
 }

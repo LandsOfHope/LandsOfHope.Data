@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "cape-of-the-implementor",
 	"image": "cl4",
-	"type": "neck-clothing",
-	"armorType": "cloth",
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1
-	}
+	},
+	"type": "neck-clothing"
 }

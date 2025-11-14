@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/average-wind-tonic",
-	"requirements": {
-		"skill": 3000,
-		"mana": 1850
-	},
 	"duration": "PT370M",
 	"effects": {
 		"skills": {
 			"air-resistance": 370
 		}
+	},
+	"id": "gm-magic/average-wind-tonic",
+	"requirements": {
+		"mana": 1850,
+		"skill": 3000
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 533
+	},
 	"id": "siege-weapons/mastered-siege-vi",
 	"requirements": {
 		"skill": 4600,
 		"stamina": 2300
-	},
-	"effects": {
-		"damage": 533
 	}
 }

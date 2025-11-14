@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "tornado-tomato-soup",
 	"image": "pe8",
-	"type": "food",
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1
-	}
+	},
+	"type": "food"
 }

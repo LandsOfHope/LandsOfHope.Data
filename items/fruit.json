@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "fruit",
 	"image": "fruit",
-	"type": "rawfood",
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 1
-	}
+	},
+	"type": "rawfood"
 }

@@ -1,9 +1,9 @@
 {
 	"$type": "/v0/items/extra-item",
-	"itemId": 1475,
-	"quantity": 1,
-	"imageType": "i",
-	"image": "zuadco",
 	"category": "general",
-	"hc": 2
+	"hc": 2,
+	"image": "zuadco",
+	"imageType": "i",
+	"itemId": 1475,
+	"quantity": 1
 }

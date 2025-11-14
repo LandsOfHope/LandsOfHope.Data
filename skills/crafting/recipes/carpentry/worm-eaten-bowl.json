@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "carpentry/worm-eaten-bowl",
+	"image": "abl",
+	"ingredients": [
+		{
+			"id": "plank",
+			"primary": true,
+			"quantity": 13
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-item",
 		"item": "worm-eaten-bowl"
 	},
-	"image": "abl",
-	"time": "PT15S",
+	"quality": "common",
 	"quantity": 1,
 	"skill": "carpentry",
 	"skillValue": 125,
-	"quality": "common",
-	"ingredients": [
-		{
-			"id": "plank",
-			"quantity": 13,
-			"primary": true
-		}
-	]
+	"time": "PT15S"
 }

@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/live/protocol/live-socket-status-event.json",
-	"title": "LiveSocketStatusEvent",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -11,5 +9,7 @@
 			"enum": ["open", "closed", "ready"]
 		}
 	},
-	"required": ["$type", "status"]
+	"required": ["$type", "status"],
+	"title": "LiveSocketStatusEvent",
+	"type": "object"
 }

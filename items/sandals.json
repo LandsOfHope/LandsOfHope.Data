@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "sandals",
 	"image": "443",
-	"type": "foot-armour",
-	"armorType": "cloth",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

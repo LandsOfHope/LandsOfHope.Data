@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "stitched-trousers",
 	"image": "ptro7",
-	"type": "leg-armour",
-	"armorType": "cloth",
 	"material": "cloth",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "leg-armour"
 }

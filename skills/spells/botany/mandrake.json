@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "botany/mandrake",
-	"requirements": {
-		"skill": 3130,
-		"mana": 626
-	},
 	"duration": "PT50M",
 	"effects": {
 		"summon-item": {
 			"item": "mandrake"
 		}
+	},
+	"id": "botany/mandrake",
+	"requirements": {
+		"mana": 626,
+		"skill": 3130
 	}
 }

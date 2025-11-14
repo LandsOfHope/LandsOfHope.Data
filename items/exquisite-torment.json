@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 140,
 	"id": "exquisite-torment",
 	"image": "6624",
-	"type": "ranged-weapon",
-	"dpr": 140,
 	"material": "wood",
-	"skill": "thrown-weapons",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "ranged-weapon"
 }

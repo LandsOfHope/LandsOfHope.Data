@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "pet-collar",
 	"image": "zupeco",
-	"type": "pet-bonus-item",
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXMANA": 1
-	}
+	},
+	"type": "pet-bonus-item"
 }

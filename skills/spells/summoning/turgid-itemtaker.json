@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/turgid-itemtaker",
-	"requirements": {
-		"skill": 3292,
-		"mana": 3292
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "goblin",
-			"profession": "thief"
+			"profession": "thief",
+			"race": "goblin"
 		}
+	},
+	"id": "summoning/turgid-itemtaker",
+	"requirements": {
+		"mana": 3292,
+		"skill": 3292
 	}
 }

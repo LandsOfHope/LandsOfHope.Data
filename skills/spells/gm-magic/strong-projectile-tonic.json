@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/strong-projectile-tonic",
-	"requirements": {
-		"skill": 3000,
-		"mana": 3200
-	},
 	"duration": "PT640M",
 	"effects": {
 		"skills": {
 			"projectile-defense": 640
 		}
+	},
+	"id": "gm-magic/strong-projectile-tonic",
+	"requirements": {
+		"mana": 3200,
+		"skill": 3000
 	}
 }

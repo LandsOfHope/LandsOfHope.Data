@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "goblin-costume-trousers",
 	"image": "gotro",
-	"type": "leg-armour",
-	"set": "goblin-costume",
 	"material": "hide",
+	"set": "goblin-costume",
 	"skill": "artisan",
 	"skills": {
 		"mining": 1
-	}
+	},
+	"type": "leg-armour"
 }

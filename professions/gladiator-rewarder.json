@@ -1,32 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "gladiator-rewarder",
-	"name": {
-		"en": "Gladiator Rewarder"
-	},
 	"desc": {
 		"en": "Rewards good Gladiators."
 	},
-	"skills": {
-		"energy-magic": 5,
-		"mystical-resistance": 5,
-		"cold-resistance": 5,
-		"fire-resistance": 5,
-		"energy-resistance": 5,
-		"water-resistance": 5,
-		"poison-resistance": 5,
-		"earth-resistance": 5,
-		"bladed-defense": 5,
-		"projectile-defense": 5,
-		"h2h-defense": 5,
-		"bludgeon-defense": 5,
-		"stringed-defense": 5,
-		"two-handed-swords": 5,
-		"pole-defense": 5,
-		"invoking-resistance": 5,
-		"debuff-resistance": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "gladiator-rewarder",
+	"name": {
+		"en": "Gladiator Rewarder"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -36,5 +15,26 @@
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"bladed-defense": 5,
+		"bludgeon-defense": 5,
+		"cold-resistance": 5,
+		"debuff-resistance": 5,
+		"earth-resistance": 5,
+		"energy-magic": 5,
+		"energy-resistance": 5,
+		"fire-resistance": 5,
+		"h2h-defense": 5,
+		"invoking-resistance": 5,
+		"mystical-resistance": 5,
+		"poison-resistance": 5,
+		"pole-defense": 5,
+		"projectile-defense": 5,
+		"stringed-defense": 5,
+		"two-handed-swords": 5,
+		"water-resistance": 5
 	}
 }

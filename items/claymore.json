@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 3,
 	"id": "claymore",
 	"image": "cly",
-	"type": "2-handed-equipment",
-	"dpr": 3,
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

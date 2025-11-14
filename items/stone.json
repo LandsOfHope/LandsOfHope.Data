@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "stone",
 	"image": "ste",
-	"type": "catapult-ammo",
 	"material": "stone",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "catapult-ammo"
 }

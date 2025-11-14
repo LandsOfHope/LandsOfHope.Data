@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "goggles",
 	"image": "ces",
-	"type": "glasses-shades",
 	"material": "gem",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "glasses-shades"
 }

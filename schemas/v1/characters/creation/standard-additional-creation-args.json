@@ -1,7 +1,6 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/creation/standard-additional-creation-args.json",
-	"title": "StandardAdditionalCreationArgs",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/creation/standard-additional-creation-args"
@@ -11,5 +10,6 @@
 		}
 	},
 	"required": ["$type", "skipTutorial"],
-	"additionalProperties": false
+	"title": "StandardAdditionalCreationArgs",
+	"type": "object"
 }

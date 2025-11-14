@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 2494
+	},
 	"id": "bows/mastered-long-shot-xi",
 	"requirements": {
 		"skill": 4981,
 		"stamina": 4980
-	},
-	"effects": {
-		"damage": 2494
 	}
 }

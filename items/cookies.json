@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "cookies",
 	"image": "c2k",
-	"type": "food",
 	"material": "crop",
 	"properties": {
 		"MANA": 1
-	}
+	},
+	"type": "food"
 }

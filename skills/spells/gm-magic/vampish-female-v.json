@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/vampish-female-v",
-	"requirements": {
-		"skill": 922,
-		"mana": 922
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"armor": 462
 		}
+	},
+	"id": "gm-magic/vampish-female-v",
+	"requirements": {
+		"mana": 922,
+		"skill": 922
 	}
 }

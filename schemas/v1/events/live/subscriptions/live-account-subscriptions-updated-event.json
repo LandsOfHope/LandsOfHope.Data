@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/live/subscriptions/live-account-subscriptions-updated-event.json",
-	"title": "LiveAccountSubscriptionsUpdatedEvent",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -11,5 +9,7 @@
 			"$ref": "/schemas/v1/accounts/account-id.json"
 		}
 	},
-	"required": ["$type", "account"]
+	"required": ["$type", "account"],
+	"title": "LiveAccountSubscriptionsUpdatedEvent",
+	"type": "object"
 }

@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/earth-mage-iv",
-	"requirements": {
-		"skill": 676,
-		"mana": 676
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"earth-resistance": 339
 		}
+	},
+	"id": "gm-magic/earth-mage-iv",
+	"requirements": {
+		"mana": 676,
+		"skill": 676
 	}
 }

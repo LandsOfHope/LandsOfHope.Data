@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "hell-magic/darkbolt-v",
-	"requirements": {
-		"skill": 596,
-		"mana": 596
-	},
 	"effects": {
 		"damage": 432
+	},
+	"id": "hell-magic/darkbolt-v",
+	"requirements": {
+		"mana": 596,
+		"skill": 596
 	}
 }

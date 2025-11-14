@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "ring-of-choices",
 	"image": "rgf",
-	"type": "ring",
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1
-	}
+	},
+	"type": "ring"
 }

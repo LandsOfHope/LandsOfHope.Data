@@ -1,20 +1,20 @@
 {
 	"$type": "/v1/profession",
-	"id": "guard",
-	"name": {
-		"en": "Guard"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "guard",
+	"name": {
+		"en": "Guard"
 	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3,
 		"SPEED": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

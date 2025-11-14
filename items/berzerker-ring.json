@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "berzerker-ring",
 	"image": "rgf",
-	"type": "ring",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "ring"
 }

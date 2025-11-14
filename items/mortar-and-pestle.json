@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "mortar-and-pestle",
 	"image": "map",
-	"type": "1-handed-equipment",
 	"material": "wood",
 	"skill": "alchemy",
 	"skills": {
 		"alchemy": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

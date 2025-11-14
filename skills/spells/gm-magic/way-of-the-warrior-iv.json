@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/way-of-the-warrior-iv",
-	"requirements": {
-		"skill": 834,
-		"mana": 834
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"SPEED": 1400
 		}
+	},
+	"id": "gm-magic/way-of-the-warrior-iv",
+	"requirements": {
+		"mana": 834,
+		"skill": 834
 	}
 }

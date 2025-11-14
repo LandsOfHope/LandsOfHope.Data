@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 73,
 	"id": "guilded-deadly-kings-shield",
 	"image": "sda",
-	"type": "2-handed-equipment",
-	"dpr": 73,
 	"material": "wood",
 	"skill": "two-handed-shields",
 	"skills": {
-		"earth-resistance": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"earth-resistance": 1
+	},
+	"type": "2-handed-equipment"
 }

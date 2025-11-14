@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "yohasean-barkkeeper"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Yohasean Barkkeeper",
-		"title": "carpenter",
 		"image": "hum",
 		"level": {
 			"primary": 950
 		},
+		"name": "Yohasean Barkkeeper",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "carpenter"
 	}
 }

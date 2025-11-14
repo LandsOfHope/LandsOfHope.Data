@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "spearhead",
 	"image": "sp1",
-	"type": "stealing-loot",
-	"material": "metal"
+	"material": "metal",
+	"type": "stealing-loot"
 }

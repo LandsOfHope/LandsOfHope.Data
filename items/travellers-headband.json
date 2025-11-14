@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "travellers-headband",
 	"image": "4533",
-	"type": "forehead",
-	"armorType": "cloth",
 	"material": "cloth",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "forehead"
 }

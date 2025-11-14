@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "singing/song-of-pummelling",
-	"requirements": {
-		"skill": 3720,
-		"mana": 1488
-	},
 	"duration": "PT1M",
 	"effects": {
 		"damage": 1309
+	},
+	"id": "singing/song-of-pummelling",
+	"requirements": {
+		"mana": 1488,
+		"skill": 3720
 	}
 }

@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "frostvale-boots",
 	"image": "zufrbo",
-	"type": "foot-armour",
-	"armorType": "leather",
 	"legendary": true,
-	"set": "frostvale-legend",
 	"material": "hide",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"set": "frostvale-legend",
+	"skills": {
+		"armor": 1
+	},
+	"type": "foot-armour"
 }

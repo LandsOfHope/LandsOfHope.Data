@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "dragon-boned-gloves",
-	"image": "5812",
-	"type": "hand-armour",
 	"armorType": "plate",
 	"expansion": "dragons-of-the-east",
+	"id": "dragon-boned-gloves",
+	"image": "5812",
 	"material": "hide",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skills": {
+		"armor": 1
+	},
+	"type": "hand-armour"
 }

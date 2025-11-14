@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "nature-magic/primordial-ooze-iii",
-	"requirements": {
-		"skill": 51,
-		"mana": 51
-	},
 	"effects": {
 		"damage": 50
+	},
+	"id": "nature-magic/primordial-ooze-iii",
+	"requirements": {
+		"mana": 51,
+		"skill": 51
 	}
 }

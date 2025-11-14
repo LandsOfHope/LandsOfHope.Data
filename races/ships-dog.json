@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Ship's Dog"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Ship's Dog"
+	},
 	"pics": {
-		"M": ["mpdgm"],
-		"F": ["mpdgf"]
+		"F": ["mpdgf"],
+		"M": ["mpdgm"]
 	}
 }

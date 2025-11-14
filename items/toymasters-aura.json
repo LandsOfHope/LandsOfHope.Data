@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "toymasters-aura",
 	"image": "6205",
-	"type": "aura",
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"type": "aura"
 }

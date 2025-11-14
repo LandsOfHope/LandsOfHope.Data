@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "jurassic-wars",
 	"id": "mark-of-eversight",
 	"image": "zumaev",
-	"type": "jurassic-voucher",
-	"expansion": "jurassic-wars",
-	"material": "hide"
+	"material": "hide",
+	"type": "jurassic-voucher"
 }

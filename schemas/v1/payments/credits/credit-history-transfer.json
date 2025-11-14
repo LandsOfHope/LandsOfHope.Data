@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-transfer.json",
-	"title": "CreditHistoryTransfer",
-	"type": "object",
 	"allOf": [
 		{
 			"$ref": "/schemas/v1/payments/credits/credit-history.json"
@@ -18,5 +16,7 @@
 			"type": "string"
 		}
 	},
-	"required": ["$type", "transferAccount", "transferMessage"]
+	"required": ["$type", "transferAccount", "transferMessage"],
+	"title": "CreditHistoryTransfer",
+	"type": "object"
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dragons-of-the-east",
 	"id": "black-bag",
 	"image": "5871",
-	"type": "bag",
-	"expansion": "dragons-of-the-east",
 	"material": "hide",
 	"skills": {
 		"air-resistance": 1,
 		"energy-resistance": 1
-	}
+	},
+	"type": "bag"
 }

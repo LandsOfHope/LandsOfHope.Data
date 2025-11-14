@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "pendant-of-ensnaring",
 	"image": "bat",
-	"type": "neck",
 	"material": "gem",
 	"skills": {
 		"spirit-magic": 1
-	}
+	},
+	"type": "neck"
 }

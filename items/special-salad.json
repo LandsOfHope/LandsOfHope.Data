@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "special-salad",
 	"image": "zuspsa",
-	"type": "food",
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 2
-	}
+	},
+	"type": "food"
 }

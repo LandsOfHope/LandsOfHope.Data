@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "silverclaw-sleeves",
 	"image": "4703",
-	"type": "arm-armour",
-	"armorType": "leather",
 	"legendary": true,
-	"set": "silverclaw-legend",
 	"material": "hide",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"set": "silverclaw-legend",
+	"skills": {
+		"armor": 1
+	},
+	"type": "arm-armour"
 }

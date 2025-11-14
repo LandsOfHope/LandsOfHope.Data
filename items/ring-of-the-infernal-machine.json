@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "ring-of-the-infernal-machine",
 	"image": "ring9",
-	"type": "ring",
 	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skills": {
 		"tinkering": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "ring"
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "healing-magic/healers-revenge-vi",
-	"requirements": {
-		"skill": 4426,
-		"mana": 4426
-	},
 	"duration": "PT25M",
 	"effects": {
 		"damage": 3113,
 		"properties": {
 			"HITPOINTS": 2218
 		}
+	},
+	"id": "healing-magic/healers-revenge-vi",
+	"requirements": {
+		"mana": 4426,
+		"skill": 4426
 	}
 }

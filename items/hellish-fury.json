@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 10,
 	"id": "hellish-fury",
 	"image": "ft3",
-	"type": "1-handed-equipment",
-	"dpr": 10,
 	"material": "metal",
 	"skill": "fists",
 	"skills": {
-		"fists": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"fists": 1
+	},
+	"type": "1-handed-equipment"
 }

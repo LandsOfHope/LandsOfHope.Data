@@ -1,5 +1,3 @@
-"use strict";
-
 const util = require("util");
 const glob = require("glob");
 const fs = require("fs");
@@ -7,7 +5,7 @@ const path = require("path");
 const readFileAsync = util.promisify(fs.readFile);
 const writeFileAsync = util.promisify(fs.writeFile);
 
-const makeMaterialsSearchIndex = async function () {
+const makeMaterialsSearchIndex = async () => {
 	const locales = glob.sync("./locales/*");
 
 	for (const locale of locales) {
@@ -35,8 +33,8 @@ const makeMaterialsSearchIndex = async function () {
 			for (const [level, material] of Object.entries(levels)) {
 				index.addDoc({
 					id: `material:${materialId}:${level}`,
-					name: material.name,
 					level: level,
+					name: material.name,
 				});
 			}
 		}
@@ -48,7 +46,7 @@ const makeMaterialsSearchIndex = async function () {
 	}
 };
 
-const makeRecipesSearchIndex = async function () {
+const makeRecipesSearchIndex = async () => {
 	const locales = glob.sync("./locales/*");
 
 	for (const locale of locales) {
@@ -95,7 +93,7 @@ const makeRecipesSearchIndex = async function () {
 	}
 };
 
-const makeSkillsSearchIndex = async function () {
+const makeSkillsSearchIndex = async () => {
 	const locales = glob.sync("./locales/*");
 
 	for (const locale of locales) {
@@ -122,9 +120,9 @@ const makeSkillsSearchIndex = async function () {
 		const skillsJson = JSON.parse(skills);
 		for (const [skillId, skill] of Object.entries(skillsJson)) {
 			index.addDoc({
+				desc: skill.desc,
 				id: `skill:${skillId}`,
 				name: skill.name,
-				desc: skill.desc,
 				use: skill.use,
 			});
 		}
@@ -136,7 +134,7 @@ const makeSkillsSearchIndex = async function () {
 	}
 };
 
-const makeProfessionsSearchIndex = async function () {
+const makeProfessionsSearchIndex = async () => {
 	const locales = glob.sync("./locales/*");
 
 	for (const locale of locales) {
@@ -164,9 +162,9 @@ const makeProfessionsSearchIndex = async function () {
 		const professionsJson = JSON.parse(professions);
 		for (const [professionId, profession] of Object.entries(professionsJson)) {
 			index.addDoc({
+				desc: profession.desc,
 				id: `profession:${professionId}`,
 				name: profession.name,
-				desc: profession.desc,
 			});
 		}
 
@@ -177,7 +175,7 @@ const makeProfessionsSearchIndex = async function () {
 	}
 };
 
-const makeItemsSearchIndex = async function () {
+const makeItemsSearchIndex = async () => {
 	const locales = glob.sync("./locales/*");
 
 	for (const locale of locales) {
@@ -214,7 +212,7 @@ const makeItemsSearchIndex = async function () {
 	}
 };
 
-const makeItemTypesSearchIndex = async function () {
+const makeItemTypesSearchIndex = async () => {
 	const locales = glob.sync("./locales/*");
 
 	for (const locale of locales) {
@@ -240,9 +238,9 @@ const makeItemTypesSearchIndex = async function () {
 		const itemTypesJson = JSON.parse(itemTypes);
 		for (const [itemTypeId, itemType] of Object.entries(itemTypesJson)) {
 			index.addDoc({
+				desc: itemType.desc,
 				id: `item-type:${itemTypeId}`,
 				name: itemType.name,
-				desc: itemType.desc,
 			});
 		}
 
@@ -253,8 +251,8 @@ const makeItemTypesSearchIndex = async function () {
 	}
 };
 
-const main = async function () {
-	return Promise.all([
+const main = async () =>
+	Promise.all([
 		makeMaterialsSearchIndex(),
 		makeRecipesSearchIndex(),
 		makeSkillsSearchIndex(),
@@ -262,7 +260,6 @@ const main = async function () {
 		makeItemsSearchIndex(),
 		makeItemTypesSearchIndex(),
 	]);
-};
 
 main().catch((reason) => {
 	console.log(reason);

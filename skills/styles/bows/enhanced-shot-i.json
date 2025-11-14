@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 964
+	},
 	"id": "bows/enhanced-shot-i",
 	"requirements": {
 		"skill": 1921,
 		"stamina": 1920
-	},
-	"effects": {
-		"damage": 964
 	}
 }

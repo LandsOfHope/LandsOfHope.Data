@@ -1,24 +1,24 @@
 {
 	"$type": "/v1/profession",
-	"id": "vengeful-spirit",
-	"name": {
-		"en": "Vengeful Spirit"
-	},
 	"desc": {
 		"en": "A vengeful spirit."
 	},
-	"skills": {
-		"frenzy": 5,
-		"swords": 5,
-		"shields": 5,
-		"dual-wielding": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "vengeful-spirit",
+	"name": {
+		"en": "Vengeful Spirit"
 	},
 	"properties": {
 		"DEXTERITY": 4,
 		"MAXHITPOINTS": 7,
 		"MAXSTAMINA": 10,
 		"SPEED": 4
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"dual-wielding": 5,
+		"frenzy": 5,
+		"shields": 5,
+		"swords": 5
 	}
 }

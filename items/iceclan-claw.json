@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "iceclan-claw",
 	"image": "4987",
-	"type": "ear-jewelry",
 	"material": "hide",
 	"skills": {
-		"frenzy": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"frenzy": 1
+	},
+	"type": "ear-jewelry"
 }

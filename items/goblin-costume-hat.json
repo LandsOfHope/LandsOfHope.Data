@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "goblin-costume-hat",
 	"image": "gohat",
-	"type": "head-armour",
-	"set": "goblin-costume",
 	"material": "hide",
+	"set": "goblin-costume",
 	"skill": "artisan",
 	"skills": {
 		"stonemasonry": 1
-	}
+	},
+	"type": "head-armour"
 }

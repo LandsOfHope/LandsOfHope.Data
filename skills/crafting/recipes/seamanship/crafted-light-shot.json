@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "seamanship/crafted-light-shot",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-vessel-item",
-		"item": "crafted-light-shot"
-	},
 	"image": "ste",
-	"time": "PT15S",
-	"quantity": 200,
-	"skill": "seamanship",
-	"skillValue": 500,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ships-hook",
@@ -18,8 +9,17 @@
 		},
 		{
 			"id": "tarnished-metal-shipment",
-			"quantity": 20,
-			"primary": true
+			"primary": true,
+			"quantity": 20
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-vessel-item",
+		"item": "crafted-light-shot"
+	},
+	"quality": "common",
+	"quantity": 200,
+	"skill": "seamanship",
+	"skillValue": 500,
+	"time": "PT15S"
 }

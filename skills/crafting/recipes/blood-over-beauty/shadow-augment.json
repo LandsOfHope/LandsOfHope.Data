@@ -1,26 +1,26 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
+	"failureChance": {
+		"$type": "/v1/random-chance",
+		"denom": 100,
+		"numer": 50
+	},
 	"id": "blood-over-beauty/shadow-augment",
+	"image": "6874",
+	"ingredients": [
+		{
+			"id": "gem",
+			"primary": true,
+			"quantity": 7
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-item",
 		"item": "shadow-augment"
 	},
-	"image": "6874",
-	"time": "PT15S",
+	"quality": "common",
 	"quantity": 1,
 	"skill": "blood-over-beauty",
 	"skillValue": 1500,
-	"quality": "common",
-	"failureChance": {
-		"$type": "/v1/random-chance",
-		"numer": 50,
-		"denom": 100
-	},
-	"ingredients": [
-		{
-			"id": "gem",
-			"quantity": 7,
-			"primary": true
-		}
-	]
+	"time": "PT15S"
 }

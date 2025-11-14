@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "alchemy/stoneskin-potion",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "stoneskin-potion"
-	},
 	"image": "pe8",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "alchemy",
-	"skillValue": 500,
-	"quality": "uncommon",
 	"ingredients": [
 		{
 			"id": "empty-potion-bottle",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		},
 		{
 			"id": "mortar-and-pestle",
@@ -25,5 +16,14 @@
 			"id": "red-crystal",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "stoneskin-potion"
+	},
+	"quality": "uncommon",
+	"quantity": 1,
+	"skill": "alchemy",
+	"skillValue": 500,
+	"time": "PT15S"
 }

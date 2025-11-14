@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "commanders-pauldrons",
 	"image": "2484",
-	"type": "shoulders",
-	"armorType": "plate",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

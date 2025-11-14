@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 73,
 	"id": "guilded-deadly-fine-blade",
 	"image": "sw1",
-	"type": "1-handed-equipment",
-	"dpr": 73,
 	"material": "metal",
 	"skill": "swords",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

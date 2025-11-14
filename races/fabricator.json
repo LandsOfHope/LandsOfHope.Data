@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Fabricator"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Fabricator"
+	},
 	"pics": {
-		"M": ["mjpfabm"],
-		"F": ["mjpfabf"]
+		"F": ["mjpfabf"],
+		"M": ["mjpfabm"]
 	}
 }

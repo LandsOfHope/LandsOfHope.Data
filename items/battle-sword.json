@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 42,
 	"id": "battle-sword",
 	"image": "sw9",
-	"type": "2-handed-equipment",
-	"dpr": 42,
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

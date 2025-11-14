@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 95,
 	"id": "torrential-potion",
 	"image": "pe5",
-	"type": "ammo-weapons-potions",
-	"dpr": 95,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-potions"
 }

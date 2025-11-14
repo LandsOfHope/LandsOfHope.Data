@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 42,
 	"id": "bloody-cross",
 	"image": "cso",
-	"type": "1-handed-equipment",
-	"dpr": 42,
 	"material": "wood",
 	"skill": "maces",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

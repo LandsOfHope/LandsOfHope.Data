@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 17,
 	"id": "charred-dart",
 	"image": "drt",
-	"type": "ammo-weapons-darts",
-	"dpr": 17,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-darts"
 }

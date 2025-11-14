@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 82,
 	"id": "discharging-ordnance",
 	"image": "ss6",
-	"type": "ammo-weapons-artillery",
-	"dpr": 82,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-artillery"
 }

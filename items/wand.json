@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 13,
 	"id": "wand",
 	"image": "wand14",
-	"type": "1-handed-equipment",
-	"dpr": 13,
 	"material": "gem",
+	"properties": {
+		"MAXMANA": 1
+	},
 	"skill": "staves",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXMANA": 1
-	}
+	"type": "1-handed-equipment"
 }

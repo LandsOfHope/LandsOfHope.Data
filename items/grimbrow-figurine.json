@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "grimbrow-figurine",
 	"image": "relic4",
-	"type": "special-slot",
 	"material": "metal",
-	"skill": "archaeology",
 	"properties": {
 		"DEXTERITY": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "archaeology",
+	"type": "special-slot"
 }

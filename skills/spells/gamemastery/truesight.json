@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/truesight",
-	"requirements": {
-		"level": 1,
-		"mana": 1
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"detect-hidden": 4000
 		}
+	},
+	"id": "gamemastery/truesight",
+	"requirements": {
+		"level": 1,
+		"mana": 1
 	}
 }

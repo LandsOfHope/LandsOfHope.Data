@@ -1,34 +1,32 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v0/items/extra-item.json",
-	"title": "ExtraItem",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v0/items/extra-item"
-		},
-		"itemId": {
-			"type": "integer"
-		},
-		"quantity": {
-			"type": "integer"
-		},
-		"imageType": {
-			"enum": ["i", "r"]
-		},
-		"image": {
-			"type": "string"
-		},
-		"levelRequired": {
-			"type": "integer"
 		},
 		"category": {
 			"$ref": "/schemas/v0/items/extras/categories-id.json"
 		},
 		"hc": {
 			"type": "integer"
+		},
+		"image": {
+			"type": "string"
+		},
+		"imageType": {
+			"enum": ["i", "r"]
+		},
+		"itemId": {
+			"type": "integer"
+		},
+		"levelRequired": {
+			"type": "integer"
+		},
+		"quantity": {
+			"type": "integer"
 		}
 	},
-	"additionalProperties": false,
 	"required": [
 		"$type",
 		"itemId",
@@ -37,5 +35,7 @@
 		"image",
 		"category",
 		"hc"
-	]
+	],
+	"title": "ExtraItem",
+	"type": "object"
 }

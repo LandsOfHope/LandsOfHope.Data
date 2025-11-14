@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "furnishing/signpost-right",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "signpost-right"
-	},
 	"image": "si2",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "furnishing",
-	"skillValue": 525,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "plank",
-			"quantity": 5,
-			"primary": true
+			"primary": true,
+			"quantity": 5
 		},
 		{
 			"id": "furnishing-tool",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "signpost-right"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "furnishing",
+	"skillValue": 525,
+	"time": "PT15S"
 }

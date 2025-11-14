@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "outer-eye-of-ilhazoom",
 	"image": "eol",
-	"type": "glasses-shades",
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"type": "glasses-shades"
 }

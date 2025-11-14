@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "healing-magic/reliable-poison-shield",
-	"requirements": {
-		"skill": 4565,
-		"mana": 4565
-	},
 	"duration": "PT2340M",
 	"effects": {
 		"skills": {
 			"poison-resistance": 416
 		}
+	},
+	"id": "healing-magic/reliable-poison-shield",
+	"requirements": {
+		"mana": 4565,
+		"skill": 4565
 	}
 }

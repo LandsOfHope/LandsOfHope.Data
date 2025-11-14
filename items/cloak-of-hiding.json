@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "cloak-of-hiding",
 	"image": "cl7",
-	"type": "cloak",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
-		"stealth": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"stealth": 1
+	},
+	"type": "cloak"
 }

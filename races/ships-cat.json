@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Ship's Cat"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Ship's Cat"
+	},
 	"pics": {
-		"M": ["mpcatm"],
-		"F": ["mpcatf"]
+		"F": ["mpcatf"],
+		"M": ["mpcatm"]
 	}
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "twined-boots",
 	"image": "cbt",
-	"type": "foot-armour",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "foot-armour"
 }

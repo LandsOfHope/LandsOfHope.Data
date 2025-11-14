@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "privilege-of-the-payer",
 	"image": "5890",
-	"type": "exile-symbol",
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "exile-symbol"
 }

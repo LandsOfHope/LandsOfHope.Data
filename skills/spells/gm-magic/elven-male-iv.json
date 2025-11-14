@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/elven-male-iv",
-	"requirements": {
-		"skill": 616,
-		"mana": 616
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 309
 		}
+	},
+	"id": "gm-magic/elven-male-iv",
+	"requirements": {
+		"mana": 616,
+		"skill": 616
 	}
 }

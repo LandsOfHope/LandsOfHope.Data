@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "adept-toolbox",
 	"image": "bx5",
-	"type": "bag",
 	"material": "wood",
 	"skill": "artisan",
 	"skills": {
 		"fire-survival": 1
-	}
+	},
+	"type": "bag"
 }

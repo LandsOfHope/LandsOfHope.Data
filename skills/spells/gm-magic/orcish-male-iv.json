@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/orcish-male-iv",
-	"requirements": {
-		"skill": 643,
-		"mana": 643
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"STRENGTH": 322
 		}
+	},
+	"id": "gm-magic/orcish-male-iv",
+	"requirements": {
+		"mana": 643,
+		"skill": 643
 	}
 }

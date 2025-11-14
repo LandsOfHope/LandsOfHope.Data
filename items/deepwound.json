@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"dpr": 6,
 	"id": "deepwound",
 	"image": "ax12",
-	"type": "2-handed-equipment",
-	"dpr": 6,
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {
+		"attack-power": 1,
 		"frenzy": 1,
-		"two-handed-axes": 1,
-		"attack-power": 1
-	}
+		"two-handed-axes": 1
+	},
+	"type": "2-handed-equipment"
 }

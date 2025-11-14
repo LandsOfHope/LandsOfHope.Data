@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "frostden-pelt-cloak",
 	"image": "5008",
-	"type": "neck-clothing",
 	"material": "hide",
 	"skills": {
+		"armor": 1,
 		"cold-resistance": 1,
-		"cold-survival": 1,
-		"armor": 1
-	}
+		"cold-survival": 1
+	},
+	"type": "neck-clothing"
 }

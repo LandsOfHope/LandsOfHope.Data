@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "blank-tinman-arms",
 	"image": "6939",
-	"type": "arm-armour",
 	"legendary": true,
-	"set": "tinman-set",
 	"material": "metal",
+	"set": "tinman-set",
 	"skill": "bolts-over-brains",
 	"skills": {
 		"armor": 0.65
-	}
+	},
+	"type": "arm-armour"
 }

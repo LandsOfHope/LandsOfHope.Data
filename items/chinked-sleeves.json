@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "chinked-sleeves",
 	"image": "css",
-	"type": "arm-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skills": {
-		"h2h-defense": 1,
+		"armor": 1,
 		"bludgeon-defense": 1,
-		"armor": 1
-	}
+		"h2h-defense": 1
+	},
+	"type": "arm-armour"
 }

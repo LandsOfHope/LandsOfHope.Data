@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "autumnal-hat",
-	"image": "jwadh1",
-	"type": "head-armour",
 	"armorType": "leather",
 	"expansion": "jurassic-wars",
+	"id": "autumnal-hat",
+	"image": "jwadh1",
 	"material": "wood",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "head-armour"
 }

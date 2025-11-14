@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "plain-coating",
 	"image": "2438",
-	"type": "golem-parts",
-	"armorType": "cloth",
-	"material": "cloth"
+	"material": "cloth",
+	"type": "golem-parts"
 }

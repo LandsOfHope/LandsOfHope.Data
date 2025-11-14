@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 94,
 	"id": "godly-quarterstaff",
 	"image": "qsf",
-	"type": "1-handed-equipment",
-	"dpr": 94,
 	"material": "wood",
 	"skill": "staves",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

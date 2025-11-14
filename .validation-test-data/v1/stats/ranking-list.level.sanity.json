@@ -1,18 +1,18 @@
 {
 	"$type": "/v1/stats/ranking-list",
-	"stat": "level",
 	"data": [
 		{
-			"name": "Test-Character",
+			"image": "sohum2",
 			"level": 1000,
-			"sublevel": 1000,
-			"image": "sohum2"
+			"name": "Test-Character",
+			"sublevel": 1000
 		},
 		{
-			"name": "Test-Character-II",
+			"image": "sohum1",
 			"level": 990,
-			"sublevel": 0,
-			"image": "sohum1"
+			"name": "Test-Character-II",
+			"sublevel": 0
 		}
-	]
+	],
+	"stat": "level"
 }

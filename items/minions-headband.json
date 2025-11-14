@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "minions-headband",
 	"image": "5926",
-	"type": "forehead",
 	"material": "cloth",
 	"skills": {
-		"health-regen": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"health-regen": 1
+	},
+	"type": "forehead"
 }

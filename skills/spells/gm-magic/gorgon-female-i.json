@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/gorgon-female-i",
-	"requirements": {
-		"skill": 394,
-		"mana": 394
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"poison-resistance": 198
 		}
+	},
+	"id": "gm-magic/gorgon-female-i",
+	"requirements": {
+		"mana": 394,
+		"skill": 394
 	}
 }

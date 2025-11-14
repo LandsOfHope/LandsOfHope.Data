@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
+	"effects": {
+		"damage": 330
+	},
 	"id": "gamemastery/crushing-ammo",
 	"requirements": {
 		"level": 661,
 		"mana": 1
-	},
-	"effects": {
-		"damage": 330
 	}
 }

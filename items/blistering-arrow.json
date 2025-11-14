@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 65,
 	"id": "blistering-arrow",
 	"image": "arr1",
-	"type": "ammo-weapons-bows",
-	"dpr": 65,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bows"
 }

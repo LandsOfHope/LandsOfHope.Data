@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "woodcrafters-ring",
 	"image": "zuwori",
-	"type": "ring",
 	"material": "wood",
 	"skills": {
 		"carpentry": 1
-	}
+	},
+	"type": "ring"
 }

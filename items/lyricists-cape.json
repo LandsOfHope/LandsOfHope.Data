@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "lyricists-cape",
 	"image": "cob",
-	"type": "neck-clothing",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
 		"instruments": 1
-	}
+	},
+	"type": "neck-clothing"
 }

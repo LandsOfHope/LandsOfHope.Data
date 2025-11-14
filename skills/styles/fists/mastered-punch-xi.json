@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1909
+	},
 	"id": "fists/mastered-punch-xi",
 	"requirements": {
 		"skill": 3811,
 		"stamina": 3810
-	},
-	"effects": {
-		"damage": 1909
 	}
 }

@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-smitey-stick",
 	"image": "5216",
-	"type": "1-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "metal",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	},
 	"skill": "exotic-weapons",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1,
-		"STRENGTH": 1
-	}
+	"type": "1-handed-equipment"
 }

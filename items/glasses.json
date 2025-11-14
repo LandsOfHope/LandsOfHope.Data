@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "glasses",
 	"image": "1993",
-	"type": "glasses-shades",
 	"material": "gem",
 	"skills": {
 		"appraisal": 1
-	}
+	},
+	"type": "glasses-shades"
 }

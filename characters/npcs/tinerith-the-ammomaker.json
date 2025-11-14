@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "tinerith-the-ammomaker"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Tinerith the Ammomaker",
-		"title": "inventor",
 		"image": "gef",
 		"level": {
 			"primary": 450
 		},
+		"name": "Tinerith the Ammomaker",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "inventor"
 	}
 }

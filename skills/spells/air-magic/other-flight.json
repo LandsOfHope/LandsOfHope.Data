@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "air-magic/other-flight",
-	"requirements": {
-		"skill": 861,
-		"mana": 861
-	},
 	"duration": "PT150M",
 	"effects": {
 		"skills": {
 			"air-survival": 431
 		}
+	},
+	"id": "air-magic/other-flight",
+	"requirements": {
+		"mana": 861,
+		"skill": 861
 	}
 }

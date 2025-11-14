@@ -1,13 +1,11 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-imprinted.json",
-	"title": "EnhancedImprinted",
-	"type": "object",
 	"properties": {
 		"enhancements": {
-			"type": "array",
 			"contains": {
 				"const": "imprinted"
-			}
+			},
+			"type": "array"
 		},
 		"imprint": {
 			"oneOf": [
@@ -20,5 +18,7 @@
 			]
 		}
 	},
-	"required": ["enhancements", "imprint"]
+	"required": ["enhancements", "imprint"],
+	"title": "EnhancedImprinted",
+	"type": "object"
 }

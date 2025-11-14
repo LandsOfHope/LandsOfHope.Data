@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/cookie-cat-silent-and-deadly-iv",
-	"requirements": {
-		"skill": 946,
-		"mana": 946
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"detect-hidden": 260
 		}
+	},
+	"id": "gm-magic/cookie-cat-silent-and-deadly-iv",
+	"requirements": {
+		"mana": 946,
+		"skill": 946
 	}
 }

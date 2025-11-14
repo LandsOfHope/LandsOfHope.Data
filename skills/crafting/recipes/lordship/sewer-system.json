@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "lordship/sewer-system",
+	"image": "6429",
+	"ingredients": [
+		{
+			"id": "plank",
+			"primary": true,
+			"quantity": 100
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-item",
 		"item": "sewer-system"
 	},
-	"image": "6429",
-	"time": "PT30S",
+	"quality": "common",
 	"quantity": 1,
 	"skill": "lordship",
 	"skillValue": 4300,
-	"quality": "common",
-	"ingredients": [
-		{
-			"id": "plank",
-			"quantity": 100,
-			"primary": true
-		}
-	]
+	"time": "PT30S"
 }

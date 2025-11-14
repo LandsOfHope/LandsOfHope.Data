@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
-	"id": "mariner-hat",
-	"image": "5271",
-	"type": "head-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "mariner-hat",
+	"image": "5271",
 	"material": "cloth",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	},
 	"skill": "myzan-navy",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1,
-		"STRENGTH": 1
-	}
+	"type": "head-armour"
 }

@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tinkering/crying-bullet",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "crying-bullet"
-	},
 	"image": "zucrbu1",
-	"time": "PT15S",
-	"quantity": 20,
-	"skill": "tinkering",
-	"skillValue": 3305,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 5,
-			"primary": true
+			"primary": true,
+			"quantity": 5
 		},
 		{
 			"id": "bullet-mold",
 			"quantity": 5
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "crying-bullet"
+	},
+	"quality": "common",
+	"quantity": 20,
+	"skill": "tinkering",
+	"skillValue": 3305,
+	"time": "PT15S"
 }

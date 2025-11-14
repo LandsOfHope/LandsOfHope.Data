@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-user-redemption-subscription.json",
-	"title": "CreditHistoryUserRedemptionSubscription",
-	"type": "object",
 	"allOf": [
 		{
 			"$ref": "/schemas/v1/payments/credits/credit-history.json"
@@ -15,5 +13,7 @@
 			"$ref": "/schemas/v0/datetime.json"
 		}
 	},
-	"required": ["$type", "validThrough"]
+	"required": ["$type", "validThrough"],
+	"title": "CreditHistoryUserRedemptionSubscription",
+	"type": "object"
 }

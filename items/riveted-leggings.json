@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "riveted-leggings",
 	"image": "cls",
-	"type": "leg-armour",
-	"armorType": "mail",
 	"material": "metal",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "leg-armour"
 }

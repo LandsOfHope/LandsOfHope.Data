@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Sloth"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Sloth"
+	},
 	"pics": {
-		"M": ["mjpslthm"],
-		"F": ["mjpslthf"]
+		"F": ["mjpslthf"],
+		"M": ["mjpslthm"]
 	}
 }

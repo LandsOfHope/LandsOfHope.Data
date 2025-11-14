@@ -1,5 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/services/service-environment.json",
-	"title": "ServiceEnvironment",
-	"enum": ["development", "staging", "production"]
+	"enum": ["development", "staging", "production"],
+	"title": "ServiceEnvironment"
 }

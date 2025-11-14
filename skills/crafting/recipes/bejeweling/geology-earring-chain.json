@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "bejeweling/geology-earring-chain",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-bejewel",
-		"item": "earring-enhancement",
-		"bejewel": "bejewels/geology-earring-chain"
-	},
 	"image": "bt2",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "bejeweling",
-	"skillValue": 105,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "pearl",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-bejewel",
+		"bejewel": "bejewels/geology-earring-chain",
+		"item": "earring-enhancement"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "bejeweling",
+	"skillValue": 105,
+	"time": "PT15S"
 }

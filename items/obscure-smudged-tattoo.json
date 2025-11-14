@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "obscure-smudged-tattoo",
 	"image": "tattoo4",
-	"type": "forehead",
 	"material": "gem",
-	"skill": "hellscar-legion",
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "hellscar-legion",
+	"type": "forehead"
 }

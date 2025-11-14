@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "stonemasonry/nimble-earring",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "nimble-earring"
-	},
 	"image": "266",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "stonemasonry",
-	"skillValue": 125,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "gem",
-			"quantity": 3,
-			"primary": true
+			"primary": true,
+			"quantity": 3
 		},
 		{
 			"id": "stone-block",
@@ -25,5 +16,14 @@
 			"id": "masons-tools",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "nimble-earring"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "stonemasonry",
+	"skillValue": 125,
+	"time": "PT15S"
 }

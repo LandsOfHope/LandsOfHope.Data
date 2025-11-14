@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tailoring/youthful-shirt",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "youthful-shirt"
-	},
 	"image": "4528",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "tailoring",
-	"skillValue": 4750,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "thread",
@@ -18,8 +9,17 @@
 		},
 		{
 			"id": "cloth",
-			"quantity": 15,
-			"primary": true
+			"primary": true,
+			"quantity": 15
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "youthful-shirt"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "tailoring",
+	"skillValue": 4750,
+	"time": "PT15S"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 83,
 	"id": "nova-bullet",
 	"image": "zunobu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 83,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

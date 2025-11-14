@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "wildlife/gather-arrows-iii",
-	"requirements": {
-		"skill": 4221,
-		"mana": 422
-	},
 	"duration": "PT50M",
 	"effects": {
 		"summon-item": {
 			"item": "arrow"
 		}
+	},
+	"id": "wildlife/gather-arrows-iii",
+	"requirements": {
+		"mana": 422,
+		"skill": 4221
 	}
 }

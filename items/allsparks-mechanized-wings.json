@@ -2,15 +2,15 @@
 	"$type": "/v1/item",
 	"id": "allsparks-mechanized-wings",
 	"image": "6725",
-	"type": "wings",
 	"material": "hide",
-	"skills": {
-		"tinkering": 1,
-		"air-survival": 1,
-		"mining": 1,
-		"geology": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"skills": {
+		"air-survival": 1,
+		"geology": 1,
+		"mining": 1,
+		"tinkering": 1
+	},
+	"type": "wings"
 }

@@ -1,23 +1,23 @@
 {
 	"$type": "/v1/profession",
-	"id": "pit-master",
-	"name": {
-		"en": "Pit Master"
-	},
 	"desc": {
 		"en": "An ancient guardian"
 	},
-	"skills": {
-		"healing-magic": 5,
-		"swords": 5,
-		"armor": 5,
-		"attack-power": 5,
-		"dark-magic": 5
+	"id": "pit-master",
+	"name": {
+		"en": "Pit Master"
 	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 3,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"dark-magic": 5,
+		"healing-magic": 5,
+		"swords": 5
 	}
 }

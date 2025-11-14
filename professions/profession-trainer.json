@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "Trains in Spells and Styles"
+	},
 	"id": "profession-trainer",
 	"name": {
 		"en": "Profession Trainer"
-	},
-	"desc": {
-		"en": "Trains in Spells and Styles"
 	},
 	"properties": {
 		"DEXTERITY": 4,

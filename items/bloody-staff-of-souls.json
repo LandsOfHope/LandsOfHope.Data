@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 6,
 	"id": "bloody-staff-of-souls",
 	"image": "bss",
-	"type": "2-handed-equipment",
-	"dpr": 6,
 	"material": "metal",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1
+	},
 	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1,
-		"MAXHITPOINTS": 1
-	}
+	"type": "2-handed-equipment"
 }

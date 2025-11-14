@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/items/enhancements/item-name",
-	"id": "names/the-pickpocket",
 	"effects": {
-		"skills": {
-			"stealing": 0.4,
-			"disguise": 0.4
-		},
 		"properties": {
 			"DEXTERITY": 0.4
+		},
+		"skills": {
+			"disguise": 0.4,
+			"stealing": 0.4
 		}
-	}
+	},
+	"id": "names/the-pickpocket"
 }

@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "strung-hat",
 	"image": "2905",
-	"type": "head-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "head-armour"
 }

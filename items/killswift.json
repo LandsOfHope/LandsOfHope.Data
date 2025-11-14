@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 9,
 	"id": "killswift",
 	"image": "4993",
-	"type": "ranged-weapon",
-	"dpr": 9,
 	"material": "gem",
-	"skill": "two-handed-guns",
-	"skills": {
-		"two-handed-guns": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"SPEED": 1
-	}
+	},
+	"skill": "two-handed-guns",
+	"skills": {
+		"attack-power": 1,
+		"two-handed-guns": 1
+	},
+	"type": "ranged-weapon"
 }

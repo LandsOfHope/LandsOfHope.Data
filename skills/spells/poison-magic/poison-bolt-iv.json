@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "poison-magic/poison-bolt-iv",
-	"requirements": {
-		"skill": 301,
-		"mana": 301
-	},
 	"effects": {
 		"damage": 225
+	},
+	"id": "poison-magic/poison-bolt-iv",
+	"requirements": {
+		"mana": 301,
+		"skill": 301
 	}
 }

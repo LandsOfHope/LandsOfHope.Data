@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 72,
 	"id": "deadly-tower-shield",
 	"image": "sd8",
-	"type": "2-handed-equipment",
-	"dpr": 72,
 	"material": "metal",
 	"skill": "two-handed-shields",
 	"skills": {
-		"poison-resistance": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"poison-resistance": 1
+	},
+	"type": "2-handed-equipment"
 }

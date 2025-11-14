@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "long-legendary-bow",
 	"image": "bw2",
-	"type": "ranged-weapon",
-	"dpr": 120,
 	"legendary": true,
 	"material": "wood",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	},
 	"skill": "bows",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1,
-		"STRENGTH": 1
-	}
+	"type": "ranged-weapon"
 }

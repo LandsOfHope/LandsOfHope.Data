@@ -1,18 +1,18 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/creation/stargazer-creation-args.json",
-	"title": "StargazerCreationArgs",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/creation/stargazer-creation-args"
 		},
-		"skipTutorial": {
-			"type": "boolean"
-		},
 		"constellation": {
 			"$ref": "/schemas/v1/characters/creation/stargazer-constellation.json"
+		},
+		"skipTutorial": {
+			"type": "boolean"
 		}
 	},
 	"required": ["$type", "skipTutorial", "constellation"],
-	"additionalProperties": false
+	"title": "StargazerCreationArgs",
+	"type": "object"
 }

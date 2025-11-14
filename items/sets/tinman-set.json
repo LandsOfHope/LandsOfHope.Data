@@ -1,13 +1,8 @@
 {
 	"$type": "/v1/items/set",
+	"color": "gold",
 	"id": "tinman-set",
 	"image": "na.gif",
-	"color": "gold",
-	"spells": {
-		"0": {
-			"0": "tinmans-blessing"
-		}
-	},
 	"items": [
 		"blank-tinman-shoulders",
 		"blank-tinman-arms",
@@ -17,5 +12,10 @@
 		"blank-tinman-boots",
 		"blank-tinman-chestpiece",
 		"blank-tinman-legs"
-	]
+	],
+	"spells": {
+		"0": {
+			"0": "tinmans-blessing"
+		}
+	}
 }

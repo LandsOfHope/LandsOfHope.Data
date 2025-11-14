@@ -1,8 +1,18 @@
 {
 	"$type": "/v1/items/set",
+	"color": "yellow",
 	"id": "freebreeze-legend",
 	"image": "na.gif",
-	"color": "yellow",
+	"items": [
+		"freebreeze-sleeves",
+		"freebreeze-shoulders",
+		"freebreeze-shoes",
+		"freebreeze-gloves",
+		"freebreeze-wristband",
+		"freebreeze-leggings",
+		"freebreeze-shirt",
+		"freebreeze-cap"
+	],
 	"spells": {
 		"0": {
 			"0": "summon-wisp"
@@ -16,15 +26,5 @@
 		"3": {
 			"0": "summon-hydra"
 		}
-	},
-	"items": [
-		"freebreeze-sleeves",
-		"freebreeze-shoulders",
-		"freebreeze-shoes",
-		"freebreeze-gloves",
-		"freebreeze-wristband",
-		"freebreeze-leggings",
-		"freebreeze-shirt",
-		"freebreeze-cap"
-	]
+	}
 }

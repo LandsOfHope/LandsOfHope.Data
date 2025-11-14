@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dragons-of-the-east",
 	"id": "deposit-box",
 	"image": "5881",
-	"type": "special-chest",
-	"expansion": "dragons-of-the-east",
-	"material": "wood"
+	"material": "wood",
+	"type": "special-chest"
 }

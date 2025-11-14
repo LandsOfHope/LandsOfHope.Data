@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "light-dull-teal-paper",
 	"image": "plightdullt",
-	"type": "explosive-component",
-	"expansion": "uncharted-waters",
-	"material": "color"
+	"material": "color",
+	"type": "explosive-component"
 }

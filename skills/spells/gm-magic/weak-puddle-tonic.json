@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/weak-puddle-tonic",
-	"requirements": {
-		"skill": 3000,
-		"mana": 325
-	},
 	"duration": "PT65M",
 	"effects": {
 		"skills": {
 			"water-resistance": 65
 		}
+	},
+	"id": "gm-magic/weak-puddle-tonic",
+	"requirements": {
+		"mana": 325,
+		"skill": 3000
 	}
 }

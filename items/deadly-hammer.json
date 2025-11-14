@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 72,
 	"id": "deadly-hammer",
 	"image": "sle",
-	"type": "2-handed-equipment",
-	"dpr": 72,
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "dungeonseeker-pants",
 	"image": "4949",
-	"type": "leg-armour",
-	"armorType": "cloth",
 	"material": "hide",
+	"properties": {
+		"SPEED": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "leg-armour"
 }

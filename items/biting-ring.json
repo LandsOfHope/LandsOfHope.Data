@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "biting-ring",
 	"image": "gmbiri",
-	"type": "ring",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skill": "hellscar-legion",
 	"skills": {
 		"frenzy": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "ring"
 }

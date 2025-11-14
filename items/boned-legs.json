@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "boned-legs",
 	"image": "514",
-	"type": "leg-armour",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "leg-armour"
 }

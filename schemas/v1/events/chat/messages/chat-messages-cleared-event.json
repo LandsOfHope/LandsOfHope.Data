@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/chat/messages/chat-messages-cleared-event.json",
-	"title": "ChatMessagesClearedEvent",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -11,5 +9,7 @@
 			"$ref": "/schemas/v1/chat/chat-room-id.json"
 		}
 	},
-	"required": ["$type", "room"]
+	"required": ["$type", "room"],
+	"title": "ChatMessagesClearedEvent",
+	"type": "object"
 }

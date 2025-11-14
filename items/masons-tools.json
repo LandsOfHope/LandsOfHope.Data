@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "masons-tools",
 	"image": "zumato",
-	"type": "1-handed-equipment",
 	"material": "metal",
 	"skill": "stonemasonry",
 	"skills": {
 		"stonemasonry": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

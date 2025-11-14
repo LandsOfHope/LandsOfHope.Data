@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "public-storage-crate",
 	"image": "bx2",
-	"type": "public-storage-box",
-	"material": "wood"
+	"material": "wood",
+	"type": "public-storage-box"
 }

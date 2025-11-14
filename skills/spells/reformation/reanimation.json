@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "reformation/reanimation",
-	"requirements": {
-		"skill": 5,
-		"mana": 1
-	},
 	"duration": "PT1M",
 	"effects": {
 		"dead": 1
+	},
+	"id": "reformation/reanimation",
+	"requirements": {
+		"mana": 1,
+		"skill": 5
 	}
 }

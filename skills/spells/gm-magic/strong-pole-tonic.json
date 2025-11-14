@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/strong-pole-tonic",
-	"requirements": {
-		"skill": 3000,
-		"mana": 3250
-	},
 	"duration": "PT650M",
 	"effects": {
 		"skills": {
 			"pole-defense": 650
 		}
+	},
+	"id": "gm-magic/strong-pole-tonic",
+	"requirements": {
+		"mana": 3250,
+		"skill": 3000
 	}
 }

@@ -1,20 +1,20 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "Blizzard Golem Pet Class"
+	},
 	"id": "blizzard-golem",
 	"name": {
 		"en": "Blizzard Golem"
 	},
-	"desc": {
-		"en": "Blizzard Golem Pet Class"
-	},
-	"skills": {
-		"cold-magic": 5,
-		"cold-resistance": 5,
-		"fists": 5,
-		"armor": 5,
-		"attack-power": 5
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cold-magic": 5,
+		"cold-resistance": 5,
+		"fists": 5
 	}
 }

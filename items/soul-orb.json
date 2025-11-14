@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 9,
 	"id": "soul-orb",
 	"image": "zusoor",
-	"type": "1-handed-equipment",
-	"dpr": 9,
 	"material": "gem",
-	"skill": "maces",
 	"properties": {
 		"MANA": 1,
 		"MAXMANA": 1
-	}
+	},
+	"skill": "maces",
+	"type": "1-handed-equipment"
 }

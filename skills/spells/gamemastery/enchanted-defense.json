@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/enchanted-defense",
-	"requirements": {
-		"skill": 765,
-		"mana": 765
-	},
 	"duration": "PT300M",
 	"effects": {
 		"skills": {
 			"armor": 383
 		}
+	},
+	"id": "gamemastery/enchanted-defense",
+	"requirements": {
+		"mana": 765,
+		"skill": 765
 	}
 }

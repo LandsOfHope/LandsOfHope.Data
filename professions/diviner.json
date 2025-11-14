@@ -1,18 +1,14 @@
 {
 	"$type": "/v1/profession",
-	"id": "diviner",
-	"name": {
-		"en": "Diviner"
-	},
 	"desc": {
 		"en": "The Diviner is a Tier I evolution from the Hermit Profession, while keeping all of the Hermits abilities the Diviner also gains the ability to use <b>Warding</b> spells.<br><br> As with the Hermit the Diviner can use 2H Staves and Fists."
 	},
-	"skills": {
-		"first-aid": 5,
-		"transformation": 5,
-		"warding": 5,
-		"armor": 5,
-		"attack-power": 5
+	"evo": {
+		"warden": 350
+	},
+	"id": "diviner",
+	"name": {
+		"en": "Diviner"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -22,7 +18,11 @@
 		"MAXSTAMINA": 1,
 		"SPEED": 1
 	},
-	"evo": {
-		"warden": 350
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"first-aid": 5,
+		"transformation": 5,
+		"warding": 5
 	}
 }

@@ -1,16 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "creature",
-	"name": {
-		"en": "Creature"
-	},
 	"desc": {
 		"en": "A creature which has no set profession."
 	},
-	"skills": {
-		"fists": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "creature",
+	"name": {
+		"en": "Creature"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -18,5 +13,10 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fists": 5
 	}
 }

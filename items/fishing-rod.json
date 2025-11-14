@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "fishing-rod",
 	"image": "fgd",
-	"type": "1-handed-equipment",
 	"material": "wood",
 	"skill": "fishing",
 	"skills": {
 		"fishing": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

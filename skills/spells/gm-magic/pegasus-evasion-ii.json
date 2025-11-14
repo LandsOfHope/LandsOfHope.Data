@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/pegasus-evasion-ii",
-	"requirements": {
-		"skill": 330,
-		"mana": 330
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"DEXTERITY": 166
 		}
+	},
+	"id": "gm-magic/pegasus-evasion-ii",
+	"requirements": {
+		"mana": 330,
+		"skill": 330
 	}
 }

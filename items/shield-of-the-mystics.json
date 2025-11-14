@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 5,
 	"id": "shield-of-the-mystics",
 	"image": "sdd",
-	"type": "2-handed-equipment",
-	"dpr": 5,
 	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skill": "two-handed-shields",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "2-handed-equipment"
 }

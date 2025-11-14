@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "blood-over-beauty/blank-stitched-face",
+	"image": "6854",
+	"ingredients": [
+		{
+			"id": "hide",
+			"primary": true,
+			"quantity": 4
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-item",
 		"item": "blank-stitched-face"
 	},
-	"image": "6854",
-	"time": "PT15S",
+	"quality": "common",
 	"quantity": 1,
 	"skill": "blood-over-beauty",
 	"skillValue": 1260,
-	"quality": "common",
-	"ingredients": [
-		{
-			"id": "hide",
-			"quantity": 4,
-			"primary": true
-		}
-	]
+	"time": "PT15S"
 }

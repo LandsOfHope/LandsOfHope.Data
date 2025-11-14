@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "greenmead-banner",
 	"image": "5939",
-	"type": "exile-symbol",
 	"material": "gem",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"skills": {
+		"armor": 1
+	},
+	"type": "exile-symbol"
 }

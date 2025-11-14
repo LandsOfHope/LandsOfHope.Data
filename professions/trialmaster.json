@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
-	"id": "trialmaster",
-	"name": {
-		"en": "Trialmaster"
-	},
 	"desc": {
 		"en": "The dealer of Guild Trials."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "trialmaster",
+	"name": {
+		"en": "Trialmaster"
 	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

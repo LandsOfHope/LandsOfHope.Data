@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/drakos-protection",
-	"requirements": {
-		"skill": 5,
-		"mana": 5
-	},
 	"duration": "PT1440M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": 10
 		}
+	},
+	"id": "gamemastery/drakos-protection",
+	"requirements": {
+		"mana": 5,
+		"skill": 5
 	}
 }

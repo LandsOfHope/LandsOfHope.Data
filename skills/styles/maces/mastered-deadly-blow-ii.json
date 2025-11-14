@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 2359
+	},
 	"id": "maces/mastered-deadly-blow-ii",
 	"requirements": {
 		"skill": 4711,
 		"stamina": 4710
-	},
-	"effects": {
-		"damage": 2359
 	}
 }

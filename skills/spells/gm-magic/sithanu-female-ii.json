@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/sithanu-female-ii",
-	"requirements": {
-		"skill": 319,
-		"mana": 319
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"skills": {
 			"armor": 160
 		}
+	},
+	"id": "gm-magic/sithanu-female-ii",
+	"requirements": {
+		"mana": 319,
+		"skill": 319
 	}
 }

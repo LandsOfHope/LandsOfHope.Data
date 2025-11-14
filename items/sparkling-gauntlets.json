@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "sparkling-gauntlets",
 	"image": "574",
-	"type": "hand-armour",
-	"armorType": "plate",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "hand-armour"
 }

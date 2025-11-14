@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/constellation-of-the-wolf",
-	"requirements": {
-		"skill": 50,
-		"mana": 50
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"cold-survival": 50
 		}
+	},
+	"id": "gm-magic/constellation-of-the-wolf",
+	"requirements": {
+		"mana": 50,
+		"skill": 50
 	}
 }

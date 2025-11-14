@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "stonemasonry/wedding-ring",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "wedding-ring"
-	},
 	"image": "rg8",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "stonemasonry",
-	"skillValue": 1900,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "gem",
-			"quantity": 2,
-			"primary": true
+			"primary": true,
+			"quantity": 2
 		},
 		{
 			"id": "stone-block",
@@ -25,5 +16,14 @@
 			"id": "masons-tools",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "wedding-ring"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "stonemasonry",
+	"skillValue": 1900,
+	"time": "PT15S"
 }

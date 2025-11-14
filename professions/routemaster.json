@@ -1,19 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "routemaster",
-	"name": {
-		"en": "Routemaster"
-	},
 	"desc": {
 		"en": "Responsible for the logistics of managing a trade route."
 	},
-	"skills": {
-		"mystical-magic": 5,
-		"hell-magic": 5,
-		"poison-resistance": 5,
-		"fists": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "routemaster",
+	"name": {
+		"en": "Routemaster"
 	},
 	"properties": {
 		"DEXTERITY": 4,
@@ -23,5 +15,13 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fists": 5,
+		"hell-magic": 5,
+		"mystical-magic": 5,
+		"poison-resistance": 5
 	}
 }

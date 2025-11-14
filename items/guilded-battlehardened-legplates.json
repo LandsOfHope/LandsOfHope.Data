@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "guilded-battlehardened-legplates",
 	"image": "3655",
-	"type": "leg-armour",
-	"armorType": "plate",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "leg-armour"
 }

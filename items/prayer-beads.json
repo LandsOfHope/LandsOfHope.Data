@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "prayer-beads",
 	"image": "grb",
-	"type": "wrist-jewelry",
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "wrist-jewelry"
 }

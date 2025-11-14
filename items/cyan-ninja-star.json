@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
-	"id": "cyan-ninja-star",
-	"image": "6409",
-	"type": "ranged-weapon",
 	"dpr": 3,
 	"expansion": "dragons-of-the-east",
+	"id": "cyan-ninja-star",
+	"image": "6409",
 	"material": "metal",
 	"skill": "thrown-weapons",
 	"skills": {
-		"stealth": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"stealth": 1
+	},
+	"type": "ranged-weapon"
 }

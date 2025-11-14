@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "shrimp",
 	"image": "cn3",
-	"type": "marine-resource",
 	"material": "hide",
 	"properties": {
 		"MANA": 1
-	}
+	},
+	"type": "marine-resource"
 }

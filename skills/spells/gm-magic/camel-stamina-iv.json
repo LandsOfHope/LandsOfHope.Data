@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/camel-stamina-iv",
-	"requirements": {
-		"skill": 939,
-		"mana": 939
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"MAXSTAMINA": 470
 		}
+	},
+	"id": "gm-magic/camel-stamina-iv",
+	"requirements": {
+		"mana": 939,
+		"skill": 939
 	}
 }

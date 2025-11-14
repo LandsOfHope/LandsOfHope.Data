@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 20,
 	"id": "frigid-dart",
 	"image": "drt",
-	"type": "ammo-weapons-darts",
-	"dpr": 20,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-darts"
 }

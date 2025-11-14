@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "cadet-greaves",
 	"image": "2332",
-	"type": "foot-armour",
-	"armorType": "plate",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

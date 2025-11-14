@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1444
+	},
 	"id": "daggers/enhanced-nick-vii",
 	"requirements": {
 		"skill": 2881,
 		"stamina": 2880
-	},
-	"effects": {
-		"damage": 1444
 	}
 }

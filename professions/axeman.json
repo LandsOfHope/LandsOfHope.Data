@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "axeman",
-	"name": {
-		"en": "Axeman"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"axes": 5,
-		"two-handed-axes": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "axeman",
+	"name": {
+		"en": "Axeman"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -19,5 +13,11 @@
 		"MAXSTAMINA": 3,
 		"SPEED": 1,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"axes": 5,
+		"two-handed-axes": 5
 	}
 }

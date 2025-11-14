@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "water-dancing-ring",
 	"image": "rgf",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
 		"water-survival": 1
-	}
+	},
+	"type": "ring"
 }

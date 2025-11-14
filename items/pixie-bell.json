@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "pixie-bell",
 	"image": "egg",
-	"type": "monster-spawner",
-	"material": "hide"
+	"material": "hide",
+	"type": "monster-spawner"
 }

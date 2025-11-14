@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/sabretooth-evasion-ii",
-	"requirements": {
-		"skill": 505,
-		"mana": 505
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"MAXSTAMINA": 100
 		}
+	},
+	"id": "gm-magic/sabretooth-evasion-ii",
+	"requirements": {
+		"mana": 505,
+		"skill": 505
 	}
 }

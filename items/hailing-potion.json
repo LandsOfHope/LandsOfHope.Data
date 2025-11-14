@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 76,
 	"id": "hailing-potion",
 	"image": "pe5",
-	"type": "ammo-weapons-potions",
-	"dpr": 76,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-potions"
 }

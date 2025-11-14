@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/unicorn-protection-ii",
-	"requirements": {
-		"skill": 463,
-		"mana": 463
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"armor": 232
 		}
+	},
+	"id": "gm-magic/unicorn-protection-ii",
+	"requirements": {
+		"mana": 463,
+		"skill": 463
 	}
 }

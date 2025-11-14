@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "belt-of-the-violent",
 	"image": "pbelt4",
-	"type": "stomach",
 	"material": "hide",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "stomach"
 }

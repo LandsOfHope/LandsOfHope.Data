@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Gamemaster"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Gamemaster"
+	},
 	"pics": {
-		"M": ["mjpgmm"],
-		"F": ["mjpgmf"]
+		"F": ["mjpgmf"],
+		"M": ["mjpgmm"]
 	}
 }

@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "strung-shoulders",
 	"image": "3004",
-	"type": "shoulders",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "shoulders"
 }

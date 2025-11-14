@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/wizardcap-xi",
-	"requirements": {
-		"skill": 550,
-		"level": 1001,
-		"mana": 11
-	},
 	"duration": "PT26M",
 	"effects": {
 		"skills": {
 			"mana-regen": 275
 		}
+	},
+	"id": "gm-magic/wizardcap-xi",
+	"requirements": {
+		"level": 1001,
+		"mana": 11,
+		"skill": 550
 	}
 }

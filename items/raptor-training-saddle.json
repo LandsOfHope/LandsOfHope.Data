@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "jurassic-wars",
 	"id": "raptor-training-saddle",
 	"image": "5128",
-	"type": "training-saddle",
-	"expansion": "jurassic-wars",
-	"material": "gem"
+	"material": "gem",
+	"type": "training-saddle"
 }

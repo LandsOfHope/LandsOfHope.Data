@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "construction/a-wooden-shop-deed",
+	"image": "1070",
+	"ingredients": [
+		{
+			"id": "plank",
+			"primary": true,
+			"quantity": 100
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-item",
 		"item": "wooden-shop-deed"
 	},
-	"image": "1070",
-	"time": "PT15S",
+	"quality": "common",
 	"quantity": 1,
 	"skill": "construction",
 	"skillValue": 140,
-	"quality": "common",
-	"ingredients": [
-		{
-			"id": "plank",
-			"quantity": 100,
-			"primary": true
-		}
-	]
+	"time": "PT15S"
 }

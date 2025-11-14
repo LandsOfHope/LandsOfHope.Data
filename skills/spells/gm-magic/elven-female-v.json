@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/elven-female-v",
-	"requirements": {
-		"skill": 799,
-		"mana": 799
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 400
 		}
+	},
+	"id": "gm-magic/elven-female-v",
+	"requirements": {
+		"mana": 799,
+		"skill": 799
 	}
 }

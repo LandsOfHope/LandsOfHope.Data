@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/items/set",
+	"color": "orange",
 	"id": "destiny-set",
 	"image": "na.gif",
-	"color": "orange",
+	"items": ["badge-of-destiny", "glasses-of-destiny"],
 	"spells": {
 		"0": {
 			"1": "destiny-i",
@@ -16,6 +17,5 @@
 			"800": "destiny-ix",
 			"900": "destiny-x"
 		}
-	},
-	"items": ["badge-of-destiny", "glasses-of-destiny"]
+	}
 }

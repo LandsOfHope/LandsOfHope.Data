@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "cadet-plate-gloves",
 	"image": "2365",
-	"type": "hand-armour",
-	"armorType": "plate",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "hand-armour"
 }

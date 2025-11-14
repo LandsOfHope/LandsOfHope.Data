@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "spoiled-ring",
 	"image": "rgp",
-	"type": "stealing-loot",
-	"material": "metal"
+	"material": "metal",
+	"type": "stealing-loot"
 }

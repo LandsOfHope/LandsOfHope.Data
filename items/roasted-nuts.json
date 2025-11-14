@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "roasted-nuts",
 	"image": "ron",
-	"type": "food",
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 2
-	}
+	},
+	"type": "food"
 }

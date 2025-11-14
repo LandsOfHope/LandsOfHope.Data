@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "inscription/burning-pain-ii",
-	"requirements": {
-		"skill": 306,
-		"mana": 4
-	},
 	"effects": {
 		"damage": 144
+	},
+	"id": "inscription/burning-pain-ii",
+	"requirements": {
+		"mana": 4,
+		"skill": 306
 	}
 }

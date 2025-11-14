@@ -1,10 +1,10 @@
 {
 	"$type": "/v1/items/enhancements/item-imprint",
-	"id": "imprints/bubbling-pain-xii",
-	"spell": "bubbling-pain-xii",
 	"chance": {
 		"$type": "/v1/random-chance",
-		"numer": 14,
-		"denom": 100
-	}
+		"denom": 100,
+		"numer": 14
+	},
+	"id": "imprints/bubbling-pain-xii",
+	"spell": "bubbling-pain-xii"
 }

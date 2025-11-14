@@ -1,12 +1,12 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/items/material.json",
-	"title": "Material",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/items/material"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type"]
+	"required": ["$type"],
+	"title": "Material",
+	"type": "object"
 }

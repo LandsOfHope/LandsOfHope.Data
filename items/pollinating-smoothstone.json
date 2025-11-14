@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 36,
 	"id": "pollinating-smoothstone",
 	"image": "sms",
-	"type": "ammo-weapons-rocks",
-	"dpr": 36,
 	"material": "stone",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-rocks"
 }

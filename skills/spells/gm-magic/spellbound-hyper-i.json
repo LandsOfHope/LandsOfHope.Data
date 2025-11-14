@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/spellbound-hyper-i",
-	"requirements": {
-		"skill": 205,
-		"mana": 5
-	},
 	"duration": "PT50000M",
 	"effects": {
 		"properties": {
 			"SPEED": 5
 		}
+	},
+	"id": "gm-magic/spellbound-hyper-i",
+	"requirements": {
+		"mana": 5,
+		"skill": 205
 	}
 }

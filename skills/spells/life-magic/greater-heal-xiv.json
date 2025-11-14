@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "life-magic/greater-heal-xiv",
-	"requirements": {
-		"skill": 1580,
-		"mana": 1580
-	},
 	"duration": "PT14M",
 	"effects": {
 		"heal": 1187
+	},
+	"id": "life-magic/greater-heal-xiv",
+	"requirements": {
+		"mana": 1580,
+		"skill": 1580
 	}
 }

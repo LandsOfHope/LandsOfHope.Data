@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "ginlen-potstirrer"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Ginlen Potstirrer",
-		"title": "alchemist",
 		"image": "pim",
 		"level": {
 			"primary": 500
 		},
+		"name": "Ginlen Potstirrer",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "alchemist"
 	}
 }

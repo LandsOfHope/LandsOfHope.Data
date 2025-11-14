@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "defensive-magic/electricity-shield-viii",
-	"requirements": {
-		"skill": 519,
-		"mana": 519
-	},
 	"duration": "PT640M",
 	"effects": {
 		"skills": {
 			"energy-resistance": 274
 		}
+	},
+	"id": "defensive-magic/electricity-shield-viii",
+	"requirements": {
+		"mana": 519,
+		"skill": 519
 	}
 }

@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "nightsky-band-of-power",
 	"image": "4965",
-	"type": "ring",
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXMANA": 1
-	}
+	},
+	"type": "ring"
 }

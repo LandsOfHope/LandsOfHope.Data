@@ -1,22 +1,22 @@
 {
 	"$type": "/v1/profession",
-	"id": "earth-mage",
-	"name": {
-		"en": "Earth Mage"
-	},
 	"desc": {
 		"en": "Earth Mage. An expert at casting Earth Magic."
 	},
-	"skills": {
-		"mystical-magic": 5,
-		"earth-resistance": 5,
-		"earth-magic": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "earth-mage",
+	"name": {
+		"en": "Earth Mage"
 	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 4
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"earth-magic": 5,
+		"earth-resistance": 5,
+		"mystical-magic": 5
 	}
 }

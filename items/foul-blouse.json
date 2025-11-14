@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "foul-blouse",
 	"image": "1811",
-	"type": "chest-armour",
-	"armorType": "cloth",
 	"material": "hide",
 	"skills": {
-		"poison-resistance": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"poison-resistance": 1
+	},
+	"type": "chest-armour"
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 19,
 	"id": "dragon-cannon",
 	"image": "ss2",
-	"type": "siege-weapon",
-	"dpr": 19,
 	"material": "metal",
 	"skill": "siege-weapons",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "siege-weapon"
 }

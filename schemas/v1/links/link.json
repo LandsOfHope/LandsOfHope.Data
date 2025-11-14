@@ -1,18 +1,18 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/links/link.json",
-	"title": "Link",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/links/link"
 		},
-		"raw": {
+		"href": {
 			"type": "string"
 		},
-		"href": {
+		"raw": {
 			"type": "string"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "raw", "href"]
+	"required": ["$type", "raw", "href"],
+	"title": "Link",
+	"type": "object"
 }

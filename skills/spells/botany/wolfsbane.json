@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "botany/wolfsbane",
-	"requirements": {
-		"skill": 4880,
-		"mana": 976
-	},
 	"duration": "PT50M",
 	"effects": {
 		"summon-item": {
 			"item": "wolfsbane"
 		}
+	},
+	"id": "botany/wolfsbane",
+	"requirements": {
+		"mana": 976,
+		"skill": 4880
 	}
 }

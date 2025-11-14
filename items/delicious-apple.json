@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"expansion": "the-afterlife",
 	"id": "delicious-apple",
 	"image": "6171",
-	"type": "food",
-	"expansion": "the-afterlife",
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 1
-	}
+	},
+	"type": "food"
 }

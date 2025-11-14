@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dragons-of-the-east",
 	"id": "sky-blue-dragon-potion",
 	"image": "5866",
-	"type": "dragon-food-items",
-	"expansion": "dragons-of-the-east",
 	"material": "gem",
 	"properties": {
 		"MANA": 1.5
-	}
+	},
+	"type": "dragon-food-items"
 }

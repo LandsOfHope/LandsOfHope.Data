@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "dark-yellow-potion",
 	"image": "pdy",
-	"type": "magic-potion-other",
 	"material": "gem",
 	"properties": {
 		"STAMINA": 1
-	}
+	},
+	"type": "magic-potion-other"
 }

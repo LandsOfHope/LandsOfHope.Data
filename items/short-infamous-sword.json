@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 82,
 	"id": "short-infamous-sword",
 	"image": "sw1",
-	"type": "1-handed-equipment",
-	"dpr": 82,
 	"material": "metal",
 	"skill": "swords",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

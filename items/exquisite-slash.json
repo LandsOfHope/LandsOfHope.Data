@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 140,
 	"id": "exquisite-slash",
 	"image": "6628",
-	"type": "1-handed-equipment",
-	"dpr": 140,
 	"material": "metal",
-	"skill": "daggers",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "daggers",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "1-handed-equipment"
 }

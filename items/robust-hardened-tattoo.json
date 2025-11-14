@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "robust-hardened-tattoo",
 	"image": "tattoo5",
-	"type": "arm-armour",
 	"material": "gem",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "hellscar-legion",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "arm-armour"
 }

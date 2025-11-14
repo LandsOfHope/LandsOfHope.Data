@@ -1,13 +1,8 @@
 {
 	"$type": "/v1/items/set",
+	"color": "green",
 	"id": "cow-costume",
 	"image": "na.gif",
-	"color": "green",
-	"spells": {
-		"0": {
-			"0": "cow-costume-disguise"
-		}
-	},
 	"items": [
 		"cow-costume-gloves",
 		"cow-costume-trousers",
@@ -15,5 +10,10 @@
 		"cow-costume-boots",
 		"cow-costume-head",
 		"cow-costume-belt"
-	]
+	],
+	"spells": {
+		"0": {
+			"0": "cow-costume-disguise"
+		}
+	}
 }

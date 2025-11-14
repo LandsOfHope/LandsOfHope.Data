@@ -1,15 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "evolved-spirit",
-	"name": {
-		"en": "Evolved Spirit"
-	},
 	"desc": {
 		"en": "Teaches you how to evolve."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "evolved-spirit",
+	"name": {
+		"en": "Evolved Spirit"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -17,5 +13,9 @@
 		"MAXHITPOINTS": 4,
 		"MAXMANA": 3,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

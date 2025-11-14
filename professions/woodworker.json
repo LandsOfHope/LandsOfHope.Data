@@ -1,19 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "woodworker",
-	"name": {
-		"en": "Woodworker"
-	},
 	"desc": {
 		"en": "Woodworkers are experts at Carpentry and Woodworking. They rely on there excellent skills to manufacture wooden objects such as Shields and wooden weapons."
 	},
-	"skills": {
-		"carpentry": 5,
-		"construction": 5,
-		"deconstruction": 5,
-		"lumberjacking": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "woodworker",
+	"name": {
+		"en": "Woodworker"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -21,5 +13,13 @@
 		"MAXMANA": 2,
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"carpentry": 5,
+		"construction": 5,
+		"deconstruction": 5,
+		"lumberjacking": 5
 	}
 }

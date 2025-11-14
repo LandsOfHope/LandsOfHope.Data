@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "corruptor",
 	"image": "gmcocu",
-	"type": "bonus-slot",
 	"material": "gem",
-	"skills": {
-		"damage-absorption": 1,
-		"armor": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"skills": {
+		"armor": 1,
+		"damage-absorption": 1
+	},
+	"type": "bonus-slot"
 }

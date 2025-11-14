@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "dragon-boned-legs",
-	"image": "5808",
-	"type": "leg-armour",
 	"armorType": "plate",
 	"expansion": "dragons-of-the-east",
+	"id": "dragon-boned-legs",
+	"image": "5808",
 	"material": "hide",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skills": {
+		"armor": 1
+	},
+	"type": "leg-armour"
 }

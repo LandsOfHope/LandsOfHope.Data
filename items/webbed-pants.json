@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "webbed-pants",
 	"image": "2085",
-	"type": "leg-armour",
-	"armorType": "cloth",
 	"material": "spider",
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 1
-	}
+	},
+	"type": "leg-armour"
 }

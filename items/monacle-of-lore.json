@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "monacle-of-lore",
 	"image": "zumolo",
-	"type": "lore-item",
 	"material": "gem",
 	"properties": {
 		"MANA": 1,
 		"MAXMANA": 1
-	}
+	},
+	"type": "lore-item"
 }

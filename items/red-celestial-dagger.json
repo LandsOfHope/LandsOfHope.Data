@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "red-celestial-dagger",
 	"image": "5985",
-	"type": "1-handed-equipment",
-	"dpr": 2,
 	"material": "metal",
 	"skill": "celestial-weapons",
 	"skills": {
-		"health-regen": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"health-regen": 1
+	},
+	"type": "1-handed-equipment"
 }

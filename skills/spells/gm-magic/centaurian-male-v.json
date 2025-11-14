@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/centaurian-male-v",
-	"requirements": {
-		"skill": 925,
-		"mana": 925
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"SPEED": 463
 		}
+	},
+	"id": "gm-magic/centaurian-male-v",
+	"requirements": {
+		"mana": 925,
+		"skill": 925
 	}
 }

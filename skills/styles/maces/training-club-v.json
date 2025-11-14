@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 79
+	},
 	"id": "maces/training-club-v",
 	"requirements": {
 		"skill": 151,
 		"stamina": 150
-	},
-	"effects": {
-		"damage": 79
 	}
 }

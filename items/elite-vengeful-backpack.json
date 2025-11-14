@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "elite-vengeful-backpack",
 	"image": "5954",
-	"type": "bag",
 	"material": "cloth",
 	"skills": {
-		"stealth": 1.2,
-		"detect-hidden": 0.5
-	}
+		"detect-hidden": 0.5,
+		"stealth": 1.2
+	},
+	"type": "bag"
 }

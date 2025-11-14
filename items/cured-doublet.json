@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "cured-doublet",
 	"image": "2816",
-	"type": "chest-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "chest-armour"
 }

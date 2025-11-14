@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "spoon",
 	"image": "spn",
-	"type": "1-handed-equipment",
 	"material": "wood",
 	"skill": "cooking",
 	"skills": {
 		"cooking": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "ankylosaurus-shoulders",
-	"image": "5166",
-	"type": "shoulders",
 	"armorType": "mail",
 	"expansion": "jurassic-wars",
+	"id": "ankylosaurus-shoulders",
+	"image": "5166",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "spirit-magic/wolf-guide",
-	"requirements": {
-		"skill": 565,
-		"mana": 565
-	},
 	"duration": "PT30M",
 	"effects": {
 		"summon-pet": {
-			"race": "wolf",
-			"profession": "creature"
+			"profession": "creature",
+			"race": "wolf"
 		}
+	},
+	"id": "spirit-magic/wolf-guide",
+	"requirements": {
+		"mana": 565,
+		"skill": 565
 	}
 }

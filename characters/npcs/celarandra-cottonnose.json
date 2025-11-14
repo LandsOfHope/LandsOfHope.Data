@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "celarandra-cottonnose"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Celarandra Cottonnose",
-		"title": "cook",
 		"image": "elf",
 		"level": {
 			"primary": 350
 		},
+		"name": "Celarandra Cottonnose",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "cook"
 	}
 }

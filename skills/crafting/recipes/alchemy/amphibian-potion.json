@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "alchemy/amphibian-potion",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "amphibian-potion"
-	},
 	"image": "pe8",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "alchemy",
-	"skillValue": 50,
-	"quality": "uncommon",
 	"ingredients": [
 		{
 			"id": "empty-potion-bottle",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		},
 		{
 			"id": "mortar-and-pestle",
@@ -25,5 +16,14 @@
 			"id": "blue-crystal",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "amphibian-potion"
+	},
+	"quality": "uncommon",
+	"quantity": 1,
+	"skill": "alchemy",
+	"skillValue": 50,
+	"time": "PT15S"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "necromancy/bone-spear-i",
-	"requirements": {
-		"skill": 1040,
-		"mana": 1040
-	},
 	"effects": {
 		"damage": 743
+	},
+	"id": "necromancy/bone-spear-i",
+	"requirements": {
+		"mana": 1040,
+		"skill": 1040
 	}
 }

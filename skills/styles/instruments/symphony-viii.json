@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 2427
+	},
 	"id": "instruments/symphony-viii",
 	"requirements": {
 		"skill": 4846,
 		"stamina": 4846
-	},
-	"effects": {
-		"damage": 2427
 	}
 }

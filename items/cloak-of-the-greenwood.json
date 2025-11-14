@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "cloak-of-the-greenwood",
 	"image": "clg",
-	"type": "neck-clothing",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
 		"carpentry": 1
-	}
+	},
+	"type": "neck-clothing"
 }

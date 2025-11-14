@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "cragstone-leggings",
 	"image": "4726",
-	"type": "leg-armour",
-	"armorType": "mail",
 	"legendary": true,
-	"set": "cragstone-legend",
 	"material": "metal",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"SPEED": 1
-	}
+	},
+	"set": "cragstone-legend",
+	"skills": {
+		"armor": 1
+	},
+	"type": "leg-armour"
 }

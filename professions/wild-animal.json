@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "wild-animal",
-	"name": {
-		"en": "Wild Animal"
-	},
 	"desc": {
 		"en": "A animal  which has no set profession."
 	},
-	"skills": {
-		"first-aid": 5,
-		"fists": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "wild-animal",
+	"name": {
+		"en": "Wild Animal"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -19,5 +13,11 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"first-aid": 5,
+		"fists": 5
 	}
 }

@@ -1,36 +1,36 @@
 {
 	"$type": "/v1/profession",
-	"id": "devourer-of-magic",
-	"name": {
-		"en": "Devourer of Magic"
-	},
 	"desc": {
 		"en": "This ancient demon was born from the deepest parts of the Hell Plane. It feeds on magic, devouring the energies of those that it encounters."
 	},
-	"skills": {
-		"mystical-resistance": 3,
-		"hell-magic": 5,
-		"air-resistance": 3,
-		"drain-resistance": 3,
-		"mana-regen": 1,
-		"cold-resistance": 3,
-		"fire-resistance": 3,
-		"acid-resistance": 3,
-		"energy-resistance": 3,
-		"water-resistance": 3,
-		"poison-resistance": 3,
-		"poison-magic": 5,
-		"earth-resistance": 3,
-		"nature-resistance": 3,
-		"invoking-resistance": 3,
-		"debuff-resistance": 3,
-		"dark-magic": 5,
-		"arcane-resistance": 3
+	"id": "devourer-of-magic",
+	"name": {
+		"en": "Devourer of Magic"
 	},
 	"properties": {
 		"INTELLIGENCE": 7,
 		"MAXHITPOINTS": 16,
 		"MAXMANA": 9,
 		"SPEED": 3
+	},
+	"skills": {
+		"acid-resistance": 3,
+		"air-resistance": 3,
+		"arcane-resistance": 3,
+		"cold-resistance": 3,
+		"dark-magic": 5,
+		"debuff-resistance": 3,
+		"drain-resistance": 3,
+		"earth-resistance": 3,
+		"energy-resistance": 3,
+		"fire-resistance": 3,
+		"hell-magic": 5,
+		"invoking-resistance": 3,
+		"mana-regen": 1,
+		"mystical-resistance": 3,
+		"nature-resistance": 3,
+		"poison-magic": 5,
+		"poison-resistance": 3,
+		"water-resistance": 3
 	}
 }

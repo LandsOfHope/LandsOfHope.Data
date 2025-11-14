@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "deladrielith-bulletcrafter"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Deladrielith Bulletcrafter",
-		"title": "tinkerer",
 		"image": "elf",
 		"level": {
 			"primary": 650
 		},
+		"name": "Deladrielith Bulletcrafter",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "tinkerer"
 	}
 }

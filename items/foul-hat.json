@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "foul-hat",
 	"image": "1813",
-	"type": "head-armour",
-	"armorType": "cloth",
 	"material": "hide",
 	"skills": {
-		"poison-resistance": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"poison-resistance": 1
+	},
+	"type": "head-armour"
 }

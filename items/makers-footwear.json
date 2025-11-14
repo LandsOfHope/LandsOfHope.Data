@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "makers-footwear",
 	"image": "6392",
-	"type": "foot-armour",
 	"legendary": true,
-	"set": "makers-set",
 	"material": "hide",
-	"skill": "artisan"
+	"set": "makers-set",
+	"skill": "artisan",
+	"type": "foot-armour"
 }

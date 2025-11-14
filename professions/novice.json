@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/profession",
-	"id": "novice",
-	"name": {
-		"en": "Novice"
-	},
 	"desc": {
 		"en": "The Novice is a Tier I evolution from the Apprentice  Profession."
 	},
-	"skills": {
-		"construction": 5
+	"evo": {
+		"adept": 350
+	},
+	"id": "novice",
+	"name": {
+		"en": "Novice"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -18,7 +18,7 @@
 		"MAXSTAMINA": 1,
 		"SPEED": 1
 	},
-	"evo": {
-		"adept": 350
+	"skills": {
+		"construction": 5
 	}
 }

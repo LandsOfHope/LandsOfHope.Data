@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "shaped-pendant",
 	"image": "am2",
-	"type": "neck",
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1
-	}
+	},
+	"type": "neck"
 }

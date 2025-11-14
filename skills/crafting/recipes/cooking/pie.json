@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "cooking/pie",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "pie"
-	},
 	"image": "ap1",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "cooking",
-	"skillValue": 3000,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "bowl",
@@ -22,8 +13,17 @@
 		},
 		{
 			"id": "fruit",
-			"quantity": 5,
-			"primary": true
+			"primary": true,
+			"quantity": 5
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "pie"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "cooking",
+	"skillValue": 3000,
+	"time": "PT15S"
 }

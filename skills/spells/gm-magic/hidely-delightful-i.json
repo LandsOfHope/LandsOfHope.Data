@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/hidely-delightful-i",
-	"requirements": {
-		"skill": 50,
-		"level": 101,
-		"mana": 1
-	},
 	"duration": "PT301M",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 120
 		}
+	},
+	"id": "gm-magic/hidely-delightful-i",
+	"requirements": {
+		"level": 101,
+		"mana": 1,
+		"skill": 50
 	}
 }

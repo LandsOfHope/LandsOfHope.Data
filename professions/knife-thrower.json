@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "knife-thrower",
-	"name": {
-		"en": "Knife Thrower"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"frenzy": 5,
-		"thrown-weapons": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "knife-thrower",
+	"name": {
+		"en": "Knife Thrower"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -19,5 +13,11 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 1,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"frenzy": 5,
+		"thrown-weapons": 5
 	}
 }

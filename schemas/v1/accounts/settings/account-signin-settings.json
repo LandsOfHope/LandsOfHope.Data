@@ -1,18 +1,18 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/accounts/settings/account-signin-settings.json",
-	"title": "AccountSignInSettings",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/accounts/settings/account-signin-settings"
 		},
-		"username": {
-			"type": "string"
-		},
 		"email": {
 			"$ref": "/schemas/v1/email-address.json"
+		},
+		"username": {
+			"type": "string"
 		}
 	},
-	"required": ["$type", "username", "email"]
+	"required": ["$type", "username", "email"],
+	"title": "AccountSignInSettings",
+	"type": "object"
 }

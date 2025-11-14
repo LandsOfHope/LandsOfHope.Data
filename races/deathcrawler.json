@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Deathcrawler"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Deathcrawler"
+	},
 	"pics": {
-		"M": ["mjpmdc"],
-		"F": ["mjpfdc"]
+		"F": ["mjpfdc"],
+		"M": ["mjpmdc"]
 	}
 }

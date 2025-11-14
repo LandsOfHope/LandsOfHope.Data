@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "stocky-augment",
 	"image": "6821",
-	"type": "augment",
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "augment"
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 22,
 	"id": "hunters-mace",
 	"image": "bm",
-	"type": "1-handed-equipment",
-	"dpr": 22,
 	"material": "metal",
 	"skill": "maces",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

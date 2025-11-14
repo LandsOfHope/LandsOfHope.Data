@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Shadow Drow"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Shadow Drow"
+	},
 	"pics": {
-		"M": ["mjpshdm"],
-		"F": ["mjpshdf"]
+		"F": ["mjpshdf"],
+		"M": ["mjpshdm"]
 	}
 }

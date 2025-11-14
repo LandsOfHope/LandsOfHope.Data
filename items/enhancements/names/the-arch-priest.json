@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/items/enhancements/item-name",
-	"id": "names/the-arch-priest",
 	"effects": {
+		"properties": {
+			"INTELLIGENCE": 0.4
+		},
 		"skills": {
 			"blessing": 0.4,
 			"surgery": 0.4
-		},
-		"properties": {
-			"INTELLIGENCE": 0.4
 		}
-	}
+	},
+	"id": "names/the-arch-priest"
 }

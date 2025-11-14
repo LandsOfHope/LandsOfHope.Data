@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 10,
 	"id": "lightning-hands",
 	"image": "6332",
-	"type": "2-handed-equipment",
-	"dpr": 10,
 	"material": "metal",
 	"skill": "martial-arts",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

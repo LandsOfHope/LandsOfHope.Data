@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "blacksmithing/slayers-hand",
+	"image": "1691",
+	"ingredients": [
+		{
+			"id": "ingot",
+			"primary": true,
+			"quantity": 2
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-item",
 		"item": "slayers-hand"
 	},
-	"image": "1691",
-	"time": "PT15S",
+	"quality": "uncommon",
 	"quantity": 1,
 	"skill": "blacksmithing",
 	"skillValue": 250,
-	"quality": "uncommon",
-	"ingredients": [
-		{
-			"id": "ingot",
-			"quantity": 2,
-			"primary": true
-		}
-	]
+	"time": "PT15S"
 }

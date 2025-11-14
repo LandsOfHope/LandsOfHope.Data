@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "blacksmithing/chestplate",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "chestplate"
-	},
 	"image": "cp2",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "blacksmithing",
-	"skillValue": 300,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 20,
-			"primary": true
+			"primary": true,
+			"quantity": 20
 		},
 		{
 			"id": "rivet",
@@ -25,5 +16,14 @@
 			"id": "lining",
 			"quantity": 4
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "chestplate"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "blacksmithing",
+	"skillValue": 300,
+	"time": "PT15S"
 }

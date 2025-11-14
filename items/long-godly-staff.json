@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 94,
 	"id": "long-godly-staff",
 	"image": "sf",
-	"type": "2-handed-equipment",
-	"dpr": 94,
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

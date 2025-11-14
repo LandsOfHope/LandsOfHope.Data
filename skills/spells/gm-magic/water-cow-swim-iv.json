@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/water-cow-swim-iv",
-	"requirements": {
-		"skill": 918,
-		"mana": 918
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"water-survival": 460
 		}
+	},
+	"id": "gm-magic/water-cow-swim-iv",
+	"requirements": {
+		"mana": 918,
+		"skill": 918
 	}
 }

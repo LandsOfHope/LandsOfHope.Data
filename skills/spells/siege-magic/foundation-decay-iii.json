@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "siege-magic/foundation-decay-iii",
-	"requirements": {
-		"skill": 3100,
-		"mana": 1000
-	},
 	"effects": {
 		"damage": 1000
+	},
+	"id": "siege-magic/foundation-decay-iii",
+	"requirements": {
+		"mana": 1000,
+		"skill": 3100
 	}
 }

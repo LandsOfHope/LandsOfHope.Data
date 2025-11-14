@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 7,
 	"id": "weak-lava-potion",
 	"image": "pe5",
-	"type": "ammo-weapons-potions",
-	"dpr": 7,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-potions"
 }

@@ -1,23 +1,23 @@
 {
 	"$type": "/v1/profession",
-	"id": "island-creature",
-	"name": {
-		"en": "Island Creature"
-	},
 	"desc": {
 		"en": "Found in the Pirate Expansion."
 	},
-	"skills": {
-		"frenzy": 5,
-		"fists": 5,
-		"h2h-defense": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "island-creature",
+	"name": {
+		"en": "Island Creature"
 	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 3,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fists": 5,
+		"frenzy": 5,
+		"h2h-defense": 5
 	}
 }

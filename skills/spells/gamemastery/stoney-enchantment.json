@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
+	"effects": {
+		"damage": 420
+	},
 	"id": "gamemastery/stoney-enchantment",
 	"requirements": {
 		"level": 841,
 		"mana": 1
-	},
-	"effects": {
-		"damage": 420
 	}
 }

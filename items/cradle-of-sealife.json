@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "cradle-of-sealife",
 	"image": "zucrse",
-	"type": "bag",
 	"material": "cloth",
 	"skills": {
 		"water-resistance": 1
-	}
+	},
+	"type": "bag"
 }

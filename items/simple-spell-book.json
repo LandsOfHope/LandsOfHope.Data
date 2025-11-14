@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "simple-spell-book",
 	"image": "bk2",
-	"type": "training-aid-spells",
-	"material": "hide"
+	"material": "hide",
+	"type": "training-aid-spells"
 }

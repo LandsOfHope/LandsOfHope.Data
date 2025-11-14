@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "balista-ammo",
 	"image": "ss6",
-	"type": "balista-ammo",
 	"material": "wood",
-	"skill": "siege-weapons"
+	"skill": "siege-weapons",
+	"type": "balista-ammo"
 }

@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "longtooth-gloves",
 	"image": "3195",
-	"type": "hand-armour",
-	"armorType": "leather",
 	"legendary": true,
-	"set": "longtooth-legend",
 	"material": "hide",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"SPEED": 1
-	}
+	},
+	"set": "longtooth-legend",
+	"skills": {
+		"armor": 1
+	},
+	"type": "hand-armour"
 }

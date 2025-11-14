@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/sithanu-male-i",
-	"requirements": {
-		"skill": 64,
-		"mana": 64
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"skills": {
 			"attack-power": 33
 		}
+	},
+	"id": "gm-magic/sithanu-male-i",
+	"requirements": {
+		"mana": 64,
+		"skill": 64
 	}
 }

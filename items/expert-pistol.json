@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 3,
 	"id": "expert-pistol",
 	"image": "pl1",
-	"type": "1-handed-equipment",
-	"dpr": 3,
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "earth-magic/earthen-shower-xii",
-	"requirements": {
-		"skill": 1786,
-		"mana": 1786
-	},
 	"effects": {
 		"damage": 1265
+	},
+	"id": "earth-magic/earthen-shower-xii",
+	"requirements": {
+		"mana": 1786,
+		"skill": 1786
 	}
 }

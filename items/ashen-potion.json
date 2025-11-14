@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 34,
 	"id": "ashen-potion",
 	"image": "pe5",
-	"type": "ammo-weapons-potions",
-	"dpr": 34,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-potions"
 }

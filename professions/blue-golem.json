@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "Blue Golem Pet Class"
+	},
 	"id": "blue-golem",
 	"name": {
 		"en": "Blue Golem"
 	},
-	"desc": {
-		"en": "Blue Golem Pet Class"
-	},
-	"skills": {
-		"mana-draining": 5,
-		"maces": 5,
-		"fists": 5,
-		"shields": 5,
-		"armor": 5,
-		"attack-power": 5
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fists": 5,
+		"maces": 5,
+		"mana-draining": 5,
+		"shields": 5
 	}
 }

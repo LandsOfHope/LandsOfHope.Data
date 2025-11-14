@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "gamemaster",
-	"name": {
-		"en": "Gamemaster"
-	},
 	"desc": {
 		"en": "One who controls the world."
 	},
-	"skills": {
-		"daggers": 5,
-		"fists": 5,
-		"gamemastery": 5,
-		"gm-magic": 5
+	"id": "gamemaster",
+	"name": {
+		"en": "Gamemaster"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -21,5 +15,11 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"daggers": 5,
+		"fists": 5,
+		"gamemastery": 5,
+		"gm-magic": 5
 	}
 }

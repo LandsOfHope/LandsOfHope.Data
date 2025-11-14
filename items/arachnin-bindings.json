@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "arachnin-bindings",
-	"image": "5142",
-	"type": "shoulders",
 	"armorType": "cloth",
 	"expansion": "jurassic-wars",
+	"id": "arachnin-bindings",
+	"image": "5142",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

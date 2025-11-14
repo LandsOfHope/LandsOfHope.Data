@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tinkering/tomahawk",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "tomahawk"
-	},
 	"image": "ax7",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "tinkering",
-	"skillValue": 325,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 8,
-			"primary": true
+			"primary": true,
+			"quantity": 8
 		},
 		{
 			"id": "tinker-tools",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "tomahawk"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "tinkering",
+	"skillValue": 325,
+	"time": "PT15S"
 }

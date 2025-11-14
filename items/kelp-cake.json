@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "kelp-cake",
 	"image": "gmkeca",
-	"type": "magic-vial",
-	"expansion": "uncharted-waters",
 	"material": "color",
 	"properties": {
 		"HITPOINTS": 1,
 		"STAMINA": 1
-	}
+	},
+	"type": "magic-vial"
 }

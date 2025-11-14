@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 72,
 	"id": "deadly-fists",
 	"image": "ft2",
-	"type": "1-handed-equipment",
-	"dpr": 72,
 	"material": "metal",
 	"skill": "fists",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

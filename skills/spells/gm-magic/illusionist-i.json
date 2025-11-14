@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/illusionist-i",
-	"requirements": {
-		"skill": 163,
-		"mana": 163
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"defensive-magic": 82
 		}
+	},
+	"id": "gm-magic/illusionist-i",
+	"requirements": {
+		"mana": 163,
+		"skill": 163
 	}
 }

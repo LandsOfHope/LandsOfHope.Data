@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "elegant-shirt",
 	"image": "1841",
-	"type": "chest-armour",
-	"armorType": "cloth",
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "chest-armour"
 }

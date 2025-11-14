@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "energy-magic/powersurge-vii",
-	"requirements": {
-		"skill": 1701,
-		"mana": 1701
-	},
 	"effects": {
 		"damage": 1205
+	},
+	"id": "energy-magic/powersurge-vii",
+	"requirements": {
+		"mana": 1701,
+		"skill": 1701
 	}
 }

@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Bone Dragon"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Bone Dragon"
+	},
 	"pics": {
-		"M": ["bdm"],
-		"F": ["bdf"]
+		"F": ["bdf"],
+		"M": ["bdm"]
 	}
 }

@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "brickyard",
 	"image": "ro",
-	"type": "resource-harvester",
-	"material": "stone"
+	"material": "stone",
+	"type": "resource-harvester"
 }

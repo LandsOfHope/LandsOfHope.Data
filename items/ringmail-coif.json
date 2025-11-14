@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "ringmail-coif",
 	"image": "ccs",
-	"type": "head-armour",
-	"armorType": "mail",
 	"material": "metal",
+	"properties": {
+		"SPEED": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "head-armour"
 }

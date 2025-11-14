@@ -1,15 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "hunt-master",
-	"name": {
-		"en": "Hunt Master"
-	},
 	"desc": {
 		"en": "Someone who hides items and makes people hunt for them."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "hunt-master",
+	"name": {
+		"en": "Hunt Master"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -19,5 +15,9 @@
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

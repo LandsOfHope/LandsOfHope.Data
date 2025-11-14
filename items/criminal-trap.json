@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "criminal-trap",
 	"image": "cs1",
-	"type": "trap",
 	"material": "wood",
-	"skill": "traps"
+	"skill": "traps",
+	"type": "trap"
 }

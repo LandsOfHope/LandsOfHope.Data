@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-rifle",
 	"image": "re1",
-	"type": "2-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "metal",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"SPEED": 1
+	},
 	"skill": "two-handed-guns",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1,
-		"SPEED": 1
-	}
+	"type": "2-handed-equipment"
 }

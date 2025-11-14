@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 22,
 	"id": "hunters-knuckle-duster",
 	"image": "nft",
-	"type": "1-handed-equipment",
-	"dpr": 22,
 	"material": "metal",
 	"skill": "fists",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

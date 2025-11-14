@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/barbarian-iv",
-	"requirements": {
-		"skill": 610,
-		"mana": 610
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"two-handed-maces": 306
 		}
+	},
+	"id": "gm-magic/barbarian-iv",
+	"requirements": {
+		"mana": 610,
+		"skill": 610
 	}
 }

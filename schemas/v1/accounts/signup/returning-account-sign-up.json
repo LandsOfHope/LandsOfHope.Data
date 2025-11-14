@@ -1,24 +1,24 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/accounts/signup/returning-account-sign-up.json",
-	"title": "ReturningAccountSignUp",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/accounts/signup/returning-account-sign-up"
 		},
-		"signup": {
-			"$ref": "/schemas/v1/accounts/signup/account-sign-up.json"
+		"originalEmail": {
+			"$ref": "/schemas/v1/email-address.json"
 		},
 		"originalUsername": {
 			"type": "string"
 		},
-		"originalEmail": {
-			"$ref": "/schemas/v1/email-address.json"
+		"signup": {
+			"$ref": "/schemas/v1/accounts/signup/account-sign-up.json"
 		},
 		"token": {
 			"$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
 		}
 	},
-	"required": ["$type", "signup", "token", "originalUsername", "originalEmail"]
+	"required": ["$type", "signup", "token", "originalUsername", "originalEmail"],
+	"title": "ReturningAccountSignUp",
+	"type": "object"
 }

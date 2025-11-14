@@ -1,23 +1,23 @@
 {
 	"$type": "/v1/profession",
-	"id": "powerseeker",
-	"name": {
-		"en": "Powerseeker"
-	},
 	"desc": {
 		"en": "Those that seek ultimate control over magic often turn towards this profession."
 	},
-	"skills": {
-		"mystical-magic": 5,
-		"fire-survival": 5,
-		"mana-draining": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "powerseeker",
+	"name": {
+		"en": "Powerseeker"
 	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 3,
 		"SPEED": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fire-survival": 5,
+		"mana-draining": 5,
+		"mystical-magic": 5
 	}
 }

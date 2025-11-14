@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 4,
 	"id": "full-moon-axe",
 	"image": "fefuax",
-	"type": "2-handed-equipment",
-	"dpr": 4,
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {
-		"two-handed-axes": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"two-handed-axes": 1
+	},
+	"type": "2-handed-equipment"
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "elegant-headpiece",
 	"image": "1839",
-	"type": "forehead",
-	"armorType": "cloth",
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "forehead"
 }

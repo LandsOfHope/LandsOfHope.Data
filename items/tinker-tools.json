@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "tinker-tools",
 	"image": "blr",
-	"type": "1-handed-equipment",
 	"material": "metal",
 	"skill": "tinkering",
 	"skills": {
 		"tinkering": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

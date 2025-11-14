@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "ring-of-capturing",
 	"image": "ring20",
-	"type": "ring",
 	"material": "metal",
 	"skills": {
+		"track-beasts": 1,
 		"track-humanoids": 1,
-		"track-items": 1,
-		"track-beasts": 1
-	}
+		"track-items": 1
+	},
+	"type": "ring"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 439
+	},
 	"id": "heavy-munitions/shell-vi",
 	"requirements": {
 		"skill": 871,
 		"stamina": 870
-	},
-	"effects": {
-		"damage": 439
 	}
 }

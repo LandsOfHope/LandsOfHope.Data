@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "grabthars-hammer",
 	"image": "sle",
-	"type": "special-slot",
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "special-slot"
 }

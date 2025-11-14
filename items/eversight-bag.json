@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "eversight-bag",
 	"image": "esb1",
-	"type": "bag",
 	"material": "cloth",
 	"skills": {
 		"detect-hidden": 1
-	}
+	},
+	"type": "bag"
 }

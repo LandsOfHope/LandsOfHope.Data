@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 11,
 	"id": "club-of-might",
 	"image": "clm",
-	"type": "2-handed-equipment",
-	"dpr": 11,
 	"material": "metal",
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"STRENGTH": 1
+	},
 	"skill": "two-handed-maces",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1,
-		"STRENGTH": 1
-	}
+	"type": "2-handed-equipment"
 }

@@ -1,10 +1,10 @@
 {
 	"$type": "/v1/items/enhancements/item-name",
-	"id": "names/knowledge",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 0.4,
 			"MAXHITPOINTS": 0.4
 		}
-	}
+	},
+	"id": "names/knowledge"
 }

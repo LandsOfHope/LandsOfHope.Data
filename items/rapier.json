@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "rapier",
-	"image": "zurari",
-	"type": "1-handed-equipment",
 	"dpr": 2,
 	"expansion": "uncharted-waters",
+	"id": "rapier",
+	"image": "zurari",
 	"material": "metal",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skill": "daggers",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "1-handed-equipment"
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "twined-chestplate",
 	"image": "l3",
-	"type": "chest-armour",
-	"armorType": "leather",
 	"material": "hide",
-	"skills": {
-		"h2h-defense": 1,
-		"armor": 1
-	},
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"skills": {
+		"armor": 1,
+		"h2h-defense": 1
+	},
+	"type": "chest-armour"
 }

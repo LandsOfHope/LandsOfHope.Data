@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "small-shell",
 	"image": "2423",
-	"type": "golem-parts",
 	"material": "stone",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "golem-parts"
 }

@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "vigors-aura",
 	"image": "6180",
-	"type": "aura",
 	"material": "gem",
+	"properties": {
+		"MAXSTAMINA": 2
+	},
 	"skills": {
 		"stamina-regen": 0.5
 	},
-	"properties": {
-		"MAXSTAMINA": 2
-	}
+	"type": "aura"
 }

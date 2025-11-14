@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-user-redemption-char-item.json",
-	"title": "CreditHistoryUserRedemptionCharItem",
-	"type": "object",
 	"allOf": [
 		{
 			"$ref": "/schemas/v1/payments/credits/credit-history.json"
@@ -30,5 +28,7 @@
 		"itemExtraId",
 		"itemId",
 		"itemQuantity"
-	]
+	],
+	"title": "CreditHistoryUserRedemptionCharItem",
+	"type": "object"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1024
+	},
 	"id": "celestial-weapons/enhanced-star-strike-v",
 	"requirements": {
 		"skill": 2041,
 		"stamina": 2040
-	},
-	"effects": {
-		"damage": 1024
 	}
 }

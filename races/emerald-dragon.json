@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Emerald Dragon"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Emerald Dragon"
+	},
 	"pics": {
-		"M": ["emedragonm"],
-		"F": ["emedragonf"]
+		"F": ["emedragonf"],
+		"M": ["emedragonm"]
 	}
 }

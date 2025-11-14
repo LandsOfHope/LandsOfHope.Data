@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "blessed-tenth-headdress",
 	"image": "ta1",
-	"type": "head-armour",
-	"armorType": "cloth",
-	"set": "blessed-tenth",
 	"material": "cloth",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXMANA": 1
-	}
+	},
+	"set": "blessed-tenth",
+	"skills": {
+		"armor": 1
+	},
+	"type": "head-armour"
 }

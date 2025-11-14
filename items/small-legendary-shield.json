@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "small-legendary-shield",
 	"image": "sd7",
-	"type": "1-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "wood",
-	"skill": "shields",
-	"skills": {
-		"bladed-defense": 1,
-		"armor": 1
-	},
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"skill": "shields",
+	"skills": {
+		"armor": 1,
+		"bladed-defense": 1
+	},
+	"type": "1-handed-equipment"
 }

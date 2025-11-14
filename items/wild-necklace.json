@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "wild-necklace",
 	"image": "6038",
-	"type": "neck",
-	"armorType": "cloth",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"track-beasts": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "neck"
 }

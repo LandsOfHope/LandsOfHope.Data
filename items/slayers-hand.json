@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 7,
 	"id": "slayers-hand",
 	"image": "1691",
-	"type": "1-handed-equipment",
-	"dpr": 7,
 	"material": "metal",
-	"skill": "fists",
-	"skills": {
-		"energy-resistance": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"MAXMANA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "fists",
+	"skills": {
+		"attack-power": 1,
+		"energy-resistance": 1
+	},
+	"type": "1-handed-equipment"
 }

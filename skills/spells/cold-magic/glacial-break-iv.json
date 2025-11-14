@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "cold-magic/glacial-break-iv",
-	"requirements": {
-		"skill": 4591,
-		"mana": 4591
-	},
 	"effects": {
 		"damage": 3228
+	},
+	"id": "cold-magic/glacial-break-iv",
+	"requirements": {
+		"mana": 4591,
+		"skill": 4591
 	}
 }

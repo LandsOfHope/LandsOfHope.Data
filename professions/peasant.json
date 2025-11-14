@@ -1,15 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "peasant",
-	"name": {
-		"en": "Peasant"
-	},
 	"desc": {
 		"en": "The mark of a thievery attempt."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "peasant",
+	"name": {
+		"en": "Peasant"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -17,5 +13,9 @@
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "furnishing/storage-chest",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "storage-chest"
-	},
 	"image": "sc1",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "furnishing",
-	"skillValue": 5,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "plank",
-			"quantity": 9,
-			"primary": true
+			"primary": true,
+			"quantity": 9
 		},
 		{
 			"id": "furnishing-tool",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "storage-chest"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "furnishing",
+	"skillValue": 5,
+	"time": "PT15S"
 }

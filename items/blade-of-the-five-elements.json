@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 140,
 	"id": "blade-of-the-five-elements",
 	"image": "6730",
-	"type": "2-handed-equipment",
-	"dpr": 140,
 	"material": "metal",
-	"skill": "two-handed-swords",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "two-handed-swords",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "2-handed-equipment"
 }

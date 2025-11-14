@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "frankensteins-foot",
 	"image": "6350",
-	"type": "foot-armour",
-	"armorType": "cloth",
-	"set": "frankenstein-set",
 	"material": "hide",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"SPEED": 1
-	}
+	},
+	"set": "frankenstein-set",
+	"skills": {
+		"armor": 1
+	},
+	"type": "foot-armour"
 }

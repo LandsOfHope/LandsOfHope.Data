@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 45,
 	"id": "blazing-dart",
 	"image": "drt",
-	"type": "ammo-weapons-darts",
-	"dpr": 45,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-darts"
 }

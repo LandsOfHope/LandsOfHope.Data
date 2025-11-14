@@ -1,5 +1,3 @@
-"use strict";
-
 const fs = require("fs");
 const path = require("path");
 
@@ -57,7 +55,7 @@ directories.forEach((dir) => {
 	const isGlob = dir.endsWith("*");
 	const parentDir = isGlob ? path.dirname(dir) : dir;
 
-	let all_content = [];
+	const all_content = [];
 	let all_inline_content = {};
 
 	if (isGlob) {

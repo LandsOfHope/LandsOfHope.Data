@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "fire-magic/evaporation-xii",
-	"requirements": {
-		"skill": 901,
-		"mana": 901
-	},
 	"duration": "PT180M",
 	"effects": {
 		"skills": {
 			"fire-resistance": -449
 		}
+	},
+	"id": "fire-magic/evaporation-xii",
+	"requirements": {
+		"mana": 901,
+		"skill": 901
 	}
 }

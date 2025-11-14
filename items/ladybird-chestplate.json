@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "ladybird-chestplate",
-	"image": "5169",
-	"type": "chest-armour",
 	"armorType": "plate",
 	"expansion": "jurassic-wars",
+	"id": "ladybird-chestplate",
+	"image": "5169",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "chest-armour"
 }

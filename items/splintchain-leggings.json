@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "splintchain-leggings",
 	"image": "cls",
-	"type": "leg-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skills": {
+		"armor": 1,
 		"bladed-defense": 1,
-		"stringed-defense": 1,
-		"armor": 1
-	}
+		"stringed-defense": 1
+	},
+	"type": "leg-armour"
 }

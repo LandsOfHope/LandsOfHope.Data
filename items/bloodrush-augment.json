@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "bloodrush-augment",
 	"image": "6870",
-	"type": "augment",
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1.4,
 		"MAXSTAMINA": 0.65
-	}
+	},
+	"type": "augment"
 }

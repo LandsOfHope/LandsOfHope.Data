@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "lawmakers-ring",
 	"image": "6562",
-	"type": "ring",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"detect-hidden": 1,
 		"track-items": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "ring"
 }

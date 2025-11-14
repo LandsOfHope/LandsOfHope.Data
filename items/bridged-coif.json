@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "bridged-coif",
 	"image": "ccs",
-	"type": "head-armour",
-	"armorType": "mail",
 	"material": "metal",
+	"properties": {
+		"MAXMANA": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXMANA": 1
-	}
+	"type": "head-armour"
 }

@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "ring-of-metalworking",
 	"image": "rgh",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
 		"blacksmithing": 1,
 		"tinkering": 1
-	}
+	},
+	"type": "ring"
 }

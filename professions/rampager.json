@@ -1,23 +1,23 @@
 {
 	"$type": "/v1/profession",
-	"id": "rampager",
-	"name": {
-		"en": "Rampager"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"frenzy": 5,
-		"two-handed-axes": 5,
-		"two-handed-maces": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "rampager",
+	"name": {
+		"en": "Rampager"
 	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 2,
 		"MAXSTAMINA": 3,
 		"STRENGTH": 4
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"frenzy": 5,
+		"two-handed-axes": 5,
+		"two-handed-maces": 5
 	}
 }

@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 3,
 	"id": "fauchard",
 	"image": "fau",
-	"type": "2-handed-equipment",
-	"dpr": 3,
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {
-		"pole-weapons": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"pole-weapons": 1
+	},
+	"type": "2-handed-equipment"
 }

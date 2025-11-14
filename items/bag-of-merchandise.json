@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "bag-of-merchandise",
 	"image": "zuspba",
-	"type": "challenge-spawner",
-	"material": "cloth"
+	"material": "cloth",
+	"type": "challenge-spawner"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/blood-surge",
-	"requirements": {
-		"skill": 777,
-		"mana": 777
-	},
 	"duration": "PT300M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": 389
 		}
+	},
+	"id": "gamemastery/blood-surge",
+	"requirements": {
+		"mana": 777,
+		"skill": 777
 	}
 }

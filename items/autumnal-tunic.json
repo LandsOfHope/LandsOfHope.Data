@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "autumnal-tunic",
-	"image": "jwadv",
-	"type": "chest-armour",
 	"armorType": "leather",
 	"expansion": "jurassic-wars",
+	"id": "autumnal-tunic",
+	"image": "jwadv",
 	"material": "wood",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "chest-armour"
 }

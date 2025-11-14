@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 82,
 	"id": "orange-celestial-dagger",
 	"image": "6012",
-	"type": "1-handed-equipment",
-	"dpr": 82,
 	"material": "metal",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "celestial-weapons",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "1-handed-equipment"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "mystical-magic/greater-mana-charge-ix",
-	"requirements": {
-		"skill": 793,
-		"mana": 793
-	},
 	"duration": "PT310M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 397
 		}
+	},
+	"id": "mystical-magic/greater-mana-charge-ix",
+	"requirements": {
+		"mana": 793,
+		"skill": 793
 	}
 }

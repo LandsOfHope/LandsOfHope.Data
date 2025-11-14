@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "air-magic/tropical-storm-iii",
-	"requirements": {
-		"skill": 2801,
-		"mana": 2801
-	},
 	"duration": "PT1M",
 	"effects": {
 		"damage": 1975
+	},
+	"id": "air-magic/tropical-storm-iii",
+	"requirements": {
+		"mana": 2801,
+		"skill": 2801
 	}
 }

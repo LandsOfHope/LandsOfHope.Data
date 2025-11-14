@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "monacle-of-truesight",
 	"image": "mot",
-	"type": "glasses-shades",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skill": "track-and-capture-criminals",
 	"skills": {
 		"detect-hidden": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "glasses-shades"
 }

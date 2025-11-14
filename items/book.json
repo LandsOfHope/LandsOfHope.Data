@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "book",
 	"image": "bk4",
-	"type": "guild-book",
-	"material": "hide"
+	"material": "hide",
+	"type": "guild-book"
 }

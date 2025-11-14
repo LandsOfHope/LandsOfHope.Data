@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 67,
 	"id": "crying-potion",
 	"image": "pe5",
-	"type": "ammo-weapons-potions",
-	"dpr": 67,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-potions"
 }

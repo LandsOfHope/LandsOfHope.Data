@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/mount-mind-meld-v",
-	"requirements": {
-		"skill": 890,
-		"mana": 890
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 446
 		}
+	},
+	"id": "gm-magic/mount-mind-meld-v",
+	"requirements": {
+		"mana": 890,
+		"skill": 890
 	}
 }

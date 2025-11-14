@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "club",
 	"image": "cb",
-	"type": "2-handed-equipment",
-	"dpr": 2,
 	"material": "wood",
 	"skill": "two-handed-maces",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

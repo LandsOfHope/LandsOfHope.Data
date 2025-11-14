@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/pain-giver-i",
-	"requirements": {
-		"skill": 160,
-		"mana": 160
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 81
 		}
+	},
+	"id": "gm-magic/pain-giver-i",
+	"requirements": {
+		"mana": 160,
+		"skill": 160
 	}
 }

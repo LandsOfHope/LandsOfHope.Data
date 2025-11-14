@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "lalijan-splintmaker"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Lalijan Splintmaker",
-		"title": "blacksmith",
 		"image": "hum",
 		"level": {
 			"primary": 450
 		},
+		"name": "Lalijan Splintmaker",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "blacksmith"
 	}
 }

@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "medal-of-appreciation",
 	"image": "4653",
-	"type": "society-symbol",
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXSTAMINA": 1,
 		"SPEED": 1
-	}
+	},
+	"type": "society-symbol"
 }

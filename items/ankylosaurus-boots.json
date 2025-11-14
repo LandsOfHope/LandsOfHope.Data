@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "ankylosaurus-boots",
-	"image": "5165",
-	"type": "foot-armour",
 	"armorType": "mail",
 	"expansion": "jurassic-wars",
+	"id": "ankylosaurus-boots",
+	"image": "5165",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

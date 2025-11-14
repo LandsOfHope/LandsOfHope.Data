@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/drakish-male-v",
-	"requirements": {
-		"skill": 964,
-		"mana": 964
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"air-survival": 483
 		}
+	},
+	"id": "gm-magic/drakish-male-v",
+	"requirements": {
+		"mana": 964,
+		"skill": 964
 	}
 }

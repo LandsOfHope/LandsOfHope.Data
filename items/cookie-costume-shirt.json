@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "cookie-costume-shirt",
 	"image": "cmsit",
-	"type": "chest-armour",
-	"set": "cookie-costume",
 	"material": "hide",
+	"set": "cookie-costume",
 	"skill": "artisan",
 	"skills": {
 		"cooking": 1
-	}
+	},
+	"type": "chest-armour"
 }

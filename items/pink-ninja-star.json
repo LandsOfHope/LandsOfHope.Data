@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "pink-ninja-star",
-	"image": "6407",
-	"type": "ranged-weapon",
 	"dpr": 3,
 	"expansion": "dragons-of-the-east",
+	"id": "pink-ninja-star",
+	"image": "6407",
 	"material": "metal",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skill": "thrown-weapons",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "ranged-weapon"
 }

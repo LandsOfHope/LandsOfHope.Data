@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/change-into-a-hag",
-	"requirements": {
-		"skill": 898,
-		"mana": 898
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 450
 		}
+	},
+	"id": "gm-magic/change-into-a-hag",
+	"requirements": {
+		"mana": 898,
+		"skill": 898
 	}
 }

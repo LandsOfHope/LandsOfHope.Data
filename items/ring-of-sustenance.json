@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "ring-of-sustenance",
 	"image": "ring14",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
 		"cooking": 1,
 		"farming": 1,
 		"foraging": 1
-	}
+	},
+	"type": "ring"
 }

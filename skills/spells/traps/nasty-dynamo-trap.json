@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "traps/nasty-dynamo-trap",
-	"requirements": {
-		"skill": 1189,
-		"mana": 1189
-	},
 	"effects": {
 		"damage": 847
+	},
+	"id": "traps/nasty-dynamo-trap",
+	"requirements": {
+		"mana": 1189,
+		"skill": 1189
 	}
 }

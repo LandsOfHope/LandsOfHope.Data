@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "carpentry/shield-of-health",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "shield-of-health"
-	},
 	"image": "542",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "carpentry",
-	"skillValue": 100,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "plank",
-			"quantity": 6,
-			"primary": true
+			"primary": true,
+			"quantity": 6
 		},
 		{
 			"id": "carved-handle",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "shield-of-health"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "carpentry",
+	"skillValue": 100,
+	"time": "PT15S"
 }

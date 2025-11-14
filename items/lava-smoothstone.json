@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 3,
 	"id": "lava-smoothstone",
 	"image": "sms",
-	"type": "ammo-weapons-rocks",
-	"dpr": 3,
 	"material": "stone",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-rocks"
 }

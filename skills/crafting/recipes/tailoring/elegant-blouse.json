@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tailoring/elegant-blouse",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "elegant-blouse"
-	},
 	"image": "1842",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "tailoring",
-	"skillValue": 750,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "thread",
-			"quantity": 20,
-			"primary": true
+			"primary": true,
+			"quantity": 20
 		},
 		{
 			"id": "prepared-hide",
 			"quantity": 8
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "elegant-blouse"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "tailoring",
+	"skillValue": 750,
+	"time": "PT15S"
 }

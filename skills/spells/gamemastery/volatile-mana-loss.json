@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/volatile-mana-loss",
-	"requirements": {
-		"skill": 945,
-		"mana": 945
-	},
 	"duration": "PT105M",
 	"effects": {
 		"properties": {
 			"MAXMANA": -471
 		}
+	},
+	"id": "gamemastery/volatile-mana-loss",
+	"requirements": {
+		"mana": 945,
+		"skill": 945
 	}
 }

@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "scary-costume-gloves",
 	"image": "tgloves2",
-	"type": "hand-armour",
-	"set": "halloween-costume",
 	"material": "cloth",
+	"set": "halloween-costume",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "hand-armour"
 }

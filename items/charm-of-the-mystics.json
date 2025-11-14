@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "charm-of-the-mystics",
 	"image": "zuchmy",
-	"type": "wrist-jewelry",
 	"material": "wood",
 	"skills": {
 		"mystical-magic": 1
-	}
+	},
+	"type": "wrist-jewelry"
 }

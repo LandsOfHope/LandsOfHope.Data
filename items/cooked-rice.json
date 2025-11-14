@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "cooked-rice",
 	"image": "c1r",
-	"type": "food",
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1
-	}
+	},
+	"type": "food"
 }

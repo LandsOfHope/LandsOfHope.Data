@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/platypus-bill-me-later",
-	"requirements": {
-		"skill": 50,
-		"mana": 50
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"water-survival": 1000
 		}
+	},
+	"id": "gm-magic/platypus-bill-me-later",
+	"requirements": {
+		"mana": 50,
+		"skill": 50
 	}
 }

@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
-	"id": "soul-demon",
-	"name": {
-		"en": "Soul Demon"
-	},
 	"desc": {
 		"en": "A demon that steals the soul (mana power) of the enemy."
 	},
-	"skills": {
-		"mana-draining": 5,
-		"armor": 5
+	"id": "soul-demon",
+	"name": {
+		"en": "Soul Demon"
 	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 3,
 		"MAXMANA": 4
+	},
+	"skills": {
+		"armor": 5,
+		"mana-draining": 5
 	}
 }

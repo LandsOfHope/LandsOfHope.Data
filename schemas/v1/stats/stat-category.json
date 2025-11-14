@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/stats/stat-category.json",
-	"title": "StatCategory",
-	"type": "object",
 	"properties": {
 		"$type": {
 			"const": "/v1/stats/stat-category"
@@ -10,5 +8,7 @@
 			"$ref": "/schemas/v1/localized-string.json"
 		}
 	},
-	"required": ["$type", "name"]
+	"required": ["$type", "name"],
+	"title": "StatCategory",
+	"type": "object"
 }

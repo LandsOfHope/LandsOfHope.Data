@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-mallet",
 	"image": "cb",
-	"type": "1-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "wood",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	},
 	"skill": "maces",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1,
-		"MAXMANA": 1
-	}
+	"type": "1-handed-equipment"
 }

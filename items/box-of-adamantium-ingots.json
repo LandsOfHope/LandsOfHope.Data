@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "box-of-adamantium-ingots",
 	"image": "gmboadin",
-	"type": "quest-item",
-	"expansion": "uncharted-waters",
-	"material": "wood"
+	"material": "wood",
+	"type": "quest-item"
 }

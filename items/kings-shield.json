@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "kings-shield",
 	"image": "sd2",
-	"type": "2-handed-equipment",
-	"dpr": 2,
 	"material": "metal",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "two-handed-shields",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "2-handed-equipment"
 }

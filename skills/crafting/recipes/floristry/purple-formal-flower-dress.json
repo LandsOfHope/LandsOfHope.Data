@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "floristry/purple-formal-flower-dress",
+	"image": "6968",
+	"ingredients": [
+		{
+			"id": "vampy-flower",
+			"primary": true,
+			"quantity": 5
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-item",
 		"item": "purple-formal-flower-dress"
 	},
-	"image": "6968",
-	"time": "PT15S",
+	"quality": "common",
 	"quantity": 1,
 	"skill": "floristry",
 	"skillValue": 3200,
-	"quality": "common",
-	"ingredients": [
-		{
-			"id": "vampy-flower",
-			"quantity": 5,
-			"primary": true
-		}
-	]
+	"time": "PT15S"
 }

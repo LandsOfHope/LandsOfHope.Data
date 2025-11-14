@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "prepared-oyster",
 	"image": "gmproy",
-	"type": "food",
 	"material": "hide",
 	"properties": {
 		"STAMINA": 1
-	}
+	},
+	"type": "food"
 }

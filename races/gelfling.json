@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Gelfling"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Gelfling"
+	},
 	"pics": {
-		"M": ["gem"],
-		"F": ["gef"]
+		"F": ["gef"],
+		"M": ["gem"]
 	}
 }

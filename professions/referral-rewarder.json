@@ -1,15 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "referral-rewarder",
-	"name": {
-		"en": "Referral Rewarder"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "referral-rewarder",
+	"name": {
+		"en": "Referral Rewarder"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -17,5 +13,9 @@
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

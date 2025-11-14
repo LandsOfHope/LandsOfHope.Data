@@ -1,190 +1,191 @@
 [
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373699741,
 		"item": {
 			"$type": "/v1/item",
 			"id": "sword",
 			"image": "sw1",
-			"type": "1-handed-equipment",
-			"material": "metal"
+			"material": "metal",
+			"type": "1-handed-equipment"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
 			"character": 1,
 			"location": "right-hand"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373699742,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373699743,
 		"item": {
 			"$type": "/v1/item",
 			"id": "moccasins",
 			"image": "220",
-			"type": "foot-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "foot-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
 			"character": 1,
 			"location": "feet"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373699744,
 		"item": {
 			"$type": "/v1/item",
 			"id": "chestplate",
 			"image": "227",
-			"type": "chest-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373699745,
 		"item": {
 			"$type": "/v1/item",
 			"id": "half-moon-axe",
 			"image": "ham",
-			"type": "1-handed-equipment",
-			"material": "metal"
+			"material": "metal",
+			"type": "1-handed-equipment"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
 			"character": 1,
 			"location": "left-hand"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700762,
 		"item": {
 			"$type": "/v1/item",
 			"id": "drakos-brand",
 			"image": "drako",
-			"type": "exile-symbol",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "exile-symbol"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
 			"character": 1,
 			"location": "bonus-1"
 		},
 		"quality": 4,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700763,
 		"item": {
 			"$type": "/v1/item",
 			"id": "small-bag",
 			"image": "bg3",
-			"type": "bag",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "bag"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
 			"character": 1,
 			"location": "bag-slot-1"
 		},
 		"quality": 3,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700805,
 		"item": {
 			"$type": "/v1/item",
 			"id": "preystalking-ring",
 			"image": "6791",
-			"type": "ring",
-			"material": "gem"
+			"material": "gem",
+			"type": "ring"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
 			"character": 1,
 			"location": "finger-1"
 		},
 		"quality": 4,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700828,
 		"item": {
 			"$type": "/v1/item",
 			"id": "flesh",
 			"image": "395",
-			"type": "trophy",
-			"material": "hide"
+			"material": "hide",
+			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 3,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
 		"quality": 3,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 3,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700829,
 		"item": {
 			"$type": "/v1/item",
@@ -193,79 +194,79 @@
 			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 2,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 2,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700836,
 		"item": {
 			"$type": "/v1/item",
 			"id": "log",
 			"image": "lg",
-			"type": "log",
-			"material": "wood"
+			"material": "wood",
+			"type": "log"
 		},
 		"level": 1,
-		"quantity": 120,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 120,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700838,
 		"item": {
 			"$type": "/v1/item",
 			"id": "preystalkers-charm",
 			"image": "6792",
-			"type": "neck-clothing",
-			"material": "gem"
+			"material": "gem",
+			"type": "neck-clothing"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
 			"character": 1,
 			"location": "neck"
 		},
 		"quality": 4,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700850,
 		"item": {
 			"$type": "/v1/item",
 			"id": "rat-tail",
 			"image": "229",
-			"type": "trophy",
-			"material": "hide"
+			"material": "hide",
+			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 30,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
 		"quality": 3,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 30,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700853,
 		"item": {
 			"$type": "/v1/item",
@@ -274,118 +275,118 @@
 			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 8,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 8,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700855,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 4,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 4,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700812,
 		"item": {
 			"$type": "/v1/item",
 			"id": "headband",
 			"image": "6",
-			"type": "forehead",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "forehead"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
 			"character": 1,
 			"location": "forehead"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700859,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-gloves",
 			"image": "512",
-			"type": "hand-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "hand-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
 			"character": 1,
 			"location": "hands"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700900,
 		"item": {
 			"$type": "/v1/item",
 			"id": "simple-spell-book",
 			"image": "bk2",
-			"type": "training-aid",
-			"material": "hide"
+			"material": "hide",
+			"type": "training-aid"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700910,
 		"item": {
 			"$type": "/v1/item",
 			"id": "rat-tail",
 			"image": "229",
-			"type": "trophy",
-			"material": "hide"
+			"material": "hide",
+			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
 		"quality": 3,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700911,
 		"item": {
 			"$type": "/v1/item",
@@ -394,140 +395,140 @@
 			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700912,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700913,
 		"item": {
 			"$type": "/v1/item",
 			"id": "rat-tail",
 			"image": "229",
-			"type": "trophy",
-			"material": "hide"
+			"material": "hide",
+			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
 		"quality": 3,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700914,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700915,
 		"item": {
 			"$type": "/v1/item",
 			"id": "rat-tail",
 			"image": "229",
-			"type": "trophy",
-			"material": "hide"
+			"material": "hide",
+			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
 		"quality": 3,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700916,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700917,
 		"item": {
 			"$type": "/v1/item",
 			"id": "rat-tail",
 			"image": "229",
-			"type": "trophy",
-			"material": "hide"
+			"material": "hide",
+			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
 		"quality": 3,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700918,
 		"item": {
 			"$type": "/v1/item",
@@ -536,139 +537,139 @@
 			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700919,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700932,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700934,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700935,
 		"item": {
 			"$type": "/v1/item",
 			"id": "rat-tail",
 			"image": "229",
-			"type": "trophy",
-			"material": "hide"
+			"material": "hide",
+			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
 		"quality": 3,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700936,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700937,
 		"item": {
 			"$type": "/v1/item",
 			"id": "rat-tail",
 			"image": "229",
-			"type": "trophy",
-			"material": "hide"
+			"material": "hide",
+			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
 		"quality": 3,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700938,
 		"item": {
 			"$type": "/v1/item",
@@ -677,237 +678,237 @@
 			"type": "trophy"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700939,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700940,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700941,
 		"item": {
 			"$type": "/v1/item",
 			"id": "headband",
 			"image": "6",
-			"type": "forehead",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "forehead"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700942,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700943,
 		"item": {
 			"$type": "/v1/item",
 			"id": "shirt",
 			"image": "15",
-			"type": "chest-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700944,
 		"item": {
 			"$type": "/v1/item",
 			"id": "short-bow",
 			"image": "shb",
-			"type": "ranged-weapon",
-			"material": "wood"
+			"material": "wood",
+			"type": "ranged-weapon"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700945,
 		"item": {
 			"$type": "/v1/item",
 			"id": "arrow",
 			"image": "arr1",
-			"type": "ammo-weapons-bows",
-			"material": "wood"
+			"material": "wood",
+			"type": "ammo-weapons-bows"
 		},
 		"level": 1,
-		"quantity": 50,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 50,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700946,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-legs",
 			"image": "514",
-			"type": "leg-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700947,
 		"item": {
 			"$type": "/v1/item",
 			"id": "headband",
 			"image": "6",
-			"type": "forehead",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "forehead"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700948,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-gloves",
 			"image": "512",
-			"type": "hand-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "hand-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700949,
 		"item": {
 			"$type": "/v1/item",
 			"id": "shirt",
 			"image": "15",
-			"type": "chest-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700950,
 		"item": {
 			"$type": "/v1/characters/inventory/unidentified-item",
@@ -915,117 +916,117 @@
 			"image": "2662"
 		},
 		"level": 50,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700951,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700952,
 		"item": {
 			"$type": "/v1/item",
 			"id": "plain-shield",
 			"image": "sd5",
-			"type": "1-handed-equipment",
-			"material": "wood"
+			"material": "wood",
+			"type": "1-handed-equipment"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700953,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700954,
 		"item": {
 			"$type": "/v1/item",
 			"id": "shirt",
 			"image": "15",
-			"type": "chest-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700955,
 		"item": {
 			"$type": "/v1/item",
 			"id": "small-mace",
 			"image": "bm",
-			"type": "1-handed-equipment",
-			"material": "metal"
+			"material": "metal",
+			"type": "1-handed-equipment"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700956,
 		"item": {
 			"$type": "/v1/characters/inventory/unidentified-item",
@@ -1033,1447 +1034,1446 @@
 			"image": "254"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700957,
 		"item": {
 			"$type": "/v1/item",
 			"id": "skirt",
 			"image": "skt",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700958,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700959,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-legs",
 			"image": "514",
-			"type": "leg-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "leg-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
 			"character": 1,
 			"location": "legs"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"bejewel": "bejewels/fast-brooch",
+		"enhancements": ["named", "bejewelled"],
 		"id": 373700960,
 		"item": {
 			"$type": "/v1/item",
 			"id": "chestplate",
 			"image": "227",
-			"type": "chest-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "chest-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
 			"character": 1,
 			"location": "chest"
 		},
-		"stackHash": "0000000000000000",
-		"enhancements": ["named", "bejewelled"],
 		"name": "names/ducking",
-		"bejewel": "bejewels/fast-brooch",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700961,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700962,
 		"item": {
 			"$type": "/v1/item",
 			"id": "plain-shield",
 			"image": "sd5",
-			"type": "1-handed-equipment",
-			"material": "wood"
+			"material": "wood",
+			"type": "1-handed-equipment"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700963,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700964,
 		"item": {
 			"$type": "/v1/item",
 			"id": "shirt",
 			"image": "15",
-			"type": "chest-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700965,
 		"item": {
 			"$type": "/v1/item",
 			"id": "chestplate",
 			"image": "227",
-			"type": "chest-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700966,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-legs",
 			"image": "514",
-			"type": "leg-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700967,
 		"item": {
 			"$type": "/v1/item",
 			"id": "shirt",
 			"image": "15",
-			"type": "chest-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700968,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-gloves",
 			"image": "512",
-			"type": "hand-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "hand-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700969,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"enhancements": ["imbued"],
 		"id": 373700979,
+		"imbuement": {
+			"$type": "/v1/items/enhancements/item-imbuement",
+			"chance": {
+				"$type": "/v1/random-chance",
+				"denom": 100,
+				"numer": 22
+			},
+			"id": "imbuements/h2h-weakness",
+			"spell": "gamemastery/h2h-weakness"
+		},
 		"item": {
 			"$type": "/v1/item",
 			"id": "sword",
 			"image": "sw1",
-			"type": "1-handed-equipment",
-			"material": "metal"
+			"material": "metal",
+			"type": "1-handed-equipment"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"enhancements": ["imbued"],
-		"imbuement": {
-			"$type": "/v1/items/enhancements/item-imbuement",
-			"id": "imbuements/h2h-weakness",
-			"chance": {
-				"$type": "/v1/random-chance",
-				"numer": 22,
-				"denom": 100
-			},
-			"spell": "gamemastery/h2h-weakness"
-		},
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"enhancements": ["patched"],
 		"id": 373700980,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"enhancements": ["patched"],
 		"patch": {
 			"$type": "/v1/items/enhancements/item-patch",
-			"id": "patches/slug-patch",
 			"effects": {
 				"properties": {
 					"SPEED": 0.1
 				}
-			}
+			},
+			"id": "patches/slug-patch"
 		},
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"enhancements": ["patched"],
 		"id": 373700981,
 		"item": {
 			"$type": "/v1/item",
 			"id": "moccasins",
 			"image": "220",
-			"type": "foot-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "foot-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"enhancements": ["patched"],
 		"patch": "patches/slug-patch",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"enhancements": ["guilded"],
+		"guild": 1,
 		"id": 373700982,
 		"item": {
 			"$type": "/v1/item",
 			"id": "chestplate",
 			"image": "227",
-			"type": "chest-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"enhancements": ["guilded"],
-		"guild": 1,
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700983,
 		"item": {
 			"$type": "/v1/item",
 			"id": "half-moon-axe",
 			"image": "ham",
-			"type": "1-handed-equipment",
-			"material": "metal"
+			"material": "metal",
+			"type": "1-handed-equipment"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700984,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-gloves",
 			"image": "512",
-			"type": "hand-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "hand-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700985,
 		"item": {
 			"$type": "/v1/item",
 			"id": "headband",
 			"image": "6",
-			"type": "forehead",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "forehead"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700986,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700987,
 		"item": {
 			"$type": "/v1/item",
 			"id": "chestplate",
 			"image": "227",
-			"type": "chest-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700988,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700989,
 		"item": {
 			"$type": "/v1/item",
 			"id": "knuckle-duster",
 			"image": "nft",
-			"type": "1-handed-equipment",
-			"material": "metal"
+			"material": "metal",
+			"type": "1-handed-equipment"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700990,
 		"item": {
 			"$type": "/v1/item",
 			"id": "knuckle-duster",
 			"image": "nft",
-			"type": "1-handed-equipment",
-			"material": "metal"
+			"material": "metal",
+			"type": "1-handed-equipment"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700991,
 		"item": {
 			"$type": "/v1/item",
 			"id": "headband",
 			"image": "6",
-			"type": "forehead",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "forehead"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700992,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-gloves",
 			"image": "512",
-			"type": "hand-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "hand-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700993,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-sleeves",
 			"image": "513",
-			"type": "arm-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "arm-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700994,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-legs",
 			"image": "514",
-			"type": "leg-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "leg-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700995,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701042,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701043,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-sleeves",
 			"image": "513",
-			"type": "arm-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "arm-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701044,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-legs",
 			"image": "514",
-			"type": "leg-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "leg-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701045,
 		"item": {
 			"$type": "/v1/item",
 			"id": "skirt",
 			"image": "skt",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701046,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701052,
 		"item": {
 			"$type": "/v1/item",
 			"id": "glasses-of-destiny",
 			"image": "5734",
-			"type": "glasses-shades",
-			"material": "gem"
+			"material": "gem",
+			"type": "glasses-shades"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "tradebag"
 		},
 		"quality": 10,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701053,
 		"item": {
 			"$type": "/v1/item",
 			"id": "adventurers-compass",
 			"image": "zuadco",
-			"type": "special-slot",
-			"material": "gem"
+			"material": "gem",
+			"type": "special-slot"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "tradebag"
 		},
 		"quality": 10,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701054,
 		"item": {
 			"$type": "/v1/item",
 			"id": "monacle-of-lore",
 			"image": "zumolo",
-			"type": "lore-item",
-			"material": "gem"
+			"material": "gem",
+			"type": "lore-item"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "tradebag"
 		},
 		"quality": 10,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701055,
 		"item": {
 			"$type": "/v1/item",
 			"id": "brown-bag-of-compression",
 			"image": "6779",
-			"type": "bag",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "bag"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "tradebag"
 		},
 		"quality": 5,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701056,
 		"item": {
 			"$type": "/v1/item",
 			"id": "brown-bag-of-compression",
 			"image": "6779",
-			"type": "bag",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "bag"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "tradebag"
 		},
 		"quality": 5,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701057,
 		"item": {
 			"$type": "/v1/item",
 			"id": "brown-bag-of-compression",
 			"image": "6779",
-			"type": "bag",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "bag"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "tradebag"
 		},
 		"quality": 5,
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701066,
 		"item": {
 			"$type": "/v1/item",
 			"id": "plain-shield",
 			"image": "sd5",
-			"type": "1-handed-equipment",
-			"material": "wood"
+			"material": "wood",
+			"type": "1-handed-equipment"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701067,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701068,
 		"item": {
 			"$type": "/v1/item",
 			"id": "shirt",
 			"image": "15",
-			"type": "chest-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "chest-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701069,
 		"item": {
 			"$type": "/v1/item",
 			"id": "small-mace",
 			"image": "bm",
-			"type": "1-handed-equipment",
-			"material": "metal"
+			"material": "metal",
+			"type": "1-handed-equipment"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701070,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-legs",
 			"image": "514",
-			"type": "leg-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701071,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701072,
 		"item": {
 			"$type": "/v1/item",
 			"id": "skirt",
 			"image": "skt",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701073,
 		"item": {
 			"$type": "/v1/item",
 			"id": "chestplate",
 			"image": "227",
-			"type": "chest-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701074,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701075,
 		"item": {
 			"$type": "/v1/item",
 			"id": "headband",
 			"image": "6",
-			"type": "forehead",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "forehead"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701076,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701077,
 		"item": {
 			"$type": "/v1/item",
 			"id": "shirt",
 			"image": "15",
-			"type": "chest-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701078,
 		"item": {
 			"$type": "/v1/item",
 			"id": "short-bow",
 			"image": "shb",
-			"type": "ranged-weapon",
-			"material": "wood"
+			"material": "wood",
+			"type": "ranged-weapon"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701079,
 		"item": {
 			"$type": "/v1/item",
 			"id": "arrow",
 			"image": "arr1",
-			"type": "ammo-weapons-bows",
-			"material": "wood"
+			"material": "wood",
+			"type": "ammo-weapons-bows"
 		},
 		"level": 5,
-		"quantity": 50,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 50,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701080,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-legs",
 			"image": "514",
-			"type": "leg-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701081,
 		"item": {
 			"$type": "/v1/item",
 			"id": "boned-sleeves",
 			"image": "513",
-			"type": "arm-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "arm-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701082,
 		"item": {
 			"$type": "/v1/item",
 			"id": "skirt",
 			"image": "skt",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701083,
 		"item": {
 			"$type": "/v1/item",
 			"id": "shirt",
 			"image": "15",
-			"type": "chest-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "chest-armour"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701084,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 5,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700996,
 		"item": {
 			"$type": "/v1/item",
 			"id": "headband",
 			"image": "6",
-			"type": "forehead",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "forehead"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700997,
 		"item": {
 			"$type": "/v1/item",
 			"id": "trousers",
 			"image": "14",
-			"type": "leg-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "leg-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700998,
 		"item": {
 			"$type": "/v1/item",
 			"id": "shirt",
 			"image": "15",
-			"type": "chest-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373700999,
 		"item": {
 			"$type": "/v1/item",
 			"id": "short-bow",
 			"image": "shb",
-			"type": "ranged-weapon",
-			"material": "wood"
+			"material": "wood",
+			"type": "ranged-weapon"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701000,
 		"item": {
 			"$type": "/v1/item",
 			"id": "arrow",
 			"image": "arr1",
-			"type": "ammo-weapons-bows",
-			"material": "wood"
+			"material": "wood",
+			"type": "ammo-weapons-bows"
 		},
 		"level": 1,
-		"quantity": 50,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 50,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701001,
 		"item": {
 			"$type": "/v1/item",
 			"id": "headband",
 			"image": "6",
-			"type": "forehead",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "forehead"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701002,
 		"item": {
 			"$type": "/v1/item",
 			"id": "shirt",
 			"image": "15",
-			"type": "chest-armour",
-			"material": "cloth"
+			"material": "cloth",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701003,
 		"item": {
 			"$type": "/v1/item",
 			"id": "heart",
 			"image": "4461",
-			"type": "chest-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701004,
 		"item": {
 			"$type": "/v1/item",
 			"id": "chestplate",
 			"image": "227",
-			"type": "chest-armour",
-			"material": "hide"
+			"material": "hide",
+			"type": "chest-armour"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "sellbag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
 		"id": 373701085,
 		"item": {
 			"$type": "/v1/item",
 			"id": "hide",
 			"image": "he1",
-			"type": "hide",
-			"material": "hide"
+			"material": "hide",
+			"type": "hide"
 		},
 		"level": 1,
-		"quantity": 1,
 		"location": {
 			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
 			"character": 1,
 			"location": "bag"
 		},
-		"stackHash": "0000000000000000",
-		"actions": {}
+		"quantity": 1,
+		"stackHash": "0000000000000000"
 	}
 ]

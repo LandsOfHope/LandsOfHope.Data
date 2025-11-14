@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"expansion": "jurassic-wars",
 	"id": "privilege-of-the-savage",
 	"image": "5889",
-	"type": "exile-symbol",
-	"expansion": "jurassic-wars",
 	"material": "gem",
-	"skills": {
-		"frenzy": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"skills": {
+		"frenzy": 1
+	},
+	"type": "exile-symbol"
 }

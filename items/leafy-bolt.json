@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 32,
 	"id": "leafy-bolt",
 	"image": "arr1",
-	"type": "ammo-weapons-crossbows",
-	"dpr": 32,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-crossbows"
 }

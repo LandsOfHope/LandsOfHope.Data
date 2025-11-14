@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "blank-frankenstein-face",
 	"image": "6949",
-	"type": "head-armour",
 	"legendary": true,
-	"set": "frankenstein",
 	"material": "hide",
-	"skill": "blood-over-beauty",
 	"properties": {
 		"MAXSTAMINA": 0.75
-	}
+	},
+	"set": "frankenstein",
+	"skill": "blood-over-beauty",
+	"type": "head-armour"
 }

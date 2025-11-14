@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 18,
 	"id": "sandy-bolt",
 	"image": "arr1",
-	"type": "ammo-weapons-crossbows",
-	"dpr": 18,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-crossbows"
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "drakos-brand",
 	"image": "drako",
-	"type": "exile-symbol",
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"type": "exile-symbol"
 }

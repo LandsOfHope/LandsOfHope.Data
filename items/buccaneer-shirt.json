@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "buccaneer-shirt",
-	"image": "5225",
-	"type": "chest-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "buccaneer-shirt",
+	"image": "5225",
 	"material": "cloth",
+	"properties": {
+		"SPEED": 1
+	},
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "chest-armour"
 }

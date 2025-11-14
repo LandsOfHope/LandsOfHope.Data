@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "jurassic-wars",
 	"id": "juratania-portal",
 	"image": "po9",
-	"type": "expansion-pack-portal",
-	"expansion": "jurassic-wars",
-	"material": "gem"
+	"material": "gem",
+	"type": "expansion-pack-portal"
 }

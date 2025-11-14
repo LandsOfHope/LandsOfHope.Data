@@ -1,18 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "guard-fighter",
-	"name": {
-		"en": "Guard Fighter"
-	},
 	"desc": {
 		"en": "Guard Fighter"
 	},
-	"skills": {
-		"frenzy": 5,
-		"two-handed-axes": 5,
-		"two-handed-maces": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "guard-fighter",
+	"name": {
+		"en": "Guard Fighter"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -20,5 +13,12 @@
 		"MAXSTAMINA": 4,
 		"SPEED": 1,
 		"STRENGTH": 4
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"frenzy": 5,
+		"two-handed-axes": 5,
+		"two-handed-maces": 5
 	}
 }

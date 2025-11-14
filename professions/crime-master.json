@@ -1,20 +1,20 @@
 {
 	"$type": "/v1/profession",
-	"id": "crime-master",
-	"name": {
-		"en": "Crime Master"
-	},
 	"desc": {
 		"en": "The dealer of trouble and crimes."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "crime-master",
+	"name": {
+		"en": "Crime Master"
 	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3,
 		"SPEED": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

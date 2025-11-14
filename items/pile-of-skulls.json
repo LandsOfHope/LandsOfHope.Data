@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "pile-of-skulls",
 	"image": "zushsc",
-	"type": "event-spawner",
-	"material": "gem"
+	"material": "gem",
+	"type": "event-spawner"
 }

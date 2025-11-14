@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "blank-frankenstein-chestpiece",
 	"image": "6952",
-	"type": "chest-armour",
 	"legendary": true,
-	"set": "frankenstein",
 	"material": "hide",
-	"skill": "blood-over-beauty",
 	"properties": {
 		"MAXSTAMINA": 0.75
-	}
+	},
+	"set": "frankenstein",
+	"skill": "blood-over-beauty",
+	"type": "chest-armour"
 }

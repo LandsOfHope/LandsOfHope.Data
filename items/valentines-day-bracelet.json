@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "valentines-day-bracelet",
 	"image": "lhb",
-	"type": "wrist-jewelry",
 	"material": "metal",
 	"properties": {
 		"HITPOINTS": 1,
 		"MAXHITPOINTS": 1
-	}
+	},
+	"type": "wrist-jewelry"
 }

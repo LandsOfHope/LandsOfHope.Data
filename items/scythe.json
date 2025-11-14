@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "scythe",
 	"image": "hs1",
-	"type": "2-handed-equipment",
-	"dpr": 2,
 	"material": "metal",
 	"skill": "farming",
 	"skills": {
-		"farming": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"farming": 1
+	},
+	"type": "2-handed-equipment"
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "milkshake",
 	"image": "mis",
-	"type": "food",
 	"material": "berry",
 	"properties": {
 		"MANA": 1
-	}
+	},
+	"type": "food"
 }

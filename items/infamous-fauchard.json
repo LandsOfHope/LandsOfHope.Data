@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 82,
 	"id": "infamous-fauchard",
 	"image": "fau",
-	"type": "2-handed-equipment",
-	"dpr": 82,
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

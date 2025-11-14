@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"dpr": 79,
 	"id": "dreadite-staff",
 	"image": "zudrst",
-	"type": "2-handed-equipment",
-	"dpr": 79,
 	"material": "gem",
 	"skill": "two-handed-staves",
 	"skills": {
+		"attack-power": 1,
 		"blessing": 1,
-		"two-handed-staves": 1,
-		"attack-power": 1
-	}
+		"two-handed-staves": 1
+	},
+	"type": "2-handed-equipment"
 }

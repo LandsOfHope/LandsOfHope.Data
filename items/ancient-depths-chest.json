@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dark-depths",
 	"id": "ancient-depths-chest",
 	"image": "6476",
-	"type": "special-chest",
-	"expansion": "dark-depths",
-	"material": "wood"
+	"material": "wood",
+	"type": "special-chest"
 }

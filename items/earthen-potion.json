@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 4,
 	"id": "earthen-potion",
 	"image": "pd1",
-	"type": "ammo-weapons-potions",
-	"dpr": 4,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-potions"
 }

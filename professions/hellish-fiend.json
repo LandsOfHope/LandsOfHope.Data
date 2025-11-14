@@ -1,21 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "hellish-fiend",
-	"name": {
-		"en": "Hellish Fiend"
-	},
 	"desc": {
 		"en": "Hellish Fiend"
 	},
-	"skills": {
-		"mystical-magic": 5,
-		"hell-magic": 5,
-		"health-stealing": 5,
-		"poison-resistance": 5,
-		"poison-magic": 5,
-		"fists": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "hellish-fiend",
+	"name": {
+		"en": "Hellish Fiend"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -25,5 +15,15 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fists": 5,
+		"health-stealing": 5,
+		"hell-magic": 5,
+		"mystical-magic": 5,
+		"poison-magic": 5,
+		"poison-resistance": 5
 	}
 }

@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Poison Ivy"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Poison Ivy"
+	},
 	"pics": {
-		"M": ["mppim"],
-		"F": ["mppif"]
+		"F": ["mppif"],
+		"M": ["mppim"]
 	}
 }

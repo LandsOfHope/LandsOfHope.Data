@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "perpetual-augment",
 	"image": "6875",
-	"type": "augment",
 	"material": "gem",
 	"skills": {
 		"stamina-regen": 0.5
-	}
+	},
+	"type": "augment"
 }

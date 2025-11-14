@@ -1,10 +1,15 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/profession.json",
-	"title": "Profession",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/profession"
+		},
+		"desc": {
+			"$ref": "/schemas/v1/localized-string.json"
+		},
+		"evo": {
+			"$ref": "/schemas/v1/profession-evolution.json"
 		},
 		"id": {
 			"$ref": "/schemas/v1/professions-id.gen.json"
@@ -12,24 +17,9 @@
 		"name": {
 			"$ref": "/schemas/v1/localized-string.json"
 		},
-		"desc": {
-			"$ref": "/schemas/v1/localized-string.json"
-		},
-		"skills": {
-			"type": "object",
-			"patternProperties": {
-				".*": {
-					"type": "integer"
-				}
-			},
-			"propertyNames": {
-				"$ref": "/schemas/v1/skills-id.gen.json"
-			},
-			"minProperties": 1,
-			"additionalProperties": false
-		},
 		"properties": {
-			"type": "object",
+			"additionalProperties": false,
+			"minProperties": 1,
 			"patternProperties": {
 				".*": {
 					"type": "integer"
@@ -38,13 +28,23 @@
 			"propertyNames": {
 				"$ref": "/schemas/v1/characters/character-property-name.json"
 			},
-			"minProperties": 1,
-			"additionalProperties": false
+			"type": "object"
 		},
-		"evo": {
-			"$ref": "/schemas/v1/profession-evolution.json"
+		"skills": {
+			"additionalProperties": false,
+			"minProperties": 1,
+			"patternProperties": {
+				".*": {
+					"type": "integer"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/skills-id.gen.json"
+			},
+			"type": "object"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "name", "desc"]
+	"required": ["$type", "name", "desc"],
+	"title": "Profession",
+	"type": "object"
 }

@@ -1,9 +1,9 @@
 {
 	"$type": "/v1/items/enhancements/item-patch",
-	"id": "patches/greater-fury-patch",
 	"effects": {
 		"skills": {
 			"attack-power": 0.2
 		}
-	}
+	},
+	"id": "patches/greater-fury-patch"
 }

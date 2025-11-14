@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "charm-of-the-winds",
 	"image": "zuchwi",
-	"type": "wrist-jewelry",
 	"material": "wood",
 	"skills": {
 		"air-magic": 1
-	}
+	},
+	"type": "wrist-jewelry"
 }

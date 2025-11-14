@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "beastmastery/tamers-fury-i",
-	"requirements": {
-		"skill": 1935,
-		"mana": 193
-	},
 	"duration": "PT25M",
 	"effects": {
 		"skills": {
 			"attack-power": 73
 		}
+	},
+	"id": "beastmastery/tamers-fury-i",
+	"requirements": {
+		"mana": 193,
+		"skill": 1935
 	}
 }

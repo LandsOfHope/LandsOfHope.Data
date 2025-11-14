@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-tower-shield",
 	"image": "sd8",
-	"type": "2-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "metal",
-	"skill": "two-handed-shields",
-	"skills": {
-		"bladed-defense": 1,
-		"armor": 1
-	},
 	"properties": {
 		"DEXTERITY": 1
-	}
+	},
+	"skill": "two-handed-shields",
+	"skills": {
+		"armor": 1,
+		"bladed-defense": 1
+	},
+	"type": "2-handed-equipment"
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 42,
 	"id": "short-battle-bow",
 	"image": "bw",
-	"type": "ranged-weapon",
-	"dpr": 42,
 	"material": "wood",
 	"skill": "bows",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ranged-weapon"
 }

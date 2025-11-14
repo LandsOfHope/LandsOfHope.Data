@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
-	"id": "memorial",
-	"name": {
-		"en": "Memorial"
-	},
 	"desc": {
 		"en": "A Statue."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "memorial",
+	"name": {
+		"en": "Memorial"
 	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 1,
 		"STRENGTH": 5
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

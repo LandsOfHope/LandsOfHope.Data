@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "meteorite-magnet",
 	"image": "6049",
-	"type": "special-slot",
 	"material": "gem",
 	"skill": "celestial-magic",
 	"skills": {
 		"celestial-magic": 1,
 		"celestial-weapons": 1
-	}
+	},
+	"type": "special-slot"
 }

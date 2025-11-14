@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "artisan-tool",
 	"image": "hr2",
-	"type": "1-handed-equipment",
 	"material": "wood",
 	"skill": "artisan",
 	"skills": {
 		"artisan": 1,
 		"experience-bonus": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "mystical-magic/mystic-blast-iv",
-	"requirements": {
-		"skill": 325,
-		"mana": 325
-	},
 	"effects": {
 		"damage": 242
+	},
+	"id": "mystical-magic/mystic-blast-iv",
+	"requirements": {
+		"mana": 325,
+		"skill": 325
 	}
 }

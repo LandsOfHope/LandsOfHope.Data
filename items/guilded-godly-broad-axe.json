@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 98,
 	"id": "guilded-godly-broad-axe",
 	"image": "ax12",
-	"type": "2-handed-equipment",
-	"dpr": 98,
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

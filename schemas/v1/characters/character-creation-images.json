@@ -1,38 +1,38 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/character-creation-images.json",
-	"title": "CharacterCreationImages",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/character-creation-images"
 		},
-		"M": {
-			"type": "object",
-			"patternProperties": {
-				".*": {
-					"type": "array",
-					"uniqueItems": true,
-					"items": {
-						"$ref": "/schemas/v1/characters-images-id.gen.json"
-					}
-				}
-			},
-			"additionalProperties": false
-		},
 		"F": {
-			"type": "object",
+			"additionalProperties": false,
 			"patternProperties": {
 				".*": {
-					"type": "array",
-					"uniqueItems": true,
 					"items": {
 						"$ref": "/schemas/v1/characters-images-id.gen.json"
-					}
+					},
+					"type": "array",
+					"uniqueItems": true
 				}
 			},
-			"additionalProperties": false
+			"type": "object"
+		},
+		"M": {
+			"additionalProperties": false,
+			"patternProperties": {
+				".*": {
+					"items": {
+						"$ref": "/schemas/v1/characters-images-id.gen.json"
+					},
+					"type": "array",
+					"uniqueItems": true
+				}
+			},
+			"type": "object"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "M", "F"]
+	"required": ["$type", "M", "F"],
+	"title": "CharacterCreationImages",
+	"type": "object"
 }

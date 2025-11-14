@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "pleated-boots",
 	"image": "3096",
-	"type": "foot-armour",
-	"armorType": "cloth",
-	"material": "cloth"
+	"material": "cloth",
+	"type": "foot-armour"
 }

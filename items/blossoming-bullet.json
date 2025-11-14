@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 41,
 	"id": "blossoming-bullet",
 	"image": "zublbu2",
-	"type": "ammo-weapons-bullets",
-	"dpr": 41,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "gnarled-tusk",
 	"image": "zugntu",
-	"type": "1-handed-equipment",
-	"dpr": 2,
 	"material": "hide",
-	"skills": {
-		"maces": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"MAXMANA": 1
-	}
+	},
+	"skills": {
+		"attack-power": 1,
+		"maces": 1
+	},
+	"type": "1-handed-equipment"
 }

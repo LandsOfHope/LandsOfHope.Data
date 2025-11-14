@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "southern-crack",
 	"image": "crack5",
-	"type": "directional-crack",
-	"expansion": "uncharted-waters",
-	"material": "metal"
+	"material": "metal",
+	"type": "directional-crack"
 }

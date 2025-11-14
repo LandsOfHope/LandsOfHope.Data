@@ -1,44 +1,44 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/skills/style.json",
-	"title": "SkillsStyle",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/skills/style"
 		},
-		"id": {
-			"type": "string"
-		},
-		"requirements": {
-			"type": "object",
-			"properties": {
-				"skill": {
-					"type": "integer",
-					"minimum": 1
-				},
-				"level": {
-					"type": "integer",
-					"minimum": 1
-				},
-				"stamina": {
-					"type": "integer",
-					"minimum": 0
-				}
-			},
-			"required": ["stamina"],
-			"additionalProperties": false
-		},
 		"effects": {
-			"type": "object",
+			"additionalProperties": false,
 			"properties": {
 				"damage": {
 					"type": "integer"
 				}
 			},
+			"required": ["damage"],
+			"type": "object"
+		},
+		"id": {
+			"type": "string"
+		},
+		"requirements": {
 			"additionalProperties": false,
-			"required": ["damage"]
+			"properties": {
+				"level": {
+					"minimum": 1,
+					"type": "integer"
+				},
+				"skill": {
+					"minimum": 1,
+					"type": "integer"
+				},
+				"stamina": {
+					"minimum": 0,
+					"type": "integer"
+				}
+			},
+			"required": ["stamina"],
+			"type": "object"
 		}
 	},
 	"required": ["$type", "id", "requirements", "effects"],
-	"additionalProperties": false
+	"title": "SkillsStyle",
+	"type": "object"
 }

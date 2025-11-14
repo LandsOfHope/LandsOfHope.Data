@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "dark-hollow-blood",
 	"image": "zudahobl",
-	"type": "ring",
 	"material": "metal",
-	"skill": "dark-hollow-clan",
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"skill": "dark-hollow-clan",
+	"type": "ring"
 }

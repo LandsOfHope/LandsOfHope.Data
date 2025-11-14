@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "barrel-of-ale",
 	"image": "gmbaal",
-	"type": "consumable-container",
-	"expansion": "uncharted-waters",
-	"material": "wood"
+	"material": "wood",
+	"type": "consumable-container"
 }

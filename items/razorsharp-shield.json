@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 5,
 	"id": "razorsharp-shield",
 	"image": "rss",
-	"type": "1-handed-equipment",
-	"dpr": 5,
 	"material": "gem",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "shields",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "1-handed-equipment"
 }

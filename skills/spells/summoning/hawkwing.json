@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/hawkwing",
-	"requirements": {
-		"skill": 1728,
-		"mana": 1728
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "gryphon",
-			"profession": "wild-animal"
+			"profession": "wild-animal",
+			"race": "gryphon"
 		}
+	},
+	"id": "summoning/hawkwing",
+	"requirements": {
+		"mana": 1728,
+		"skill": 1728
 	}
 }

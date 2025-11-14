@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "polymorphic-belt",
 	"image": "pbelt12",
-	"type": "stomach",
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"type": "stomach"
 }

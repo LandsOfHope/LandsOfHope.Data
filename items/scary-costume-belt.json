@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "scary-costume-belt",
 	"image": "sbelt",
-	"type": "stomach",
-	"set": "halloween-costume",
 	"material": "hide",
+	"set": "halloween-costume",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "stomach"
 }

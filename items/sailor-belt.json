@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "sailor-belt",
-	"image": "zusabe",
-	"type": "stomach",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "sailor-belt",
+	"image": "zusabe",
 	"material": "cloth",
+	"properties": {
+		"SPEED": 1
+	},
 	"skill": "myzan-navy",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "stomach"
 }

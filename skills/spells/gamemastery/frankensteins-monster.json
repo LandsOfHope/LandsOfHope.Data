@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/frankensteins-monster",
-	"requirements": {
-		"skill": 1,
-		"mana": 1
-	},
 	"effects": {
 		"raceid2": 38
+	},
+	"id": "gamemastery/frankensteins-monster",
+	"requirements": {
+		"mana": 1,
+		"skill": 1
 	}
 }

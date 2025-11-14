@@ -1,9 +1,9 @@
 {
 	"$type": "/v0/items/extra-item",
-	"itemId": 2047,
-	"quantity": 1,
-	"imageType": "i",
-	"image": "zulastch",
 	"category": "building-storage",
-	"hc": 2
+	"hc": 2,
+	"image": "zulastch",
+	"imageType": "i",
+	"itemId": 2047,
+	"quantity": 1
 }

@@ -1,18 +1,18 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/items/enhancements/item-patch.json",
-	"title": "ItemPatch",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/items/enhancements/item-patch"
 		},
-		"id": {
-			"$ref": "/schemas/v1/items/enhancements/patches-items-enhancements-id.gen.json"
-		},
 		"effects": {
 			"$ref": "/schemas/v1/items/enhancements/enhancement-modified-effects.json"
+		},
+		"id": {
+			"$ref": "/schemas/v1/items/enhancements/patches-items-enhancements-id.gen.json"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "id", "effects"]
+	"required": ["$type", "id", "effects"],
+	"title": "ItemPatch",
+	"type": "object"
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "spirit-magic/spirit-revenge-i",
-	"requirements": {
-		"skill": 1665,
-		"mana": 1665
-	},
 	"duration": "PT6M",
 	"effects": {
 		"damage": 1180
+	},
+	"id": "spirit-magic/spirit-revenge-i",
+	"requirements": {
+		"mana": 1665,
+		"skill": 1665
 	}
 }

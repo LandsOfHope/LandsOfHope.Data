@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "seamanship/worn-plank",
+	"image": "plk",
+	"ingredients": [
+		{
+			"id": "damaged-plank",
+			"primary": true,
+			"quantity": 4
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-item",
 		"item": "worn-plank"
 	},
-	"image": "plk",
-	"time": "PT15S",
+	"quality": "common",
 	"quantity": 1,
 	"skill": "seamanship",
 	"skillValue": 5,
-	"quality": "common",
-	"ingredients": [
-		{
-			"id": "damaged-plank",
-			"quantity": 4,
-			"primary": true
-		}
-	]
+	"time": "PT15S"
 }

@@ -1,18 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "guard-crossbowyer",
-	"name": {
-		"en": "Guard Crossbowyer"
-	},
 	"desc": {
 		"en": "Guard Crossbowyer"
 	},
-	"skills": {
-		"daggers": 5,
-		"crossbows": 5,
-		"projectile-defense": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "guard-crossbowyer",
+	"name": {
+		"en": "Guard Crossbowyer"
 	},
 	"properties": {
 		"DEXTERITY": 3,
@@ -20,5 +13,12 @@
 		"MAXSTAMINA": 4,
 		"SPEED": 3,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"crossbows": 5,
+		"daggers": 5,
+		"projectile-defense": 5
 	}
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "chest-protector",
 	"image": "l1",
-	"type": "chest-armour",
-	"armorType": "plate",
 	"material": "wood",
 	"skills": {
-		"bladed-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"bladed-defense": 1
+	},
+	"type": "chest-armour"
 }

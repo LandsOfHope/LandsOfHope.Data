@@ -1,16 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "athlete",
-	"name": {
-		"en": "Athlete"
-	},
 	"desc": {
 		"en": "Athletes are the general profession. They offer great speed and dexterity benefits and are often very rounded. They do not specialise in one particular area but instead revel at doing many things."
 	},
-	"skills": {
-		"first-aid": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "athlete",
+	"name": {
+		"en": "Athlete"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -18,5 +13,10 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 3,
 		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"first-aid": 5
 	}
 }

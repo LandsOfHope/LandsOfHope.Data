@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "intercession/472-free-symbol",
-	"requirements": {
-		"skill": 4720,
-		"level": 944,
-		"mana": 4720
-	},
 	"duration": "PT999M",
 	"effects": {
 		"properties": {
 			"MAXSTAMINA": 472
 		}
+	},
+	"id": "intercession/472-free-symbol",
+	"requirements": {
+		"level": 944,
+		"mana": 4720,
+		"skill": 4720
 	}
 }

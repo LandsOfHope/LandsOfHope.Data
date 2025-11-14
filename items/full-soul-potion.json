@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "full-soul-potion",
 	"image": "pf3",
-	"type": "magic-potion",
 	"material": "gem",
 	"properties": {
 		"STAMINA": 1
-	}
+	},
+	"type": "magic-potion"
 }

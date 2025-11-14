@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "rusty-mask",
 	"image": "zuruma",
-	"type": "head-armour",
-	"armorType": "plate",
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1
-	}
+	},
+	"type": "head-armour"
 }

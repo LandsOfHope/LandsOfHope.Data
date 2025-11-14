@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "earlet",
 	"image": "elt",
-	"type": "ear-jewelry",
 	"material": "gem",
 	"skills": {
 		"appraisal": 1
-	}
+	},
+	"type": "ear-jewelry"
 }

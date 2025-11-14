@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dragons-of-the-east",
 	"id": "horde-map",
 	"image": "5880",
-	"type": "treasure-map",
-	"expansion": "dragons-of-the-east",
-	"material": "hide"
+	"material": "hide",
+	"type": "treasure-map"
 }

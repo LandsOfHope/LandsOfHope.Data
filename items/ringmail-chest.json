@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "ringmail-chest",
 	"image": "rv1",
-	"type": "chest-armour",
-	"armorType": "mail",
 	"material": "metal",
+	"properties": {
+		"SPEED": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "chest-armour"
 }

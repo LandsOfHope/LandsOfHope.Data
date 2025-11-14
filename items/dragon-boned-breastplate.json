@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "dragon-boned-breastplate",
-	"image": "5809",
-	"type": "chest-armour",
 	"armorType": "plate",
 	"expansion": "dragons-of-the-east",
+	"id": "dragon-boned-breastplate",
+	"image": "5809",
 	"material": "hide",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skills": {
+		"armor": 1
+	},
+	"type": "chest-armour"
 }

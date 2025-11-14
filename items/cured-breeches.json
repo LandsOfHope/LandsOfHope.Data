@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "cured-breeches",
 	"image": "2805",
-	"type": "leg-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "leg-armour"
 }

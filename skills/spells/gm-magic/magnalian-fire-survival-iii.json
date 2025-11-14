@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/magnalian-fire-survival-iii",
-	"requirements": {
-		"skill": 512,
-		"mana": 512
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"fire-survival": 320
 		}
+	},
+	"id": "gm-magic/magnalian-fire-survival-iii",
+	"requirements": {
+		"mana": 512,
+		"skill": 512
 	}
 }

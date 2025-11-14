@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/volatile-health-loss",
-	"requirements": {
-		"skill": 825,
-		"mana": 825
-	},
 	"duration": "PT105M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": -411
 		}
+	},
+	"id": "gamemastery/volatile-health-loss",
+	"requirements": {
+		"mana": 825,
+		"skill": 825
 	}
 }

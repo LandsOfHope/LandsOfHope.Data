@@ -1,18 +1,18 @@
 {
-	"character": {
-		"$type": "/v1/characters/creation/common-creation-args",
-		"name": "Happy",
-		"profession": "league-privateer",
-		"sex": "M",
-		"image": "pirate7"
-	},
 	"additionalArgs": {
 		"$type": "/v1/characters/creation/uncharted-waters/uncharted-waters-creation-args",
+		"bonus": "wealth",
 		"vessel": {
 			"$type": "/v1/characters/creation/uncharted-waters/uncharted-waters-vessel-creation-args",
-			"name": "The Black Pearl",
-			"flagColor": "000000"
-		},
-		"bonus": "wealth"
+			"flagColor": "000000",
+			"name": "The Black Pearl"
+		}
+	},
+	"character": {
+		"$type": "/v1/characters/creation/common-creation-args",
+		"image": "pirate7",
+		"name": "Happy",
+		"profession": "league-privateer",
+		"sex": "M"
 	}
 }

@@ -1,30 +1,30 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/maps/map.json",
-	"title": "Map",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/maps/map"
-		},
-		"id": {
-			"$ref": "/schemas/v1/maps-worlds-id.gen.json"
 		},
 		"entry": {
 			"$ref": "/schemas/v1/coordinate.json"
 		},
 		"extents": {
-			"type": "object",
 			"properties": {
-				"topLeft": {
+				"bottomRight": {
 					"$ref": "/schemas/v1/coordinate.json"
 				},
-				"bottomRight": {
+				"topLeft": {
 					"$ref": "/schemas/v1/coordinate.json"
 				}
 			},
-			"required": ["topLeft", "bottomRight"]
+			"required": ["topLeft", "bottomRight"],
+			"type": "object"
+		},
+		"id": {
+			"$ref": "/schemas/v1/maps-worlds-id.gen.json"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "id", "entry", "extents"]
+	"required": ["$type", "id", "entry", "extents"],
+	"title": "Map",
+	"type": "object"
 }

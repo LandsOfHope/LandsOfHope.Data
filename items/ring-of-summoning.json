@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "ring-of-summoning",
 	"image": "rgn",
-	"type": "ring",
 	"material": "hide",
 	"skill": "summoning",
 	"skills": {
 		"summoning": 1
-	}
+	},
+	"type": "ring"
 }

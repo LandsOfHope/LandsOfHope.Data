@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"dpr": 37,
 	"id": "undeathbringer",
 	"image": "5015",
-	"type": "2-handed-equipment",
-	"dpr": 37,
 	"material": "stone",
 	"skill": "pole-weapons",
 	"skills": {
-		"track-undead": 1,
+		"attack-power": 1,
 		"pole-weapons": 1,
-		"attack-power": 1
-	}
+		"track-undead": 1
+	},
+	"type": "2-handed-equipment"
 }

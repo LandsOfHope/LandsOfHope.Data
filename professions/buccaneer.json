@@ -1,16 +1,14 @@
 {
 	"$type": "/v1/profession",
-	"id": "buccaneer",
-	"name": {
-		"en": "Buccaneer"
-	},
 	"desc": {
 		"en": "The Novice is a Tier I evolution from the Privateer Profession."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5,
-		"treasure-seeking": 5
+	"evo": {
+		"raider": 350
+	},
+	"id": "buccaneer",
+	"name": {
+		"en": "Buccaneer"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -18,7 +16,9 @@
 		"MAXSTAMINA": 2,
 		"STRENGTH": 2
 	},
-	"evo": {
-		"raider": 350
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"treasure-seeking": 5
 	}
 }

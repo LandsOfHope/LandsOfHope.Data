@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "bejeweling/resolute-jewel-component",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-bejewel",
-		"item": "neck-enhancement",
-		"bejewel": "bejewels/resolute-jewel-component"
-	},
 	"image": "legt",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "bejeweling",
-	"skillValue": 4500,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "pearl",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-bejewel",
+		"bejewel": "bejewels/resolute-jewel-component",
+		"item": "neck-enhancement"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "bejeweling",
+	"skillValue": 4500,
+	"time": "PT15S"
 }

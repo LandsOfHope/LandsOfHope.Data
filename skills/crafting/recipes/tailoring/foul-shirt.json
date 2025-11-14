@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tailoring/foul-shirt",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "foul-shirt"
-	},
 	"image": "1810",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "tailoring",
-	"skillValue": 1000,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "thread",
-			"quantity": 20,
-			"primary": true
+			"primary": true,
+			"quantity": 20
 		},
 		{
 			"id": "prepared-hide",
 			"quantity": 8
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "foul-shirt"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "tailoring",
+	"skillValue": 1000,
+	"time": "PT15S"
 }

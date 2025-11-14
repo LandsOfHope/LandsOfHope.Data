@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 2344
+	},
 	"id": "heavy-munitions/mastered-artillery-i",
 	"requirements": {
 		"skill": 4681,
 		"stamina": 4680
-	},
-	"effects": {
-		"damage": 2344
 	}
 }

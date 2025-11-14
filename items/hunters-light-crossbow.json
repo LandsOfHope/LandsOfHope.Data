@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 22,
 	"id": "hunters-light-crossbow",
 	"image": "xw2",
-	"type": "ranged-weapon",
-	"dpr": 22,
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ranged-weapon"
 }

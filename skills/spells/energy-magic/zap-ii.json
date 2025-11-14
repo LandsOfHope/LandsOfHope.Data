@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "energy-magic/zap-ii",
-	"requirements": {
-		"skill": 3197,
-		"mana": 3197
-	},
 	"effects": {
 		"damage": 2252
+	},
+	"id": "energy-magic/zap-ii",
+	"requirements": {
+		"mana": 3197,
+		"skill": 3197
 	}
 }

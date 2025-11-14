@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "hardwood-floors",
 	"image": "deck7",
-	"type": "lordship-furniture",
 	"material": "stone",
-	"skill": "lordship"
+	"skill": "lordship",
+	"type": "lordship-furniture"
 }

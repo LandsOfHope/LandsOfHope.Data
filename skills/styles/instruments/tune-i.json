@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1647
+	},
 	"id": "instruments/tune-i",
 	"requirements": {
 		"skill": 3286,
 		"stamina": 3286
-	},
-	"effects": {
-		"damage": 1647
 	}
 }

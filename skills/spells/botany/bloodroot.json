@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "botany/bloodroot",
-	"requirements": {
-		"skill": 2380,
-		"mana": 476
-	},
 	"duration": "PT50M",
 	"effects": {
 		"summon-item": {
 			"item": "bloodroot"
 		}
+	},
+	"id": "botany/bloodroot",
+	"requirements": {
+		"mana": 476,
+		"skill": 2380
 	}
 }

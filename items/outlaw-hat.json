@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
-	"id": "outlaw-hat",
-	"image": "5231",
-	"type": "head-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "outlaw-hat",
+	"image": "5231",
 	"material": "cloth",
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "head-armour"
 }

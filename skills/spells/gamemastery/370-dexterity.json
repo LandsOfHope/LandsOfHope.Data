@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/370-dexterity",
-	"requirements": {
-		"skill": 3700,
-		"level": 740,
-		"mana": 74
-	},
 	"duration": "PT60M",
 	"effects": {
 		"properties": {
 			"DEXTERITY": 370
 		}
+	},
+	"id": "gamemastery/370-dexterity",
+	"requirements": {
+		"level": 740,
+		"mana": 74,
+		"skill": 3700
 	}
 }

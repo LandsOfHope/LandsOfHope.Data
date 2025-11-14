@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "battle-harness",
 	"image": "bet",
-	"type": "stomach",
 	"material": "hide",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "stomach"
 }

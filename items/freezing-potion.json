@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 53,
 	"id": "freezing-potion",
 	"image": "pe5",
-	"type": "ammo-weapons-potions",
-	"dpr": 53,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-potions"
 }

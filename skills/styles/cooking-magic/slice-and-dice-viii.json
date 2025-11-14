@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 775
+	},
 	"id": "cooking-magic/slice-and-dice-viii",
 	"requirements": {
 		"skill": 1086,
 		"stamina": 1086
-	},
-	"effects": {
-		"damage": 775
 	}
 }

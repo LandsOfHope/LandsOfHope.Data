@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "ring-of-the-luminos-hearth",
 	"image": "ring8",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
-		"carpentry": 1,
 		"blacksmithing": 1,
+		"carpentry": 1,
 		"lumberjacking": 1
-	}
+	},
+	"type": "ring"
 }

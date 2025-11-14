@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "dark-cookies",
 	"image": "dri",
-	"type": "food",
 	"material": "hide",
 	"properties": {
 		"STAMINA": 3
-	}
+	},
+	"type": "food"
 }

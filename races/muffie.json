@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Muffie"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Muffie"
+	},
 	"pics": {
-		"M": ["muffie1"],
-		"F": ["muffie2"]
+		"F": ["muffie2"],
+		"M": ["muffie1"]
 	}
 }

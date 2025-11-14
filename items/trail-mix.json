@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "trail-mix",
 	"image": "zutrmi",
-	"type": "food",
 	"material": "berry",
 	"properties": {
 		"MANA": 2
-	}
+	},
+	"type": "food"
 }

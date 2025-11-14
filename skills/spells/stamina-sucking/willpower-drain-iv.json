@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "stamina-sucking/willpower-drain-iv",
-	"requirements": {
-		"skill": 2710,
-		"mana": 2710
-	},
 	"duration": "PT25M",
 	"effects": {
 		"damage": 109,
 		"properties": {
 			"STAMINA": -1350
 		}
+	},
+	"id": "stamina-sucking/willpower-drain-iv",
+	"requirements": {
+		"mana": 2710,
+		"skill": 2710
 	}
 }

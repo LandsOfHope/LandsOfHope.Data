@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "throwing-knife",
 	"image": "gmthkn",
-	"type": "ranged-weapon",
-	"dpr": 2,
 	"material": "metal",
+	"properties": {
+		"SPEED": 1
+	},
 	"skill": "thrown-weapons",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "ranged-weapon"
 }

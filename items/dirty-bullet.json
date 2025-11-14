@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 29,
 	"id": "dirty-bullet",
 	"image": "zudibu1",
-	"type": "ammo-weapons-bullets",
-	"dpr": 29,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

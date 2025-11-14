@@ -1,22 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "whelp-demon",
-	"name": {
-		"en": "Whelp Demon"
-	},
 	"desc": {
 		"en": "An all round pet, with reasonable stats and a varied amount of skills."
 	},
-	"skills": {
-		"frenzy": 5,
-		"daggers": 5,
-		"swords": 5,
-		"axes": 5,
-		"fists": 5,
-		"dual-wielding": 5,
-		"propelled": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "whelp-demon",
+	"name": {
+		"en": "Whelp Demon"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -24,5 +13,16 @@
 		"MAXSTAMINA": 3,
 		"SPEED": 3,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"axes": 5,
+		"daggers": 5,
+		"dual-wielding": 5,
+		"fists": 5,
+		"frenzy": 5,
+		"propelled": 5,
+		"swords": 5
 	}
 }

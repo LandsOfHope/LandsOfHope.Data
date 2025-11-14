@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-blowpipe",
 	"image": "1996",
-	"type": "2-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "wood",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"SPEED": 1
+	},
 	"skill": "propelled",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1,
-		"SPEED": 1
-	}
+	"type": "2-handed-equipment"
 }

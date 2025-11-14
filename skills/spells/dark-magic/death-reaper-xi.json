@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "dark-magic/death-reaper-xi",
-	"requirements": {
-		"skill": 3226,
-		"mana": 3226
-	},
 	"effects": {
 		"damage": 2273
+	},
+	"id": "dark-magic/death-reaper-xi",
+	"requirements": {
+		"mana": 3226,
+		"skill": 3226
 	}
 }

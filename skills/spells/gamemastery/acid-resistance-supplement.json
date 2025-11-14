@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/acid-resistance-supplement",
-	"requirements": {
-		"skill": 91,
-		"mana": 91
-	},
 	"duration": "PT30M",
 	"effects": {
 		"skills": {
 			"acid-resistance": 200
 		}
+	},
+	"id": "gamemastery/acid-resistance-supplement",
+	"requirements": {
+		"mana": 91,
+		"skill": 91
 	}
 }

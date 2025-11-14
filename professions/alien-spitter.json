@@ -1,19 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "alien-spitter",
-	"name": {
-		"en": "Alien Spitter"
-	},
 	"desc": {
 		"en": "An alien archer."
 	},
-	"skills": {
-		"frenzy": 5,
-		"daggers": 5,
-		"crossbows": 5,
-		"stringed-defense": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "alien-spitter",
+	"name": {
+		"en": "Alien Spitter"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -21,5 +13,13 @@
 		"MAXSTAMINA": 4,
 		"SPEED": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"crossbows": 5,
+		"daggers": 5,
+		"frenzy": 5,
+		"stringed-defense": 5
 	}
 }

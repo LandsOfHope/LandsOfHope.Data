@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "footman-leggings",
 	"image": "2520",
-	"type": "leg-armour",
-	"armorType": "mail",
-	"material": "metal"
+	"material": "metal",
+	"type": "leg-armour"
 }

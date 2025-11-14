@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 333
+	},
 	"id": "siege-weapons/bombardment-iii",
 	"requirements": {
 		"skill": 3100,
 		"stamina": 1000
-	},
-	"effects": {
-		"damage": 333
 	}
 }

@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/everbright",
-	"requirements": {
-		"skill": 3844,
-		"mana": 3844
-	},
 	"effects": {
 		"summon-pet": {
 			"race": "wisp"
 		}
+	},
+	"id": "summoning/everbright",
+	"requirements": {
+		"mana": 3844,
+		"skill": 3844
 	}
 }

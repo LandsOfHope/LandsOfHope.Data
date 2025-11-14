@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/drake-flight-iv",
-	"requirements": {
-		"skill": 813,
-		"mana": 813
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"air-survival": 407
 		}
+	},
+	"id": "gm-magic/drake-flight-iv",
+	"requirements": {
+		"mana": 813,
+		"skill": 813
 	}
 }

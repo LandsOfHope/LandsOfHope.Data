@@ -1,9 +1,9 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "elemental-boots",
 	"image": "6377",
-	"type": "foot-armour",
-	"armorType": "cloth",
+	"material": "hide",
 	"set": "elemental-set",
-	"material": "hide"
+	"type": "foot-armour"
 }

@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "baby-bonegard",
 	"image": "zubabo",
-	"type": "monster-spawner",
 	"material": "gem",
-	"skill": "dark-hollow-clan"
+	"skill": "dark-hollow-clan",
+	"type": "monster-spawner"
 }

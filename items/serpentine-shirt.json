@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "serpentine-shirt",
 	"image": "2094",
-	"type": "chest-armour",
-	"armorType": "cloth",
 	"material": "snake",
 	"skills": {
-		"stealth": 1,
-		"poison-magic": 1
-	}
+		"poison-magic": 1,
+		"stealth": 1
+	},
+	"type": "chest-armour"
 }

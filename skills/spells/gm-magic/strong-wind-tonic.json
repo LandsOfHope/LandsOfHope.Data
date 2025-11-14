@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/strong-wind-tonic",
-	"requirements": {
-		"skill": 3000,
-		"mana": 3000
-	},
 	"duration": "PT600M",
 	"effects": {
 		"skills": {
 			"air-resistance": 600
 		}
+	},
+	"id": "gm-magic/strong-wind-tonic",
+	"requirements": {
+		"mana": 3000,
+		"skill": 3000
 	}
 }

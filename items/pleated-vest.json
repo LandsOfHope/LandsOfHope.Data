@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "pleated-vest",
 	"image": "3086",
-	"type": "chest-armour",
-	"armorType": "cloth",
-	"material": "cloth"
+	"material": "cloth",
+	"type": "chest-armour"
 }

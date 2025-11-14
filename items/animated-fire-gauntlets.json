@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "animated-fire-gauntlets",
 	"image": "6356",
-	"type": "hand-armour",
-	"armorType": "leather",
 	"material": "hide",
-	"skill": "animation",
-	"skills": {
-		"frenzy": 1,
-		"armor": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"skill": "animation",
+	"skills": {
+		"armor": 1,
+		"frenzy": 1
+	},
+	"type": "hand-armour"
 }

@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
-	"id": "templar-tabard",
-	"image": "6234",
-	"type": "chest-armour",
 	"armorType": "cloth",
 	"expansion": "the-afterlife",
-	"set": "templar-set",
+	"id": "templar-tabard",
+	"image": "6234",
 	"material": "hide",
-	"skills": {
-		"celestial-defense": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"set": "templar-set",
+	"skills": {
+		"celestial-defense": 1
+	},
+	"type": "chest-armour"
 }

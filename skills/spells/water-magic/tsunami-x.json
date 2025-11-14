@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "water-magic/tsunami-x",
-	"requirements": {
-		"skill": 2017,
-		"mana": 2017
-	},
 	"effects": {
 		"damage": 1426
+	},
+	"id": "water-magic/tsunami-x",
+	"requirements": {
+		"mana": 2017,
+		"skill": 2017
 	}
 }

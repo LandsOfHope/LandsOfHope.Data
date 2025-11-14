@@ -1,19 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "mentalist",
-	"name": {
-		"en": "Mentalist"
-	},
 	"desc": {
 		"en": "A mentalist."
 	},
-	"skills": {
-		"celestial-magic": 5,
-		"dual-wielding": 5,
-		"instruments": 5,
-		"singing": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "mentalist",
+	"name": {
+		"en": "Mentalist"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -22,5 +14,13 @@
 		"MAXMANA": 4,
 		"MAXSTAMINA": 2,
 		"SPEED": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"celestial-magic": 5,
+		"dual-wielding": 5,
+		"instruments": 5,
+		"singing": 5
 	}
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 52,
 	"id": "bloody-dirk",
 	"image": "drk",
-	"type": "1-handed-equipment",
-	"dpr": 52,
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

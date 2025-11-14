@@ -1,20 +1,20 @@
 {
 	"$type": "/v1/profession",
-	"id": "harvestor",
-	"name": {
-		"en": "Harvestor"
-	},
 	"desc": {
 		"en": "Harvestor. An expert at tending the plants of Saloa to gain fibers."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "harvestor",
+	"name": {
+		"en": "Harvestor"
 	},
 	"properties": {
 		"INTELLIGENCE": 2,
 		"MAXHITPOINTS": 3,
 		"MAXMANA": 1,
 		"MAXSTAMINA": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

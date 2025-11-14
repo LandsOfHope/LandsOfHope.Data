@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "flintlock-musket",
-	"image": "5279",
-	"type": "ranged-weapon",
 	"dpr": 2,
 	"expansion": "uncharted-waters",
+	"id": "flintlock-musket",
+	"image": "5279",
 	"material": "metal",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skill": "two-handed-guns",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "ranged-weapon"
 }

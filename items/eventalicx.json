@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 6,
 	"id": "eventalicx",
 	"image": "d",
-	"type": "1-handed-equipment",
-	"dpr": 6,
 	"material": "metal",
 	"skill": "axes",
 	"skills": {
-		"axes": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"axes": 1
+	},
+	"type": "1-handed-equipment"
 }

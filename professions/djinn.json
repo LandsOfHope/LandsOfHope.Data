@@ -1,24 +1,24 @@
 {
 	"$type": "/v1/profession",
-	"id": "djinn",
-	"name": {
-		"en": "Djinn"
-	},
 	"desc": {
 		"en": "Master of the 7 Winds and Weather of Saloa."
 	},
-	"skills": {
-		"mystical-magic": 5,
-		"mystical-resistance": 5,
-		"air-resistance": 5,
-		"air-magic": 5,
-		"armor": 5,
-		"attack-power": 5,
-		"arcane-resistance": 5
+	"id": "djinn",
+	"name": {
+		"en": "Djinn"
 	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 5
+	},
+	"skills": {
+		"air-magic": 5,
+		"air-resistance": 5,
+		"arcane-resistance": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"mystical-magic": 5,
+		"mystical-resistance": 5
 	}
 }

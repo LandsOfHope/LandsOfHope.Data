@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Horror"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Horror"
+	},
 	"pics": {
-		"M": ["dl1"],
-		"F": ["dl2"]
+		"F": ["dl2"],
+		"M": ["dl1"]
 	}
 }

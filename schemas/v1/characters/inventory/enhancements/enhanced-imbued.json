@@ -1,13 +1,11 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-imbued.json",
-	"title": "EnhancedImbued",
-	"type": "object",
 	"properties": {
 		"enhancements": {
-			"type": "array",
 			"contains": {
 				"const": "imbued"
-			}
+			},
+			"type": "array"
 		},
 		"imbuement": {
 			"oneOf": [
@@ -20,5 +18,7 @@
 			]
 		}
 	},
-	"required": ["enhancements", "imbuement"]
+	"required": ["enhancements", "imbuement"],
+	"title": "EnhancedImbued",
+	"type": "object"
 }

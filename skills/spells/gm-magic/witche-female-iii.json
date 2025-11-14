@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/witche-female-iii",
-	"requirements": {
-		"skill": 607,
-		"mana": 607
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 304
 		}
+	},
+	"id": "gm-magic/witche-female-iii",
+	"requirements": {
+		"mana": 607,
+		"skill": 607
 	}
 }

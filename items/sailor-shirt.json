@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "sailor-shirt",
-	"image": "5250",
-	"type": "chest-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "sailor-shirt",
+	"image": "5250",
 	"material": "cloth",
+	"properties": {
+		"SPEED": 1
+	},
 	"skill": "myzan-navy",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "chest-armour"
 }

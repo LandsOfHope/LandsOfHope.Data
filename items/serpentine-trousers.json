@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "serpentine-trousers",
 	"image": "2099",
-	"type": "leg-armour",
-	"armorType": "cloth",
 	"material": "snake",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skills": {
 		"poison-resistance": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "leg-armour"
 }

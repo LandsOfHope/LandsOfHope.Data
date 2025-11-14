@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "amulet",
 	"image": "am1",
-	"type": "neck",
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1
-	}
+	},
+	"type": "neck"
 }

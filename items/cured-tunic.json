@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "cured-tunic",
 	"image": "2772",
-	"type": "chest-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "chest-armour"
 }

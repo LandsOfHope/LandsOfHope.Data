@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-quarterstaff",
 	"image": "zuvafast",
-	"type": "1-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "wood",
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXSTAMINA": 1
+	},
 	"skill": "staves",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"DEXTERITY": 1,
-		"MAXSTAMINA": 1
-	}
+	"type": "1-handed-equipment"
 }

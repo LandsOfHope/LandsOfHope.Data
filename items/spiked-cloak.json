@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "spiked-cloak",
 	"image": "cl8",
-	"type": "cloak",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skills": {
 		"armor": 1,
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "cloak"
 }

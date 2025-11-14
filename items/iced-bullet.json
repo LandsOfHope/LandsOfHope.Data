@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 95,
 	"id": "iced-bullet",
 	"image": "zuicbu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 95,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

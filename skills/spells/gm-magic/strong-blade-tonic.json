@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/strong-blade-tonic",
-	"requirements": {
-		"skill": 3000,
-		"mana": 2700
-	},
 	"duration": "PT540M",
 	"effects": {
 		"skills": {
 			"bladed-defense": 540
 		}
+	},
+	"id": "gm-magic/strong-blade-tonic",
+	"requirements": {
+		"mana": 2700,
+		"skill": 3000
 	}
 }

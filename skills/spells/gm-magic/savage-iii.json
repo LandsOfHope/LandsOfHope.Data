@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/savage-iii",
-	"requirements": {
-		"skill": 430,
-		"mana": 430
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"attack-power": 216
 		}
+	},
+	"id": "gm-magic/savage-iii",
+	"requirements": {
+		"mana": 430,
+		"skill": 430
 	}
 }

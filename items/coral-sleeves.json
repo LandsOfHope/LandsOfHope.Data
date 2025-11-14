@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "coral-sleeves",
 	"image": "1564",
-	"type": "arm-armour",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"MAXMANA": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXMANA": 1
-	}
+	"type": "arm-armour"
 }

@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "fox-egg",
 	"image": "zufoeg",
-	"type": "monster-spawner",
 	"material": "gem",
-	"skill": "myzan-defenders"
+	"skill": "myzan-defenders",
+	"type": "monster-spawner"
 }

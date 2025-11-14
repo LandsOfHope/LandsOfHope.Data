@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "guilded-strung-boots",
 	"image": "3827",
-	"type": "foot-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "foot-armour"
 }

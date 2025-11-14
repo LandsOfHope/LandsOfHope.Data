@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 574
+	},
 	"id": "martial-arts/preying-mantis-ii",
 	"requirements": {
 		"skill": 1141,
 		"stamina": 1140
-	},
-	"effects": {
-		"damage": 574
 	}
 }

@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-event.json",
-	"title": "PaddleEvent",
-	"type": "object",
 	"additionalProperties": true,
 	"allOf": [
 		{
@@ -19,6 +17,9 @@
 			"oneOf": [
 				{
 					"properties": {
+						"data": {
+							"$ref": "/schemas/v1/events/payments/paddle/paddle-subscription.json"
+						},
 						"event_type": {
 							"enum": [
 								"subscription.activated",
@@ -27,20 +28,17 @@
 								"subscription.paused",
 								"subscription.resumed"
 							]
-						},
-						"data": {
-							"$ref": "/schemas/v1/events/payments/paddle/paddle-subscription.json"
 						}
 					},
 					"required": ["event_type", "data"]
 				},
 				{
 					"properties": {
-						"event_type": {
-							"enum": ["transaction.completed"]
-						},
 						"data": {
 							"$ref": "/schemas/v1/events/payments/paddle/paddle-transaction.json"
+						},
+						"event_type": {
+							"enum": ["transaction.completed"]
 						}
 					},
 					"required": ["event_type", "data"]
@@ -48,5 +46,7 @@
 			]
 		}
 	],
-	"required": ["event_id", "occurred_at", "event_type", "data"]
+	"required": ["event_id", "occurred_at", "event_type", "data"],
+	"title": "PaddleEvent",
+	"type": "object"
 }

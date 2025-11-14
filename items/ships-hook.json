@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "ships-hook",
 	"image": "gmshho",
-	"type": "1-handed-equipment",
-	"expansion": "uncharted-waters",
 	"material": "metal",
 	"skill": "seamanship",
 	"skills": {
 		"seamanship": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

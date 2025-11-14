@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "sparkling-crown",
 	"image": "na",
-	"type": "head-armour",
-	"armorType": "plate",
 	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "head-armour"
 }

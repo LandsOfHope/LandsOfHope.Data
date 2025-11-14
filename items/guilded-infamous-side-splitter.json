@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 83,
 	"id": "guilded-infamous-side-splitter",
 	"image": "dg",
-	"type": "1-handed-equipment",
-	"dpr": 83,
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

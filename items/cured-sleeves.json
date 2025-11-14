@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "cured-sleeves",
 	"image": "2970",
-	"type": "arm-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "arm-armour"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 89,
 	"id": "chilled-bullet",
 	"image": "zuchbu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 89,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

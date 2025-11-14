@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "virginias-ring-of-troublemaking",
 	"image": "6799",
-	"type": "ring",
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 2,
 		"STRENGTH": 2
-	}
+	},
+	"type": "ring"
 }

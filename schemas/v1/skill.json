@@ -1,7 +1,6 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/skill.json",
-	"title": "Skill",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/skill"
@@ -10,15 +9,16 @@
 			"$ref": "/schemas/v1/skill-group.json"
 		},
 		"titles": {
-			"type": "object",
+			"additionalProperties": false,
 			"patternProperties": {
 				"^[0-9]+$": {
 					"$ref": "/schemas/v1/titles-id.gen.json"
 				}
 			},
-			"additionalProperties": false
+			"type": "object"
 		}
 	},
 	"required": ["$type", "group"],
-	"additionalProperties": false
+	"title": "Skill",
+	"type": "object"
 }

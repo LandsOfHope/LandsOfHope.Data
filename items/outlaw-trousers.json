@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
-	"id": "outlaw-trousers",
-	"image": "5229",
-	"type": "leg-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "outlaw-trousers",
+	"image": "5229",
 	"material": "cloth",
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "leg-armour"
 }

@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Minotaur"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Minotaur"
+	},
 	"pics": {
-		"M": ["mjpmm"],
-		"F": ["mjpmf"]
+		"F": ["mjpmf"],
+		"M": ["mjpmm"]
 	}
 }

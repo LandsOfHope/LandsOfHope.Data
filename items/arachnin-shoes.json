@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "arachnin-shoes",
-	"image": "5141",
-	"type": "foot-armour",
 	"armorType": "cloth",
 	"expansion": "jurassic-wars",
+	"id": "arachnin-shoes",
+	"image": "5141",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

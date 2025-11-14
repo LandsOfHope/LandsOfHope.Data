@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "cow-costume-head",
 	"image": "arhed",
-	"type": "head-armour",
-	"set": "cow-costume",
 	"material": "hide",
+	"set": "cow-costume",
 	"skill": "artisan",
 	"skills": {
 		"farming": 1
-	}
+	},
+	"type": "head-armour"
 }

@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tinkering/stormy-dart",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "stormy-dart"
-	},
 	"image": "drt",
-	"time": "PT15S",
-	"quantity": 20,
-	"skill": "tinkering",
-	"skillValue": 3605,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "dart-tip",
@@ -18,8 +9,17 @@
 		},
 		{
 			"id": "plank",
-			"quantity": 5,
-			"primary": true
+			"primary": true,
+			"quantity": 5
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "stormy-dart"
+	},
+	"quality": "common",
+	"quantity": 20,
+	"skill": "tinkering",
+	"skillValue": 3605,
+	"time": "PT15S"
 }

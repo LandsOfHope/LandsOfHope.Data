@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "dynamo-gloves",
 	"image": "1111",
-	"type": "hand-armour",
-	"armorType": "cloth",
 	"material": "hide",
 	"skills": {
 		"tinkering": 1
-	}
+	},
+	"type": "hand-armour"
 }

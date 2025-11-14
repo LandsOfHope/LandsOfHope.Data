@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "varelia-bloodwitch"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Varelia Bloodwitch",
-		"title": "witch",
 		"image": "vas",
 		"level": {
 			"primary": 1
 		},
+		"name": "Varelia Bloodwitch",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "witch"
 	}
 }

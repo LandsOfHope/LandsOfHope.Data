@@ -2,14 +2,14 @@
 	"$type": "/v1/item",
 	"id": "heritage",
 	"image": "gmhegi",
-	"type": "wings",
 	"material": "hide",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	},
 	"skills": {
 		"air-survival": 1,
 		"armor": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1,
-		"MAXMANA": 1
-	}
+	"type": "wings"
 }

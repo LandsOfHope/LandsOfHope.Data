@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 394
+	},
 	"id": "shields/block-and-strike-iii",
 	"requirements": {
 		"skill": 781,
 		"stamina": 780
-	},
-	"effects": {
-		"damage": 394
 	}
 }

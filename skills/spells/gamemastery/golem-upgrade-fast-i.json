@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/golem-upgrade-fast-i",
-	"requirements": {
-		"skill": 1,
-		"mana": 1
-	},
 	"effects": {
 		"properties": {
 			"SPEED": 4
 		}
+	},
+	"id": "gamemastery/golem-upgrade-fast-i",
+	"requirements": {
+		"mana": 1,
+		"skill": 1
 	}
 }

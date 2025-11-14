@@ -1,23 +1,23 @@
 {
 	"$type": "/v1/profession",
-	"id": "massive-monster",
-	"name": {
-		"en": "Massive Monster"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"frenzy": 5,
-		"stamina-regen": 5,
-		"two-handed-swords": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "massive-monster",
+	"name": {
+		"en": "Massive Monster"
 	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 6,
 		"MAXSTAMINA": 4,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"frenzy": 5,
+		"stamina-regen": 5,
+		"two-handed-swords": 5
 	}
 }

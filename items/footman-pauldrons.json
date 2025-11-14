@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "footman-pauldrons",
 	"image": "2476",
-	"type": "shoulders",
-	"armorType": "plate",
-	"material": "metal"
+	"material": "metal",
+	"type": "shoulders"
 }

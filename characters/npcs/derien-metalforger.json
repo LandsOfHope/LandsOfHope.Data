@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "derien-metalforger"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Derien Metalforger",
-		"title": "camp-blacksmith",
 		"image": "dwm",
 		"level": {
 			"primary": 1
 		},
+		"name": "Derien Metalforger",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "camp-blacksmith"
 	}
 }

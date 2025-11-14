@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "scary-costume-mask",
 	"image": "tmask6",
-	"type": "head-armour",
-	"set": "halloween-costume",
 	"material": "hide",
+	"set": "halloween-costume",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "head-armour"
 }

@@ -1,9 +1,9 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/chat/commands/chat-command.json",
-	"title": "ChatCommand",
 	"oneOf": [
 		{
 			"$ref": "/schemas/v1/chat/commands/clear-room-messages.json"
 		}
-	]
+	],
+	"title": "ChatCommand"
 }

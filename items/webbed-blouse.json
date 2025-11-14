@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "webbed-blouse",
 	"image": "2084",
-	"type": "chest-armour",
-	"armorType": "cloth",
 	"material": "spider",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "chest-armour"
 }

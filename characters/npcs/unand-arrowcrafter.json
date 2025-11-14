@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "unand-arrowcrafter"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Unand Arrowcrafter",
-		"title": "carpenter",
 		"image": "gem",
 		"level": {
 			"primary": 900
 		},
+		"name": "Unand Arrowcrafter",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "carpenter"
 	}
 }

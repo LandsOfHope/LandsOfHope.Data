@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"dpr": 4,
 	"id": "ancient-spear",
 	"image": "acs",
-	"type": "2-handed-equipment",
-	"dpr": 4,
 	"material": "metal",
 	"skill": "thrown-weapons",
 	"skills": {
-		"poison-resistance": 1,
+		"attack-power": 1,
 		"poison-magic": 1,
-		"attack-power": 1
-	}
+		"poison-resistance": 1
+	},
+	"type": "2-handed-equipment"
 }

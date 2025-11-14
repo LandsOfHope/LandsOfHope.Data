@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "kielia-boltcrafter"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Kielia Boltcrafter",
-		"title": "tinkerer",
 		"image": "haf",
 		"level": {
 			"primary": 900
 		},
+		"name": "Kielia Boltcrafter",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "tinkerer"
 	}
 }

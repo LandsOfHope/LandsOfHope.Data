@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "dazzling-asbestos-hood",
 	"image": "1129",
-	"type": "neck-clothing",
-	"armorType": "cloth",
 	"material": "cloth",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skills": {
 		"blacksmithing": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "neck-clothing"
 }

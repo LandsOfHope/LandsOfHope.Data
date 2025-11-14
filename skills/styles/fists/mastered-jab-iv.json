@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1999
+	},
 	"id": "fists/mastered-jab-iv",
 	"requirements": {
 		"skill": 3991,
 		"stamina": 3990
-	},
-	"effects": {
-		"damage": 1999
 	}
 }

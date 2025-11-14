@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1842
+	},
 	"id": "instruments/jam-iii",
 	"requirements": {
 		"skill": 3676,
 		"stamina": 3676
-	},
-	"effects": {
-		"damage": 1842
 	}
 }

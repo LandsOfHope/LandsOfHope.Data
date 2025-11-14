@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Spirit of Undead"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Spirit of Undead"
+	},
 	"pics": {
-		"M": ["mpsem"],
-		"F": ["mpsef"]
+		"F": ["mpsef"],
+		"M": ["mpsem"]
 	}
 }

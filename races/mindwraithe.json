@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Mindwraithe"
+	"appr": {
+		"en": ""
 	},
 	"desc": {
 		"en": "An undead critter that specializes in mind control."
 	},
-	"appr": {
-		"en": ""
-	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Mindwraithe"
+	},
 	"pics": {
-		"M": ["mjpmindm"],
-		"F": ["mjpmindf"]
+		"F": ["mjpmindf"],
+		"M": ["mjpmindm"]
 	}
 }

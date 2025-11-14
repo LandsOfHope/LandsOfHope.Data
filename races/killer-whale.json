@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Killer Whale"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Killer Whale"
+	},
 	"pics": {
-		"M": ["mjpkwm"],
-		"F": ["mjpkwf"]
+		"F": ["mjpkwf"],
+		"M": ["mjpkwm"]
 	}
 }

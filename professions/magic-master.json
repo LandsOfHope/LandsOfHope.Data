@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
-	"id": "magic-master",
-	"name": {
-		"en": "Magic Master"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "magic-master",
+	"name": {
+		"en": "Magic Master"
 	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 2,
 		"MAXMANA": 5
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

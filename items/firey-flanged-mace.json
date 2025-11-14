@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"dpr": 7,
 	"id": "firey-flanged-mace",
 	"image": "bm",
-	"type": "1-handed-equipment",
-	"dpr": 7,
 	"material": "metal",
 	"skill": "maces",
 	"skills": {
+		"attack-power": 1,
 		"fire-resistance": 1,
-		"maces": 1,
-		"attack-power": 1
-	}
+		"maces": 1
+	},
+	"type": "1-handed-equipment"
 }

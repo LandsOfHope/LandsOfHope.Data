@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "stegosaurus-boots",
-	"image": "5159",
-	"type": "foot-armour",
 	"armorType": "mail",
 	"expansion": "jurassic-wars",
+	"id": "stegosaurus-boots",
+	"image": "5159",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

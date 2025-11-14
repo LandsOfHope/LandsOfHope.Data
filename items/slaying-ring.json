@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "slaying-ring",
 	"image": "6908",
-	"type": "ring",
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 0.6,
 		"MAXHITPOINTS": 1.1,
 		"SPEED": 0.6,
 		"STRENGTH": 0.6
-	}
+	},
+	"type": "ring"
 }

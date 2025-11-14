@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "singing/song-of-groovy-music",
-	"requirements": {
-		"skill": 3493,
-		"mana": 1396
-	},
 	"duration": "PT10M",
 	"effects": {
 		"skills": {
 			"attack-power": -1745
 		}
+	},
+	"id": "singing/song-of-groovy-music",
+	"requirements": {
+		"mana": 1396,
+		"skill": 3493
 	}
 }

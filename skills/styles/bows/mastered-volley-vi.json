@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 2029
+	},
 	"id": "bows/mastered-volley-vi",
 	"requirements": {
 		"skill": 4051,
 		"stamina": 4050
-	},
-	"effects": {
-		"damage": 2029
 	}
 }

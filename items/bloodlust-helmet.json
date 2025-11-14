@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "bloodlust-helmet",
 	"image": "6510",
-	"type": "head-armour",
-	"armorType": "leather",
 	"material": "hide",
 	"skills": {
-		"health-regen": 1,
+		"armor": 1,
 		"detect-hidden": 1,
-		"armor": 1
-	}
+		"health-regen": 1
+	},
+	"type": "head-armour"
 }

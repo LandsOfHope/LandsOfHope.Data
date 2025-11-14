@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
-	"id": "jailer",
-	"name": {
-		"en": "Jailer"
-	},
 	"desc": {
 		"en": "Jailer"
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "jailer",
+	"name": {
+		"en": "Jailer"
 	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

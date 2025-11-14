@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "blessed-tenth-robe",
 	"image": "rb13",
-	"type": "chest-armour",
-	"armorType": "cloth",
-	"set": "blessed-tenth",
 	"material": "cloth",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXMANA": 1
-	}
+	},
+	"set": "blessed-tenth",
+	"skills": {
+		"armor": 1
+	},
+	"type": "chest-armour"
 }

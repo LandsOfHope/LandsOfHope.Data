@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/snow-monster-coldtoes-iii",
-	"requirements": {
-		"skill": 687,
-		"mana": 687
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"cold-survival": 344
 		}
+	},
+	"id": "gm-magic/snow-monster-coldtoes-iii",
+	"requirements": {
+		"mana": 687,
+		"skill": 687
 	}
 }

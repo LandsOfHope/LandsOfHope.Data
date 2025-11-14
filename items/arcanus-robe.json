@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "arcanus-robe",
 	"image": "rb2",
-	"type": "neck",
-	"armorType": "cloth",
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 1
-	}
+	},
+	"type": "neck"
 }

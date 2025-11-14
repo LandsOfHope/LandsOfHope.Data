@@ -1,9 +1,9 @@
 {
 	"$type": "/v1/item",
+	"expansion": "the-afterlife",
 	"id": "templar-band",
 	"image": "6235",
-	"type": "ring",
-	"expansion": "the-afterlife",
+	"material": "gem",
 	"set": "templar-set",
-	"material": "gem"
+	"type": "ring"
 }

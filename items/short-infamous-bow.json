@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 82,
 	"id": "short-infamous-bow",
 	"image": "bw",
-	"type": "ranged-weapon",
-	"dpr": 82,
 	"material": "wood",
 	"skill": "bows",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ranged-weapon"
 }

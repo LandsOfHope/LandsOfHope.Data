@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "reformation/stamina-infusion-i",
-	"requirements": {
-		"skill": 50,
-		"mana": 15
-	},
 	"duration": "PT120M",
 	"effects": {
 		"properties": {
 			"STAMINA": 40
 		}
+	},
+	"id": "reformation/stamina-infusion-i",
+	"requirements": {
+		"mana": 15,
+		"skill": 50
 	}
 }

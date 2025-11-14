@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "smallsword",
-	"image": "zusmra",
-	"type": "1-handed-equipment",
 	"dpr": 2,
 	"expansion": "uncharted-waters",
+	"id": "smallsword",
+	"image": "zusmra",
 	"material": "metal",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skill": "swords",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "1-handed-equipment"
 }

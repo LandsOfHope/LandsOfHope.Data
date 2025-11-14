@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "winter-elf-army-badge",
 	"image": "6203",
-	"type": "bonus-slot",
 	"material": "cloth",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"toy-snatching": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "bonus-slot"
 }

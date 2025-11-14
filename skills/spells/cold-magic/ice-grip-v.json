@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "cold-magic/ice-grip-v",
-	"requirements": {
-		"skill": 2500,
-		"mana": 2500
-	},
 	"duration": "PT2M",
 	"effects": {
 		"damage": 5
+	},
+	"id": "cold-magic/ice-grip-v",
+	"requirements": {
+		"mana": 2500,
+		"skill": 2500
 	}
 }

@@ -1,10 +1,10 @@
 {
 	"$type": "/v1/item",
-	"id": "afterlife-helmet",
-	"image": "6385",
-	"type": "head-armour",
 	"armorType": "cloth",
 	"expansion": "the-afterlife",
+	"id": "afterlife-helmet",
+	"image": "6385",
+	"material": "hide",
 	"set": "afterlife-set",
-	"material": "hide"
+	"type": "head-armour"
 }

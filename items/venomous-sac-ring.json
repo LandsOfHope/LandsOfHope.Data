@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "venomous-sac-ring",
 	"image": "vsr",
-	"type": "ring",
 	"material": "metal",
 	"skills": {
-		"poison-resistance": 1,
-		"poison-magic": 1
-	}
+		"poison-magic": 1,
+		"poison-resistance": 1
+	},
+	"type": "ring"
 }

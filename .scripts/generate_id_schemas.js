@@ -1,5 +1,3 @@
-"use strict";
-
 const fs = require("fs");
 const path = require("path");
 
@@ -108,8 +106,8 @@ directories.forEach((dir) => {
 					path.join(parentOutputDir, `${subdir}-${idName}.gen.json`),
 					JSON.stringify({
 						$id: `https://data.landsofhope.com/${scoped_id_schema_file}`,
-						title: scopedProperTitle,
 						enum: scopedEnumValues,
+						title: scopedProperTitle,
 					}),
 				);
 				childEnums.push(scoped_id_schema_file);

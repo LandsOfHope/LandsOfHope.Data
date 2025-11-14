@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 5,
 	"id": "compound-bow",
 	"image": "c2b",
-	"type": "ranged-weapon",
-	"dpr": 5,
 	"material": "metal",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skill": "bows",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "ranged-weapon"
 }

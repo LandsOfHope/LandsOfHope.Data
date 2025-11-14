@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "hide-crafting-tool",
 	"image": "hct",
-	"type": "1-handed-equipment",
 	"material": "hide",
 	"skill": "leatherworking",
 	"skills": {
 		"leatherworking": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

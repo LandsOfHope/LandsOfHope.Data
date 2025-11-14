@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "genie-lamp",
 	"image": "xgl",
-	"type": "lights-torches",
 	"material": "gem",
 	"skills": {
 		"appraisal": 1
-	}
+	},
+	"type": "lights-torches"
 }

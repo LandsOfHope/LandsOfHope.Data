@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "frenzied-blood-ring",
 	"image": "rgf",
-	"type": "ring",
 	"material": "gem",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"HITPOINTS": 1,
 		"MAXHITPOINTS": 1
-	}
+	},
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "ring"
 }

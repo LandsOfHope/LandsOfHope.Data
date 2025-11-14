@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "skulking-dagger",
-	"image": "zuskda",
-	"type": "1-handed-equipment",
 	"dpr": 2,
 	"expansion": "uncharted-waters",
+	"id": "skulking-dagger",
+	"image": "zuskda",
 	"material": "metal",
+	"properties": {
+		"SPEED": 1
+	},
 	"skill": "daggers",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "1-handed-equipment"
 }

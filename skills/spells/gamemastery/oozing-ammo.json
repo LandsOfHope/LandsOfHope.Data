@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
+	"effects": {
+		"damage": 75
+	},
 	"id": "gamemastery/oozing-ammo",
 	"requirements": {
 		"level": 151,
 		"mana": 1
-	},
-	"effects": {
-		"damage": 75
 	}
 }

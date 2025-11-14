@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dark-depths",
 	"id": "unmarked-paint-box",
 	"image": "6559",
-	"type": "special-chest",
-	"expansion": "dark-depths",
-	"material": "wood"
+	"material": "wood",
+	"type": "special-chest"
 }

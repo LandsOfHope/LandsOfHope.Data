@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "shadow-augment",
 	"image": "6874",
-	"type": "augment",
 	"material": "gem",
 	"skills": {
 		"stealth": 1.1
-	}
+	},
+	"type": "augment"
 }

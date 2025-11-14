@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "air-magic/enkindling-spirit",
-	"requirements": {
-		"skill": 241,
-		"mana": 241
-	},
 	"duration": "PT200M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 121
 		}
+	},
+	"id": "air-magic/enkindling-spirit",
+	"requirements": {
+		"mana": 241,
+		"skill": 241
 	}
 }

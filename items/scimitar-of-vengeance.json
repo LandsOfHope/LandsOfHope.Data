@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 11,
 	"id": "scimitar-of-vengeance",
 	"image": "1661",
-	"type": "1-handed-equipment",
-	"dpr": 11,
 	"material": "gem",
 	"skill": "swords",
 	"skills": {
-		"swords": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"swords": 1
+	},
+	"type": "1-handed-equipment"
 }

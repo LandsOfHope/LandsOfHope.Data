@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
-	"id": "summer-vendor",
-	"name": {
-		"en": "Summer Vendor"
-	},
 	"desc": {
 		"en": "Sells some refreshing items."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "summer-vendor",
+	"name": {
+		"en": "Summer Vendor"
 	},
 	"properties": {
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 3,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

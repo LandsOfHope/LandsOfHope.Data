@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 66,
 	"id": "crushing-smoothstone",
 	"image": "sms",
-	"type": "ammo-weapons-rocks",
-	"dpr": 66,
 	"material": "stone",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-rocks"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "prepared-cloak",
 	"image": "pclo15",
-	"type": "cloak",
-	"armorType": "cloth",
 	"material": "cloth",
+	"properties": {
+		"MAXMANA": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXMANA": 1
-	}
+	"type": "cloak"
 }

@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "the-afterlife",
 	"id": "specimen-jar",
 	"image": "6261",
-	"type": "specimen-jar",
-	"expansion": "the-afterlife",
-	"material": "creatures"
+	"material": "creatures",
+	"type": "specimen-jar"
 }

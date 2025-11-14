@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "tenth-guard-gloves",
 	"image": "5053",
-	"type": "hand-armour",
-	"armorType": "plate",
-	"set": "tenth-guard",
 	"material": "metal",
-	"skills": {
-		"bladed-defense": 1,
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1
-	}
+	},
+	"set": "tenth-guard",
+	"skills": {
+		"armor": 1,
+		"bladed-defense": 1
+	},
+	"type": "hand-armour"
 }

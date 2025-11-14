@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "The Master  is a Tier III evolution from the Apprentice Profession via Novice > Adept."
+	},
 	"id": "master",
 	"name": {
 		"en": "Master"
-	},
-	"desc": {
-		"en": "The Master  is a Tier III evolution from the Apprentice Profession via Novice > Adept."
 	},
 	"properties": {
 		"DEXTERITY": 1,

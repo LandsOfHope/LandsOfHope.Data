@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 7,
 	"id": "ornate-short-bow",
 	"image": "gmorshbo",
-	"type": "ranged-weapon",
-	"dpr": 7,
 	"material": "gem",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skill": "bows",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "ranged-weapon"
 }

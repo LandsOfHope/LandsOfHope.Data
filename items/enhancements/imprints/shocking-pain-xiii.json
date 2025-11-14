@@ -1,10 +1,10 @@
 {
 	"$type": "/v1/items/enhancements/item-imprint",
-	"id": "imprints/shocking-pain-xiii",
-	"spell": "shocking-pain-xiii",
 	"chance": {
 		"$type": "/v1/random-chance",
-		"numer": 15,
-		"denom": 100
-	}
+		"denom": 100,
+		"numer": 15
+	},
+	"id": "imprints/shocking-pain-xiii",
+	"spell": "shocking-pain-xiii"
 }

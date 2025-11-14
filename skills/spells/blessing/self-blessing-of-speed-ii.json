@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "blessing/self-blessing-of-speed-ii",
-	"requirements": {
-		"skill": 4908,
-		"mana": 4908
-	},
 	"duration": "PT120M",
 	"effects": {
 		"properties": {
 			"SPEED": 505
 		}
+	},
+	"id": "blessing/self-blessing-of-speed-ii",
+	"requirements": {
+		"mana": 4908,
+		"skill": 4908
 	}
 }

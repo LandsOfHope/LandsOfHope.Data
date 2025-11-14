@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/items/enhancements/item-name",
-	"id": "names/the-warlock",
 	"effects": {
-		"skills": {
-			"hell-magic": 0.4,
-			"demonology": 0.4
-		},
 		"properties": {
 			"INTELLIGENCE": 0.4
+		},
+		"skills": {
+			"demonology": 0.4,
+			"hell-magic": 0.4
 		}
-	}
+	},
+	"id": "names/the-warlock"
 }

@@ -1,10 +1,10 @@
 {
 	"$type": "/v1/item",
-	"id": "afterlife-chestplate",
-	"image": "6383",
-	"type": "chest-armour",
 	"armorType": "cloth",
 	"expansion": "the-afterlife",
+	"id": "afterlife-chestplate",
+	"image": "6383",
+	"material": "hide",
 	"set": "afterlife-set",
-	"material": "hide"
+	"type": "chest-armour"
 }

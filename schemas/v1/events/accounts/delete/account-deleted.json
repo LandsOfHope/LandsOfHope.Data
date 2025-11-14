@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/accounts/delete/account-deleted.json",
-	"title": "AccountDeletedEvent",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -14,5 +12,7 @@
 			"$ref": "/schemas/v1/clients/client.json"
 		}
 	},
-	"required": ["$type", "account", "client"]
+	"required": ["$type", "account", "client"],
+	"title": "AccountDeletedEvent",
+	"type": "object"
 }

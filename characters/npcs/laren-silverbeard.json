@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "laren-silverbeard"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Laren Silverbeard",
-		"title": "blacksmith",
 		"image": "dwf",
 		"level": {
 			"primary": 1
 		},
+		"name": "Laren Silverbeard",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "blacksmith"
 	}
 }

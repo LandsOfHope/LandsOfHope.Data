@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Sithe Lord"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Sithe Lord"
+	},
 	"pics": {
-		"M": ["sd1"],
-		"F": ["sd2"]
+		"F": ["sd2"],
+		"M": ["sd1"]
 	}
 }

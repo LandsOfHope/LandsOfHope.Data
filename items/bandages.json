@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "bandages",
 	"image": "be1",
-	"type": "healing-resource",
-	"material": "cloth"
+	"material": "cloth",
+	"type": "healing-resource"
 }

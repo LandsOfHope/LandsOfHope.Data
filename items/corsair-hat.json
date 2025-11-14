@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
-	"id": "corsair-hat",
-	"image": "5246",
-	"type": "head-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "corsair-hat",
+	"image": "5246",
 	"material": "cloth",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	},
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1,
-		"STRENGTH": 1
-	}
+	"type": "head-armour"
 }

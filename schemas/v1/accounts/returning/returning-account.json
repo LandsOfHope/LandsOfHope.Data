@@ -1,14 +1,15 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/accounts/returning/returning-account.json",
-	"title": "ReturningAccount",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/accounts/returning/returning-account"
 		},
-		"token": {
-			"$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
+		"characters": {
+			"items": {
+				"$ref": "/schemas/v1/accounts/returning/returning-character.json"
+			},
+			"type": "array"
 		},
 		"linked_account": {
 			"oneOf": [
@@ -20,15 +21,14 @@
 				}
 			]
 		},
+		"token": {
+			"$ref": "/schemas/v1/accounts/returning/returning-account-token.json"
+		},
 		"username": {
 			"type": "string"
-		},
-		"characters": {
-			"type": "array",
-			"items": {
-				"$ref": "/schemas/v1/accounts/returning/returning-character.json"
-			}
 		}
 	},
-	"required": ["$type", "token", "linked_account", "username", "characters"]
+	"required": ["$type", "token", "linked_account", "username", "characters"],
+	"title": "ReturningAccount",
+	"type": "object"
 }

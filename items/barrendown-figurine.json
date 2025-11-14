@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "barrendown-figurine",
 	"image": "relic1",
-	"type": "special-slot",
 	"material": "metal",
-	"skill": "archaeology",
 	"properties": {
 		"DEXTERITY": 1,
 		"SPEED": 1
-	}
+	},
+	"skill": "archaeology",
+	"type": "special-slot"
 }

@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "work-hat",
 	"image": "awhat",
-	"type": "head-armour",
 	"material": "cloth",
-	"skill": "artisan"
+	"skill": "artisan",
+	"type": "head-armour"
 }

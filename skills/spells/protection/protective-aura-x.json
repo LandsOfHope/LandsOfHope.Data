@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "protection/protective-aura-x",
-	"requirements": {
-		"skill": 4330,
-		"mana": 4330
-	},
 	"duration": 4,
 	"effects": {
 		"damage": 3046,
 		"skills": {
 			"damage-absorption": 2741
 		}
+	},
+	"id": "protection/protective-aura-x",
+	"requirements": {
+		"mana": 4330,
+		"skill": 4330
 	}
 }

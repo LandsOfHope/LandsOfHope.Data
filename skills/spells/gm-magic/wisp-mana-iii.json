@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/wisp-mana-iii",
-	"requirements": {
-		"skill": 575,
-		"mana": 575
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 270
 		}
+	},
+	"id": "gm-magic/wisp-mana-iii",
+	"requirements": {
+		"mana": 575,
+		"skill": 575
 	}
 }

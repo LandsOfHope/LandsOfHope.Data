@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Ship's Parrot"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Ship's Parrot"
+	},
 	"pics": {
-		"M": ["mjpp1"],
-		"F": ["mjpp2"]
+		"F": ["mjpp2"],
+		"M": ["mjpp1"]
 	}
 }

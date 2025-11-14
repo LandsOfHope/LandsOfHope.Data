@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 62,
 	"id": "weeping-bullet",
 	"image": "zuwebu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 62,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

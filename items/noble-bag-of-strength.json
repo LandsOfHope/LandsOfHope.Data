@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "noble-bag-of-strength",
 	"image": "6775",
-	"type": "special-bag",
 	"material": "stone",
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"type": "special-bag"
 }

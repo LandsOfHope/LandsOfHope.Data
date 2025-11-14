@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "artisan/cookie-costume-box",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "cookie-costume-box"
-	},
 	"image": "5625",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "artisan",
-	"skillValue": 4050,
-	"quality": "uncommon",
 	"ingredients": [
 		{
 			"id": "cookie-costume-gloves",
@@ -24,5 +15,14 @@
 			"id": "cookie-costume-shirt",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "cookie-costume-box"
+	},
+	"quality": "uncommon",
+	"quantity": 1,
+	"skill": "artisan",
+	"skillValue": 4050,
+	"time": "PT15S"
 }

@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "marnok-hammerforge"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Marnok Hammerforge",
-		"title": "blacksmith",
 		"image": "dwm",
 		"level": {
 			"primary": 1
 		},
+		"name": "Marnok Hammerforge",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "blacksmith"
 	}
 }

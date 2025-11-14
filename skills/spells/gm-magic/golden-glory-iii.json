@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/golden-glory-iii",
-	"requirements": {
-		"skill": 150,
-		"level": 201,
-		"mana": 3
-	},
 	"duration": "PT18M",
 	"effects": {
 		"skills": {
 			"armor": 150
 		}
+	},
+	"id": "gm-magic/golden-glory-iii",
+	"requirements": {
+		"level": 201,
+		"mana": 3,
+		"skill": 150
 	}
 }

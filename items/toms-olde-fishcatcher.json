@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "toms-olde-fishcatcher",
 	"image": "rd1",
-	"type": "quest-item",
 	"material": "wood",
-	"skill": "fishing"
+	"skill": "fishing",
+	"type": "quest-item"
 }

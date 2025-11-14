@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "tingly-glowy-aura",
 	"image": "7011",
-	"type": "aura",
 	"material": "gem",
-	"skills": {
-		"armor": 1,
-		"alien-hunting": 4
-	},
 	"properties": {
 		"MAXHITPOINTS": 2.2
-	}
+	},
+	"skills": {
+		"alien-hunting": 4,
+		"armor": 1
+	},
+	"type": "aura"
 }

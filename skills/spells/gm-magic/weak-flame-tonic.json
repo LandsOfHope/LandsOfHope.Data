@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/weak-flame-tonic",
-	"requirements": {
-		"skill": 3000,
-		"mana": 250
-	},
 	"duration": "PT50M",
 	"effects": {
 		"skills": {
 			"fire-resistance": 50
 		}
+	},
+	"id": "gm-magic/weak-flame-tonic",
+	"requirements": {
+		"mana": 250,
+		"skill": 3000
 	}
 }

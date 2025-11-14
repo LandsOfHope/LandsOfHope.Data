@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "nocturnal-sleeves",
 	"image": "6754",
-	"type": "arm-armour",
-	"armorType": "leather",
 	"material": "hide",
-	"skills": {
-		"stealth": 1,
-		"armor": 1
-	},
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"skills": {
+		"armor": 1,
+		"stealth": 1
+	},
+	"type": "arm-armour"
 }

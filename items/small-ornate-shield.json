@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 32,
 	"id": "small-ornate-shield",
 	"image": "sd7",
-	"type": "1-handed-equipment",
-	"dpr": 32,
 	"material": "wood",
 	"skill": "shields",
 	"skills": {
-		"invoking-resistance": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"invoking-resistance": 1
+	},
+	"type": "1-handed-equipment"
 }

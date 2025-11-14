@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "empty-potion-bottle",
 	"image": "pe1",
-	"type": "potion-containers",
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "potion-containers"
 }

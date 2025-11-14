@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "pelted-blouse",
 	"image": "pshi10",
-	"type": "chest-armour",
-	"armorType": "cloth",
 	"material": "hide",
 	"skills": {
-		"cold-resistance": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"cold-resistance": 1
+	},
+	"type": "chest-armour"
 }

@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "halloween-gift-box",
 	"image": "2139",
-	"type": "present-box",
-	"armorType": "cloth",
-	"material": "hide"
+	"material": "hide",
+	"type": "present-box"
 }

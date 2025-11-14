@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "earth-magic/earthbolt-ii",
-	"requirements": {
-		"skill": 2346,
-		"mana": 2346
-	},
 	"effects": {
 		"damage": 1657
+	},
+	"id": "earth-magic/earthbolt-ii",
+	"requirements": {
+		"mana": 2346,
+		"skill": 2346
 	}
 }

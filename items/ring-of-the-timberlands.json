@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "ring-of-the-timberlands",
 	"image": "ring2",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
 		"carpentry": 1,
 		"lumberjacking": 1
-	}
+	},
+	"type": "ring"
 }

@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "whitecap-burial-robe",
 	"image": "5018",
-	"type": "neck-clothing",
-	"armorType": "cloth",
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 1
-	}
+	},
+	"type": "neck-clothing"
 }

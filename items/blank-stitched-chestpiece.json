@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "blank-stitched-chestpiece",
 	"image": "6857",
-	"type": "chest-armour",
-	"set": "inventor-stitched-set",
 	"material": "hide",
-	"skill": "blood-over-beauty",
 	"properties": {
 		"MAXSTAMINA": 0.75
-	}
+	},
+	"set": "inventor-stitched-set",
+	"skill": "blood-over-beauty",
+	"type": "chest-armour"
 }

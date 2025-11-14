@@ -1,10 +1,6 @@
-"use strict";
-
-const util = require("util");
-const exec = util.promisify(require("child_process").exec);
 const glob = require("glob");
-const fs = require("fs");
-const path = require("path");
+const fs = require("node:fs");
+const path = require("node:path");
 const jsonschematots = require("json-schema-to-typescript");
 
 const schemaVersions = glob.sync("schemas/*");
@@ -12,11 +8,10 @@ const schemaVersions = glob.sync("schemas/*");
 const apiRoot = "api/ts/";
 
 const resolver = {
+	canRead: true,
 	order: 1,
 
-	canRead: true,
-
-	read(file, callback, $refs) {
+	read(file, callback, _$refs) {
 		const filePath = path.resolve(`.${file.url.replace("c:", "")}`);
 		if (fs.existsSync(filePath)) {
 			callback(null, fs.readFileSync(filePath, { encoding: "utf-8" }));
@@ -26,9 +21,9 @@ const resolver = {
 	},
 };
 
-const main = async function () {
+const main = async () => {
 	schemaVersions.forEach((version) => {
-		const schemaGlob = (version + "/**/*.json").replace(path.sep, "/");
+		const schemaGlob = `${version}/**/*.json`.replace(path.sep, "/");
 		const schemas = glob.sync(schemaGlob);
 
 		const schemaFiles = schemas.map((s) => [
@@ -50,8 +45,7 @@ const main = async function () {
 					.replace(".json", ".d.ts"),
 			);
 			jsonschematots
-				.compile(schema, schema["title"], {
-					enableConstEnums: true,
+				.compile(schema, schema.title, {
 					$refOptions: {
 						dereference: { externalReferenceResolution: "root" },
 						resolve: {
@@ -61,6 +55,7 @@ const main = async function () {
 							myresolver: resolver,
 						},
 					},
+					enableConstEnums: true,
 				})
 				.then((ts) => {
 					fs.writeFileSync(outSchemaPath, ts);

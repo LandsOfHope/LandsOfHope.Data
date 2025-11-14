@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "assassins-ring",
 	"image": "asr",
-	"type": "ring",
 	"material": "metal",
+	"properties": {
+		"SPEED": 1
+	},
 	"skills": {
 		"shadow-strike": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "ring"
 }

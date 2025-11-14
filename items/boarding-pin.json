@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "boarding-pin",
-	"image": "5278",
-	"type": "1-handed-equipment",
 	"dpr": 2,
 	"expansion": "uncharted-waters",
+	"id": "boarding-pin",
+	"image": "5278",
 	"material": "metal",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skill": "maces",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "1-handed-equipment"
 }

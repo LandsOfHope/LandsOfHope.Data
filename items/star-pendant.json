@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "star-pendant",
 	"image": "6040",
-	"type": "neck",
-	"armorType": "cloth",
 	"material": "gem",
-	"skills": {
-		"celestial-defense": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXHITPOINTS": 1
-	}
+	},
+	"skills": {
+		"celestial-defense": 1
+	},
+	"type": "neck"
 }

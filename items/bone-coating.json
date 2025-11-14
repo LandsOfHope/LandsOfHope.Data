@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "bone-coating",
 	"image": "2440",
-	"type": "golem-parts",
-	"armorType": "mail",
-	"material": "metal"
+	"material": "metal",
+	"type": "golem-parts"
 }

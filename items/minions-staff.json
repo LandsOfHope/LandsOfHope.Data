@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "minions-staff",
 	"image": "staff05",
-	"type": "2-handed-equipment",
-	"dpr": 2,
 	"material": "metal",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "2-handed-equipment"
 }

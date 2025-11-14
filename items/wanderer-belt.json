@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
-	"id": "wanderer-belt",
-	"image": "zuwabe",
-	"type": "stomach",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "wanderer-belt",
+	"image": "zuwabe",
 	"material": "cloth",
 	"skill": "myzan-navy",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "stomach"
 }

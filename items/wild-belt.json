@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "wild-belt",
 	"image": "6029",
-	"type": "stomach",
-	"armorType": "cloth",
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1,
 		"SPEED": 1
-	}
+	},
+	"type": "stomach"
 }

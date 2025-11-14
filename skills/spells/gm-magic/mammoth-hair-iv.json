@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/mammoth-hair-iv",
-	"requirements": {
-		"skill": 834,
-		"mana": 834
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"cold-survival": 418
 		}
+	},
+	"id": "gm-magic/mammoth-hair-iv",
+	"requirements": {
+		"mana": 834,
+		"skill": 834
 	}
 }

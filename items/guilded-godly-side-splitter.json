@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 98,
 	"id": "guilded-godly-side-splitter",
 	"image": "dg",
-	"type": "1-handed-equipment",
-	"dpr": 98,
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

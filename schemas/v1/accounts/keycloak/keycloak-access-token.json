@@ -1,41 +1,39 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/accounts/keycloak/keycloak-access-token.json",
-	"title": "KeycloakAccessToken",
-	"type": "object",
 	"additionalProperties": true,
 	"oneOf": [
 		{
 			"properties": {
-				"sub": {
-					"$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
-				},
-				"groups": {
-					"type": "array",
-					"items": {
-						"$ref": "/schemas/v1/accounts/account-group.json"
-					}
-				},
-				"iss": {
-					"type": "string",
-					"format": "uri"
-				},
 				"azp": {
 					"type": "string"
-				},
-				"typ": {
-					"const": "Bearer"
 				},
 				"exp": {
 					"type": "number"
 				},
+				"groups": {
+					"items": {
+						"$ref": "/schemas/v1/accounts/account-group.json"
+					},
+					"type": "array"
+				},
 				"iat": {
 					"type": "number"
+				},
+				"iss": {
+					"format": "uri",
+					"type": "string"
 				},
 				"preferred_username": {
 					"type": "string"
 				},
 				"scope": {
 					"type": "string"
+				},
+				"sub": {
+					"$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
+				},
+				"typ": {
+					"const": "Bearer"
 				}
 			},
 			"required": [
@@ -50,33 +48,23 @@
 		},
 		{
 			"properties": {
-				"sub": {
-					"$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
-				},
 				"aud": {
 					"oneOf": [
 						{
-							"type": "string",
-							"format": "uri"
+							"format": "uri",
+							"type": "string"
 						},
 						{
-							"type": "array",
 							"items": {
-								"type": "string",
-								"format": "uri"
-							}
+								"format": "uri",
+								"type": "string"
+							},
+							"type": "array"
 						}
 					]
 				},
-				"iss": {
-					"type": "string",
-					"format": "uri"
-				},
 				"azp": {
 					"type": "string"
-				},
-				"typ": {
-					"const": "Bearer"
 				},
 				"exp": {
 					"type": "number"
@@ -84,11 +72,23 @@
 				"iat": {
 					"type": "number"
 				},
+				"iss": {
+					"format": "uri",
+					"type": "string"
+				},
 				"scope": {
 					"type": "string"
+				},
+				"sub": {
+					"$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
+				},
+				"typ": {
+					"const": "Bearer"
 				}
 			},
 			"required": ["sub", "aud", "scope", "iss", "azp", "typ", "exp", "iat"]
 		}
-	]
+	],
+	"title": "KeycloakAccessToken",
+	"type": "object"
 }

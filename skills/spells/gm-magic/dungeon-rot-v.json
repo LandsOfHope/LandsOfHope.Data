@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/dungeon-rot-v",
-	"requirements": {
-		"skill": 200,
-		"mana": 5
-	},
 	"duration": "PT25M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": -125
 		}
+	},
+	"id": "gm-magic/dungeon-rot-v",
+	"requirements": {
+		"mana": 5,
+		"skill": 200
 	}
 }

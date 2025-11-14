@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "health-stealing/life-steal-xii",
-	"requirements": {
-		"skill": 1576,
-		"mana": 1576
-	},
 	"duration": "PT25M",
 	"effects": {
 		"damage": 95,
 		"properties": {
 			"HITPOINTS": -783
 		}
+	},
+	"id": "health-stealing/life-steal-xii",
+	"requirements": {
+		"mana": 1576,
+		"skill": 1576
 	}
 }

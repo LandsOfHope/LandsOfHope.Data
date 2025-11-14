@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/maps/items/map-item-storage-location.json",
-	"title": "MapItemStorageLocation",
-	"type": "object",
 	"properties": {
 		"$type": {
 			"const": "/v1/maps/items/map-item-storage-location"
@@ -20,5 +18,7 @@
 			"$ref": "/schemas/v1/maps/items/map-item-id.json"
 		}
 	},
-	"required": ["$type", "location", "mapItem"]
+	"required": ["$type", "location", "mapItem"],
+	"title": "MapItemStorageLocation",
+	"type": "object"
 }

@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/items/resource",
-	"id": "fish",
-	"skill": "fishing",
-	"tools": ["fishing-rod", "fishing-net"],
-	"items": ["fish"],
 	"bonuses": {
 		"treasure-map-in-a-bottle": {
 			"$type": "/v1/random-chance",
-			"numer": 6,
-			"denom": 100
+			"denom": 100,
+			"numer": 6
 		}
 	},
+	"id": "fish",
+	"image": "fis",
+	"items": ["fish"],
 	"material": "fish",
-	"image": "fis"
+	"skill": "fishing",
+	"tools": ["fishing-rod", "fishing-net"]
 }

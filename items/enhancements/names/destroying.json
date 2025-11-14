@@ -1,9 +1,9 @@
 {
 	"$type": "/v1/items/enhancements/item-name",
-	"id": "names/destroying",
 	"effects": {
 		"skills": {
 			"deconstruction": 0.5
 		}
-	}
+	},
+	"id": "names/destroying"
 }

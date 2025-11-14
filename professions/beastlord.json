@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "beastlord",
-	"name": {
-		"en": "Beastlord"
-	},
 	"desc": {
 		"en": "The Beastlord is a Tier III evolution via Tracker > Hunter, the Beastlordr gains the ability to <b>Breed Beasts</b> and <b>Tame Beasts</b>.<br><br>This allows the Beastlord to tame any Beast type monster to be their loyal and loving minion and also to breed minions to make new pets.<br><br>You can sell or trade these pets on to other players."
 	},
-	"skills": {
-		"beast-breeding": 5,
-		"beastmastery": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "beastlord",
+	"name": {
+		"en": "Beastlord"
 	},
 	"properties": {
 		"DEXTERITY": 3,
@@ -20,5 +14,11 @@
 		"MAXMANA": 1,
 		"MAXSTAMINA": 2,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"beast-breeding": 5,
+		"beastmastery": 5
 	}
 }

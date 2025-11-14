@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "festive-costume-gloves",
 	"image": "sgloves",
-	"type": "hand-armour",
+	"material": "cloth",
 	"set": "festive-costume",
-	"material": "cloth"
+	"type": "hand-armour"
 }

@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "drum",
 	"image": "dm1",
-	"type": "ranged-weapon",
-	"dpr": 2,
 	"material": "hide",
 	"skill": "instruments",
 	"skills": {
-		"instruments": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"instruments": 1
+	},
+	"type": "ranged-weapon"
 }

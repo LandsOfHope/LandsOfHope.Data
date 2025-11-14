@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 12,
 	"id": "barbed-bullet",
 	"image": "zubabu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 12,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "yellow-ninja-star",
-	"image": "6408",
-	"type": "ranged-weapon",
 	"dpr": 3,
 	"expansion": "dragons-of-the-east",
+	"id": "yellow-ninja-star",
+	"image": "6408",
 	"material": "metal",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "thrown-weapons",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "ranged-weapon"
 }

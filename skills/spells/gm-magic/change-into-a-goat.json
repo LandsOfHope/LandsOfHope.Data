@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/change-into-a-goat",
-	"requirements": {
-		"skill": 238,
-		"mana": 238
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"SPEED": 120
 		}
+	},
+	"id": "gm-magic/change-into-a-goat",
+	"requirements": {
+		"mana": 238,
+		"skill": 238
 	}
 }

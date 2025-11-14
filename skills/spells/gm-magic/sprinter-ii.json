@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/sprinter-ii",
-	"requirements": {
-		"skill": 268,
-		"mana": 268
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"SPEED": 135
 		}
+	},
+	"id": "gm-magic/sprinter-ii",
+	"requirements": {
+		"mana": 268,
+		"skill": 268
 	}
 }

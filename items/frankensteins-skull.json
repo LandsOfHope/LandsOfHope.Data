@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "frankensteins-skull",
 	"image": "6348",
-	"type": "head-armour",
-	"armorType": "cloth",
-	"set": "frankenstein-set",
 	"material": "hide",
-	"skills": {
-		"mystical-resistance": 1,
-		"armor": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1
-	}
+	},
+	"set": "frankenstein-set",
+	"skills": {
+		"armor": 1,
+		"mystical-resistance": 1
+	},
+	"type": "head-armour"
 }

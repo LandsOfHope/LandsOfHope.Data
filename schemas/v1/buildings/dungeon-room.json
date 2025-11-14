@@ -1,6 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/buildings/dungeon-room.json",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -8,9 +7,6 @@
 		},
 		"id": {
 			"$ref": "/schemas/v1/buildings/building-id.json"
-		},
-		"roomName": {
-			"type": "string"
 		},
 		"img": {
 			"type": "string"
@@ -26,6 +22,9 @@
 		},
 		"offsetZ": {
 			"type": "integer"
+		},
+		"roomName": {
+			"type": "string"
 		},
 		"roomTypeId": {
 			"type": "integer"
@@ -44,5 +43,6 @@
 		"offsetY",
 		"roomTypeId"
 	],
-	"title": "Room"
+	"title": "Room",
+	"type": "object"
 }

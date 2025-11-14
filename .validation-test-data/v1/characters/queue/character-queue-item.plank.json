@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/characters/queue/character-queue-item",
-	"id": 81839,
+	"bonus": false,
+	"cancellable": true,
 	"character": 56694456,
-	"recipient": 56694456,
+	"finished": "2025-02-15T21:16:59.120Z",
+	"id": 81839,
+	"level": 1,
 	"makes": {
 		"$type": "/v1/characters/queue/character-queue-product-recipe",
 		"recipe": "carpentry/plank"
 	},
 	"quantity": 2,
-	"level": 1,
-	"xp": 220,
+	"recipient": 56694456,
 	"started": "2025-02-15T21:16:48.120Z",
-	"finished": "2025-02-15T21:16:59.120Z",
-	"cancellable": true,
-	"bonus": false
+	"xp": 220
 }

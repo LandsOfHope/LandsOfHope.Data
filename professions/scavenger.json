@@ -1,20 +1,20 @@
 {
 	"$type": "/v1/profession",
-	"id": "scavenger",
-	"name": {
-		"en": "Scavenger"
-	},
 	"desc": {
 		"en": "Scavenger"
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "scavenger",
+	"name": {
+		"en": "Scavenger"
 	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 2,
 		"MAXSTAMINA": 2,
 		"SPEED": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

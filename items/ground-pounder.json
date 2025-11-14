@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 9,
 	"id": "ground-pounder",
 	"image": "st1",
-	"type": "2-handed-equipment",
-	"dpr": 9,
 	"material": "gem",
-	"skill": "staves",
-	"skills": {
-		"earth-resistance": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1
-	}
+	},
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1,
+		"earth-resistance": 1
+	},
+	"type": "2-handed-equipment"
 }

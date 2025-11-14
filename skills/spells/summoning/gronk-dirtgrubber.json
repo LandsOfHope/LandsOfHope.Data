@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/gronk-dirtgrubber",
-	"requirements": {
-		"skill": 3062,
-		"mana": 3062
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "troll",
-			"profession": "miner"
+			"profession": "miner",
+			"race": "troll"
 		}
+	},
+	"id": "summoning/gronk-dirtgrubber",
+	"requirements": {
+		"mana": 3062,
+		"skill": 3062
 	}
 }

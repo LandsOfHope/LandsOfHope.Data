@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 8,
 	"id": "singing-valera-sword",
 	"image": "sw6",
-	"type": "2-handed-equipment",
-	"dpr": 8,
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

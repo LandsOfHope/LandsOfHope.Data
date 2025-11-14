@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "pure-relic-key",
 	"image": "zupureke",
-	"type": "event-spawner",
-	"material": "gem"
+	"material": "gem",
+	"type": "event-spawner"
 }

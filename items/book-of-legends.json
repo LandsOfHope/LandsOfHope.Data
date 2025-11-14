@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "book-of-legends",
 	"image": "3203",
-	"type": "special-slot",
 	"material": "hide",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"myth-and-legends": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "special-slot"
 }

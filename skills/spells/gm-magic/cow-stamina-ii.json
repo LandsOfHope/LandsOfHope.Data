@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/cow-stamina-ii",
-	"requirements": {
-		"skill": 407,
-		"mana": 407
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"MAXSTAMINA": 170
 		}
+	},
+	"id": "gm-magic/cow-stamina-ii",
+	"requirements": {
+		"mana": 407,
+		"skill": 407
 	}
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "protection/silence-x",
-	"requirements": {
-		"skill": 4995,
-		"mana": 5000
-	},
 	"duration": "PT11M",
 	"effects": {
 		"damage": 300
+	},
+	"id": "protection/silence-x",
+	"requirements": {
+		"mana": 5000,
+		"skill": 4995
 	}
 }

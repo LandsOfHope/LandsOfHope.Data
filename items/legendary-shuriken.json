@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-shuriken",
 	"image": "shk",
-	"type": "ranged-weapon",
-	"dpr": 120,
 	"legendary": true,
 	"material": "metal",
-	"skill": "thrown-weapons",
-	"skills": {
-		"stealth": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1
-	}
+	},
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1,
+		"stealth": 1
+	},
+	"type": "ranged-weapon"
 }

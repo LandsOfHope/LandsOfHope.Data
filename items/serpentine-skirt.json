@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "serpentine-skirt",
 	"image": "fst",
-	"type": "leg-armour",
-	"armorType": "cloth",
 	"material": "snake",
+	"properties": {
+		"SPEED": 1
+	},
 	"skills": {
 		"poison-resistance": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "leg-armour"
 }

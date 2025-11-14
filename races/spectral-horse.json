@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Spectral Horse"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Spectral Horse"
+	},
 	"pics": {
-		"M": ["shorse"],
-		"F": ["shorsehp2"]
+		"F": ["shorsehp2"],
+		"M": ["shorse"]
 	}
 }

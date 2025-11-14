@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "ankylosaurus-chestplate",
-	"image": "5163",
-	"type": "chest-armour",
 	"armorType": "mail",
 	"expansion": "jurassic-wars",
+	"id": "ankylosaurus-chestplate",
+	"image": "5163",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "chest-armour"
 }

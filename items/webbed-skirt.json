@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "webbed-skirt",
 	"image": "fst",
-	"type": "leg-armour",
-	"armorType": "cloth",
 	"material": "spider",
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "leg-armour"
 }

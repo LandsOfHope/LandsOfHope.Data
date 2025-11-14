@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "bedraggled-floppy-hat",
 	"image": "bfh",
-	"type": "head-armour",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
 		"cold-resistance": 1,
 		"fire-resistance": 1
-	}
+	},
+	"type": "head-armour"
 }

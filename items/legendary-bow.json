@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-bow",
 	"image": "zuvabo",
-	"type": "ranged-weapon",
-	"dpr": 120,
 	"legendary": true,
 	"material": "wood",
-	"skill": "bows",
-	"skills": {
-		"wildlife": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1
-	}
+	},
+	"skill": "bows",
+	"skills": {
+		"attack-power": 1,
+		"wildlife": 1
+	},
+	"type": "ranged-weapon"
 }

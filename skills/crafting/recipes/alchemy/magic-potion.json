@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "alchemy/magic-potion",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "magic-potion"
-	},
 	"image": "pb2",
-	"time": "PT15S",
-	"quantity": 5,
-	"skill": "alchemy",
-	"skillValue": 1000,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "empty-potion-bottle",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		},
 		{
 			"id": "mortar-and-pestle",
@@ -25,5 +16,14 @@
 			"id": "wolfsbane",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "magic-potion"
+	},
+	"quality": "common",
+	"quantity": 5,
+	"skill": "alchemy",
+	"skillValue": 1000,
+	"time": "PT15S"
 }

@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 10,
 	"id": "voidic-long-bow",
 	"image": "gmvolobo",
-	"type": "ranged-weapon",
-	"dpr": 10,
 	"material": "wood",
 	"skill": "bows",
 	"skills": {
-		"bows": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"bows": 1
+	},
+	"type": "ranged-weapon"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 97,
 	"id": "incandescing-ordnance",
 	"image": "ss6",
-	"type": "ammo-weapons-artillery",
-	"dpr": 97,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-artillery"
 }

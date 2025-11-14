@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "ring-of-archery",
 	"image": "rg4",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
+		"bows": 1,
 		"carpentry": 1,
-		"tinkering": 1,
-		"bows": 1
-	}
+		"tinkering": 1
+	},
+	"type": "ring"
 }

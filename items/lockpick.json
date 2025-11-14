@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "lockpick",
 	"image": "be7",
-	"type": "1-handed-equipment",
-	"dpr": 2,
 	"material": "metal",
 	"skill": "lockpicking",
 	"skills": {
 		"lockpicking": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

@@ -1,7 +1,6 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/coordinate3.json",
-	"title": "Coordinate3",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"x": {
 			"type": "integer"
@@ -14,5 +13,6 @@
 		}
 	},
 	"required": ["x", "y", "z"],
-	"additionalProperties": false
+	"title": "Coordinate3",
+	"type": "object"
 }

@@ -1,31 +1,31 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
-	"id": "charms-and-hexes/ring-of-blacksmithing",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "ring-of-blacksmithing"
-	},
-	"image": "rg6",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "charms-and-hexes",
-	"skillValue": 625,
-	"quality": "common",
-	"singleUse": true,
 	"failureChance": {
 		"$type": "/v1/random-chance",
-		"numer": 60,
-		"denom": 100
+		"denom": 100,
+		"numer": 60
 	},
+	"id": "charms-and-hexes/ring-of-blacksmithing",
+	"image": "rg6",
 	"ingredients": [
 		{
 			"id": "gem",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		},
 		{
 			"id": "seed-of-sassafras",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "ring-of-blacksmithing"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"singleUse": true,
+	"skill": "charms-and-hexes",
+	"skillValue": 625,
+	"time": "PT15S"
 }

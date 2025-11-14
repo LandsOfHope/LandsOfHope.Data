@@ -1,5 +1,3 @@
-"use strict";
-
 const fs = require("fs");
 const path = require("path");
 const schemaRoot = path.join(__dirname, "../schemas");
@@ -16,7 +14,6 @@ function generateStandardCharacterCreationImages() {
 		path.join(schemaRoot, "./v1/characters-creation-standard-images.gen.json"),
 		JSON.stringify({
 			$id: "https://data.landsofhope.com/schemas/v1/characters-creation-standard-images.gen.json",
-			title: "StandardCharacterCreationImages",
 			enum: Array.from(
 				new Set(
 					Array.prototype.concat(
@@ -29,6 +26,7 @@ function generateStandardCharacterCreationImages() {
 					),
 				),
 			),
+			title: "StandardCharacterCreationImages",
 		}),
 	);
 }
@@ -39,12 +37,12 @@ function generateStargazerCharacterCreationImages() {
 		path.join(schemaRoot, "./v1/characters-creation-stargazer-images.gen.json"),
 		JSON.stringify({
 			$id: "https://data.landsofhope.com/schemas/v1/characters-creation-stargazer-images.gen.json",
-			title: "StargazerCharacterCreationImages",
 			enum: Array.from(
 				new Set(
 					Array.prototype.concat(creationImages.M.star, creationImages.F.star),
 				),
 			),
+			title: "StargazerCharacterCreationImages",
 		}),
 	);
 }
@@ -55,8 +53,8 @@ function generateHagCharacterCreationImages() {
 		path.join(schemaRoot, "./v1/characters-creation-hag-images.gen.json"),
 		JSON.stringify({
 			$id: "https://data.landsofhope.com/schemas/v1/characters-creation-hag-images.gen.json",
-			title: "HagCharacterCreationImages",
 			enum: Array.from(new Set(creationImages.F.hag)),
+			title: "HagCharacterCreationImages",
 		}),
 	);
 }
@@ -71,7 +69,6 @@ function generateUnchartedWatersCharacterCreationImages() {
 			),
 			JSON.stringify({
 				$id: "https://data.landsofhope.com/schemas/v1/characters-creation-uncharted-waters-pirate-images.gen.json",
-				title: "PirateCharacterCreationImages",
 				enum: Array.from(
 					new Set(
 						Array.prototype.concat(
@@ -80,6 +77,7 @@ function generateUnchartedWatersCharacterCreationImages() {
 						),
 					),
 				),
+				title: "PirateCharacterCreationImages",
 			}),
 		);
 	}
@@ -92,7 +90,6 @@ function generateUnchartedWatersCharacterCreationImages() {
 			),
 			JSON.stringify({
 				$id: "https://data.landsofhope.com/schemas/v1/characters-creation-uncharted-waters-navy-images.gen.json",
-				title: "NavyCharacterCreationImages",
 				enum: Array.from(
 					new Set(
 						Array.prototype.concat(
@@ -101,6 +98,7 @@ function generateUnchartedWatersCharacterCreationImages() {
 						),
 					),
 				),
+				title: "NavyCharacterCreationImages",
 			}),
 		);
 	}

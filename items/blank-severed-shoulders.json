@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "blank-severed-shoulders",
 	"image": "6834",
-	"type": "shoulders",
-	"set": "inventor-severed-set",
 	"material": "hide",
-	"skill": "blood-over-beauty",
 	"properties": {
 		"MAXSTAMINA": 0.6
-	}
+	},
+	"set": "inventor-severed-set",
+	"skill": "blood-over-beauty",
+	"type": "shoulders"
 }

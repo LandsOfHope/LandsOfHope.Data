@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "dark-legs",
 	"image": "1555",
-	"type": "leg-armour",
-	"armorType": "plate",
 	"material": "metal",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "leg-armour"
 }

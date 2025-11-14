@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "artisan-toolbox",
 	"image": "bx5",
-	"type": "bag",
 	"material": "wood",
-	"skill": "artisan"
+	"skill": "artisan",
+	"type": "bag"
 }

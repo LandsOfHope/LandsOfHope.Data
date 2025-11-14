@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 6,
 	"id": "dwarven-battle-hammer",
 	"image": "bh2",
-	"type": "2-handed-equipment",
-	"dpr": 6,
 	"material": "metal",
-	"skill": "two-handed-maces",
-	"skills": {
-		"blacksmithing": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"skill": "two-handed-maces",
+	"skills": {
+		"attack-power": 1,
+		"blacksmithing": 1
+	},
+	"type": "2-handed-equipment"
 }

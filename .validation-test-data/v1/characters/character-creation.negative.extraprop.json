@@ -1,14 +1,14 @@
 {
-	"character": {
-		"$type": "/v1/characters/creation/common-creation-args",
-		"name": "Happy",
-		"profession": "archer",
-		"sex": "M",
-		"image": "sohum1",
-		"NOTVALID": "NOTVALID"
-	},
 	"additionalArgs": {
 		"$type": "/v1/characters/creation/standard-additional-creation-args",
 		"skipTutorial": false
+	},
+	"character": {
+		"$type": "/v1/characters/creation/common-creation-args",
+		"image": "sohum1",
+		"NOTVALID": "NOTVALID",
+		"name": "Happy",
+		"profession": "archer",
+		"sex": "M"
 	}
 }

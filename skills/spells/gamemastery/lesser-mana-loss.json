@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/lesser-mana-loss",
-	"requirements": {
-		"skill": 933,
-		"mana": 933
-	},
 	"duration": "PT90M",
 	"effects": {
 		"properties": {
 			"MAXMANA": -465
 		}
+	},
+	"id": "gamemastery/lesser-mana-loss",
+	"requirements": {
+		"mana": 933,
+		"skill": 933
 	}
 }

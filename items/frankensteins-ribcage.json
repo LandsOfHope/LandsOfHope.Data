@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "frankensteins-ribcage",
 	"image": "6347",
-	"type": "chest-armour",
-	"armorType": "cloth",
-	"set": "frankenstein-set",
 	"material": "hide",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"set": "frankenstein-set",
+	"skills": {
+		"armor": 1
+	},
+	"type": "chest-armour"
 }

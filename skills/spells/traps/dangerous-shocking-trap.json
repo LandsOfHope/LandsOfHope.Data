@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "traps/dangerous-shocking-trap",
-	"requirements": {
-		"skill": 2971,
-		"mana": 2971
-	},
 	"effects": {
 		"damage": 2094
+	},
+	"id": "traps/dangerous-shocking-trap",
+	"requirements": {
+		"mana": 2971,
+		"skill": 2971
 	}
 }

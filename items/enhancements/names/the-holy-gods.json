@@ -1,10 +1,10 @@
 {
 	"$type": "/v1/items/enhancements/item-name",
-	"id": "names/the-holy-gods",
 	"effects": {
 		"skills": {
-			"pole-defense": 0.5,
-			"celestial-defense": 0.5
+			"celestial-defense": 0.5,
+			"pole-defense": 0.5
 		}
-	}
+	},
+	"id": "names/the-holy-gods"
 }

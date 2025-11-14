@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "coral-gloves",
 	"image": "1568",
-	"type": "hand-armour",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"MAXMANA": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXMANA": 1
-	}
+	"type": "hand-armour"
 }

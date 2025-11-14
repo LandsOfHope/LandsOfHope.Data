@@ -1,39 +1,19 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/deltas/inventory-item-delta.json",
-	"title": "CharacterInventoryItemDelta",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/inventory/deltas/inventory-item-delta"
 		},
 		"added": {
-			"type": "array",
-			"minItems": 1,
 			"items": {
 				"$ref": "/schemas/v1/characters/inventory/inventory-item.json"
-			}
-		},
-		"moved": {
-			"type": "array",
-			"items": {
-				"type": "array",
-				"items": [
-					{
-						"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
-					},
-					{
-						"$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-moved-delta.json"
-					}
-				],
-				"minItems": 2,
-				"maxItems": 2
 			},
-			"minItems": 1
+			"minItems": 1,
+			"type": "array"
 		},
 		"flagsChanged": {
-			"type": "array",
 			"items": {
-				"type": "array",
 				"items": [
 					{
 						"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
@@ -42,15 +22,32 @@
 						"$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-flags-changed-delta.json"
 					}
 				],
+				"maxItems": 2,
 				"minItems": 2,
-				"maxItems": 2
+				"type": "array"
 			},
-			"minItems": 1
+			"minItems": 1,
+			"type": "array"
+		},
+		"moved": {
+			"items": {
+				"items": [
+					{
+						"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+					},
+					{
+						"$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-moved-delta.json"
+					}
+				],
+				"maxItems": 2,
+				"minItems": 2,
+				"type": "array"
+			},
+			"minItems": 1,
+			"type": "array"
 		},
 		"quantitiesChanged": {
-			"type": "array",
 			"items": {
-				"type": "array",
 				"items": [
 					{
 						"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
@@ -59,19 +56,22 @@
 						"$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-quantity-changed-delta.json"
 					}
 				],
+				"maxItems": 2,
 				"minItems": 2,
-				"maxItems": 2
+				"type": "array"
 			},
-			"minItems": 1
+			"minItems": 1,
+			"type": "array"
 		},
 		"removed": {
-			"type": "array",
-			"minItems": 1,
 			"items": {
 				"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
-			}
+			},
+			"minItems": 1,
+			"type": "array"
 		}
 	},
 	"required": ["$type"],
-	"additionalProperties": false
+	"title": "CharacterInventoryItemDelta",
+	"type": "object"
 }

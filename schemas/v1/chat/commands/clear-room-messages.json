@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/chat/commands/clear-room-messages.json",
-	"title": "ClearRoomMessagesChatCommand",
-	"type": "object",
 	"properties": {
 		"$type": {
 			"const": "/v1/chat/commands/clear-room-messages"
@@ -10,5 +8,7 @@
 			"$ref": "/schemas/v1/chat/chat-room-id.json"
 		}
 	},
-	"required": ["$type", "room"]
+	"required": ["$type", "room"],
+	"title": "ClearRoomMessagesChatCommand",
+	"type": "object"
 }

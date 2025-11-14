@@ -1,23 +1,23 @@
 {
 	"$type": "/v1/profession",
-	"id": "toy-steed",
-	"name": {
-		"en": "Toy Steed"
-	},
 	"desc": {
 		"en": "Wintersvale Product 2008."
 	},
-	"skills": {
-		"energy-magic": 5,
-		"mana-draining": 5,
-		"daggers": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "toy-steed",
+	"name": {
+		"en": "Toy Steed"
 	},
 	"properties": {
 		"DEXTERITY": 3,
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 10,
 		"MAXMANA": 4
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"daggers": 5,
+		"energy-magic": 5,
+		"mana-draining": 5
 	}
 }

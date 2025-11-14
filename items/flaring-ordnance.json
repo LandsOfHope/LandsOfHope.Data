@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 72,
 	"id": "flaring-ordnance",
 	"image": "ss6",
-	"type": "ammo-weapons-artillery",
-	"dpr": 72,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-artillery"
 }

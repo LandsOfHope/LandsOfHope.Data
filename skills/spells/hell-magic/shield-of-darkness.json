@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "hell-magic/shield-of-darkness",
-	"requirements": {
-		"skill": 301,
-		"mana": 301
-	},
 	"duration": "PT60M",
 	"effects": {
 		"skills": {
 			"celestial-defense": 151
 		}
+	},
+	"id": "hell-magic/shield-of-darkness",
+	"requirements": {
+		"mana": 301,
+		"skill": 301
 	}
 }

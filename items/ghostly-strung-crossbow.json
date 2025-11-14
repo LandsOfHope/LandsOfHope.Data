@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"dpr": 7,
 	"id": "ghostly-strung-crossbow",
 	"image": "na",
-	"type": "ranged-weapon",
-	"dpr": 7,
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {
+		"attack-power": 1,
 		"crossbows": 1,
-		"detect-hidden": 1,
-		"attack-power": 1
-	}
+		"detect-hidden": 1
+	},
+	"type": "ranged-weapon"
 }

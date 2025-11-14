@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Fox"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Fox"
+	},
 	"pics": {
-		"M": ["mjpmfx"],
-		"F": ["mjpffx"]
+		"F": ["mjpffx"],
+		"M": ["mjpmfx"]
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "midnight-sable-cloak",
 	"image": "1135",
-	"type": "neck-clothing",
-	"armorType": "cloth",
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"type": "neck-clothing"
 }

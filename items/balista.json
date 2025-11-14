@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 3,
 	"id": "balista",
 	"image": "ss5",
-	"type": "siege-weapon",
-	"dpr": 3,
 	"material": "wood",
 	"skill": "siege-weapons",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "siege-weapon"
 }

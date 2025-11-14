@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/silver-fang",
-	"requirements": {
-		"skill": 2188,
-		"mana": 2188
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "wolf",
-			"profession": "creature"
+			"profession": "creature",
+			"race": "wolf"
 		}
+	},
+	"id": "summoning/silver-fang",
+	"requirements": {
+		"mana": 2188,
+		"skill": 2188
 	}
 }

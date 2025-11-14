@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "air-magic/storm-ii",
-	"requirements": {
-		"skill": 2311,
-		"mana": 2311
-	},
 	"duration": "PT1M",
 	"effects": {
 		"damage": 1632
+	},
+	"id": "air-magic/storm-ii",
+	"requirements": {
+		"mana": 2311,
+		"skill": 2311
 	}
 }

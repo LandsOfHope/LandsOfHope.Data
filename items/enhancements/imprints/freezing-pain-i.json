@@ -1,10 +1,10 @@
 {
 	"$type": "/v1/items/enhancements/item-imprint",
-	"id": "imprints/freezing-pain-i",
-	"spell": "freezing-pain-i",
 	"chance": {
 		"$type": "/v1/random-chance",
-		"numer": 3,
-		"denom": 100
-	}
+		"denom": 100,
+		"numer": 3
+	},
+	"id": "imprints/freezing-pain-i",
+	"spell": "freezing-pain-i"
 }

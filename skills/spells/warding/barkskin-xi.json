@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "warding/barkskin-xi",
-	"requirements": {
-		"skill": 3130,
-		"mana": 3051
-	},
 	"duration": 3,
 	"effects": {
 		"damage": 2202,
 		"skills": {
 			"damage-absorption": 2202
 		}
+	},
+	"id": "warding/barkskin-xi",
+	"requirements": {
+		"mana": 3051,
+		"skill": 3130
 	}
 }

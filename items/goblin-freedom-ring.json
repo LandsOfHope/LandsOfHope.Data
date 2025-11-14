@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "goblin-freedom-ring",
 	"image": "6747",
-	"type": "ring",
 	"material": "gem",
-	"skills": {
-		"tinkering": 1,
-		"lockpicking": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"skills": {
+		"lockpicking": 1,
+		"tinkering": 1
+	},
+	"type": "ring"
 }

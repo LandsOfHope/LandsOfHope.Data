@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "george-cannonmaker"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "George Cannonmaker",
-		"title": "seamanship-trainer",
 		"image": "pirate7",
 		"level": {
 			"primary": 1
 		},
+		"name": "George Cannonmaker",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "seamanship-trainer"
 	}
 }

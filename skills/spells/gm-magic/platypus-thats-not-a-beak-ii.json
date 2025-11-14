@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/platypus-thats-not-a-beak-ii",
-	"requirements": {
-		"skill": 400,
-		"mana": 400
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"damage-absorption": 220
 		}
+	},
+	"id": "gm-magic/platypus-thats-not-a-beak-ii",
+	"requirements": {
+		"mana": 400,
+		"skill": 400
 	}
 }

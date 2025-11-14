@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "A vendor owned by a player."
+	},
 	"id": "player-vendor",
 	"name": {
 		"en": "Player Vendor"
-	},
-	"desc": {
-		"en": "A vendor owned by a player."
 	},
 	"properties": {
 		"MAXHITPOINTS": 5,

@@ -1,26 +1,26 @@
 {
 	"$type": "/v1/profession",
-	"id": "inventor",
-	"name": {
-		"en": "Inventor"
-	},
 	"desc": {
 		"en": "Testing"
 	},
-	"skills": {
-		"tinkering": 5,
-		"fists": 5,
-		"dual-wielding": 5,
-		"armor": 5,
-		"attack-power": 5,
-		"augmenting": 5
+	"evo": {
+		"junker": 50,
+		"stitchworker": 50
+	},
+	"id": "inventor",
+	"name": {
+		"en": "Inventor"
 	},
 	"properties": {
 		"MAXHITPOINTS": 2,
 		"MAXSTAMINA": 3
 	},
-	"evo": {
-		"stitchworker": 50,
-		"junker": 50
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"augmenting": 5,
+		"dual-wielding": 5,
+		"fists": 5,
+		"tinkering": 5
 	}
 }

@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/items/enhancements/item-name",
-	"id": "names/the-crimelord",
 	"effects": {
+		"properties": {
+			"DEXTERITY": 0.4
+		},
 		"skills": {
 			"stealing": 0.4,
 			"track-items": 0.4
-		},
-		"properties": {
-			"DEXTERITY": 0.4
 		}
-	}
+	},
+	"id": "names/the-crimelord"
 }

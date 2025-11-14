@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "animation/dual-small-golem",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "dual-small-golem"
-	},
 	"image": "2688",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "animation",
-	"skillValue": 10,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "small-shell",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		},
 		{
 			"id": "plain-coating",
@@ -25,5 +16,14 @@
 			"id": "golem-upgrade-dualwield",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "dual-small-golem"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "animation",
+	"skillValue": 10,
+	"time": "PT15S"
 }

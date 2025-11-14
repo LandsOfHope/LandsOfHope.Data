@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "footman-vest",
 	"image": "2564",
-	"type": "chest-armour",
-	"armorType": "mail",
-	"material": "metal"
+	"material": "metal",
+	"type": "chest-armour"
 }

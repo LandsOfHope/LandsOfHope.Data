@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "impure-key",
 	"image": "imk",
-	"type": "stealing-loot",
-	"material": "metal"
+	"material": "metal",
+	"type": "stealing-loot"
 }

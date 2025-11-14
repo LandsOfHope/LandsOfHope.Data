@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "cragstone-boots",
 	"image": "4727",
-	"type": "foot-armour",
-	"armorType": "mail",
 	"legendary": true,
-	"set": "cragstone-legend",
 	"material": "metal",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"SPEED": 1
-	}
+	},
+	"set": "cragstone-legend",
+	"skills": {
+		"armor": 1
+	},
+	"type": "foot-armour"
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "hammer",
 	"image": "hmr",
-	"type": "siege-weapon-construction-tool",
 	"material": "metal",
 	"skills": {
 		"siege-weapons": 1
-	}
+	},
+	"type": "siege-weapon-construction-tool"
 }

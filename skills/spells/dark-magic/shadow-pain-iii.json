@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "dark-magic/shadow-pain-iii",
-	"requirements": {
-		"skill": 1764,
-		"mana": 1764
-	},
 	"effects": {
 		"damage": 1249
+	},
+	"id": "dark-magic/shadow-pain-iii",
+	"requirements": {
+		"mana": 1764,
+		"skill": 1764
 	}
 }

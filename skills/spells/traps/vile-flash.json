@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "traps/vile-flash",
-	"requirements": {
-		"skill": 2404,
-		"mana": 2404
-	},
 	"effects": {
 		"damage": 1697
+	},
+	"id": "traps/vile-flash",
+	"requirements": {
+		"mana": 2404,
+		"skill": 2404
 	}
 }

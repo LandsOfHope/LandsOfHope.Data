@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "blank-bolted-chestpiece",
 	"image": "6832",
-	"type": "chest-armour",
-	"set": "inventor-bolted-set",
 	"material": "metal",
+	"set": "inventor-bolted-set",
 	"skill": "bolts-over-brains",
 	"skills": {
 		"armor": 0.5
-	}
+	},
+	"type": "chest-armour"
 }

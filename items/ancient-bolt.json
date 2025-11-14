@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 101,
 	"id": "ancient-bolt",
 	"image": "arr1",
-	"type": "ammo-weapons-crossbows",
-	"dpr": 101,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-crossbows"
 }

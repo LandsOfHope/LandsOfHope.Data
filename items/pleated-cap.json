@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "pleated-cap",
 	"image": "3166",
-	"type": "head-armour",
-	"armorType": "cloth",
-	"material": "cloth"
+	"material": "cloth",
+	"type": "head-armour"
 }

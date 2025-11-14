@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "strong-vein-augment",
 	"image": "6823",
-	"type": "augment",
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1.2,
 		"MAXSTAMINA": 0.4
-	}
+	},
+	"type": "augment"
 }

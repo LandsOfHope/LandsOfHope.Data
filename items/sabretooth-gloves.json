@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "sabretooth-gloves",
-	"image": "5149",
-	"type": "hand-armour",
 	"armorType": "leather",
 	"expansion": "jurassic-wars",
+	"id": "sabretooth-gloves",
+	"image": "5149",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "hand-armour"
 }

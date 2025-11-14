@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "guilded-strung-gloves",
 	"image": "3838",
-	"type": "hand-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "hand-armour"
 }

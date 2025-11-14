@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "malefic-necklace",
 	"image": "zumane",
-	"type": "neck",
-	"armorType": "cloth",
 	"material": "gem",
 	"skills": {
 		"spirit-magic": 1
-	}
+	},
+	"type": "neck"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 87,
 	"id": "sharded-bolt",
 	"image": "arr1",
-	"type": "ammo-weapons-crossbows",
-	"dpr": 87,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-crossbows"
 }

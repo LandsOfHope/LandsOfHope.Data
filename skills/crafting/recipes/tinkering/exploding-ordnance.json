@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tinkering/exploding-ordnance",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "exploding-ordnance"
-	},
 	"image": "ss6",
-	"time": "PT15S",
-	"quantity": 20,
-	"skill": "tinkering",
-	"skillValue": 4125,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ingot",
@@ -18,12 +9,21 @@
 		},
 		{
 			"id": "powder",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		},
 		{
 			"id": "tinker-tools",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "exploding-ordnance"
+	},
+	"quality": "common",
+	"quantity": 20,
+	"skill": "tinkering",
+	"skillValue": 4125,
+	"time": "PT15S"
 }

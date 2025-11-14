@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tailoring/mantle",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "mantle"
-	},
 	"image": "mle",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "tailoring",
-	"skillValue": 1150,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "thread",
-			"quantity": 20,
-			"primary": true
+			"primary": true,
+			"quantity": 20
 		},
 		{
 			"id": "prepared-hide",
 			"quantity": 8
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "mantle"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "tailoring",
+	"skillValue": 1150,
+	"time": "PT15S"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 81,
 	"id": "drenching-dart",
 	"image": "drt",
-	"type": "ammo-weapons-darts",
-	"dpr": 81,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-darts"
 }

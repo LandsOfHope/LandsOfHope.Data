@@ -1,16 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "hoodlum",
-	"name": {
-		"en": "Hoodlum"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"maces": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "hoodlum",
+	"name": {
+		"en": "Hoodlum"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -18,5 +13,10 @@
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 2,
 		"MAXSTAMINA": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"maces": 5
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "heavy-munitions/dangerous-stun-grenade",
-	"requirements": {
-		"skill": 4971,
-		"mana": 4971
-	},
 	"effects": {
 		"damage": 2894
+	},
+	"id": "heavy-munitions/dangerous-stun-grenade",
+	"requirements": {
+		"mana": 4971,
+		"skill": 4971
 	}
 }

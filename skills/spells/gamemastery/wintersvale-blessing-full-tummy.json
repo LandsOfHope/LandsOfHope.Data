@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/wintersvale-blessing-full-tummy",
-	"requirements": {
-		"skill": 1,
-		"mana": 1
-	},
 	"duration": "PT240M",
 	"effects": {
 		"properties": {
 			"STRENGTH": 100
 		}
+	},
+	"id": "gamemastery/wintersvale-blessing-full-tummy",
+	"requirements": {
+		"mana": 1,
+		"skill": 1
 	}
 }

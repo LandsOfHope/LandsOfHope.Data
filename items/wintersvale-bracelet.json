@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "wintersvale-bracelet",
 	"image": "6207",
-	"type": "wrist-jewelry",
 	"material": "metal",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"toy-snatching": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "wrist-jewelry"
 }

@@ -1,9 +1,9 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "elemental-helmet",
 	"image": "6380",
-	"type": "head-armour",
-	"armorType": "cloth",
+	"material": "hide",
 	"set": "elemental-set",
-	"material": "hide"
+	"type": "head-armour"
 }

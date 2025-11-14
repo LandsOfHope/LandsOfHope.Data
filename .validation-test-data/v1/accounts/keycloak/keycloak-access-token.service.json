@@ -1,14 +1,14 @@
 {
+	"aud": "https://accounts.landsofhope.local",
+	"azp": "https://edge.landsofhope.local",
+	"client_id": "https://edge.landsofhope.local",
+	"clientAddress": "127.0.0.1",
+	"clientHost": "127.0.0.1",
 	"exp": 1716928077,
 	"iat": 1716927777,
-	"jti": "00000000-0000-0000-0000-000000000000",
 	"iss": "https://idp.landsofhope.local/realms/lands-of-hope",
-	"aud": "https://accounts.landsofhope.local",
-	"sub": "00000000-0000-0000-0000-000000000000",
-	"typ": "Bearer",
-	"azp": "https://edge.landsofhope.local",
+	"jti": "00000000-0000-0000-0000-000000000000",
 	"scope": "https://accounts.landsofhope.local/scope",
-	"clientHost": "127.0.0.1",
-	"clientAddress": "127.0.0.1",
-	"client_id": "https://edge.landsofhope.local"
+	"sub": "00000000-0000-0000-0000-000000000000",
+	"typ": "Bearer"
 }

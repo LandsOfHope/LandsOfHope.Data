@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "defensive-magic/earth-shield-i",
-	"requirements": {
-		"skill": 15,
-		"mana": 15
-	},
 	"duration": "PT70M",
 	"effects": {
 		"skills": {
 			"earth-resistance": 22
 		}
+	},
+	"id": "defensive-magic/earth-shield-i",
+	"requirements": {
+		"mana": 15,
+		"skill": 15
 	}
 }

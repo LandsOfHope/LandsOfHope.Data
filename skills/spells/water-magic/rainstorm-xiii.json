@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "water-magic/rainstorm-xiii",
-	"requirements": {
-		"skill": 2625,
-		"mana": 2625
-	},
 	"effects": {
 		"damage": 1852
+	},
+	"id": "water-magic/rainstorm-xiii",
+	"requirements": {
+		"mana": 2625,
+		"skill": 2625
 	}
 }

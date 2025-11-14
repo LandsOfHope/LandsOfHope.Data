@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 60,
 	"id": "stoning-wand",
 	"image": "wand09",
-	"type": "1-handed-equipment",
-	"dpr": 60,
 	"material": "stone",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skill": "staves",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "1-handed-equipment"
 }

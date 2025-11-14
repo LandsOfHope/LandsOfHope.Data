@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/drakish-female-iii",
-	"requirements": {
-		"skill": 547,
-		"mana": 547
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"armor": 274
 		}
+	},
+	"id": "gm-magic/drakish-female-iii",
+	"requirements": {
+		"mana": 547,
+		"skill": 547
 	}
 }

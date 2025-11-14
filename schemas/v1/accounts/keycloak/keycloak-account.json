@@ -1,24 +1,24 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/accounts/keycloak/keycloak-account.json",
-	"title": "KeycloakAccount",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/accounts/keycloak/keycloak-account"
+		},
+		"created": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"email": {
+			"$ref": "/schemas/v1/email-address.json"
 		},
 		"sub": {
 			"$ref": "/schemas/v1/accounts/keycloak/keycloak-account-id.json"
 		},
 		"username": {
 			"type": "string"
-		},
-		"email": {
-			"$ref": "/schemas/v1/email-address.json"
-		},
-		"created": {
-			"$ref": "/schemas/v0/datetime.json"
 		}
 	},
-	"required": ["$type", "sub", "username", "email", "created"]
+	"required": ["$type", "sub", "username", "email", "created"],
+	"title": "KeycloakAccount",
+	"type": "object"
 }

@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "necromancy/summon-mannequin-envoker",
-	"requirements": {
-		"skill": 2300,
-		"mana": 2300
-	},
 	"effects": {
 		"summon-item": {
 			"item": "bone-envoker"
 		}
+	},
+	"id": "necromancy/summon-mannequin-envoker",
+	"requirements": {
+		"mana": 2300,
+		"skill": 2300
 	}
 }

@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "winter-elf-whistle",
 	"image": "zuwielwh",
-	"type": "monster-spawner",
-	"material": "hide"
+	"material": "hide",
+	"type": "monster-spawner"
 }

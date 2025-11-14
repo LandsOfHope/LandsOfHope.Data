@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Black Dragon"
+	"appr": {
+		"en": ""
 	},
 	"desc": {
 		"en": "Fire breathing creature, with strong scales."
 	},
-	"appr": {
-		"en": ""
-	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Black Dragon"
+	},
 	"pics": {
-		"M": ["blkdragonm"],
-		"F": ["blkdragonf"]
+		"F": ["blkdragonf"],
+		"M": ["blkdragonm"]
 	}
 }

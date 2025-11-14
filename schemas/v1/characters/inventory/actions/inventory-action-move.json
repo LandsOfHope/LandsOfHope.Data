@@ -1,17 +1,16 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-action-move.json",
-	"title": "InventoryActionMove",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/inventory/actions/inventory-action-move"
 		},
 		"inventoryItemIds": {
-			"type": "array",
 			"items": {
 				"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
 			},
 			"minItems": 1,
+			"type": "array",
 			"uniqueItems": true
 		},
 		"moveToLocationId": {
@@ -19,5 +18,6 @@
 		}
 	},
 	"required": ["$type", "inventoryItemIds", "moveToLocationId"],
-	"additionalProperties": false
+	"title": "InventoryActionMove",
+	"type": "object"
 }

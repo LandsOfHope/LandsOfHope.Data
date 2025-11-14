@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "defensive-magic/earth-shield-xiv",
-	"requirements": {
-		"skill": 939,
-		"mana": 939
-	},
 	"duration": "PT1050M",
 	"effects": {
 		"skills": {
 			"earth-resistance": 484
 		}
+	},
+	"id": "defensive-magic/earth-shield-xiv",
+	"requirements": {
+		"mana": 939,
+		"skill": 939
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 67,
 	"id": "flashing-ordnance",
 	"image": "ss6",
-	"type": "ammo-weapons-artillery",
-	"dpr": 67,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-artillery"
 }

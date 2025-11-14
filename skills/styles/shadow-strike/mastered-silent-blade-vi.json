@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 2211
+	},
 	"id": "shadow-strike/mastered-silent-blade-vi",
 	"requirements": {
 		"skill": 3669,
 		"stamina": 3669
-	},
-	"effects": {
-		"damage": 2211
 	}
 }

@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "gtg-necklace",
 	"image": "6727",
-	"type": "neck",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"carpentry": 1,
 		"tinkering": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "neck"
 }

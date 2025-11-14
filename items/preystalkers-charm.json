@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "preystalkers-charm",
 	"image": "6792",
-	"type": "neck-clothing",
 	"material": "gem",
 	"skills": {
 		"track-beasts": 20
-	}
+	},
+	"type": "neck-clothing"
 }

@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "necromancy/summon-necrotic-warrior-envoker",
-	"requirements": {
-		"skill": 4250,
-		"mana": 4250
-	},
 	"effects": {
 		"summon-item": {
 			"item": "bone-envoker"
 		}
+	},
+	"id": "necromancy/summon-necrotic-warrior-envoker",
+	"requirements": {
+		"mana": 4250,
+		"skill": 4250
 	}
 }

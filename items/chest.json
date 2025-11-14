@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "chest",
 	"image": "ct3",
-	"type": "spawner",
 	"material": "metal",
 	"skills": {
 		"bladed-defense": 1
-	}
+	},
+	"type": "spawner"
 }

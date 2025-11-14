@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "celestial-magic/sparkle-iv",
-	"requirements": {
-		"skill": 141,
-		"mana": 141
-	},
 	"effects": {
 		"damage": 113
+	},
+	"id": "celestial-magic/sparkle-iv",
+	"requirements": {
+		"mana": 141,
+		"skill": 141
 	}
 }

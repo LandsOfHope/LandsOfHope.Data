@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Armored Sloth"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Armored Sloth"
+	},
 	"pics": {
-		"M": ["mjpaslthm"],
-		"F": ["mjpaslthf"]
+		"F": ["mjpaslthf"],
+		"M": ["mjpaslthm"]
 	}
 }

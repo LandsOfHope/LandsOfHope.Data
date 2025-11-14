@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 424
+	},
 	"id": "maces/smash-v",
 	"requirements": {
 		"skill": 841,
 		"stamina": 840
-	},
-	"effects": {
-		"damage": 424
 	}
 }

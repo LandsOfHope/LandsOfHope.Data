@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "sandy-rockcutter"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Sandy Rockcutter",
-		"title": "stonemason",
 		"image": "smf",
 		"level": {
 			"primary": 150
 		},
+		"name": "Sandy Rockcutter",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "stonemason"
 	}
 }

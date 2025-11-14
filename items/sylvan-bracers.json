@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "sylvan-bracers",
 	"image": "bcs",
-	"type": "arm-armour",
-	"armorType": "leather",
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"type": "arm-armour"
 }

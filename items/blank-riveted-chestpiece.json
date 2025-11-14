@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "blank-riveted-chestpiece",
 	"image": "6849",
-	"type": "chest-armour",
-	"set": "inventor-riveted-set",
 	"material": "metal",
+	"set": "inventor-riveted-set",
 	"skill": "bolts-over-brains",
 	"skills": {
 		"armor": 0.7
-	}
+	},
+	"type": "chest-armour"
 }

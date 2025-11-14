@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "guilded-strung-leggings",
 	"image": "3816",
-	"type": "leg-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "leg-armour"
 }

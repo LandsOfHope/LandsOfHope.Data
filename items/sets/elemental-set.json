@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/items/set",
+	"color": "red",
 	"id": "elemental-set",
 	"image": "na.gif",
-	"color": "red",
 	"items": [
 		"elemental-boots",
 		"elemental-chestplate",

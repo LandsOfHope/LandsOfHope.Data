@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
+	"effects": {
+		"damage": 488
+	},
 	"id": "gamemastery/torrential-ammo",
 	"requirements": {
 		"level": 976,
 		"mana": 1
-	},
-	"effects": {
-		"damage": 488
 	}
 }

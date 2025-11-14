@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "dahlia-bud-earring",
 	"image": "1187",
-	"type": "ear-jewelry",
-	"set": "dahlia-blossom",
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXMANA": 1
-	}
+	},
+	"set": "dahlia-blossom",
+	"type": "ear-jewelry"
 }

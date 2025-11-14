@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "bandit-belt",
-	"image": "5243",
-	"type": "stomach",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "bandit-belt",
+	"image": "5243",
 	"material": "cloth",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "stomach"
 }

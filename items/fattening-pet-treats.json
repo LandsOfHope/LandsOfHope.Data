@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "fattening-pet-treats",
 	"image": "5737",
-	"type": "pet-bought-bonus",
 	"material": "hide",
-	"skills": {
-		"stamina-regen": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"skills": {
+		"stamina-regen": 1
+	},
+	"type": "pet-bought-bonus"
 }

@@ -1,21 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "warlord",
-	"name": {
-		"en": "Warlord"
-	},
 	"desc": {
 		"en": "The Warlord is a Tier III evolution from the Fighter Profession via Warrior > Berserker keeping all of the Berserkers abilities the Warlord also gains the abilty to use <b>Devotion</b>."
 	},
-	"skills": {
-		"axes": 5,
-		"two-handed-axes": 5,
-		"thrown-weapons": 5,
-		"shields": 5,
-		"slavemastery": 5,
-		"two-handed-swords": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "warlord",
+	"name": {
+		"en": "Warlord"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -24,5 +14,15 @@
 		"MAXMANA": 1,
 		"MAXSTAMINA": 3,
 		"STRENGTH": 5
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"axes": 5,
+		"shields": 5,
+		"slavemastery": 5,
+		"thrown-weapons": 5,
+		"two-handed-axes": 5,
+		"two-handed-swords": 5
 	}
 }

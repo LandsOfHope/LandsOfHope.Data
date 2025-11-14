@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 94,
 	"id": "long-godly-sword",
 	"image": "ls2",
-	"type": "1-handed-equipment",
-	"dpr": 94,
 	"material": "metal",
 	"skill": "swords",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

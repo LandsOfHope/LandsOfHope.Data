@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/ice-maker",
-	"requirements": {
-		"skill": 2096,
-		"mana": 2096
-	},
 	"duration": "PT225M",
 	"effects": {
 		"summon-item": {
 			"item": "ice-maker"
 		}
+	},
+	"id": "summoning/ice-maker",
+	"requirements": {
+		"mana": 2096,
+		"skill": 2096
 	}
 }

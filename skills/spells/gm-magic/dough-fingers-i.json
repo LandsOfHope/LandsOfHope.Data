@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/dough-fingers-i",
-	"requirements": {
-		"skill": 204,
-		"mana": 204
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"cooking": 100
 		}
+	},
+	"id": "gm-magic/dough-fingers-i",
+	"requirements": {
+		"mana": 204,
+		"skill": 204
 	}
 }

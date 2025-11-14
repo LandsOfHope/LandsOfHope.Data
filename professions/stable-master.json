@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
-	"id": "stable-master",
-	"name": {
-		"en": "Stable Master"
-	},
 	"desc": {
 		"en": "The seller and keeper of pets and creatures."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "stable-master",
+	"name": {
+		"en": "Stable Master"
 	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

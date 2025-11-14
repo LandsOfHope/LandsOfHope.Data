@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "maerns-knapsack",
 	"image": "imps",
-	"type": "bag",
 	"material": "cloth",
 	"skills": {
 		"cold-resistance": 1
-	}
+	},
+	"type": "bag"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "preservation-magic/fire-resistance-xiii",
-	"requirements": {
-		"skill": 4145,
-		"mana": 4145
-	},
 	"duration": "PT75M",
 	"effects": {
 		"skills": {
 			"fire-resistance": 417
 		}
+	},
+	"id": "preservation-magic/fire-resistance-xiii",
+	"requirements": {
+		"mana": 4145,
+		"skill": 4145
 	}
 }

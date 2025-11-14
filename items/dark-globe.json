@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "dark-globe",
 	"image": "zudagl",
-	"type": "1-handed-equipment",
-	"dpr": 2,
 	"material": "gem",
-	"skills": {
-		"air-resistance": 1,
-		"acid-resistance": 1,
-		"dark-magic": 1
-	},
 	"properties": {
 		"MAXMANA": 1
-	}
+	},
+	"skills": {
+		"acid-resistance": 1,
+		"air-resistance": 1,
+		"dark-magic": 1
+	},
+	"type": "1-handed-equipment"
 }

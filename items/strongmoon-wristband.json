@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "strongmoon-wristband",
 	"image": "4697",
-	"type": "wrist-jewelry",
-	"armorType": "cloth",
 	"legendary": true,
-	"set": "strongmoon-legend",
 	"material": "cloth",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"set": "strongmoon-legend",
+	"skills": {
+		"armor": 1
+	},
+	"type": "wrist-jewelry"
 }

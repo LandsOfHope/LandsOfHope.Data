@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "ring-of-dispair",
 	"image": "ring18",
-	"type": "ring",
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ring"
 }

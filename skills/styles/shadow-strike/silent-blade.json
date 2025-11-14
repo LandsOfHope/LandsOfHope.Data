@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 27
+	},
 	"id": "shadow-strike/silent-blade",
 	"requirements": {
 		"skill": 29,
 		"stamina": 29
-	},
-	"effects": {
-		"damage": 27
 	}
 }

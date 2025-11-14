@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "arrowhead",
 	"image": "ar1",
-	"type": "ammo-materials",
 	"material": "metal",
 	"properties": {
 		"HITPOINTS": 1
-	}
+	},
+	"type": "ammo-materials"
 }

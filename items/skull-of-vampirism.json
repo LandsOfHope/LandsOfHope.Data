@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "skull-of-vampirism",
 	"image": "xsc",
-	"type": "bonus-slot",
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "bonus-slot"
 }

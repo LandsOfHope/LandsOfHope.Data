@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "quick-earring",
 	"image": "267",
-	"type": "ear-jewelry",
 	"material": "gem",
 	"properties": {
 		"SPEED": 1
-	}
+	},
+	"type": "ear-jewelry"
 }

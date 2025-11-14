@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "celestial-magic/prismatic-illumination",
-	"requirements": {
-		"skill": 169,
-		"mana": 169
-	},
 	"duration": "PT60M",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 85
 		}
+	},
+	"id": "celestial-magic/prismatic-illumination",
+	"requirements": {
+		"mana": 169,
+		"skill": 169
 	}
 }

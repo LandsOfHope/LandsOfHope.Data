@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
-	"id": "outlaw-belt",
-	"image": "zuoube",
-	"type": "stomach",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "outlaw-belt",
+	"image": "zuoube",
 	"material": "cloth",
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "stomach"
 }

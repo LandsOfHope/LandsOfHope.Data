@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "locked-box",
 	"image": "bx",
-	"type": "world-lockpick-spawn",
-	"material": "wood"
+	"material": "wood",
+	"type": "world-lockpick-spawn"
 }

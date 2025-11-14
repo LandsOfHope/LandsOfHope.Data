@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "caretakers-ring",
 	"image": "rg5",
-	"type": "ring",
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"type": "ring"
 }

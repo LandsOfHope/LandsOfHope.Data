@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "siege-magic/plague-maggots",
-	"requirements": {
-		"skill": 2200,
-		"mana": 550
-	},
 	"effects": {
 		"damage": 640
+	},
+	"id": "siege-magic/plague-maggots",
+	"requirements": {
+		"mana": 550,
+		"skill": 2200
 	}
 }

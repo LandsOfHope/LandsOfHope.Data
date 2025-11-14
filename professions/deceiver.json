@@ -1,23 +1,14 @@
 {
 	"$type": "/v1/profession",
-	"id": "deceiver",
-	"name": {
-		"en": "Deceiver"
-	},
 	"desc": {
 		"en": "The Deceiver is a Tier II evolution from the Rogue Profession via Trickster, while keeping all of the Tricksters abilities the Deceiver also gains the abilty to use <b>Disguise</b>."
 	},
-	"skills": {
-		"stealth": 5,
-		"deception": 5,
-		"disguise": 5,
-		"lockpicking": 5,
-		"daggers": 5,
-		"swords": 5,
-		"subterfuge": 5,
-		"dual-wielding": 5,
-		"armor": 5,
-		"attack-power": 5
+	"evo": {
+		"bard": 650
+	},
+	"id": "deceiver",
+	"name": {
+		"en": "Deceiver"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -27,7 +18,16 @@
 		"MAXSTAMINA": 1,
 		"SPEED": 1
 	},
-	"evo": {
-		"bard": 650
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"daggers": 5,
+		"deception": 5,
+		"disguise": 5,
+		"dual-wielding": 5,
+		"lockpicking": 5,
+		"stealth": 5,
+		"subterfuge": 5,
+		"swords": 5
 	}
 }

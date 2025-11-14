@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/character-inventory-item-location-queue-locked.json",
-	"title": "CharacterInventoryItemLocationQueueLocked",
-	"type": "object",
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/inventory/character-inventory-item-location-queue-locked"
@@ -10,9 +8,11 @@
 			"$ref": "/schemas/v1/characters/character-id.json"
 		},
 		"queueId": {
-			"type": "integer",
-			"minimum": 1
+			"minimum": 1,
+			"type": "integer"
 		}
 	},
-	"required": ["$type", "character", "queueId"]
+	"required": ["$type", "character", "queueId"],
+	"title": "CharacterInventoryItemLocationQueueLocked",
+	"type": "object"
 }

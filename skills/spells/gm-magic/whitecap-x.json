@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/whitecap-x",
-	"requirements": {
-		"skill": 500,
-		"level": 901,
-		"mana": 10
-	},
 	"duration": "PT25M",
 	"effects": {
 		"skills": {
 			"cold-survival": 1000
 		}
+	},
+	"id": "gm-magic/whitecap-x",
+	"requirements": {
+		"level": 901,
+		"mana": 10,
+		"skill": 500
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1759
+	},
 	"id": "staves/mastered-thump-i",
 	"requirements": {
 		"skill": 3511,
 		"stamina": 3510
-	},
-	"effects": {
-		"damage": 1759
 	}
 }

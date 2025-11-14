@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "energy-magic/electrical-spark-iv",
-	"requirements": {
-		"skill": 953,
-		"mana": 953
-	},
 	"effects": {
 		"damage": 682
+	},
+	"id": "energy-magic/electrical-spark-iv",
+	"requirements": {
+		"mana": 953,
+		"skill": 953
 	}
 }

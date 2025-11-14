@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "riveted-vest",
 	"image": "cv1",
-	"type": "chest-armour",
-	"armorType": "mail",
 	"material": "metal",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "chest-armour"
 }

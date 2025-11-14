@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "savage-bracelet",
 	"image": "gmsabr",
-	"type": "wrist-jewelry",
-	"armorType": "cloth",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "wrist-jewelry"
 }

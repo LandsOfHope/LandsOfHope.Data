@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "preservation-magic/invocation-resistance-v",
-	"requirements": {
-		"skill": 1513,
-		"mana": 1513
-	},
 	"duration": "PT75M",
 	"effects": {
 		"skills": {
 			"invoking-resistance": 154
 		}
+	},
+	"id": "preservation-magic/invocation-resistance-v",
+	"requirements": {
+		"mana": 1513,
+		"skill": 1513
 	}
 }

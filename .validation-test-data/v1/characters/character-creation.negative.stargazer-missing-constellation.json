@@ -1,9 +1,9 @@
 {
 	"character": {
 		"$type": "/v1/characters/creation/common-creation-args",
+		"image": "sohum1",
 		"name": "Happy",
 		"profession": "stargazer",
-		"sex": "M",
-		"image": "sohum1"
+		"sex": "M"
 	}
 }

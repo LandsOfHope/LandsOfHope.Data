@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 42,
 	"id": "chipped-battle-staff",
 	"image": "sf",
-	"type": "2-handed-equipment",
-	"dpr": 42,
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

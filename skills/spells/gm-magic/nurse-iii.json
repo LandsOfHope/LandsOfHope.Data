@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/nurse-iii",
-	"requirements": {
-		"skill": 472,
-		"mana": 472
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"healing-magic": 237
 		}
+	},
+	"id": "gm-magic/nurse-iii",
+	"requirements": {
+		"mana": 472,
+		"skill": 472
 	}
 }

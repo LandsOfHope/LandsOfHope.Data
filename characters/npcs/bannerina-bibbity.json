@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "bannerina-bibbity"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Bannerina Bibbity",
-		"title": "bewitching-trainer",
 		"image": "mjphag2",
 		"level": {
 			"primary": 1
 		},
+		"name": "Bannerina Bibbity",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "bewitching-trainer"
 	}
 }

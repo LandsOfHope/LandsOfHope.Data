@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "emma-missystitch"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Emma Missystitch",
-		"title": "craft-trainer",
 		"image": "pirate6",
 		"level": {
 			"primary": 1
 		},
+		"name": "Emma Missystitch",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "craft-trainer"
 	}
 }

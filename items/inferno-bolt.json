@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 90,
 	"id": "inferno-bolt",
 	"image": "arr1",
-	"type": "ammo-weapons-crossbows",
-	"dpr": 90,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-crossbows"
 }

@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "artisan/artisan-tool",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "artisan-tool"
-	},
 	"image": "hr2",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "artisan",
-	"skillValue": 5,
-	"quality": "uncommon",
 	"ingredients": [
 		{
 			"id": "ingot",
@@ -18,8 +9,17 @@
 		},
 		{
 			"id": "log",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "artisan-tool"
+	},
+	"quality": "uncommon",
+	"quantity": 1,
+	"skill": "artisan",
+	"skillValue": 5,
+	"time": "PT15S"
 }

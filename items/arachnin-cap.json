@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "arachnin-cap",
-	"image": "5138",
-	"type": "head-armour",
 	"armorType": "cloth",
 	"expansion": "jurassic-wars",
+	"id": "arachnin-cap",
+	"image": "5138",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "head-armour"
 }

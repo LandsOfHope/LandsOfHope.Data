@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "pet-treat-box",
 	"image": "5738",
-	"type": "good-spawner",
-	"material": "wood"
+	"material": "wood",
+	"type": "good-spawner"
 }

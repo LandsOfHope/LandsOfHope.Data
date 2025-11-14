@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "energized-ring",
 	"image": "rge",
-	"type": "ring",
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXMANA": 1
-	}
+	},
+	"type": "ring"
 }

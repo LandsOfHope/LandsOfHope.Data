@@ -1,10 +1,6 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/actions/character-actions.json",
-	"title": "CharacterActions",
-	"type": "object",
-	"propertyNames": {
-		"enum": ["talk", "quests", "emote", "appraise", "trade"]
-	},
+	"additionalProperties": false,
 	"patternProperties": {
 		".*": {
 			"oneOf": [
@@ -26,5 +22,9 @@
 			]
 		}
 	},
-	"additionalProperties": false
+	"propertyNames": {
+		"enum": ["talk", "quests", "emote", "appraise", "trade"]
+	},
+	"title": "CharacterActions",
+	"type": "object"
 }

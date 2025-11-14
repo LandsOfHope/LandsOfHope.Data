@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "christmas-trinket",
-	"name": {
-		"en": "Christmas Trinket"
-	},
 	"desc": {
 		"en": "Wintersvale Product 2008."
 	},
-	"skills": {
-		"divine-fury": 5,
-		"two-handed-axes": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "christmas-trinket",
+	"name": {
+		"en": "Christmas Trinket"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -19,5 +13,11 @@
 		"MAXSTAMINA": 4,
 		"SPEED": 2,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"divine-fury": 5,
+		"two-handed-axes": 5
 	}
 }

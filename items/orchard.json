@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "orchard",
 	"image": "1531",
-	"type": "resource-harvester",
-	"material": "hide"
+	"material": "hide",
+	"type": "resource-harvester"
 }

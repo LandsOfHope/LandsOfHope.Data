@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 22,
 	"id": "hunters-razor-axe",
 	"image": "aba",
-	"type": "2-handed-equipment",
-	"dpr": 22,
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

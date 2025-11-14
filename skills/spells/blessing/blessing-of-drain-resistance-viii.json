@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "blessing/blessing-of-drain-resistance-viii",
-	"requirements": {
-		"skill": 4656,
-		"mana": 4656
-	},
 	"duration": "PT75M",
 	"effects": {
 		"skills": {
 			"drain-resistance": 480
 		}
+	},
+	"id": "blessing/blessing-of-drain-resistance-viii",
+	"requirements": {
+		"mana": 4656,
+		"skill": 4656
 	}
 }

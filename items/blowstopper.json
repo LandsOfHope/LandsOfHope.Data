@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 7,
 	"id": "blowstopper",
 	"image": "sdd",
-	"type": "2-handed-equipment",
-	"dpr": 7,
 	"material": "gem",
 	"skill": "two-handed-shields",
 	"skills": {
-		"bludgeon-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"bludgeon-defense": 1
+	},
+	"type": "2-handed-equipment"
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "ladybird-boots",
-	"image": "5171",
-	"type": "foot-armour",
 	"armorType": "plate",
 	"expansion": "jurassic-wars",
+	"id": "ladybird-boots",
+	"image": "5171",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

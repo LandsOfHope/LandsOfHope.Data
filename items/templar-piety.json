@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"expansion": "the-afterlife",
 	"id": "templar-piety",
 	"image": "6236",
-	"type": "wings",
-	"expansion": "the-afterlife",
-	"set": "templar-set",
 	"material": "hide",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
+	"set": "templar-set",
 	"skills": {
 		"air-survival": 1,
 		"celestial-defense": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "wings"
 }

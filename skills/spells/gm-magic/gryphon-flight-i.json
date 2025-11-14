@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/gryphon-flight-i",
-	"requirements": {
-		"skill": 113,
-		"mana": 113
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"air-survival": 57
 		}
+	},
+	"id": "gm-magic/gryphon-flight-i",
+	"requirements": {
+		"mana": 113,
+		"skill": 113
 	}
 }

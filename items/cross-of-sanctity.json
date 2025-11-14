@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "cross-of-sanctity",
 	"image": "zucos",
-	"type": "neck",
 	"material": "metal",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skill": "healing-magic",
 	"skills": {
 		"healing-magic": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "neck"
 }

@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "enhanced-preystalking-ring",
 	"image": "6791",
-	"type": "ring",
 	"material": "gem",
-	"skills": {
-		"track-beasts": 10
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"STRENGTH": 1
-	}
+	},
+	"skills": {
+		"track-beasts": 10
+	},
+	"type": "ring"
 }

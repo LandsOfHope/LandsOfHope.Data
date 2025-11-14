@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/wizard-iv",
-	"requirements": {
-		"skill": 586,
-		"mana": 586
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 294
 		}
+	},
+	"id": "gm-magic/wizard-iv",
+	"requirements": {
+		"mana": 586,
+		"skill": 586
 	}
 }

@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/chat/chat-message.json",
-	"title": "ChatMessage",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -10,27 +8,10 @@
 		"id": {
 			"$ref": "/schemas/v1/chat/chat-message-id.json"
 		},
-		"sender": {
-			"$ref": "/schemas/v1/chat/chat-participant.json"
-		},
-		"sent": {
-			"$ref": "/schemas/v0/datetime.json"
-		},
-		"raw": {
-			"type": "string"
-		},
 		"parts": {
-			"type": "array",
 			"items": {
 				"oneOf": [
 					{
-						"type": "object",
-						"properties": {
-							"raw": {
-								"type": "string"
-							}
-						},
-						"required": ["raw"],
 						"not": {
 							"properties": {
 								"$type": {
@@ -38,7 +19,14 @@
 								}
 							},
 							"required": ["$type"]
-						}
+						},
+						"properties": {
+							"raw": {
+								"type": "string"
+							}
+						},
+						"required": ["raw"],
+						"type": "object"
 					},
 					{
 						"$ref": "/schemas/v1/chat/chat-mention.json"
@@ -47,11 +35,23 @@
 						"$ref": "/schemas/v1/links/link.json"
 					}
 				]
-			}
+			},
+			"type": "array"
+		},
+		"raw": {
+			"type": "string"
+		},
+		"sender": {
+			"$ref": "/schemas/v1/chat/chat-participant.json"
+		},
+		"sent": {
+			"$ref": "/schemas/v0/datetime.json"
 		},
 		"type": {
 			"enum": ["message", "emote"]
 		}
 	},
-	"required": ["$type", "id", "sender", "sent", "raw", "parts", "type"]
+	"required": ["$type", "id", "sender", "sent", "raw", "parts", "type"],
+	"title": "ChatMessage",
+	"type": "object"
 }

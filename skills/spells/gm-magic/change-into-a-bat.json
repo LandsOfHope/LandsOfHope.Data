@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/change-into-a-bat",
-	"requirements": {
-		"skill": 265,
-		"mana": 265
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"air-survival": 133
 		}
+	},
+	"id": "gm-magic/change-into-a-bat",
+	"requirements": {
+		"mana": 265,
+		"skill": 265
 	}
 }

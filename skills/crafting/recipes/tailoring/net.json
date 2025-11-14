@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tailoring/net",
+	"image": "fin",
+	"ingredients": [
+		{
+			"id": "cloth",
+			"primary": true,
+			"quantity": 12
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-item",
 		"item": "net"
 	},
-	"image": "fin",
-	"time": "PT15S",
+	"quality": "common",
 	"quantity": 1,
 	"skill": "tailoring",
 	"skillValue": 4500,
-	"quality": "common",
-	"ingredients": [
-		{
-			"id": "cloth",
-			"quantity": 12,
-			"primary": true
-		}
-	]
+	"time": "PT15S"
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "bloodlust-boots",
 	"image": "6507",
-	"type": "foot-armour",
-	"armorType": "leather",
 	"material": "hide",
-	"skills": {
-		"detect-hidden": 1,
-		"armor": 1
-	},
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"skills": {
+		"armor": 1,
+		"detect-hidden": 1
+	},
+	"type": "foot-armour"
 }

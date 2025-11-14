@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Sea Wretch"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Sea Wretch"
+	},
 	"pics": {
-		"M": ["uwswm"],
-		"F": ["uwswf"]
+		"F": ["uwswf"],
+		"M": ["uwswm"]
 	}
 }

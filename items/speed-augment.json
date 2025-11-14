@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "speed-augment",
 	"image": "6817",
-	"type": "augment",
 	"material": "gem",
 	"properties": {
 		"SPEED": 1.2
-	}
+	},
+	"type": "augment"
 }

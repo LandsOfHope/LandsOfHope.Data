@@ -1,9 +1,9 @@
 {
 	"$type": "/v0/items/extra-item",
-	"itemId": 2196,
-	"quantity": 1,
-	"imageType": "i",
-	"image": "zugeor",
 	"category": "world",
-	"hc": 8
+	"hc": 8,
+	"image": "zugeor",
+	"imageType": "i",
+	"itemId": 2196,
+	"quantity": 1
 }

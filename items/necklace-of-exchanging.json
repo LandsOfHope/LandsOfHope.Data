@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "necklace-of-exchanging",
 	"image": "zuneex",
-	"type": "neck",
-	"armorType": "cloth",
 	"material": "gem",
 	"skills": {
 		"appraisal": 1
-	}
+	},
+	"type": "neck"
 }

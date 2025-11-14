@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "animated-boots",
 	"image": "6351",
-	"type": "foot-armour",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "animation",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "foot-armour"
 }

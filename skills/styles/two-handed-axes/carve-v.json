@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 424
+	},
 	"id": "two-handed-axes/carve-v",
 	"requirements": {
 		"skill": 841,
 		"stamina": 840
-	},
-	"effects": {
-		"damage": 424
 	}
 }

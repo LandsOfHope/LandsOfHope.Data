@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "air-magic/storm-of-the-century-i",
-	"requirements": {
-		"skill": 4551,
-		"mana": 4551
-	},
 	"duration": "PT1M",
 	"effects": {
 		"damage": 3200
+	},
+	"id": "air-magic/storm-of-the-century-i",
+	"requirements": {
+		"mana": 4551,
+		"skill": 4551
 	}
 }

@@ -1,50 +1,50 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/items/resource.json",
-	"title": "Resource",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/items/resource"
 		},
-		"id": {
-			"$ref": "/schemas/v1/items-resources-id.gen.json"
-		},
-		"skill": {
-			"$ref": "/schemas/v1/skills-id.gen.json"
-		},
-		"tools": {
-			"type": "array",
-			"items": {
-				"$ref": "/schemas/v1/items-id.gen.json"
-			},
-			"minItems": 1
-		},
-		"items": {
-			"type": "array",
-			"items": {
-				"$ref": "/schemas/v1/items-id.gen.json"
-			},
-			"minItems": 1
-		},
 		"bonuses": {
-			"type": "object",
-			"propertyNames": {
-				"$ref": "/schemas/v1/items-id.gen.json"
-			},
+			"additionalProperties": false,
 			"patternProperties": {
 				".*": {
 					"$ref": "/schemas/v1/random-chance.json"
 				}
 			},
-			"additionalProperties": false
+			"propertyNames": {
+				"$ref": "/schemas/v1/items-id.gen.json"
+			},
+			"type": "object"
+		},
+		"id": {
+			"$ref": "/schemas/v1/items-resources-id.gen.json"
+		},
+		"image": {
+			"$ref": "/schemas/v1/items-images-id.gen.json"
+		},
+		"items": {
+			"items": {
+				"$ref": "/schemas/v1/items-id.gen.json"
+			},
+			"minItems": 1,
+			"type": "array"
 		},
 		"material": {
 			"$ref": "/schemas/v1/items-materials-id.gen.json"
 		},
-		"image": {
-			"$ref": "/schemas/v1/items-images-id.gen.json"
+		"skill": {
+			"$ref": "/schemas/v1/skills-id.gen.json"
+		},
+		"tools": {
+			"items": {
+				"$ref": "/schemas/v1/items-id.gen.json"
+			},
+			"minItems": 1,
+			"type": "array"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "id", "skill", "tools", "items", "material", "image"]
+	"required": ["$type", "id", "skill", "tools", "items", "material", "image"],
+	"title": "Resource",
+	"type": "object"
 }

@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/items/resource",
-	"id": "stone",
-	"skill": "mining",
-	"tools": ["pickaxe", "razarks-pickaxe"],
-	"items": ["stone-block"],
 	"bonuses": {
 		"gem": {
 			"$type": "/v1/random-chance",
-			"numer": 6,
-			"denom": 100
+			"denom": 100,
+			"numer": 6
 		}
 	},
+	"id": "stone",
+	"image": "gsb",
+	"items": ["stone-block"],
 	"material": "stone",
-	"image": "gsb"
+	"skill": "mining",
+	"tools": ["pickaxe", "razarks-pickaxe"]
 }

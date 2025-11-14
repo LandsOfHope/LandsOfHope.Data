@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "clawed-feet",
 	"image": "192",
-	"type": "foot-armour",
 	"material": "hide",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skills": {
 		"armor": 1,
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "foot-armour"
 }

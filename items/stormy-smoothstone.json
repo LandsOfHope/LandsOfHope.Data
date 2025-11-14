@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 74,
 	"id": "stormy-smoothstone",
 	"image": "sms",
-	"type": "ammo-weapons-rocks",
-	"dpr": 74,
 	"material": "stone",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-rocks"
 }

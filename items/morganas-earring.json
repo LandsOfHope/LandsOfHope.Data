@@ -2,15 +2,15 @@
 	"$type": "/v1/item",
 	"id": "morganas-earring",
 	"image": "6924",
-	"type": "ear-jewelry",
-	"set": "arthurian-set",
 	"material": "gem",
-	"skills": {
-		"stamina-regen": 0.5,
-		"mana-regen": 0.5,
-		"health-regen": 0.5
-	},
 	"properties": {
 		"MAXHITPOINTS": 1.2
-	}
+	},
+	"set": "arthurian-set",
+	"skills": {
+		"health-regen": 0.5,
+		"mana-regen": 0.5,
+		"stamina-regen": 0.5
+	},
+	"type": "ear-jewelry"
 }

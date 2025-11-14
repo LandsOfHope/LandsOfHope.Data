@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "intercession/388-angelic-symbol",
-	"requirements": {
-		"skill": 3880,
-		"level": 776,
-		"mana": 3880
-	},
 	"duration": "PT999M",
 	"effects": {
 		"skills": {
 			"armor": 388
 		}
+	},
+	"id": "intercession/388-angelic-symbol",
+	"requirements": {
+		"level": 776,
+		"mana": 3880,
+		"skill": 3880
 	}
 }

@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "mana-ring",
 	"image": "rgf",
-	"type": "ring",
 	"material": "gem",
 	"properties": {
 		"MANA": 1,
 		"MAXMANA": 1
-	}
+	},
+	"type": "ring"
 }

@@ -1,5 +1,3 @@
-"use strict";
-
 const util = require("util");
 const exec = util.promisify(require("child_process").exec);
 const glob = require("glob");
@@ -246,8 +244,8 @@ const checkMappingsAreValidMap = async (mappingFile) => {
 	return hasDupe ? 1 : 0;
 };
 
-const main = async function () {
-	return await Promise.all([
+const main = async () =>
+	await Promise.all([
 		validateAll(
 			"schemas/v0/items/extra-item.json",
 			"items/extras/!(*.gen).json",
@@ -485,7 +483,6 @@ const main = async function () {
 				]),
 			)),
 	]);
-};
 
 main()
 	.then((results) => results.reduce((last, current) => last | current))

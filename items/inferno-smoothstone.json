@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 93,
 	"id": "inferno-smoothstone",
 	"image": "sms",
-	"type": "ammo-weapons-rocks",
-	"dpr": 93,
 	"material": "stone",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-rocks"
 }

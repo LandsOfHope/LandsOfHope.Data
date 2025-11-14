@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "intercession/374-sentient-symbol",
-	"requirements": {
-		"skill": 3740,
-		"level": 748,
-		"mana": 3740
-	},
 	"duration": "PT999M",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 374
 		}
+	},
+	"id": "intercession/374-sentient-symbol",
+	"requirements": {
+		"level": 748,
+		"mana": 3740,
+		"skill": 3740
 	}
 }

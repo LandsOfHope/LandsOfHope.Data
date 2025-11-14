@@ -1,24 +1,24 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "A demon that can do no physical damage, yet blocks attacks against its master."
+	},
 	"id": "protection-demon",
 	"name": {
 		"en": "Protection Demon"
 	},
-	"desc": {
-		"en": "A demon that can do no physical damage, yet blocks attacks against its master."
-	},
-	"skills": {
-		"taunting": 5,
-		"gun-defense": 5,
-		"bladed-defense": 5,
-		"projectile-defense": 5,
-		"h2h-defense": 5,
-		"bludgeon-defense": 5,
-		"stringed-defense": 5,
-		"pole-defense": 5,
-		"armor": 5
-	},
 	"properties": {
 		"MAXHITPOINTS": 5
+	},
+	"skills": {
+		"armor": 5,
+		"bladed-defense": 5,
+		"bludgeon-defense": 5,
+		"gun-defense": 5,
+		"h2h-defense": 5,
+		"pole-defense": 5,
+		"projectile-defense": 5,
+		"stringed-defense": 5,
+		"taunting": 5
 	}
 }

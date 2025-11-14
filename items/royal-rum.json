@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "royal-rum",
 	"image": "gmroru",
-	"type": "event-spawner",
-	"expansion": "uncharted-waters",
-	"material": "wood"
+	"material": "wood",
+	"type": "event-spawner"
 }

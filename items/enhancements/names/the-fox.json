@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/items/enhancements/item-name",
-	"id": "names/the-fox",
 	"effects": {
-		"skills": {
-			"health-regen": 0.2
-		},
 		"properties": {
 			"MAXHITPOINTS": 0.4
+		},
+		"skills": {
+			"health-regen": 0.2
 		}
-	}
+	},
+	"id": "names/the-fox"
 }

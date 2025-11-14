@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 35,
 	"id": "leafy-smoothstone",
 	"image": "sms",
-	"type": "ammo-weapons-rocks",
-	"dpr": 35,
 	"material": "stone",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-rocks"
 }

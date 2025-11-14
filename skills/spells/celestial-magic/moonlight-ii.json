@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "celestial-magic/moonlight-ii",
-	"requirements": {
-		"skill": 2801,
-		"mana": 2801
-	},
 	"effects": {
 		"damage": 1975
+	},
+	"id": "celestial-magic/moonlight-ii",
+	"requirements": {
+		"mana": 2801,
+		"skill": 2801
 	}
 }

@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "chest-of-commerce",
 	"image": "zuchco",
-	"type": "item-sell-box",
-	"material": "wood"
+	"material": "wood",
+	"type": "item-sell-box"
 }

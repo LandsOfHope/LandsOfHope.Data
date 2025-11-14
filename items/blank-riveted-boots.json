@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "blank-riveted-boots",
 	"image": "6848",
-	"type": "foot-armour",
-	"set": "inventor-riveted-set",
 	"material": "metal",
+	"set": "inventor-riveted-set",
 	"skill": "bolts-over-brains",
 	"skills": {
 		"armor": 0.7
-	}
+	},
+	"type": "foot-armour"
 }

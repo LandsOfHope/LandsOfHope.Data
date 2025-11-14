@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/destiny-viii",
-	"requirements": {
-		"skill": 40,
-		"mana": 40
-	},
 	"duration": "PT140000M",
 	"effects": {
 		"skills": {
 			"experience-bonus": 500
 		}
+	},
+	"id": "gamemastery/destiny-viii",
+	"requirements": {
+		"mana": 40,
+		"skill": 40
 	}
 }

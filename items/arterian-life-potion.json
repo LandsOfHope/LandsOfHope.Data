@@ -2,8 +2,8 @@
 	"$type": "/v1/item",
 	"id": "arterian-life-potion",
 	"image": "gmarlipo",
-	"type": "magic-potion",
 	"properties": {
 		"HITPOINTS": 6
-	}
+	},
+	"type": "magic-potion"
 }

@@ -1,89 +1,10 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/inventory-item.json",
-	"title": "CharacterInventoryItem",
-	"type": "object",
-	"properties": {
-		"$type": {
-			"const": "/v1/characters/inventory/inventory-item"
-		},
-		"id": {
-			"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
-		},
-		"item": {
-			"oneOf": [
-				{
-					"$ref": "/schemas/v1/item.json"
-				},
-				{
-					"$ref": "/schemas/v1/items-id.gen.json"
-				},
-				{
-					"$ref": "/schemas/v1/characters/inventory/unidentified-item.json"
-				}
-			]
-		},
-		"level": {
-			"type": "integer",
-			"minimum": 0
-		},
-		"quantity": {
-			"$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
-		},
-		"location": {
-			"$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
-		},
-		"locked": {
-			"type": "object",
-			"properties": {
-				"lockpicking": {
-					"type": "integer",
-					"minimum": 5
-				}
-			},
-			"additionalProperties": false,
-			"required": ["lockpicking"]
-		},
-		"expiry": {
-			"$ref": "/schemas/v0/datetime.json"
-		},
-		"guild": {
-			"type": "integer",
-			"minimum": 1
-		},
-		"quality": {
-			"type": "integer",
-			"minimum": 0
-		},
-		"actions": {
-			"$ref": "/schemas/v1/characters/inventory/actions/inventory-item-actions.json"
-		},
-		"stackHash": {
-			"$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
-		},
-		"nickname": {
-			"$ref": "/schemas/v1/characters/inventory/inventory-item-nickname.json"
-		},
-		"enhancements": {
-			"type": "array",
-			"items": {
-				"enum": [
-					"imbued",
-					"imprinted",
-					"bejewelled",
-					"named",
-					"patched",
-					"guilded"
-				]
-			},
-			"minItems": 1
-		}
-	},
 	"anyOf": [
 		{
 			"not": {
 				"properties": {
 					"enhancements": {
-						"type": "array",
 						"items": {
 							"enum": [
 								"imbued",
@@ -94,7 +15,8 @@
 								"guilded"
 							]
 						},
-						"minItems": 1
+						"minItems": 1,
+						"type": "array"
 					}
 				},
 				"required": ["enhancements"]
@@ -119,6 +41,82 @@
 			"$ref": "/schemas/v1/characters/inventory/enhancements/enhanced-guilded.json"
 		}
 	],
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/inventory/inventory-item"
+		},
+		"actions": {
+			"$ref": "/schemas/v1/characters/inventory/actions/inventory-item-actions.json"
+		},
+		"enhancements": {
+			"items": {
+				"enum": [
+					"imbued",
+					"imprinted",
+					"bejewelled",
+					"named",
+					"patched",
+					"guilded"
+				]
+			},
+			"minItems": 1,
+			"type": "array"
+		},
+		"expiry": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"guild": {
+			"minimum": 1,
+			"type": "integer"
+		},
+		"id": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+		},
+		"item": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/item.json"
+				},
+				{
+					"$ref": "/schemas/v1/items-id.gen.json"
+				},
+				{
+					"$ref": "/schemas/v1/characters/inventory/unidentified-item.json"
+				}
+			]
+		},
+		"level": {
+			"minimum": 0,
+			"type": "integer"
+		},
+		"location": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
+		},
+		"locked": {
+			"additionalProperties": false,
+			"properties": {
+				"lockpicking": {
+					"minimum": 5,
+					"type": "integer"
+				}
+			},
+			"required": ["lockpicking"],
+			"type": "object"
+		},
+		"nickname": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-nickname.json"
+		},
+		"quality": {
+			"minimum": 0,
+			"type": "integer"
+		},
+		"quantity": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
+		},
+		"stackHash": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
+		}
+	},
 	"required": [
 		"$type",
 		"id",
@@ -128,5 +126,7 @@
 		"location",
 		"actions",
 		"stackHash"
-	]
+	],
+	"title": "CharacterInventoryItem",
+	"type": "object"
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "dragonflyer-tunic",
-	"image": "5133",
-	"type": "chest-armour",
 	"armorType": "cloth",
 	"expansion": "jurassic-wars",
+	"id": "dragonflyer-tunic",
+	"image": "5133",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "chest-armour"
 }

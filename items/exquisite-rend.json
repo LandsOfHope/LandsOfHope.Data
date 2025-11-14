@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 140,
 	"id": "exquisite-rend",
 	"image": "6639",
-	"type": "2-handed-equipment",
-	"dpr": 140,
 	"material": "metal",
-	"skill": "two-handed-axes",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "two-handed-axes",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "2-handed-equipment"
 }

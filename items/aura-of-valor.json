@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "aura-of-valor",
 	"image": "6900",
-	"type": "aura",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1.5
+	},
 	"skills": {
 		"damage-absorption": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1.5
-	}
+	"type": "aura"
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "ancient-shoulders",
 	"image": "sss",
-	"type": "shoulders",
-	"armorType": "leather",
 	"material": "hide",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"skills": {
+		"armor": 1
+	},
+	"type": "shoulders"
 }

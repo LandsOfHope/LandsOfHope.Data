@@ -1,22 +1,22 @@
 {
-	"exp": 1716769218,
-	"iat": 1716768918,
-	"jti": "00000000-0000-0000-0000-000000000000",
-	"iss": "https://idp.landsofhope.local/realms/lands-of-hope",
-	"sub": "00000000-0000-0000-0000-000000000000",
-	"typ": "Bearer",
 	"azp": "https://landsofhope.local",
-	"session_state": "00000000-0000-0000-0000-000000000000",
-	"scope": "openid profile groups email",
-	"sid": "00000000-0000-0000-0000-000000000000",
 	"birthdate": "2000-01-01",
+	"email": "test@landsofhope.com",
 	"email_verified": true,
+	"exp": 1716769218,
 	"groups": [
 		"default-roles-lands-of-hope",
 		"gamemasters",
 		"admins",
 		"moderators"
 	],
+	"iat": 1716768918,
+	"iss": "https://idp.landsofhope.local/realms/lands-of-hope",
+	"jti": "00000000-0000-0000-0000-000000000000",
 	"preferred_username": "test_user",
-	"email": "test@landsofhope.com"
+	"scope": "openid profile groups email",
+	"session_state": "00000000-0000-0000-0000-000000000000",
+	"sid": "00000000-0000-0000-0000-000000000000",
+	"sub": "00000000-0000-0000-0000-000000000000",
+	"typ": "Bearer"
 }

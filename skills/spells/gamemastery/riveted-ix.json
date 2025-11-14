@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/riveted-ix",
-	"requirements": {
-		"skill": 45,
-		"mana": 45
-	},
 	"duration": "PT140000M",
 	"effects": {
 		"properties": {
 			"MAXSTAMINA": 600
 		}
+	},
+	"id": "gamemastery/riveted-ix",
+	"requirements": {
+		"mana": 45,
+		"skill": 45
 	}
 }

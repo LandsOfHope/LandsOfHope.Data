@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "scaled-feet",
 	"image": "190",
-	"type": "foot-armour",
 	"material": "hide",
 	"skills": {
+		"armor": 1,
 		"bladed-defense": 1,
-		"bludgeon-defense": 1,
-		"armor": 1
-	}
+		"bludgeon-defense": 1
+	},
+	"type": "foot-armour"
 }

@@ -1,143 +1,45 @@
 {
-	"event_id": "evt_01hv8x2axb33yr5y238zfwcn5p",
-	"event_type": "transaction.completed",
-	"occurred_at": "2024-04-12T10:18:50.155553Z",
-	"notification_id": "ntf_01hv8x2azy7scaan4s0eb0273x",
 	"data": {
-		"id": "txn_01hv8wptq8987qeep44cyrewp9",
-		"items": [
-			{
-				"price": {
-					"id": "pri_01gsz8x8sawmvhz1pv30nge1ke",
-					"name": "Monthly (per seat)",
-					"type": "standard",
-					"status": "active",
-					"quantity": {
-						"maximum": 999,
-						"minimum": 1
-					},
-					"tax_mode": "account_setting",
-					"created_at": "2023-02-23T13:55:22.538367Z",
-					"product_id": "pro_01gsz4t5hdjse780zja8vvr7jg",
-					"unit_price": {
-						"amount": "3000",
-						"currency_code": "USD"
-					},
-					"updated_at": "2024-04-11T13:54:52.254748Z",
-					"custom_data": null,
-					"description": "Monthly",
-					"trial_period": null,
-					"billing_cycle": {
-						"interval": "month",
-						"frequency": 1
-					},
-					"unit_price_overrides": [],
-					"import_meta": null
-				},
-				"quantity": 10,
-				"proration": null
-			},
-			{
-				"price": {
-					"id": "pri_01h1vjfevh5etwq3rb416a23h2",
-					"name": "Monthly (recurring addon)",
-					"type": "standard",
-					"status": "active",
-					"quantity": {
-						"maximum": 100,
-						"minimum": 1
-					},
-					"tax_mode": "account_setting",
-					"created_at": "2023-06-01T13:31:12.625056Z",
-					"product_id": "pro_01h1vjes1y163xfj1rh1tkfb65",
-					"unit_price": {
-						"amount": "10000",
-						"currency_code": "USD"
-					},
-					"updated_at": "2024-04-09T07:23:00.907834Z",
-					"custom_data": null,
-					"description": "Monthly",
-					"trial_period": null,
-					"billing_cycle": {
-						"interval": "month",
-						"frequency": 1
-					},
-					"unit_price_overrides": [],
-					"import_meta": null
-				},
-				"quantity": 1,
-				"proration": null
-			},
-			{
-				"price": {
-					"id": "pri_01gsz98e27ak2tyhexptwc58yk",
-					"name": "One-time addon",
-					"type": "standard",
-					"status": "active",
-					"quantity": {
-						"maximum": 1,
-						"minimum": 1
-					},
-					"tax_mode": "account_setting",
-					"created_at": "2023-02-23T14:01:28.391712Z",
-					"product_id": "pro_01gsz97mq9pa4fkyy0wqenepkz",
-					"unit_price": {
-						"amount": "19900",
-						"currency_code": "USD"
-					},
-					"updated_at": "2024-04-09T07:23:10.921392Z",
-					"custom_data": null,
-					"description": "One-time addon",
-					"trial_period": null,
-					"billing_cycle": null,
-					"unit_price_overrides": [],
-					"import_meta": null
-				},
-				"quantity": 1,
-				"proration": null
-			}
-		],
-		"origin": "web",
-		"status": "completed",
+		"address_id": "add_01hv8wt8ny8ms5vtm71bj8vcdd",
+		"billed_at": "2024-04-12T10:18:48.294633Z",
+		"billing_details": null,
+		"billing_period": {
+			"ends_at": "2024-05-12T10:18:47.635628Z",
+			"starts_at": "2024-04-12T10:18:47.635628Z"
+		},
+		"business_id": null,
+		"checkout": {
+			"url": "https://aeroedit.com/pay?_ptxn=txn_01hv8wptq8987qeep44cyrewp9"
+		},
+		"collection_mode": "automatic",
+		"created_at": "2024-04-12T10:12:33.2014Z",
+		"currency_code": "USD",
+		"custom_data": null,
+		"customer_id": "ctm_01hv8wt8nffez4p2t6typn4a5j",
 		"details": {
-			"totals": {
-				"fee": "3311",
-				"tax": "5315",
-				"total": "65215",
-				"credit": "0",
-				"balance": "0",
-				"discount": "0",
-				"earnings": "56589",
-				"subtotal": "59900",
-				"grand_total": "65215",
+			"adjusted_totals": {
 				"currency_code": "USD",
-				"credit_to_balance": "0"
+				"earnings": "56589",
+				"fee": "3311",
+				"grand_total": "65215",
+				"subtotal": "59900",
+				"tax": "5315",
+				"total": "65215"
 			},
 			"line_items": [
 				{
 					"id": "txnitm_01hv8wt98jahpbm1t1tzr06z6n",
-					"totals": {
-						"tax": "2662",
-						"total": "32662",
-						"discount": "0",
-						"subtotal": "30000"
-					},
+					"price_id": "pri_01gsz8x8sawmvhz1pv30nge1ke",
 					"product": {
-						"id": "pro_01gsz4t5hdjse780zja8vvr7jg",
-						"name": "AeroEdit Pro",
-						"type": "standard",
-						"status": "active",
-						"image_url": "https://paddle.s3.amazonaws.com/user/165798/bT1XUOJAQhOUxGs83cbk_pro.png",
 						"created_at": "2023-02-23T12:43:46.605Z",
-						"updated_at": "2024-04-05T15:53:44.687Z",
 						"custom_data": {
 							"features": {
-								"sso": false,
-								"route_planning": true,
-								"payment_by_invoice": false,
 								"aircraft_performance": true,
 								"compliance_monitoring": true,
-								"flight_log_management": true
+								"flight_log_management": true,
+								"payment_by_invoice": false,
+								"route_planning": true,
+								"sso": false
 							},
 							"suggested_addons": [
 								"pro_01h1vjes1y163xfj1rh1tkfb65",
@@ -146,178 +48,276 @@
 							"upgrade_description": "Move from Basic to Pro to take advantage of aircraft performance, advanced route planning, and compliance monitoring."
 						},
 						"description": "Designed for professional pilots, including all features plus in Basic plus compliance monitoring, route optimization, and third-party integrations.",
+						"id": "pro_01gsz4t5hdjse780zja8vvr7jg",
+						"image_url": "https://paddle.s3.amazonaws.com/user/165798/bT1XUOJAQhOUxGs83cbk_pro.png",
+						"import_meta": null,
+						"name": "AeroEdit Pro",
+						"status": "active",
 						"tax_category": "standard",
-						"import_meta": null
+						"type": "standard",
+						"updated_at": "2024-04-05T15:53:44.687Z"
 					},
-					"price_id": "pri_01gsz8x8sawmvhz1pv30nge1ke",
 					"quantity": 10,
 					"tax_rate": "0.08875",
-					"unit_totals": {
-						"tax": "266",
-						"total": "3266",
+					"totals": {
 						"discount": "0",
-						"subtotal": "3000"
+						"subtotal": "30000",
+						"tax": "2662",
+						"total": "32662"
+					},
+					"unit_totals": {
+						"discount": "0",
+						"subtotal": "3000",
+						"tax": "266",
+						"total": "3266"
 					}
 				},
 				{
 					"id": "txnitm_01hv8wt98jahpbm1t1v1sd067y",
-					"totals": {
-						"tax": "887",
-						"total": "10887",
-						"discount": "0",
-						"subtotal": "10000"
-					},
+					"price_id": "pri_01h1vjfevh5etwq3rb416a23h2",
 					"product": {
-						"id": "pro_01h1vjes1y163xfj1rh1tkfb65",
-						"name": "Analytics addon",
-						"type": "standard",
-						"status": "active",
-						"image_url": "https://paddle.s3.amazonaws.com/user/165798/97dRpA6SXzcE6ekK9CAr_analytics.png",
 						"created_at": "2023-06-01T13:30:50.302Z",
-						"updated_at": "2024-04-05T15:47:17.163Z",
 						"custom_data": null,
 						"description": "Unlock advanced insights into your flight data with enhanced analytics and reporting features. Includes customizable reporting templates and trend analysis across flights.",
+						"id": "pro_01h1vjes1y163xfj1rh1tkfb65",
+						"image_url": "https://paddle.s3.amazonaws.com/user/165798/97dRpA6SXzcE6ekK9CAr_analytics.png",
+						"import_meta": null,
+						"name": "Analytics addon",
+						"status": "active",
 						"tax_category": "standard",
-						"import_meta": null
+						"type": "standard",
+						"updated_at": "2024-04-05T15:47:17.163Z"
 					},
-					"price_id": "pri_01h1vjfevh5etwq3rb416a23h2",
 					"quantity": 1,
 					"tax_rate": "0.08875",
-					"unit_totals": {
-						"tax": "887",
-						"total": "10887",
+					"totals": {
 						"discount": "0",
-						"subtotal": "10000"
+						"subtotal": "10000",
+						"tax": "887",
+						"total": "10887"
+					},
+					"unit_totals": {
+						"discount": "0",
+						"subtotal": "10000",
+						"tax": "887",
+						"total": "10887"
 					}
 				},
 				{
 					"id": "txnitm_01hv8wt98jahpbm1t1v67vqnb6",
-					"totals": {
-						"tax": "1766",
-						"total": "21666",
-						"discount": "0",
-						"subtotal": "19900"
-					},
+					"price_id": "pri_01gsz98e27ak2tyhexptwc58yk",
 					"product": {
-						"id": "pro_01gsz97mq9pa4fkyy0wqenepkz",
-						"name": "Custom domains",
-						"type": "standard",
-						"status": "active",
-						"image_url": "https://paddle.s3.amazonaws.com/user/165798/XIG7UXoJQHmlIAiKcnkA_custom-domains.png",
 						"created_at": "2023-02-23T14:01:02.441Z",
-						"updated_at": "2024-04-05T15:43:28.971Z",
 						"custom_data": null,
 						"description": "Make AeroEdit truly your own with custom domains. Custom domains reinforce your brand identity and make it easy for your team to access your account.",
+						"id": "pro_01gsz97mq9pa4fkyy0wqenepkz",
+						"image_url": "https://paddle.s3.amazonaws.com/user/165798/XIG7UXoJQHmlIAiKcnkA_custom-domains.png",
+						"import_meta": null,
+						"name": "Custom domains",
+						"status": "active",
 						"tax_category": "standard",
-						"import_meta": null
+						"type": "standard",
+						"updated_at": "2024-04-05T15:43:28.971Z"
 					},
-					"price_id": "pri_01gsz98e27ak2tyhexptwc58yk",
 					"quantity": 1,
 					"tax_rate": "0.08875",
-					"unit_totals": {
-						"tax": "1766",
-						"total": "21666",
+					"totals": {
 						"discount": "0",
-						"subtotal": "19900"
+						"subtotal": "19900",
+						"tax": "1766",
+						"total": "21666"
+					},
+					"unit_totals": {
+						"discount": "0",
+						"subtotal": "19900",
+						"tax": "1766",
+						"total": "21666"
 					}
 				}
 			],
 			"payout_totals": {
-				"fee": "3311",
-				"tax": "5315",
-				"total": "65215",
-				"credit": "0",
 				"balance": "0",
+				"credit": "0",
+				"credit_to_balance": "0",
+				"currency_code": "USD",
 				"discount": "0",
 				"earnings": "56589",
-				"subtotal": "59900",
+				"fee": "3311",
 				"grand_total": "65215",
-				"currency_code": "USD",
-				"credit_to_balance": "0"
+				"subtotal": "59900",
+				"tax": "5315",
+				"total": "65215"
 			},
 			"tax_rates_used": [
 				{
+					"tax_rate": "0.08875",
 					"totals": {
-						"tax": "5315",
-						"total": "65215",
 						"discount": "0",
-						"subtotal": "59900"
-					},
-					"tax_rate": "0.08875"
+						"subtotal": "59900",
+						"tax": "5315",
+						"total": "65215"
+					}
 				}
 			],
-			"adjusted_totals": {
-				"fee": "3311",
-				"tax": "5315",
-				"total": "65215",
+			"totals": {
+				"balance": "0",
+				"credit": "0",
+				"credit_to_balance": "0",
+				"currency_code": "USD",
+				"discount": "0",
 				"earnings": "56589",
-				"subtotal": "59900",
+				"fee": "3311",
 				"grand_total": "65215",
-				"currency_code": "USD"
+				"subtotal": "59900",
+				"tax": "5315",
+				"total": "65215"
 			}
 		},
-		"checkout": {
-			"url": "https://aeroedit.com/pay?_ptxn=txn_01hv8wptq8987qeep44cyrewp9"
-		},
+		"discount_id": null,
+		"id": "txn_01hv8wptq8987qeep44cyrewp9",
+		"invoice_id": "inv_01hv8x29nsh54c2pgt0hnq0zkx",
+		"invoice_number": "325-10566",
+		"items": [
+			{
+				"price": {
+					"billing_cycle": {
+						"frequency": 1,
+						"interval": "month"
+					},
+					"created_at": "2023-02-23T13:55:22.538367Z",
+					"custom_data": null,
+					"description": "Monthly",
+					"id": "pri_01gsz8x8sawmvhz1pv30nge1ke",
+					"import_meta": null,
+					"name": "Monthly (per seat)",
+					"product_id": "pro_01gsz4t5hdjse780zja8vvr7jg",
+					"quantity": {
+						"maximum": 999,
+						"minimum": 1
+					},
+					"status": "active",
+					"tax_mode": "account_setting",
+					"trial_period": null,
+					"type": "standard",
+					"unit_price": {
+						"amount": "3000",
+						"currency_code": "USD"
+					},
+					"unit_price_overrides": [],
+					"updated_at": "2024-04-11T13:54:52.254748Z"
+				},
+				"proration": null,
+				"quantity": 10
+			},
+			{
+				"price": {
+					"billing_cycle": {
+						"frequency": 1,
+						"interval": "month"
+					},
+					"created_at": "2023-06-01T13:31:12.625056Z",
+					"custom_data": null,
+					"description": "Monthly",
+					"id": "pri_01h1vjfevh5etwq3rb416a23h2",
+					"import_meta": null,
+					"name": "Monthly (recurring addon)",
+					"product_id": "pro_01h1vjes1y163xfj1rh1tkfb65",
+					"quantity": {
+						"maximum": 100,
+						"minimum": 1
+					},
+					"status": "active",
+					"tax_mode": "account_setting",
+					"trial_period": null,
+					"type": "standard",
+					"unit_price": {
+						"amount": "10000",
+						"currency_code": "USD"
+					},
+					"unit_price_overrides": [],
+					"updated_at": "2024-04-09T07:23:00.907834Z"
+				},
+				"proration": null,
+				"quantity": 1
+			},
+			{
+				"price": {
+					"billing_cycle": null,
+					"created_at": "2023-02-23T14:01:28.391712Z",
+					"custom_data": null,
+					"description": "One-time addon",
+					"id": "pri_01gsz98e27ak2tyhexptwc58yk",
+					"import_meta": null,
+					"name": "One-time addon",
+					"product_id": "pro_01gsz97mq9pa4fkyy0wqenepkz",
+					"quantity": {
+						"maximum": 1,
+						"minimum": 1
+					},
+					"status": "active",
+					"tax_mode": "account_setting",
+					"trial_period": null,
+					"type": "standard",
+					"unit_price": {
+						"amount": "19900",
+						"currency_code": "USD"
+					},
+					"unit_price_overrides": [],
+					"updated_at": "2024-04-09T07:23:10.921392Z"
+				},
+				"proration": null,
+				"quantity": 1
+			}
+		],
+		"origin": "web",
 		"payments": [
 			{
 				"amount": "65215",
-				"status": "captured",
+				"captured_at": "2024-04-12T10:18:47.635628Z",
 				"created_at": "2024-04-12T10:18:33.579142Z",
 				"error_code": null,
-				"captured_at": "2024-04-12T10:18:47.635628Z",
 				"method_details": {
 					"card": {
-						"type": "visa",
-						"last4": "3184",
-						"expiry_year": 2025,
+						"cardholder_name": "Michael McGovern",
 						"expiry_month": 1,
-						"cardholder_name": "Michael McGovern"
+						"expiry_year": 2025,
+						"last4": "3184",
+						"type": "visa"
 					},
 					"type": "card"
 				},
-				"payment_method_id": "paymtd_01hv8x1tpjfnttxddw73xnqx6s",
 				"payment_attempt_id": "937640dd-e3dc-40df-a16c-bb75aafd8f71",
+				"payment_method_id": "paymtd_01hv8x1tpjfnttxddw73xnqx6s",
+				"status": "captured",
 				"stored_payment_method_id": "281ff2ca-8550-42b9-bf39-15948e7de62d"
 			},
 			{
 				"amount": "65215",
-				"status": "error",
+				"captured_at": null,
 				"created_at": "2024-04-12T10:15:57.888183Z",
 				"error_code": "declined",
-				"captured_at": null,
 				"method_details": {
 					"card": {
-						"type": "visa",
-						"last4": "0002",
-						"expiry_year": 2025,
+						"cardholder_name": "Michael McGovern",
 						"expiry_month": 1,
-						"cardholder_name": "Michael McGovern"
+						"expiry_year": 2025,
+						"last4": "0002",
+						"type": "visa"
 					},
 					"type": "card"
 				},
-				"payment_method_id": "paymtd_01hv8wx2mka7dfsqjjsxh1ne7z",
 				"payment_attempt_id": "8f72cfa6-26b4-4a57-91dc-8f2708f7822d",
+				"payment_method_id": "paymtd_01hv8wx2mka7dfsqjjsxh1ne7z",
+				"status": "error",
 				"stored_payment_method_id": "a78ece50-356f-4e0c-b72d-ad5368b0a0d9"
 			}
 		],
-		"billed_at": "2024-04-12T10:18:48.294633Z",
-		"address_id": "add_01hv8wt8ny8ms5vtm71bj8vcdd",
-		"created_at": "2024-04-12T10:12:33.2014Z",
-		"invoice_id": "inv_01hv8x29nsh54c2pgt0hnq0zkx",
-		"updated_at": "2024-04-12T10:18:49.738971238Z",
-		"business_id": null,
-		"custom_data": null,
-		"customer_id": "ctm_01hv8wt8nffez4p2t6typn4a5j",
-		"discount_id": null,
-		"currency_code": "USD",
-		"billing_period": {
-			"ends_at": "2024-05-12T10:18:47.635628Z",
-			"starts_at": "2024-04-12T10:18:47.635628Z"
-		},
-		"invoice_number": "325-10566",
-		"billing_details": null,
-		"collection_mode": "automatic",
-		"subscription_id": "sub_01hv8x29kz0t586xy6zn1a62ny"
-	}
+		"status": "completed",
+		"subscription_id": "sub_01hv8x29kz0t586xy6zn1a62ny",
+		"updated_at": "2024-04-12T10:18:49.738971238Z"
+	},
+	"event_id": "evt_01hv8x2axb33yr5y238zfwcn5p",
+	"event_type": "transaction.completed",
+	"notification_id": "ntf_01hv8x2azy7scaan4s0eb0273x",
+	"occurred_at": "2024-04-12T10:18:50.155553Z"
 }

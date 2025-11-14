@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "ring-of-strength",
 	"image": "rgm",
-	"type": "ring",
 	"material": "gem",
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"type": "ring"
 }

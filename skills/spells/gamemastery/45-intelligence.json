@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/45-intelligence",
-	"requirements": {
-		"skill": 450,
-		"level": 90,
-		"mana": 9
-	},
 	"duration": "PT60M",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 45
 		}
+	},
+	"id": "gamemastery/45-intelligence",
+	"requirements": {
+		"level": 90,
+		"mana": 9,
+		"skill": 450
 	}
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/spellbound-knowledge-i",
-	"requirements": {
-		"skill": 105,
-		"mana": 5
-	},
 	"duration": "PT50000M",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 10
 		}
+	},
+	"id": "gm-magic/spellbound-knowledge-i",
+	"requirements": {
+		"mana": 5,
+		"skill": 105
 	}
 }

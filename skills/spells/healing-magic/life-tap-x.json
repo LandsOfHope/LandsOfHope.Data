@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "healing-magic/life-tap-x",
-	"requirements": {
-		"skill": 2701,
-		"mana": 2701
-	},
 	"duration": "PT25M",
 	"effects": {
 		"damage": 1905,
 		"properties": {
 			"HITPOINTS": 1355
 		}
+	},
+	"id": "healing-magic/life-tap-x",
+	"requirements": {
+		"mana": 2701,
+		"skill": 2701
 	}
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/lepus-hoppitus",
-	"requirements": {
-		"skill": 1038,
-		"mana": 1038
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "rabbit",
-			"profession": "creature"
+			"profession": "creature",
+			"race": "rabbit"
 		}
+	},
+	"id": "summoning/lepus-hoppitus",
+	"requirements": {
+		"mana": 1038,
+		"skill": 1038
 	}
 }

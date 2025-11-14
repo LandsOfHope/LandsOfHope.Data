@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 6,
 	"id": "bolas",
 	"image": "bos",
-	"type": "ranged-weapon",
-	"dpr": 6,
 	"material": "wood",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skill": "thrown-weapons",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "ranged-weapon"
 }

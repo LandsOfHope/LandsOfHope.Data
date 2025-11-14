@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1189
+	},
 	"id": "bows/enhanced-volley-iii",
 	"requirements": {
 		"skill": 2371,
 		"stamina": 2370
-	},
-	"effects": {
-		"damage": 1189
 	}
 }

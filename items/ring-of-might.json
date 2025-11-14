@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "ring-of-might",
 	"image": "rgs",
-	"type": "ring",
 	"material": "gem",
 	"skill": "two-handed-shields",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ring"
 }

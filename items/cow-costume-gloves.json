@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "cow-costume-gloves",
 	"image": "arglv",
-	"type": "hand-armour",
-	"set": "cow-costume",
 	"material": "cloth",
+	"set": "cow-costume",
 	"skill": "artisan",
 	"skills": {
 		"farming": 1
-	}
+	},
+	"type": "hand-armour"
 }

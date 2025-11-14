@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "goblin-costume-belt",
 	"image": "gobet",
-	"type": "stomach",
-	"set": "goblin-costume",
 	"material": "hide",
+	"set": "goblin-costume",
 	"skill": "artisan",
 	"skills": {
 		"geology": 1
-	}
+	},
+	"type": "stomach"
 }

@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Elder Liche"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Elder Liche"
+	},
 	"pics": {
-		"M": ["el1"],
-		"F": ["el2"]
+		"F": ["el2"],
+		"M": ["el1"]
 	}
 }

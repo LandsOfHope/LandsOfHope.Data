@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "pulsating-lens",
 	"image": "1203",
-	"type": "glasses-shades",
 	"material": "gem",
 	"skills": {
 		"mystical-resistance": 1
-	}
+	},
+	"type": "glasses-shades"
 }

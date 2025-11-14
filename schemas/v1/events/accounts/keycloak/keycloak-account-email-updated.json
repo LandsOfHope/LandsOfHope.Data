@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/accounts/keycloak/keycloak-account-email-updated.json",
-	"title": "KeycloakAccountEmailUpdatedEvent",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -14,5 +12,7 @@
 			"$ref": "/schemas/v1/email-address.json"
 		}
 	},
-	"required": ["$type", "accountId", "email"]
+	"required": ["$type", "accountId", "email"],
+	"title": "KeycloakAccountEmailUpdatedEvent",
+	"type": "object"
 }

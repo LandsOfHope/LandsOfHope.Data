@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Dark Dwarf"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Dark Dwarf"
+	},
 	"pics": {
-		"M": ["ddm"],
-		"F": ["ddf"]
+		"F": ["ddf"],
+		"M": ["ddm"]
 	}
 }

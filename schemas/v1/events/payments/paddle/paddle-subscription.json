@@ -1,18 +1,7 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/payments/paddle/paddle-subscription.json",
-	"title": "PaddleSubscription",
-	"type": "object",
 	"additionalProperties": true,
 	"properties": {
-		"id": {
-			"type": "string"
-		},
-		"status": {
-			"enum": ["active", "canceled", "past_due", "paused", "trialing"]
-		},
-		"customer_id": {
-			"type": "string"
-		},
 		"current_billing_period": {
 			"oneOf": [
 				{
@@ -32,7 +21,18 @@
 					"type": "null"
 				}
 			]
+		},
+		"customer_id": {
+			"type": "string"
+		},
+		"id": {
+			"type": "string"
+		},
+		"status": {
+			"enum": ["active", "canceled", "past_due", "paused", "trialing"]
 		}
 	},
-	"required": ["id", "status", "customer_id", "custom_data"]
+	"required": ["id", "status", "customer_id", "custom_data"],
+	"title": "PaddleSubscription",
+	"type": "object"
 }

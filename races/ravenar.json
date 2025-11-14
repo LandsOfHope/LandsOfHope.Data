@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Ravenar"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Ravenar"
+	},
 	"pics": {
-		"M": ["zom"],
-		"F": ["zof"]
+		"F": ["zof"],
+		"M": ["zom"]
 	}
 }

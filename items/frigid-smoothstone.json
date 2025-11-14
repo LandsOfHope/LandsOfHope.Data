@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 20,
 	"id": "frigid-smoothstone",
 	"image": "sms",
-	"type": "ammo-weapons-rocks",
-	"dpr": 20,
 	"material": "stone",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-rocks"
 }

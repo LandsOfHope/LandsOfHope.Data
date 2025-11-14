@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tinkering/ornate-cannon",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "ornate-cannon"
-	},
 	"image": "ss2",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "tinkering",
-	"skillValue": 750,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 5,
-			"primary": true
+			"primary": true,
+			"quantity": 5
 		},
 		{
 			"id": "plank",
 			"quantity": 5
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "ornate-cannon"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "tinkering",
+	"skillValue": 750,
+	"time": "PT15S"
 }

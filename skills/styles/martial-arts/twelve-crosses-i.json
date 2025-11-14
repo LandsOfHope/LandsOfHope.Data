@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1954
+	},
 	"id": "martial-arts/twelve-crosses-i",
 	"requirements": {
 		"skill": 3901,
 		"stamina": 3900
-	},
-	"effects": {
-		"damage": 1954
 	}
 }

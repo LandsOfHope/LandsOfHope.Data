@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "wig",
 	"image": "wg1",
-	"type": "head-armour",
-	"armorType": "cloth",
 	"material": "color",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "head-armour"
 }

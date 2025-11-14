@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 60,
 	"id": "stoning-dart",
 	"image": "drt",
-	"type": "ammo-weapons-darts",
-	"dpr": 60,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-darts"
 }

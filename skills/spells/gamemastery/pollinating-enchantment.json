@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
+	"effects": {
+		"damage": 180
+	},
 	"id": "gamemastery/pollinating-enchantment",
 	"requirements": {
 		"level": 361,
 		"mana": 1
-	},
-	"effects": {
-		"damage": 180
 	}
 }

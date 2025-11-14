@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "broken-blade",
 	"image": "be5",
-	"type": "stealing-loot",
-	"material": "metal"
+	"material": "metal",
+	"type": "stealing-loot"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 2134
+	},
 	"id": "two-handed-guns/mastered-discharge-xiii",
 	"requirements": {
 		"skill": 4261,
 		"stamina": 4260
-	},
-	"effects": {
-		"damage": 2134
 	}
 }

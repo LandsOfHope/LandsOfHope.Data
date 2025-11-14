@@ -1,18 +1,18 @@
 {
 	"$type": "/v1/item",
-	"id": "death-star",
-	"image": "6417",
-	"type": "ranged-weapon",
 	"dpr": 120,
 	"expansion": "dragons-of-the-east",
+	"id": "death-star",
+	"image": "6417",
 	"material": "metal",
-	"skill": "thrown-weapons",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "thrown-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "ranged-weapon"
 }

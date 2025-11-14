@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Pterosaurus"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Pterosaurus"
+	},
 	"pics": {
-		"M": ["ptm"],
-		"F": ["ptf"]
+		"F": ["ptf"],
+		"M": ["ptm"]
 	}
 }

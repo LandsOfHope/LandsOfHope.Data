@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Subterran"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Subterran"
+	},
 	"pics": {
-		"M": ["subm1"],
-		"F": ["subf1"]
+		"F": ["subf1"],
+		"M": ["subm1"]
 	}
 }

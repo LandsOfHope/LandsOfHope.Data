@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/human-male-iv",
-	"requirements": {
-		"skill": 577,
-		"mana": 577
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"skills": {
 			"water-survival": 289
 		}
+	},
+	"id": "gm-magic/human-male-iv",
+	"requirements": {
+		"mana": 577,
+		"skill": 577
 	}
 }

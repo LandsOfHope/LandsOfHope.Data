@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "greater-magic-potion",
 	"image": "pb1",
-	"type": "magic-potion",
 	"material": "gem",
 	"properties": {
 		"MANA": 2.75
-	}
+	},
+	"type": "magic-potion"
 }

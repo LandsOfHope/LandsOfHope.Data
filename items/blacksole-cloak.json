@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "blacksole-cloak",
 	"image": "cl10",
-	"type": "neck-clothing",
 	"material": "hide",
 	"skills": {
-		"water-resistance": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"water-resistance": 1
+	},
+	"type": "neck-clothing"
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "tentacle-ring",
 	"image": "rgf",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ring"
 }

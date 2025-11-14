@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "hell-magic/hells-touch-x",
-	"requirements": {
-		"skill": 2136,
-		"mana": 2136
-	},
 	"effects": {
 		"damage": 1510
+	},
+	"id": "hell-magic/hells-touch-x",
+	"requirements": {
+		"mana": 2136,
+		"skill": 2136
 	}
 }

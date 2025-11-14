@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "eye-of-icandria",
 	"image": "zuhon",
-	"type": "neck",
 	"material": "metal",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skills": {
 		"cold-magic": 1,
 		"cold-resistance": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "neck"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1594
+	},
 	"id": "bows/enhanced-long-shot-iv",
 	"requirements": {
 		"skill": 3181,
 		"stamina": 3180
-	},
-	"effects": {
-		"damage": 1594
 	}
 }

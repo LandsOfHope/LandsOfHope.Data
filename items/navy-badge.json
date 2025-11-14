@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "navy-badge",
 	"image": "1014",
-	"type": "bonus-slot",
 	"material": "metal",
-	"skill": "myzan-navy",
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"skill": "myzan-navy",
+	"type": "bonus-slot"
 }

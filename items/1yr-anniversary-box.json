@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "1yr-anniversary-box",
 	"image": "4862",
-	"type": "present-box",
-	"armorType": "cloth",
-	"material": "hide"
+	"material": "hide",
+	"type": "present-box"
 }

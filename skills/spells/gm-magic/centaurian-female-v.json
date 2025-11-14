@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/centaurian-female-v",
-	"requirements": {
-		"skill": 928,
-		"mana": 928
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"armor": 465
 		}
+	},
+	"id": "gm-magic/centaurian-female-v",
+	"requirements": {
+		"mana": 928,
+		"skill": 928
 	}
 }

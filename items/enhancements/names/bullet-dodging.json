@@ -1,9 +1,9 @@
 {
 	"$type": "/v1/items/enhancements/item-name",
-	"id": "names/bullet-dodging",
 	"effects": {
 		"skills": {
 			"gun-defense": 0.5
 		}
-	}
+	},
+	"id": "names/bullet-dodging"
 }

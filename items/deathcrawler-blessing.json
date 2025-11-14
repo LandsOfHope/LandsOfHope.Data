@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "deathcrawler-blessing",
 	"image": "6286",
-	"type": "forehead",
-	"armorType": "cloth",
 	"material": "stone",
 	"skills": {
 		"air-resistance": 1,
 		"poison-resistance": 1
-	}
+	},
+	"type": "forehead"
 }

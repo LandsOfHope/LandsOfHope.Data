@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"adjustable": true,
 	"id": "glasses-of-destiny",
 	"image": "5734",
-	"type": "glasses-shades",
-	"adjustable": true,
-	"set": "destiny-set",
 	"material": "gem",
-	"skills": {
-		"experience-bonus": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXMANA": 1
-	}
+	},
+	"set": "destiny-set",
+	"skills": {
+		"experience-bonus": 1
+	},
+	"type": "glasses-shades"
 }

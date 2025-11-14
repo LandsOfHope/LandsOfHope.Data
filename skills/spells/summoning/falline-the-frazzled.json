@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/falline-the-frazzled",
-	"requirements": {
-		"skill": 3384,
-		"mana": 3384
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "halfling",
-			"profession": "energy-mage"
+			"profession": "energy-mage",
+			"race": "halfling"
 		}
+	},
+	"id": "summoning/falline-the-frazzled",
+	"requirements": {
+		"mana": 3384,
+		"skill": 3384
 	}
 }

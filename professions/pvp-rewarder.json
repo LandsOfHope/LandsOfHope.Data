@@ -1,18 +1,18 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "Rewards PVPers"
+	},
 	"id": "pvp-rewarder",
 	"name": {
 		"en": "PVP Rewarder"
 	},
-	"desc": {
-		"en": "Rewards PVPers"
+	"properties": {
+		"MAXHITPOINTS": 5,
+		"MAXSTAMINA": 5
 	},
 	"skills": {
 		"armor": 5,
 		"attack-power": 5
-	},
-	"properties": {
-		"MAXHITPOINTS": 5,
-		"MAXSTAMINA": 5
 	}
 }

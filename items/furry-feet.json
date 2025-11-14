@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "furry-feet",
 	"image": "191",
-	"type": "foot-armour",
 	"material": "hide",
 	"skills": {
+		"armor": 1,
 		"cold-resistance": 1,
-		"cold-survival": 1,
-		"armor": 1
-	}
+		"cold-survival": 1
+	},
+	"type": "foot-armour"
 }

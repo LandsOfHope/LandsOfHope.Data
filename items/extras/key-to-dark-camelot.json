@@ -1,9 +1,9 @@
 {
 	"$type": "/v0/items/extra-item",
-	"itemId": 6911,
-	"quantity": 1,
-	"imageType": "r",
-	"image": "kingarthur",
 	"category": "general",
-	"hc": 3
+	"hc": 3,
+	"image": "kingarthur",
+	"imageType": "r",
+	"itemId": 6911,
+	"quantity": 1
 }

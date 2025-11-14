@@ -1,23 +1,23 @@
 {
 	"$type": "/v1/profession",
-	"id": "tiny-monster",
-	"name": {
-		"en": "Tiny Monster"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"frenzy": 5,
-		"axes": 5,
-		"dual-wielding": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "tiny-monster",
+	"name": {
+		"en": "Tiny Monster"
 	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 4,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"axes": 5,
+		"dual-wielding": 5,
+		"frenzy": 5
 	}
 }

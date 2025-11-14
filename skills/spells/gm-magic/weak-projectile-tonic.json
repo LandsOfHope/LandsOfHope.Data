@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/weak-projectile-tonic",
-	"requirements": {
-		"skill": 3000,
-		"mana": 700
-	},
 	"duration": "PT140M",
 	"effects": {
 		"skills": {
 			"projectile-defense": 140
 		}
+	},
+	"id": "gm-magic/weak-projectile-tonic",
+	"requirements": {
+		"mana": 700,
+		"skill": 3000
 	}
 }

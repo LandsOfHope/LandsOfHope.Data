@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "tenth-cavalry-gloves",
 	"image": "5046",
-	"type": "hand-armour",
-	"armorType": "leather",
-	"set": "tenth-cavalry",
 	"material": "hide",
-	"skills": {
-		"beastmastery": 1,
-		"armor": 1
-	},
 	"properties": {
 		"SPEED": 1
-	}
+	},
+	"set": "tenth-cavalry",
+	"skills": {
+		"armor": 1,
+		"beastmastery": 1
+	},
+	"type": "hand-armour"
 }

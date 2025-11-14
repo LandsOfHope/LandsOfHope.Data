@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 3,
 	"id": "compound-crossbow",
 	"image": "xw2",
-	"type": "ranged-weapon",
-	"dpr": 3,
 	"material": "metal",
 	"skill": "crossbows",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ranged-weapon"
 }

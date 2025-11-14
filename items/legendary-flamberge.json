@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-flamberge",
 	"image": "zulefl",
-	"type": "2-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "metal",
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXSTAMINA": 1
+	},
 	"skill": "two-handed-swords",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"DEXTERITY": 1,
-		"MAXSTAMINA": 1
-	}
+	"type": "2-handed-equipment"
 }

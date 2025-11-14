@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 140,
 	"id": "exquisite-supernova",
 	"image": "6030",
-	"type": "2-handed-equipment",
-	"dpr": 140,
 	"material": "metal",
-	"skill": "celestial-weapons",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXSTAMINA": 1,
 		"SPEED": 1
-	}
+	},
+	"skill": "celestial-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "2-handed-equipment"
 }

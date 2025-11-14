@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "dragonflyer-boots",
-	"image": "5135",
-	"type": "foot-armour",
 	"armorType": "cloth",
 	"expansion": "jurassic-wars",
+	"id": "dragonflyer-boots",
+	"image": "5135",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

@@ -1,22 +1,22 @@
 {
 	"$type": "/v1/profession",
-	"id": "water-mage",
-	"name": {
-		"en": "Water Mage"
-	},
 	"desc": {
 		"en": "Water Mage. An expert at casting Water Magic."
 	},
-	"skills": {
-		"water-magic": 5,
-		"mystical-magic": 5,
-		"water-resistance": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "water-mage",
+	"name": {
+		"en": "Water Mage"
 	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 4
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"mystical-magic": 5,
+		"water-magic": 5,
+		"water-resistance": 5
 	}
 }

@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "guilded-cured-shoulders",
 	"image": "3870",
-	"type": "shoulders",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "shoulders"
 }

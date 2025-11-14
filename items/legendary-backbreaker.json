@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-backbreaker",
 	"image": "cb",
-	"type": "2-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "metal",
+	"properties": {
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
 	"skill": "two-handed-maces",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"SPEED": 1,
-		"STRENGTH": 1
-	}
+	"type": "2-handed-equipment"
 }

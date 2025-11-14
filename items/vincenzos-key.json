@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dark-depths",
 	"id": "vincenzos-key",
 	"image": "6531",
-	"type": "portal",
-	"expansion": "dark-depths",
-	"material": "metal"
+	"material": "metal",
+	"type": "portal"
 }

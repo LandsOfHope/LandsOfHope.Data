@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "agroilind-ordnancemaker"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Agroilind Ordnancemaker",
-		"title": "tinkerer",
 		"image": "huf",
 		"level": {
 			"primary": 850
 		},
+		"name": "Agroilind Ordnancemaker",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "tinkerer"
 	}
 }

@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "goblin-costume-shirt",
 	"image": "gosit",
-	"type": "chest-armour",
-	"set": "goblin-costume",
 	"material": "hide",
+	"set": "goblin-costume",
 	"skill": "artisan",
 	"skills": {
 		"blacksmithing": 1
-	}
+	},
+	"type": "chest-armour"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/hannah-stonecarver",
-	"requirements": {
-		"skill": 1590,
-		"mana": 1590
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "human",
-			"profession": "stonemason"
+			"profession": "stonemason",
+			"race": "human"
 		}
+	},
+	"id": "summoning/hannah-stonecarver",
+	"requirements": {
+		"mana": 1590,
+		"skill": 1590
 	}
 }

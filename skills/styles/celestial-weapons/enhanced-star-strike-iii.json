@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 994
+	},
 	"id": "celestial-weapons/enhanced-star-strike-iii",
 	"requirements": {
 		"skill": 1981,
 		"stamina": 1980
-	},
-	"effects": {
-		"damage": 994
 	}
 }

@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 11,
 	"id": "tainted-deamonslayer",
 	"image": "zutade",
-	"type": "2-handed-equipment",
-	"dpr": 11,
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {
-		"attack-power": 1,
-		"arcane-resistance": 1
-	}
+		"arcane-resistance": 1,
+		"attack-power": 1
+	},
+	"type": "2-handed-equipment"
 }

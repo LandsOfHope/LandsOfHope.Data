@@ -1,16 +1,12 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/races/race-evolution-graph.json",
-	"title": "RaceEvolutionGraph",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/races/race-evolution-graph"
 		},
 		"edges": {
-			"type": "array",
 			"items": {
-				"type": "array",
-				"minItems": 3,
 				"additionalItems": false,
 				"items": [
 					{
@@ -20,33 +16,37 @@
 						"$ref": "/schemas/v1/races-id.gen.json"
 					},
 					{
-						"type": "object",
+						"additionalProperties": false,
 						"properties": {
 							"level": {
-								"type": "integer",
-								"minimum": 0
+								"minimum": 0,
+								"type": "integer"
 							},
 							"properties": {
-								"type": "object",
+								"additionalProperties": false,
 								"patternProperties": {
 									".*": {
-										"type": "integer",
-										"minimum": 0
+										"minimum": 0,
+										"type": "integer"
 									}
 								},
 								"propertyNames": {
 									"$ref": "/schemas/v1/characters/character-property-name.json"
 								},
-								"additionalProperties": false
+								"type": "object"
 							}
 						},
 						"required": ["level"],
-						"additionalProperties": false
+						"type": "object"
 					}
-				]
-			}
+				],
+				"minItems": 3,
+				"type": "array"
+			},
+			"type": "array"
 		}
 	},
 	"required": ["$type", "edges"],
-	"additionalProperties": false
+	"title": "RaceEvolutionGraph",
+	"type": "object"
 }

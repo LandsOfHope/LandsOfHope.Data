@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 21,
 	"id": "sandy-dart",
 	"image": "drt",
-	"type": "ammo-weapons-darts",
-	"dpr": 21,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-darts"
 }

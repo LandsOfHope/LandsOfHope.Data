@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/nightmare-dexterity-iv",
-	"requirements": {
-		"skill": 820,
-		"mana": 820
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"DEXTERITY": 411
 		}
+	},
+	"id": "gm-magic/nightmare-dexterity-iv",
+	"requirements": {
+		"mana": 820,
+		"skill": 820
 	}
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/warephant-battle-cry",
-	"requirements": {
-		"skill": 50,
-		"mana": 50
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"frenzy": 200
 		}
+	},
+	"id": "gm-magic/warephant-battle-cry",
+	"requirements": {
+		"mana": 50,
+		"skill": 50
 	}
 }

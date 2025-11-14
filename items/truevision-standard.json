@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "truevision-standard",
 	"image": "zsgc3",
-	"type": "guild-color",
 	"material": "cloth",
-	"skills": {
-		"detect-hidden": 1
-	},
 	"properties": {
 		"HITPOINTS": 1,
 		"MAXHITPOINTS": 1
-	}
+	},
+	"skills": {
+		"detect-hidden": 1
+	},
+	"type": "guild-color"
 }

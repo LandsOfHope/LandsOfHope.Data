@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "invocation/invoke-nightmares-xii",
-	"requirements": {
-		"skill": 3987,
-		"mana": 3987
-	},
 	"effects": {
 		"damage": 2805
+	},
+	"id": "invocation/invoke-nightmares-xii",
+	"requirements": {
+		"mana": 3987,
+		"skill": 3987
 	}
 }

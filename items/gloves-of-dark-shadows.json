@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "gloves-of-dark-shadows",
 	"image": "togldash",
-	"type": "hand-armour",
-	"armorType": "cloth",
 	"material": "hide",
 	"skill": "stealth",
 	"skills": {
 		"stealth": 1
-	}
+	},
+	"type": "hand-armour"
 }

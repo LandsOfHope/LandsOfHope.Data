@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "light-ash-paper",
 	"image": "plightash",
-	"type": "explosive-component",
-	"expansion": "uncharted-waters",
-	"material": "color"
+	"material": "color",
+	"type": "explosive-component"
 }

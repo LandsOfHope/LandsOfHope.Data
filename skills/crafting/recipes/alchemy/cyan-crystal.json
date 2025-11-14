@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "alchemy/cyan-crystal",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "cyan-crystal"
-	},
 	"image": "ycc",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "alchemy",
-	"skillValue": 50,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "mortar-and-pestle",
@@ -18,12 +9,21 @@
 		},
 		{
 			"id": "aqua-crystal",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		},
 		{
 			"id": "silver-crystal",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "cyan-crystal"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "alchemy",
+	"skillValue": 50,
+	"time": "PT15S"
 }

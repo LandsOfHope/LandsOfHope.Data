@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "blacksmithing/lucerne-hammer",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "lucerne-hammer"
-	},
 	"image": "1594",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "blacksmithing",
-	"skillValue": 375,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 2,
-			"primary": true
+			"primary": true,
+			"quantity": 2
 		},
 		{
 			"id": "large-stock",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "lucerne-hammer"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "blacksmithing",
+	"skillValue": 375,
+	"time": "PT15S"
 }

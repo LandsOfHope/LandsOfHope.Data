@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "blacksmithing/scimitar",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "scimitar"
-	},
 	"image": "sw3",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "blacksmithing",
-	"skillValue": 175,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 3,
-			"primary": true
+			"primary": true,
+			"quantity": 3
 		},
 		{
 			"id": "blade-hilt",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "scimitar"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "blacksmithing",
+	"skillValue": 175,
+	"time": "PT15S"
 }

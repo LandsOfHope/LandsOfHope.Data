@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "traps/deadly-stoning-trap",
-	"requirements": {
-		"skill": 1783,
-		"mana": 1783
-	},
 	"effects": {
 		"damage": 1263
+	},
+	"id": "traps/deadly-stoning-trap",
+	"requirements": {
+		"mana": 1783,
+		"skill": 1783
 	}
 }

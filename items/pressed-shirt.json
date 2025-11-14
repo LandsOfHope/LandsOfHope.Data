@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "pressed-shirt",
 	"image": "4520",
-	"type": "chest-armour",
-	"armorType": "cloth",
 	"material": "cloth",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "chest-armour"
 }

@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "amputate",
 	"image": "gmamua",
-	"type": "2-handed-equipment",
-	"dpr": 120,
 	"material": "metal",
-	"skill": "pole-weapons",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "pole-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "2-handed-equipment"
 }

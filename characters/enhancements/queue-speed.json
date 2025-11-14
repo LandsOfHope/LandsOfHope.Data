@@ -1,18 +1,18 @@
 {
 	"$type": "/v0/characters/character-enhancement",
-	"max": 3,
 	"levels": {
 		"1": {
-			"value": 1,
-			"hc": 1
+			"hc": 1,
+			"value": 1
 		},
 		"2": {
-			"value": 2,
-			"hc": 2
+			"hc": 2,
+			"value": 2
 		},
 		"3": {
-			"value": 3,
-			"hc": 3
+			"hc": 3,
+			"value": 3
 		}
-	}
+	},
+	"max": 3
 }

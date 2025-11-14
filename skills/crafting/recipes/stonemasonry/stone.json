@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "stonemasonry/stone",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "stone"
-	},
 	"image": "ste",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "stonemasonry",
-	"skillValue": 5,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "gem",
@@ -18,12 +9,21 @@
 		},
 		{
 			"id": "stone-block",
-			"quantity": 2,
-			"primary": true
+			"primary": true,
+			"quantity": 2
 		},
 		{
 			"id": "masons-tools",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "stone"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "stonemasonry",
+	"skillValue": 5,
+	"time": "PT15S"
 }

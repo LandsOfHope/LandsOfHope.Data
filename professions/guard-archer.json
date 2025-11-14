@@ -1,18 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "guard-archer",
-	"name": {
-		"en": "Guard Archer"
-	},
 	"desc": {
 		"en": "Guard Archer"
 	},
-	"skills": {
-		"daggers": 5,
-		"bows": 5,
-		"stringed-defense": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "guard-archer",
+	"name": {
+		"en": "Guard Archer"
 	},
 	"properties": {
 		"DEXTERITY": 4,
@@ -20,5 +13,12 @@
 		"MAXSTAMINA": 4,
 		"SPEED": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"bows": 5,
+		"daggers": 5,
+		"stringed-defense": 5
 	}
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "dust-of-truesight",
 	"image": "gn2",
-	"type": "bonus-slot",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "bonus-slot"
 }

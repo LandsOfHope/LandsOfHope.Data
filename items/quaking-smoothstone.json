@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 96,
 	"id": "quaking-smoothstone",
 	"image": "sms",
-	"type": "ammo-weapons-rocks",
-	"dpr": 96,
 	"material": "stone",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-rocks"
 }

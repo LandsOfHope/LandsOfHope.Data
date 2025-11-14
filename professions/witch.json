@@ -1,19 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "witch",
-	"name": {
-		"en": "Witch"
-	},
 	"desc": {
 		"en": "The Witch is a Tier III evolution from the Hag Profession via Enchantress > Temptress."
 	},
-	"skills": {
-		"two-handed-staves": 5,
-		"staves": 5,
-		"armor": 5,
-		"attack-power": 5,
-		"enchanted-weapons": 5,
-		"bewitching": 5
+	"id": "witch",
+	"name": {
+		"en": "Witch"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -22,5 +14,13 @@
 		"MAXMANA": 2,
 		"MAXSTAMINA": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"bewitching": 5,
+		"enchanted-weapons": 5,
+		"staves": 5,
+		"two-handed-staves": 5
 	}
 }

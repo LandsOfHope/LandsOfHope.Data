@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "necklace-of-life",
 	"image": "arb",
-	"type": "neck-clothing",
-	"armorType": "cloth",
 	"material": "metal",
 	"skills": {
-		"healing-magic": 1,
-		"first-aid": 1
-	}
+		"first-aid": 1,
+		"healing-magic": 1
+	},
+	"type": "neck-clothing"
 }

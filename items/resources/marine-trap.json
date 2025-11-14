@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/items/resource",
-	"id": "marine-trap",
-	"skill": "marine-husbandry",
-	"tools": ["marine-tool"],
-	"items": ["lobster", "oyster", "shrimp", "crab"],
 	"bonuses": {
 		"fish": {
 			"$type": "/v1/random-chance",
-			"numer": 10,
-			"denom": 100
+			"denom": 100,
+			"numer": 10
 		},
 		"pearl": {
 			"$type": "/v1/random-chance",
-			"numer": 20,
-			"denom": 100
+			"denom": 100,
+			"numer": 20
 		}
 	},
+	"id": "marine-trap",
+	"image": "zumatr",
+	"items": ["lobster", "oyster", "shrimp", "crab"],
 	"material": "hide",
-	"image": "zumatr"
+	"skill": "marine-husbandry",
+	"tools": ["marine-tool"]
 }

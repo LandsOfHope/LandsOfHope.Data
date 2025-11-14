@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 8,
 	"id": "fire-starter",
 	"image": "st1",
-	"type": "2-handed-equipment",
-	"dpr": 8,
 	"material": "gem",
-	"skill": "staves",
-	"skills": {
-		"fire-resistance": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1
-	}
+	},
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1,
+		"fire-resistance": 1
+	},
+	"type": "2-handed-equipment"
 }

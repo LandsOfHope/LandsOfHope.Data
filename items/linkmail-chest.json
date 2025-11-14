@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "linkmail-chest",
 	"image": "132",
-	"type": "chest-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skills": {
-		"bludgeon-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"bludgeon-defense": 1
+	},
+	"type": "chest-armour"
 }

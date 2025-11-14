@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "botany/snakeroot",
-	"requirements": {
-		"skill": 4999,
-		"mana": 1001
-	},
 	"duration": "PT50M",
 	"effects": {
 		"summon-item": {
 			"item": "snakeroot"
 		}
+	},
+	"id": "botany/snakeroot",
+	"requirements": {
+		"mana": 1001,
+		"skill": 4999
 	}
 }

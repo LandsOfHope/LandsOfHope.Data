@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "long-legendary-staff",
 	"image": "staff02",
-	"type": "2-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "wood",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	},
 	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1,
-		"MAXMANA": 1
-	}
+	"type": "2-handed-equipment"
 }

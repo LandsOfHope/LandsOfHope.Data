@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
+	"effects": {
+		"damage": 188
+	},
 	"id": "gamemastery/germinating-enchantment",
 	"requirements": {
 		"level": 376,
 		"mana": 1
-	},
-	"effects": {
-		"damage": 188
 	}
 }

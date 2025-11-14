@@ -1,7 +1,6 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/actions/character-action-buy-recipes.json",
-	"title": "CharacterActionBuyRecipes",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/actions/character-action-buy-recipes"
@@ -10,6 +9,7 @@
 			"$ref": "/schemas/v1/characters-npcs-recipes-id.gen.json"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "id"]
+	"required": ["$type", "id"],
+	"title": "CharacterActionBuyRecipes",
+	"type": "object"
 }

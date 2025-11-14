@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/darfurk-hatred-ii",
-	"requirements": {
-		"skill": 470,
-		"mana": 470
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"attack-power": 236
 		}
+	},
+	"id": "gm-magic/darfurk-hatred-ii",
+	"requirements": {
+		"mana": 470,
+		"skill": 470
 	}
 }

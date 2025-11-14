@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "earthshaking-bomb",
 	"image": "zubobb",
-	"type": "bombs",
-	"expansion": "uncharted-waters",
-	"material": "metal"
+	"material": "metal",
+	"type": "bombs"
 }

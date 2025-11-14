@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "surgery/frankensteins-liver",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "frankensteins-liver"
-	},
 	"image": "6346",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "surgery",
-	"skillValue": 3600,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "hide",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		},
 		{
 			"id": "bloody-liver",
@@ -25,5 +16,14 @@
 			"id": "blood",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "frankensteins-liver"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "surgery",
+	"skillValue": 3600,
+	"time": "PT15S"
 }

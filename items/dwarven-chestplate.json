@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "dwarven-chestplate",
 	"image": "482",
-	"type": "chest-armour",
-	"armorType": "plate",
 	"material": "metal",
 	"skills": {
-		"h2h-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"h2h-defense": 1
+	},
+	"type": "chest-armour"
 }

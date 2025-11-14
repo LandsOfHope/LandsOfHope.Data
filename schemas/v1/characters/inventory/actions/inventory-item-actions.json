@@ -1,14 +1,69 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-item-actions.json",
-	"title": "InventoryItemActions",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
+		"adjust": {
+			"additionalProperties": false,
+			"properties": {
+				"host": {
+					"enum": ["play"]
+				},
+				"path": {
+					"const": "fhextrai.asp"
+				},
+				"query": {
+					"additionalProperties": false,
+					"properties": {
+						"ItemID": {
+							"minimum": 1,
+							"type": "integer"
+						}
+					},
+					"required": ["ItemID"],
+					"type": "object"
+				}
+			},
+			"required": ["host", "path", "query"],
+			"type": "object"
+		},
+		"consume": {
+			"additionalProperties": false,
+			"type": "object"
+		},
+		"disguise": {
+			"additionalProperties": false,
+			"type": "object"
+		},
+		"drop": {
+			"additionalProperties": false,
+			"type": "object"
+		},
+		"identify": {
+			"additionalProperties": false,
+			"type": "object"
+		},
+		"lock": {
+			"additionalProperties": false,
+			"type": "object"
+		},
+		"split": {
+			"additionalProperties": false,
+			"type": "object"
+		},
+		"uninscribe": {
+			"additionalProperties": false,
+			"type": "object"
+		},
+		"unlock": {
+			"additionalProperties": false,
+			"type": "object"
+		},
 		"use": {
-			"type": "object",
-			"additionalProperties": false
+			"additionalProperties": false,
+			"type": "object"
 		},
 		"use_redir": {
-			"type": "object",
+			"additionalProperties": false,
 			"properties": {
 				"host": {
 					"enum": ["play"]
@@ -21,64 +76,9 @@
 				}
 			},
 			"required": ["host", "path"],
-			"additionalProperties": false
-		},
-		"consume": {
-			"type": "object",
-			"additionalProperties": false
-		},
-		"disguise": {
-			"type": "object",
-			"additionalProperties": false
-		},
-		"identify": {
-			"type": "object",
-			"additionalProperties": false
-		},
-		"drop": {
-			"type": "object",
-			"additionalProperties": false
-		},
-		"lock": {
-			"type": "object",
-			"additionalProperties": false
-		},
-		"unlock": {
-			"type": "object",
-			"additionalProperties": false
-		},
-		"split": {
-			"type": "object",
-			"additionalProperties": false
-		},
-		"uninscribe": {
-			"type": "object",
-			"additionalProperties": false
-		},
-		"adjust": {
-			"type": "object",
-			"properties": {
-				"host": {
-					"enum": ["play"]
-				},
-				"path": {
-					"const": "fhextrai.asp"
-				},
-				"query": {
-					"type": "object",
-					"properties": {
-						"ItemID": {
-							"type": "integer",
-							"minimum": 1
-						}
-					},
-					"required": ["ItemID"],
-					"additionalProperties": false
-				}
-			},
-			"required": ["host", "path", "query"],
-			"additionalProperties": false
+			"type": "object"
 		}
 	},
-	"additionalProperties": false
+	"title": "InventoryItemActions",
+	"type": "object"
 }

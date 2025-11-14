@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "a-celestial-key",
 	"image": "ky2",
-	"type": "key",
 	"material": "metal",
-	"skill": "celestial-magic"
+	"skill": "celestial-magic",
+	"type": "key"
 }

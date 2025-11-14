@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "ring-of-the-shimmering-forge",
 	"image": "ring4",
-	"type": "ring",
 	"material": "gem",
-	"skills": {
-		"blacksmithing": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skills": {
+		"blacksmithing": 1
+	},
+	"type": "ring"
 }

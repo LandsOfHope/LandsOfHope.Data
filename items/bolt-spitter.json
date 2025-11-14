@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 7,
 	"id": "bolt-spitter",
 	"image": "xw2",
-	"type": "ranged-weapon",
-	"dpr": 7,
 	"material": "wood",
-	"skill": "crossbows",
-	"skills": {
-		"crossbows": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"skill": "crossbows",
+	"skills": {
+		"attack-power": 1,
+		"crossbows": 1
+	},
+	"type": "ranged-weapon"
 }

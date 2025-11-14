@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "wildlife/attract-animal",
-	"requirements": {
-		"skill": 3660,
-		"mana": 366
-	},
 	"duration": "PT60M",
 	"effects": {
 		"summon-pet": {
-			"profession": "creature",
-			"class": "animal"
+			"class": "animal",
+			"profession": "creature"
 		}
+	},
+	"id": "wildlife/attract-animal",
+	"requirements": {
+		"mana": 366,
+		"skill": 3660
 	}
 }

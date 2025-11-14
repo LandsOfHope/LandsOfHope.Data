@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "raptor-shoulders",
-	"image": "5154",
-	"type": "shoulders",
 	"armorType": "leather",
 	"expansion": "jurassic-wars",
+	"id": "raptor-shoulders",
+	"image": "5154",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

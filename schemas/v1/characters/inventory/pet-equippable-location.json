@@ -1,6 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/pet-equippable-location.json",
-	"title": "PetEquippableLocation",
 	"allOf": [
 		{
 			"enum": [
@@ -28,5 +27,6 @@
 		{
 			"$ref": "/schemas/v1/items-locations-id.gen.json"
 		}
-	]
+	],
+	"title": "PetEquippableLocation"
 }

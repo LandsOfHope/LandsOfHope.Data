@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "red-ninja-star",
-	"image": "6404",
-	"type": "ranged-weapon",
 	"dpr": 3,
 	"expansion": "dragons-of-the-east",
+	"id": "red-ninja-star",
+	"image": "6404",
 	"material": "metal",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skill": "thrown-weapons",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "ranged-weapon"
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "the-sea-kings-eye",
 	"image": "6576",
-	"type": "glasses-shades",
-	"expansion": "uncharted-waters",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"exploration": 1,
 		"track-items": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "glasses-shades"
 }

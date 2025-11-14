@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "barrendown-sleeves",
 	"image": "5671",
-	"type": "arm-armour",
-	"armorType": "mail",
 	"legendary": true,
-	"set": "barrendown-legend",
 	"material": "metal",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXMANA": 1
-	}
+	},
+	"set": "barrendown-legend",
+	"skills": {
+		"armor": 1
+	},
+	"type": "arm-armour"
 }

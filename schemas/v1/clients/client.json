@@ -1,14 +1,11 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/clients/client.json",
-	"title": "Client",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/clients/client"
 		},
 		"ip": {
-			"type": "object",
 			"additionalProperties": false,
 			"properties": {
 				"address": {
@@ -18,11 +15,14 @@
 					"$ref": "/schemas/v1/clients/country-code.json"
 				}
 			},
-			"required": ["address", "country"]
+			"required": ["address", "country"],
+			"type": "object"
 		},
 		"userAgent": {
 			"$ref": "/schemas/v1/clients/browser-user-agent.json"
 		}
 	},
-	"required": ["$type", "ip", "userAgent"]
+	"required": ["$type", "ip", "userAgent"],
+	"title": "Client",
+	"type": "object"
 }

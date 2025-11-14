@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "preservation-magic/air-resistance-vi",
-	"requirements": {
-		"skill": 1961,
-		"mana": 1961
-	},
 	"duration": "PT75M",
 	"effects": {
 		"skills": {
 			"air-resistance": 199
 		}
+	},
+	"id": "preservation-magic/air-resistance-vi",
+	"requirements": {
+		"mana": 1961,
+		"skill": 1961
 	}
 }

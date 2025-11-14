@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "clawstriker",
-	"name": {
-		"en": "Clawstriker"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"frenzy": 5,
-		"fists": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "clawstriker",
+	"name": {
+		"en": "Clawstriker"
 	},
 	"properties": {
 		"DEXTERITY": 3,
@@ -19,5 +13,11 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fists": 5,
+		"frenzy": 5
 	}
 }

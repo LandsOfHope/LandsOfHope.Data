@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "blacksmithing/dark-gauntlets",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "dark-gauntlets"
-	},
 	"image": "1558",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "blacksmithing",
-	"skillValue": 1200,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 5,
-			"primary": true
+			"primary": true,
+			"quantity": 5
 		},
 		{
 			"id": "lining",
 			"quantity": 7
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "dark-gauntlets"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "blacksmithing",
+	"skillValue": 1200,
+	"time": "PT15S"
 }

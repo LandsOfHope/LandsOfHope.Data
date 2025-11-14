@@ -1,20 +1,20 @@
 {
 	"$type": "/v1/profession",
-	"id": "farmer",
-	"name": {
-		"en": "Farmer"
-	},
 	"desc": {
 		"en": "Farmer. An expert at tending the lands to make food."
 	},
-	"skills": {
-		"farming": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "farmer",
+	"name": {
+		"en": "Farmer"
 	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 4,
 		"STRENGTH": 4
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"farming": 5
 	}
 }

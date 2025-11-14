@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "healing-magic/healers-retribution-i",
-	"requirements": {
-		"skill": 3076,
-		"mana": 3076
-	},
 	"duration": "PT25M",
 	"effects": {
 		"damage": 2168,
 		"properties": {
 			"HITPOINTS": 1543
 		}
+	},
+	"id": "healing-magic/healers-retribution-i",
+	"requirements": {
+		"mana": 3076,
+		"skill": 3076
 	}
 }

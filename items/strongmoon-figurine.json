@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "strongmoon-figurine",
 	"image": "relic5",
-	"type": "special-slot",
 	"material": "metal",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skill": "archaeology",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "special-slot"
 }

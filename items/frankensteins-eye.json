@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "frankensteins-eye",
 	"image": "6349",
-	"type": "glasses-shades",
-	"armorType": "cloth",
-	"set": "frankenstein-set",
 	"material": "hide",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
+	"set": "frankenstein-set",
 	"skills": {
 		"energy-resistance": 1,
 		"poison-resistance": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "glasses-shades"
 }

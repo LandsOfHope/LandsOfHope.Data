@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/elairz",
-	"requirements": {
-		"skill": 1912,
-		"mana": 1912
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "elemental",
-			"profession": "mage"
+			"profession": "mage",
+			"race": "elemental"
 		}
+	},
+	"id": "summoning/elairz",
+	"requirements": {
+		"mana": 1912,
+		"skill": 1912
 	}
 }

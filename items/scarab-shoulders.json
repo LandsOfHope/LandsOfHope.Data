@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "scarab-shoulders",
-	"image": "5178",
-	"type": "shoulders",
 	"armorType": "plate",
 	"expansion": "jurassic-wars",
+	"id": "scarab-shoulders",
+	"image": "5178",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

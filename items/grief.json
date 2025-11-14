@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "grief",
 	"image": "3212",
-	"type": "ranged-weapon",
-	"dpr": 120,
 	"material": "wood",
-	"skill": "propelled",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "propelled",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "ranged-weapon"
 }

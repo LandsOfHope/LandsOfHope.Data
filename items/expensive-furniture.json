@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "expensive-furniture",
 	"image": "6424",
-	"type": "lordship-furniture",
 	"material": "wood",
-	"skill": "lordship"
+	"skill": "lordship",
+	"type": "lordship-furniture"
 }

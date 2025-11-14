@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "archaic-helmet",
 	"image": "fe5vohe",
-	"type": "head-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skill": "archaeology",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "head-armour"
 }

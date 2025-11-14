@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "gloves-of-the-glimmering-crucible",
 	"image": "1130",
-	"type": "hand-armour",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
 		"blacksmithing": 1,
 		"geology": 1
-	}
+	},
+	"type": "hand-armour"
 }

@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "turned-bracelet",
 	"image": "gmtubr",
-	"type": "wrist-jewelry",
-	"armorType": "cloth",
-	"material": "metal"
+	"material": "metal",
+	"type": "wrist-jewelry"
 }

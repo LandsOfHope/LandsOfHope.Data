@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "fury-augment",
 	"image": "6872",
-	"type": "augment",
 	"material": "gem",
 	"skills": {
 		"frenzy": 1
-	}
+	},
+	"type": "augment"
 }

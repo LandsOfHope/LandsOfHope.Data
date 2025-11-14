@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 12,
 	"id": "sword-of-might",
 	"image": "zuswmi",
-	"type": "1-handed-equipment",
-	"dpr": 12,
 	"material": "gem",
 	"skill": "swords",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

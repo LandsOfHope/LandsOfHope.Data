@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "nature-magic/woodland-frenzy-vi",
-	"requirements": {
-		"skill": 3801,
-		"mana": 3801
-	},
 	"effects": {
 		"damage": 2675
+	},
+	"id": "nature-magic/woodland-frenzy-vi",
+	"requirements": {
+		"mana": 3801,
+		"skill": 3801
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 68,
 	"id": "subzero-bolt",
 	"image": "arr1",
-	"type": "ammo-weapons-crossbows",
-	"dpr": 68,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-crossbows"
 }

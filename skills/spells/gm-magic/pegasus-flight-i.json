@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/pegasus-flight-i",
-	"requirements": {
-		"skill": 176,
-		"mana": 176
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"air-survival": 89
 		}
+	},
+	"id": "gm-magic/pegasus-flight-i",
+	"requirements": {
+		"mana": 176,
+		"skill": 176
 	}
 }

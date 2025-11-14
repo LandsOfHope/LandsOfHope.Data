@@ -1,9 +1,9 @@
 {
 	"$type": "/v0/items/extra-item",
-	"itemId": 1927,
-	"quantity": 10,
-	"imageType": "i",
-	"image": "1927",
 	"category": "general",
-	"hc": 2
+	"hc": 2,
+	"image": "1927",
+	"imageType": "i",
+	"itemId": 1927,
+	"quantity": 10
 }

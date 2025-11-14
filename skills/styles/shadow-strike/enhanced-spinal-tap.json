@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 2043
+	},
 	"id": "shadow-strike/enhanced-spinal-tap",
 	"requirements": {
 		"skill": 3389,
 		"stamina": 3389
-	},
-	"effects": {
-		"damage": 2043
 	}
 }

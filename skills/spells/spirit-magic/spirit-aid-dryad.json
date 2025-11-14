@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "spirit-magic/spirit-aid-dryad",
-	"requirements": {
-		"skill": 753,
-		"mana": 753
-	},
 	"duration": "PT30M",
 	"effects": {
 		"summon-pet": {
-			"race": "dryad",
-			"profession": "spirit-being"
+			"profession": "spirit-being",
+			"race": "dryad"
 		}
+	},
+	"id": "spirit-magic/spirit-aid-dryad",
+	"requirements": {
+		"mana": 753,
+		"skill": 753
 	}
 }

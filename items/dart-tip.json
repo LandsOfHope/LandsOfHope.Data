@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "dart-tip",
 	"image": "fedati",
-	"type": "ammo-materials",
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "ammo-materials"
 }

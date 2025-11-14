@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tailoring/lyricists-cape",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "lyricists-cape"
-	},
 	"image": "cob",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "tailoring",
-	"skillValue": 1800,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "thread",
-			"quantity": 15,
-			"primary": true
+			"primary": true,
+			"quantity": 15
 		},
 		{
 			"id": "cloth",
 			"quantity": 10
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "lyricists-cape"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "tailoring",
+	"skillValue": 1800,
+	"time": "PT15S"
 }

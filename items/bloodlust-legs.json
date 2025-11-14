@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "bloodlust-legs",
 	"image": "6509",
-	"type": "leg-armour",
-	"armorType": "leather",
 	"material": "hide",
-	"skills": {
-		"detect-hidden": 1,
-		"armor": 1
-	},
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"skills": {
+		"armor": 1,
+		"detect-hidden": 1
+	},
+	"type": "leg-armour"
 }

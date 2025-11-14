@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "lenores-amulet",
 	"image": "zuleam",
-	"type": "neck",
-	"armorType": "plate",
 	"material": "gem",
 	"skills": {
-		"healing-magic": 1,
-		"first-aid": 1
-	}
+		"first-aid": 1,
+		"healing-magic": 1
+	},
+	"type": "neck"
 }

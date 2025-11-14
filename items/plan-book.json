@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "plan-book",
 	"image": "bk1",
-	"type": "knowledge-aid-plans",
 	"material": "hide",
-	"skill": "artisan"
+	"skill": "artisan",
+	"type": "knowledge-aid-plans"
 }

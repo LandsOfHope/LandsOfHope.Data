@@ -1,16 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "spellslinger",
-	"name": {
-		"en": "Spellslinger"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"thrown-magic": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "spellslinger",
+	"name": {
+		"en": "Spellslinger"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -18,5 +13,10 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 1,
 		"STRENGTH": 4
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"thrown-magic": 5
 	}
 }

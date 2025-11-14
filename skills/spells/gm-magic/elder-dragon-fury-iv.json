@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/elder-dragon-fury-iv",
-	"requirements": {
-		"skill": 771,
-		"mana": 771
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"STRENGTH": 1200
 		}
+	},
+	"id": "gm-magic/elder-dragon-fury-iv",
+	"requirements": {
+		"mana": 771,
+		"skill": 771
 	}
 }

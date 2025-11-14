@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Witch's Toad"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Witch's Toad"
+	},
 	"pics": {
-		"M": ["mjpst"],
-		"F": ["mjpst2"]
+		"F": ["mjpst2"],
+		"M": ["mjpst"]
 	}
 }

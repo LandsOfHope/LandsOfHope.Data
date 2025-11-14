@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "blank-severed-feet",
 	"image": "6839",
-	"type": "foot-armour",
-	"set": "inventor-severed-set",
 	"material": "hide",
-	"skill": "blood-over-beauty",
 	"properties": {
 		"MAXSTAMINA": 0.6
-	}
+	},
+	"set": "inventor-severed-set",
+	"skill": "blood-over-beauty",
+	"type": "foot-armour"
 }

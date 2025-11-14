@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 52,
 	"id": "bloody-mallet",
 	"image": "cb",
-	"type": "1-handed-equipment",
-	"dpr": 52,
 	"material": "wood",
 	"skill": "maces",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "blacksmithing/voidic-gloves",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "voidic-gloves"
-	},
 	"image": "gmvogl",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "blacksmithing",
-	"skillValue": 750,
-	"quality": "uncommon",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 20,
-			"primary": true
+			"primary": true,
+			"quantity": 20
 		},
 		{
 			"id": "rivet",
@@ -25,5 +16,14 @@
 			"id": "lining",
 			"quantity": 4
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "voidic-gloves"
+	},
+	"quality": "uncommon",
+	"quantity": 1,
+	"skill": "blacksmithing",
+	"skillValue": 750,
+	"time": "PT15S"
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "animated-helmet",
 	"image": "6354",
-	"type": "head-armour",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skill": "animation",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "head-armour"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/average-blade-tonic",
-	"requirements": {
-		"skill": 3000,
-		"mana": 1000
-	},
 	"duration": "PT200M",
 	"effects": {
 		"skills": {
 			"bladed-defense": 200
 		}
+	},
+	"id": "gm-magic/average-blade-tonic",
+	"requirements": {
+		"mana": 1000,
+		"skill": 3000
 	}
 }

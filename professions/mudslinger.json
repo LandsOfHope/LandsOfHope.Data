@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "mudslinger",
-	"name": {
-		"en": "Mudslinger"
-	},
 	"desc": {
 		"en": "A profession dedicated to throwing mud and other gooey things."
 	},
-	"skills": {
-		"thrown-weapons": 5,
-		"projectile-defense": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "mudslinger",
+	"name": {
+		"en": "Mudslinger"
 	},
 	"properties": {
 		"DEXTERITY": 3,
@@ -19,5 +13,11 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 3,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"projectile-defense": 5,
+		"thrown-weapons": 5
 	}
 }

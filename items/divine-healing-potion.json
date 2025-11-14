@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "divine-healing-potion",
 	"image": "pdr",
-	"type": "magic-potion",
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 3.5
-	}
+	},
+	"type": "magic-potion"
 }

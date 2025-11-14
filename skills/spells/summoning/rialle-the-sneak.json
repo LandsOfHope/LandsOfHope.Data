@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/rialle-the-sneak",
-	"requirements": {
-		"skill": 1360,
-		"mana": 1360
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "human",
-			"profession": "thief"
+			"profession": "thief",
+			"race": "human"
 		}
+	},
+	"id": "summoning/rialle-the-sneak",
+	"requirements": {
+		"mana": 1360,
+		"skill": 1360
 	}
 }

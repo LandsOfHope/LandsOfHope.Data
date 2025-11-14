@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "buccaneer-belt",
-	"image": "zubube",
-	"type": "stomach",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "buccaneer-belt",
+	"image": "zubube",
 	"material": "cloth",
+	"properties": {
+		"SPEED": 1
+	},
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "stomach"
 }

@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "novice-gloves",
 	"image": "anglv",
-	"type": "hand-armour",
 	"material": "hide",
-	"skill": "artisan"
+	"skill": "artisan",
+	"type": "hand-armour"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "defensive-magic/water-shield-iii",
-	"requirements": {
-		"skill": 197,
-		"mana": 197
-	},
 	"duration": "PT165M",
 	"effects": {
 		"skills": {
 			"water-resistance": 113
 		}
+	},
+	"id": "defensive-magic/water-shield-iii",
+	"requirements": {
+		"mana": 197,
+		"skill": 197
 	}
 }

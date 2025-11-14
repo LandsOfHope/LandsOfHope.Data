@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "Elven Carpenter. An expert at creating wooden items from planks."
+	},
 	"id": "cloth-goods-vendor",
 	"name": {
 		"en": "Cloth Goods Vendor"
-	},
-	"desc": {
-		"en": "Elven Carpenter. An expert at creating wooden items from planks."
 	},
 	"properties": {
 		"MAXHITPOINTS": 1,

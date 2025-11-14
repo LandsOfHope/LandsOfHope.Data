@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "gigantosaurus-steak",
 	"image": "zustae",
-	"type": "food",
 	"material": "hide",
 	"properties": {
 		"STAMINA": 4
-	}
+	},
+	"type": "food"
 }

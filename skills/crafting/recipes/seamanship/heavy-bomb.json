@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "seamanship/heavy-bomb",
+	"image": "zubobb",
+	"ingredients": [
+		{
+			"id": "gunpowder",
+			"primary": true,
+			"quantity": 7
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-vessel-item",
 		"item": "heavy-bomb"
 	},
-	"image": "zubobb",
-	"time": "PT15S",
+	"quality": "common",
 	"quantity": 2,
 	"skill": "seamanship",
 	"skillValue": 600,
-	"quality": "common",
-	"ingredients": [
-		{
-			"id": "gunpowder",
-			"quantity": 7,
-			"primary": true
-		}
-	]
+	"time": "PT15S"
 }

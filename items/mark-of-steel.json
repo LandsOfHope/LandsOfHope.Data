@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "mark-of-steel",
 	"image": "6515",
-	"type": "special-slot",
 	"material": "metal",
 	"skills": {
+		"armor": 1,
 		"fire-survival": 1,
-		"water-survival": 1,
-		"armor": 1
-	}
+		"water-survival": 1
+	},
+	"type": "special-slot"
 }

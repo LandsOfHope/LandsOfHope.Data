@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "defensive-magic/fire-shield-x",
-	"requirements": {
-		"skill": 645,
-		"mana": 645
-	},
 	"duration": "PT550M",
 	"effects": {
 		"skills": {
 			"fire-resistance": 337
 		}
+	},
+	"id": "defensive-magic/fire-shield-x",
+	"requirements": {
+		"mana": 645,
+		"skill": 645
 	}
 }

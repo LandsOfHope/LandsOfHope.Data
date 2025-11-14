@@ -1,15 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "deity",
-	"name": {
-		"en": "Deity"
-	},
 	"desc": {
 		"en": "The ruler of a religion."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "deity",
+	"name": {
+		"en": "Deity"
 	},
 	"properties": {
 		"DEXTERITY": 3,
@@ -19,5 +15,9 @@
 		"MAXSTAMINA": 3,
 		"SPEED": 3,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

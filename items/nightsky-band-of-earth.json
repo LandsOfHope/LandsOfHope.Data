@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "nightsky-band-of-earth",
 	"image": "4963",
-	"type": "ring",
 	"material": "metal",
+	"properties": {
+		"MAXMANA": 1
+	},
 	"skill": "earth-magic",
 	"skills": {
 		"earth-magic": 1
 	},
-	"properties": {
-		"MAXMANA": 1
-	}
+	"type": "ring"
 }

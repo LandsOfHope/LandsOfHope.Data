@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "necromancy/summon-elder-liche-envoker",
-	"requirements": {
-		"skill": 4900,
-		"mana": 4900
-	},
 	"effects": {
 		"summon-item": {
 			"item": "bone-envoker"
 		}
+	},
+	"id": "necromancy/summon-elder-liche-envoker",
+	"requirements": {
+		"mana": 4900,
+		"skill": 4900
 	}
 }

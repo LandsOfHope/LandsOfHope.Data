@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 63,
 	"id": "guilded-lethal-firearm",
 	"image": "pl1",
-	"type": "1-handed-equipment",
-	"dpr": 63,
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

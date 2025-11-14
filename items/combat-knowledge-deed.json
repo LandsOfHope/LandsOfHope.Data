@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "combat-knowledge-deed",
 	"image": "6577",
-	"type": "skill-training-deed",
 	"material": "metal",
-	"skill": "augmenting"
+	"skill": "augmenting",
+	"type": "skill-training-deed"
 }

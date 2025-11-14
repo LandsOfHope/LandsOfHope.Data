@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "seamanship/big-hold",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-vessel-item",
-		"item": "big-hold"
-	},
 	"image": "zuicbo",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "seamanship",
-	"skillValue": 3600,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ships-hook",
@@ -18,8 +9,17 @@
 		},
 		{
 			"id": "weathered-plank",
-			"quantity": 45,
-			"primary": true
+			"primary": true,
+			"quantity": 45
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-vessel-item",
+		"item": "big-hold"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "seamanship",
+	"skillValue": 3600,
+	"time": "PT15S"
 }

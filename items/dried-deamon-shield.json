@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 6,
 	"id": "dried-deamon-shield",
 	"image": "sh2",
-	"type": "2-handed-equipment",
-	"dpr": 6,
 	"material": "wood",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skill": "two-handed-shields",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "2-handed-equipment"
 }

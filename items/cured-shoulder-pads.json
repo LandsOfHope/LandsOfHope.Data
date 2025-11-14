@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "cured-shoulder-pads",
 	"image": "3014",
-	"type": "shoulders",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "shoulders"
 }

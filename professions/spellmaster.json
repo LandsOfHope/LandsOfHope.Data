@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/profession",
-	"id": "spellmaster",
-	"name": {
-		"en": "Spellmaster"
-	},
 	"desc": {
 		"en": "Responsible for Administering guild Abilities."
 	},
-	"skills": {
-		"mystical-magic": 5,
-		"mana-draining": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "spellmaster",
+	"name": {
+		"en": "Spellmaster"
 	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 3,
 		"MAXMANA": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"mana-draining": 5,
+		"mystical-magic": 5
 	}
 }

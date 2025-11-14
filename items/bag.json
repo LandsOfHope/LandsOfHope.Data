@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "bag",
 	"image": "ba",
-	"type": "spawner",
-	"material": "cloth"
+	"material": "cloth",
+	"type": "spawner"
 }

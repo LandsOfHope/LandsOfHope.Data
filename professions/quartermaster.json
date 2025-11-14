@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "quartermaster",
-	"name": {
-		"en": "Quartermaster"
-	},
 	"desc": {
 		"en": "An NPC that gives out rewards based on the amount of tokens or required items a player has found."
 	},
-	"skills": {
-		"fire-magic": 5,
-		"fire-resistance": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "quartermaster",
+	"name": {
+		"en": "Quartermaster"
 	},
 	"properties": {
 		"INTELLIGENCE": 3,
@@ -19,5 +13,11 @@
 		"MAXMANA": 3,
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fire-magic": 5,
+		"fire-resistance": 5
 	}
 }

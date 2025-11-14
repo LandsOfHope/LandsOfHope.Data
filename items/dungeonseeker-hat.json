@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "dungeonseeker-hat",
 	"image": "4950",
-	"type": "head-armour",
-	"armorType": "cloth",
 	"material": "hide",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "head-armour"
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "shoulder-pads",
 	"image": "shp",
-	"type": "shoulders",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

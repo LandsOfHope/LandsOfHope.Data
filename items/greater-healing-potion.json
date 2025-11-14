@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "greater-healing-potion",
 	"image": "pr1",
-	"type": "magic-potion",
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 2.75
-	}
+	},
+	"type": "magic-potion"
 }

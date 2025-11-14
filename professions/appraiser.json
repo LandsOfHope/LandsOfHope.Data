@@ -1,15 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "appraiser",
-	"name": {
-		"en": "Appraiser"
-	},
 	"desc": {
 		"en": "The appraiser is a master of discovering the truth about items, buildings and players"
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "appraiser",
+	"name": {
+		"en": "Appraiser"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -17,5 +13,9 @@
 		"MAXHITPOINTS": 2,
 		"MAXMANA": 1,
 		"MAXSTAMINA": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

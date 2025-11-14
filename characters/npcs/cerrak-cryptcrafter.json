@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "cerrak-cryptcrafter"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Cerrak Cryptcrafter",
-		"title": "dungeon-builder",
 		"image": "ham",
 		"level": {
 			"primary": 800
 		},
+		"name": "Cerrak Cryptcrafter",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "dungeon-builder"
 	}
 }

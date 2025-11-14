@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "novice-toolbox",
 	"image": "bx5",
-	"type": "bag",
 	"material": "wood",
 	"skill": "artisan",
 	"skills": {
 		"cold-survival": 1
-	}
+	},
+	"type": "bag"
 }

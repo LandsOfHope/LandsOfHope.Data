@@ -1,92 +1,92 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/stats/ranking-list.json",
-	"title": "RankingList",
-	"type": "object",
 	"oneOf": [
 		{
+			"additionalProperties": false,
 			"properties": {
 				"$type": {
 					"const": "/v1/stats/ranking-list"
 				},
-				"stat": {
-					"const": "level"
-				},
 				"data": {
-					"type": "array",
 					"items": {
-						"type": "object",
 						"properties": {
-							"name": {
-								"$ref": "/schemas/v1/characters/character-name.json"
+							"image": {
+								"$ref": "/schemas/v1/characters-images-id.gen.json"
 							},
 							"level": {
 								"type": "number"
 							},
-							"image": {
-								"$ref": "/schemas/v1/characters-images-id.gen.json"
+							"name": {
+								"$ref": "/schemas/v1/characters/character-name.json"
 							}
-						}
-					}
+						},
+						"type": "object"
+					},
+					"type": "array"
+				},
+				"stat": {
+					"const": "level"
 				}
-			},
-			"additionalProperties": false
+			}
 		},
 		{
+			"additionalProperties": false,
 			"properties": {
 				"$type": {
 					"const": "/v1/stats/ranking-list"
 				},
-				"stat": {
-					"const": "strength"
-				},
 				"data": {
-					"type": "array",
 					"items": {
-						"type": "object",
 						"properties": {
+							"image": {
+								"$ref": "/schemas/v1/characters-images-id.gen.json"
+							},
 							"name": {
 								"$ref": "/schemas/v1/characters/character-name.json"
 							},
 							"strength": {
 								"type": "integer"
-							},
-							"image": {
-								"$ref": "/schemas/v1/characters-images-id.gen.json"
 							}
-						}
-					}
+						},
+						"type": "object"
+					},
+					"type": "array"
+				},
+				"stat": {
+					"const": "strength"
 				}
-			},
-			"additionalProperties": false
+			}
 		},
 		{
+			"additionalProperties": false,
 			"properties": {
 				"$type": {
 					"const": "/v1/stats/ranking-list"
 				},
-				"stat": {
-					"const": "intelligence"
-				},
 				"data": {
-					"type": "array",
 					"items": {
-						"type": "object",
 						"properties": {
-							"name": {
-								"$ref": "/schemas/v1/characters/character-name.json"
+							"image": {
+								"$ref": "/schemas/v1/characters-images-id.gen.json"
 							},
 							"intelligence": {
 								"type": "integer"
 							},
-							"image": {
-								"$ref": "/schemas/v1/characters-images-id.gen.json"
+							"name": {
+								"$ref": "/schemas/v1/characters/character-name.json"
 							}
-						}
-					}
+						},
+						"type": "object"
+					},
+					"type": "array"
+				},
+				"stat": {
+					"const": "intelligence"
 				}
-			},
-			"additionalProperties": false
+			}
 		}
 	],
-	"required": ["$type", "stat", "data"]
+	"required": ["$type", "stat", "data"],
+	"title": "RankingList",
+	"type": "object"
 }

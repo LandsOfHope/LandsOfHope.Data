@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "fountain-of-mana",
 	"image": "foun3",
-	"type": "resource-harvester",
-	"material": "hide"
+	"material": "hide",
+	"type": "resource-harvester"
 }

@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "privateer-belt",
-	"image": "zuprbe",
-	"type": "stomach",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "privateer-belt",
+	"image": "zuprbe",
 	"material": "cloth",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "seamanship",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "stomach"
 }

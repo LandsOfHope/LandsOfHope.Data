@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "belt-of-the-strong",
 	"image": "pbelt9",
-	"type": "stomach",
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"type": "stomach"
 }

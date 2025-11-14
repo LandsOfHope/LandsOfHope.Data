@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "trikraken-tooth-earring",
 	"image": "eas",
-	"type": "ear-jewelry",
 	"material": "gem",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skills": {
 		"frenzy": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "ear-jewelry"
 }

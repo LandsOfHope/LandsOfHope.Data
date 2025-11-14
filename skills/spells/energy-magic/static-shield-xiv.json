@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "energy-magic/static-shield-xiv",
-	"requirements": {
-		"skill": 3163,
-		"mana": 3163
-	},
 	"duration": 3,
 	"effects": {
 		"damage": 2229,
 		"skills": {
 			"damage-absorption": 2229
 		}
+	},
+	"id": "energy-magic/static-shield-xiv",
+	"requirements": {
+		"mana": 3163,
+		"skill": 3163
 	}
 }

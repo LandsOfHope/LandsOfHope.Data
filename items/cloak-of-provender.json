@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "cloak-of-provender",
 	"image": "c3p",
-	"type": "neck-clothing",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
-		"fishing": 1,
 		"cooking": 1,
-		"farming": 1
-	}
+		"farming": 1,
+		"fishing": 1
+	},
+	"type": "neck-clothing"
 }

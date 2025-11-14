@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dark-depths",
 	"id": "powder-box",
 	"image": "6483",
-	"type": "special-chest",
-	"expansion": "dark-depths",
-	"material": "gem"
+	"material": "gem",
+	"type": "special-chest"
 }

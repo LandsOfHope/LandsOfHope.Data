@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "wintersvale-cookie",
 	"image": "c1k",
-	"type": "food",
-	"armorType": "cloth",
-	"material": "hide"
+	"material": "hide",
+	"type": "food"
 }

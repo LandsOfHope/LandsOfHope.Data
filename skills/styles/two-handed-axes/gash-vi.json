@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 829
+	},
 	"id": "two-handed-axes/gash-vi",
 	"requirements": {
 		"skill": 1651,
 		"stamina": 1650
-	},
-	"effects": {
-		"damage": 829
 	}
 }

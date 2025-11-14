@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "cape-of-heroics",
 	"image": "zucahe",
-	"type": "neck-clothing",
-	"armorType": "cloth",
-	"set": "myzan-defenders",
 	"material": "gem",
+	"properties": {
+		"STRENGTH": 1
+	},
+	"set": "myzan-defenders",
 	"skill": "myzan-defenders",
 	"skills": {
 		"armor": 1,
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "neck-clothing"
 }

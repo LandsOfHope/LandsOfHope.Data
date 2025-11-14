@@ -1,20 +1,20 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/stats/ranking.json",
-	"title": "Ranking",
-	"type": "object",
 	"properties": {
 		"$type": {
 			"const": "/v1/stats/ranking"
-		},
-		"title": {
-			"$ref": "/schemas/v1/localized-string.json"
 		},
 		"desc": {
 			"$ref": "/schemas/v1/localized-string.json"
 		},
 		"group": {
 			"$ref": "/schemas/v1/stats-stat-categories-id.gen.json"
+		},
+		"title": {
+			"$ref": "/schemas/v1/localized-string.json"
 		}
 	},
-	"required": ["$type", "title", "desc", "group"]
+	"required": ["$type", "title", "desc", "group"],
+	"title": "Ranking",
+	"type": "object"
 }

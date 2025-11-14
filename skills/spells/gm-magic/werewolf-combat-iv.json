@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/werewolf-combat-iv",
-	"requirements": {
-		"skill": 778,
-		"mana": 778
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"attack-power": 390
 		}
+	},
+	"id": "gm-magic/werewolf-combat-iv",
+	"requirements": {
+		"mana": 778,
+		"skill": 778
 	}
 }

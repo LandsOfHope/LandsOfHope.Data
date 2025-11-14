@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 12,
 	"id": "sharpened-arrow",
 	"image": "na",
-	"type": "ammo-weapons-bows",
-	"dpr": 12,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bows"
 }

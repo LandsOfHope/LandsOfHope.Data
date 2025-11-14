@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "razarks-pickaxe",
 	"image": "5027",
-	"type": "1-handed-equipment",
 	"material": "gem",
 	"skill": "mining",
 	"skills": {
-		"mining": 1,
-		"geology": 1
-	}
+		"geology": 1,
+		"mining": 1
+	},
+	"type": "1-handed-equipment"
 }

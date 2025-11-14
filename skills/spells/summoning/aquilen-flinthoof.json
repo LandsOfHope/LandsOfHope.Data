@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/aquilen-flinthoof",
-	"requirements": {
-		"skill": 3522,
-		"mana": 3522
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "centaur",
-			"profession": "mail-goods-vendor"
+			"profession": "mail-goods-vendor",
+			"race": "centaur"
 		}
+	},
+	"id": "summoning/aquilen-flinthoof",
+	"requirements": {
+		"mana": 3522,
+		"skill": 3522
 	}
 }

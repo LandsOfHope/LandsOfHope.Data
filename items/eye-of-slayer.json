@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "eye-of-slayer",
 	"image": "1692",
-	"type": "glasses-shades",
 	"material": "gem",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXMANA": 1
-	}
+	},
+	"skills": {
+		"armor": 1
+	},
+	"type": "glasses-shades"
 }

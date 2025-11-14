@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "chopping-saw",
 	"image": "1386",
-	"type": "log-chopping-tool",
-	"material": "metal"
+	"material": "metal",
+	"type": "log-chopping-tool"
 }

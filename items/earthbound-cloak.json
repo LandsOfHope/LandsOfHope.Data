@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "earthbound-cloak",
 	"image": "cl8",
-	"type": "cloak",
-	"armorType": "leather",
 	"material": "hide",
 	"skills": {
-		"earth-resistance": 1,
+		"arcane-resistance": 1,
 		"armor": 1,
-		"arcane-resistance": 1
-	}
+		"earth-resistance": 1
+	},
+	"type": "cloak"
 }

@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "legendary-axe",
 	"image": "ham",
-	"type": "1-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "metal",
-	"skill": "axes",
-	"skills": {
-		"frenzy": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1
-	}
+	},
+	"skill": "axes",
+	"skills": {
+		"attack-power": 1,
+		"frenzy": 1
+	},
+	"type": "1-handed-equipment"
 }

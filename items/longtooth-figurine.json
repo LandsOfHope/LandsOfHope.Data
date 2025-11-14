@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "longtooth-figurine",
 	"image": "relic8",
-	"type": "special-slot",
 	"material": "metal",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skill": "archaeology",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "special-slot"
 }

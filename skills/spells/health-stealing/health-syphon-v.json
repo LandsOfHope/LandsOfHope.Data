@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "health-stealing/health-syphon-v",
-	"requirements": {
-		"skill": 253,
-		"mana": 253
-	},
 	"duration": "PT25M",
 	"effects": {
 		"damage": 74,
 		"properties": {
 			"HITPOINTS": -121
 		}
+	},
+	"id": "health-stealing/health-syphon-v",
+	"requirements": {
+		"mana": 253,
+		"skill": 253
 	}
 }

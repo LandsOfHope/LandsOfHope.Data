@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "autumnal-boots",
-	"image": "jwadb",
-	"type": "foot-armour",
 	"armorType": "leather",
 	"expansion": "jurassic-wars",
+	"id": "autumnal-boots",
+	"image": "jwadb",
 	"material": "wood",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "foot-armour"
 }

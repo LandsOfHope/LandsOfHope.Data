@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "worn-black-belt",
 	"image": "bet",
-	"type": "stomach",
-	"armorType": "cloth",
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1
-	}
+	},
+	"type": "stomach"
 }

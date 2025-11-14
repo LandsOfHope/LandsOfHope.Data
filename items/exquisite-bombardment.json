@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 140,
 	"id": "exquisite-bombardment",
 	"image": "6645",
-	"type": "siege-weapon",
-	"dpr": 140,
 	"material": "metal",
-	"skill": "siege-weapons",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "siege-weapons",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "siege-weapon"
 }

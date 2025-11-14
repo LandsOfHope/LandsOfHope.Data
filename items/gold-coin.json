@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dark-depths",
 	"id": "gold-coin",
 	"image": "6484",
-	"type": "money-deed",
-	"expansion": "dark-depths",
-	"material": "metal"
+	"material": "metal",
+	"type": "money-deed"
 }

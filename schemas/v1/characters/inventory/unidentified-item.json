@@ -1,22 +1,22 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/unidentified-item.json",
-	"title": "CharacterUnidentifiedItem",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/inventory/unidentified-item"
 		},
-		"image": {
-			"$ref": "/schemas/v1/items-images-id.gen.json"
+		"appraisal": {
+			"minimum": 0,
+			"type": "integer"
 		},
 		"expansion": {
 			"$ref": "/schemas/v1/expansions-id.gen.json"
 		},
-		"appraisal": {
-			"type": "integer",
-			"minimum": 0
+		"image": {
+			"$ref": "/schemas/v1/items-images-id.gen.json"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "image", "appraisal"]
+	"required": ["$type", "image", "appraisal"],
+	"title": "CharacterUnidentifiedItem",
+	"type": "object"
 }

@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "footman-sleeves",
 	"image": "2707",
-	"type": "arm-armour",
-	"armorType": "mail",
-	"material": "metal"
+	"material": "metal",
+	"type": "arm-armour"
 }

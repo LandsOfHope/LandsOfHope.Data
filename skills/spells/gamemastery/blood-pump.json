@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/blood-pump",
-	"requirements": {
-		"skill": 881,
-		"mana": 881
-	},
 	"duration": "PT150M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": 441
 		}
+	},
+	"id": "gamemastery/blood-pump",
+	"requirements": {
+		"mana": 881,
+		"skill": 881
 	}
 }

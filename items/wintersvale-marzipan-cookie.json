@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "wintersvale-marzipan-cookie",
 	"image": "6212",
-	"type": "food",
-	"armorType": "cloth",
-	"material": "hide"
+	"material": "hide",
+	"type": "food"
 }

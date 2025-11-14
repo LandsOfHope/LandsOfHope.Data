@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 2180
+	},
 	"id": "instruments/harmony-iii",
 	"requirements": {
 		"skill": 4352,
 		"stamina": 4352
-	},
-	"effects": {
-		"damage": 2180
 	}
 }

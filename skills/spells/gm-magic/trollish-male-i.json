@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/trollish-male-i",
-	"requirements": {
-		"skill": 58,
-		"mana": 58
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"attack-power": 30
 		}
+	},
+	"id": "gm-magic/trollish-male-i",
+	"requirements": {
+		"mana": 58,
+		"skill": 58
 	}
 }

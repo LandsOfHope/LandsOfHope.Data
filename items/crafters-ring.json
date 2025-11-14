@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "crafters-ring",
 	"image": "6907",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
-		"dungeon-mastery": 1,
 		"construction": 1,
+		"dungeon-mastery": 1,
 		"furnishing": 1
-	}
+	},
+	"type": "ring"
 }

@@ -1,26 +1,26 @@
 {
 	"$type": "/v1/profession",
-	"id": "ancient-manifestation",
-	"name": {
-		"en": "Ancient Manifestation"
-	},
 	"desc": {
 		"en": "An ancient warrior."
 	},
-	"skills": {
-		"daggers": 5,
-		"two-handed-axes": 5,
-		"two-handed-maces": 5,
-		"shields": 5,
-		"two-handed-shields": 5,
-		"dual-wielding": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "ancient-manifestation",
+	"name": {
+		"en": "Ancient Manifestation"
 	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 5,
 		"STRENGTH": 4
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"daggers": 5,
+		"dual-wielding": 5,
+		"shields": 5,
+		"two-handed-axes": 5,
+		"two-handed-maces": 5,
+		"two-handed-shields": 5
 	}
 }

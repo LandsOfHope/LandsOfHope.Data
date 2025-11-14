@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 140,
 	"id": "exquisite-destruction",
 	"image": "6630",
-	"type": "1-handed-equipment",
-	"dpr": 140,
 	"material": "metal",
-	"skill": "fists",
-	"skills": {
-		"attack-power": 1
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skill": "fists",
+	"skills": {
+		"attack-power": 1
+	},
+	"type": "1-handed-equipment"
 }

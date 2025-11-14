@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dragons-of-the-east",
 	"id": "sunstone-bag",
 	"image": "5868",
-	"type": "bag",
-	"expansion": "dragons-of-the-east",
 	"material": "hide",
 	"skills": {
-		"fire-resistance": 1,
-		"earth-resistance": 1
-	}
+		"earth-resistance": 1,
+		"fire-resistance": 1
+	},
+	"type": "bag"
 }

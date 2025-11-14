@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "defenders-glory",
 	"image": "zudegl",
-	"type": "ring",
 	"material": "gem",
-	"skill": "myzan-defenders",
 	"properties": {
 		"MAXSTAMINA": 1
-	}
+	},
+	"skill": "myzan-defenders",
+	"type": "ring"
 }

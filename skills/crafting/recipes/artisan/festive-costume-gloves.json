@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "artisan/festive-costume-gloves",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "festive-costume-gloves"
-	},
 	"image": "sgloves",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "artisan",
-	"skillValue": 700,
-	"quality": "uncommon",
 	"ingredients": [
 		{
 			"id": "thread",
-			"quantity": 8,
-			"primary": true
+			"primary": true,
+			"quantity": 8
 		},
 		{
 			"id": "cloth",
@@ -25,5 +16,14 @@
 			"id": "artisan-tool",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "festive-costume-gloves"
+	},
+	"quality": "uncommon",
+	"quantity": 1,
+	"skill": "artisan",
+	"skillValue": 700,
+	"time": "PT15S"
 }

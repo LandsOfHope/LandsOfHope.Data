@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/kylissa-cureall",
-	"requirements": {
-		"skill": 2556,
-		"mana": 2556
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "gorgon",
-			"profession": "healer"
+			"profession": "healer",
+			"race": "gorgon"
 		}
+	},
+	"id": "summoning/kylissa-cureall",
+	"requirements": {
+		"mana": 2556,
+		"skill": 2556
 	}
 }

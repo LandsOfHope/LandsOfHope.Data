@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/profession",
-	"id": "salvage-expert",
-	"name": {
-		"en": "Salvage Expert"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"furnishing": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "salvage-expert",
+	"name": {
+		"en": "Salvage Expert"
 	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"furnishing": 5
 	}
 }

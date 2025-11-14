@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 3,
 	"id": "mercenary-skullfist",
 	"image": "6661",
-	"type": "1-handed-equipment",
-	"dpr": 3,
 	"material": "metal",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "fists",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "1-handed-equipment"
 }

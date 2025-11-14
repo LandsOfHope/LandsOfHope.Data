@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "blacksmithing/splintmail-vest",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "splintmail-vest"
-	},
 	"image": "cv1",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "blacksmithing",
-	"skillValue": 2450,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 15,
-			"primary": true
+			"primary": true,
+			"quantity": 15
 		},
 		{
 			"id": "rivet",
@@ -25,5 +16,14 @@
 			"id": "lining",
 			"quantity": 5
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "splintmail-vest"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "blacksmithing",
+	"skillValue": 2450,
+	"time": "PT15S"
 }

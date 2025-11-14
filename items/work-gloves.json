@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "work-gloves",
 	"image": "awglv",
-	"type": "hand-armour",
 	"material": "cloth",
-	"skill": "artisan"
+	"skill": "artisan",
+	"type": "hand-armour"
 }

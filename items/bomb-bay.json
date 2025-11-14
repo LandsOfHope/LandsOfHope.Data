@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "bomb-bay",
 	"image": "bbk",
-	"type": "siege-weapon",
-	"dpr": 2,
 	"material": "wood",
 	"skill": "siege-weapons",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "siege-weapon"
 }

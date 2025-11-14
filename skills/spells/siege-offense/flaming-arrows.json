@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "siege-offense/flaming-arrows",
-	"requirements": {
-		"skill": 65,
-		"mana": 100
-	},
 	"effects": {
 		"damage": 50
+	},
+	"id": "siege-offense/flaming-arrows",
+	"requirements": {
+		"mana": 100,
+		"skill": 65
 	}
 }

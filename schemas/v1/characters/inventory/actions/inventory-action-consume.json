@@ -1,7 +1,6 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/actions/inventory-action-consume.json",
-	"title": "InventoryActionConsume",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/inventory/actions/inventory-action-consume"
@@ -11,5 +10,6 @@
 		}
 	},
 	"required": ["$type", "inventoryItemId"],
-	"additionalProperties": false
+	"title": "InventoryActionConsume",
+	"type": "object"
 }

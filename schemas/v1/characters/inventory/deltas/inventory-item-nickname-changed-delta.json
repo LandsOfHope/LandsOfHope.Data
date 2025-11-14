@@ -1,13 +1,8 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/deltas/inventory-item-nickname-changed-delta.json",
-	"title": "CharacterInventoryItemNicknameChangedDelta",
-	"type": "object",
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/inventory/deltas/inventory-item-nickname-changed-delta"
-		},
-		"old": {
-			"$ref": "/schemas/v1/characters/inventory/inventory-item-nickname.json"
 		},
 		"new": {
 			"oneOf": [
@@ -18,7 +13,12 @@
 					"type": "null"
 				}
 			]
+		},
+		"old": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-nickname.json"
 		}
 	},
-	"required": ["$type", "old", "new"]
+	"required": ["$type", "old", "new"],
+	"title": "CharacterInventoryItemNicknameChangedDelta",
+	"type": "object"
 }

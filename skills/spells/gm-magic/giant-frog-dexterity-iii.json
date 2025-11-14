@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/giant-frog-dexterity-iii",
-	"requirements": {
-		"skill": 694,
-		"mana": 694
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"DEXTERITY": 348
 		}
+	},
+	"id": "gm-magic/giant-frog-dexterity-iii",
+	"requirements": {
+		"mana": 694,
+		"skill": 694
 	}
 }

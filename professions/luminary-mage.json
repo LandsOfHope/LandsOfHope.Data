@@ -1,23 +1,23 @@
 {
 	"$type": "/v1/profession",
-	"id": "luminary-mage",
-	"name": {
-		"en": "Luminary Mage"
-	},
 	"desc": {
 		"en": "Master of the Lights and the Stars."
 	},
-	"skills": {
-		"mystical-magic": 5,
-		"mystical-resistance": 5,
-		"celestial-magic": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "luminary-mage",
+	"name": {
+		"en": "Luminary Mage"
 	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 3,
 		"MAXMANA": 4,
 		"SPEED": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"celestial-magic": 5,
+		"mystical-magic": 5,
+		"mystical-resistance": 5
 	}
 }

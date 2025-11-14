@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/maera-fleshburner",
-	"requirements": {
-		"skill": 2832,
-		"mana": 2832
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "human",
-			"profession": "fire-mage"
+			"profession": "fire-mage",
+			"race": "human"
 		}
+	},
+	"id": "summoning/maera-fleshburner",
+	"requirements": {
+		"mana": 2832,
+		"skill": 2832
 	}
 }

@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "league-chest",
 	"image": "1026",
-	"type": "starting-container",
 	"material": "wood",
-	"skill": "pirate-league"
+	"skill": "pirate-league",
+	"type": "starting-container"
 }

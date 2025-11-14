@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "siege-magic/foundation-decay-iv",
-	"requirements": {
-		"skill": 3200,
-		"mana": 1050
-	},
 	"effects": {
 		"damage": 1040
+	},
+	"id": "siege-magic/foundation-decay-iv",
+	"requirements": {
+		"mana": 1050,
+		"skill": 3200
 	}
 }

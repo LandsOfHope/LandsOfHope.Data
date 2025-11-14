@@ -1,31 +1,31 @@
 {
 	"$type": "/v1/profession",
-	"id": "majestic-fighter",
-	"name": {
-		"en": "Majestic Fighter"
-	},
 	"desc": {
 		"en": "Bought extra pet Fighter class."
 	},
-	"skills": {
-		"daggers": 5,
-		"swords": 5,
-		"axes": 5,
-		"two-handed-axes": 5,
-		"bows": 5,
-		"maces": 5,
-		"two-handed-maces": 5,
-		"shields": 5,
-		"two-handed-shields": 5,
-		"dual-wielding": 5,
-		"two-handed-swords": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "majestic-fighter",
+	"name": {
+		"en": "Majestic Fighter"
 	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 3,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"axes": 5,
+		"bows": 5,
+		"daggers": 5,
+		"dual-wielding": 5,
+		"maces": 5,
+		"shields": 5,
+		"swords": 5,
+		"two-handed-axes": 5,
+		"two-handed-maces": 5,
+		"two-handed-shields": 5,
+		"two-handed-swords": 5
 	}
 }

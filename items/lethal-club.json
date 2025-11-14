@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 62,
 	"id": "lethal-club",
 	"image": "cb",
-	"type": "1-handed-equipment",
-	"dpr": 62,
 	"material": "wood",
 	"skill": "maces",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

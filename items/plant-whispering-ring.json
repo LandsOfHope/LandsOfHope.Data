@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "plant-whispering-ring",
 	"image": "6937",
-	"type": "ring",
 	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1.5
+	},
 	"skills": {
 		"druid-magic": 1.5
 	},
-	"properties": {
-		"INTELLIGENCE": 1.5
-	}
+	"type": "ring"
 }

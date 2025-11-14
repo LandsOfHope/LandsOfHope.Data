@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 6,
 	"id": "spitting-flower-head",
 	"image": "na",
-	"type": "ranged-weapon",
-	"dpr": 6,
 	"material": "wood",
 	"skill": "two-handed-guns",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ranged-weapon"
 }

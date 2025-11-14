@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "victualers-boots",
 	"image": "bot",
-	"type": "foot-armour",
-	"armorType": "leather",
 	"material": "hide",
 	"skills": {
 		"furnishing": 1
-	}
+	},
+	"type": "foot-armour"
 }

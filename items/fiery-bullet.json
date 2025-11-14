@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 87,
 	"id": "fiery-bullet",
 	"image": "zufibu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 87,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

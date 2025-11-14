@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dark-depths",
 	"id": "ancient-fuchsia-key",
 	"image": "6469",
-	"type": "portal",
-	"expansion": "dark-depths",
-	"material": "metal"
+	"material": "metal",
+	"type": "portal"
 }

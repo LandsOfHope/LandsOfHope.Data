@@ -1,26 +1,26 @@
 {
 	"$type": "/v0/characters/character-enhancement",
-	"max": 60,
 	"levels": {
 		"5": {
-			"value": 5,
-			"hc": 1
+			"hc": 1,
+			"value": 5
 		},
 		"10": {
-			"value": 10,
-			"hc": 2
+			"hc": 2,
+			"value": 10
 		},
 		"25": {
-			"value": 25,
-			"hc": 5
+			"hc": 5,
+			"value": 25
 		},
 		"50": {
-			"value": 50,
-			"hc": 10
+			"hc": 10,
+			"value": 50
 		},
 		"60": {
-			"value": 60,
-			"hc": 12
+			"hc": 12,
+			"value": 60
 		}
-	}
+	},
+	"max": 60
 }

@@ -1,62 +1,61 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/skills/crafting/recipe.json",
-	"title": "SkillsCraftingRecipe",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/skills/crafting/recipe"
 		},
+		"failureChance": {
+			"$ref": "/schemas/v1/random-chance.json"
+		},
 		"id": {
 			"$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
-		},
-		"makes": {
-			"$ref": "/schemas/v1/skills/crafting/recipe-product.json"
 		},
 		"image": {
 			"$ref": "/schemas/v1/items-images-id.gen.json"
 		},
-		"time": {
-			"$ref": "/schemas/v0/duration.json"
+		"ingredients": {
+			"items": {
+				"additionalProperties": false,
+				"properties": {
+					"id": {
+						"$ref": "/schemas/v1/items-id.gen.json"
+					},
+					"primary": {
+						"const": true
+					},
+					"quantity": {
+						"minimum": 0,
+						"type": "integer"
+					}
+				},
+				"required": ["id", "quantity"],
+				"type": "object"
+			},
+			"type": "array"
+		},
+		"makes": {
+			"$ref": "/schemas/v1/skills/crafting/recipe-product.json"
+		},
+		"quality": {
+			"$ref": "/schemas/v1/items/item-quality.json"
 		},
 		"quantity": {
-			"type": "integer",
-			"minimum": 1
+			"minimum": 1,
+			"type": "integer"
+		},
+		"singleUse": {
+			"const": true
 		},
 		"skill": {
 			"$ref": "/schemas/v1/skills-id.gen.json"
 		},
 		"skillValue": {
-			"type": "integer",
-			"minimum": 1
+			"minimum": 1,
+			"type": "integer"
 		},
-		"quality": {
-			"$ref": "/schemas/v1/items/item-quality.json"
-		},
-		"singleUse": {
-			"const": true
-		},
-		"failureChance": {
-			"$ref": "/schemas/v1/random-chance.json"
-		},
-		"ingredients": {
-			"type": "array",
-			"items": {
-				"type": "object",
-				"properties": {
-					"id": {
-						"$ref": "/schemas/v1/items-id.gen.json"
-					},
-					"quantity": {
-						"type": "integer",
-						"minimum": 0
-					},
-					"primary": {
-						"const": true
-					}
-				},
-				"required": ["id", "quantity"],
-				"additionalProperties": false
-			}
+		"time": {
+			"$ref": "/schemas/v0/duration.json"
 		}
 	},
 	"required": [
@@ -71,5 +70,6 @@
 		"quality",
 		"ingredients"
 	],
-	"additionalProperties": false
+	"title": "SkillsCraftingRecipe",
+	"type": "object"
 }

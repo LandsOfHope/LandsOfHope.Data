@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 74,
 	"id": "stormy-bullet",
 	"image": "zustbu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 74,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

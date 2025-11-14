@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "joined-leggings",
 	"image": "cls",
-	"type": "leg-armour",
-	"armorType": "mail",
 	"material": "metal",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "leg-armour"
 }

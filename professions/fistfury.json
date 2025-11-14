@@ -1,20 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "fistfury",
-	"name": {
-		"en": "Fistfury"
-	},
 	"desc": {
 		"en": "Close Combateers rely on there fast reflexes, keen eye and advanced melee skills to pound there enemies into dust. Close Combat fighters rarely use weapons and when they do they are normally very light and small."
 	},
-	"skills": {
-		"mystical-resistance": 5,
-		"stealth": 5,
-		"fists": 5,
-		"shields": 5,
-		"protection": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "fistfury",
+	"name": {
+		"en": "Fistfury"
 	},
 	"properties": {
 		"DEXTERITY": 3,
@@ -22,5 +13,14 @@
 		"MAXSTAMINA": 3,
 		"SPEED": 3,
 		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fists": 5,
+		"mystical-resistance": 5,
+		"protection": 5,
+		"shields": 5,
+		"stealth": 5
 	}
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 52,
 	"id": "bloody-tower-shield",
 	"image": "sd8",
-	"type": "2-handed-equipment",
-	"dpr": 52,
 	"material": "metal",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skill": "two-handed-shields",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "2-handed-equipment"
 }

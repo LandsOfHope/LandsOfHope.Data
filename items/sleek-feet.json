@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "sleek-feet",
 	"image": "189",
-	"type": "foot-armour",
 	"material": "hide",
+	"properties": {
+		"SPEED": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "foot-armour"
 }

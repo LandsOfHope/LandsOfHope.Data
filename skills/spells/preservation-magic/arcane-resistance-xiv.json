@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "preservation-magic/arcane-resistance-xiv",
-	"requirements": {
-		"skill": 4481,
-		"mana": 4481
-	},
 	"duration": "PT75M",
 	"effects": {
 		"skills": {
 			"arcane-resistance": 451
 		}
+	},
+	"id": "preservation-magic/arcane-resistance-xiv",
+	"requirements": {
+		"mana": 4481,
+		"skill": 4481
 	}
 }

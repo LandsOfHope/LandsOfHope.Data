@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "augmenting/stocky-augment",
+	"image": "6821",
+	"ingredients": [
+		{
+			"id": "gem",
+			"primary": true,
+			"quantity": 3
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-item",
 		"item": "stocky-augment"
 	},
-	"image": "6821",
-	"time": "PT15S",
+	"quality": "common",
 	"quantity": 1,
 	"skill": "augmenting",
 	"skillValue": 50,
-	"quality": "common",
-	"ingredients": [
-		{
-			"id": "gem",
-			"quantity": 3,
-			"primary": true
-		}
-	]
+	"time": "PT15S"
 }

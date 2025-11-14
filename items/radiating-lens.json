@@ -2,14 +2,14 @@
 	"$type": "/v1/item",
 	"id": "radiating-lens",
 	"image": "torale",
-	"type": "glasses-shades",
 	"material": "gem",
-	"skills": {
-		"cold-resistance": 1,
-		"acid-resistance": 1,
-		"earth-resistance": 1
-	},
 	"properties": {
 		"MAXMANA": 1
-	}
+	},
+	"skills": {
+		"acid-resistance": 1,
+		"cold-resistance": 1,
+		"earth-resistance": 1
+	},
+	"type": "glasses-shades"
 }

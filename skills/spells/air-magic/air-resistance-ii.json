@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "air-magic/air-resistance-ii",
-	"requirements": {
-		"skill": 341,
-		"mana": 341
-	},
 	"duration": "PT300M",
 	"effects": {
 		"skills": {
 			"air-resistance": 171
 		}
+	},
+	"id": "air-magic/air-resistance-ii",
+	"requirements": {
+		"mana": 341,
+		"skill": 341
 	}
 }

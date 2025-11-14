@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Gargoyle"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Gargoyle"
+	},
 	"pics": {
-		"M": ["mjpgargm"],
-		"F": ["mjpgargf"]
+		"F": ["mjpgargf"],
+		"M": ["mjpgargm"]
 	}
 }

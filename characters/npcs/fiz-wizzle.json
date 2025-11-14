@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "fiz-wizzle"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Fiz Wizzle",
-		"title": "inventor",
 		"image": "mjpmgo",
 		"level": {
 			"primary": 200
 		},
+		"name": "Fiz Wizzle",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "inventor"
 	}
 }

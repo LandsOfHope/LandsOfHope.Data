@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "webbed-hat",
 	"image": "2086",
-	"type": "head-armour",
-	"armorType": "cloth",
 	"material": "spider",
 	"properties": {
 		"MAXMANA": 1
-	}
+	},
+	"type": "head-armour"
 }

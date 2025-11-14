@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
-	"id": "guild-trophy-collector",
-	"name": {
-		"en": "Guild Trophy Collector"
-	},
 	"desc": {
 		"en": "This vendor can be used to unlock special Guild Items."
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "guild-trophy-collector",
+	"name": {
+		"en": "Guild Trophy Collector"
 	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 5
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

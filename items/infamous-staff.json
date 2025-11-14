@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 82,
 	"id": "infamous-staff",
 	"image": "st1",
-	"type": "1-handed-equipment",
-	"dpr": 82,
 	"material": "wood",
 	"skill": "staves",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

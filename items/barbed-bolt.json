@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 9,
 	"id": "barbed-bolt",
 	"image": "bbb",
-	"type": "ammo-weapons-crossbows",
-	"dpr": 9,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-crossbows"
 }

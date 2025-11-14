@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "stonemasonry/wand",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "wand"
-	},
 	"image": "wand14",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "stonemasonry",
-	"skillValue": 550,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "gem",
-			"quantity": 2,
-			"primary": true
+			"primary": true,
+			"quantity": 2
 		},
 		{
 			"id": "stone-block",
@@ -25,5 +16,14 @@
 			"id": "masons-tools",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "wand"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "stonemasonry",
+	"skillValue": 550,
+	"time": "PT15S"
 }

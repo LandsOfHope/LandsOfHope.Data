@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "trackers-bag",
 	"image": "6048",
-	"type": "special-bag",
 	"material": "cloth",
 	"skills": {
+		"track-beasts": 1,
 		"track-humanoids": 1,
-		"track-undead": 1,
 		"track-items": 1,
-		"track-beasts": 1
-	}
+		"track-undead": 1
+	},
+	"type": "special-bag"
 }

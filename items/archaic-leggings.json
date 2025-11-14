@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "archaic-leggings",
 	"image": "fe5vole",
-	"type": "leg-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skill": "archaeology",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "leg-armour"
 }

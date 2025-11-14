@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "blank-stitched-face",
 	"image": "6854",
-	"type": "head-armour",
-	"set": "inventor-stitched-set",
 	"material": "hide",
-	"skill": "blood-over-beauty",
 	"properties": {
 		"MAXSTAMINA": 0.75
-	}
+	},
+	"set": "inventor-stitched-set",
+	"skill": "blood-over-beauty",
+	"type": "head-armour"
 }

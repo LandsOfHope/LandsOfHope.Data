@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "blighted-shroud",
 	"image": "bls",
-	"type": "chest-armour",
-	"armorType": "cloth",
 	"material": "cloth",
 	"skills": {
 		"mystical-resistance": 1,
 		"necromancy": 1
-	}
+	},
+	"type": "chest-armour"
 }

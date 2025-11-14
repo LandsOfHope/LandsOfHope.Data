@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "dark-magic/darkness-i",
-	"requirements": {
-		"skill": 560,
-		"mana": 560
-	},
 	"effects": {
 		"damage": 407
+	},
+	"id": "dark-magic/darkness-i",
+	"requirements": {
+		"mana": 560,
+		"skill": 560
 	}
 }

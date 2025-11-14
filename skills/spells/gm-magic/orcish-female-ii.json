@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/orcish-female-ii",
-	"requirements": {
-		"skill": 226,
-		"mana": 226
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"MAXSTAMINA": 114
 		}
+	},
+	"id": "gm-magic/orcish-female-ii",
+	"requirements": {
+		"mana": 226,
+		"skill": 226
 	}
 }

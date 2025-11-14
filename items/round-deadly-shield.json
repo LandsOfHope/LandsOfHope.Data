@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 72,
 	"id": "round-deadly-shield",
 	"image": "sd6",
-	"type": "1-handed-equipment",
-	"dpr": 72,
 	"material": "wood",
 	"skill": "shields",
 	"skills": {
-		"nature-resistance": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"nature-resistance": 1
+	},
+	"type": "1-handed-equipment"
 }

@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "vale-sash-of-honor",
 	"image": "4971",
-	"type": "stomach",
 	"material": "hide",
-	"skills": {
-		"track-undead": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"skills": {
+		"track-undead": 1
+	},
+	"type": "stomach"
 }

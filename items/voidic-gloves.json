@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "voidic-gloves",
 	"image": "gmvogl",
-	"type": "hand-armour",
-	"armorType": "plate",
 	"material": "metal",
 	"skills": {
-		"bladed-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"bladed-defense": 1
+	},
+	"type": "hand-armour"
 }

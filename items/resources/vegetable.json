@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/items/resource",
-	"id": "vegetable",
-	"skill": "foraging",
-	"tools": ["hoe", "ingleberts-weeding-trowel"],
-	"items": ["vegetable"],
 	"bonuses": {
 		"fiber": {
 			"$type": "/v1/random-chance",
-			"numer": 6,
-			"denom": 100
+			"denom": 100,
+			"numer": 6
 		}
 	},
+	"id": "vegetable",
+	"image": "vg1",
+	"items": ["vegetable"],
 	"material": "vegetable",
-	"image": "vg1"
+	"skill": "foraging",
+	"tools": ["hoe", "ingleberts-weeding-trowel"]
 }

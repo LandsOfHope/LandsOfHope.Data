@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/temptress-v",
-	"requirements": {
-		"skill": 886,
-		"mana": 886
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 444
 		}
+	},
+	"id": "gm-magic/temptress-v",
+	"requirements": {
+		"mana": 886,
+		"skill": 886
 	}
 }

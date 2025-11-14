@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1204
+	},
 	"id": "two-handed-maces/enhanced-bone-shatter-iv",
 	"requirements": {
 		"skill": 2401,
 		"stamina": 2400
-	},
-	"effects": {
-		"damage": 1204
 	}
 }

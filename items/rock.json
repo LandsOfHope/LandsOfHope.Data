@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 3,
 	"id": "rock",
 	"image": "rck",
-	"type": "1-handed-equipment",
-	"dpr": 3,
 	"material": "stone",
 	"skill": "thrown-weapons",
 	"skills": {
-		"thrown-weapons": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"thrown-weapons": 1
+	},
+	"type": "1-handed-equipment"
 }

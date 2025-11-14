@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "blank-bolted-arms",
 	"image": "6827",
-	"type": "arm-armour",
-	"set": "inventor-bolted-set",
 	"material": "metal",
+	"set": "inventor-bolted-set",
 	"skill": "bolts-over-brains",
 	"skills": {
 		"armor": 0.5
-	}
+	},
+	"type": "arm-armour"
 }

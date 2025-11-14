@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "glass-of-port",
 	"image": "5487",
-	"type": "food",
-	"expansion": "uncharted-waters",
 	"material": "wood",
 	"properties": {
 		"HITPOINTS": 1,
 		"STAMINA": 1
-	}
+	},
+	"type": "food"
 }

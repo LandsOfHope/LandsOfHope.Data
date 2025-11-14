@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "ladybird-leggings",
-	"image": "5170",
-	"type": "leg-armour",
 	"armorType": "plate",
 	"expansion": "jurassic-wars",
+	"id": "ladybird-leggings",
+	"image": "5170",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "leg-armour"
 }

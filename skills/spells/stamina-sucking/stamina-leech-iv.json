@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "stamina-sucking/stamina-leech-iv",
-	"requirements": {
-		"skill": 3529,
-		"mana": 3529
-	},
 	"duration": "PT25M",
 	"effects": {
 		"damage": 109,
 		"properties": {
 			"STAMINA": -1759
 		}
+	},
+	"id": "stamina-sucking/stamina-leech-iv",
+	"requirements": {
+		"mana": 3529,
+		"skill": 3529
 	}
 }

@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Duergar"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Duergar"
+	},
 	"pics": {
-		"M": ["ddm"],
-		"F": ["ddf"]
+		"F": ["ddf"],
+		"M": ["ddm"]
 	}
 }

@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "seamanship/extra-tar-coat",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-vessel-item",
-		"item": "extra-tar-coat"
-	},
 	"image": "lsf",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "seamanship",
-	"skillValue": 800,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ships-hook",
@@ -18,8 +9,17 @@
 		},
 		{
 			"id": "weathered-tar-barrel",
-			"quantity": 10,
-			"primary": true
+			"primary": true,
+			"quantity": 10
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-vessel-item",
+		"item": "extra-tar-coat"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "seamanship",
+	"skillValue": 800,
+	"time": "PT15S"
 }

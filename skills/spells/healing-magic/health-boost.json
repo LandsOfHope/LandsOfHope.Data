@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "healing-magic/health-boost",
-	"requirements": {
-		"skill": 4257,
-		"mana": 4257
-	},
 	"duration": "PT640M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": 381
 		}
+	},
+	"id": "healing-magic/health-boost",
+	"requirements": {
+		"mana": 4257,
+		"skill": 4257
 	}
 }

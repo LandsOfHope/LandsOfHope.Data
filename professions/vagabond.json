@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "vagabond",
-	"name": {
-		"en": "Vagabond"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"first-aid": 5,
-		"daggers": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "vagabond",
+	"name": {
+		"en": "Vagabond"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -19,5 +13,11 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 1,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"daggers": 5,
+		"first-aid": 5
 	}
 }

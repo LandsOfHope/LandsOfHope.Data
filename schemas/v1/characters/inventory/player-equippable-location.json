@@ -1,6 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/player-equippable-location.json",
-	"title": "PlayerEquippableLocation",
 	"allOf": [
 		{
 			"oneOf": [
@@ -45,5 +44,6 @@
 		{
 			"$ref": "/schemas/v1/items-locations-id.gen.json"
 		}
-	]
+	],
+	"title": "PlayerEquippableLocation"
 }

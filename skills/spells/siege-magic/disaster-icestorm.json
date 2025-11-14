@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "siege-magic/disaster-icestorm",
-	"requirements": {
-		"skill": 1200,
-		"mana": 170
-	},
 	"effects": {
 		"damage": 280
+	},
+	"id": "siege-magic/disaster-icestorm",
+	"requirements": {
+		"mana": 170,
+		"skill": 1200
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 92,
 	"id": "rippling-bullet",
 	"image": "zuribu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 92,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

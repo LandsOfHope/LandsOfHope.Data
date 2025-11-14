@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "tongs",
 	"image": "ts1",
-	"type": "1-handed-equipment",
-	"dpr": 2,
 	"material": "metal",
 	"skill": "geology",
 	"skills": {
 		"geology": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

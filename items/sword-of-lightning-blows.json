@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 11,
 	"id": "sword-of-lightning-blows",
 	"image": "zuswlibl",
-	"type": "1-handed-equipment",
-	"dpr": 11,
 	"material": "metal",
+	"properties": {
+		"DEXTERITY": 1,
+		"SPEED": 1
+	},
 	"skill": "swords",
 	"skills": {
 		"swords": 1
 	},
-	"properties": {
-		"DEXTERITY": 1,
-		"SPEED": 1
-	}
+	"type": "1-handed-equipment"
 }

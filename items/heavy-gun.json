@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 80,
 	"id": "heavy-gun",
 	"image": "4635",
-	"type": "ranged-weapon",
-	"dpr": 80,
 	"material": "metal",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skill": "heavy-munitions",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "ranged-weapon"
 }

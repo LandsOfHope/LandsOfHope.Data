@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "crown-of-blood",
 	"image": "zucrbl",
-	"type": "forehead",
-	"armorType": "cloth",
-	"set": "dark-hollow-clan",
 	"material": "metal",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXSTAMINA": 1
+	},
+	"set": "dark-hollow-clan",
 	"skill": "dark-hollow-clan",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1,
-		"MAXSTAMINA": 1
-	}
+	"type": "forehead"
 }

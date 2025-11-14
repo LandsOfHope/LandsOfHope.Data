@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "aura-of-the-smart",
 	"image": "6692",
-	"type": "aura",
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"type": "aura"
 }

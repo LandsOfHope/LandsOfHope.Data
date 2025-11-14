@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "beastmastery/tamers-heart-viii",
-	"requirements": {
-		"skill": 3080,
-		"mana": 2200
-	},
 	"duration": "PT25M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": 286
 		}
+	},
+	"id": "beastmastery/tamers-heart-viii",
+	"requirements": {
+		"mana": 2200,
+		"skill": 3080
 	}
 }

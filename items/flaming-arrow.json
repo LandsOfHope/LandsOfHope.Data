@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 3,
 	"id": "flaming-arrow",
 	"image": "arrf",
-	"type": "ammo-weapons-bows",
-	"dpr": 3,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bows"
 }

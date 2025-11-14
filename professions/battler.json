@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "battler",
-	"name": {
-		"en": "Battler"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"swords": 5,
-		"shields": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "battler",
+	"name": {
+		"en": "Battler"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -19,5 +13,11 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 1,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"shields": 5,
+		"swords": 5
 	}
 }

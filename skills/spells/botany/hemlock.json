@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "botany/hemlock",
-	"requirements": {
-		"skill": 3880,
-		"mana": 776
-	},
 	"duration": "PT50M",
 	"effects": {
 		"summon-item": {
 			"item": "hemlock"
 		}
+	},
+	"id": "botany/hemlock",
+	"requirements": {
+		"mana": 776,
+		"skill": 3880
 	}
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "loopmail-coif",
 	"image": "ccs",
-	"type": "head-armour",
-	"armorType": "mail",
 	"material": "metal",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "head-armour"
 }

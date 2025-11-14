@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "energy-magic/shocking-touch-ix",
-	"requirements": {
-		"skill": 409,
-		"mana": 409
-	},
 	"duration": "PT2M",
 	"effects": {
 		"damage": 301
+	},
+	"id": "energy-magic/shocking-touch-ix",
+	"requirements": {
+		"mana": 409,
+		"skill": 409
 	}
 }

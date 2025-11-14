@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/creature-iii",
-	"requirements": {
-		"skill": 412,
-		"mana": 412
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": 207
 		}
+	},
+	"id": "gm-magic/creature-iii",
+	"requirements": {
+		"mana": 412,
+		"skill": 412
 	}
 }

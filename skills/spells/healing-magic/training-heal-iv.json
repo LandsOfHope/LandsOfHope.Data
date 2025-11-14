@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "healing-magic/training-heal-iv",
-	"requirements": {
-		"skill": 289,
-		"mana": 289
-	},
 	"effects": {
 		"heal": 204
+	},
+	"id": "healing-magic/training-heal-iv",
+	"requirements": {
+		"mana": 289,
+		"skill": 289
 	}
 }

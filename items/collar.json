@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "collar",
 	"image": "car",
-	"type": "neck",
-	"armorType": "leather",
 	"material": "hide",
 	"skills": {
-		"exploration": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"exploration": 1
+	},
+	"type": "neck"
 }

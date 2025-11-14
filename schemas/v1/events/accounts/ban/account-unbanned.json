@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/accounts/ban/account-unbanned.json",
-	"title": "AccountUnbannedEvent",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -10,15 +8,17 @@
 		"account": {
 			"$ref": "/schemas/v1/accounts/account.json"
 		},
+		"reason": {
+			"type": "string"
+		},
 		"type": {
 			"$ref": "/schemas/v1/accounts/ban/account-ban-type.json"
 		},
 		"unbannedBy": {
 			"$ref": "/schemas/v1/accounts/account-id.json"
-		},
-		"reason": {
-			"type": "string"
 		}
 	},
-	"required": ["$type", "account", "type", "unbannedBy", "reason"]
+	"required": ["$type", "account", "type", "unbannedBy", "reason"],
+	"title": "AccountUnbannedEvent",
+	"type": "object"
 }

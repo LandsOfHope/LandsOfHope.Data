@@ -2,15 +2,15 @@
 	"$type": "/v1/item",
 	"id": "fallen-angel-wings",
 	"image": "6682",
-	"type": "wings",
 	"material": "hide",
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"STRENGTH": 1
+	},
 	"skill": "spoils-of-war",
 	"skills": {
 		"air-survival": 1,
 		"armor": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1,
-		"STRENGTH": 1
-	}
+	"type": "wings"
 }

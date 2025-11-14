@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "beastmastery/beast-possession",
-	"requirements": {
-		"skill": 5000,
-		"mana": 1
-	},
 	"effects": {
 		"posess": {
 			"class": "beast"
 		}
+	},
+	"id": "beastmastery/beast-possession",
+	"requirements": {
+		"mana": 1,
+		"skill": 5000
 	}
 }

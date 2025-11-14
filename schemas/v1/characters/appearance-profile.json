@@ -1,13 +1,33 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/appearance-profile.json",
-	"title": "AppearanceProfile",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/appearance-profile"
 		},
+		"allegiance": {
+			"$ref": "/schemas/v1/allegiances-id.gen.json"
+		},
+		"image": {
+			"$ref": "/schemas/v1/characters-images-id.gen.json"
+		},
+		"level": {
+			"$ref": "/schemas/v1/characters/character-level.json"
+		},
+		"mount": {
+			"$ref": "/schemas/v1/characters/appearance-profile.json"
+		},
 		"name": {
 			"$ref": "/schemas/v1/characters/character-name.json"
+		},
+		"possessor": {
+			"$ref": "/schemas/v1/characters/appearance-profile.json"
+		},
+		"sex": {
+			"$ref": "/schemas/v0/characters/character-sex.json"
+		},
+		"status": {
+			"$ref": "/schemas/v1/characters/character-status.json"
 		},
 		"title": {
 			"oneOf": [
@@ -18,29 +38,9 @@
 					"$ref": "/schemas/v1/professions-id.gen.json"
 				}
 			]
-		},
-		"image": {
-			"$ref": "/schemas/v1/characters-images-id.gen.json"
-		},
-		"level": {
-			"$ref": "/schemas/v1/characters/character-level.json"
-		},
-		"sex": {
-			"$ref": "/schemas/v0/characters/character-sex.json"
-		},
-		"status": {
-			"$ref": "/schemas/v1/characters/character-status.json"
-		},
-		"mount": {
-			"$ref": "/schemas/v1/characters/appearance-profile.json"
-		},
-		"possessor": {
-			"$ref": "/schemas/v1/characters/appearance-profile.json"
-		},
-		"allegiance": {
-			"$ref": "/schemas/v1/allegiances-id.gen.json"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "name", "title", "image", "level", "sex"]
+	"required": ["$type", "name", "title", "image", "level", "sex"],
+	"title": "AppearanceProfile",
+	"type": "object"
 }

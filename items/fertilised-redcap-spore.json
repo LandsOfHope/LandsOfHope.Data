@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "fertilised-redcap-spore",
 	"image": "zuseed",
-	"type": "monster-spawner",
-	"material": "wood"
+	"material": "wood",
+	"type": "monster-spawner"
 }

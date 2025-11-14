@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/failing-parasite",
-	"requirements": {
-		"skill": 745,
-		"mana": 745
-	},
 	"duration": "PT10M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"attack-power": -371
 		}
+	},
+	"id": "gamemastery/failing-parasite",
+	"requirements": {
+		"mana": 745,
+		"skill": 745
 	}
 }

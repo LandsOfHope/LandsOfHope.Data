@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "vault",
 	"image": "bv1",
-	"type": "bank-vault",
-	"material": "metal"
+	"material": "metal",
+	"type": "bank-vault"
 }

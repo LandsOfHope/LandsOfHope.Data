@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/deer-speed-ii",
-	"requirements": {
-		"skill": 449,
-		"mana": 449
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"SPEED": 170
 		}
+	},
+	"id": "gm-magic/deer-speed-ii",
+	"requirements": {
+		"mana": 449,
+		"skill": 449
 	}
 }

@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Spook"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Spook"
+	},
 	"pics": {
-		"M": ["mpgham"],
-		"F": ["mpghaf"]
+		"F": ["mpghaf"],
+		"M": ["mpgham"]
 	}
 }

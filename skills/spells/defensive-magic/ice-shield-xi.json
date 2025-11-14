@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "defensive-magic/ice-shield-xi",
-	"requirements": {
-		"skill": 491,
-		"mana": 491
-	},
 	"duration": "PT605M",
 	"effects": {
 		"skills": {
 			"cold-resistance": 260
 		}
+	},
+	"id": "defensive-magic/ice-shield-xi",
+	"requirements": {
+		"mana": 491,
+		"skill": 491
 	}
 }

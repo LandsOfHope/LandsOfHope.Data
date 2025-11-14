@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/weak-ice-tonic",
-	"requirements": {
-		"skill": 3000,
-		"mana": 400
-	},
 	"duration": "PT80M",
 	"effects": {
 		"skills": {
 			"cold-resistance": 80
 		}
+	},
+	"id": "gm-magic/weak-ice-tonic",
+	"requirements": {
+		"mana": 400,
+		"skill": 3000
 	}
 }

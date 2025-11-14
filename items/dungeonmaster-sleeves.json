@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "dungeonmaster-sleeves",
 	"image": "cvs",
-	"type": "arm-armour",
-	"armorType": "plate",
 	"material": "metal",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "arm-armour"
 }

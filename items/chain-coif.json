@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "chain-coif",
 	"image": "ccs",
-	"type": "head-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skills": {
-		"bludgeon-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"bludgeon-defense": 1
+	},
+	"type": "head-armour"
 }

@@ -1,13 +1,9 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/skills/crafting/recipe-product-bejewel.json",
-	"title": "RecipeProductBejewel",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/skills/crafting/recipe-product-bejewel"
-		},
-		"item": {
-			"$ref": "/schemas/v1/items-id.gen.json"
 		},
 		"bejewel": {
 			"oneOf": [
@@ -18,8 +14,12 @@
 					"$ref": "/schemas/v1/items/enhancements/item-bejewel.json"
 				}
 			]
+		},
+		"item": {
+			"$ref": "/schemas/v1/items-id.gen.json"
 		}
 	},
-	"additionalProperties": false,
-	"required": ["$type", "item"]
+	"required": ["$type", "item"],
+	"title": "RecipeProductBejewel",
+	"type": "object"
 }

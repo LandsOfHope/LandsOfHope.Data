@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 94,
 	"id": "short-godly-bow",
 	"image": "bw",
-	"type": "ranged-weapon",
-	"dpr": 94,
 	"material": "wood",
 	"skill": "bows",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ranged-weapon"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 81,
 	"id": "drenching-bullet",
 	"image": "zudrbu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 81,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

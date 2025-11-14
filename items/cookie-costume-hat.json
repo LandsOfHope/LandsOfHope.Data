@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "cookie-costume-hat",
 	"image": "cmhat",
-	"type": "head-armour",
-	"set": "cookie-costume",
 	"material": "hide",
+	"set": "cookie-costume",
 	"skill": "artisan",
 	"skills": {
 		"cooking": 1
-	}
+	},
+	"type": "head-armour"
 }

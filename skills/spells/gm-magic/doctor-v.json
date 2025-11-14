@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/doctor-v",
-	"requirements": {
-		"skill": 946,
-		"mana": 946
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"skills": {
 			"first-aid": 474
 		}
+	},
+	"id": "gm-magic/doctor-v",
+	"requirements": {
+		"mana": 946,
+		"skill": 946
 	}
 }

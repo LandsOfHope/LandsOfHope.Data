@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/payments/stripe/credits/credit-purchase-completed-event.json",
-	"title": "StripeCreditPurchaseCompletedEvent",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -10,16 +8,18 @@
 		"account": {
 			"$ref": "/schemas/v1/accounts/account-id.json"
 		},
+		"credits": {
+			"minimum": 1,
+			"type": "integer"
+		},
 		"secret": {
 			"$ref": "/schemas/v1/accounts/account-secret.json"
-		},
-		"credits": {
-			"type": "integer",
-			"minimum": 1
 		},
 		"stripeCheckoutId": {
 			"type": "string"
 		}
 	},
-	"required": ["$type", "account", "secret", "credits", "stripeCheckoutId"]
+	"required": ["$type", "account", "secret", "credits", "stripeCheckoutId"],
+	"title": "StripeCreditPurchaseCompletedEvent",
+	"type": "object"
 }

@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Sunstone Dragon"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Sunstone Dragon"
+	},
 	"pics": {
-		"M": ["susdragonm"],
-		"F": ["susdragonf"]
+		"F": ["susdragonf"],
+		"M": ["susdragonm"]
 	}
 }

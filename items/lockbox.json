@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "lockbox",
 	"image": "bx5",
-	"type": "bank-vault",
-	"material": "wood"
+	"material": "wood",
+	"type": "bank-vault"
 }

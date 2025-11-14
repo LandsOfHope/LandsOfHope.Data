@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/little-helper",
-	"requirements": {
-		"skill": 1,
-		"mana": 1
-	},
 	"effects": {
 		"raceid2": 349
+	},
+	"id": "gamemastery/little-helper",
+	"requirements": {
+		"mana": 1,
+		"skill": 1
 	}
 }

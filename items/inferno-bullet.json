@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 93,
 	"id": "inferno-bullet",
 	"image": "zuinbu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 93,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

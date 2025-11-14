@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "dark-star",
 	"image": "zudast",
-	"type": "2-handed-equipment",
-	"dpr": 2,
 	"material": "gem",
+	"properties": {
+		"MAXMANA": 1
+	},
 	"skills": {
 		"attack-power": 1,
 		"dark-magic": 1
 	},
-	"properties": {
-		"MAXMANA": 1
-	}
+	"type": "2-handed-equipment"
 }

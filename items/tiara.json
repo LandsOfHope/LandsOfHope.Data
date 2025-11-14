@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "tiara",
 	"image": "zutiia",
-	"type": "head-armour",
-	"armorType": "cloth",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "head-armour"
 }

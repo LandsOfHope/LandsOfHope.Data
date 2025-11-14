@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/items/enhancements/item-name",
-	"id": "names/the-paladin",
 	"effects": {
-		"skills": {
-			"track-undead": 0.4,
-			"protection": 0.4
-		},
 		"properties": {
 			"MAXSTAMINA": 0.4
+		},
+		"skills": {
+			"protection": 0.4,
+			"track-undead": 0.4
 		}
-	}
+	},
+	"id": "names/the-paladin"
 }

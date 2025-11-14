@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 3201
+	},
 	"id": "shadow-strike/final-beckon-the-reaper",
 	"requirements": {
 		"skill": 5000,
 		"stamina": 5001
-	},
-	"effects": {
-		"damage": 3201
 	}
 }

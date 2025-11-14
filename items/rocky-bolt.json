@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 69,
 	"id": "rocky-bolt",
 	"image": "arr1",
-	"type": "ammo-weapons-crossbows",
-	"dpr": 69,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-crossbows"
 }

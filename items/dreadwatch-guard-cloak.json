@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "dreadwatch-guard-cloak",
 	"image": "4983",
-	"type": "neck-clothing",
 	"material": "hide",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skills": {
+		"armor": 1
+	},
+	"type": "neck-clothing"
 }

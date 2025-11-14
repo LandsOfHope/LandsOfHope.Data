@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "footman-shoulder-pads",
 	"image": "2751",
-	"type": "shoulders",
-	"armorType": "mail",
-	"material": "metal"
+	"material": "metal",
+	"type": "shoulders"
 }

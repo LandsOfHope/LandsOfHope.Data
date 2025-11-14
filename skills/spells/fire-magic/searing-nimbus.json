@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "fire-magic/searing-nimbus",
-	"requirements": {
-		"skill": 2801,
-		"mana": 2801
-	},
 	"effects": {
 		"damage": 1975
+	},
+	"id": "fire-magic/searing-nimbus",
+	"requirements": {
+		"mana": 2801,
+		"skill": 2801
 	}
 }

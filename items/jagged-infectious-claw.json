@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"dpr": 4,
 	"id": "jagged-infectious-claw",
 	"image": "cuh",
-	"type": "1-handed-equipment",
-	"dpr": 4,
 	"material": "metal",
 	"skill": "fists",
 	"skills": {
-		"poison-magic": 1,
+		"attack-power": 1,
 		"fists": 1,
-		"attack-power": 1
-	}
+		"poison-magic": 1
+	},
+	"type": "1-handed-equipment"
 }

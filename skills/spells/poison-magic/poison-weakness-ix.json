@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "poison-magic/poison-weakness-ix",
-	"requirements": {
-		"skill": 668,
-		"mana": 668
-	},
 	"duration": "PT10M",
 	"effects": {
 		"skills": {
 			"poison-resistance": -222
 		}
+	},
+	"id": "poison-magic/poison-weakness-ix",
+	"requirements": {
+		"mana": 668,
+		"skill": 668
 	}
 }

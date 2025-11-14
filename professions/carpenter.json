@@ -1,20 +1,20 @@
 {
 	"$type": "/v1/profession",
-	"id": "carpenter",
-	"name": {
-		"en": "Carpenter"
-	},
 	"desc": {
 		"en": "Carpenter. An expert at creating wooden items from planks."
 	},
-	"skills": {
-		"carpentry": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "carpenter",
+	"name": {
+		"en": "Carpenter"
 	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 2,
 		"STRENGTH": 4
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"carpentry": 5
 	}
 }

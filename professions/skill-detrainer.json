@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
-	"id": "skill-detrainer",
-	"name": {
-		"en": "Skill Detrainer"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "skill-detrainer",
+	"name": {
+		"en": "Skill Detrainer"
 	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 5
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

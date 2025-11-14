@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "dungeonseeker-skirt",
 	"image": "cskirt1",
-	"type": "leg-armour",
-	"armorType": "cloth",
 	"material": "hide",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "leg-armour"
 }

@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"dpr": 120,
 	"id": "hooks-legend",
 	"image": "5215",
-	"type": "1-handed-equipment",
-	"dpr": 120,
 	"legendary": true,
 	"material": "metal",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"SPEED": 1
+	},
 	"skill": "exotic-weapons",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1,
-		"SPEED": 1
-	}
+	"type": "1-handed-equipment"
 }

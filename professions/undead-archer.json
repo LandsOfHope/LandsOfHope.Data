@@ -1,19 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "undead-archer",
-	"name": {
-		"en": "Undead Archer"
-	},
 	"desc": {
 		"en": "An ancient rogue."
 	},
-	"skills": {
-		"frenzy": 5,
-		"daggers": 5,
-		"crossbows": 5,
-		"stringed-defense": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "undead-archer",
+	"name": {
+		"en": "Undead Archer"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -21,5 +13,13 @@
 		"MAXSTAMINA": 3,
 		"SPEED": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"crossbows": 5,
+		"daggers": 5,
+		"frenzy": 5,
+		"stringed-defense": 5
 	}
 }

@@ -1,23 +1,23 @@
 {
 	"$type": "/v1/profession",
-	"id": "ancient-spirit",
-	"name": {
-		"en": "Ancient Spirit"
-	},
 	"desc": {
 		"en": "An ancient mage."
 	},
-	"skills": {
-		"air-resistance": 5,
-		"mana-draining": 5,
-		"air-magic": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "ancient-spirit",
+	"name": {
+		"en": "Ancient Spirit"
 	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 4,
 		"MAXMANA": 5,
 		"SPEED": 3
+	},
+	"skills": {
+		"air-magic": 5,
+		"air-resistance": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"mana-draining": 5
 	}
 }

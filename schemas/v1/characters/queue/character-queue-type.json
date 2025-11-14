@@ -1,5 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-type.json",
-	"title": "CharacterQueueType",
-	"enum": ["main", "breeding"]
+	"enum": ["main", "breeding"],
+	"title": "CharacterQueueType"
 }

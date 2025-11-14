@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 5,
 	"id": "forked-stick",
 	"image": "fos",
-	"type": "2-handed-equipment",
-	"dpr": 5,
 	"material": "wood",
-	"skill": "staves",
-	"skills": {
-		"transmigration": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"MAXMANA": 1
-	}
+	},
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1,
+		"transmigration": 1
+	},
+	"type": "2-handed-equipment"
 }

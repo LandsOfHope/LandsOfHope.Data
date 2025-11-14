@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 52,
 	"id": "small-bloody-shield",
 	"image": "sd7",
-	"type": "1-handed-equipment",
-	"dpr": 52,
 	"material": "wood",
 	"skill": "shields",
 	"skills": {
-		"projectile-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"projectile-defense": 1
+	},
+	"type": "1-handed-equipment"
 }

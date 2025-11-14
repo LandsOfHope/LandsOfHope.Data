@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "spitting-cobra",
 	"image": "bp",
-	"type": "1-handed-equipment",
-	"dpr": 2,
 	"material": "gem",
 	"skill": "thrown-weapons",
 	"skills": {
-		"poison-resistance": 1,
+		"attack-power": 1,
 		"poison-magic": 1,
-		"attack-power": 1
-	}
+		"poison-resistance": 1
+	},
+	"type": "1-handed-equipment"
 }

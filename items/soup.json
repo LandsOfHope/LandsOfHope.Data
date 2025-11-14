@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "soup",
 	"image": "sou",
-	"type": "food",
 	"material": "hide",
 	"properties": {
 		"STAMINA": 1
-	}
+	},
+	"type": "food"
 }

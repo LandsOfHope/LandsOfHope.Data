@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "pale-lavender-paper",
 	"image": "ppalelavend",
-	"type": "explosive-component",
-	"expansion": "uncharted-waters",
-	"material": "color"
+	"material": "color",
+	"type": "explosive-component"
 }

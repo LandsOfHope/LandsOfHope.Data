@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/tent-blessing-xiv",
-	"requirements": {
-		"skill": 65,
-		"mana": 920
-	},
 	"duration": "PT120M",
 	"effects": {
 		"skills": {
 			"health-regen": 135
 		}
+	},
+	"id": "gamemastery/tent-blessing-xiv",
+	"requirements": {
+		"mana": 920,
+		"skill": 65
 	}
 }

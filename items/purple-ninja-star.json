@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "purple-ninja-star",
-	"image": "6406",
-	"type": "ranged-weapon",
 	"dpr": 3,
 	"expansion": "dragons-of-the-east",
+	"id": "purple-ninja-star",
+	"image": "6406",
 	"material": "metal",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skill": "thrown-weapons",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "ranged-weapon"
 }

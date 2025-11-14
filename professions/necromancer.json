@@ -1,18 +1,14 @@
 {
 	"$type": "/v1/profession",
-	"id": "necromancer",
-	"name": {
-		"en": "Necromancer"
-	},
 	"desc": {
 		"en": "The Necromancer is a Tier II evolution from the Caster Profession via Shaman, while keeping all of the Shamans abilities the Necromancer also gains the abilty to use <b>Necromancy</b> magic spells and to use <b>Two Handed Staves</b>."
 	},
-	"skills": {
-		"two-handed-staves": 5,
-		"necromancy": 5,
-		"possession": 5,
-		"armor": 5,
-		"attack-power": 5
+	"evo": {
+		"dark-lord": 650
+	},
+	"id": "necromancer",
+	"name": {
+		"en": "Necromancer"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -22,7 +18,11 @@
 		"MAXSTAMINA": 1,
 		"SPEED": 1
 	},
-	"evo": {
-		"dark-lord": 650
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"necromancy": 5,
+		"possession": 5,
+		"two-handed-staves": 5
 	}
 }

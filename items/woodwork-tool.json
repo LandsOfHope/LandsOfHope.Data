@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "woodwork-tool",
 	"image": "wwt",
-	"type": "1-handed-equipment",
 	"material": "metal",
 	"skill": "carpentry",
 	"skills": {
 		"carpentry": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

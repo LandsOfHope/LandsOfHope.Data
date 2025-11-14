@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "liche-bandage",
 	"image": "lban1",
-	"type": "stomach",
 	"material": "hide",
 	"skills": {
-		"drain-resistance": 1,
 		"acid-resistance": 1,
+		"drain-resistance": 1,
 		"poison-resistance": 1
-	}
+	},
+	"type": "stomach"
 }

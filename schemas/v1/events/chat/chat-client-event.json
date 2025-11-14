@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/chat/chat-client-event.json",
-	"title": "ChatClientEvent",
-	"type": "object",
 	"oneOf": [
 		{
 			"$ref": "/schemas/v1/events/chat/rooms/chat-room-presence-event.json"
@@ -15,5 +13,7 @@
 		{
 			"$ref": "/schemas/v1/events/chat/messages/chat-messages-deleted-event.json"
 		}
-	]
+	],
+	"title": "ChatClientEvent",
+	"type": "object"
 }

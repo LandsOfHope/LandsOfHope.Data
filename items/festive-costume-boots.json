@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "festive-costume-boots",
 	"image": "sboots",
-	"type": "foot-armour",
+	"material": "hide",
 	"set": "festive-costume",
-	"material": "hide"
+	"type": "foot-armour"
 }

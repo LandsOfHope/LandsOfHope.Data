@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/change-into-a-fire-elemental",
-	"requirements": {
-		"skill": 646,
-		"mana": 646
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"fire-resistance": 324
 		}
+	},
+	"id": "gm-magic/change-into-a-fire-elemental",
+	"requirements": {
+		"mana": 646,
+		"skill": 646
 	}
 }

@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "leatherworking/bracers",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "bracers"
-	},
 	"image": "243",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "leatherworking",
-	"skillValue": 5,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "prepared-hide",
-			"quantity": 2,
-			"primary": true
+			"primary": true,
+			"quantity": 2
 		},
 		{
 			"id": "lining",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "bracers"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "leatherworking",
+	"skillValue": 5,
+	"time": "PT15S"
 }

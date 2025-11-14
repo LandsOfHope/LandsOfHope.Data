@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "drayng-spoonstirrer"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Drayng Spoonstirrer",
-		"title": "alchemist",
 		"image": "huf",
 		"level": {
 			"primary": 450
 		},
+		"name": "Drayng Spoonstirrer",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "alchemist"
 	}
 }

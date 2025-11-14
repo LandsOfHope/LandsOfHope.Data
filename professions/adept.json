@@ -1,11 +1,14 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "The Adept is a Tier II evolution from the Novice Profession."
+	},
+	"evo": {
+		"master": 650
+	},
 	"id": "adept",
 	"name": {
 		"en": "Adept"
-	},
-	"desc": {
-		"en": "The Adept is a Tier II evolution from the Novice Profession."
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -15,8 +18,5 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 1,
 		"STRENGTH": 1
-	},
-	"evo": {
-		"master": 650
 	}
 }

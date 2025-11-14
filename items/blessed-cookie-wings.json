@@ -2,11 +2,7 @@
 	"$type": "/v1/item",
 	"id": "blessed-cookie-wings",
 	"image": "6718",
-	"type": "wings",
 	"material": "hide",
-	"skills": {
-		"air-survival": 1
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 1,
@@ -14,5 +10,9 @@
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
-	}
+	},
+	"skills": {
+		"air-survival": 1
+	},
+	"type": "wings"
 }

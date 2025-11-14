@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "ring-of-digging",
 	"image": "rgc",
-	"type": "ring",
 	"material": "gem",
 	"skill": "mining",
 	"skills": {
-		"mining": 1,
-		"geology": 1
-	}
+		"geology": 1,
+		"mining": 1
+	},
+	"type": "ring"
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "fillet",
 	"image": "zufitt",
-	"type": "food",
 	"material": "fish",
 	"properties": {
 		"HITPOINTS": 1
-	}
+	},
+	"type": "food"
 }

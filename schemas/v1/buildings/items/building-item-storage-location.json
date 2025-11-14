@@ -1,10 +1,11 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/buildings/items/building-item-storage-location.json",
-	"title": "BuildingItemStorageLocation",
-	"type": "object",
 	"properties": {
 		"$type": {
 			"const": "/v1/buildings/items/building-item-storage-location"
+		},
+		"buildingItem": {
+			"$ref": "/schemas/v1/buildings/items/building-item-id.json"
 		},
 		"location": {
 			"allOf": [
@@ -15,10 +16,9 @@
 					"$ref": "/schemas/v1/items-locations-id.gen.json"
 				}
 			]
-		},
-		"buildingItem": {
-			"$ref": "/schemas/v1/buildings/items/building-item-id.json"
 		}
 	},
-	"required": ["$type", "location", "buildingItem"]
+	"required": ["$type", "location", "buildingItem"],
+	"title": "BuildingItemStorageLocation",
+	"type": "object"
 }

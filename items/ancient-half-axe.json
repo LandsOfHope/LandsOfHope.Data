@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"dpr": 8,
 	"id": "ancient-half-axe",
 	"image": "aha",
-	"type": "1-handed-equipment",
-	"dpr": 8,
 	"material": "metal",
 	"skill": "axes",
 	"skills": {
-		"poison-magic": 1,
+		"arcane-resistance": 1,
 		"attack-power": 1,
-		"arcane-resistance": 1
-	}
+		"poison-magic": 1
+	},
+	"type": "1-handed-equipment"
 }

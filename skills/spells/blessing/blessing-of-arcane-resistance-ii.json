@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "blessing/blessing-of-arcane-resistance-ii",
-	"requirements": {
-		"skill": 3288,
-		"mana": 3288
-	},
 	"duration": "PT75M",
 	"effects": {
 		"skills": {
 			"arcane-resistance": 343
 		}
+	},
+	"id": "blessing/blessing-of-arcane-resistance-ii",
+	"requirements": {
+		"mana": 3288,
+		"skill": 3288
 	}
 }

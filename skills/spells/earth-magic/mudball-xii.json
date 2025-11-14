@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "earth-magic/mudball-xii",
-	"requirements": {
-		"skill": 3606,
-		"mana": 3606
-	},
 	"effects": {
 		"damage": 2539
+	},
+	"id": "earth-magic/mudball-xii",
+	"requirements": {
+		"mana": 3606,
+		"skill": 3606
 	}
 }

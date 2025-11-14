@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 39,
 	"id": "germinating-potion",
 	"image": "pe5",
-	"type": "ammo-weapons-potions",
-	"dpr": 39,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-potions"
 }

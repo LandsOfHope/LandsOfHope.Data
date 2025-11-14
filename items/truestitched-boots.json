@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "truestitched-boots",
 	"image": "4457",
-	"type": "foot-armour",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"SPEED": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "foot-armour"
 }

@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "realm-defenders-cloak",
 	"image": "5057",
-	"type": "neck-clothing",
 	"material": "cloth",
-	"skills": {
-		"damage-absorption": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"skills": {
+		"damage-absorption": 1
+	},
+	"type": "neck-clothing"
 }

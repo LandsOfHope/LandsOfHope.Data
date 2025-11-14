@@ -1,25 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "begrimmer",
-	"name": {
-		"en": "Begrimmer"
-	},
 	"desc": {
 		"en": "None"
 	},
-	"skills": {
-		"mystical-magic": 5,
-		"mystical-resistance": 5,
-		"invocation": 5,
-		"mana-draining": 5,
-		"maces": 5,
-		"two-handed-maces": 5,
-		"fists": 5,
-		"projectile-defense": 5,
-		"h2h-defense": 5,
-		"stringed-defense": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "begrimmer",
+	"name": {
+		"en": "Begrimmer"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -29,5 +15,19 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 1,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fists": 5,
+		"h2h-defense": 5,
+		"invocation": 5,
+		"maces": 5,
+		"mana-draining": 5,
+		"mystical-magic": 5,
+		"mystical-resistance": 5,
+		"projectile-defense": 5,
+		"stringed-defense": 5,
+		"two-handed-maces": 5
 	}
 }

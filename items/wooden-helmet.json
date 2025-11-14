@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "wooden-helmet",
 	"image": "hm1",
-	"type": "head-armour",
-	"armorType": "plate",
 	"material": "wood",
 	"skills": {
-		"h2h-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"h2h-defense": 1
+	},
+	"type": "head-armour"
 }

@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "ring-of-the-square-meal",
 	"image": "ring3",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
-		"fishing": 1,
 		"cooking": 1,
-		"farming": 1
-	}
+		"farming": 1,
+		"fishing": 1
+	},
+	"type": "ring"
 }

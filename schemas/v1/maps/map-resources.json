@@ -1,24 +1,24 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/maps/map-resources.json",
-	"title": "MapResources",
-	"type": "array",
 	"items": {
-		"type": "array",
+		"additionalItems": false,
 		"items": [
 			{
-				"type": "array",
 				"items": {
 					"type": "integer"
 				},
+				"maxItems": 2,
 				"minItems": 2,
-				"maxItems": 2
+				"type": "array"
 			},
 			{
 				"$ref": "/schemas/v1/maps/map-resource.json"
 			}
 		],
-		"additionalItems": false,
+		"maxItems": 2,
 		"minItems": 2,
-		"maxItems": 2
-	}
+		"type": "array"
+	},
+	"title": "MapResources",
+	"type": "array"
 }

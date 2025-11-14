@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "ring-of-the-fiendish",
 	"image": "6165",
-	"type": "ring",
 	"material": "gem",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skills": {
 		"fire-survival": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "ring"
 }

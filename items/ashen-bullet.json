@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 32,
 	"id": "ashen-bullet",
 	"image": "zuasbu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 32,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

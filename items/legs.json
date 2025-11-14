@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "legs",
 	"image": "leg",
-	"type": "leg-armour",
-	"armorType": "plate",
 	"material": "metal",
 	"skills": {
-		"bludgeon-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"bludgeon-defense": 1
+	},
+	"type": "leg-armour"
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "animated-legs",
 	"image": "6353",
-	"type": "leg-armour",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "animation",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "leg-armour"
 }

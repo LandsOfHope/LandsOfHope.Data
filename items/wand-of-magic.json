@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 7,
 	"id": "wand-of-magic",
 	"image": "wand02",
-	"type": "1-handed-equipment",
-	"dpr": 7,
 	"material": "wood",
-	"skill": "staves",
 	"properties": {
 		"MAXMANA": 1,
 		"SPEED": 1
-	}
+	},
+	"skill": "staves",
+	"type": "1-handed-equipment"
 }

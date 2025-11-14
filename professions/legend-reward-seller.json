@@ -1,19 +1,19 @@
 {
 	"$type": "/v1/profession",
-	"id": "legend-reward-seller",
-	"name": {
-		"en": "Legend Reward Seller"
-	},
 	"desc": {
 		"en": ""
 	},
-	"skills": {
-		"armor": 5,
-		"attack-power": 5
+	"id": "legend-reward-seller",
+	"name": {
+		"en": "Legend Reward Seller"
 	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 5
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

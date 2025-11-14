@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"id": "silverclaw-figurine",
 	"image": "relic9",
-	"type": "special-slot",
 	"material": "metal",
-	"skill": "archaeology",
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"skill": "archaeology",
+	"type": "special-slot"
 }

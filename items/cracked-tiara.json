@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "cracked-tiara",
 	"image": "cta",
-	"type": "head-armour",
 	"material": "gem",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 1
-	}
+	},
+	"skills": {
+		"armor": 1
+	},
+	"type": "head-armour"
 }

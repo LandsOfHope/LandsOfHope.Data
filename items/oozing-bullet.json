@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 15,
 	"id": "oozing-bullet",
 	"image": "4140",
-	"type": "ammo-weapons-bullets",
-	"dpr": 15,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

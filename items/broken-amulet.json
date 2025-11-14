@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "broken-amulet",
 	"image": "bka",
-	"type": "neck",
 	"material": "metal",
 	"skills": {
 		"instruments": 1
-	}
+	},
+	"type": "neck"
 }

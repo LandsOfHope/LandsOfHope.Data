@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "hellsdrift-standard",
 	"image": "zsgc11",
-	"type": "guild-color",
 	"material": "cloth",
 	"properties": {
 		"HITPOINTS": 1,
 		"INTELLIGENCE": 1,
 		"MAXHITPOINTS": 1,
 		"STRENGTH": 1
-	}
+	},
+	"type": "guild-color"
 }

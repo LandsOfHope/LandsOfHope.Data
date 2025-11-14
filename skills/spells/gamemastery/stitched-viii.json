@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/stitched-viii",
-	"requirements": {
-		"skill": 40,
-		"mana": 40
-	},
 	"duration": "PT140000M",
 	"effects": {
 		"skills": {
 			"armor": 500
 		}
+	},
+	"id": "gamemastery/stitched-viii",
+	"requirements": {
+		"mana": 40,
+		"skill": 40
 	}
 }

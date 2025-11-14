@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "legendra-guildbuilder"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Legendra Guildbuilder",
-		"title": "architect",
 		"image": "gef",
 		"level": {
 			"primary": 550
 		},
+		"name": "Legendra Guildbuilder",
 		"sex": "F",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "architect"
 	}
 }

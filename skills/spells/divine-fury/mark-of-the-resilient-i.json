@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "divine-fury/mark-of-the-resilient-i",
-	"requirements": {
-		"skill": 3150,
-		"mana": 550
-	},
 	"duration": "PT120M",
 	"effects": {
 		"skills": {
 			"arcane-resistance": -100
 		}
+	},
+	"id": "divine-fury/mark-of-the-resilient-i",
+	"requirements": {
+		"mana": 550,
+		"skill": 3150
 	}
 }

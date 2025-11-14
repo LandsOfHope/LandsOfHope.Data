@@ -1,23 +1,23 @@
 {
+	"$type": "/v1/characters/character-header",
 	"actions": {
 		"talk": {
 			"$type": "/v1/characters/actions/character-action-buy-recipes",
 			"id": "laurel-the-cabinetmaker"
 		}
 	},
-	"$type": "/v1/characters/character-header",
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"name": "Laurel the Cabinetmaker",
-		"title": "furnisher",
 		"image": "lc1",
 		"level": {
 			"primary": 100
 		},
+		"name": "Laurel the Cabinetmaker",
 		"sex": "M",
 		"status": {
 			"dead": false,
 			"jailed": false
-		}
+		},
+		"title": "furnisher"
 	}
 }

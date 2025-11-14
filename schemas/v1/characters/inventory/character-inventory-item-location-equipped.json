@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/character-inventory-item-location-equipped.json",
-	"title": "CharacterInventoryItemLocationEquipped",
-	"type": "object",
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/inventory/character-inventory-item-location-equipped"
@@ -20,5 +18,7 @@
 			]
 		}
 	},
-	"required": ["$type", "character", "location"]
+	"required": ["$type", "character", "location"],
+	"title": "CharacterInventoryItemLocationEquipped",
+	"type": "object"
 }

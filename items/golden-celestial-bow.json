@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 92,
 	"id": "golden-celestial-bow",
 	"image": "6033",
-	"type": "ranged-weapon",
-	"dpr": 92,
 	"material": "metal",
+	"properties": {
+		"SPEED": 1
+	},
 	"skill": "celestial-weapons",
 	"skills": {
 		"attack-power": 1,
 		"celestial-defense": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "ranged-weapon"
 }

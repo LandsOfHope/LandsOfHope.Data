@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 32,
 	"id": "short-ornate-sword",
 	"image": "sw1",
-	"type": "1-handed-equipment",
-	"dpr": 32,
 	"material": "metal",
 	"skill": "swords",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

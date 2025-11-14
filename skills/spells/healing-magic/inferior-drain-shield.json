@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "healing-magic/inferior-drain-shield",
-	"requirements": {
-		"skill": 3193,
-		"mana": 3193
-	},
 	"duration": "PT360M",
 	"effects": {
 		"skills": {
 			"drain-resistance": 196
 		}
+	},
+	"id": "healing-magic/inferior-drain-shield",
+	"requirements": {
+		"mana": 3193,
+		"skill": 3193
 	}
 }

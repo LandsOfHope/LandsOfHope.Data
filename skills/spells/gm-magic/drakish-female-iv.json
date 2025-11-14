@@ -1,10 +1,5 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/drakish-female-iv",
-	"requirements": {
-		"skill": 751,
-		"mana": 751
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
@@ -13,5 +8,10 @@
 		"skills": {
 			"armor": 376
 		}
+	},
+	"id": "gm-magic/drakish-female-iv",
+	"requirements": {
+		"mana": 751,
+		"skill": 751
 	}
 }

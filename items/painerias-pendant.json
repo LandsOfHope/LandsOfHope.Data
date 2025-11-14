@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "painerias-pendant",
 	"image": "5042",
-	"type": "neck",
 	"material": "gem",
-	"skills": {
-		"slavemastery": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"skills": {
+		"slavemastery": 1
+	},
+	"type": "neck"
 }

@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "warding/forest-armor-viii",
-	"requirements": {
-		"skill": 4380,
-		"mana": 4301
-	},
 	"duration": 3,
 	"effects": {
 		"damage": 3077,
 		"skills": {
 			"damage-absorption": 3077
 		}
+	},
+	"id": "warding/forest-armor-viii",
+	"requirements": {
+		"mana": 4301,
+		"skill": 4380
 	}
 }

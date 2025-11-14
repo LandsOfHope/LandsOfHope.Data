@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "pendant",
 	"image": "pdt",
-	"type": "neck",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "neck"
 }

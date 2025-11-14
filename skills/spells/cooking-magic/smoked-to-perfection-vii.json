@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "cooking-magic/smoked-to-perfection-vii",
-	"requirements": {
-		"skill": 2871,
-		"mana": 2871
-	},
 	"duration": "PT1M",
 	"effects": {
 		"damage": 2024
+	},
+	"id": "cooking-magic/smoked-to-perfection-vii",
+	"requirements": {
+		"mana": 2871,
+		"skill": 2871
 	}
 }

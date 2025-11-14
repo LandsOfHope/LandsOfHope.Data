@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 94,
 	"id": "small-godly-shield",
 	"image": "sd7",
-	"type": "1-handed-equipment",
-	"dpr": 94,
 	"material": "wood",
 	"skill": "shields",
 	"skills": {
-		"drain-resistance": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"drain-resistance": 1
+	},
+	"type": "1-handed-equipment"
 }

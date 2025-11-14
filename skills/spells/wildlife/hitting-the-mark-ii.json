@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "wildlife/hitting-the-mark-ii",
-	"requirements": {
-		"skill": 3363,
-		"mana": 336
-	},
 	"duration": "PT310M",
 	"effects": {
 		"skills": {
 			"bows": 351
 		}
+	},
+	"id": "wildlife/hitting-the-mark-ii",
+	"requirements": {
+		"mana": 336,
+		"skill": 3363
 	}
 }

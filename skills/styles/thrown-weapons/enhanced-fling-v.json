@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1234
+	},
 	"id": "thrown-weapons/enhanced-fling-v",
 	"requirements": {
 		"skill": 2461,
 		"stamina": 2460
-	},
-	"effects": {
-		"damage": 1234
 	}
 }

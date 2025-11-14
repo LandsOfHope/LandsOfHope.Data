@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Giant Eagle"
+	"appr": {
+		"en": ""
 	},
 	"desc": {
 		"en": "A huge flying pet."
 	},
-	"appr": {
-		"en": ""
-	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Giant Eagle"
+	},
 	"pics": {
-		"M": ["mjpeaglem"],
-		"F": ["mjpeaglef"]
+		"F": ["mjpeaglef"],
+		"M": ["mjpeaglem"]
 	}
 }

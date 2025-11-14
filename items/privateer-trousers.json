@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "privateer-trousers",
-	"image": "5219",
-	"type": "leg-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "privateer-trousers",
+	"image": "5219",
 	"material": "cloth",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skill": "seamanship",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "leg-armour"
 }

@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "milestone",
 	"image": "si9",
-	"type": "screen-trigger",
-	"material": "wood"
+	"material": "wood",
+	"type": "screen-trigger"
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "reinforced-shielding",
 	"image": "rsg",
-	"type": "property-enhancements",
 	"material": "metal",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "property-enhancements"
 }

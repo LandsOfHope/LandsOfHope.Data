@@ -1,6 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/character-equippable-bag-location.json",
-	"title": "CharacterEquippableBagLocation",
 	"allOf": [
 		{
 			"enum": [
@@ -17,5 +16,6 @@
 		{
 			"$ref": "/schemas/v1/items-locations-id.gen.json"
 		}
-	]
+	],
+	"title": "CharacterEquippableBagLocation"
 }

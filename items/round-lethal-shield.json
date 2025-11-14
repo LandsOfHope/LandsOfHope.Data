@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 62,
 	"id": "round-lethal-shield",
 	"image": "sd6",
-	"type": "1-handed-equipment",
-	"dpr": 62,
 	"material": "wood",
 	"skill": "shields",
 	"skills": {
-		"frenzy": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"frenzy": 1
+	},
+	"type": "1-handed-equipment"
 }

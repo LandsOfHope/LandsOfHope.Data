@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 63,
 	"id": "blistering-potion",
 	"image": "pe5",
-	"type": "ammo-weapons-potions",
-	"dpr": 63,
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-potions"
 }

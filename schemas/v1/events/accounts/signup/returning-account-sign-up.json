@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/events/accounts/signup/returning-account-sign-up.json",
-	"title": "ReturningAccountSignUpEvent",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -11,5 +9,7 @@
 			"$ref": "/schemas/v1/accounts/signup/returning-account-sign-up.json"
 		}
 	},
-	"required": ["$type", "signUp"]
+	"required": ["$type", "signUp"],
+	"title": "ReturningAccountSignUpEvent",
+	"type": "object"
 }

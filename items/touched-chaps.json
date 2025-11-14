@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "touched-chaps",
 	"image": "cgh",
-	"type": "leg-armour",
-	"armorType": "leather",
 	"material": "hide",
+	"properties": {
+		"MAXMANA": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXMANA": 1
-	}
+	"type": "leg-armour"
 }

@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "cheese-crackers",
 	"image": "chs",
-	"type": "food",
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 2
-	}
+	},
+	"type": "food"
 }

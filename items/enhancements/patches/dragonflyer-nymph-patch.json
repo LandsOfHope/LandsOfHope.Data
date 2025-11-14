@@ -1,9 +1,9 @@
 {
 	"$type": "/v1/items/enhancements/item-patch",
-	"id": "patches/dragonflyer-nymph-patch",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 0.05
 		}
-	}
+	},
+	"id": "patches/dragonflyer-nymph-patch"
 }

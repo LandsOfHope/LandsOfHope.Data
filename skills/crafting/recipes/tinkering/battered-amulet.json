@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tinkering/battered-amulet",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "battered-amulet"
-	},
 	"image": "bda",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "tinkering",
-	"skillValue": 550,
-	"quality": "uncommon",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 20,
-			"primary": true
+			"primary": true,
+			"quantity": 20
 		},
 		{
 			"id": "rivet",
@@ -25,5 +16,14 @@
 			"id": "lining",
 			"quantity": 4
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "battered-amulet"
+	},
+	"quality": "uncommon",
+	"quantity": 1,
+	"skill": "tinkering",
+	"skillValue": 550,
+	"time": "PT15S"
 }

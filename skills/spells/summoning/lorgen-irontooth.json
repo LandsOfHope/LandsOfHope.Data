@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/lorgen-irontooth",
-	"requirements": {
-		"skill": 3568,
-		"mana": 3568
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "dark-dwarf",
-			"profession": "nobleman"
+			"profession": "nobleman",
+			"race": "dark-dwarf"
 		}
+	},
+	"id": "summoning/lorgen-irontooth",
+	"requirements": {
+		"mana": 3568,
+		"skill": 3568
 	}
 }

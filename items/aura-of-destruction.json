@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "aura-of-destruction",
 	"image": "6901",
-	"type": "aura",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1.5
+	},
 	"skills": {
 		"health-regen": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1.5
-	}
+	"type": "aura"
 }

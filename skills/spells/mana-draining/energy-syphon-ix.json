@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "mana-draining/energy-syphon-ix",
-	"requirements": {
-		"skill": 2206,
-		"mana": 2206
-	},
 	"duration": "PT25M",
 	"effects": {
 		"damage": 109,
 		"properties": {
 			"MANA": -1098
 		}
+	},
+	"id": "mana-draining/energy-syphon-ix",
+	"requirements": {
+		"mana": 2206,
+		"skill": 2206
 	}
 }

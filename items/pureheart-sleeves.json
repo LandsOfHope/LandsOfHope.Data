@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "pureheart-sleeves",
 	"image": "4740",
-	"type": "arm-armour",
-	"armorType": "plate",
 	"legendary": true,
-	"set": "pureheart-legend",
 	"material": "metal",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"set": "pureheart-legend",
+	"skills": {
+		"armor": 1
+	},
+	"type": "arm-armour"
 }

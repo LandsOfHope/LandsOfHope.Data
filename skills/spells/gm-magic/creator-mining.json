@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/creator-mining",
-	"requirements": {
-		"skill": 834,
-		"mana": 834
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"mining": 51
 		}
+	},
+	"id": "gm-magic/creator-mining",
+	"requirements": {
+		"mana": 834,
+		"skill": 834
 	}
 }

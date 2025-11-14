@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "safety-harness",
 	"image": "bet",
-	"type": "stomach",
 	"material": "hide",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "stomach"
 }

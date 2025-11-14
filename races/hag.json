@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Hag"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Hag"
+	},
 	"pics": {
-		"M": ["hgm"],
-		"F": ["hgf"]
+		"F": ["hgf"],
+		"M": ["hgm"]
 	}
 }

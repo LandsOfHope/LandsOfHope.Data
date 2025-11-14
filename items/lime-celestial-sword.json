@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 72,
 	"id": "lime-celestial-sword",
 	"image": "6011",
-	"type": "1-handed-equipment",
-	"dpr": 72,
 	"material": "metal",
 	"skill": "celestial-weapons",
 	"skills": {
-		"mystical-resistance": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"mystical-resistance": 1
+	},
+	"type": "1-handed-equipment"
 }

@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Kitten"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Kitten"
+	},
 	"pics": {
-		"M": ["mpcatm"],
-		"F": ["mpcatf"]
+		"F": ["mpcatf"],
+		"M": ["mpcatm"]
 	}
 }

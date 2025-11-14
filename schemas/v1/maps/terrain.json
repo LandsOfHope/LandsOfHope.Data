@@ -1,18 +1,18 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/maps/terrain.json",
-	"title": "Terrain",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/maps/terrain"
 		},
-		"id": {
-			"$ref": "/schemas/v1/maps-terrains-id.gen.json"
-		},
 		"color": {
 			"$ref": "/schemas/v1/color-hex.json"
+		},
+		"id": {
+			"$ref": "/schemas/v1/maps-terrains-id.gen.json"
 		}
 	},
 	"required": ["$type", "id", "color"],
-	"additionalProperties": false
+	"title": "Terrain",
+	"type": "object"
 }

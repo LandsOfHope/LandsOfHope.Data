@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 94,
 	"id": "godly-musket",
 	"image": "re3",
-	"type": "2-handed-equipment",
-	"dpr": 94,
 	"material": "metal",
 	"skill": "two-handed-guns",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

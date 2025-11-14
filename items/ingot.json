@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "ingot",
 	"image": "it",
-	"type": "resource-smithing",
-	"material": "metal"
+	"material": "metal",
+	"type": "resource-smithing"
 }

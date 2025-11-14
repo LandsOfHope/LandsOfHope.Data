@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"expansion": "dragons-of-the-east",
 	"id": "deep-red-dragon-potion",
 	"image": "5862",
-	"type": "dragon-food-items",
-	"expansion": "dragons-of-the-east",
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 1.25
-	}
+	},
+	"type": "dragon-food-items"
 }

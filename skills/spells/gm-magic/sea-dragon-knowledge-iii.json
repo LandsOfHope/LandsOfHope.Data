@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/sea-dragon-knowledge-iii",
-	"requirements": {
-		"skill": 512,
-		"mana": 512
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"INTELLIGENCE": 320
 		}
+	},
+	"id": "gm-magic/sea-dragon-knowledge-iii",
+	"requirements": {
+		"mana": 512,
+		"skill": 512
 	}
 }

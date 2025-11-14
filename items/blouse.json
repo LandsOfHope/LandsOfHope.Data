@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "blouse",
 	"image": "blo",
-	"type": "chest-armour",
-	"armorType": "cloth",
 	"material": "cloth",
-	"skills": {
-		"armor": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 1
-	}
+	},
+	"skills": {
+		"armor": 1
+	},
+	"type": "chest-armour"
 }

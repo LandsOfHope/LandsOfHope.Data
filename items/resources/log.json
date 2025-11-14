@@ -1,6 +1,21 @@
 {
 	"$type": "/v1/items/resource",
+	"bonuses": {
+		"bark": {
+			"$type": "/v1/random-chance",
+			"denom": 100,
+			"numer": 6
+		},
+		"egg": {
+			"$type": "/v1/random-chance",
+			"denom": 100,
+			"numer": 5
+		}
+	},
 	"id": "log",
+	"image": "lg",
+	"items": ["log"],
+	"material": "wood",
 	"skill": "lumberjacking",
 	"tools": [
 		"brittle-axehead",
@@ -113,20 +128,5 @@
 		"godly-pole-axe",
 		"ornate-pole-axe",
 		"legendary-pole-axe"
-	],
-	"items": ["log"],
-	"bonuses": {
-		"egg": {
-			"$type": "/v1/random-chance",
-			"numer": 5,
-			"denom": 100
-		},
-		"bark": {
-			"$type": "/v1/random-chance",
-			"numer": 6,
-			"denom": 100
-		}
-	},
-	"material": "wood",
-	"image": "lg"
+	]
 }

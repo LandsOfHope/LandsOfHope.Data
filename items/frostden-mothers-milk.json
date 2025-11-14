@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "frostden-mothers-milk",
 	"image": "5009",
-	"type": "monster-spawner",
-	"material": "crop"
+	"material": "crop",
+	"type": "monster-spawner"
 }

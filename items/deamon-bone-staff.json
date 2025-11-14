@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 8,
 	"id": "deamon-bone-staff",
 	"image": "dbstaff",
-	"type": "2-handed-equipment",
-	"dpr": 8,
 	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1,
+		"MAXMANA": 1
+	},
 	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1,
-		"MAXMANA": 1
-	}
+	"type": "2-handed-equipment"
 }

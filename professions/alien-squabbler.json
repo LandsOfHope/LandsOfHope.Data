@@ -1,26 +1,26 @@
 {
 	"$type": "/v1/profession",
-	"id": "alien-squabbler",
-	"name": {
-		"en": "Alien Squabbler"
-	},
 	"desc": {
 		"en": "An alien warrior."
 	},
-	"skills": {
-		"frenzy": 5,
-		"daggers": 5,
-		"two-handed-axes": 5,
-		"two-handed-maces": 5,
-		"bludgeon-defense": 5,
-		"dual-wielding": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "alien-squabbler",
+	"name": {
+		"en": "Alien Squabbler"
 	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 8,
 		"MAXSTAMINA": 6,
 		"STRENGTH": 5
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"bludgeon-defense": 5,
+		"daggers": 5,
+		"dual-wielding": 5,
+		"frenzy": 5,
+		"two-handed-axes": 5,
+		"two-handed-maces": 5
 	}
 }

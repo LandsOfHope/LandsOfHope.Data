@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "unhatched-rat-egg",
 	"image": "rl1",
-	"type": "monster-spawner",
-	"material": "gem"
+	"material": "gem",
+	"type": "monster-spawner"
 }

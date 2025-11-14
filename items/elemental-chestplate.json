@@ -1,9 +1,9 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "elemental-chestplate",
 	"image": "6378",
-	"type": "chest-armour",
-	"armorType": "cloth",
+	"material": "hide",
 	"set": "elemental-set",
-	"material": "hide"
+	"type": "chest-armour"
 }

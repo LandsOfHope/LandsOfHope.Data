@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "bracelet-of-ill-omen",
 	"image": "bt1",
-	"type": "wrist-jewelry",
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1
-	}
+	},
+	"type": "wrist-jewelry"
 }

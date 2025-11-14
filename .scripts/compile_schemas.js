@@ -1,5 +1,3 @@
-"use strict";
-
 const util = require("util");
 const exec = util.promisify(require("child_process").exec);
 const glob = require("glob");
@@ -13,7 +11,7 @@ const schemaVersions = glob.sync("schemas/*");
 
 const validationRoot = "api/js/validation/";
 
-const main = async function () {
+const main = async () => {
 	schemaVersions.forEach((version) => {
 		const versionName = path.basename(version);
 		fs.mkdirSync(path.join(validationRoot, versionName), { recursive: true });
@@ -25,8 +23,8 @@ const main = async function () {
 			JSON.parse(fs.readFileSync(s, { encoding: "utf-8" })),
 		);
 		const ajv = new Ajv({
+			code: { esm: true, source: true },
 			strict: true,
-			code: { source: true, esm: true },
 		});
 		addFormats(ajv);
 		ajv.addKeyword("tsEnumNames");
@@ -37,7 +35,7 @@ const main = async function () {
 		});
 
 		let retry = true;
-		let lastRefErrPath = undefined;
+		let lastRefErrPath;
 
 		while (retry) {
 			retry = false;

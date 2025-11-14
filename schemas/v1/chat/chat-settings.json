@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/chat/chat-settings.json",
-	"title": "ChatSettings",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -14,5 +12,7 @@
 			"type": "integer"
 		}
 	},
-	"required": ["$type", "color", "profileId"]
+	"required": ["$type", "color", "profileId"],
+	"title": "ChatSettings",
+	"type": "object"
 }

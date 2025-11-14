@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Dragonflyer"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Dragonflyer"
+	},
 	"pics": {
-		"M": ["drafm"],
-		"F": ["draff"]
+		"F": ["draff"],
+		"M": ["drafm"]
 	}
 }

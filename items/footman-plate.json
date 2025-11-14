@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "plate",
 	"id": "footman-plate",
 	"image": "2300",
-	"type": "chest-armour",
-	"armorType": "plate",
-	"material": "metal"
+	"material": "metal",
+	"type": "chest-armour"
 }

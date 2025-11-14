@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "cargo-crate",
 	"image": "bx",
-	"type": "quest-item",
-	"material": "wood"
+	"material": "wood",
+	"type": "quest-item"
 }

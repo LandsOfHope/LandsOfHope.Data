@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/well-being",
-	"requirements": {
-		"skill": 1,
-		"mana": 61
-	},
 	"duration": "PT150M",
 	"effects": {
 		"skills": {
 			"experience-bonus": 500
 		}
+	},
+	"id": "gamemastery/well-being",
+	"requirements": {
+		"mana": 61,
+		"skill": 1
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 24,
 	"id": "chilling-bolt",
 	"image": "arr1",
-	"type": "ammo-weapons-crossbows",
-	"dpr": 24,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-crossbows"
 }

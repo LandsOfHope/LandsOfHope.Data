@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "withered-blouse",
 	"image": "1573",
-	"type": "chest-armour",
-	"armorType": "cloth",
 	"material": "wood",
+	"properties": {
+		"MAXMANA": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXMANA": 1
-	}
+	"type": "chest-armour"
 }

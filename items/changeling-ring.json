@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "changeling-ring",
 	"image": "zudiri",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
 		"disguise": 1
-	}
+	},
+	"type": "ring"
 }

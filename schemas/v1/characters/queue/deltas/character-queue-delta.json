@@ -1,22 +1,26 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/deltas/character-queue-delta.json",
-	"title": "CharacterQueueDelta",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/queue/deltas/character-queue-delta"
 		},
 		"added": {
-			"type": "array",
-			"minItems": 1,
 			"items": {
 				"$ref": "/schemas/v1/characters/queue/character-queue-item.json"
-			}
+			},
+			"minItems": 1,
+			"type": "array"
+		},
+		"removed": {
+			"items": {
+				"$ref": "/schemas/v1/characters/queue/character-queue-item-id.json"
+			},
+			"minItems": 1,
+			"type": "array"
 		},
 		"updated": {
-			"type": "array",
 			"items": {
-				"type": "array",
 				"items": [
 					{
 						"$ref": "/schemas/v1/characters/queue/character-queue-item-id.json"
@@ -25,19 +29,15 @@
 						"$ref": "/schemas/v1/characters/queue/deltas/character-queue-item-updated-delta.json"
 					}
 				],
+				"maxItems": 2,
 				"minItems": 2,
-				"maxItems": 2
+				"type": "array"
 			},
-			"minItems": 1
-		},
-		"removed": {
-			"type": "array",
 			"minItems": 1,
-			"items": {
-				"$ref": "/schemas/v1/characters/queue/character-queue-item-id.json"
-			}
+			"type": "array"
 		}
 	},
 	"required": ["$type"],
-	"additionalProperties": false
+	"title": "CharacterQueueDelta",
+	"type": "object"
 }

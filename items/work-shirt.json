@@ -2,7 +2,7 @@
 	"$type": "/v1/item",
 	"id": "work-shirt",
 	"image": "awsit",
-	"type": "chest-armour",
 	"material": "cloth",
-	"skill": "artisan"
+	"skill": "artisan",
+	"type": "chest-armour"
 }

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "stegosaurus-shoulders",
-	"image": "5160",
-	"type": "shoulders",
 	"armorType": "mail",
 	"expansion": "jurassic-wars",
+	"id": "stegosaurus-shoulders",
+	"image": "5160",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "shoulders"
 }

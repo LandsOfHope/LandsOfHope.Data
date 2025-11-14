@@ -1,25 +1,25 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "tinkering/hoe",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "hoe"
-	},
 	"image": "hoe",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "tinkering",
-	"skillValue": 5,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 7,
-			"primary": true
+			"primary": true,
+			"quantity": 7
 		},
 		{
 			"id": "tinker-tools",
 			"quantity": 0
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "hoe"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "tinkering",
+	"skillValue": 5,
+	"time": "PT15S"
 }

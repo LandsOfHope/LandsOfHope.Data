@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/stronger-health-loss",
-	"requirements": {
-		"skill": 913,
-		"mana": 913
-	},
 	"duration": "PT180M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": -455
 		}
+	},
+	"id": "gamemastery/stronger-health-loss",
+	"requirements": {
+		"mana": 913,
+		"skill": 913
 	}
 }

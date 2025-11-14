@@ -1,36 +1,34 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/accounts/cognito/cognito-access-token.json",
-	"title": "CognitoAccessToken",
-	"type": "object",
 	"additionalProperties": true,
 	"properties": {
-		"sub": {
-			"$ref": "/schemas/v1/accounts/cognito/cognito-account-id.json"
-		},
-		"cognito:groups": {
-			"type": "array",
-			"items": {
-				"$ref": "/schemas/v1/accounts/account-group.json"
-			}
-		},
-		"iss": {
-			"type": "string",
-			"format": "uri"
+		"auth_time": {
+			"type": "number"
 		},
 		"client_id": {
 			"type": "string"
 		},
-		"token_use": {
-			"const": "access"
-		},
-		"auth_time": {
-			"type": "number"
+		"cognito:groups": {
+			"items": {
+				"$ref": "/schemas/v1/accounts/account-group.json"
+			},
+			"type": "array"
 		},
 		"exp": {
 			"type": "number"
 		},
 		"iat": {
 			"type": "number"
+		},
+		"iss": {
+			"format": "uri",
+			"type": "string"
+		},
+		"sub": {
+			"$ref": "/schemas/v1/accounts/cognito/cognito-account-id.json"
+		},
+		"token_use": {
+			"const": "access"
 		},
 		"username": {
 			"type": "string"
@@ -45,5 +43,7 @@
 		"exp",
 		"iat",
 		"username"
-	]
+	],
+	"title": "CognitoAccessToken",
+	"type": "object"
 }

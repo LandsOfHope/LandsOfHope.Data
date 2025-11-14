@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"armorType": "mail",
 	"id": "archaic-sleeves",
 	"image": "fe5vosl",
-	"type": "arm-armour",
-	"armorType": "mail",
 	"material": "metal",
 	"skill": "archaeology",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "arm-armour"
 }

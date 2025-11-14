@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "appraisers-glasses",
 	"image": "843",
-	"type": "glasses-shades",
-	"armorType": "cloth",
 	"material": "metal",
 	"skills": {
 		"appraisal": 1
-	}
+	},
+	"type": "glasses-shades"
 }

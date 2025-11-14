@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Mist Dweller"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Mist Dweller"
+	},
 	"pics": {
-		"M": ["uwmdm"],
-		"F": ["uwmdf"]
+		"F": ["uwmdf"],
+		"M": ["uwmdm"]
 	}
 }

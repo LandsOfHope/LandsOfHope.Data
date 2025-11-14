@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "barrel",
 	"image": "bl1",
-	"type": "catapult-ammo",
 	"material": "gem",
 	"skill": "siege-weapons",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "catapult-ammo"
 }

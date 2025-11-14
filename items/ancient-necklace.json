@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "ancient-necklace",
 	"image": "anl",
-	"type": "neck",
-	"armorType": "cloth",
 	"material": "gem",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skills": {
 		"poison-resistance": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "neck"
 }

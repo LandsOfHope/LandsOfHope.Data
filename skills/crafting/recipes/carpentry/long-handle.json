@@ -1,16 +1,7 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "carpentry/long-handle",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "long-handle"
-	},
 	"image": "feloha",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "carpentry",
-	"skillValue": 5,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "prepared-hide",
@@ -18,8 +9,17 @@
 		},
 		{
 			"id": "plank",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "long-handle"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "carpentry",
+	"skillValue": 5,
+	"time": "PT15S"
 }

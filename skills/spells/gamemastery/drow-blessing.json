@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gamemastery/drow-blessing",
-	"requirements": {
-		"skill": 1,
-		"mana": 1
-	},
 	"effects": {
 		"raceid2": 449
+	},
+	"id": "gamemastery/drow-blessing",
+	"requirements": {
+		"mana": 1,
+		"skill": 1
 	}
 }

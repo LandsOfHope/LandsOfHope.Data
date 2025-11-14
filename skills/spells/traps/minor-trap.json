@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "traps/minor-trap",
-	"requirements": {
-		"skill": 433,
-		"mana": 433
-	},
 	"effects": {
 		"damage": 318
+	},
+	"id": "traps/minor-trap",
+	"requirements": {
+		"mana": 433,
+		"skill": 433
 	}
 }

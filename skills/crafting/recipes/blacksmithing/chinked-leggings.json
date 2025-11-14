@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "blacksmithing/chinked-leggings",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "chinked-leggings"
-	},
 	"image": "cls",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "blacksmithing",
-	"skillValue": 3400,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "ingot",
-			"quantity": 15,
-			"primary": true
+			"primary": true,
+			"quantity": 15
 		},
 		{
 			"id": "rivet",
@@ -25,5 +16,14 @@
 			"id": "lining",
 			"quantity": 5
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "chinked-leggings"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "blacksmithing",
+	"skillValue": 3400,
+	"time": "PT15S"
 }

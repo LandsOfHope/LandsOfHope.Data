@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 2,
 	"id": "spear",
 	"image": "fesppa",
-	"type": "2-handed-equipment",
-	"dpr": 2,
 	"material": "wood",
 	"skill": "thrown-weapons",
 	"skills": {
-		"thrown-weapons": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"thrown-weapons": 1
+	},
+	"type": "2-handed-equipment"
 }

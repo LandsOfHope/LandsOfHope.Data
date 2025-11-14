@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "ankylosaurus-leggings",
-	"image": "5164",
-	"type": "leg-armour",
 	"armorType": "mail",
 	"expansion": "jurassic-wars",
+	"id": "ankylosaurus-leggings",
+	"image": "5164",
 	"material": "hide",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "leg-armour"
 }

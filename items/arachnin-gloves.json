@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "arachnin-gloves",
-	"image": "5143",
-	"type": "hand-armour",
 	"armorType": "cloth",
 	"expansion": "jurassic-wars",
+	"id": "arachnin-gloves",
+	"image": "5143",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "hand-armour"
 }

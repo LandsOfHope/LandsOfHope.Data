@@ -2,14 +2,14 @@
 	"$type": "/v1/item",
 	"id": "necklace-of-torment",
 	"image": "zunot",
-	"type": "neck",
 	"material": "metal",
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1
+	},
 	"skills": {
 		"frenzy": 1,
 		"mana-draining": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1,
-		"MAXMANA": 1
-	}
+	"type": "neck"
 }

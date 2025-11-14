@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Warephant"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Warephant"
+	},
 	"pics": {
-		"M": ["mjpwarem"],
-		"F": ["mjpwaref"]
+		"F": ["mjpwaref"],
+		"M": ["mjpwarem"]
 	}
 }

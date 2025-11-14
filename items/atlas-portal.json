@@ -2,6 +2,6 @@
 	"$type": "/v1/item",
 	"id": "atlas-portal",
 	"image": "po2",
-	"type": "event-portal-trigger",
-	"material": "gem"
+	"material": "gem",
+	"type": "event-portal-trigger"
 }

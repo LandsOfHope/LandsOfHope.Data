@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "intercession/192-empowered-symbol",
-	"requirements": {
-		"skill": 1920,
-		"level": 384,
-		"mana": 1920
-	},
 	"duration": "PT999M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 192
 		}
+	},
+	"id": "intercession/192-empowered-symbol",
+	"requirements": {
+		"level": 384,
+		"mana": 1920,
+		"skill": 1920
 	}
 }

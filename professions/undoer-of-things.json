@@ -1,20 +1,20 @@
 {
 	"$type": "/v1/profession",
-	"id": "undoer-of-things",
-	"name": {
-		"en": "Undoer of Things"
-	},
 	"desc": {
 		"en": "-"
 	},
-	"skills": {
-		"deconstruction": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "undoer-of-things",
+	"name": {
+		"en": "Undoer of Things"
 	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 2,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"deconstruction": 5
 	}
 }

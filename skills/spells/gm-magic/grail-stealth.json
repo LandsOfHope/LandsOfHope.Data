@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/grail-stealth",
-	"requirements": {
-		"skill": 50,
-		"mana": 50
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"skills": {
 			"stealth": 2000
 		}
+	},
+	"id": "gm-magic/grail-stealth",
+	"requirements": {
+		"mana": 50,
+		"skill": 50
 	}
 }

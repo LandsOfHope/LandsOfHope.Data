@@ -1,18 +1,18 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": ""
+	},
 	"id": "firework-supplies",
 	"name": {
 		"en": "Firework Supplies"
 	},
-	"desc": {
-		"en": ""
+	"properties": {
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 3
 	},
 	"skills": {
 		"armor": 5,
 		"attack-power": 5
-	},
-	"properties": {
-		"MAXHITPOINTS": 3,
-		"MAXSTAMINA": 3
 	}
 }

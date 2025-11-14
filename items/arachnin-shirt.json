@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"id": "arachnin-shirt",
-	"image": "5139",
-	"type": "chest-armour",
 	"armorType": "cloth",
 	"expansion": "jurassic-wars",
+	"id": "arachnin-shirt",
+	"image": "5139",
 	"material": "cloth",
 	"skills": {
 		"armor": 1
-	}
+	},
+	"type": "chest-armour"
 }

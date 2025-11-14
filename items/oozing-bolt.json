@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 12,
 	"id": "oozing-bolt",
 	"image": "arr1",
-	"type": "ammo-weapons-crossbows",
-	"dpr": 12,
 	"material": "wood",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-crossbows"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "hell-magic/final-hell-storm",
-	"requirements": {
-		"skill": 5000,
-		"mana": 5001
-	},
 	"effects": {
 		"damage": 3594
+	},
+	"id": "hell-magic/final-hell-storm",
+	"requirements": {
+		"mana": 5001,
+		"skill": 5000
 	}
 }

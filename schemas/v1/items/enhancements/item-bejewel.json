@@ -1,41 +1,41 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/items/enhancements/item-bejewel.json",
-	"title": "ItemBejewel",
-	"type": "object",
 	"properties": {
 		"$type": {
 			"const": "/v1/items/enhancements/item-bejewel"
 		},
+		"effects": {
+			"$ref": "/schemas/v1/items/enhancements/enhancement-modified-effects.json"
+		},
 		"id": {
 			"$ref": "/schemas/v1/items/enhancements/bejewels-items-enhancements-id.gen.json"
 		},
-		"item": {
-			"$ref": "/schemas/v1/items-id.gen.json"
-		},
-		"skillValue": {
-			"type": "integer",
-			"minimum": 5
-		},
 		"ingredients": {
-			"type": "array",
 			"items": {
-				"type": "object",
+				"additionalProperties": false,
 				"properties": {
 					"id": {
 						"$ref": "/schemas/v1/items-id.gen.json"
 					},
 					"quantity": {
-						"type": "integer",
-						"minimum": 0
+						"minimum": 0,
+						"type": "integer"
 					}
 				},
 				"required": ["id", "quantity"],
-				"additionalProperties": false
-			}
+				"type": "object"
+			},
+			"type": "array"
 		},
-		"effects": {
-			"$ref": "/schemas/v1/items/enhancements/enhancement-modified-effects.json"
+		"item": {
+			"$ref": "/schemas/v1/items-id.gen.json"
+		},
+		"skillValue": {
+			"minimum": 5,
+			"type": "integer"
 		}
 	},
-	"required": ["$type", "id", "skillValue", "ingredients", "effects"]
+	"required": ["$type", "id", "skillValue", "ingredients", "effects"],
+	"title": "ItemBejewel",
+	"type": "object"
 }

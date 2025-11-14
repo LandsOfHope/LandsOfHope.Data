@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "crisp-cloak",
 	"image": "pclo13",
-	"type": "cloak",
-	"armorType": "cloth",
 	"material": "cloth",
+	"properties": {
+		"SPEED": 1
+	},
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "cloak"
 }

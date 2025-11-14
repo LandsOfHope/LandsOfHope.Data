@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Drowned Wretch"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Drowned Wretch"
+	},
 	"pics": {
-		"M": ["uwdwm"],
-		"F": ["uwdwf"]
+		"F": ["uwdwf"],
+		"M": ["uwdwm"]
 	}
 }

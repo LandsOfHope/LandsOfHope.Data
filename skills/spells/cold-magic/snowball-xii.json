@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "cold-magic/snowball-xii",
-	"requirements": {
-		"skill": 1667,
-		"mana": 1667
-	},
 	"effects": {
 		"damage": 1181
+	},
+	"id": "cold-magic/snowball-xii",
+	"requirements": {
+		"mana": 1667,
+		"skill": 1667
 	}
 }

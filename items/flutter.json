@@ -2,14 +2,14 @@
 	"$type": "/v1/item",
 	"id": "flutter",
 	"image": "gmflle",
-	"type": "wings",
 	"material": "hide",
+	"properties": {
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1
+	},
 	"skills": {
 		"air-survival": 1,
 		"projectile-defense": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1,
-		"MAXMANA": 1
-	}
+	"type": "wings"
 }

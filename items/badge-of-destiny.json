@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"adjustable": true,
 	"id": "badge-of-destiny",
 	"image": "5733",
-	"type": "bonus-2",
-	"adjustable": true,
-	"set": "destiny-set",
 	"material": "hide",
-	"skills": {
-		"experience-bonus": 1
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1
-	}
+	},
+	"set": "destiny-set",
+	"skills": {
+		"experience-bonus": 1
+	},
+	"type": "bonus-2"
 }

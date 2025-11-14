@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "animation/nimble-large-golem-mk-ii",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "nimble-large-golem-mk-ii"
-	},
 	"image": "2955",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "animation",
-	"skillValue": 2400,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "large-shell",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		},
 		{
 			"id": "bone-coating",
@@ -25,5 +16,14 @@
 			"id": "golem-upgrade-nimble-ii",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "nimble-large-golem-mk-ii"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "animation",
+	"skillValue": 2400,
+	"time": "PT15S"
 }

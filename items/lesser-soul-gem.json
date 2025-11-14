@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "lesser-soul-gem",
 	"image": "sg1",
-	"type": "soul-gems",
 	"material": "creatures",
 	"skills": {
 		"mana-regen": 3
-	}
+	},
+	"type": "soul-gems"
 }

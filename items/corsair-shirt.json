@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
-	"id": "corsair-shirt",
-	"image": "5245",
-	"type": "chest-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "corsair-shirt",
+	"image": "5245",
 	"material": "cloth",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	},
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1,
-		"STRENGTH": 1
-	}
+	"type": "chest-armour"
 }

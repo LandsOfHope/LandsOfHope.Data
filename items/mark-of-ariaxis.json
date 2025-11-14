@@ -2,14 +2,14 @@
 	"$type": "/v1/item",
 	"id": "mark-of-ariaxis",
 	"image": "zumaar",
-	"type": "exile-symbol",
-	"set": "dark-hollow-clan",
 	"material": "gem",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
+	"set": "dark-hollow-clan",
 	"skill": "dark-hollow-clan",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "exile-symbol"
 }

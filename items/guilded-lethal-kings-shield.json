@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 63,
 	"id": "guilded-lethal-kings-shield",
 	"image": "sda",
-	"type": "2-handed-equipment",
-	"dpr": 63,
 	"material": "wood",
 	"skill": "two-handed-shields",
 	"skills": {
-		"water-resistance": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"water-resistance": 1
+	},
+	"type": "2-handed-equipment"
 }

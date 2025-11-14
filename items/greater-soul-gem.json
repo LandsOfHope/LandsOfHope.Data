@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "greater-soul-gem",
 	"image": "sg3",
-	"type": "soul-gems",
 	"material": "creatures",
 	"skills": {
 		"mana-regen": 5
-	}
+	},
+	"type": "soul-gems"
 }

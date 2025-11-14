@@ -1,6 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/coordinate.json",
-	"title": "Coordinate",
 	"oneOf": [
 		{
 			"$ref": "/schemas/v1/coordinate2.json"
@@ -8,5 +7,6 @@
 		{
 			"$ref": "/schemas/v1/coordinate3.json"
 		}
-	]
+	],
+	"title": "Coordinate"
 }

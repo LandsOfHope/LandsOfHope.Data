@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 80,
 	"id": "razor-hook",
 	"image": "bbh",
-	"type": "1-handed-equipment",
-	"dpr": 80,
 	"material": "metal",
+	"properties": {
+		"STRENGTH": 1
+	},
 	"skill": "exotic-weapons",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"STRENGTH": 1
-	}
+	"type": "1-handed-equipment"
 }

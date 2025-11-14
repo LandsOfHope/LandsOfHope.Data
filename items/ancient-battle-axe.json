@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 3,
 	"id": "ancient-battle-axe",
 	"image": "aba",
-	"type": "2-handed-equipment",
-	"dpr": 3,
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {
-		"frenzy": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"frenzy": 1
+	},
+	"type": "2-handed-equipment"
 }

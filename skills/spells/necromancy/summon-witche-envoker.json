@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "necromancy/summon-witche-envoker",
-	"requirements": {
-		"skill": 3650,
-		"mana": 3650
-	},
 	"effects": {
 		"summon-item": {
 			"item": "bone-envoker"
 		}
+	},
+	"id": "necromancy/summon-witche-envoker",
+	"requirements": {
+		"mana": 3650,
+		"skill": 3650
 	}
 }

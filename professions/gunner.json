@@ -1,19 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "gunner",
-	"name": {
-		"en": "Gunner"
-	},
 	"desc": {
 		"en": "Gunner"
 	},
-	"skills": {
-		"daggers": 5,
-		"swords": 5,
-		"two-handed-guns": 5,
-		"hand-guns": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "gunner",
+	"name": {
+		"en": "Gunner"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -21,5 +13,13 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 1,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"daggers": 5,
+		"hand-guns": 5,
+		"swords": 5,
+		"two-handed-guns": 5
 	}
 }

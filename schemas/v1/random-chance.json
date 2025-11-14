@@ -1,14 +1,9 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/random-chance.json",
-	"type": "object",
-	"title": "RandomChance",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/random-chance"
-		},
-		"numer": {
-			"type": "integer",
-			"minimum": 1
 		},
 		"denom": {
 			"oneOf": [
@@ -19,8 +14,13 @@
 					"const": 1000
 				}
 			]
+		},
+		"numer": {
+			"minimum": 1,
+			"type": "integer"
 		}
 	},
 	"required": ["$type", "numer", "denom"],
-	"additionalProperties": false
+	"title": "RandomChance",
+	"type": "object"
 }

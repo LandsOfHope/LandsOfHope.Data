@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "earth-magic/mudslide-xi",
-	"requirements": {
-		"skill": 2206,
-		"mana": 2206
-	},
 	"effects": {
 		"damage": 1559
+	},
+	"id": "earth-magic/mudslide-xi",
+	"requirements": {
+		"mana": 2206,
+		"skill": 2206
 	}
 }

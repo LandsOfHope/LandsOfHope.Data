@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "air-magic/whirlwind-of-contemplation",
-	"requirements": {
-		"skill": 681,
-		"mana": 681
-	},
 	"duration": "PT1750M",
 	"effects": {
 		"properties": {
 			"MAXMANA": 341
 		}
+	},
+	"id": "air-magic/whirlwind-of-contemplation",
+	"requirements": {
+		"mana": 681,
+		"skill": 681
 	}
 }

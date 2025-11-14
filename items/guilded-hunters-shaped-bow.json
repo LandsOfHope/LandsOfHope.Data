@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 23,
 	"id": "guilded-hunters-shaped-bow",
 	"image": "bw",
-	"type": "ranged-weapon",
-	"dpr": 23,
 	"material": "wood",
 	"skill": "bows",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ranged-weapon"
 }

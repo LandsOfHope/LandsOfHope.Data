@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/preystalker-feline-reflexes-iv",
-	"requirements": {
-		"skill": 827,
-		"mana": 827
-	},
 	"duration": "PT5000M",
 	"effects": {
 		"properties": {
 			"SPEED": 414
 		}
+	},
+	"id": "gm-magic/preystalker-feline-reflexes-iv",
+	"requirements": {
+		"mana": 827,
+		"skill": 827
 	}
 }

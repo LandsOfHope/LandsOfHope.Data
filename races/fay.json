@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Fay"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Fay"
+	},
 	"pics": {
-		"M": ["mpfam"],
-		"F": ["mpfaf"]
+		"F": ["mpfaf"],
+		"M": ["mpfam"]
 	}
 }

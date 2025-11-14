@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "gem-pendant",
 	"image": "pdt",
-	"type": "neck",
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1
-	}
+	},
+	"type": "neck"
 }

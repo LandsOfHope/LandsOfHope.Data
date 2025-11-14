@@ -2,14 +2,14 @@
 	"$type": "/v1/item",
 	"id": "monster",
 	"image": "gmmooe",
-	"type": "wings",
 	"material": "hide",
-	"skills": {
-		"fire-survival": 1,
-		"air-survival": 1,
-		"armor": 1
-	},
 	"properties": {
 		"MAXSTAMINA": 1
-	}
+	},
+	"skills": {
+		"air-survival": 1,
+		"armor": 1,
+		"fire-survival": 1
+	},
+	"type": "wings"
 }

@@ -1,42 +1,42 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/deltas/character-queue-item-updated-delta.json",
-	"title": "CharacterQueueItemUpdatedDelta",
-	"type": "object",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/queue/deltas/character-queue-item-updated-delta"
 		},
-		"old": {
-			"type": "object",
-			"properties": {
-				"start": {
-					"$ref": "/schemas/v0/datetime.json"
-				},
-				"finish": {
-					"$ref": "/schemas/v0/datetime.json"
-				},
-				"cancellable": {
-					"type": "boolean"
-				}
-			},
-			"required": ["start", "finish", "cancellable"]
-		},
 		"new": {
-			"type": "object",
 			"properties": {
-				"start": {
-					"$ref": "/schemas/v0/datetime.json"
+				"cancellable": {
+					"type": "boolean"
 				},
 				"finish": {
 					"$ref": "/schemas/v0/datetime.json"
 				},
-				"cancellable": {
-					"type": "boolean"
+				"start": {
+					"$ref": "/schemas/v0/datetime.json"
 				}
 			},
-			"required": ["start", "finish", "cancellable"]
+			"required": ["start", "finish", "cancellable"],
+			"type": "object"
+		},
+		"old": {
+			"properties": {
+				"cancellable": {
+					"type": "boolean"
+				},
+				"finish": {
+					"$ref": "/schemas/v0/datetime.json"
+				},
+				"start": {
+					"$ref": "/schemas/v0/datetime.json"
+				}
+			},
+			"required": ["start", "finish", "cancellable"],
+			"type": "object"
 		}
 	},
 	"required": ["$type", "old", "new"],
-	"additionalProperties": false
+	"title": "CharacterQueueItemUpdatedDelta",
+	"type": "object"
 }

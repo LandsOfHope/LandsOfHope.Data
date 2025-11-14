@@ -1,18 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "ancient-cook",
-	"name": {
-		"en": "Ancient Cook"
-	},
 	"desc": {
 		"en": "4th Anniversary"
 	},
-	"skills": {
-		"cooking": 5,
-		"staves": 5,
-		"cooking-magic": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "ancient-cook",
+	"name": {
+		"en": "Ancient Cook"
 	},
 	"properties": {
 		"DEXTERITY": 1,
@@ -22,5 +15,12 @@
 		"MAXSTAMINA": 2,
 		"SPEED": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cooking": 5,
+		"cooking-magic": 5,
+		"staves": 5
 	}
 }

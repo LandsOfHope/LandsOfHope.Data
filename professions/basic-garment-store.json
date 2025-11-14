@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": ""
+	},
 	"id": "basic-garment-store",
 	"name": {
 		"en": "Basic Garment Store"
 	},
-	"desc": {
-		"en": ""
-	},
-	"skills": {
-		"two-handed-swords": 5
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 1
+	},
+	"skills": {
+		"two-handed-swords": 5
 	}
 }

@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/accounts/account-sources.json",
-	"title": "AccountSources",
-	"type": "object",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
@@ -14,5 +12,7 @@
 			"$ref": "/schemas/v1/accounts/keycloak/keycloak-account.json"
 		}
 	},
-	"required": ["$type"]
+	"required": ["$type"],
+	"title": "AccountSources",
+	"type": "object"
 }

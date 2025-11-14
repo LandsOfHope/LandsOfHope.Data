@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/amazonian-i",
-	"requirements": {
-		"skill": 85,
-		"mana": 85
-	},
 	"duration": "PT14000M",
 	"effects": {
 		"properties": {
 			"SPEED": 43
 		}
+	},
+	"id": "gm-magic/amazonian-i",
+	"requirements": {
+		"mana": 85,
+		"skill": 85
 	}
 }

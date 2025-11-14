@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "bejeweling/farming-earring-jewel",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-bejewel",
-		"item": "earring-enhancement",
-		"bejewel": "bejewels/farming-earring-jewel"
-	},
 	"image": "sahj",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "bejeweling",
-	"skillValue": 2150,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "pearl",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-bejewel",
+		"bejewel": "bejewels/farming-earring-jewel",
+		"item": "earring-enhancement"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "bejeweling",
+	"skillValue": 2150,
+	"time": "PT15S"
 }

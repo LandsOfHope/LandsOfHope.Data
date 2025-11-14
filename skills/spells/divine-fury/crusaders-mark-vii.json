@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "divine-fury/crusaders-mark-vii",
-	"requirements": {
-		"skill": 4300,
-		"mana": 670
-	},
 	"duration": "PT120M",
 	"effects": {
 		"skills": {
 			"arcane-resistance": 1400
 		}
+	},
+	"id": "divine-fury/crusaders-mark-vii",
+	"requirements": {
+		"mana": 670,
+		"skill": 4300
 	}
 }

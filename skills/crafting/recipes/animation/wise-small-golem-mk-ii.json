@@ -1,21 +1,12 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "animation/wise-small-golem-mk-ii",
-	"makes": {
-		"$type": "/v1/skills/crafting/recipe-product-item",
-		"item": "wise-small-golem-mk-ii"
-	},
 	"image": "2680",
-	"time": "PT15S",
-	"quantity": 1,
-	"skill": "animation",
-	"skillValue": 325,
-	"quality": "common",
 	"ingredients": [
 		{
 			"id": "small-shell",
-			"quantity": 1,
-			"primary": true
+			"primary": true,
+			"quantity": 1
 		},
 		{
 			"id": "plain-coating",
@@ -25,5 +16,14 @@
 			"id": "golem-upgrade-wise-ii",
 			"quantity": 1
 		}
-	]
+	],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "wise-small-golem-mk-ii"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "animation",
+	"skillValue": 325,
+	"time": "PT15S"
 }

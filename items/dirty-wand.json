@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/item",
+	"dpr": 29,
 	"id": "dirty-wand",
 	"image": "wand03",
-	"type": "1-handed-equipment",
-	"dpr": 29,
 	"material": "stone",
+	"properties": {
+		"INTELLIGENCE": 1
+	},
 	"skill": "staves",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"INTELLIGENCE": 1
-	}
+	"type": "1-handed-equipment"
 }

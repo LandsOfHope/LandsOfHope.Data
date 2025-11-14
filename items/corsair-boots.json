@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
-	"id": "corsair-boots",
-	"image": "5247",
-	"type": "foot-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "corsair-boots",
+	"image": "5247",
 	"material": "cloth",
+	"properties": {
+		"MAXSTAMINA": 1,
+		"STRENGTH": 1
+	},
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1,
-		"STRENGTH": 1
-	}
+	"type": "foot-armour"
 }

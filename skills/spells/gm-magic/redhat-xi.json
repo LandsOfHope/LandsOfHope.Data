@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/redhat-xi",
-	"requirements": {
-		"skill": 550,
-		"level": 1001,
-		"mana": 11
-	},
 	"duration": "PT26M",
 	"effects": {
 		"properties": {
 			"MAXHITPOINTS": 550
 		}
+	},
+	"id": "gm-magic/redhat-xi",
+	"requirements": {
+		"level": 1001,
+		"mana": 11,
+		"skill": 550
 	}
 }

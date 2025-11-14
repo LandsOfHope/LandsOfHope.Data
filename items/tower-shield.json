@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 5,
 	"id": "tower-shield",
 	"image": "sd8",
-	"type": "2-handed-equipment",
-	"dpr": 5,
 	"material": "metal",
 	"skill": "two-handed-shields",
 	"skills": {
-		"bladed-defense": 1,
-		"armor": 1
-	}
+		"armor": 1,
+		"bladed-defense": 1
+	},
+	"type": "2-handed-equipment"
 }

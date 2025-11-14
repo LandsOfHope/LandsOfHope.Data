@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1998
+	},
 	"id": "instruments/recital-ii",
 	"requirements": {
 		"skill": 3988,
 		"stamina": 3988
-	},
-	"effects": {
-		"damage": 1998
 	}
 }

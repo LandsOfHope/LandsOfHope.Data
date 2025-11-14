@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "air-magic/final-storm-of-the-century",
-	"requirements": {
-		"skill": 5000,
-		"mana": 5001
-	},
 	"duration": "PT1M",
 	"effects": {
 		"damage": 3594
+	},
+	"id": "air-magic/final-storm-of-the-century",
+	"requirements": {
+		"mana": 5001,
+		"skill": 5000
 	}
 }

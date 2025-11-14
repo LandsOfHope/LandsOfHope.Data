@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "bandit-shirt",
-	"image": "5240",
-	"type": "chest-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "bandit-shirt",
+	"image": "5240",
 	"material": "cloth",
+	"properties": {
+		"DEXTERITY": 1
+	},
 	"skill": "pirate-league",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"DEXTERITY": 1
-	}
+	"type": "chest-armour"
 }

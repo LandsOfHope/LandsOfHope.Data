@@ -1,6 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v0/items/extras/categories-id.json",
-	"title": "ExtraCategoriesId",
 	"enum": [
 		"general",
 		"trading-card",
@@ -14,5 +13,6 @@
 		"cookie-summoning",
 		"keys",
 		"storage-slot-1-thru-5"
-	]
+	],
+	"title": "ExtraCategoriesId"
 }

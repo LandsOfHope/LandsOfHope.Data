@@ -1,18 +1,18 @@
 {
-	"name": {
-		"en": "Diamond Dragon"
-	},
-	"desc": {
+	"appr": {
 		"en": ""
 	},
-	"appr": {
+	"desc": {
 		"en": ""
 	},
 	"hist": {
 		"en": ""
 	},
+	"name": {
+		"en": "Diamond Dragon"
+	},
 	"pics": {
-		"M": ["diadragonm"],
-		"F": ["diadragonf"]
+		"F": ["diadragonf"],
+		"M": ["diadragonm"]
 	}
 }

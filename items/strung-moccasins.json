@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "leather",
 	"id": "strung-moccasins",
 	"image": "2861",
-	"type": "foot-armour",
-	"armorType": "leather",
-	"material": "hide"
+	"material": "hide",
+	"type": "foot-armour"
 }

@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/cecilia-the-chef",
-	"requirements": {
-		"skill": 1222,
-		"mana": 1222
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "human",
-			"profession": "cook"
+			"profession": "cook",
+			"race": "human"
 		}
+	},
+	"id": "summoning/cecilia-the-chef",
+	"requirements": {
+		"mana": 1222,
+		"skill": 1222
 	}
 }

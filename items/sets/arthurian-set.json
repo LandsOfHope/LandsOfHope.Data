@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/items/set",
+	"color": "gold",
 	"id": "arthurian-set",
 	"image": "na.gif",
-	"color": "gold",
+	"items": ["arthurs-ring", "merlins-necklace", "morganas-earring"],
 	"spells": {
 		"0": {
 			"50": "arthurian-i",
@@ -16,6 +17,5 @@
 			"850": "arthurian-ix",
 			"950": "arthurian-x"
 		}
-	},
-	"items": ["arthurs-ring", "merlins-necklace", "morganas-earring"]
+	}
 }

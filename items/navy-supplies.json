@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"expansion": "uncharted-waters",
 	"id": "navy-supplies",
 	"image": "ct3",
-	"type": "duty-item",
-	"expansion": "uncharted-waters",
-	"material": "cloth"
+	"material": "cloth",
+	"type": "duty-item"
 }

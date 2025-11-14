@@ -1,60 +1,24 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/items/enhancements/enhancement-modified-effects.json",
-	"title": "EnhancementEffects",
-	"type": "object",
-	"properties": {
-		"properties": {
-			"type": "object",
-			"patternProperties": {
-				".*": {
-					"type": "number",
-					"minimum": 0,
-					"maximum": 1,
-					"multipleOf": 0.01
-				}
-			},
-			"propertyNames": {
-				"$ref": "/schemas/v1/characters/character-property-name.json"
-			},
-			"minProperties": 1,
-			"additionalProperties": false
-		},
-		"skills": {
-			"type": "object",
-			"patternProperties": {
-				".*": {
-					"type": "number",
-					"minimum": 0,
-					"maximum": 1,
-					"multipleOf": 0.01
-				}
-			},
-			"propertyNames": {
-				"$ref": "/schemas/v1/skills-id.gen.json"
-			},
-			"minProperties": 1,
-			"additionalProperties": false
-		}
-	},
 	"additionalProperties": false,
 	"anyOf": [
 		{
 			"properties": {
 				"properties": {
-					"type": "object",
+					"additionalProperties": false,
+					"minProperties": 1,
 					"patternProperties": {
 						".*": {
-							"type": "number",
-							"minimum": 0,
 							"maximum": 1,
-							"multipleOf": 0.01
+							"minimum": 0,
+							"multipleOf": 0.01,
+							"type": "number"
 						}
 					},
 					"propertyNames": {
 						"$ref": "/schemas/v1/characters/character-property-name.json"
 					},
-					"minProperties": 1,
-					"additionalProperties": false
+					"type": "object"
 				}
 			},
 			"required": ["properties"]
@@ -62,23 +26,59 @@
 		{
 			"properties": {
 				"skills": {
-					"type": "object",
+					"additionalProperties": false,
+					"minProperties": 1,
 					"patternProperties": {
 						".*": {
-							"type": "number",
-							"minimum": 0,
 							"maximum": 1,
-							"multipleOf": 0.01
+							"minimum": 0,
+							"multipleOf": 0.01,
+							"type": "number"
 						}
 					},
 					"propertyNames": {
 						"$ref": "/schemas/v1/skills-id.gen.json"
 					},
-					"minProperties": 1,
-					"additionalProperties": false
+					"type": "object"
 				}
 			},
 			"required": ["skills"]
 		}
-	]
+	],
+	"properties": {
+		"properties": {
+			"additionalProperties": false,
+			"minProperties": 1,
+			"patternProperties": {
+				".*": {
+					"maximum": 1,
+					"minimum": 0,
+					"multipleOf": 0.01,
+					"type": "number"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/characters/character-property-name.json"
+			},
+			"type": "object"
+		},
+		"skills": {
+			"additionalProperties": false,
+			"minProperties": 1,
+			"patternProperties": {
+				".*": {
+					"maximum": 1,
+					"minimum": 0,
+					"multipleOf": 0.01,
+					"type": "number"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/skills-id.gen.json"
+			},
+			"type": "object"
+		}
+	},
+	"title": "EnhancementEffects",
+	"type": "object"
 }

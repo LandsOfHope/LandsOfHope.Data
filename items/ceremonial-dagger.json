@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
+	"dpr": 4,
 	"id": "ceremonial-dagger",
 	"image": "dg4",
-	"type": "1-handed-equipment",
-	"dpr": 4,
 	"material": "gem",
-	"skill": "daggers",
-	"skills": {
-		"daggers": 1,
-		"attack-power": 1
-	},
 	"properties": {
 		"STRENGTH": 1
-	}
+	},
+	"skill": "daggers",
+	"skills": {
+		"attack-power": 1,
+		"daggers": 1
+	},
+	"type": "1-handed-equipment"
 }

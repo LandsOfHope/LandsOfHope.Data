@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "summoning/scaldok-spellweaver",
-	"requirements": {
-		"skill": 2786,
-		"mana": 2786
-	},
 	"effects": {
 		"summon-pet": {
-			"race": "sithe-lord",
-			"profession": "mage"
+			"profession": "mage",
+			"race": "sithe-lord"
 		}
+	},
+	"id": "summoning/scaldok-spellweaver",
+	"requirements": {
+		"mana": 2786,
+		"skill": 2786
 	}
 }

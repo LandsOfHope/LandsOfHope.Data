@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "spike-choker",
 	"image": "zuspch",
-	"type": "neck",
 	"material": "gem",
 	"properties": {
 		"SPEED": 1
-	}
+	},
+	"type": "neck"
 }

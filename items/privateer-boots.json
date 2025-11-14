@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/item",
-	"id": "privateer-boots",
-	"image": "5222",
-	"type": "foot-armour",
 	"armorType": "leather",
 	"expansion": "uncharted-waters",
+	"id": "privateer-boots",
+	"image": "5222",
 	"material": "cloth",
+	"properties": {
+		"SPEED": 1
+	},
 	"skill": "seamanship",
 	"skills": {
 		"armor": 1
 	},
-	"properties": {
-		"SPEED": 1
-	}
+	"type": "foot-armour"
 }

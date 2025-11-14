@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "necromancy/summon-undead-envoker",
-	"requirements": {
-		"skill": 4550,
-		"mana": 4550
-	},
 	"effects": {
 		"summon-item": {
 			"item": "bone-envoker"
 		}
+	},
+	"id": "necromancy/summon-undead-envoker",
+	"requirements": {
+		"mana": 4550,
+		"skill": 4550
 	}
 }

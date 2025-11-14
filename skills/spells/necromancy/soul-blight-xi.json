@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "necromancy/soul-blight-xi",
-	"requirements": {
-		"skill": 2356,
-		"mana": 2356
-	},
 	"effects": {
 		"damage": 1664
+	},
+	"id": "necromancy/soul-blight-xi",
+	"requirements": {
+		"mana": 2356,
+		"skill": 2356
 	}
 }

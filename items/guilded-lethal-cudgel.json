@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 63,
 	"id": "guilded-lethal-cudgel",
 	"image": "bm",
-	"type": "1-handed-equipment",
-	"dpr": 63,
 	"material": "metal",
 	"skill": "maces",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "1-handed-equipment"
 }

@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/style",
+	"effects": {
+		"damage": 1879
+	},
 	"id": "two-handed-swords/mastered-eviscerate-ix",
 	"requirements": {
 		"skill": 3751,
 		"stamina": 3750
-	},
-	"effects": {
-		"damage": 1879
 	}
 }

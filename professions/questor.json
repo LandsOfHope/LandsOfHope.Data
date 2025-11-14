@@ -1,18 +1,18 @@
 {
 	"$type": "/v1/profession",
+	"desc": {
+		"en": "Questor"
+	},
 	"id": "questor",
 	"name": {
 		"en": "Questor"
 	},
-	"desc": {
-		"en": "Questor"
+	"properties": {
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 3
 	},
 	"skills": {
 		"armor": 5,
 		"attack-power": 5
-	},
-	"properties": {
-		"MAXHITPOINTS": 3,
-		"MAXSTAMINA": 3
 	}
 }

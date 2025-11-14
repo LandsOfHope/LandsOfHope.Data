@@ -1,28 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "majestic-mini-boss",
-	"name": {
-		"en": "Majestic Mini Boss"
-	},
 	"desc": {
 		"en": "Bought extra pet Mini boss class."
 	},
-	"skills": {
-		"mana-draining": 5,
-		"health-stealing": 5,
-		"daggers": 5,
-		"swords": 5,
-		"axes": 5,
-		"two-handed-axes": 5,
-		"bows": 5,
-		"maces": 5,
-		"two-handed-maces": 5,
-		"shields": 5,
-		"two-handed-shields": 5,
-		"dual-wielding": 5,
-		"two-handed-swords": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "majestic-mini-boss",
+	"name": {
+		"en": "Majestic Mini Boss"
 	},
 	"properties": {
 		"DEXTERITY": 4,
@@ -32,5 +15,22 @@
 		"MAXSTAMINA": 4,
 		"SPEED": 1,
 		"STRENGTH": 4
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"axes": 5,
+		"bows": 5,
+		"daggers": 5,
+		"dual-wielding": 5,
+		"health-stealing": 5,
+		"maces": 5,
+		"mana-draining": 5,
+		"shields": 5,
+		"swords": 5,
+		"two-handed-axes": 5,
+		"two-handed-maces": 5,
+		"two-handed-shields": 5,
+		"two-handed-swords": 5
 	}
 }

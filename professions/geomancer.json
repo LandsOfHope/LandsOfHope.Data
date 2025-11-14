@@ -1,18 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "geomancer",
-	"name": {
-		"en": "Geomancer"
-	},
 	"desc": {
 		"en": "The Geomancer is a Tier III evolution from the Animator Profession via Shaper > Manipulator."
 	},
-	"skills": {
-		"swords": 5,
-		"two-handed-staves": 5,
-		"staves": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "geomancer",
+	"name": {
+		"en": "Geomancer"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -21,5 +14,12 @@
 		"MAXMANA": 2,
 		"MAXSTAMINA": 2,
 		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"staves": 5,
+		"swords": 5,
+		"two-handed-staves": 5
 	}
 }

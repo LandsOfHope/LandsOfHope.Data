@@ -1,18 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"id": "christmas-ornament",
-	"name": {
-		"en": "Christmas Ornament"
-	},
 	"desc": {
 		"en": "Wintersvale Product 2008."
 	},
-	"skills": {
-		"frenzy": 5,
-		"axes": 5,
-		"dual-wielding": 5,
-		"armor": 5,
-		"attack-power": 5
+	"id": "christmas-ornament",
+	"name": {
+		"en": "Christmas Ornament"
 	},
 	"properties": {
 		"DEXTERITY": 2,
@@ -20,5 +13,12 @@
 		"MAXSTAMINA": 4,
 		"SPEED": 1,
 		"STRENGTH": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"axes": 5,
+		"dual-wielding": 5,
+		"frenzy": 5
 	}
 }

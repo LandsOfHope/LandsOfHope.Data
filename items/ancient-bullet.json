@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
+	"dpr": 101,
 	"id": "ancient-bullet",
 	"image": "zuanbu",
-	"type": "ammo-weapons-bullets",
-	"dpr": 101,
 	"material": "metal",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ammo-weapons-bullets"
 }

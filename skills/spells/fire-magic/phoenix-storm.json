@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "fire-magic/phoenix-storm",
-	"requirements": {
-		"skill": 3256,
-		"mana": 3256
-	},
 	"effects": {
 		"damage": 2294
+	},
+	"id": "fire-magic/phoenix-storm",
+	"requirements": {
+		"mana": 3256,
+		"skill": 3256
 	}
 }

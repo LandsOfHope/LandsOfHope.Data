@@ -1,15 +1,15 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "gm-magic/dahlias-blossom-buff",
-	"requirements": {
-		"skill": 1,
-		"level": 1,
-		"mana": 1
-	},
 	"duration": "PT1400M",
 	"effects": {
 		"properties": {
 			"MAXSTAMINA": 100
 		}
+	},
+	"id": "gm-magic/dahlias-blossom-buff",
+	"requirements": {
+		"level": 1,
+		"mana": 1,
+		"skill": 1
 	}
 }

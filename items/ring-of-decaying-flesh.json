@@ -2,10 +2,10 @@
 	"$type": "/v1/item",
 	"id": "ring-of-decaying-flesh",
 	"image": "rgb",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
-		"poison-resistance": 1,
-		"invoking-resistance": 1
-	}
+		"invoking-resistance": 1,
+		"poison-resistance": 1
+	},
+	"type": "ring"
 }

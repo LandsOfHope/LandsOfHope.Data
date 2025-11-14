@@ -1,7 +1,5 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/payments/credits/credit-history-support-adjustment.json",
-	"title": "CreditHistorySupportAdjustment",
-	"type": "object",
 	"allOf": [
 		{
 			"$ref": "/schemas/v1/payments/credits/credit-history.json"
@@ -15,5 +13,7 @@
 			"type": "string"
 		}
 	},
-	"required": ["$type", "supportAdjustmentDescription"]
+	"required": ["$type", "supportAdjustmentDescription"],
+	"title": "CreditHistorySupportAdjustment",
+	"type": "object"
 }

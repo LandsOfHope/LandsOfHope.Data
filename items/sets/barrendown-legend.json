@@ -1,8 +1,17 @@
 {
 	"$type": "/v1/items/set",
+	"color": "yellow",
 	"id": "barrendown-legend",
 	"image": "na.gif",
-	"color": "yellow",
+	"items": [
+		"barrendown-boots",
+		"barrendown-vest",
+		"barrendown-coif",
+		"barrendown-sleeves",
+		"barrendown-pauldrons",
+		"barrendown-gauntlets",
+		"barrendown-leggings"
+	],
 	"spells": {
 		"0": {
 			"0": "summon-wisp"
@@ -16,14 +25,5 @@
 		"3": {
 			"0": "summon-hydra"
 		}
-	},
-	"items": [
-		"barrendown-boots",
-		"barrendown-vest",
-		"barrendown-coif",
-		"barrendown-sleeves",
-		"barrendown-pauldrons",
-		"barrendown-gauntlets",
-		"barrendown-leggings"
-	]
+	}
 }

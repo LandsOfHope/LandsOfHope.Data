@@ -2,9 +2,9 @@
 	"$type": "/v1/item",
 	"id": "ring-of-accuracy",
 	"image": "rg1",
-	"type": "ring",
 	"material": "gem",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "ring"
 }

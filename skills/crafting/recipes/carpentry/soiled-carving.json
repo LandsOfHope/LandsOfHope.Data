@@ -1,21 +1,21 @@
 {
 	"$type": "/v1/skills/crafting/recipe",
 	"id": "carpentry/soiled-carving",
+	"image": "974",
+	"ingredients": [
+		{
+			"id": "plank",
+			"primary": true,
+			"quantity": 12
+		}
+	],
 	"makes": {
 		"$type": "/v1/skills/crafting/recipe-product-item",
 		"item": "soiled-carving"
 	},
-	"image": "974",
-	"time": "PT15S",
+	"quality": "common",
 	"quantity": 1,
 	"skill": "carpentry",
 	"skillValue": 2475,
-	"quality": "common",
-	"ingredients": [
-		{
-			"id": "plank",
-			"quantity": 12,
-			"primary": true
-		}
-	]
+	"time": "PT15S"
 }

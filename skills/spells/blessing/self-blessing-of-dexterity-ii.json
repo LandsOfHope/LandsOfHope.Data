@@ -1,14 +1,14 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "blessing/self-blessing-of-dexterity-ii",
-	"requirements": {
-		"skill": 4854,
-		"mana": 4854
-	},
 	"duration": "PT120M",
 	"effects": {
 		"properties": {
 			"DEXTERITY": 500
 		}
+	},
+	"id": "blessing/self-blessing-of-dexterity-ii",
+	"requirements": {
+		"mana": 4854,
+		"skill": 4854
 	}
 }

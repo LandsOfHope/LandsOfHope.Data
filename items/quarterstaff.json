@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
+	"dpr": 4,
 	"id": "quarterstaff",
 	"image": "qsf",
-	"type": "2-handed-equipment",
-	"dpr": 4,
 	"material": "wood",
 	"skill": "staves",
 	"skills": {
 		"attack-power": 1
-	}
+	},
+	"type": "2-handed-equipment"
 }

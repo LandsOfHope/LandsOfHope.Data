@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
+	"dpr": 8,
 	"id": "ooozie",
 	"image": "pl2",
-	"type": "1-handed-equipment",
-	"dpr": 8,
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {
-		"hand-guns": 1,
-		"attack-power": 1
-	}
+		"attack-power": 1,
+		"hand-guns": 1
+	},
+	"type": "1-handed-equipment"
 }

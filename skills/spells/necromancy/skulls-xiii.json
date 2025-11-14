@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/skills/spell",
-	"id": "necromancy/skulls-xiii",
-	"requirements": {
-		"skill": 3000,
-		"mana": 3000
-	},
 	"effects": {
 		"damage": 2115
+	},
+	"id": "necromancy/skulls-xiii",
+	"requirements": {
+		"mana": 3000,
+		"skill": 3000
 	}
 }

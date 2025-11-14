@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "ring-of-the-covenant",
 	"image": "6164",
-	"type": "ring",
 	"material": "gem",
-	"skills": {
-		"air-survival": 1
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 1
-	}
+	},
+	"skills": {
+		"air-survival": 1
+	},
+	"type": "ring"
 }

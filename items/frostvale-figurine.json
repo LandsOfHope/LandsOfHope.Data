@@ -2,13 +2,13 @@
 	"$type": "/v1/item",
 	"id": "frostvale-figurine",
 	"image": "relic3",
-	"type": "special-slot",
 	"material": "metal",
+	"properties": {
+		"MAXSTAMINA": 1
+	},
 	"skill": "archaeology",
 	"skills": {
 		"attack-power": 1
 	},
-	"properties": {
-		"MAXSTAMINA": 1
-	}
+	"type": "special-slot"
 }

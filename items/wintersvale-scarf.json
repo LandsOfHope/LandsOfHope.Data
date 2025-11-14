@@ -2,12 +2,12 @@
 	"$type": "/v1/item",
 	"id": "wintersvale-scarf",
 	"image": "6206",
-	"type": "neck-clothing",
 	"material": "cloth",
+	"properties": {
+		"MAXHITPOINTS": 1
+	},
 	"skills": {
 		"toy-snatching": 1
 	},
-	"properties": {
-		"MAXHITPOINTS": 1
-	}
+	"type": "neck-clothing"
 }

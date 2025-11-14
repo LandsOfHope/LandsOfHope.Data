@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"armorType": "cloth",
 	"id": "guilded-pleated-wristband",
 	"image": "ta5",
-	"type": "wrist-jewelry",
-	"armorType": "cloth",
-	"material": "cloth"
+	"material": "cloth",
+	"type": "wrist-jewelry"
 }
