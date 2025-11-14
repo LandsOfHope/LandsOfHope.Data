@@ -1,5 +1,5 @@
-const fs = require("fs");
-const path = require("path");
+const fs = require("node:fs");
+const path = require("node:path");
 const schemaRoot = path.join(__dirname, "../schemas");
 
 const creationImages = JSON.parse(

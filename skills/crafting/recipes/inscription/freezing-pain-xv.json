@@ -1,0 +1,15 @@
+{
+	"$type": "/v1/skills/crafting/recipe",
+	"id": "inscription/freezing-pain-xv",
+	"image": "na",
+	"ingredients": [],
+	"makes": {
+		"$type": "/v1/skills/crafting/recipe-product-item",
+		"item": "imprint"
+	},
+	"quality": "common",
+	"quantity": 1,
+	"skill": "inscription",
+	"skillValue": 4332,
+	"time": "PT15S"
+}

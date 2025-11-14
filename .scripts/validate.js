@@ -458,12 +458,20 @@ const main = async () =>
 			.then((dirs) =>
 				dirs.flatMap((skill) => {
 					return [
-						checkMappingsAreValidMap(
+						fs.existsSync(
 							`skills/crafting/recipes/${skill}/mappings/id-to-slug.json`,
-						),
-						checkMappingsAreValidMap(
+						)
+							? checkMappingsAreValidMap(
+									`skills/crafting/recipes/${skill}/mappings/id-to-slug.json`,
+								)
+							: [],
+						fs.existsSync(
 							`skills/crafting/recipes/${skill}/mappings/slug-to-id.json`,
-						),
+						)
+							? checkMappingsAreValidMap(
+									`skills/crafting/recipes/${skill}/mappings/slug-to-id.json`,
+								)
+							: [],
 					];
 				}),
 			)),
