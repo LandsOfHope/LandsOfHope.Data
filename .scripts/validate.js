@@ -66,6 +66,11 @@ const schemasWithOptionalTypeSpecifier = [
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-patched.json",
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/enhancements/enhanced-guilded.json",
 	"https://data.landsofhope.com/schemas/v1/items/enhancements/enhancement-modified-effects.json",
+
+	// search conditions aren't intended for any form of storage, only for query requests
+	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-and-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-is-player-character.json",
+	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-name-contains.json",
 ];
 
 const validate = async (schema, file) => {
@@ -386,6 +391,8 @@ const main = async () =>
 		validateTestData("v1/characters/character-skills"),
 		validateTestData("v1/characters/queue/character-queue-item"),
 		validateNegativeTestData("v1/characters/queue/character-queue-item"),
+		validateTestData("v1/characters/search/character-search-condition"),
+		validateNegativeTestData("v1/characters/search/character-search-condition"),
 		validateTestData("v1/chat/chat-mention"),
 		validateTestData("v1/chat/chat-message"),
 		validateTestData("v1/chat/chat-settings"),

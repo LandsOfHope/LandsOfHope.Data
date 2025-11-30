@@ -1,0 +1,12 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-name-contains.json",
+	"properties": {
+		"nameContains": {
+			"minLength": 3,
+			"type": "string"
+		}
+	},
+	"required": ["nameContains"],
+	"title": "CharacterSearchNameContains",
+	"type": "object"
+}

@@ -1,0 +1,10 @@
+{
+	"and": [
+		{
+			"nameContains": "who"
+		},
+		{
+			"player": true
+		}
+	]
+}
