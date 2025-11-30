@@ -18,11 +18,14 @@
 		"appearance": {
 			"$ref": "/schemas/v1/characters/appearance-profile.json"
 		},
+		"id": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
 		"status": {
 			"$ref": "/schemas/v1/characters/character-status.json"
 		}
 	},
-	"required": ["$type", "status", "appearance", "account"],
+	"required": ["$type", "id", "status", "appearance", "account"],
 	"title": "Character",
 	"type": "object"
 }

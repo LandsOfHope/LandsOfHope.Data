@@ -5,10 +5,19 @@
 			"$ref": "/schemas/v1/characters/search/character-search-and-condition.json"
 		},
 		{
-			"$ref": "/schemas/v1/characters/search/character-search-name-contains.json"
+			"$ref": "/schemas/v1/characters/search/character-search-or-condition.json"
 		},
 		{
-			"$ref": "/schemas/v1/characters/search/character-search-is-player-character.json"
+			"$ref": "/schemas/v1/characters/search/character-search-name-contains-condition.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/search/character-search-is-player-character-condition.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/search/character-search-account-condition.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/search/character-search-level-range-condition.json"
 		}
 	],
 	"title": "CharacterSearchCondition",

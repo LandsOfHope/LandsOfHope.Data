@@ -69,8 +69,11 @@ const schemasWithOptionalTypeSpecifier = [
 
 	// search conditions aren't intended for any form of storage, only for query requests
 	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-and-condition.json",
-	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-is-player-character.json",
-	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-name-contains.json",
+	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-or-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-is-player-character-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-name-contains-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-level-range-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-account-condition.json",
 ];
 
 const validate = async (schema, file) => {

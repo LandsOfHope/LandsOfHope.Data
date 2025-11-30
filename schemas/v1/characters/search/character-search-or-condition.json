@@ -1,8 +1,8 @@
 {
-	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-and-condition.json",
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-or-condition.json",
 	"additionalProperties": false,
 	"properties": {
-		"and": {
+		"or": {
 			"items": {
 				"$ref": "/schemas/v1/characters/search/character-search-condition.json"
 			},
@@ -10,7 +10,7 @@
 			"type": "array"
 		}
 	},
-	"required": ["and"],
-	"title": "CharacterSearchAndCondition",
+	"required": ["or"],
+	"title": "CharacterSearchOrCondition",
 	"type": "object"
 }

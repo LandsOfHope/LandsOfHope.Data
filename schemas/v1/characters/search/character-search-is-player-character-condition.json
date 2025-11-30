@@ -1,0 +1,12 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-is-player-character-condition.json",
+	"additionalProperties": false,
+	"properties": {
+		"player": {
+			"type": "boolean"
+		}
+	},
+	"required": ["player"],
+	"title": "CharacterSearchIsPlayerCharacterCondition",
+	"type": "object"
+}

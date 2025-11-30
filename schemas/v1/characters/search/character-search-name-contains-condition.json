@@ -1,0 +1,13 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-name-contains-condition.json",
+	"additionalProperties": false,
+	"properties": {
+		"nameContains": {
+			"minLength": 3,
+			"type": "string"
+		}
+	},
+	"required": ["nameContains"],
+	"title": "CharacterSearchNameContainsCondition",
+	"type": "object"
+}

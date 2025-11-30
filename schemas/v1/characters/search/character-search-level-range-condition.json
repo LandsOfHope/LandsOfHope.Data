@@ -1,0 +1,54 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-level-range-condition.json",
+	"additionalProperties": false,
+	"properties": {
+		"level": {
+			"oneOf": [
+				{
+					"additionalProperties": false,
+					"properties": {
+						"min": {
+							"maximum": 1000,
+							"minimum": 1,
+							"type": "integer"
+						}
+					},
+					"required": ["min"],
+					"type": "object"
+				},
+				{
+					"additionalProperties": false,
+					"properties": {
+						"max": {
+							"maximum": 1000,
+							"minimum": 1,
+							"type": "integer"
+						}
+					},
+					"required": ["max"],
+					"type": "object"
+				},
+				{
+					"additionalProperties": false,
+					"properties": {
+						"max": {
+							"maximum": 1000,
+							"minimum": 1,
+							"type": "integer"
+						},
+						"min": {
+							"maximum": 1000,
+							"minimum": 1,
+							"type": "integer"
+						}
+					},
+					"required": ["min", "max"],
+					"type": "object"
+				}
+			]
+		}
+	},
+	"required": ["level"],
+	"title": "CharacterSearchLevelRangeCondition",
+	"type": "object"
+}

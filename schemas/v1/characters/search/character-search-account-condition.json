@@ -1,0 +1,12 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-account-condition.json",
+	"additionalProperties": false,
+	"properties": {
+		"account": {
+			"$ref": "/schemas/v1/accounts/account-id.json"
+		}
+	},
+	"required": ["account"],
+	"title": "CharacterSearchAccountCondition",
+	"type": "object"
+}
