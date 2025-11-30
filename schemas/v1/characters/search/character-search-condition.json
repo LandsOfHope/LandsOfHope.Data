@@ -11,6 +11,6 @@
 			"$ref": "/schemas/v1/characters/search/character-search-is-player-character.json"
 		}
 	],
-	"title": "CharacterSearch",
+	"title": "CharacterSearchCondition",
 	"type": "object"
 }
