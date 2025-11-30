@@ -1,18 +1,31 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Rhino"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "rhino",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mjprhif"],
 		"M": ["mjprhim"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"acid-resistance": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"bladed-defense": 5,
+		"bludgeon-defense": 5,
+		"maces": 5,
+		"mystical-magic": 5,
+		"poison-magic": 5,
+		"poison-resistance": 5,
+		"two-handed-maces": 5
 	}
 }

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "huf",
+		"level": {
+			"primary": 600
+		},
+		"name": "Rafina",
+		"sex": "F",
+		"title": "inn-keeper"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

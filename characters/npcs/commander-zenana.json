@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpshdf",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Commander Zenana",
+		"sex": "F",
+		"title": "drow-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

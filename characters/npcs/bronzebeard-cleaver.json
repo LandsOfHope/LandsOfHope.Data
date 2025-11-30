@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "dwm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Bronzebeard Cleaver",
+		"sex": "M",
+		"title": "legendary-2h-sword-seller"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

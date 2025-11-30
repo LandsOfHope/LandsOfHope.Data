@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "vam",
+		"level": {
+			"primary": 100
+		},
+		"name": "Bloodfury",
+		"sex": "M",
+		"title": "banker"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

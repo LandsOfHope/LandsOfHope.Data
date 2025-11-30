@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "red",
 	"id": "frankenstein-set",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"frankensteins-spleen",
 		"frankensteins-lung",
@@ -14,8 +14,15 @@
 		"frankensteins-foot"
 	],
 	"spells": {
-		"0": {
-			"0": "failed-frankenstein-experiment"
-		}
+		"neutral": [
+			{
+				"level": 0,
+				"spell": "gamemastery/frankensteins-monster"
+			},
+			{
+				"level": 0,
+				"spell": "gamemastery/failed-frankenstein-experiment"
+			}
+		]
 	}
 }

@@ -1,18 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Revenant"
-	},
+	"$type": "/v1/race",
+	"classification": "undead",
+	"id": "revenant",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["sc2"],
 		"M": ["sc1"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

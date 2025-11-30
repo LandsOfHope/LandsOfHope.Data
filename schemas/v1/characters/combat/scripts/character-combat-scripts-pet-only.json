@@ -1,0 +1,12 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/combat/scripts/character-combat-scripts-pet-only.json",
+	"allOf": [
+		{
+			"enum": ["heal-bot", "damage-bot"]
+		},
+		{
+			"$ref": "/schemas/v1/characters-combat-scripts-id.gen.json"
+		}
+	],
+	"title": "PetOnlyCombatScript"
+}

@@ -1,18 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Sea Wretch"
-	},
+	"$type": "/v1/race",
+	"classification": "undead",
+	"id": "sea-wretch",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["uwswf"],
 		"M": ["uwswm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

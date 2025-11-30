@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "gem",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Thriomir",
+		"sex": "M",
+		"title": "appraiser"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

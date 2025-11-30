@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "ws1",
+		"level": {
+			"primary": 1
+		},
+		"name": "Xrark Powergiver",
+		"sex": "F",
+		"title": "inscription-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

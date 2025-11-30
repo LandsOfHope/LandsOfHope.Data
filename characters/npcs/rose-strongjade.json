@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "artf1",
+		"level": {
+			"primary": 1
+		},
+		"name": "Rose Strongjade",
+		"sex": "F",
+		"title": "dragonhide-armorer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

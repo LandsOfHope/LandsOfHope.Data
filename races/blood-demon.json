@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": "Flying creature, like a big cat with wings. The wings are covered in hair and so is most of its body apart from the tail which is suprisingly long just without hair."
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Blood Demon"
-	},
+	"$type": "/v1/race",
+	"classification": "special",
+	"id": "blood-demon",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mjpbldf"],
 		"M": ["mjpbldm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"air-survival": 5,
+		"armor": 5,
+		"attack-power": 5
 	}
 }

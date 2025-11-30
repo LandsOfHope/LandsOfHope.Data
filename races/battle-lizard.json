@@ -1,17 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Battle Lizard"
-	},
+	"$type": "/v1/race",
+	"classification": "gladiator",
+	"id": "battle-lizard",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["mjpbliz"]
+		"F": ["mjpbliz"],
+		"M": ["mjpbliz"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

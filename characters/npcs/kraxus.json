@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "asif3",
+		"level": {
+			"primary": 1
+		},
+		"name": "Kraxus",
+		"sex": "F",
+		"title": "scorned-sister"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

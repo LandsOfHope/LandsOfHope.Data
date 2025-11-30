@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "red",
 	"id": "antique-set",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"antique-diamond-earring",
 		"antique-emerald-earring",
@@ -11,9 +11,15 @@
 		"antique-gold-ring"
 	],
 	"spells": {
-		"0": {
-			"0": "antique-aspirations",
-			"1000": "antique-defenses"
-		}
+		"neutral": [
+			{
+				"level": 0,
+				"spell": "gm-magic/antique-aspirations"
+			},
+			{
+				"level": 1000,
+				"spell": "gm-magic/antique-defenses"
+			}
+		]
 	}
 }

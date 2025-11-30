@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpfas",
+		"level": {
+			"primary": 5
+		},
+		"name": "Mad Martha",
+		"sex": "F",
+		"title": "pet-collector"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

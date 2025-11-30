@@ -1,17 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Sakure"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "sakure",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["mjpsak"]
+		"F": ["mjpsak"],
+		"M": ["mjpsak"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"air-magic": 5,
+		"air-resistance": 5,
+		"air-survival": 5,
+		"armor": 5,
+		"attack-power": 5
 	}
 }

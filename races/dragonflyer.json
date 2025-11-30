@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Dragonflyer"
-	},
+	"$type": "/v1/race",
+	"classification": "insect",
+	"id": "dragonflyer",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["draff"],
 		"M": ["drafm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"water-survival": 5
 	}
 }

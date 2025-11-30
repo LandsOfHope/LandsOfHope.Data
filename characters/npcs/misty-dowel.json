@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "misty-dowel"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "elf",
@@ -14,10 +9,10 @@
 		},
 		"name": "Misty Dowel",
 		"sex": "F",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "carpenter"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

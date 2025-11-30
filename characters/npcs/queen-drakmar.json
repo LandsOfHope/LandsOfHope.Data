@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "dkf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Queen Drakmar",
+		"sex": "F",
+		"title": "dragonkin-ruler"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "gim",
+		"level": {
+			"primary": 1
+		},
+		"name": "Sababa Jangles",
+		"sex": "M",
+		"title": "magic-dust-seeker"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,17 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Black Rat"
-	},
+	"$type": "/v1/race",
+	"classification": "beast",
+	"id": "black-rat",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["eprat"]
+		"F": ["eprat"],
+		"M": ["eprat"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

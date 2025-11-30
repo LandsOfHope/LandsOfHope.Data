@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "lef",
+		"level": {
+			"primary": 300
+		},
+		"name": "Errin the Heartseeker",
+		"sex": "F",
+		"title": "health-stealing-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

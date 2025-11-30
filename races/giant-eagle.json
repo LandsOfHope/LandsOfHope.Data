@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": "A huge flying pet."
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Giant Eagle"
-	},
+	"$type": "/v1/race",
+	"classification": "anniversary",
+	"id": "giant-eagle",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mjpeaglef"],
 		"M": ["mjpeaglem"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"air-survival": 5,
+		"armor": 5,
+		"attack-power": 5
 	}
 }

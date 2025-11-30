@@ -1,17 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Koi Carp"
-	},
+	"$type": "/v1/race",
+	"classification": "beast",
+	"id": "koi-carp",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["epkoi"]
+		"F": ["epkoi"],
+		"M": ["epkoi"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

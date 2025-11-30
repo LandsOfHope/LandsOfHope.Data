@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "gof",
+		"level": {
+			"primary": 1
+		},
+		"name": "Brother Romulas",
+		"sex": "F",
+		"title": "large-staves-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,17 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Witch's Black Cat"
-	},
+	"$type": "/v1/race",
+	"classification": "beast",
+	"id": "witchs-black-cat",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["mjpwbc"]
+		"F": ["mjpwbc"],
+		"M": ["mjpwbc"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 2,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cold-survival": 5
 	}
 }

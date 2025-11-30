@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "wd1",
+		"level": {
+			"primary": 325
+		},
+		"name": "Brownoake",
+		"sex": "M",
+		"title": "forest-trophy-collector"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

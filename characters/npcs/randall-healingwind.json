@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "artm1",
+		"level": {
+			"primary": 1
+		},
+		"name": "Randall Healingwind",
+		"sex": "F",
+		"title": "arterian-healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "starf5",
+		"level": {
+			"primary": 950
+		},
+		"name": "Celestia Montera",
+		"sex": "F",
+		"title": "jeweller"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

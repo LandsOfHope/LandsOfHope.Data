@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "haf",
+		"level": {
+			"primary": 500
+		},
+		"name": "Jerelia the Collector",
+		"sex": "F",
+		"title": "guild-trophy-collector"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

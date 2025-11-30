@@ -1,9 +1,9 @@
-const glob = require("glob");
-const fs = require("node:fs");
-const path = require("node:path");
-const jsonschematots = require("json-schema-to-typescript");
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { resolve as _resolve, basename, dirname, join, sep } from "node:path";
+import { sync } from "glob";
+import { compile } from "json-schema-to-typescript";
 
-const schemaVersions = glob.sync("schemas/*");
+const schemaVersions = sync("schemas/*");
 
 const apiRoot = "api/ts/";
 
@@ -12,9 +12,9 @@ const resolver = {
 	order: 1,
 
 	read(file, callback, _$refs) {
-		const filePath = path.resolve(`.${file.url.replace("c:", "")}`);
-		if (fs.existsSync(filePath)) {
-			callback(null, fs.readFileSync(filePath, { encoding: "utf-8" }));
+		const filePath = _resolve(`.${file.url.replace("c:", "")}`);
+		if (existsSync(filePath)) {
+			callback(null, readFileSync(filePath, { encoding: "utf-8" }));
 		} else {
 			callback(new Error(`File not found: ${filePath}`));
 		}
@@ -23,43 +23,38 @@ const resolver = {
 
 const main = async () => {
 	schemaVersions.forEach((version) => {
-		const schemaGlob = `${version}/**/*.json`.replace(path.sep, "/");
-		const schemas = glob.sync(schemaGlob);
+		const schemaGlob = `${version}/**/*.json`.replace(sep, "/");
+		const schemas = sync(schemaGlob);
 
 		const schemaFiles = schemas.map((s) => [
 			s,
-			JSON.parse(fs.readFileSync(s, { encoding: "utf-8" })),
+			JSON.parse(readFileSync(s, { encoding: "utf-8" })),
 		]);
 
 		schemaFiles.forEach(([schemaPath, schema]) => {
-			const outDir = path.join(
+			const outDir = join(
 				apiRoot,
-				path.dirname(schemaPath).substring("schemas/".length),
+				dirname(schemaPath).substring("schemas/".length),
 			);
-			fs.mkdirSync(outDir, { recursive: true });
-			const outSchemaPath = path.join(
+			mkdirSync(outDir, { recursive: true });
+			const outSchemaPath = join(
 				outDir,
-				path
-					.basename(schemaPath)
-					.replace(".gen.", ".")
-					.replace(".json", ".d.ts"),
+				basename(schemaPath).replace(".gen.", ".").replace(".json", ".d.ts"),
 			);
-			jsonschematots
-				.compile(schema, schema.title, {
-					$refOptions: {
-						dereference: { externalReferenceResolution: "root" },
-						resolve: {
-							external: true,
-							file: false,
-							http: false,
-							myresolver: resolver,
-						},
+			compile(schema, schema.title, {
+				$refOptions: {
+					dereference: { externalReferenceResolution: "root" },
+					resolve: {
+						external: true,
+						file: false,
+						http: false,
+						myresolver: resolver,
 					},
-					enableConstEnums: true,
-				})
-				.then((ts) => {
-					fs.writeFileSync(outSchemaPath, ts);
-				});
+				},
+				enableConstEnums: true,
+			}).then((ts) => {
+				writeFileSync(outSchemaPath, ts);
+			});
 		});
 	});
 

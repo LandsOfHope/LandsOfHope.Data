@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "ba2",
+		"level": {
+			"primary": 1
+		},
+		"name": "Tanas Caluse",
+		"sex": "F",
+		"title": "winter-parcel-service"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

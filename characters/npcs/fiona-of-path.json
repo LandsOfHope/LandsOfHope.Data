@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpprif",
+		"level": {
+			"primary": 1
+		},
+		"name": "Fiona of Path",
+		"sex": "F",
+		"title": "trialmaster"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "vac",
+		"level": {
+			"primary": 1
+		},
+		"name": "Vanessa",
+		"sex": "F",
+		"title": "estate-healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

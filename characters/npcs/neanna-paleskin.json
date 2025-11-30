@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "zof",
+		"level": {
+			"primary": 1
+		},
+		"name": "Neanna Paleskin",
+		"sex": "F",
+		"title": "shields-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

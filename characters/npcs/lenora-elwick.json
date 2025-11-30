@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "lef",
+		"level": {
+			"primary": 995
+		},
+		"name": "Lenora Elwick",
+		"sex": "F",
+		"title": "wife-of-historian-elwick"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

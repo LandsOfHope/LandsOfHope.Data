@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "gim",
+		"level": {
+			"primary": 750
+		},
+		"name": "Djinn the Blessed",
+		"sex": "M",
+		"title": "blessing-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

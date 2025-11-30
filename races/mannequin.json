@@ -1,18 +1,24 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Mannequin"
-	},
+	"$type": "/v1/race",
+	"classification": "beast",
+	"id": "mannequin",
+	"lootMaterial": "metal",
 	"pics": {
 		"F": ["mpmaqf"],
 		"M": ["mpmaqm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "metal",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

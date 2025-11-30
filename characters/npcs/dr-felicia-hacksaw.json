@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "blaf5",
+		"level": {
+			"primary": 55
+		},
+		"name": "Dr Felicia Hacksaw",
+		"sex": "F",
+		"title": "healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

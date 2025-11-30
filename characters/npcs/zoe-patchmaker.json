@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "jwzp",
+		"level": {
+			"primary": 5
+		},
+		"name": "Zoe Patchmaker",
+		"sex": "F",
+		"title": "patchcrafting-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

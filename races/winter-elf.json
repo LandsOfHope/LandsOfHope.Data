@@ -1,18 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Winter Elf"
-	},
+	"$type": "/v1/race",
+	"classification": "humanoid",
+	"id": "winter-elf",
+	"lootMaterial": "hide",
 	"pics": {
-		"F": ["ba2", "wif"],
-		"M": ["ba1", "wim"]
+		"F": ["ba2"],
+		"M": ["ba1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cold-resistance": 5,
+		"detect-hidden": 5,
+		"fists": 5
 	}
 }

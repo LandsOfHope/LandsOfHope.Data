@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpsak",
+		"level": {
+			"primary": 1
+		},
+		"name": "Sakure",
+		"sex": "M",
+		"title": "brothers-of-sakure-leader"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

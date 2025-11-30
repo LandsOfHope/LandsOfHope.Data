@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpupf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Eliza Bergman",
+		"sex": "F",
+		"title": "ships-captain"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

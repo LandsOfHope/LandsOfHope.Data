@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "blkdragon",
+		"level": {
+			"primary": 1
+		},
+		"name": "Beron Blackheart",
+		"sex": "M",
+		"title": "black-wing-leader"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

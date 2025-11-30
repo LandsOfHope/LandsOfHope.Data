@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "uwumc",
+		"level": {
+			"primary": 1
+		},
+		"name": "Molly Coddles",
+		"sex": "F",
+		"title": "cook"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

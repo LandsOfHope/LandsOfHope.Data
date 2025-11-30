@@ -1,18 +1,27 @@
 {
-	"appr": {
-		"en": "The Annis is a strange looking creature that resembles the cyclops in that it bears only one eye in the middle of its forehead but the resemblance ends there.  This eye seems to glare with an unholy light filled with evil malice. Long wild-looking straw colored hair covers its head and it has a mouth bearing vampirish fangs that drool venom."
-	},
-	"desc": {
-		"en": "The Annis is an unusual creature.  One of the undead, no one is really sure if it was ever one of the living.  While having the ability to cast disease and poison magic, it also has resistance to both."
-	},
-	"hist": {
-		"en": "Long has it been debated where the Annis got its beginnings.  Some believe that it was created from the cyclops race.  A few think that it was created from wild magic during the Great War.  Some argue that the Annis is a true race of undead.  No matter the truth, the Annis is an undead creature that can be wicked in battle."
-	},
-	"name": {
-		"en": "Annis"
-	},
+	"$type": "/v1/race",
+	"classification": "undead",
+	"id": "annis",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["an2"],
 		"M": ["an1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"acid-resistance": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"fists": 5,
+		"poison-magic": 5,
+		"poison-resistance": 5
 	}
 }

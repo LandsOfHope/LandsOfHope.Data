@@ -8,11 +8,14 @@
 		"character": {
 			"$ref": "/schemas/v1/characters/character-id.json"
 		},
-		"updated": {
+		"new": {
+			"$ref": "/schemas/v1/characters/character-skills.json"
+		},
+		"old": {
 			"$ref": "/schemas/v1/characters/character-skills.json"
 		}
 	},
-	"required": ["$type", "character", "updated"],
+	"required": ["$type", "character", "new"],
 	"title": "CharacterSkillsUpdatedEvent",
 	"type": "object"
 }

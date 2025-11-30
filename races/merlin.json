@@ -1,17 +1,24 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Merlin"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "merlin",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["merlin"]
+		"F": ["merlin"],
+		"M": ["merlin"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"acid-resistance": 5,
+		"armor": 5,
+		"attack-power": 5
 	}
 }

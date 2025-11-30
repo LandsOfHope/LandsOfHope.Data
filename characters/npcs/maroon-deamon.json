@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpdm1",
+		"level": {
+			"primary": 90
+		},
+		"name": "Maroon Deamon",
+		"sex": "F",
+		"title": "plate-goods-vendor"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

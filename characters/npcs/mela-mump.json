@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "irelf1",
+		"level": {
+			"primary": 1
+		},
+		"name": "Mela Mump",
+		"sex": "F",
+		"title": "irellian-restorer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

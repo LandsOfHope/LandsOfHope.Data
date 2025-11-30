@@ -1,17 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Valdarak"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "valdarak",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["valdarak"]
+		"F": ["valdarak"],
+		"M": ["valdarak"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fire-magic": 5,
+		"fire-resistance": 5,
+		"fire-survival": 5
 	}
 }

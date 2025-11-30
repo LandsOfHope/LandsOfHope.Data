@@ -1,17 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Bleeding Fungus"
-	},
+	"$type": "/v1/race",
+	"classification": "plant",
+	"id": "bleeding-fungus",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["mpbfm"]
+		"F": ["mpbfm"],
+		"M": ["mpbfm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 2,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

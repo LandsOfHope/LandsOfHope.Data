@@ -16,6 +16,13 @@
 					},
 					"type": "array",
 					"uniqueItems": true
+				},
+				"U": {
+					"items": {
+						"$ref": "/schemas/v1/characters-images-id.gen.json"
+					},
+					"type": "array",
+					"uniqueItems": true
 				}
 			},
 			"required": ["M", "F"]

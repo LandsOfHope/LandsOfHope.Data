@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpmh1",
+		"level": {
+			"primary": 1
+		},
+		"name": "Foo Man-Chu",
+		"sex": "M",
+		"title": "potions-and-solutions"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

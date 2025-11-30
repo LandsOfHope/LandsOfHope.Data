@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "ddm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Vark the Strong",
+		"sex": "M",
+		"title": "shield-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

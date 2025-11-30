@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "jwv",
+		"level": {
+			"primary": 1
+		},
+		"name": "Veraine the Dusky",
+		"sex": "F",
+		"title": "dark-druid-teacher"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "uwbw",
+		"level": {
+			"primary": 1
+		},
+		"name": "Billy Watts",
+		"sex": "M",
+		"title": "weapon-style-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

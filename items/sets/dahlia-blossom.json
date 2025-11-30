@@ -2,11 +2,14 @@
 	"$type": "/v1/items/set",
 	"color": "#FFCCCC",
 	"id": "dahlia-blossom",
-	"image": "na.gif",
+	"image": "na",
 	"items": ["dahlia-bloom-earring", "dahlia-bud-earring"],
 	"spells": {
-		"0": {
-			"0": "dahlias-blossom-buff"
-		}
+		"neutral": [
+			{
+				"level": 0,
+				"spell": "gm-magic/dahlias-blossom-buff"
+			}
+		]
 	}
 }

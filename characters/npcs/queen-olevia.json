@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "irelm2",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Queen Olevia",
+		"sex": "F",
+		"title": "queen-of-the-irellians"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

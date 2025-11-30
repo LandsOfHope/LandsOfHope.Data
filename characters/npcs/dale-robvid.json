@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "sohum5",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Dale Robvid",
+		"sex": "M",
+		"title": "neutral-commander"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

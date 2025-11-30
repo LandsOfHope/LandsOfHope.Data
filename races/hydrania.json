@@ -1,17 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Hydrania"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "hydrania",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["uwsg"]
+		"F": ["uwsg"],
+		"M": ["uwsg"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"water-magic": 5,
+		"water-resistance": 5,
+		"water-survival": 5
 	}
 }

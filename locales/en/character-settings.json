@@ -1,0 +1,70 @@
+{
+	"action": {
+		"name": "Action",
+		"settings": {
+			"defaultBuildingAction": {
+				"desc": "Determines the default action when clicking on a Building.",
+				"name": "Default Building Action"
+			},
+			"defaultCharacterAction": {
+				"desc": "Determines the default action when clicking on a Character.",
+				"name": "Default PC/NPC Action"
+			},
+			"defaultMonsterAction": {
+				"desc": "Determines the default action when clicking on a Monster.",
+				"name": "Default Monster Action"
+			}
+		}
+	},
+	"bags": {
+		"name": "Bag Setup",
+		"settings": {
+			"defaultBag": {
+				"desc": "Determine which is your default bag when it comes to picking items up off the ground.",
+				"name": "Default item bag"
+			},
+			"defaultIdBag": {
+				"desc": "Determine which bag identified items will go to.",
+				"name": "Default identified items bag"
+			}
+		}
+	},
+	"display": {
+		"name": "Display",
+		"settings": {
+			"allegianceMessages": {
+				"desc": "If you are a member of an allegiance the game may send you allegiance notices such as Keep taking, if you do not wish to receive these messages untick this box.",
+				"name": "Show Allegiance Messages"
+			},
+			"defaultResource": {
+				"desc": "Use this option to have the resources screen default to a particular type of resource.",
+				"name": "Resource Screen Default"
+			},
+			"showLevelMap": {
+				"desc": "The map shows colors to represent level range rather than terrain.",
+				"name": "Show the Level Map"
+			},
+			"tooltipLocation": {
+				"desc": "With this turned on you will receive limited Tip advice on buttons.",
+				"name": "Popup Tooltip Location"
+			}
+		}
+	},
+	"pricing": {
+		"name": "Pricing",
+		"settings": {
+			"building": {
+				"desc": "If you enter a value here you can use the Fair Pricing system to price your buildings accordingly.",
+				"name": "Building Price per room"
+			},
+			"item": {
+				"desc": "If you enter a value here you can use the Fair Pricing system to price your items accordingly.",
+				"name": "Item Price per level"
+			},
+			"pet": {
+				"desc": "If you enter a value here you can use the Fair Pricing system to price your pets accordingly.",
+				"name": "Pet Price per level"
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "ss2",
+		"level": {
+			"primary": 1
+		},
+		"name": "Sharptooth Longsword",
+		"sex": "F",
+		"title": "swords-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

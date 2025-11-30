@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpgmf",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "The Muse",
+		"sex": "F",
+		"title": "freed-muse"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

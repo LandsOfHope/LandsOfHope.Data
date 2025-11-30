@@ -1,18 +1,29 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": "Fire breathing creature, with strong scales."
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Black Dragon"
-	},
+	"$type": "/v1/race",
+	"classification": "dragon",
+	"id": "black-dragon",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["blkdragonf"],
-		"M": ["blkdragonm"]
+		"M": ["blkdragonm"],
+		"U": ["blkdragon"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"air-survival": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"fire-magic": 5,
+		"fire-resistance": 5,
+		"fire-survival": 5,
+		"fists": 5
 	}
 }

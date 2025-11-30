@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mpgnf",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Jeralewiel",
+		"sex": "F",
+		"title": "stable-master"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

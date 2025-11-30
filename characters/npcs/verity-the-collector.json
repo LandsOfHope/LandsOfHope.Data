@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "huf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Verity the Collector",
+		"sex": "F",
+		"title": "guild-trophy-collector"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

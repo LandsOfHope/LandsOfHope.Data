@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "pif",
+		"level": {
+			"primary": 1
+		},
+		"name": "Pezazzle Cutewings",
+		"sex": "F",
+		"title": "guild-rewarder"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "zof",
+		"level": {
+			"primary": 1
+		},
+		"name": "Fleshworm Flingbolt",
+		"sex": "F",
+		"title": "crossbows-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

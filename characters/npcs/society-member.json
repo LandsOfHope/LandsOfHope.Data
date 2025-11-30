@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "haf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Society Member",
+		"sex": "F",
+		"title": "society-supplier"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

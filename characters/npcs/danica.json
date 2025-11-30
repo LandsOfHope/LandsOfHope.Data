@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpwitch",
+		"level": {
+			"primary": 1
+		},
+		"name": "Danica",
+		"sex": "F",
+		"title": "charms-and-hexes"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

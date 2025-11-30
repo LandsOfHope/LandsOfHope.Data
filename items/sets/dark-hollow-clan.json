@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "cyan",
 	"id": "dark-hollow-clan",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"mark-of-ariaxis",
 		"mantle-of-the-cursed",
@@ -11,8 +11,11 @@
 		"crown-of-blood"
 	],
 	"spells": {
-		"0": {
-			"50": "dark-hollow-kindred"
-		}
+		"neutral": [
+			{
+				"level": 50,
+				"spell": "gm-magic/dark-hollow-kindred"
+			}
+		]
 	}
 }

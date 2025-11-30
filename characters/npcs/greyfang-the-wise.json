@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "sd2",
+		"level": {
+			"primary": 1
+		},
+		"name": "Greyfang the Wise",
+		"sex": "F",
+		"title": "invocation-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

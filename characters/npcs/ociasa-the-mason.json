@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "ociasa-the-mason"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "huf",
@@ -14,10 +9,10 @@
 		},
 		"name": "Ociasa the Mason",
 		"sex": "F",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "stonemason"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

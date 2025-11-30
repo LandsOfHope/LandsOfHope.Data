@@ -4,14 +4,14 @@
 		"$type": {
 			"const": "/v1/events/characters/character-appearance-profile-updated-event"
 		},
-		"appearanceProfile": {
+		"appearance": {
 			"$ref": "/schemas/v1/characters/appearance-profile.json"
 		},
 		"character": {
 			"type": "integer"
 		}
 	},
-	"required": ["$type", "character", "appearanceProfile"],
+	"required": ["$type", "character", "appearance"],
 	"title": "CharacterAppearanceProfileUpdatedEvent",
 	"type": "object"
 }

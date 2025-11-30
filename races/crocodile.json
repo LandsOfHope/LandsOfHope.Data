@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": "Crocodiles are reptiles with long scaly bodies and four squat legs. Long tooth filled snouts and intelligent beady eyes are the major features of the crocodile`s head while on the other end a tail longer than its body trails behind.  Crocodiles are capable of running incredible speeds over a short distance which makes them twice as dangerous in the cramped quarters of most dungeons."
-	},
-	"desc": {
-		"en": "Crocodiles are viscious critters closely related to the alligators.  Crocodiles dwell deep in the dungeons and tunnels that bi-sect the underground of Myzan.  Many a fearless spelunker has turned a corner in a cave and come face to face with one of these savage creatures."
-	},
-	"hist": {
-		"en": "Throughout history, crocodiles have been known as creatures to be cautious around.  Early Myzans spread many tales  of dangerous demonic beasts that roared deep within caverns while others whispered of plans to hunt these beasts down. Despite many attempts to erradicate the crocodile from Myzan these creatures still rule in the darkness where they choose to nest."
-	},
-	"name": {
-		"en": "Crocodile"
-	},
+	"$type": "/v1/race",
+	"classification": "beast",
+	"id": "crocodile",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mpcrf"],
 		"M": ["mpcrm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"water-resistance": 5
 	}
 }

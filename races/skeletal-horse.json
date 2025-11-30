@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Skeletal Horse"
-	},
+	"$type": "/v1/race",
+	"classification": "afterlife",
+	"id": "skeletal-horse",
+	"lootMaterial": "hide",
 	"pics": {
-		"F": ["sk2"],
-		"M": ["sk1"]
+		"F": ["mjpskhf"],
+		"M": ["mjpskhm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"water-survival": 5
 	}
 }

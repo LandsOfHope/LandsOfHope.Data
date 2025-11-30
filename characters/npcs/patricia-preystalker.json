@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "tdp",
+		"level": {
+			"primary": 1
+		},
+		"name": "Patricia Preystalker",
+		"sex": "F",
+		"title": "estate-hunter"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

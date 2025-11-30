@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "dwm",
+		"level": {
+			"primary": 770
+		},
+		"name": "Razark the Miner",
+		"sex": "M",
+		"title": "trophy-collector"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

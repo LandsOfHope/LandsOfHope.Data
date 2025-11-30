@@ -1,18 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Creeping Weed"
-	},
+	"$type": "/v1/race",
+	"classification": "plant",
+	"id": "creeping-weed",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mpcrwf"],
 		"M": ["mpcrwm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

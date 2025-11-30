@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": "An adult deathscarab can grow to the size of a large packhorse. Evolving to burrow and devour the flesh and meat of the tough creatures of Juratania. Young deathscarabs usually do not leave the nest during the day, only traveling in packs at night. It is most common to see the Adults as they have no fear in attacking anything. Their carapace is almost as strong as most forged metals, and their mandibles can rip through more then just flesh."
-	},
-	"desc": {
-		"en": "There are many insects on Myzan, but only in the lands known as Juratania do they grow to extreme proportions. Most people laugh at the stories of insects the size of large pack animals but they quickly stop laughing when a Deathscarab runs up and bites their horse in half."
-	},
-	"hist": {
-		"en": "Until the Eversight Expedition no one knew this species of insect existed. Quite a few packs of young deathscarabs devoured the expeditions pack horses in the dead of night before the entomologist of the expedition discovered a nest, the hard way, by falling into it and becoming a meal."
-	},
-	"name": {
-		"en": "Deathscarab"
-	},
+	"$type": "/v1/race",
+	"classification": "insect",
+	"id": "deathscarab",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["dsaf"],
 		"M": ["dsam"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"water-survival": 5
 	}
 }

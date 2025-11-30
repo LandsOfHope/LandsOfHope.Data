@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "sohum4",
+		"level": {
+			"primary": 950
+		},
+		"name": "Abendarid",
+		"sex": "M",
+		"title": "appraiser"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

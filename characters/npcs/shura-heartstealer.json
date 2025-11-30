@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "sodrm7",
+		"level": {
+			"primary": 450
+		},
+		"name": "Shura Heartstealer",
+		"sex": "F",
+		"title": "health-stealing-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

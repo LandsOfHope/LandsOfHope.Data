@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "blam3",
+		"level": {
+			"primary": 1
+		},
+		"name": "Angus O`Sheaf",
+		"sex": "M",
+		"title": "slayer-crafter-tokens"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

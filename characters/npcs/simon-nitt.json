@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 50
+		},
+		"name": "Simon Nitt",
+		"sex": "M",
+		"title": "level-50-goods"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

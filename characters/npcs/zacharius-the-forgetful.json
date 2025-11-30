@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "exp",
+		"level": {
+			"primary": 50
+		},
+		"name": "Zacharius the Forgetful",
+		"sex": "F",
+		"title": "forgetter-of-umm"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

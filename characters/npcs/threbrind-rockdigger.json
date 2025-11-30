@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "threbrind-rockdigger"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "elm",
@@ -14,10 +9,10 @@
 		},
 		"name": "Threbrind Rockdigger",
 		"sex": "M",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "stonemason"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

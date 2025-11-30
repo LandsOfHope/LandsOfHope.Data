@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "qiravia-the-inventor"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "huf",
@@ -14,10 +9,10 @@
 		},
 		"name": "Qiravia the Inventor",
 		"sex": "F",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "inventor"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

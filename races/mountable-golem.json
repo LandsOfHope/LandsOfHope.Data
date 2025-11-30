@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": "Player crafted golem."
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Mountable Golem"
-	},
+	"$type": "/v1/race",
+	"classification": "animated",
+	"id": "mountable-golem",
+	"lootMaterial": "wood",
 	"pics": {
 		"F": ["dy2"],
 		"M": ["dy1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"randomMaterial": "wood",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cold-survival": 5
 	}
 }

@@ -1,5 +1,5 @@
-const fs = require("fs");
-const path = require("path");
+import { readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
+import { dirname, join } from "node:path";
 
 const directories = (() => {
 	const dirs = process.argv.slice(2);
@@ -8,26 +8,38 @@ const directories = (() => {
 		"professions",
 		"races",
 		"races/groups",
+		"races/classifications",
 		"skills",
 		"skills/crafting/recipes/*",
-		"maps/worlds",
+		"skills/caring/actions",
+		"skills/spells/*",
+		"skills/styles/*",
 		"maps/terrains/*",
+		"maps/worlds",
+		"maps/tiles/actions",
+		"maps/landmarks/types",
+		"maps/buildings/images",
+		"maps/buildings/actions",
 		"titles",
+		"allegiances",
 		"items",
+		"items/sets",
 		"items/types",
 		"items/images",
 		"items/extras",
-		"items/resources",
 		"items/materials",
-		"items/qualities",
+		"items/resources",
 		"items/locations",
 		"items/enhancements/*",
 		"vessel-items",
 		"characters/images",
+		"characters/actions",
+		"characters/actions/emotes",
 		"characters/extra-images",
 		"characters/enhancements",
 		"characters/npcs",
 		"characters/npcs/recipes",
+		"characters/combat/scripts",
 		"stats/stat-categories",
 		"stats/rankings",
 		"expansions",
@@ -36,7 +48,7 @@ const directories = (() => {
 
 function inlineContent(dir, file) {
 	if (dir.startsWith("skills/crafting/recipes/")) {
-		const recipe = JSON.parse(fs.readFileSync(`${dir}/${file}`));
+		const recipe = JSON.parse(readFileSync(`${dir}/${file}`));
 		return {
 			...recipe,
 			item: recipe.item
@@ -48,25 +60,25 @@ function inlineContent(dir, file) {
 		};
 	}
 
-	return JSON.parse(fs.readFileSync(`${dir}/${file}`));
+	return JSON.parse(readFileSync(`${dir}/${file}`));
 }
 
 directories.forEach((dir) => {
 	const isGlob = dir.endsWith("*");
-	const parentDir = isGlob ? path.dirname(dir) : dir;
+	const parentDir = isGlob ? dirname(dir) : dir;
 
 	const all_content = [];
 	let all_inline_content = {};
 
 	if (isGlob) {
-		const subdirs = fs.readdirSync(parentDir);
+		const subdirs = readdirSync(parentDir);
 		subdirs.forEach((subdir) => {
-			const subdirPath = path.join(parentDir, subdir);
-			const stat = fs.statSync(subdirPath);
+			const subdirPath = join(parentDir, subdir);
+			const stat = statSync(subdirPath);
 			if (stat.isDirectory()) {
 				const scopedAllValues = [];
 				const scopedInlineValues = {};
-				const files = fs.readdirSync(subdirPath);
+				const files = readdirSync(subdirPath);
 				for (const file of files) {
 					if (file.endsWith(".json") && !file.endsWith(".gen.json")) {
 						const id = `${subdir}/${file.slice(0, -5)}`;
@@ -81,11 +93,11 @@ directories.forEach((dir) => {
 						...scopedInlineValues,
 					};
 
-					fs.writeFileSync(
+					writeFileSync(
 						`${subdirPath}/all.gen.json`,
 						JSON.stringify(scopedAllValues),
 					);
-					fs.writeFileSync(
+					writeFileSync(
 						`${subdirPath}/all.inline.gen.json`,
 						JSON.stringify(scopedInlineValues),
 					);
@@ -93,7 +105,7 @@ directories.forEach((dir) => {
 			}
 		});
 	} else {
-		const files = fs.readdirSync(parentDir);
+		const files = readdirSync(parentDir);
 		for (const file of files) {
 			if (file.endsWith(".json") && !file.endsWith(".gen.json")) {
 				all_content.push(file.slice(0, -5));
@@ -102,8 +114,8 @@ directories.forEach((dir) => {
 		}
 	}
 
-	fs.writeFileSync(`${parentDir}/all.gen.json`, JSON.stringify(all_content));
-	fs.writeFileSync(
+	writeFileSync(`${parentDir}/all.gen.json`, JSON.stringify(all_content));
+	writeFileSync(
 		`${parentDir}/all.inline.gen.json`,
 		JSON.stringify(all_inline_content),
 	);

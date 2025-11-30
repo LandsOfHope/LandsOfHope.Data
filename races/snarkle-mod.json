@@ -1,17 +1,24 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Snarkle Mod"
-	},
+	"$type": "/v1/race",
+	"classification": "alien",
+	"id": "snarkle-mod",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["alien"]
+		"F": ["alien"],
+		"M": ["alien"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fire-survival": 5
 	}
 }

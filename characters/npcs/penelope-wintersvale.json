@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mrswinter",
+		"level": {
+			"primary": 1
+		},
+		"name": "Penelope Wintersvale",
+		"sex": "F",
+		"title": "quest-master"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

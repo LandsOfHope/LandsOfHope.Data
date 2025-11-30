@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "emedragon",
+		"level": {
+			"primary": 1
+		},
+		"name": "Emerich Emeraldheart",
+		"sex": "M",
+		"title": "emerald-flight-leader"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

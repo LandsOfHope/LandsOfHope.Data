@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpcatf",
+		"level": {
+			"primary": 10
+		},
+		"name": "Mrs Fluffynose",
+		"sex": "F",
+		"title": "witch-store"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

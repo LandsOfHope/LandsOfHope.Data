@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "morgana",
+		"level": {
+			"primary": 1
+		},
+		"name": "Morgana",
+		"sex": "F",
+		"title": "legendary-bloodmage"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

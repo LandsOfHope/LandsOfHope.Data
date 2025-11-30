@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "cyan",
 	"id": "myzan-defenders",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"mark-of-proudhorn",
 		"belt-of-the-blessed",
@@ -11,8 +11,11 @@
 		"crown-of-glory"
 	],
 	"spells": {
-		"0": {
-			"50": "myzan-defender-dedication"
-		}
+		"neutral": [
+			{
+				"level": 50,
+				"spell": "gm-magic/myzan-defender-dedication"
+			}
+		]
 	}
 }

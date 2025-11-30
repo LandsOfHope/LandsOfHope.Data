@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "dwf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Scarlet Mercy",
+		"sex": "F",
+		"title": "legendary-rifle-seller"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

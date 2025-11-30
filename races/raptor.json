@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": "Sleek and agile, the raptor is the perfect example of a hunter at the top of its food chain. Females tend to be slightly larger then the males. Both though have very sharp claws, especially on the inner toes, using it to slash at prey, leaving deep, bleeding gashes.  Their jaws are also strong, with teeth that can easily rip flesh and meat away from prey."
-	},
-	"desc": {
-		"en": "The fiercest  hunters in Juratania by most standards. They hunt in packs usually and are extremely territorial.  If you find a lone raptor it is best to move quickly, the others are not too far behind."
-	},
-	"hist": {
-		"en": "Thought to be extinct until the Eversight Expedition ran into them. By far raptor attacks are the leading cause of death for expedition parties in Juratania. Many good men and women were lost to these beasts."
-	},
-	"name": {
-		"en": "Raptor"
-	},
+	"$type": "/v1/race",
+	"classification": "beast",
+	"id": "raptor",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["rapf"],
 		"M": ["rapm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"water-survival": 5
 	}
 }

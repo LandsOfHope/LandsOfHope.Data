@@ -1,17 +1,28 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Emerald Wurm"
-	},
+	"$type": "/v1/race",
+	"classification": "wurm",
+	"id": "emerald-wurm",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["emedragonw"]
+		"F": ["emedragonw"],
+		"M": ["emedragonw"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"air-survival": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"fire-magic": 5,
+		"fire-resistance": 5,
+		"fire-survival": 5,
+		"fists": 5
 	}
 }

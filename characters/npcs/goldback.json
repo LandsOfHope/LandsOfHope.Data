@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "epmonkey",
+		"level": {
+			"primary": 1
+		},
+		"name": "Goldback",
+		"sex": "M",
+		"title": "sunstone-flight-legend"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

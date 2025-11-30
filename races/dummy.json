@@ -1,18 +1,24 @@
 {
-	"appr": {
-		"en": "Dummies are most often made of wood and take the form of humanoids.  The more advanced dummies are able to be adjusted in size and shape.  Some sit on stands while others hang from strings or ropes.  Sizes can vary from 5 inches to 7 feet."
-	},
-	"desc": {
-		"en": "Not known for stimulating conversation, Dummies are used for many different things in the lands of Myzan.  These wooden renditions of humanoids can be used for battle practice, tailoring models, or armor storage.  However they are used, dummies are very handy for most citizens to have."
-	},
-	"hist": {
-		"en": "Dummies have been used by most cultures at most times and at most technology levels.  They seem to never really lose their usefulness within any civilization.  From the times of Neanderthals to now they have made appearances."
-	},
-	"name": {
-		"en": "Dummy"
-	},
+	"$type": "/v1/race",
+	"classification": "beast",
+	"id": "dummy",
+	"lootMaterial": "cloth",
 	"pics": {
 		"F": ["dy2"],
 		"M": ["dy1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "cloth",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

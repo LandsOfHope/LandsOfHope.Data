@@ -1,18 +1,24 @@
 {
-	"appr": {
-		"en": "They prefer dark places, their skin turning white from years and decades of darkness. They have a hunched appearance but their muscular legs allow them to spring and claw at an opponent with remarkable force. They have piercing red eyes able to see in even magically created darkness."
-	},
-	"desc": {
-		"en": "Wightes are the guard dogs of the undead world. Despite their hunched over posture they are very strong and very fast, many an unsuspecting grave robber has met an end at their claws. They tend to feed on living tissue that is still warm, but will eat rotting corpses just as happily."
-	},
-	"hist": {
-		"en": "It is written that a necromancer created the first Wightes as hunting companions to the Reapers. Since then the rituals used to invoke them have changed little. They are most commonly found in ancient tombs. Weither they were put there as guardians, trapped within by the builders, or found their way in to feed on the carrion of the crypt, no one is certain."
-	},
-	"name": {
-		"en": "Wighte"
-	},
+	"$type": "/v1/race",
+	"classification": "undead",
+	"id": "wighte",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["wg2"],
 		"M": ["wg1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 2,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"poison-resistance": 5
 	}
 }

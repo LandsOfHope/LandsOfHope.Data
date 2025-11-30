@@ -1,0 +1,138 @@
+{
+	"animal": {
+		"description": "A script",
+		"name": "Animal"
+	},
+	"champion-ep": {
+		"description": "If your Hitpoints dip below 20% a healing item is used (if present) otherwise you attack.",
+		"name": "Champion EP"
+	},
+	"conjurer": {
+		"description": "Cast Illusion in first round then Attempt to Drain or Damage the enemy, attack if out of mana.",
+		"name": "Conjurer"
+	},
+	"damage-bot": {
+		"description": "Randomly choose a target and cast damage spells on them.",
+		"name": "Damage Bot"
+	},
+	"debuff-spell-caster": {
+		"description": "If this is the first round attempt to cast a debuff spell, then in subsequent rounds if Hitpoints are over 20% cast a spell on target otherwise try to Heal self with spell.",
+		"name": "Debuff Spell Caster"
+	},
+	"devourer-cookie": {
+		"description": "",
+		"name": "Devourer (Cookie)"
+	},
+	"devourer-magic": {
+		"description": "",
+		"name": "Devourer (Magic)"
+	},
+	"devourer-might": {
+		"description": "",
+		"name": "Devourer (Might)"
+	},
+	"dot-spell-caster": {
+		"description": "If this is the first round attempt to cast a dot spell, then in subsequent rounds if Hitpoints are over 20% cast a spell on target otherwise try to Heal self using an item (food/potion).",
+		"name": "DOT Spell Caster"
+	},
+	"drain-script-health": {
+		"description": "Attempt to mana item if mana below 20%, otherwise if Hitpoints is over 10% cast drain spells otherwise attack with melee.",
+		"name": "Drain Script (Health)"
+	},
+	"drain-script-mana": {
+		"description": "Attempt to Drain or Damage the enemy, attack if out of mana.",
+		"name": "Drain Script (Mana)"
+	},
+	"drain-script-melee": {
+		"description": "Attempt to mana item if mana below 20%, otherwise if Hitpoints is over 50% use melee, otherwise use drain magic.",
+		"name": "Drain Script (Melee)"
+	},
+	"druid-no-shield": {
+		"description": "Iif Hitpoints are over 20% cast a damage spell on target otherwise try to Heal self with spell.",
+		"name": "Druid no Shield"
+	},
+	"druid-with-shield": {
+		"description": "If this is the first round attempt to cast a shield spell, then in subsequent rounds if Hitpoints are over 20% cast a damage spell on target otherwise try to Heal self with spell.",
+		"name": "Druid with Shield"
+	},
+	"forager": {
+		"description": "A script",
+		"name": "Forager"
+	},
+	"generic-caster-script": {
+		"description": "If you have the mana a damage spell is cast, otherwise a heal spell or an attack is used.",
+		"name": "Generic Caster Script"
+	},
+	"generic-fighter-script": {
+		"description": "If your Hitpoints dip below 20% a healing item is used (if present) otherwise you attack.",
+		"name": "Generic Fighter Script"
+	},
+	"generic-ranged-caster-script": {
+		"description": "If you have the mana a damage spell is cast, otherwise a heal spell or an attack is used.",
+		"name": "Generic Ranged Caster Script"
+	},
+	"generic-ranged-script": {
+		"description": "If your Hitpoints dip below 20% a healing item is used (if present) otherwise you attack using range.",
+		"name": "Generic Ranged Script"
+	},
+	"guardian-ep": {
+		"description": "If your Hitpoints dip below 20% a healing item is used (if present) otherwise you attack.",
+		"name": "Guardian EP"
+	},
+	"heal-bot": {
+		"description": "Randomly choose an injured party member and heal them. If no one is injured then no action is taken.",
+		"name": "Heal Bot"
+	},
+	"healer": {
+		"description": "A script",
+		"name": "Healer"
+	},
+	"healer-script": {
+		"description": "If your Mana drops below 20% a mana item is used (if present) otherwise if your Health is above 30% a drain spell is used otherwise a Heal spell is used or an Attack.",
+		"name": "Healer Script"
+	},
+	"illusion-spell-caster": {
+		"description": "If this is the first round attempt to cast an Illusion spell, then in subsequent rounds if Hitpoints are over 20% cast a spell on target otherwise try to Heal self with spell.",
+		"name": "Illusion Spell Caster"
+	},
+	"illusion-spell-melee": {
+		"description": "If this is the first round attempt to cast an Illusion spell, then in subsequent rounds if Hitpoints are over 20% use melee otherwise try to Use heal food.",
+		"name": "Illusion Spell Melee"
+	},
+	"minstrel-ranged-script": {
+		"description": "If your Hitpoints dip below 20% a healing item is used (if present) otherwise you attack using range.",
+		"name": "Minstrel Ranged Script"
+	},
+	"mystic-drain-damage": {
+		"description": "If Level 300 then cast a drain spell on target, otherwise if health is over 20% cast a damage spell on target, otherwise cast a heal spell on self.",
+		"name": "Mystic (Drain / Damage)"
+	},
+	"nobleman": {
+		"description": "A script",
+		"name": "Nobleman"
+	},
+	"paralyse-spell-caster": {
+		"description": "If this is the first round attempt to cast a paralyse spell, then in subsequent rounds if Hitpoints are over 20% cast a spell on target otherwise try to Heal self with spell.",
+		"name": "Paralyse Spell Caster"
+	},
+	"paralyse-spell-melee": {
+		"description": "If this is the first round attempt to cast a paralyse spell, then in subsequent rounds if Hitpoints are over 20% use melee otherwise try to Use heal food.",
+		"name": "Paralyse Spell Melee"
+	},
+	"shield-spell-caster": {
+		"description": "If this is the first round attempt to cast a shield spell, then in subsequent rounds if Mana is over 20% cast a spell on target otherwise try to drain enemies mana with spell.",
+		"name": "Shield Spell Caster"
+	},
+	"shield-spell-melee": {
+		"description": "If this is the first round attempt to cast a shield spell, then in subsequent rounds if Hitpoints are over 20% use melee otherwise try to Use heal food.",
+		"name": "Shield Spell Melee"
+	},
+	"trap-use-traps-skill-req": {
+		"description": "Attempts to use a Trap from your Inventory, you need the Traps skill and a trap made with Inventory > Tradeskill > Traps for this to work.",
+		"name": "Trap Use (Traps skill req)"
+	},
+	"undead-nuker": {
+		"description": "Randomly choose a target and cast damage spells on them.",
+		"name": "Undead Nuker"
+	}
+}

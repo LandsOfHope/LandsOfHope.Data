@@ -1,0 +1,5 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/actions/emote-type.json",
+	"enum": ["standard", "advanced"],
+	"title": "CharacterActionEmoteType"
+}

@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "gubbins"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "blam1",
@@ -14,10 +9,10 @@
 		},
 		"name": "Gubbins",
 		"sex": "M",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "bloody-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

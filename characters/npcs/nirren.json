@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "wwf",
+		"level": {
+			"primary": 140
+		},
+		"name": "Nirren",
+		"sex": "F",
+		"title": "water-guardian"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

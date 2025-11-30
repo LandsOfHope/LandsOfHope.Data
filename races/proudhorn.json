@@ -1,17 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Proudhorn"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "proudhorn",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["mjpmm"]
+		"F": ["mjpmm"],
+		"M": ["mjpmm"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fire-magic": 5,
+		"fire-resistance": 5,
+		"fire-survival": 5
 	}
 }

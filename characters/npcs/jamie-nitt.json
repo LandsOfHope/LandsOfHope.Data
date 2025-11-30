@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "huf",
+		"level": {
+			"primary": 250
+		},
+		"name": "Jamie Nitt",
+		"sex": "F",
+		"title": "level-250-goods"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

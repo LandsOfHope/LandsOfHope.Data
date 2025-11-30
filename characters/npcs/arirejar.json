@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 225
+		},
+		"name": "Arirejar",
+		"sex": "M",
+		"title": "stable-master"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

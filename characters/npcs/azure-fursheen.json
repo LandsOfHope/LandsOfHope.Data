@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "wof",
+		"level": {
+			"primary": 1
+		},
+		"name": "Azure Fursheen",
+		"sex": "F",
+		"title": "apothecary"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

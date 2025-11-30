@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "asif3",
+		"level": {
+			"primary": 950
+		},
+		"name": "Crirewen",
+		"sex": "F",
+		"title": "appraiser"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

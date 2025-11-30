@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "arandal-von-smultz"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hmcr1",
@@ -14,10 +9,10 @@
 		},
 		"name": "Arandal von Smultz",
 		"sex": "M",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "artisan-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

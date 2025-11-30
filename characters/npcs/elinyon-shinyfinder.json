@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "elm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Elinyon Shinyfinder",
+		"sex": "M",
+		"title": "marketeer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

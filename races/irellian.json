@@ -1,18 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Irellian"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "irellian",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["irelf2"],
 		"M": ["irelm1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"acid-resistance": 5,
+		"air-survival": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"energy-resistance": 5
 	}
 }

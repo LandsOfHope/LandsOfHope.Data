@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "huf",
+		"level": {
+			"primary": 175
+		},
+		"name": "Eroresa",
+		"sex": "F",
+		"title": "appraiser"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

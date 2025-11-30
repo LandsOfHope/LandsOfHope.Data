@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "eprat",
+		"level": {
+			"primary": 1
+		},
+		"name": "Bushytail",
+		"sex": "M",
+		"title": "black-wing-legend"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

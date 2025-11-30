@@ -1,18 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Fiend"
-	},
+	"$type": "/v1/race",
+	"classification": "undead",
+	"id": "fiend",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["sm2"],
 		"M": ["sm1"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 1,
+		"SPEED": 2,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

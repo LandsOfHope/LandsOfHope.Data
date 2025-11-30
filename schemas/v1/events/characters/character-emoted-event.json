@@ -1,0 +1,20 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/character-emoted-event.json",
+	"properties": {
+		"$type": {
+			"const": "/v1/events/characters/character-emoted-event"
+		},
+		"actor": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"emote": {
+			"$ref": "/schemas/v1/characters-actions-emotes-id.gen.json"
+		},
+		"target": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		}
+	},
+	"required": ["$type", "actor", "emote", "target"],
+	"title": "CharacterEmotedEvent",
+	"type": "object"
+}

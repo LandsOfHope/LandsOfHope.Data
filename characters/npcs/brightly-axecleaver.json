@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "maf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Brightly Axecleaver",
+		"sex": "F",
+		"title": "axes-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

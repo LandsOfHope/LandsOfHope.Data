@@ -5,13 +5,21 @@
 			"const": "/v1/characters/character-header"
 		},
 		"actions": {
-			"$ref": "/schemas/v1/characters/actions/character-actions.json"
+			"items": {
+				"$ref": "/schemas/v1/characters-actions-id.gen.json"
+			},
+			"minItems": 1,
+			"type": "array",
+			"uniqueItems": true
 		},
 		"appearance": {
 			"$ref": "/schemas/v1/characters/appearance-profile.json"
+		},
+		"status": {
+			"$ref": "/schemas/v1/characters/character-status.json"
 		}
 	},
-	"required": ["$type", "appearance", "actions"],
+	"required": ["$type", "appearance", "actions", "status"],
 	"title": "CharacterHeader",
 	"type": "object"
 }

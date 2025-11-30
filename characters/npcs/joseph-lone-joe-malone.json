@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "pirate11",
+		"level": {
+			"primary": 1
+		},
+		"name": "Joseph `Lone Joe` Malone",
+		"sex": "M",
+		"title": "league-pirate-king"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

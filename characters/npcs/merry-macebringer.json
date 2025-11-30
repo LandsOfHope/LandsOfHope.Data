@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "ham",
+		"level": {
+			"primary": 1
+		},
+		"name": "Merry Macebringer",
+		"sex": "M",
+		"title": "maces-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mpesm",
+		"level": {
+			"primary": 650
+		},
+		"name": "Escharu Hellseeker",
+		"sex": "M",
+		"title": "hell-magic-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

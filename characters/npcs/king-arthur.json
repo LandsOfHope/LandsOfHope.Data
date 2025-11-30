@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "kingarthur",
+		"level": {
+			"primary": 1
+		},
+		"name": "King Arthur",
+		"sex": "M",
+		"title": "legendary-king"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

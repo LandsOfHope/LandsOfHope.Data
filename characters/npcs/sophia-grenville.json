@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "huf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Sophia Grenville",
+		"sex": "F",
+		"title": "exile-supplier"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

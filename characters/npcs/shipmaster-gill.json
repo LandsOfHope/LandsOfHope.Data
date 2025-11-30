@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "uwdwf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Shipmaster Gill",
+		"sex": "M",
+		"title": "shipwright"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

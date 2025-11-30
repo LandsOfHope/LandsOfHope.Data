@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "wof",
+		"level": {
+			"primary": 1
+		},
+		"name": "Softfur Shadowstriker",
+		"sex": "F",
+		"title": "shadow-strike-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

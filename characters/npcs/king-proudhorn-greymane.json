@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "proudhorn",
+		"level": {
+			"primary": 1
+		},
+		"name": "King Proudhorn Greymane",
+		"sex": "M",
+		"title": "myzan-defender"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

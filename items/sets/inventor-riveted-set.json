@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "gold",
 	"id": "inventor-riveted-set",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"blank-riveted-shoulders",
 		"blank-riveted-arms",
@@ -14,17 +14,47 @@
 		"blank-riveted-legs"
 	],
 	"spells": {
-		"0": {
-			"10": "riveted-i",
-			"200": "riveted-ii",
-			"300": "riveted-iii",
-			"400": "riveted-iv",
-			"500": "riveted-v",
-			"600": "riveted-vi",
-			"700": "riveted-vii",
-			"800": "riveted-viii",
-			"900": "riveted-ix",
-			"1000": "riveted-x"
-		}
+		"neutral": [
+			{
+				"level": 10,
+				"spell": "gamemastery/riveted-i"
+			},
+			{
+				"level": 200,
+				"spell": "gamemastery/riveted-ii"
+			},
+			{
+				"level": 300,
+				"spell": "gamemastery/riveted-iii"
+			},
+			{
+				"level": 400,
+				"spell": "gamemastery/riveted-iv"
+			},
+			{
+				"level": 500,
+				"spell": "gamemastery/riveted-v"
+			},
+			{
+				"level": 600,
+				"spell": "gamemastery/riveted-vi"
+			},
+			{
+				"level": 700,
+				"spell": "gamemastery/riveted-vii"
+			},
+			{
+				"level": 800,
+				"spell": "gamemastery/riveted-viii"
+			},
+			{
+				"level": 900,
+				"spell": "gamemastery/riveted-ix"
+			},
+			{
+				"level": 1000,
+				"spell": "gamemastery/riveted-x"
+			}
+		]
 	}
 }

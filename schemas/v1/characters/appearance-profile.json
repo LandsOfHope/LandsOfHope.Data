@@ -5,6 +5,9 @@
 		"$type": {
 			"const": "/v1/characters/appearance-profile"
 		},
+		"age": {
+			"$ref": "/schemas/v1/characters/character-age.json"
+		},
 		"allegiance": {
 			"$ref": "/schemas/v1/allegiances-id.gen.json"
 		},
@@ -25,9 +28,6 @@
 		},
 		"sex": {
 			"$ref": "/schemas/v0/characters/character-sex.json"
-		},
-		"status": {
-			"$ref": "/schemas/v1/characters/character-status.json"
 		},
 		"title": {
 			"oneOf": [

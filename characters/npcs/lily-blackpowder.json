@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "uwlbp",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Lily Blackpowder",
+		"sex": "F",
+		"title": "firework-supplies"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

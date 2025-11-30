@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mom",
+		"level": {
+			"primary": 1
+		},
+		"name": "Quernas the Quest Giver",
+		"sex": "M",
+		"title": "guild-quest-master"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

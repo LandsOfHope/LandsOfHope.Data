@@ -1,18 +1,24 @@
 {
-	"appr": {
-		"en": "From a distance they appear to be shooting stars. Up close they look like small boulders of crystal, glowing with elemental power. They range from one to ten feet in diameter. The auras around them have been speculated to denote their genders, but no one has done an extensive study on the subject."
-	},
-	"desc": {
-		"en": "Sometimes people see shooting stars at night that seem to move on their own accord. These are usually fragments. Somewhat mysterious, fragments are not commonly known so many mistake them for other things."
-	},
-	"hist": {
-		"en": "Fragments were discovered in the magical community a century ago by a professor at the Myzan Academy of Magi-Science. They are believed to be the young form of the elementals, being made of a similar crystalline material. No one knows for sure why they appear on Myzan before maturing, but some suspect the young elementals need to collect gems as nourishment.    There is another theory that they might be sentient pieces from the world known as Saloa, if true, this could mean Saloa was destroyed and not just have slipped into the veil."
-	},
-	"name": {
-		"en": "Fragment"
-	},
+	"$type": "/v1/race",
+	"classification": "magical",
+	"id": "fragment",
+	"lootMaterial": "gem",
 	"pics": {
 		"F": ["mpfraf"],
 		"M": ["mpfram"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 2,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "gem",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

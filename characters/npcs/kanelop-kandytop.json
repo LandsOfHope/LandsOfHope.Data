@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpwrm",
+		"level": {
+			"primary": 40
+		},
+		"name": "Kanelop Kandytop",
+		"sex": "M",
+		"title": "healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/character.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/character"
+		},
+		"account": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/accounts/account-id.json"
+				},
+				{
+					"type": "null"
+				}
+			]
+		},
+		"appearance": {
+			"$ref": "/schemas/v1/characters/appearance-profile.json"
+		},
+		"status": {
+			"$ref": "/schemas/v1/characters/character-status.json"
+		}
+	},
+	"required": ["$type", "status", "appearance", "account"],
+	"title": "Character",
+	"type": "object"
+}

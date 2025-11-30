@@ -1,7 +1,7 @@
-const service = require("../package.json");
-const fs = require("node:fs");
+import { writeFileSync } from "node:fs";
+import service from "../package.json" with { type: "json" };
 
-fs.writeFileSync(
+writeFileSync(
 	"health",
 	JSON.stringify({
 		...service,

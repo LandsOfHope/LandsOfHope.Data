@@ -1,18 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Sidhee"
-	},
+	"$type": "/v1/race",
+	"classification": "spirit",
+	"id": "sidhee",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mpsif"],
 		"M": ["mpsim"]
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 3,
+		"MAXSTAMINA": 3,
+		"SPEED": 3,
+		"STRENGTH": 3
+	},
+	"skills": {
+		"air-magic": 5,
+		"air-survival": 5
 	}
 }

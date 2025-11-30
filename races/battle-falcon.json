@@ -1,17 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Battle Falcon"
-	},
+	"$type": "/v1/race",
+	"classification": "gladiator",
+	"id": "battle-falcon",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["mjpbfalc"]
+		"F": ["mjpbfalc"],
+		"M": ["mjpbfalc"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

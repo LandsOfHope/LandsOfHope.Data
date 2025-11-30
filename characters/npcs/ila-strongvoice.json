@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "huf",
+		"level": {
+			"primary": 850
+		},
+		"name": "Ila Strongvoice",
+		"sex": "F",
+		"title": "singing-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

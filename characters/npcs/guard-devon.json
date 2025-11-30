@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjhmr",
+		"level": {
+			"primary": 1
+		},
+		"name": "Guard Devon",
+		"sex": "M",
+		"title": "combat-guide"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "lem",
+		"level": {
+			"primary": 1
+		},
+		"name": "Maria the Seer",
+		"sex": "M",
+		"title": "mystical-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

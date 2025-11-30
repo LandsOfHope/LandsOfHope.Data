@@ -1,18 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Ship's Parrot"
-	},
+	"$type": "/v1/race",
+	"classification": "pet",
+	"id": "ships-parrot",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mjpp2"],
-		"M": ["mjpp1"]
+		"M": ["mjpp1"],
+		"U": ["tt2"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"water-survival": 5
 	}
 }

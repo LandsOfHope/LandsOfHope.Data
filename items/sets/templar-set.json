@@ -2,11 +2,18 @@
 	"$type": "/v1/items/set",
 	"color": "white",
 	"id": "templar-set",
-	"image": "na.gif",
+	"image": "na",
 	"items": ["templar-tabard", "templar-band", "templar-piety"],
 	"spells": {
-		"0": {
-			"0": "templar-strength"
-		}
+		"neutral": [
+			{
+				"level": 0,
+				"spell": "gamemastery/templar-ideals"
+			},
+			{
+				"level": 0,
+				"spell": "gamemastery/templar-strength"
+			}
+		]
 	}
 }

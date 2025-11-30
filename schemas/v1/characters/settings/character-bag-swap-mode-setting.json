@@ -1,0 +1,10 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/settings/character-bag-swap-mode-setting.json",
+	"enum": [
+		"order-by-type-name-quality",
+		"order-by-level",
+		"order-by-type-level",
+		"order-by-quantity"
+	],
+	"title": "CharacterBagSwapModeSetting"
+}

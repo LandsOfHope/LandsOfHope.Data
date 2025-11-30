@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "huf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Mollie `Ships Mate` McCall",
+		"sex": "F",
+		"title": "buckle-bay-healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

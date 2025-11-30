@@ -1,18 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "The Lhiannan-Shee"
-	},
+	"$type": "/v1/race",
+	"classification": "spirit",
+	"id": "lhiannan-shee",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mpisf"],
 		"M": ["mpism"]
+	},
+	"properties": {
+		"DEXTERITY": 3,
+		"INTELLIGENCE": 3,
+		"MAXHITPOINTS": 3,
+		"MAXMANA": 3,
+		"MAXSTAMINA": 3,
+		"SPEED": 3,
+		"STRENGTH": 3
+	},
+	"skills": {
+		"air-survival": 5,
+		"health-stealing": 5
 	}
 }

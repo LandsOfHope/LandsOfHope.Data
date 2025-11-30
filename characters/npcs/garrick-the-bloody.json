@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpuf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Garrick the Bloody",
+		"sex": "M",
+		"title": "undead-healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

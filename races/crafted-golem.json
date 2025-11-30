@@ -1,17 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": "Player crafted golem."
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Crafted Golem"
-	},
+	"$type": "/v1/race",
+	"classification": "animated",
+	"id": "crafted-golem",
+	"lootMaterial": "wood",
 	"pics": {
-		"U": ["na"]
+		"F": ["na"],
+		"M": ["na"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"randomMaterial": "wood",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cold-survival": 5
 	}
 }

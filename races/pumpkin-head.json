@@ -1,17 +1,40 @@
 {
-	"appr": {
-		"en": "The fires that burn within each jack-o-lantern head are the angry spirits of the long forgotten massacre. The evil magics binding them to the earth cause the simple gourds to sprout bodies and limbs. Those willowy limbs are far stronger then they appear and can cause devastating blows"
-	},
-	"desc": {
-		"en": "Pumpkin Heads are a curious Varity of undead. They only appear around Myzan one time of year normally, that of All Hallows Eve. Said to be restless spirits only able to inhabit jack-o-lanterns for a single night each year."
-	},
-	"hist": {
-		"en": "While most blame the Reapers for their creation as some kind of sick Halloween prank, the truth is far more grisly. Back when Knottwood was still known as Bonewood many gruesome deaths occurred in the constant struggles. The most gruesome of those being dubbed the field of blood, near the present day town of Springlade. Unknowing to this, the Baros built a farmstead and decided to grow pumpkins. The first All Hallows Eve the spirits long dormant stirred and possessed the poor gourds to lay their vengeance down on all around."
-	},
-	"name": {
-		"en": "Pumpkin Head"
-	},
+	"$type": "/v1/race",
+	"classification": "humanoid",
+	"id": "pumpkin-head",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["mppum"]
+		"F": ["mjpfph"],
+		"M": ["mjpmph"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"acid-resistance": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"bladed-defense": 5,
+		"bludgeon-defense": 5,
+		"cold-resistance": 5,
+		"debuff-resistance": 5,
+		"earth-resistance": 5,
+		"energy-resistance": 5,
+		"fire-resistance": 5,
+		"fists": 5,
+		"h2h-defense": 5,
+		"health-stealing": 5,
+		"invoking-resistance": 5,
+		"poison-resistance": 5,
+		"projectile-defense": 5,
+		"stringed-defense": 5,
+		"water-resistance": 5
 	}
 }

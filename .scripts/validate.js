@@ -1,19 +1,26 @@
-const util = require("util");
-const exec = util.promisify(require("child_process").exec);
-const glob = require("glob");
-const { basename, dirname } = require("path");
-const fs = require("fs");
-const readFile = util.promisify(fs.readFile);
-const readdir = util.promisify(fs.readdir);
+import { exec as execNonPromise } from "node:child_process";
+import { promisify } from "node:util";
 
-const schemas = glob.sync("schemas/v*/**/*.json");
+const exec = promisify(execNonPromise);
+
+import {
+	readdir as _readdir,
+	readFile as _readFile,
+	existsSync,
+} from "node:fs";
+import { basename, dirname } from "node:path";
+import { sync } from "glob";
+
+const readFile = promisify(_readFile);
+const readdir = promisify(_readdir);
+
+const schemas = sync("schemas/v*/**/*.json");
 const schemasWithOptionalTypeSpecifier = [
 	// for logistical reasons these types should allow $type to be omitted in some circumstances
 
 	// professions ands races were 'exported' by hand and I'm too lazy to fix them all right now.
 	// If/when proper exports are written, these can be removed
 	"https://data.landsofhope.com/schemas/v1/profession.json",
-	"https://data.landsofhope.com/schemas/v1/race.json",
 
 	// service spec is compatible with package.json; $type would break that compatibility
 	"https://data.landsofhope.com/schemas/v1/services/service.json",
@@ -74,7 +81,7 @@ const validate = async (schema, file) => {
 		// console.log('validating', schema, 'against', file),
 		(
 			await exec(
-				`node ${__dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${file}" ${tmpSchemas.join(" ")} --valid`,
+				`node ${import.meta.dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${file}" ${tmpSchemas.join(" ")} --valid`,
 			)
 		).exitCode
 	);
@@ -89,14 +96,14 @@ const validateAll = async (schema, fileGlob) => {
 		)
 		.filter((v, i, arr) => arr.indexOf(v) === i);
 	// const tmpSchemas = ["-r \"schemas/v*/**/*.json\""]
-	const files = glob.sync(fileGlob);
-	if (files.length == 0)
+	const files = sync(fileGlob);
+	if (files.length === 0)
 		throw Error(`Could not find files matching glob ${fileGlob}`);
 	return (
 		// console.log('validating', schema, 'against', fileGlob),
 		(
 			await exec(
-				`node ${__dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --valid`,
+				`node ${import.meta.dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --valid`,
 			)
 		).exitCode
 	);
@@ -111,14 +118,14 @@ const failAll = async (schema, fileGlob) => {
 		)
 		.filter((v, i, arr) => arr.indexOf(v) === i);
 	// const tmpSchemas = ["-r \"schemas/v*/**/*.json\""]
-	const files = glob.sync(fileGlob);
-	if (files.length == 0)
+	const files = sync(fileGlob);
+	if (files.length === 0)
 		throw Error(`Could not find files matching glob ${fileGlob}`);
 	return (
 		// console.log('expecting failure', schema, 'against', fileGlob),
 		(
 			await exec(
-				`node ${__dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --invalid`,
+				`node ${import.meta.dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --invalid`,
 			)
 		).exitCode
 	);
@@ -157,7 +164,7 @@ const checkSchemaTypes = async () => {
 		),
 	);
 	return schemaObjects.reduce((ret, schema) => {
-		if (schema.type == "object") {
+		if (schema.type === "object") {
 			if (schema.oneOf || schema.allOf) {
 				// ignore oneOf and allOf for the time being
 			} else if (!schema.properties) {
@@ -167,7 +174,7 @@ const checkSchemaTypes = async () => {
 				}
 			} else if (!schema.properties.$type) {
 				if (
-					schemasWithOptionalTypeSpecifier.find((s) => s == schema.$id) ==
+					schemasWithOptionalTypeSpecifier.find((s) => s === schema.$id) ===
 					undefined
 				) {
 					console.error(`schema ${schema.$id} is missing $type`);
@@ -175,7 +182,7 @@ const checkSchemaTypes = async () => {
 				}
 			} else if (!schema.required?.find((req) => req === "$type")) {
 				if (
-					schemasWithOptionalTypeSpecifier.find((s) => s == schema.$id) ==
+					schemasWithOptionalTypeSpecifier.find((s) => s === schema.$id) ===
 					undefined
 				) {
 					console.error(`schema ${schema.$id} does not mark $type as required`);
@@ -212,9 +219,9 @@ const checkMappingsAreValidMap = async (mappingFile) => {
 		!mapping.every(
 			(entry) =>
 				Array.isArray(entry) &&
-				entry.length == 2 &&
-				(typeof entry[0] == "string" || typeof entry[0] === "number") &&
-				(typeof entry[1] == "string" || typeof entry[1] === "number"),
+				entry.length === 2 &&
+				(typeof entry[0] === "string" || typeof entry[0] === "number") &&
+				(typeof entry[1] === "string" || typeof entry[1] === "number"),
 		)
 	) {
 		console.error(
@@ -269,6 +276,10 @@ const main = async () =>
 			"schemas/v1/skills/spell.json",
 			"skills/spells/!(mappings)/!(*.gen).json",
 		),
+		validateAll(
+			"schemas/v1/skills/caring/caring-action.json",
+			"skills/caring/actions/!(*.gen).json",
+		),
 		validateAll("schemas/v1/race.json", "races/!(*.gen).json"),
 		validateAll("schemas/v1/race-group.json", "races/groups/!(*.gen).json"),
 		validateAll("schemas/v1/profession-list.json", "player-professions.json"),
@@ -294,6 +305,10 @@ const main = async () =>
 			"schemas/v1/characters/character-header.json",
 			"characters/npcs/!(*.gen).json",
 		),
+		validateAll(
+			"schemas/v1/characters/actions/emote.json",
+			"characters/actions/emotes/!(*.gen).json",
+		),
 		validateAll("schemas/v1/menus/menu-list.json", "menus/!(*.gen).json"),
 		validateAll(
 			"schemas/v1/stats/ranking.json",
@@ -317,6 +332,7 @@ const main = async () =>
 			"characters/character-creation-images.json",
 		),
 		validateAll("schemas/v1/item.json", "items/!(*.gen).json"),
+		validateAll("schemas/v1/items/set.json", "items/sets/!(*.gen).json"),
 		validateAll("schemas/v1/items/type.json", "items/types/!(*.gen).json"),
 		validateAll("schemas/v1/items/image.json", "items/images/!(*.gen).json"),
 		validateAll(
@@ -458,14 +474,14 @@ const main = async () =>
 			.then((dirs) =>
 				dirs.flatMap((skill) => {
 					return [
-						fs.existsSync(
+						existsSync(
 							`skills/crafting/recipes/${skill}/mappings/id-to-slug.json`,
 						)
 							? checkMappingsAreValidMap(
 									`skills/crafting/recipes/${skill}/mappings/id-to-slug.json`,
 								)
 							: [],
-						fs.existsSync(
+						existsSync(
 							`skills/crafting/recipes/${skill}/mappings/slug-to-id.json`,
 						)
 							? checkMappingsAreValidMap(

@@ -1,0 +1,236 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/settings/character-settings.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/settings/character-settings"
+		},
+		"action": {
+			"additionalProperties": false,
+			"properties": {
+				"defaultBuildingAction": {
+					"$ref": "/schemas/v1/maps-buildings-actions-id.gen.json"
+				},
+				"defaultCharacterAction": {
+					"$ref": "/schemas/v1/characters-actions-id.gen.json"
+				},
+				"defaultMonsterAction": {
+					"$ref": "/schemas/v1/characters-actions-id.gen.json"
+				}
+			},
+			"type": "object"
+		},
+		"advanced": {
+			"additionalProperties": false,
+			"properties": {
+				"disableBonusResourceItems": {
+					"type": "boolean"
+				},
+				"noWorldSpawns": {
+					"type": "boolean"
+				},
+				"showNPCNotices": {
+					"type": "boolean"
+				}
+			},
+			"type": "object"
+		},
+		"bags": {
+			"additionalProperties": false,
+			"properties": {
+				"defaultBag": {
+					"anyOf": [
+						{
+							"$ref": "/schemas/v1/characters/inventory/character-default-bag-location.json"
+						},
+						{
+							"$ref": "/schemas/v1/characters/inventory/character-equippable-bag-location.json"
+						}
+					]
+				},
+				"defaultIdBag": {
+					"anyOf": [
+						{
+							"$ref": "/schemas/v1/characters/inventory/character-default-bag-location.json"
+						},
+						{
+							"$ref": "/schemas/v1/characters/inventory/character-equippable-bag-location.json"
+						}
+					]
+				},
+				"defaultTradeskillDestinationBag": {
+					"anyOf": [
+						{
+							"$ref": "/schemas/v1/characters/inventory/character-default-bag-location.json"
+						},
+						{
+							"$ref": "/schemas/v1/characters/inventory/character-equippable-bag-location.json"
+						}
+					]
+				},
+				"swapMode": {
+					"$ref": "/schemas/v1/characters/settings/character-bag-swap-mode-setting.json"
+				}
+			},
+			"type": "object"
+		},
+		"character": {
+			"additionalProperties": false,
+			"properties": {
+				"allowedEmotes": {
+					"oneOf": [
+						{
+							"const": "none"
+						},
+						{
+							"$ref": "/schemas/v1/characters/actions/emote-type.json"
+						}
+					]
+				},
+				"experienceOff": {
+					"type": "boolean"
+				},
+				"privateSkills": {
+					"type": "boolean"
+				},
+				"refuseAppraisal": {
+					"type": "boolean"
+				},
+				"refuseSpecialPost": {
+					"type": "boolean"
+				},
+				"refuseTrades": {
+					"type": "boolean"
+				},
+				"taunt": {
+					"type": "boolean"
+				}
+			},
+			"type": "object"
+		},
+		"combat": {
+			"additionalProperties": false,
+			"properties": {
+				"fightScript": {
+					"oneOf": [
+						{
+							"type": "null"
+						},
+						{
+							"allOf": [
+								{
+									"$ref": "/schemas/v1/characters-combat-scripts-id.gen.json"
+								},
+								{
+									"not": {
+										"$ref": "/schemas/v1/characters/combat/scripts/character-combat-scripts-system-only.json"
+									}
+								}
+							]
+						}
+					]
+				},
+				"gotoLoot": {
+					"type": "boolean"
+				},
+				"hideAmmoMessages": {
+					"type": "boolean"
+				}
+			},
+			"type": "object"
+		},
+		"display": {
+			"additionalProperties": false,
+			"properties": {
+				"allegianceMessages": {
+					"type": "boolean"
+				},
+				"defaultResource": {
+					"oneOf": [
+						{
+							"type": "null"
+						},
+						{
+							"$ref": "/schemas/v1/items-resources-id.gen.json"
+						}
+					]
+				},
+				"showLevelMap": {
+					"type": "boolean"
+				},
+				"tooltipLocation": {
+					"$ref": "/schemas/v1/characters/settings/character-tooltip-location-setting.json"
+				},
+				"yourTileColor": {
+					"$ref": "/schemas/v1/color-hex.json"
+				}
+			},
+			"type": "object"
+		},
+		"expansion": {
+			"additionalProperties": false,
+			"properties": {
+				"uwOceanBackground": {
+					"enum": ["ocean1", "ocean2", "ocean3", "ocean4"]
+				}
+			},
+			"type": "object"
+		},
+		"extraBar": {
+			"additionalProperties": false,
+			"properties": {
+				"extraBarRefresh": {
+					"type": "boolean"
+				},
+				"extraWindowPrimary": {
+					"oneOf": [
+						{
+							"const": "off"
+						},
+						{
+							"$ref": "/schemas/v1/characters/settings/character-extra-window-setting.json"
+						}
+					]
+				},
+				"extraWindowSecondary": {
+					"oneOf": [
+						{
+							"const": "off"
+						},
+						{
+							"allOf": [
+								{
+									"$ref": "/schemas/v1/characters/settings/character-extra-window-setting.json"
+								},
+								{
+									"not": {
+										"const": "shortcuts"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"type": "object"
+		},
+		"pricing": {
+			"additionalProperties": false,
+			"properties": {
+				"building": {
+					"$ref": "/schemas/v0/game-currency.json"
+				},
+				"item": {
+					"$ref": "/schemas/v0/game-currency.json"
+				},
+				"pet": {
+					"$ref": "/schemas/v0/game-currency.json"
+				}
+			},
+			"type": "object"
+		}
+	},
+	"required": ["$type"],
+	"title": "CharacterSettings",
+	"type": "object"
+}

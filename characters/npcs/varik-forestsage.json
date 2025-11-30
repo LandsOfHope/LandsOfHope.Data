@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "lem",
+		"level": {
+			"primary": 600
+		},
+		"name": "Varik Forestsage",
+		"sex": "M",
+		"title": "druid-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

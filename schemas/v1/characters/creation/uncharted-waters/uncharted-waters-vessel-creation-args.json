@@ -6,18 +6,25 @@
 			"const": "/v1/characters/creation/uncharted-waters/uncharted-waters-vessel-creation-args"
 		},
 		"flagColor": {
-			"enum": [
-				"000000",
+			"allOf": [
+				{
+					"enum": [
+						"#000000",
 
-				"330000",
-				"660000",
-				"990000",
-				"CC0000",
+						"#330000",
+						"#660000",
+						"#990000",
+						"#CC0000",
 
-				"000099",
-				"330099",
-				"660099",
-				"990099"
+						"#000099",
+						"#330099",
+						"#660099",
+						"#990099"
+					]
+				},
+				{
+					"$ref": "/schemas/v1/color-hex.json"
+				}
 			]
 		},
 		"name": {

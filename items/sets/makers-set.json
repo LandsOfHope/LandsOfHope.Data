@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "red",
 	"id": "makers-set",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"makers-footwear",
 		"makers-chestpiece",
@@ -11,8 +11,11 @@
 		"makers-gloves"
 	],
 	"spells": {
-		"0": {
-			"0": "makers-knowledge"
-		}
+		"neutral": [
+			{
+				"level": 0,
+				"spell": "gamemastery/makers-knowledge"
+			}
+		]
 	}
 }

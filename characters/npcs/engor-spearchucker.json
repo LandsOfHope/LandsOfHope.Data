@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "gef",
+		"level": {
+			"primary": 1
+		},
+		"name": "Engor Spearchucker",
+		"sex": "U",
+		"title": "projectile-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

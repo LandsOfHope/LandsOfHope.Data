@@ -2,23 +2,60 @@
 	"$id": "https://data.landsofhope.com/schemas/v1/race.json",
 	"additionalProperties": false,
 	"properties": {
-		"appr": {
-			"$ref": "/schemas/v1/localized-string.json"
+		"$type": {
+			"const": "/v1/race"
 		},
-		"desc": {
-			"$ref": "/schemas/v1/localized-string.json"
+		"care": {
+			"items": {
+				"$ref": "/schemas/v1/skills-caring-actions-id.gen.json"
+			},
+			"minItems": 1,
+			"type": "array",
+			"uniqueItems": true
 		},
-		"hist": {
-			"$ref": "/schemas/v1/localized-string.json"
+		"classification": {
+			"$ref": "/schemas/v1/races-classifications-id.gen.json"
 		},
-		"name": {
-			"$ref": "/schemas/v1/localized-string.json"
+		"id": {
+			"$ref": "/schemas/v1/races-id.gen.json"
+		},
+		"lootMaterial": {
+			"$ref": "/schemas/v1/items-materials-id.gen.json"
 		},
 		"pics": {
 			"$ref": "/schemas/v1/races/images.json"
+		},
+		"properties": {
+			"additionalProperties": false,
+			"minProperties": 1,
+			"patternProperties": {
+				".*": {
+					"type": "integer"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/characters/character-property-name.json"
+			},
+			"type": "object"
+		},
+		"randomMaterial": {
+			"$ref": "/schemas/v1/items-materials-id.gen.json"
+		},
+		"skills": {
+			"additionalProperties": false,
+			"minProperties": 1,
+			"patternProperties": {
+				".*": {
+					"type": "integer"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/skills-id.gen.json"
+			},
+			"type": "object"
 		}
 	},
-	"required": ["name", "desc", "appr", "hist", "pics"],
+	"required": ["$type", "classification", "id", "pics"],
 	"title": "Race",
 	"type": "object"
 }

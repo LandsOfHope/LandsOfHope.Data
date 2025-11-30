@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 850
+		},
+		"name": "Guy Weaponmaster",
+		"sex": "M",
+		"title": "projectile-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

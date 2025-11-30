@@ -1,0 +1,16 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/settings/character-extra-window-setting.json",
+	"enum": [
+		"messages",
+		"friends",
+		"travel",
+		"change-character",
+		"pets",
+		"fellowship",
+		"filters",
+		"getting-started",
+		"tips-and-info",
+		"shortcuts"
+	],
+	"title": "CharacterExtraWindowSetting"
+}

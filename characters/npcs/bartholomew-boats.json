@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "bartholomew-boats"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "pirate5",
@@ -14,10 +9,10 @@
 		},
 		"name": "Bartholomew Boats",
 		"sex": "M",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "odd-plan-peddler"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

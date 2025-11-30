@@ -1,18 +1,28 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Shadow Drow"
-	},
+	"$type": "/v1/race",
+	"classification": "humanoid",
+	"id": "shadow-drow",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mjpshdf"],
 		"M": ["mjpshdm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"mana-draining": 5,
+		"mystical-magic": 5,
+		"mystical-resistance": 5,
+		"stealth": 5,
+		"two-handed-swords": 5
 	}
 }

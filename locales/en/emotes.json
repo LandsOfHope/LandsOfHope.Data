@@ -1,0 +1,222 @@
+{
+	"barks": {
+		"from": "You bark at {{target}}",
+		"name": "Barks",
+		"to": "{{actor}} barks at you"
+	},
+	"bites": {
+		"from": "You bite {{target}}",
+		"name": "Bites",
+		"to": "{{actor}} bites you"
+	},
+	"blush": {
+		"from": "You blush at {{target}}",
+		"name": "Blush",
+		"to": "{{actor}} blushes at you"
+	},
+	"bows": {
+		"from": "You bow to {{target}}",
+		"name": "Bows",
+		"to": "{{actor}} bows to you"
+	},
+	"clings": {
+		"from": "You cling to {{target}}",
+		"name": "Clings",
+		"to": "{{actor}} clings to you"
+	},
+	"congratulates": {
+		"from": "You congratulate {{target}}",
+		"name": "Congratulates",
+		"to": "{{actor}} congratulates you"
+	},
+	"curtsies": {
+		"from": "You curtsy to {{target}}",
+		"name": "Curtsies",
+		"to": "{{actor}} curtsies to you"
+	},
+	"dances": {
+		"from": "You dance with {{target}}",
+		"name": "Dances",
+		"to": "{{actor}} dances with you"
+	},
+	"drools": {
+		"from": "You drool on {{target}}",
+		"name": "Drools",
+		"to": "{{actor}} drools on you"
+	},
+	"eyes": {
+		"from": "You eye over {{target}}",
+		"name": "Eyes",
+		"to": "{{actor}} eyes you"
+	},
+	"flirt": {
+		"from": "You flirt with {{target}}",
+		"name": "Flirt",
+		"to": "{{actor}} flirts with you"
+	},
+	"giggles": {
+		"from": "You giggle at {{target}}",
+		"name": "Giggles",
+		"to": "{{actor}} giggles at you"
+	},
+	"go": {
+		"from": "You tell {{target}} to go",
+		"name": "Go",
+		"to": "{{actor}} tells you to go"
+	},
+	"greets": {
+		"from": "You greet {{target}}",
+		"name": "Greets",
+		"to": "{{actor}} greets you"
+	},
+	"grins": {
+		"from": "You grin at {{target}}",
+		"name": "Grins",
+		"to": "{{actor}} grins at you"
+	},
+	"hail": {
+		"from": "You hail {{target}}",
+		"name": "Hail",
+		"to": "{{actor}} hails you"
+	},
+	"hiss": {
+		"from": "You hiss at {{target}}",
+		"name": "Hiss",
+		"to": "{{actor}} hisses at you"
+	},
+	"huggles": {
+		"from": "You huggle {{target}}",
+		"name": "Huggles",
+		"to": "{{actor}} huggles you"
+	},
+	"hugs": {
+		"from": "You hug {{target}}",
+		"name": "Hugs",
+		"to": "{{actor}} hugs you"
+	},
+	"kisses": {
+		"from": "You kiss {{target}}",
+		"name": "Kisses",
+		"to": "{{actor}} kisses you"
+	},
+	"laughs": {
+		"from": "You laugh at {{target}}'s joke",
+		"name": "Laughs",
+		"to": "{{actor}} laughs at your joke"
+	},
+	"laughs-ii": {
+		"from": "You laugh at {{target}}",
+		"name": "Laughs - II",
+		"to": "{{actor}} laughs at you"
+	},
+	"licks": {
+		"from": "You lick {{target}}'s hand",
+		"name": "Licks",
+		"to": "{{actor}} licks your hand"
+	},
+	"loves": {
+		"from": "You love {{target}}",
+		"name": "Loves",
+		"to": "{{actor}} loves you"
+	},
+	"meow": {
+		"from": "You meow at {{target}}",
+		"name": "Meow",
+		"to": "{{actor}} meows at you"
+	},
+	"no": {
+		"from": "You indicate NO to {{target}}",
+		"name": "No",
+		"to": "{{actor}} indicates NO!"
+	},
+	"pleads": {
+		"from": "You plead to {{target}} for help",
+		"name": "Pleads",
+		"to": "{{actor}} pleads to you for help"
+	},
+	"roars": {
+		"from": "You roar at {{target}}",
+		"name": "Roars",
+		"to": "{{actor}} roars at you"
+	},
+	"scream": {
+		"from": "You scream at {{target}}",
+		"name": "Scream",
+		"to": "{{actor}} screams at you"
+	},
+	"skitters": {
+		"from": "You skitter towards {{target}}",
+		"name": "Skitters",
+		"to": "{{actor}} skitters towards you"
+	},
+	"smiles": {
+		"from": "You smile at {{target}}",
+		"name": "Smiles",
+		"to": "{{actor}} smiles at you"
+	},
+	"sneers": {
+		"from": "You sneer at {{target}}",
+		"name": "Sneers",
+		"to": "{{actor}} sneers at you"
+	},
+	"snorts": {
+		"from": "You snort at {{target}}",
+		"name": "Snorts",
+		"to": "{{actor}} snorts at you"
+	},
+	"stares": {
+		"from": "You stare at {{target}}",
+		"name": "Stares",
+		"to": "{{actor}} stares at you"
+	},
+	"stop": {
+		"from": "You tell {{target}} to stop",
+		"name": "Stop",
+		"to": "{{actor}} tells you to stop"
+	},
+	"tag": {
+		"from": "You tag {{target}}",
+		"name": "Tag",
+		"to": "{{actor}} tags you"
+	},
+	"tickles": {
+		"from": "You tickle {{target}}",
+		"name": "Tickles",
+		"to": "{{actor}} tickles you"
+	},
+	"watch": {
+		"from": "You watch {{target}}",
+		"name": "Watch",
+		"to": "{{actor}} is watching you"
+	},
+	"waves": {
+		"from": "You wave at {{target}}",
+		"name": "Waves",
+		"to": "{{actor}} waves at you"
+	},
+	"whine": {
+		"from": "You whine at {{target}}",
+		"name": "Whine",
+		"to": "{{actor}} whines at you"
+	},
+	"wriggles": {
+		"from": "You wriggle out of {{target}}'s tickles",
+		"name": "Wriggles",
+		"to": "{{actor}} wriggles out of your tickles"
+	},
+	"yawn": {
+		"from": "You yawn at {{target}}",
+		"name": "Yawn",
+		"to": "{{actor}} yawns at you"
+	},
+	"yells": {
+		"from": "You yell at {{target}}",
+		"name": "Yells",
+		"to": "{{actor}} yells at you"
+	},
+	"yes": {
+		"from": "You indicate YES to {{target}}",
+		"name": "Yes",
+		"to": "{{actor}} indicates YES!"
+	}
+}

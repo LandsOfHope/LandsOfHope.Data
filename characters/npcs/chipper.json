@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjcm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Chipper",
+		"sex": "M",
+		"title": "cookie-piece-collector"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

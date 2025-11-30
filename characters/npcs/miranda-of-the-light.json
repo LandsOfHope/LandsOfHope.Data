@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "haf",
+		"level": {
+			"primary": 200
+		},
+		"name": "Miranda of the Light",
+		"sex": "F",
+		"title": "luminary-magic-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

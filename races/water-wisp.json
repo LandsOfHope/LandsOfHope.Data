@@ -1,18 +1,26 @@
 {
-	"appr": {
-		"en": "The Water Wisp is made almost entirely of water and in appearance they seem to  be bits of froth or foam looking almost like bubbles.  It isn`t until you get close to  them that you notice the membrane that holds their bodies together.  Small creatures,  they travel in groups and seem playful in nature until they feel threatened."
-	},
-	"desc": {
-		"en": "The Water Wisp is another magical creature of Myzan.  Living in the waters of the  Riverscape realm, they are hard to spy until one is close to them."
-	},
-	"hist": {
-		"en": "Little is really known about the history of the Water Wisp.  No one has ever found a  way to communicate with the tiny creatures.  In fact, no one ever knew they existed  until a wandering explorer named Bumble Flutterfanger fell into the river right into  a pack of the wisps.  Flutterfanger stumbled into Lesser Riverden later that day  covered with welts raving of dangerous, invisible creatures hiding in the waters."
-	},
-	"name": {
-		"en": "Water Wisp"
-	},
+	"$type": "/v1/race",
+	"classification": "magical",
+	"id": "water-wisp",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["wwf"],
 		"M": ["wwm"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"healing-magic": 5,
+		"water-resistance": 5,
+		"water-survival": 5
 	}
 }

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "anf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Rzxtur",
+		"sex": "F",
+		"title": "evolution-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

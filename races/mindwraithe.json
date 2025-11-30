@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": "An undead critter that specializes in mind control."
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Mindwraithe"
-	},
+	"$type": "/v1/race",
+	"classification": "anniversary",
+	"id": "mindwraithe",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mjpmindf"],
 		"M": ["mjpmindm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"air-survival": 5,
+		"armor": 5,
+		"attack-power": 5
 	}
 }

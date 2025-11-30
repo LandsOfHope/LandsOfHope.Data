@@ -1,17 +1,23 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Green Cobra"
-	},
+	"$type": "/v1/race",
+	"classification": "beast",
+	"id": "green-cobra",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["epcobra"]
+		"F": ["epcobra"],
+		"M": ["epcobra"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

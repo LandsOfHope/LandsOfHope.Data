@@ -1,18 +1,31 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Elder Elemental"
-	},
+	"$type": "/v1/race",
+	"classification": "magical",
+	"id": "elder-elemental",
+	"lootMaterial": "gem",
 	"pics": {
 		"F": ["mpeef"],
 		"M": ["mpeem"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "gem",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cold-resistance": 5,
+		"earth-magic": 5,
+		"earth-resistance": 5,
+		"energy-resistance": 5,
+		"fire-resistance": 5,
+		"mystical-resistance": 5,
+		"water-resistance": 5
 	}
 }

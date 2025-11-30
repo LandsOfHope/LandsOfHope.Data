@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "anf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Jazar the Seer",
+		"sex": "F",
+		"title": "supplier-of-path"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

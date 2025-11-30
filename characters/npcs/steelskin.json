@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mnd4",
+		"level": {
+			"primary": 95
+		},
+		"name": "Steelskin",
+		"sex": "M",
+		"title": "leader"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "dom",
+		"level": {
+			"primary": 260
+		},
+		"name": "Zedric Boneforger",
+		"sex": "M",
+		"title": "bone-collector"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

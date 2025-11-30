@@ -1,0 +1,24 @@
+{
+	"$type": "/v1/race",
+	"classification": "alien",
+	"id": "barsel",
+	"lootMaterial": "hide",
+	"pics": {
+		"F": ["duckman2"],
+		"M": ["duckman1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fire-survival": 5
+	}
+}

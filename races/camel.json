@@ -1,18 +1,24 @@
 {
-	"appr": {
-		"en": "Four long legs support a large torso and a long curved neck.  The head is quite small and long.  One to two large humps crown the backs of the beasts which store water for the animals.  They have shaggy thin fur that matches the light tan color of the sands that they traverse."
-	},
-	"desc": {
-		"en": "Often known as the \"pack horse of the desert\", camels are one of the most resourceful and tough creatures that dwell in the driest climates on the planet.  Their strength and stamina make them perfect pack animals.  They also have the ability to store water in a hump on their back which gives them incredibly long range in the desert."
-	},
-	"hist": {
-		"en": "It is said that the sands of the desert created camels.  They seem to be at one with all places dry and desolate.  Wise desert dwellers say that the sands needed to move water about in order to keep life in the harsh conditions.  Now we believe that the animals adapted but no one really knows for sure."
-	},
-	"name": {
-		"en": "Camel"
-	},
+	"$type": "/v1/race",
+	"classification": "beast",
+	"id": "camel",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["ca2"],
 		"M": ["ca1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

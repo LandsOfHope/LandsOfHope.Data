@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "earil-ganiel-potbrewer"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "gef",
@@ -14,10 +9,10 @@
 		},
 		"name": "Earil-Ganiel Potbrewer",
 		"sex": "F",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "alchemist"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

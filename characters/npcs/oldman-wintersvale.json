@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mrwinter",
+		"level": {
+			"primary": 50
+		},
+		"name": "Oldman Wintersvale",
+		"sex": "M",
+		"title": "wintersvale-owner"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

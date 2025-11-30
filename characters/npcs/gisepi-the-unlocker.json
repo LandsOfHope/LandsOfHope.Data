@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "gem",
+		"level": {
+			"primary": 1
+		},
+		"name": "Gisepi the Unlocker",
+		"sex": "M",
+		"title": "locksmith"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,18 +1,24 @@
 {
-	"appr": {
-		"en": "Sithanu are large lizard-like creatures.  They have long bodies with tails that stretch out behind them balancing them and allowing them to stand upright. The tallest sithanu seen towered out at over seven feet tall.  The females decorate their long necks with golden rings from their heads to their torsos.  Without this knowlege an outsider to the tribes has difficulty in determining the sex of a sithanu for there is little difference between  them.  An egg bearing race, both sexes tend the eggs and the young."
-	},
-	"desc": {
-		"en": "The Sithanu are a tribal race that wander the deserts of Myzan. They roam from one oasis to the next carving out an astonishing wealthy existance from the sands. Foragers find foods from plants that most strangers to the desert would never think to look at. Despite the harshness of their surroundings, the sithanu are a happy race for the  most part, content with their lives and resources."
-	},
-	"hist": {
-		"en": "The Sithanu have always lived in the deserts.  The dry climate agrees with them and they have never felt the need to live elsewhere.  Peaceful for the most part, their greatest enemy is the encroaching race of the Shades who they have battled for years over possession of the deserts.    Born with disease resistance and poison resistance, the Sithanu have managed to  survive well in the deserts even through the time of the plagues after the Great War.    The Sithanu are the guardians of the greatest treasure of the desert.  Magical crystals are known to appear in the sands. Many treasure hunters have gotten lost and died in the desert while searching for the crystals.  Some have died from  miscalculating the desert...some from misunderstanding the Sithanu."
-	},
-	"name": {
-		"en": "Sithanu"
-	},
+	"$type": "/v1/race",
+	"classification": "humanoid",
+	"id": "sithanu",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["sif"],
 		"M": ["sim"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"acid-resistance": 5,
+		"poison-magic": 5,
+		"poison-resistance": 5
 	}
 }

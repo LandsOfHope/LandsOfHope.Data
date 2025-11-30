@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 990
+		},
+		"name": "Uncle Harry",
+		"sex": "M",
+		"title": "exile-dungeon-keeper"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "wwf",
+		"level": {
+			"primary": 200
+		},
+		"name": "Tinkling Blue",
+		"sex": "F",
+		"title": "trophy-collector"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

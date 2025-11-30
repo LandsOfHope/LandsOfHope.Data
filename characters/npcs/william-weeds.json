@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "william-weeds"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "mcleric",
@@ -14,10 +9,10 @@
 		},
 		"name": "William Weeds",
 		"sex": "M",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "floristry-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

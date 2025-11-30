@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjgiaf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Sandy the Summoner",
+		"sex": "F",
+		"title": "summoner-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

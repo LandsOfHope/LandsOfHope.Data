@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "blaf1",
+		"level": {
+			"primary": 5
+		},
+		"name": "Sheriff Lockemup",
+		"sex": "F",
+		"title": "sheriff"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

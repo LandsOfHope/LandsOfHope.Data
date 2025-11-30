@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "gem",
+		"level": {
+			"primary": 1
+		},
+		"name": "Gil Healinghands",
+		"sex": "M",
+		"title": "healer-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

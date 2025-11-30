@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "alienb3",
+		"level": {
+			"primary": 1
+		},
+		"name": "Blue",
+		"sex": "M",
+		"title": "crystal-converter"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

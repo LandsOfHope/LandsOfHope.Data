@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "artf2",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Harin Gemshaper",
+		"sex": "F",
+		"title": "crystal-maker"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

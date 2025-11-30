@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hrf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Purreia Goodheart",
+		"sex": "F",
+		"title": "protection-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

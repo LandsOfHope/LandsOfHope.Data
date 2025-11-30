@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "bif",
+		"level": {
+			"primary": 1
+		},
+		"name": "Whitefeather the Messenger",
+		"sex": "F",
+		"title": "post-master"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

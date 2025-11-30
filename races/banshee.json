@@ -1,18 +1,28 @@
 {
-	"appr": {
-		"en": "Banshees come in many guises. They are most often seen as shadowy figures of  women with long flowing hair and red flaming eyes sometimes wearing a death shroud  or hidden in the darkness of a hooded cape."
-	},
-	"desc": {
-		"en": "Banshees are known and feared as the foretellers of death to come.  It is said that   if you hear the wail of a banshee that someone will not see the dawn. Their keening  is almost beyond the limits of hearing yet the sound is known to cause a person to freeze in battle so when banshees are around most people try to plug their ears to  avoid this."
-	},
-	"hist": {
-		"en": "Little is known about the history of the banshee since most intelligent people avoid  them.  Legend has it that they are a distant cousin to the Elven kind but one would be  wise to never mention that around an elf."
-	},
-	"name": {
-		"en": "Banshee"
-	},
+	"$type": "/v1/race",
+	"classification": "undead",
+	"id": "banshee",
+	"lootMaterial": "hide",
 	"pics": {
-		"F": ["baf"],
-		"M": ["bam"]
+		"F": ["mjpfas"],
+		"M": ["mjpmas"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 2,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"air-survival": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"fists": 5,
+		"mana-draining": 5,
+		"mystical-magic": 5,
+		"mystical-resistance": 5
 	}
 }

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "ipf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Verity Flapsie",
+		"sex": "F",
+		"title": "healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

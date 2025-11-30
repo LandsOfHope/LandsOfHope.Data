@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "wd1",
+		"level": {
+			"primary": 230
+		},
+		"name": "Old Willow Trugar",
+		"sex": "M",
+		"title": "old-one"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

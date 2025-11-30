@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "dwm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Bronzebeard Beartracker",
+		"sex": "M",
+		"title": "forest-dweller-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "blaf3",
+		"level": {
+			"primary": 1
+		},
+		"name": "Lilybeth Evans",
+		"sex": "F",
+		"title": "fisherwoman"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

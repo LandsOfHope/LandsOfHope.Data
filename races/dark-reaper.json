@@ -1,18 +1,23 @@
 {
-	"appr": {
-		"en": "The bandages wrapped around them are in reality the vessel that holds the undead spirit to this plane of existence. The skull within the hood of their cloak a focusing medium for the energy. The only part of the dark reaper that is actually itself and can be seen are its eyes, which glow with a green swirling fire."
-	},
-	"desc": {
-		"en": "In many species legends of Myzan, Dark Reapers are a bad omen. While not the harbingers of death that Grim Reapers are, they are still deadly. They are most often only seen in Barren Downs where it is said the ruins of the long fallen tower of their creator lays."
-	},
-	"hist": {
-		"en": "Dark Reapers are actually constructs created by a long destroyed Reaper. They are more closely related to golems then they are Grim Reapers or other undead. While many books were written on the subject, many have been destroyed, or hoarded by today's Reapers"
-	},
-	"name": {
-		"en": "Dark Reaper"
-	},
+	"$type": "/v1/race",
+	"classification": "undead",
+	"id": "dark-reaper",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mpdrf"],
 		"M": ["mpdrm"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 1,
+		"SPEED": 2,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

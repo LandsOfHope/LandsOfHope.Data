@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "asif2",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Lady Louisa",
+		"sex": "F",
+		"title": "society-commander"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

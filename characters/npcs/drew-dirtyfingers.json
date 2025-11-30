@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mstable",
+		"level": {
+			"primary": 1
+		},
+		"name": "Drew Dirtyfingers",
+		"sex": "F",
+		"title": "gardener"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

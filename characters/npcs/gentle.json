@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "wfm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Gentle",
+		"sex": "M",
+		"title": "exotic-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

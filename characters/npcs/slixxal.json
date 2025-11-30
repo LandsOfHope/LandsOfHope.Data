@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "alien3",
+		"level": {
+			"primary": 1
+		},
+		"name": "Slixxal",
+		"sex": "M",
+		"title": "hologram"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

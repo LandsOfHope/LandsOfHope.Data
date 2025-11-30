@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "huf",
+		"level": {
+			"primary": 750
+		},
+		"name": "Louisa Lightcaster",
+		"sex": "F",
+		"title": "luminary-magic-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

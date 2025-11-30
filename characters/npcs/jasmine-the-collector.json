@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "kaelia",
+		"level": {
+			"primary": 1
+		},
+		"name": "Jasmine the Collector",
+		"sex": "F",
+		"title": "court-banker"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

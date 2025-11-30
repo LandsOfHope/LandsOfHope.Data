@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "sm2",
+		"level": {
+			"primary": 1
+		},
+		"name": "Nerva Darksoul",
+		"sex": "F",
+		"title": "leader-of-the-reapers"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

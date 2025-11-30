@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "seaman-seamus"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "pirate8",
@@ -14,10 +9,10 @@
 		},
 		"name": "Seaman Seamus",
 		"sex": "M",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "seamanship-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

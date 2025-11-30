@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "ddm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Grimdsight Necromunger",
+		"sex": "M",
+		"title": "necromancy-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "green",
 	"id": "cow-costume",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"cow-costume-gloves",
 		"cow-costume-trousers",
@@ -12,8 +12,11 @@
 		"cow-costume-belt"
 	],
 	"spells": {
-		"0": {
-			"0": "cow-costume-disguise"
-		}
+		"neutral": [
+			{
+				"level": 0,
+				"spell": "gm-magic/cow-costume-disguise"
+			}
+		]
 	}
 }

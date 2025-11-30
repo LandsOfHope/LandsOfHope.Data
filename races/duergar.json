@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Duergar"
-	},
+	"$type": "/v1/race",
+	"classification": "humanoid",
+	"id": "duergar",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["ddf"],
 		"M": ["ddm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"fire-survival": 5,
+		"two-handed-axes": 5
 	}
 }

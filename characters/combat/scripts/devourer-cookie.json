@@ -1,0 +1,5 @@
+{
+	"$type": "/v1/characters/combat-script",
+	"profession": "devourer-of-cookies",
+	"script": "IF MP <= 10 { ATTACK ANY } ELSE { CAST DAMAGE ON ANY FAIL BEGIN ATTACK END SUCEED NOTHING BEGIN }"
+}

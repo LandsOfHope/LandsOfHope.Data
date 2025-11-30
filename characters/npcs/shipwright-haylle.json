@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "pirate9",
+		"level": {
+			"primary": 1
+		},
+		"name": "Shipwright Haylle",
+		"sex": "F",
+		"title": "port-shipmaster"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

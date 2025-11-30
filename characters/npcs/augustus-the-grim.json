@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "lec",
+		"level": {
+			"primary": 1
+		},
+		"name": "Augustus the Grim",
+		"sex": "M",
+		"title": "crypt-lord"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

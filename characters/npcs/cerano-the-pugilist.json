@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mmm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Cerano the Pugilist",
+		"sex": "M",
+		"title": "hand-to-hand-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

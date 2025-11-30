@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpspiderf",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Spider Goddess Statue",
+		"sex": "F",
+		"title": "shrine"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

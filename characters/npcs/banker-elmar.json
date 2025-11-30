@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "ham",
+		"level": {
+			"primary": 300
+		},
+		"name": "Banker Elmar",
+		"sex": "M",
+		"title": "traders-alliance-enforcer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

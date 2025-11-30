@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "inglewart-stifler"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "asim5",
@@ -14,10 +9,10 @@
 		},
 		"name": "Inglewart Stifler",
 		"sex": "M",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "war-mongerer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

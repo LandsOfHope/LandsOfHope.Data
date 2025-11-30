@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mom",
+		"level": {
+			"primary": 1
+		},
+		"name": "Ripclaw Shamansoul",
+		"sex": "M",
+		"title": "shaman-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,17 +1,24 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "King Arthur"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "king-arthur",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["kingarthur"]
+		"F": ["kingarthur"],
+		"M": ["kingarthur"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"acid-resistance": 5,
+		"armor": 5,
+		"attack-power": 5
 	}
 }

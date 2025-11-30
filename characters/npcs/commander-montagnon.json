@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpmont",
+		"level": {
+			"primary": 1
+		},
+		"name": "Commander Montagnon",
+		"sex": "M",
+		"title": "lionheart-leader"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

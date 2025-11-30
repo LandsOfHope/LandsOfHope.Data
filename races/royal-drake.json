@@ -1,18 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Royal Drake"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "royal-drake",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mpdra6"],
 		"M": ["mpdra9"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 3,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 3
+	},
+	"skills": {
+		"air-survival": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"cold-survival": 5,
+		"fire-resistance": 5
 	}
 }

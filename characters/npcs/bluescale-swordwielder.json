@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mef",
+		"level": {
+			"primary": 1
+		},
+		"name": "Bluescale Swordwielder",
+		"sex": "F",
+		"title": "swords-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "lef",
+		"level": {
+			"primary": 1
+		},
+		"name": "Lishnar the Treasure Hunter",
+		"sex": "F",
+		"title": "seeker"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

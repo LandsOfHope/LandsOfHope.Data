@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Sithe Lord"
-	},
+	"$type": "/v1/race",
+	"classification": "humanoid",
+	"id": "sithe-lord",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["sd2"],
 		"M": ["sd1"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"poison-magic": 5,
+		"poison-resistance": 5
 	}
 }

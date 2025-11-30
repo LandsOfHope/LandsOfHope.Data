@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "gim",
+		"level": {
+			"primary": 1
+		},
+		"name": "Yeran of the Bluehaze",
+		"sex": "M",
+		"title": "magic-master"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

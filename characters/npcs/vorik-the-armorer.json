@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "anm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Vorik the Armorer",
+		"sex": "M",
+		"title": "elemental-armorsmith"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

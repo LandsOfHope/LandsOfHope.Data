@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "anm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Evolution Trainer",
+		"sex": "M",
+		"title": "evolved-spirit"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

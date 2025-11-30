@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "yellow",
 	"id": "strongmoon-legend",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"strongmoon-sleeves",
 		"strongmoon-shoulders",
@@ -14,17 +14,33 @@
 		"strongmoon-cap"
 	],
 	"spells": {
-		"0": {
-			"0": "summon-wisp"
-		},
-		"1": {
-			"0": "summon-giant-beetle"
-		},
-		"2": {
-			"0": "summon-golem"
-		},
-		"3": {
-			"0": "summon-hydra"
-		}
+		"neutral": [
+			{
+				"level": 0,
+				"spell": "gm-magic/strongmoon-blessing"
+			},
+			{
+				"level": 0,
+				"spell": "gamemastery/summon-wisp"
+			}
+		],
+		"the-exiles": [
+			{
+				"level": 0,
+				"spell": "gamemastery/summon-giant-beetle"
+			}
+		],
+		"the-reapers": [
+			{
+				"level": 0,
+				"spell": "gamemastery/summon-hydra"
+			}
+		],
+		"the-society": [
+			{
+				"level": 0,
+				"spell": "gamemastery/summon-golem"
+			}
+		]
 	}
 }

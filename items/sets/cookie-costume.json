@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "green",
 	"id": "cookie-costume",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"cookie-costume-gloves",
 		"cookie-costume-trousers",
@@ -12,8 +12,11 @@
 		"cookie-costume-belt"
 	],
 	"spells": {
-		"0": {
-			"0": "cookie-costume-disguise"
-		}
+		"neutral": [
+			{
+				"level": 0,
+				"spell": "gm-magic/cookie-costume-disguise"
+			}
+		]
 	}
 }

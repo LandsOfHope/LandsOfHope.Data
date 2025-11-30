@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "pirate14",
+		"level": {
+			"primary": 1
+		},
+		"name": "Admiral Jane Smythe",
+		"sex": "F",
+		"title": "myzan-navy-promoter"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

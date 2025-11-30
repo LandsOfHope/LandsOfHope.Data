@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "il2",
+		"level": {
+			"primary": 1
+		},
+		"name": "Chillbone Hardblow",
+		"sex": "F",
+		"title": "large-staves-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

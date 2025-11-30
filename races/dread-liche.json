@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Liche Lord"
-	},
+	"$type": "/v1/race",
+	"classification": "undead",
+	"id": "dread-liche",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["dl2"],
 		"M": ["dl1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"poison-magic": 5,
+		"poison-resistance": 5
 	}
 }

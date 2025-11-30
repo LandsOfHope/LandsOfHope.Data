@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "hammerbranch-strongroots"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "wd1",
@@ -14,10 +9,10 @@
 		},
 		"name": "Hammerbranch Strongroots",
 		"sex": "M",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "construction-plan-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

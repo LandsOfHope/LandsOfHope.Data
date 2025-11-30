@@ -1,5 +1,11 @@
-const fs = require("fs");
-const path = require("path");
+import {
+	existsSync,
+	mkdirSync,
+	readdirSync,
+	statSync,
+	writeFileSync,
+} from "node:fs";
+import { dirname, join } from "node:path";
 
 const directories = (() => {
 	const dirs = process.argv.slice(2);
@@ -8,14 +14,18 @@ const directories = (() => {
 		"professions",
 		"races",
 		"races/groups",
+		"races/classifications",
 		"skills",
 		"skills/crafting/recipes/*",
+		"skills/caring/actions",
 		"skills/spells/*",
 		"skills/styles/*",
 		"maps/terrains/*",
 		"maps/worlds",
+		"maps/tiles/actions",
 		"maps/landmarks/types",
 		"maps/buildings/images",
+		"maps/buildings/actions",
 		"titles",
 		"allegiances",
 		"items",
@@ -29,10 +39,13 @@ const directories = (() => {
 		"items/enhancements/*",
 		"vessel-items",
 		"characters/images",
+		"characters/actions",
+		"characters/actions/emotes",
 		"characters/extra-images",
 		"characters/enhancements",
 		"characters/npcs",
 		"characters/npcs/recipes",
+		"characters/combat/scripts",
 		"stats/stat-categories",
 		"stats/rankings",
 		"expansions",
@@ -47,9 +60,9 @@ directories.forEach((dir) => {
 	const version = versions[dir] ?? "v1";
 	const isGlob = dir.endsWith("*");
 
-	const parentOutputDir = path.join(schemas, version, path.dirname(dir));
-	if (!fs.existsSync(parentOutputDir))
-		fs.mkdirSync(parentOutputDir, { recursive: true });
+	const parentOutputDir = join(schemas, version, dirname(dir));
+	if (!existsSync(parentOutputDir))
+		mkdirSync(parentOutputDir, { recursive: true });
 
 	console.log(`Generating ID schema for ${dir} in ${version}`, {
 		isGlob,
@@ -74,11 +87,11 @@ directories.forEach((dir) => {
 	const enumValues = [];
 	const childEnums = [];
 	if (isGlob) {
-		const parentDir = path.dirname(dir);
-		const subdirs = fs.readdirSync(parentDir);
+		const parentDir = dirname(dir);
+		const subdirs = readdirSync(parentDir);
 		subdirs.forEach((subdir) => {
-			const subDirPath = path.join(parentDir, subdir);
-			const stat = fs.statSync(subDirPath);
+			const subDirPath = join(parentDir, subdir);
+			const stat = statSync(subDirPath);
 			if (stat.isDirectory()) {
 				const scopedEnumValues = [];
 				const scopedProperTitle =
@@ -90,7 +103,7 @@ directories.forEach((dir) => {
 						)
 						.join("") + properTitle;
 				const scoped_id_schema_file = `${schemas}/${version}/${parentDir}/${subdir}-${idName}.gen.json`;
-				const files = fs.readdirSync(subDirPath);
+				const files = readdirSync(subDirPath);
 
 				for (const file of files) {
 					if (file.endsWith(".json") && !file.endsWith(".gen.json")) {
@@ -102,8 +115,8 @@ directories.forEach((dir) => {
 					enumValues.push(...scopedEnumValues);
 				}
 
-				fs.writeFileSync(
-					path.join(parentOutputDir, `${subdir}-${idName}.gen.json`),
+				writeFileSync(
+					join(parentOutputDir, `${subdir}-${idName}.gen.json`),
 					JSON.stringify({
 						$id: `https://data.landsofhope.com/${scoped_id_schema_file}`,
 						enum: scopedEnumValues,
@@ -114,7 +127,7 @@ directories.forEach((dir) => {
 			}
 		});
 	} else {
-		const files = fs.readdirSync(dir);
+		const files = readdirSync(dir);
 		for (const file of files) {
 			if (file.endsWith(".json") && !file.endsWith(".gen.json")) {
 				enumValues.push(file.slice(0, -5));
@@ -124,14 +137,14 @@ directories.forEach((dir) => {
 
 	const enumTypeObj = {};
 	if (isGlob) {
-		enumTypeObj["oneOf"] = childEnums.map((childEnum) => ({
+		enumTypeObj.oneOf = childEnums.map((childEnum) => ({
 			$ref: `/${childEnum}`,
 		}));
 	} else {
-		enumTypeObj["enum"] = enumValues;
+		enumTypeObj.enum = enumValues;
 	}
 
-	fs.writeFileSync(
+	writeFileSync(
 		id_schema_file,
 		JSON.stringify({
 			$id: `https://data.landsofhope.com/${id_schema_file}`,

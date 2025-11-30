@@ -1,375 +1,3221 @@
 {
-	"abysmal-assassin": { "name": "Abysmal Assassin" },
-	"adept-alchemist": { "name": "Adept Alchemist" },
-	"adept-analyzer": { "name": "Adept Analyzer" },
-	"adept-animator": { "name": "Adept Animator" },
-	"adept-archaeologist": { "name": "Adept Archaeologist" },
-	"adept-beggar": { "name": "Adept Beggar" },
-	"adept-blacksmith": { "name": "Adept Blacksmith" },
-	"adept-breeder": { "name": "Adept Breeder" },
-	"adept-builder": { "name": "Adept Builder" },
-	"adept-carpenter": { "name": "Adept Carpenter" },
-	"adept-castaway": { "name": "Adept Castaway" },
-	"adept-cook": { "name": "Adept Cook" },
-	"adept-crafter": { "name": "Adept Crafter" },
-	"adept-demonologist": { "name": "Adept Demonologist" },
-	"adept-explorer": { "name": "Adept Explorer" },
-	"adept-farmer": { "name": "Adept Farmer" },
-	"adept-fishcatcher": { "name": "Adept Fishcatcher" },
-	"adept-florist": { "name": "Adept Florist" },
-	"adept-forager": { "name": "Adept Forager" },
-	"adept-furnisher": { "name": "Adept Furnisher" },
-	"adept-geologist": { "name": "Adept Geologist" },
-	"adept-hexer": { "name": "Adept Hexer" },
-	"adept-leatherworker": { "name": "Adept Leatherworker" },
-	"adept-locksmith": { "name": "Adept Locksmith" },
-	"adept-marinecarer": { "name": "Adept Marinecarer" },
-	"adept-miner": { "name": "Adept Miner" },
-	"adept-necromancer": { "name": "Adept Necromancer" },
-	"adept-revealer": { "name": "Adept Revealer" },
-	"adept-scammer": { "name": "Adept Scammer" },
-	"adept-scribe": { "name": "Adept Scribe" },
-	"adept-seaman": { "name": "Adept Seaman" },
-	"adept-seeker": { "name": "Adept Seeker" },
-	"adept-skinner": { "name": "Adept Skinner" },
-	"adept-slinker": { "name": "Adept Slinker" },
-	"adept-stonemason": { "name": "Adept Stonemason" },
-	"adept-tailor": { "name": "Adept Tailor" },
-	"adept-tamer": { "name": "Adept Tamer" },
-	"adept-tinker": { "name": "Adept Tinker" },
-	"adept-trapper": { "name": "Adept Trapper" },
-	"adept-treefeller": { "name": "Adept Treefeller" },
-	"admiral-of-the-black": { "name": "Admiral of the Black" },
-	"admiral-of-the-gold": { "name": "Admiral of the Gold" },
-	"admiral-of-the-grey": { "name": "Admiral of the Grey" },
-	"admiral-of-the-red": { "name": "Admiral of the Red" },
-	"admiral-of-the-white": { "name": "Admiral of the White" },
-	"admiral-of-the-yellow": { "name": "Admiral of the Yellow" },
-	"aeromech-pilot": { "name": "Aeromech Pilot" },
-	"agent-of-the-legion": { "name": "Agent of the Legion" },
-	"alcoholic": { "name": "Alcoholic" },
-	"alligator-slayer": { "name": "Alligator Slayer" },
-	"angel-of-darkness": { "name": "Angel of Darkness" },
-	"angel-of-twilight": { "name": "Angel of Twilight" },
-	"annis-slayer": { "name": "Annis Slayer" },
-	"anti-society": { "name": "Anti-Society" },
-	"arachnins-slayer": { "name": "Arachnins Slayer" },
-	"artisan": { "name": "Artisan" },
-	"ascended-rebel": { "name": "Ascended Rebel" },
-	"aviator": { "name": "Aviator" },
-	"basilisk-slayer": { "name": "Basilisk Slayer" },
-	"baublemaster": { "name": "Baublemaster" },
-	"beast-finder": { "name": "Beast Finder" },
-	"beast-seeker": { "name": "Beast Seeker" },
-	"beast-tracker": { "name": "Beast Tracker" },
-	"big-fairy": { "name": "Big Fairy" },
-	"biting-nettle-slayer": { "name": "Biting Nettle Slayer" },
-	"black-dragon-slayer": { "name": "Black Dragon Slayer" },
-	"black-rat-catcher": { "name": "Black Rat Catcher" },
-	"black-wurm-slayer": { "name": "Black Wurm Slayer" },
-	"blackskull-devout": { "name": "Blackskull Devout" },
-	"blood-demon-slayer": { "name": "Blood Demon Slayer" },
-	"blood-soaked-combatant": { "name": "Blood-soaked Combatant" },
-	"bloodthirsty-combatant": { "name": "Bloodthirsty Combatant" },
-	"blustering-barnacle": { "name": "Blustering Barnacle" },
-	"bone-dragon-slayer": { "name": "Bone Dragon Slayer" },
-	"boss-killer": { "name": "Boss Killer" },
-	"boss-sinker": { "name": "Boss Sinker" },
-	"brigantine-sinker": { "name": "Brigantine Sinker" },
-	"bringer-of-hope": { "name": "Bringer of Hope" },
-	"buoy-type-i-sinker": { "name": "Buoy Type I Sinker" },
-	"butterfly-collector": { "name": "Butterfly Collector" },
-	"carp-seeker": { "name": "Carp Seeker" },
-	"champion-of-the-truth": { "name": "Champion of the Truth" },
-	"chicken-slayer": { "name": "Chicken Slayer" },
-	"chirurgeon": { "name": "Chirurgeon" },
-	"chosen-one": { "name": "Chosen One" },
-	"cobra-seeker": { "name": "Cobra Seeker" },
-	"coldheart": { "name": "Coldheart" },
-	"commander": { "name": "Commander" },
-	"commander-of-the-sea": { "name": "Commander of the Sea" },
-	"commodore": { "name": "Commodore" },
-	"con-artist": { "name": "Con Artist" },
-	"cookie-air-marshall": { "name": "Cookie Air Marshall" },
-	"cookie-baker": { "name": "Cookie Baker" },
-	"cool-customer": { "name": "Cool Customer" },
-	"costume-crafter": { "name": "Costume Crafter" },
-	"council-initiate": { "name": "Council Initiate" },
-	"council-minister": { "name": "Council Minister" },
-	"cow-slayer": { "name": "Cow Slayer" },
-	"crafting-champion": { "name": "Crafting Champion" },
-	"crazy-eyes": { "name": "Crazy Eyes" },
-	"criminal-finder": { "name": "Criminal Finder" },
-	"criminal-seeker": { "name": "Criminal Seeker" },
-	"criminal-tracker": { "name": "Criminal Tracker" },
-	"crystal-bearer": { "name": "Crystal Bearer" },
-	"crystal-seeker": { "name": "Crystal Seeker" },
-	"dangerous-combatant": { "name": "Dangerous Combatant" },
-	"dark-knight": { "name": "Dark Knight" },
-	"darkbringer": { "name": "Darkbringer" },
-	"deadly-combatant": { "name": "Deadly Combatant" },
-	"death-bringer": { "name": "Death Bringer" },
-	"deathscarab-slayer": { "name": "Deathscarab Slayer" },
-	"defender-of-virtues": { "name": "Defender of Virtues" },
-	"demi-god": { "name": "Demi God" },
-	"diamond-dragon-slayer": { "name": "Diamond Dragon Slayer" },
-	"dragon-bane": { "name": "Dragon Bane" },
-	"dragon-of-pyromania": { "name": "Dragon of Pyromania" },
-	"dragon-slayer": { "name": "Dragon Slayer" },
-	"dragonflyer-slayer": { "name": "Dragonflyer Slayer" },
-	"dragonkin-slayer": { "name": "Dragonkin Slayer" },
-	"dragoon-legend": { "name": "dragoon legend" },
-	"dread-pirate": { "name": "Dread Pirate" },
-	"drow-slayer": { "name": "Drow Slayer" },
-	"drow-toymaster": { "name": "Drow Toymaster" },
-	"dungeon-finder": { "name": "Dungeon Finder" },
-	"dungeon-maker": { "name": "Dungeon Maker" },
-	"dungeon-plotter": { "name": "Dungeon Plotter" },
-	"dungeon-seeker": { "name": "Dungeon Seeker" },
-	"dungeon-shaper": { "name": "Dungeon Shaper" },
-	"dungeon-tracker": { "name": "Dungeon Tracker" },
-	"economist": { "name": "Economist" },
-	"eel-slayer": { "name": "Eel Slayer" },
-	"elder-liche-slayer": { "name": "Elder Liche Slayer" },
-	"eldest-druid": { "name": "Eldest Druid" },
-	"elemental-slayer": { "name": "Elemental Slayer" },
-	"elf-slayer": { "name": "Elf Slayer" },
-	"elite-guard": { "name": "Elite Guard" },
-	"emperor-demon": { "name": "Emperor Demon" },
-	"employee-of-the-month": { "name": "Employee of the Month" },
-	"enforcer-of-the-legion": { "name": "Enforcer of the Legion" },
-	"essence-slayer": { "name": "Essence Slayer" },
-	"estate-appraiser": { "name": "Estate Appraiser" },
-	"estate-explorer": { "name": "Estate Explorer" },
-	"estate-troublemaker": { "name": "Estate Troublemaker" },
-	"estate-worker": { "name": "Estate Worker" },
-	"exile-champion": { "name": "Exile Champion" },
-	"fallen-angel": { "name": "Fallen Angel" },
-	"fervent-worker": { "name": "Fervent Worker" },
-	"festive-crafter": { "name": "Festive Crafter" },
-	"fierce-combatant": { "name": "Fierce Combatant" },
-	"fish-slayer": { "name": "Fish Slayer" },
-	"fleet-admiral": { "name": "Fleet Admiral" },
-	"follower": { "name": "Follower" },
-	"follower-of-truth": { "name": "Follower of Truth" },
-	"fortune-hunter": { "name": "Fortune-Hunter" },
-	"foul-overlord": { "name": "Foul Overlord" },
-	"furniture-slayer": { "name": "Furniture Slayer" },
-	"gamemaster": { "name": "Gamemaster" },
-	"ghoulish-guardian": { "name": "Ghoulish Guardian" },
-	"giant-spider-slayer": { "name": "Giant Spider Slayer" },
-	"giant-turtle-slayer": { "name": "Giant Turtle Slayer" },
-	"glorious-guardian": { "name": "Glorious Guardian" },
-	"goblin-air-commander": { "name": "Goblin Air Commander" },
-	"goblin-slayer": { "name": "Goblin Slayer" },
-	"golem-slayer": { "name": "Golem Slayer" },
-	"grand-patchcrafter": { "name": "Grand Patchcrafter" },
-	"grand-saboteur": { "name": "Grand Saboteur" },
-	"graveyard-lurker": { "name": "Graveyard Lurker" },
-	"hard-worker": { "name": "Hard Worker" },
-	"heartsgrove-citizen": { "name": "Heartsgrove Citizen" },
-	"hellsgate-veteran": { "name": "Hellsgate Veteran" },
-	"hero": { "name": "Hero" },
-	"hot-iron": { "name": "Hot Iron" },
-	"human-slayer": { "name": "Human Slayer" },
-	"humanoid-finder": { "name": "Humanoid Finder" },
-	"humanoid-seeker": { "name": "Humanoid Seeker" },
-	"humanoid-tracker": { "name": "Humanoid Tracker" },
-	"hydra-slayer": { "name": "Hydra Slayer" },
-	"infamous-combatant": { "name": "Infamous Combatant" },
-	"inquisitor": { "name": "Inquisitor" },
-	"irellian-defender": { "name": "Irellian Defender" },
-	"job-hunter": { "name": "Job Hunter" },
-	"keeper-of-the-peace": { "name": "Keeper of the Peace" },
-	"killerwasp-slayer": { "name": "Killerwasp Slayer" },
-	"king-of-heroism": { "name": "King of Heroism" },
-	"ladybird-slayer": { "name": "Ladybird Slayer" },
-	"lawmaker": { "name": "Lawmaker" },
-	"legion-commander": { "name": "Legion Commander" },
-	"legion-soldier": { "name": "Legion Soldier" },
-	"lesser-archaeologist": { "name": "Lesser Archaeologist" },
-	"lethal-combatant": { "name": "Lethal Combatant" },
-	"lightbringer": { "name": "Lightbringer" },
-	"literary-hero": { "name": "Literary Hero" },
-	"lord-of-mayhem": { "name": "Lord of Mayhem" },
-	"lord-of-ravens-brook": { "name": "Lord of Ravens Brook" },
-	"lurcher-slayer": { "name": "Lurcher Slayer" },
-	"mantrap-slayer": { "name": "Mantrap Slayer" },
-	"master-alchemist": { "name": "Master Alchemist" },
-	"master-analyzer": { "name": "Master Analyzer" },
-	"master-animator": { "name": "Master Animator" },
-	"master-archaeologist": { "name": "Master Archaeologist" },
-	"master-beggar": { "name": "Master Beggar" },
-	"master-blacksmith": { "name": "Master Blacksmith" },
-	"master-breeder": { "name": "Master Breeder" },
-	"master-builder": { "name": "Master Builder" },
-	"master-carpenter": { "name": "Master Carpenter" },
-	"master-castaway": { "name": "Master Castaway" },
-	"master-cook": { "name": "Master Cook" },
-	"master-crafter": { "name": "Master Crafter" },
-	"master-demonologist": { "name": "Master Demonologist" },
-	"master-explorer": { "name": "Master Explorer" },
-	"master-farmer": { "name": "Master Farmer" },
-	"master-florist": { "name": "Master Florist" },
-	"master-forager": { "name": "Master Forager" },
-	"master-furnisher": { "name": "Master Furnisher" },
-	"master-geologist": { "name": "Master Geologist" },
-	"master-hexer": { "name": "Master Hexer" },
-	"master-leatherworker": { "name": "Master Leatherworker" },
-	"master-locksmith": { "name": "Master Locksmith" },
-	"master-marinecarer": { "name": "Master Marinecarer" },
-	"master-miner": { "name": "Master Miner" },
-	"master-necromancer": { "name": "Master Necromancer" },
-	"master-of-the-depths": { "name": "Master of the Depths" },
-	"master-patchcrafter": { "name": "Master Patchcrafter" },
-	"master-revealer": { "name": "Master Revealer" },
-	"master-saboteur": { "name": "Master Saboteur" },
-	"master-scribe": { "name": "Master Scribe" },
-	"master-seaman": { "name": "Master Seaman" },
-	"master-seeker": { "name": "Master Seeker" },
-	"master-skinner": { "name": "Master Skinner" },
-	"master-slinker": { "name": "Master Slinker" },
-	"master-stonemason": { "name": "Master Stonemason" },
-	"master-tailor": { "name": "Master Tailor" },
-	"master-tamer": { "name": "Master Tamer" },
-	"master-tinker": { "name": "Master Tinker" },
-	"master-trapper": { "name": "Master Trapper" },
-	"master-treefeller": { "name": "Master Treefeller" },
-	"mcgruesome": { "name": "McGruesome" },
-	"monarch-of-the-glen": { "name": "Monarch of the Glen" },
-	"monkey-seeker": { "name": "Monkey Seeker" },
-	"mountebank": { "name": "Mountebank" },
-	"muffin-enslaver": { "name": "Muffin Enslaver" },
-	"muncher-slayer": { "name": "Muncher Slayer" },
-	"murderous-combatant": { "name": "Murderous Combatant" },
-	"neutral-champion": { "name": "Neutral Champion" },
-	"nioxis-slayer": { "name": "Nioxis Slayer" },
-	"novice-alchemist": { "name": "Novice Alchemist" },
-	"novice-analyzer": { "name": "Novice Analyzer" },
-	"novice-animator": { "name": "Novice Animator" },
-	"novice-beggar": { "name": "Novice Beggar" },
-	"novice-bejeweler": { "name": "Novice Bejeweler" },
-	"novice-blacksmith": { "name": "Novice Blacksmith" },
-	"novice-breeder": { "name": "Novice Breeder" },
-	"novice-builder": { "name": "Novice Builder" },
-	"novice-carpenter": { "name": "Novice Carpenter" },
-	"novice-castaway": { "name": "Novice Castaway" },
-	"novice-cook": { "name": "Novice Cook" },
-	"novice-crafter": { "name": "Novice Crafter" },
-	"novice-demonologist": { "name": "Novice Demonologist" },
-	"novice-explorer": { "name": "Novice Explorer" },
-	"novice-farmer": { "name": "Novice Farmer" },
-	"novice-fishcatcher": { "name": "Novice Fishcatcher" },
-	"novice-florist": { "name": "Novice Florist" },
-	"novice-follower": { "name": "Novice Follower" },
-	"novice-forager": { "name": "Novice Forager" },
-	"novice-furnisher": { "name": "Novice Furnisher" },
-	"novice-geologist": { "name": "Novice Geologist" },
-	"novice-hexer": { "name": "Novice Hexer" },
-	"novice-leatherworker": { "name": "Novice Leatherworker" },
-	"novice-locksmith": { "name": "Novice Locksmith" },
-	"novice-marinecarer": { "name": "Novice Marinecarer" },
-	"novice-miner": { "name": "Novice Miner" },
-	"novice-necromancer": { "name": "Novice Necromancer" },
-	"novice-patchcrafter": { "name": "Novice Patchcrafter" },
-	"novice-revealer": { "name": "Novice Revealer" },
-	"novice-saboteur": { "name": "Novice Saboteur" },
-	"novice-scribe": { "name": "Novice Scribe" },
-	"novice-seaman": { "name": "Novice Seaman" },
-	"novice-seeker": { "name": "Novice Seeker" },
-	"novice-skinner": { "name": "Novice Skinner" },
-	"novice-slinker": { "name": "Novice Slinker" },
-	"novice-stonemason": { "name": "Novice Stonemason" },
-	"novice-tailor": { "name": "Novice Tailor" },
-	"novice-tamer": { "name": "Novice Tamer" },
-	"novice-tinker": { "name": "Novice Tinker" },
-	"novice-trapper": { "name": "Novice Trapper" },
-	"novice-treefeller": { "name": "Novice Treefeller" },
-	"ocean-guardian": { "name": "Ocean Guardian" },
-	"oracle-of-darkness": { "name": "Oracle of Darkness" },
-	"orc-slayer": { "name": "Orc Slayer" },
-	"penguin-guardian": { "name": "Penguin Guardian" },
-	"pixie-slayer": { "name": "Pixie Slayer" },
-	"player-legend": { "name": "Player Legend" },
-	"prison-mastermind": { "name": "Prison Mastermind" },
-	"prize-fishcatcher": { "name": "Prize Fishcatcher" },
-	"pterosaurus-slayer": { "name": "Pterosaurus Slayer" },
-	"puppetmaster-of-the-undead": { "name": "Puppetmaster of the Undead" },
-	"rabbit-slayer": { "name": "Rabbit Slayer" },
-	"raptor-slayer": { "name": "Raptor Slayer" },
-	"realm-defender": { "name": "Realm Defender" },
-	"reaper-champion": { "name": "Reaper Champion" },
-	"relic-hunter": { "name": "Relic Hunter" },
-	"ring-appraiser": { "name": "Ring Appraiser" },
-	"ring-explorer": { "name": "Ring Explorer" },
-	"ring-seeker": { "name": "Ring Seeker" },
-	"rival-slayer": { "name": "Rival Slayer" },
-	"root-puller": { "name": "Root Puller" },
-	"sabretooth-tiger-slayer": { "name": "Sabretooth Tiger Slayer" },
-	"salamander-slayer": { "name": "Salamander Slayer" },
-	"savage-combatant": { "name": "Savage Combatant" },
-	"scammer": { "name": "Scammer" },
-	"scary-crafter": { "name": "Scary Crafter" },
-	"scurvy-dog": { "name": "Scurvy Dog" },
-	"sea-king-welk": { "name": "Sea King Welk" },
-	"servant": { "name": "Servant" },
-	"shambling-mounds-slayer": { "name": "Shambling Mounds Slayer" },
-	"shield-of-myzan": { "name": "Shield of Myzan" },
-	"shiny-bejeweler": { "name": "Shiny Bejeweler" },
-	"sidekick-slayer": { "name": "Sidekick Slayer" },
-	"siren": { "name": "Siren" },
-	"size-12-sneaker": { "name": "Size 12 Sneaker" },
-	"skull-admiral": { "name": "Skull Admiral" },
-	"slacker": { "name": "Slacker" },
-	"slammerkin-slayer": { "name": "Slammerkin Slayer" },
-	"sloop-sinker": { "name": "Sloop Sinker" },
-	"slow-poke": { "name": "Slow Poke" },
-	"slug-slayer": { "name": "Slug Slayer" },
-	"snake-slayer": { "name": "Snake Slayer" },
-	"snarkle-saviour": { "name": "Snarkle Saviour" },
-	"snow-monster-slayer": { "name": "Snow monster Slayer" },
-	"society-champion": { "name": "Society Champion" },
-	"society-guardian": { "name": "Society Guardian" },
-	"sparkly-bejeweler": { "name": "Sparkly Bejeweler" },
-	"sparky": { "name": "Sparky" },
-	"spectral-dragon-guardian": { "name": "Spectral Dragon Guardian" },
-	"spellbinder": { "name": "Spellbinder" },
-	"spirit-of-undead-slayer": { "name": "Spirit of Undead Slayer" },
-	"spiritsaviour": { "name": "Spiritsaviour" },
-	"steelskin": { "name": "Steelskin" },
-	"stegosaurus-slayer": { "name": "Stegosaurus Slayer" },
-	"stocking-slayer": { "name": "Stocking slayer" },
-	"storm-master": { "name": "Storm Master" },
-	"subterran-defender": { "name": "Subterran Defender" },
-	"sunstone-dragon-slayer": { "name": "Sunstone Dragon Slayer" },
-	"supreme-overlord": { "name": "Supreme Overlord" },
-	"sweet-tooth": { "name": "Sweet Tooth" },
-	"the-big-cheese": { "name": "The Big Cheese" },
-	"the-bunny-king": { "name": "The Bunny King" },
-	"the-catcher": { "name": "The Catcher" },
-	"the-dark-one": { "name": "The Dark One" },
-	"the-dog-of-war": { "name": "The Dog of War" },
-	"the-lone-dreamer": { "name": "The Lone Dreamer" },
-	"tiny-hero": { "name": "Tiny Hero" },
-	"topaz-dragon-slayer": { "name": "Topaz Dragon Slayer" },
-	"toymaster": { "name": "Toymaster" },
-	"treasure-ship-sinker": { "name": "Treasure Ship Sinker" },
-	"triceratops-slayer": { "name": "Triceratops Slayer" },
-	"truth-seeker": { "name": "Truth Seeker" },
-	"undead-finder": { "name": "Undead Finder" },
-	"undead-seeker": { "name": "Undead Seeker" },
-	"undead-slayer": { "name": "Undead Slayer" },
-	"undead-tracker": { "name": "Undead Tracker" },
-	"unicorn-slayer": { "name": "Unicorn Slayer" },
-	"urn-collector": { "name": "Urn Collector" },
-	"vampire-lord-slayer": { "name": "Vampire Lord Slayer" },
-	"war-ender": { "name": "War Ender" },
-	"warender": { "name": "Warender" },
-	"water-wisp-slayer": { "name": "Water Wisp Slayer" },
-	"wayward-drifter": { "name": "Wayward Drifter" },
-	"white-tiger-chaser": { "name": "White Tiger Chaser" },
-	"wind-blower": { "name": "Wind Blower" },
-	"witchs-assistant": { "name": "Witch`s Assistant" },
-	"wizards-assistant": { "name": "Wizard`s Assistant" },
-	"wolf-slayer": { "name": "Wolf Slayer" }
+	"abbot-trainer": {
+		"name": "Abbot Trainer"
+	},
+	"adept-alchemist": {
+		"name": "Adept Alchemist"
+	},
+	"adept-analyzer": {
+		"name": "Adept Analyzer"
+	},
+	"adept-animator": {
+		"name": "Adept Animator"
+	},
+	"adept-archaeologist": {
+		"name": "Adept Archaeologist"
+	},
+	"adept-beggar": {
+		"name": "Adept Beggar"
+	},
+	"adept-blacksmith": {
+		"name": "Adept Blacksmith"
+	},
+	"adept-breeder": {
+		"name": "Adept Breeder"
+	},
+	"adept-builder": {
+		"name": "Adept Builder"
+	},
+	"adept-carpenter": {
+		"name": "Adept Carpenter"
+	},
+	"adept-castaway": {
+		"name": "Adept Castaway"
+	},
+	"adept-cook": {
+		"name": "Adept Cook"
+	},
+	"adept-crafter": {
+		"name": "Adept Crafter"
+	},
+	"adept-demonologist": {
+		"name": "Adept Demonologist"
+	},
+	"adept-explorer": {
+		"name": "Adept Explorer"
+	},
+	"adept-farmer": {
+		"name": "Adept Farmer"
+	},
+	"adept-fishcatcher": {
+		"name": "Adept Fishcatcher"
+	},
+	"adept-florist": {
+		"name": "Adept Florist"
+	},
+	"adept-forager": {
+		"name": "Adept Forager"
+	},
+	"adept-furnisher": {
+		"name": "Adept Furnisher"
+	},
+	"adept-geologist": {
+		"name": "Adept Geologist"
+	},
+	"adept-hexer": {
+		"name": "Adept Hexer"
+	},
+	"adept-leatherworker": {
+		"name": "Adept Leatherworker"
+	},
+	"adept-locksmith": {
+		"name": "Adept Locksmith"
+	},
+	"adept-marinecarer": {
+		"name": "Adept Marinecarer"
+	},
+	"adept-miner": {
+		"name": "Adept Miner"
+	},
+	"adept-necromancer": {
+		"name": "Adept Necromancer"
+	},
+	"adept-revealer": {
+		"name": "Adept Revealer"
+	},
+	"adept-scammer": {
+		"name": "Adept Scammer"
+	},
+	"adept-scribe": {
+		"name": "Adept Scribe"
+	},
+	"adept-seaman": {
+		"name": "Adept Seaman"
+	},
+	"adept-seeker": {
+		"name": "Adept Seeker"
+	},
+	"adept-skinner": {
+		"name": "Adept Skinner"
+	},
+	"adept-slinker": {
+		"name": "Adept Slinker"
+	},
+	"adept-stonemason": {
+		"name": "Adept Stonemason"
+	},
+	"adept-tailor": {
+		"name": "Adept Tailor"
+	},
+	"adept-tamer": {
+		"name": "Adept Tamer"
+	},
+	"adept-tinker": {
+		"name": "Adept Tinker"
+	},
+	"adept-trapper": {
+		"name": "Adept Trapper"
+	},
+	"adept-treefeller": {
+		"name": "Adept Treefeller"
+	},
+	"adept-wizard": {
+		"name": "Adept Wizard"
+	},
+	"adept-wizard-trainer": {
+		"name": "Adept Wizard Trainer"
+	},
+	"admiral-of-the-black": {
+		"name": "Admiral of the Black"
+	},
+	"admiral-of-the-gold": {
+		"name": "Admiral of the Gold"
+	},
+	"admiral-of-the-grey": {
+		"name": "Admiral of the Grey"
+	},
+	"admiral-of-the-red": {
+		"name": "Admiral of the Red"
+	},
+	"admiral-of-the-white": {
+		"name": "Admiral of the White"
+	},
+	"admiral-of-the-yellow": {
+		"name": "Admiral of the Yellow"
+	},
+	"advanced-wizard-trainer": {
+		"name": "Advanced Wizard Trainer"
+	},
+	"agent-of-the-legion": {
+		"name": "Agent of the Legion"
+	},
+	"alchemist": {
+		"name": "Alchemist"
+	},
+	"alchemy-trainer": {
+		"name": "Alchemy Trainer"
+	},
+	"allegiance-historian": {
+		"name": "Allegiance Historian"
+	},
+	"alligator-slayer": {
+		"name": "Alligator Slayer"
+	},
+	"ancient-enigma": {
+		"name": "Ancient Enigma"
+	},
+	"ancient-guardian-leader": {
+		"name": "Ancient Guardian Leader"
+	},
+	"angel-slayer": {
+		"name": "Angel Slayer"
+	},
+	"animation-trainer": {
+		"name": "Animation Trainer"
+	},
+	"ankylosaur-slayer": {
+		"name": "Ankylosaur Slayer"
+	},
+	"annis-slayer": {
+		"name": "Annis Slayer"
+	},
+	"anniversary-npc": {
+		"name": "Anniversary NPC"
+	},
+	"apothecary": {
+		"name": "Apothecary"
+	},
+	"arachnins-slayer": {
+		"name": "Arachnins Slayer"
+	},
+	"archaeologist-trainee": {
+		"name": "Archaeologist Trainee"
+	},
+	"architect": {
+		"name": "Architect"
+	},
+	"armored-sloth-slayer": {
+		"name": "Armored Sloth Slayer"
+	},
+	"arterian-blacksmith": {
+		"name": "Arterian Blacksmith"
+	},
+	"arterian-healer": {
+		"name": "Arterian Healer"
+	},
+	"arterian-potion-maker": {
+		"name": "Arterian Potion Maker"
+	},
+	"arterian-slayer": {
+		"name": "Arterian Slayer"
+	},
+	"artisan-master": {
+		"name": "Artisan Master"
+	},
+	"artisan-trainer": {
+		"name": "Artisan Trainer"
+	},
+	"assassin-for-hire": {
+		"name": "Assassin for Hire"
+	},
+	"astronomer": {
+		"name": "Astronomer"
+	},
+	"automotron-guide": {
+		"name": "Automotron Guide"
+	},
+	"avalerion-slayer": {
+		"name": "Avalerion Slayer"
+	},
+	"aviator": {
+		"name": "Aviator"
+	},
+	"axes-trainer": {
+		"name": "Axes Trainer"
+	},
+	"banshee-slayer": {
+		"name": "Banshee Slayer"
+	},
+	"barbegazi-slayer": {
+		"name": "Barbegazi Slayer"
+	},
+	"barsel-slayer": {
+		"name": "Barsel Slayer"
+	},
+	"barterer": {
+		"name": "Barterer"
+	},
+	"basic-pole-trainer": {
+		"name": "Basic Pole Trainer"
+	},
+	"basic-wizard-trainer": {
+		"name": "Basic Wizard Trainer"
+	},
+	"basilisk-slayer": {
+		"name": "Basilisk Slayer"
+	},
+	"bat-slayer": {
+		"name": "Bat Slayer"
+	},
+	"battle-falcon-slayer": {
+		"name": "Battle Falcon Slayer"
+	},
+	"battle-lizard-slayer": {
+		"name": "Battle Lizard Slayer"
+	},
+	"battle-lord-slayer": {
+		"name": "Battle Lord Slayer"
+	},
+	"battle-ogre-slayer": {
+		"name": "Battle Ogre Slayer"
+	},
+	"battle-tiger-slayer": {
+		"name": "Battle Tiger Slayer"
+	},
+	"baublemaster": {
+		"name": "Baublemaster"
+	},
+	"bear-slayer": {
+		"name": "Bear Slayer"
+	},
+	"beast-finder": {
+		"name": "Beast Finder"
+	},
+	"beast-seeker": {
+		"name": "Beast Seeker"
+	},
+	"beast-tracker": {
+		"name": "Beast Tracker"
+	},
+	"beastmaster-trainer": {
+		"name": "Beastmaster Trainer"
+	},
+	"behemoth-slayer": {
+		"name": "Behemoth Slayer"
+	},
+	"beholder-slayer": {
+		"name": "Beholder Slayer"
+	},
+	"bewitching-trainer": {
+		"name": "Bewitching Trainer"
+	},
+	"big-fairy": {
+		"name": "Big Fairy"
+	},
+	"big-fish-slayer": {
+		"name": "Big Fish Slayer"
+	},
+	"big-guild-crafter-npc": {
+		"name": "Big Guild Crafter NPC"
+	},
+	"bird-slayer": {
+		"name": "Bird Slayer"
+	},
+	"biting-nettle-slayer": {
+		"name": "Biting Nettle Slayer"
+	},
+	"black-dragon-slayer": {
+		"name": "Black Dragon Slayer"
+	},
+	"black-rat-catcher": {
+		"name": "Black Rat Catcher"
+	},
+	"black-rat-slayer": {
+		"name": "Black Rat Slayer"
+	},
+	"black-wing-leader": {
+		"name": "Black Wing Leader"
+	},
+	"black-wing-legend": {
+		"name": "Black Wing Legend"
+	},
+	"black-wurm-slayer": {
+		"name": "Black Wurm Slayer"
+	},
+	"blackskull-devout": {
+		"name": "Blackskull Devout"
+	},
+	"blackskull-slayer": {
+		"name": "Blackskull Slayer"
+	},
+	"blacksmith-trainer": {
+		"name": "Blacksmith Trainer"
+	},
+	"blacksmithing-trainer": {
+		"name": "Blacksmithing Trainer"
+	},
+	"blade-trainer": {
+		"name": "Blade Trainer"
+	},
+	"bleeding-fungus-slayer": {
+		"name": "Bleeding Fungus Slayer"
+	},
+	"blessing-trainer": {
+		"name": "Blessing Trainer"
+	},
+	"blood-demon-slayer": {
+		"name": "Blood Demon Slayer"
+	},
+	"blood-soaked-combatant": {
+		"name": "Blood-soaked Combatant"
+	},
+	"bloodhound-slayer": {
+		"name": "Bloodhound Slayer"
+	},
+	"bloodmaiden-slayer": {
+		"name": "Bloodmaiden Slayer"
+	},
+	"bloodmaster-slayer": {
+		"name": "Bloodmaster Slayer"
+	},
+	"bloodthirsty-combatant": {
+		"name": "Bloodthirsty Combatant"
+	},
+	"bloody-reaper-slayer": {
+		"name": "Bloody Reaper Slayer"
+	},
+	"bloody-trainer": {
+		"name": "Bloody Trainer"
+	},
+	"blunt-trainer": {
+		"name": "Blunt Trainer"
+	},
+	"blustering-barnacle": {
+		"name": "Blustering Barnacle"
+	},
+	"bogles-slayer": {
+		"name": "Bogles Slayer"
+	},
+	"bolt-trainer": {
+		"name": "Bolt Trainer"
+	},
+	"bone-collector": {
+		"name": "Bone Collector"
+	},
+	"bone-dragon-slayer": {
+		"name": "Bone Dragon Slayer"
+	},
+	"boneguard-slayer": {
+		"name": "Boneguard Slayer"
+	},
+	"boogie-man-slayer": {
+		"name": "Boogie Man Slayer"
+	},
+	"boss-killer": {
+		"name": "Boss Killer"
+	},
+	"bounty-hunter": {
+		"name": "Bounty Hunter"
+	},
+	"bows-trainer": {
+		"name": "Bows Trainer"
+	},
+	"brothers-of-sakure-leader": {
+		"name": "Brothers of Sakure Leader"
+	},
+	"buckle-bay-healer": {
+		"name": "Buckle Bay Healer"
+	},
+	"butterfly-collector": {
+		"name": "Butterfly Collector"
+	},
+	"camel-slayer": {
+		"name": "Camel Slayer"
+	},
+	"camp-blacksmith": {
+		"name": "Camp Blacksmith"
+	},
+	"camp-commander": {
+		"name": "Camp Commander"
+	},
+	"camp-healer": {
+		"name": "Camp Healer"
+	},
+	"campire-slayer": {
+		"name": "Campire Slayer"
+	},
+	"candy-cane-slayer": {
+		"name": "Candy Cane Slayer"
+	},
+	"captain-of-the-sea-hag": {
+		"name": "Captain of the Sea Hag"
+	},
+	"cardmaster": {
+		"name": "Cardmaster"
+	},
+	"carniverous-ivy-slayer": {
+		"name": "Carniverous Ivy Slayer"
+	},
+	"carp-seeker": {
+		"name": "Carp Seeker"
+	},
+	"carpentry-trainer": {
+		"name": "Carpentry Trainer"
+	},
+	"caster-trainer": {
+		"name": "Caster Trainer"
+	},
+	"cat-slayer": {
+		"name": "Cat Slayer"
+	},
+	"cave-dweller-slayer": {
+		"name": "Cave Dweller Slayer"
+	},
+	"celestial-supplier": {
+		"name": "Celestial Supplier"
+	},
+	"celestial-warrior": {
+		"name": "Celestial Warrior"
+	},
+	"centaur-slayer": {
+		"name": "Centaur Slayer"
+	},
+	"cerberus-slayer": {
+		"name": "Cerberus Slayer"
+	},
+	"champion-of-the-truth": {
+		"name": "Champion of the Truth"
+	},
+	"chariot-slayer": {
+		"name": "Chariot Slayer"
+	},
+	"charm-trainer": {
+		"name": "Charm Trainer"
+	},
+	"charms-and-hexes": {
+		"name": "Charms and Hexes"
+	},
+	"chicken-slayer": {
+		"name": "Chicken Slayer"
+	},
+	"chomper-slayer": {
+		"name": "Chomper Slayer"
+	},
+	"chosen-one": {
+		"name": "Chosen One"
+	},
+	"christmas-fairy-slayer": {
+		"name": "Christmas Fairy Slayer"
+	},
+	"christmas-stocking-slayer": {
+		"name": "Christmas Stocking Slayer"
+	},
+	"christmas-tree-slayer": {
+		"name": "Christmas Tree Slayer"
+	},
+	"cinder-beast-slayer": {
+		"name": "Cinder Beast Slayer"
+	},
+	"close-combat-trainer": {
+		"name": "Close Combat Trainer"
+	},
+	"cobra-seeker": {
+		"name": "Cobra Seeker"
+	},
+	"coldheart": {
+		"name": "Coldheart"
+	},
+	"collector-of-ingredients": {
+		"name": "Collector of Ingredients"
+	},
+	"combat-guide": {
+		"name": "Combat Guide"
+	},
+	"commander": {
+		"name": "Commander"
+	},
+	"commander-of-the-guard": {
+		"name": "Commander of the Guard"
+	},
+	"commander-of-the-sea": {
+		"name": "Commander of the Sea"
+	},
+	"commodore": {
+		"name": "Commodore"
+	},
+	"con-artist": {
+		"name": "Con Artist"
+	},
+	"construction-plan-trainer": {
+		"name": "Construction Plan Trainer"
+	},
+	"construction-trainer": {
+		"name": "Construction Trainer"
+	},
+	"controller": {
+		"name": "Controller"
+	},
+	"cook-trainer": {
+		"name": "Cook Trainer"
+	},
+	"cookie-air-marshall": {
+		"name": "Cookie Air Marshall"
+	},
+	"cookie-baker": {
+		"name": "Cookie Baker"
+	},
+	"cookie-buzzard-slayer": {
+		"name": "Cookie Buzzard Slayer"
+	},
+	"cookie-cat-slayer": {
+		"name": "Cookie Cat Slayer"
+	},
+	"cookie-monster-slayer": {
+		"name": "Cookie Monster Slayer"
+	},
+	"cookie-piece-collector": {
+		"name": "Cookie Piece Collector"
+	},
+	"cookiemaster": {
+		"name": "Cookiemaster"
+	},
+	"cool-customer": {
+		"name": "Cool Customer"
+	},
+	"costume-crafter": {
+		"name": "Costume Crafter"
+	},
+	"council-healer": {
+		"name": "Council Healer"
+	},
+	"council-initiate": {
+		"name": "Council Initiate"
+	},
+	"council-minister": {
+		"name": "Council Minister"
+	},
+	"council-of-truth-leader": {
+		"name": "Council of Truth Leader"
+	},
+	"court-banker": {
+		"name": "Court Banker"
+	},
+	"cow-slayer": {
+		"name": "Cow Slayer"
+	},
+	"crab-slayer": {
+		"name": "Crab Slayer"
+	},
+	"craft-marketeer": {
+		"name": "Craft Marketeer"
+	},
+	"crafted-golem-slayer": {
+		"name": "Crafted Golem Slayer"
+	},
+	"crafting-champion": {
+		"name": "Crafting Champion"
+	},
+	"creator-slayer": {
+		"name": "Creator Slayer"
+	},
+	"creeper-slayer": {
+		"name": "Creeper Slayer"
+	},
+	"creeping-ivy-slayer": {
+		"name": "Creeping Ivy Slayer"
+	},
+	"creeping-weed-slayer": {
+		"name": "Creeping Weed Slayer"
+	},
+	"criminal-finder": {
+		"name": "Criminal Finder"
+	},
+	"criminal-seeker": {
+		"name": "Criminal Seeker"
+	},
+	"criminal-tracker": {
+		"name": "Criminal Tracker"
+	},
+	"crocodile-slayer": {
+		"name": "Crocodile Slayer"
+	},
+	"crossbows-trainer": {
+		"name": "Crossbows Trainer"
+	},
+	"crypt-lord": {
+		"name": "Crypt Lord"
+	},
+	"crystal-converter": {
+		"name": "Crystal Converter"
+	},
+	"crystal-maker": {
+		"name": "Crystal Maker"
+	},
+	"crystal-seeker": {
+		"name": "Crystal Seeker"
+	},
+	"cyclops-slayer": {
+		"name": "Cyclops Slayer"
+	},
+	"daggers-trainer": {
+		"name": "Daggers Trainer"
+	},
+	"dangerous-combatant": {
+		"name": "Dangerous Combatant"
+	},
+	"darfurk-slayer": {
+		"name": "Darfurk Slayer"
+	},
+	"dark-clan-lifemender": {
+		"name": "Dark Clan - Lifemender"
+	},
+	"dark-depths-controller": {
+		"name": "Dark Depths Controller"
+	},
+	"dark-druid-teacher": {
+		"name": "Dark Druid Teacher"
+	},
+	"dark-dwarf-slayer": {
+		"name": "Dark Dwarf Slayer"
+	},
+	"dark-dweller-slayer": {
+		"name": "Dark Dweller Slayer"
+	},
+	"dark-hollow-clan": {
+		"name": "Dark Hollow Clan"
+	},
+	"dark-magic-trainer": {
+		"name": "Dark Magic Trainer"
+	},
+	"dark-reaper-slayer": {
+		"name": "Dark Reaper Slayer"
+	},
+	"darkbringer": {
+		"name": "Darkbringer"
+	},
+	"dazed-explorer": {
+		"name": "Dazed Explorer"
+	},
+	"deadly-combatant": {
+		"name": "Deadly Combatant"
+	},
+	"deamon-slayer": {
+		"name": "Deamon Slayer"
+	},
+	"death-lurer-slayer": {
+		"name": "Death Lurer Slayer"
+	},
+	"deathcrawler-slayer": {
+		"name": "Deathcrawler Slayer"
+	},
+	"deathscarab-slayer": {
+		"name": "Deathscarab Slayer"
+	},
+	"dedog-slayer": {
+		"name": "Dedog Slayer"
+	},
+	"deer-slayer": {
+		"name": "Deer Slayer"
+	},
+	"defender-of-virtues": {
+		"name": "Defender of Virtues"
+	},
+	"defense-force-leader": {
+		"name": "Defense Force Leader"
+	},
+	"demi-god": {
+		"name": "Demi God"
+	},
+	"demonic-summoner": {
+		"name": "Demonic Summoner"
+	},
+	"demorite-slayer": {
+		"name": "Demorite Slayer"
+	},
+	"destroyer-slayer": {
+		"name": "Destroyer Slayer"
+	},
+	"diamond-dragon-slayer": {
+		"name": "Diamond Dragon Slayer"
+	},
+	"diamond-flight-leader": {
+		"name": "Diamond Flight Leader"
+	},
+	"diamond-flight-legend": {
+		"name": "Diamond Flight Legend"
+	},
+	"diamond-wurm-slayer": {
+		"name": "Diamond Wurm Slayer"
+	},
+	"dimension-hopper": {
+		"name": "Dimension Hopper"
+	},
+	"dinnshenchas-slayer": {
+		"name": "Dinnshenchas Slayer"
+	},
+	"doctor-of-the-abnormal": {
+		"name": "Doctor of the Abnormal"
+	},
+	"dog-slayer": {
+		"name": "Dog Slayer"
+	},
+	"dolphin-slayer": {
+		"name": "Dolphin Slayer"
+	},
+	"door-guardian": {
+		"name": "Door Guardian"
+	},
+	"doppleganger-slayer": {
+		"name": "Doppleganger Slayer"
+	},
+	"dragon-bane": {
+		"name": "Dragon Bane"
+	},
+	"dragon-boned-armorer": {
+		"name": "Dragon boned Armorer"
+	},
+	"dragon-emissary": {
+		"name": "Dragon Emissary"
+	},
+	"dragon-slayer": {
+		"name": "Dragon Slayer"
+	},
+	"dragonclan-slayer": {
+		"name": "Dragonclan Slayer"
+	},
+	"dragonflyer-slayer": {
+		"name": "Dragonflyer Slayer"
+	},
+	"dragonhide-armorer": {
+		"name": "Dragonhide Armorer"
+	},
+	"dragonkin-healer": {
+		"name": "Dragonkin Healer"
+	},
+	"dragonkin-quartermaster": {
+		"name": "Dragonkin Quartermaster"
+	},
+	"dragonkin-ruler": {
+		"name": "Dragonkin Ruler"
+	},
+	"dragonkin-slayer": {
+		"name": "Dragonkin Slayer"
+	},
+	"drake-slayer": {
+		"name": "Drake Slayer"
+	},
+	"drakegard-loremaster": {
+		"name": "Drakegard Loremaster"
+	},
+	"dread-liche-slayer": {
+		"name": "Dread Liche Slayer"
+	},
+	"dread-pirate": {
+		"name": "Dread Pirate"
+	},
+	"dreadite-destroyer": {
+		"name": "Dreadite Destroyer"
+	},
+	"drow-high-priestess": {
+		"name": "Drow High-Priestess"
+	},
+	"drow-slayer": {
+		"name": "Drow Slayer"
+	},
+	"drowned-wretch-slayer": {
+		"name": "Drowned Wretch Slayer"
+	},
+	"druid-leader": {
+		"name": "Druid Leader"
+	},
+	"druid-quartermaster": {
+		"name": "Druid Quartermaster"
+	},
+	"druid-spirit": {
+		"name": "Druid Spirit"
+	},
+	"druid-trainer": {
+		"name": "Druid Trainer"
+	},
+	"dryads-slayer": {
+		"name": "Dryads Slayer"
+	},
+	"duck-slayer": {
+		"name": "Duck Slayer"
+	},
+	"duergar-slayer": {
+		"name": "Duergar Slayer"
+	},
+	"dummy-slayer": {
+		"name": "Dummy Slayer"
+	},
+	"dungeon-builder": {
+		"name": "Dungeon Builder"
+	},
+	"dungeon-designer": {
+		"name": "Dungeon Designer"
+	},
+	"dungeon-finder": {
+		"name": "Dungeon Finder"
+	},
+	"dungeon-maker": {
+		"name": "Dungeon Maker"
+	},
+	"dungeon-plotter": {
+		"name": "Dungeon Plotter"
+	},
+	"dungeon-seeker": {
+		"name": "Dungeon Seeker"
+	},
+	"dungeon-shaper": {
+		"name": "Dungeon Shaper"
+	},
+	"dungeon-tracker": {
+		"name": "Dungeon Tracker"
+	},
+	"dwarf-slayer": {
+		"name": "Dwarf Slayer"
+	},
+	"eel-slayer": {
+		"name": "Eel Slayer"
+	},
+	"eelar-slayer": {
+		"name": "Eelar Slayer"
+	},
+	"elder-dragon-slayer": {
+		"name": "Elder Dragon Slayer"
+	},
+	"elder-elemental-slayer": {
+		"name": "Elder Elemental Slayer"
+	},
+	"elder-liche-slayer": {
+		"name": "Elder Liche Slayer"
+	},
+	"elemental-armorsmith": {
+		"name": "Elemental Armorsmith"
+	},
+	"elemental-magic-trainer": {
+		"name": "Elemental Magic Trainer"
+	},
+	"elemental-slayer": {
+		"name": "Elemental Slayer"
+	},
+	"elementalist-trainer": {
+		"name": "Elementalist Trainer"
+	},
+	"elf-slayer": {
+		"name": "Elf Slayer"
+	},
+	"elite-guard": {
+		"name": "Elite Guard"
+	},
+	"ember-slayer": {
+		"name": "Ember Slayer"
+	},
+	"emerald-dragon-slayer": {
+		"name": "Emerald Dragon Slayer"
+	},
+	"emerald-flight-leader": {
+		"name": "Emerald Flight Leader"
+	},
+	"emerald-flight-legend": {
+		"name": "Emerald Flight Legend"
+	},
+	"emerald-wurm-slayer": {
+		"name": "Emerald Wurm Slayer"
+	},
+	"emissary": {
+		"name": "Emissary"
+	},
+	"employee-of-the-month": {
+		"name": "Employee of the Month"
+	},
+	"enchanted-book-slayer": {
+		"name": "Enchanted Book Slayer"
+	},
+	"enchanted-cookie-dough-slayer": {
+		"name": "Enchanted Cookie Dough Slayer"
+	},
+	"enchanted-furniture-leg-slayer": {
+		"name": "Enchanted Furniture Leg Slayer"
+	},
+	"enchanted-muffin-slayer": {
+		"name": "Enchanted Muffin Slayer"
+	},
+	"enchanted-trainer": {
+		"name": "Enchanted Trainer"
+	},
+	"enforcer-of-the-legion": {
+		"name": "Enforcer of the Legion"
+	},
+	"enthralled-seeker": {
+		"name": "Enthralled Seeker"
+	},
+	"essence-slayer": {
+		"name": "Essence Slayer"
+	},
+	"estate-appraiser": {
+		"name": "Estate Appraiser"
+	},
+	"estate-explorer": {
+		"name": "Estate Explorer"
+	},
+	"estate-healer": {
+		"name": "Estate Healer"
+	},
+	"estate-hunter": {
+		"name": "Estate Hunter"
+	},
+	"estate-layabout": {
+		"name": "Estate Layabout"
+	},
+	"estate-mage": {
+		"name": "Estate Mage"
+	},
+	"estate-ruler": {
+		"name": "Estate Ruler"
+	},
+	"estate-supplier": {
+		"name": "Estate Supplier"
+	},
+	"estate-troublemaker": {
+		"name": "Estate Troublemaker"
+	},
+	"estate-worker": {
+		"name": "Estate Worker"
+	},
+	"eversight-alchemist": {
+		"name": "Eversight Alchemist"
+	},
+	"eversight-healer": {
+		"name": "Eversight Healer"
+	},
+	"evolution-trainer": {
+		"name": "Evolution Trainer"
+	},
+	"exile-champion": {
+		"name": "Exile Champion"
+	},
+	"exile-commander": {
+		"name": "Exile Commander"
+	},
+	"exile-craft-master": {
+		"name": "Exile Craft Master"
+	},
+	"exile-dungeon-keeper": {
+		"name": "Exile Dungeon Keeper"
+	},
+	"exile-stranger": {
+		"name": "Exile Stranger"
+	},
+	"exile-supplier": {
+		"name": "Exile Supplier"
+	},
+	"exiled-king-of-myzan": {
+		"name": "Exiled King of Myzan"
+	},
+	"exiled-queen-of-myzan": {
+		"name": "Exiled Queen of Myzan"
+	},
+	"exotic-trainer": {
+		"name": "Exotic Trainer"
+	},
+	"expedition-hunter": {
+		"name": "Expedition Hunter"
+	},
+	"expedition-leader": {
+		"name": "Expedition Leader"
+	},
+	"expedition-witch": {
+		"name": "Expedition Witch"
+	},
+	"explorer": {
+		"name": "Explorer"
+	},
+	"fabricator-slayer": {
+		"name": "Fabricator Slayer"
+	},
+	"factory-cleaner": {
+		"name": "Factory Cleaner"
+	},
+	"factory-foreman": {
+		"name": "Factory Foreman"
+	},
+	"factory-forewoman": {
+		"name": "Factory Forewoman"
+	},
+	"factory-fx01-foreman": {
+		"name": "Factory FX01 Foreman"
+	},
+	"famed-explorer": {
+		"name": "Famed Explorer"
+	},
+	"farm-hand": {
+		"name": "Farm Hand"
+	},
+	"farm-owner": {
+		"name": "Farm Owner"
+	},
+	"farming-trainer": {
+		"name": "Farming Trainer"
+	},
+	"fays-slayer": {
+		"name": "Fays Slayer"
+	},
+	"feralkin-slayer": {
+		"name": "Feralkin Slayer"
+	},
+	"fervent-worker": {
+		"name": "Fervent Worker"
+	},
+	"festive-crafter": {
+		"name": "Festive Crafter"
+	},
+	"fiend-slayer": {
+		"name": "Fiend Slayer"
+	},
+	"fierce-combatant": {
+		"name": "Fierce Combatant"
+	},
+	"fire-lizard-slayer": {
+		"name": "Fire Lizard Slayer"
+	},
+	"fire-wizard": {
+		"name": "Fire Wizard"
+	},
+	"fish-slayer": {
+		"name": "Fish Slayer"
+	},
+	"fisherman": {
+		"name": "Fisherman"
+	},
+	"fisherwoman": {
+		"name": "Fisherwoman"
+	},
+	"fists-trainer": {
+		"name": "Fists Trainer"
+	},
+	"flatfoot-slayer": {
+		"name": "Flatfoot Slayer"
+	},
+	"flea-slayer": {
+		"name": "Flea Slayer"
+	},
+	"fleet-admiral": {
+		"name": "Fleet Admiral"
+	},
+	"florist": {
+		"name": "Florist"
+	},
+	"floristry-trainer": {
+		"name": "Floristry Trainer"
+	},
+	"follower": {
+		"name": "Follower"
+	},
+	"follower-of-path": {
+		"name": "Follower of Path"
+	},
+	"follower-of-truth": {
+		"name": "Follower of Truth"
+	},
+	"forest-dweller": {
+		"name": "Forest Dweller"
+	},
+	"forest-dweller-trainer": {
+		"name": "Forest Dweller Trainer"
+	},
+	"forest-guardian": {
+		"name": "Forest Guardian"
+	},
+	"forest-trophy-collector": {
+		"name": "Forest Trophy Collector"
+	},
+	"forgetter-of-umm": {
+		"name": "Forgetter of ... umm"
+	},
+	"fortress-forewisp": {
+		"name": "Fortress Forewisp"
+	},
+	"fox-slayer": {
+		"name": "Fox Slayer"
+	},
+	"fragment-slayer": {
+		"name": "Fragment Slayer"
+	},
+	"freed-muse": {
+		"name": "Freed Muse"
+	},
+	"frog-slayer": {
+		"name": "Frog Slayer"
+	},
+	"furnisher": {
+		"name": "Furnisher"
+	},
+	"furnishing-trainer": {
+		"name": "Furnishing Trainer"
+	},
+	"furniture-slayer": {
+		"name": "Furniture Slayer"
+	},
+	"fury-slayer": {
+		"name": "Fury Slayer"
+	},
+	"gamemaster": {
+		"name": "Gamemaster"
+	},
+	"gamemaster-slayer": {
+		"name": "Gamemaster Slayer"
+	},
+	"gardener": {
+		"name": "Gardener"
+	},
+	"gargoyle-slayer": {
+		"name": "Gargoyle Slayer"
+	},
+	"gate-keeper": {
+		"name": "Gate Keeper"
+	},
+	"gelfling-slayer": {
+		"name": "Gelfling Slayer"
+	},
+	"general-marketeer": {
+		"name": "General Marketeer"
+	},
+	"genie-slayer": {
+		"name": "Genie Slayer"
+	},
+	"ghast-slayer": {
+		"name": "Ghast Slayer"
+	},
+	"ghost-slayer": {
+		"name": "Ghost Slayer"
+	},
+	"ghoul-slayer": {
+		"name": "Ghoul Slayer"
+	},
+	"ghoulish-guardian": {
+		"name": "Ghoulish Guardian"
+	},
+	"giant-beetle-slayer": {
+		"name": "Giant Beetle Slayer"
+	},
+	"giant-crab-slayer": {
+		"name": "Giant Crab Slayer"
+	},
+	"giant-eagle-slayer": {
+		"name": "Giant Eagle Slayer"
+	},
+	"giant-frog-slayer": {
+		"name": "Giant Frog Slayer"
+	},
+	"giant-octopus-slayer": {
+		"name": "Giant Octopus Slayer"
+	},
+	"giant-rabbit-slayer": {
+		"name": "Giant Rabbit Slayer"
+	},
+	"giant-scorpion-slayer": {
+		"name": "Giant Scorpion Slayer"
+	},
+	"giant-slayer": {
+		"name": "Giant Slayer"
+	},
+	"giant-spider-slayer": {
+		"name": "Giant Spider Slayer"
+	},
+	"giant-turtle-slayer": {
+		"name": "Giant Turtle Slayer"
+	},
+	"gibber-slayer": {
+		"name": "Gibber Slayer"
+	},
+	"gladiator": {
+		"name": "Gladiator"
+	},
+	"glimmer-slayer": {
+		"name": "Glimmer Slayer"
+	},
+	"glorious-guardian": {
+		"name": "Glorious Guardian"
+	},
+	"gnome-commander": {
+		"name": "Gnome Commander"
+	},
+	"gnome-slayer": {
+		"name": "Gnome Slayer"
+	},
+	"goat-slayer": {
+		"name": "Goat Slayer"
+	},
+	"goblin-air-commander": {
+		"name": "Goblin Air Commander"
+	},
+	"goblin-cook": {
+		"name": "Goblin Cook"
+	},
+	"goblin-slayer": {
+		"name": "Goblin Slayer"
+	},
+	"goblin-tinkerer": {
+		"name": "Goblin Tinkerer"
+	},
+	"goddess-of-the-sea": {
+		"name": "Goddess of the Sea"
+	},
+	"golden-monkey-slayer": {
+		"name": "Golden Monkey Slayer"
+	},
+	"golem-slayer": {
+		"name": "Golem Slayer"
+	},
+	"good-book-slayer": {
+		"name": "Good Book Slayer"
+	},
+	"gorgon-slayer": {
+		"name": "Gorgon Slayer"
+	},
+	"grand-patchcrafter": {
+		"name": "Grand Patchcrafter"
+	},
+	"grand-saboteur": {
+		"name": "Grand Saboteur"
+	},
+	"graveyard-caretaker": {
+		"name": "Graveyard Caretaker"
+	},
+	"graveyard-lurker": {
+		"name": "Graveyard Lurker"
+	},
+	"green-cobra-slayer": {
+		"name": "Green Cobra Slayer"
+	},
+	"grim-reaper-slayer": {
+		"name": "Grim Reaper Slayer"
+	},
+	"gryphon-slayer": {
+		"name": "Gryphon Slayer"
+	},
+	"guild-crafter-npc": {
+		"name": "Guild Crafter NPC"
+	},
+	"guild-quest-giver": {
+		"name": "Guild Quest Giver"
+	},
+	"guild-quest-master": {
+		"name": "Guild Quest Master"
+	},
+	"guild-questmaster": {
+		"name": "Guild Questmaster"
+	},
+	"guild-questmistress": {
+		"name": "Guild Questmistress"
+	},
+	"guild-rewarder": {
+		"name": "Guild Rewarder"
+	},
+	"guild-tool-rewarder": {
+		"name": "Guild Tool Rewarder"
+	},
+	"gun-trainer": {
+		"name": "Gun Trainer"
+	},
+	"gyrian-slayer": {
+		"name": "Gyrian Slayer"
+	},
+	"hag-slayer": {
+		"name": "Hag Slayer"
+	},
+	"halfling-slayer": {
+		"name": "Halfling Slayer"
+	},
+	"hand-guns-trainer": {
+		"name": "Hand guns Trainer"
+	},
+	"hand-to-hand-trainer": {
+		"name": "Hand to Hand Trainer"
+	},
+	"hard-worker": {
+		"name": "Hard Worker"
+	},
+	"harpy-slayer": {
+		"name": "Harpy Slayer"
+	},
+	"healer-trainer": {
+		"name": "Healer Trainer"
+	},
+	"health-stealing-trainer": {
+		"name": "Health Stealing Trainer"
+	},
+	"heartsgrove-citizen": {
+		"name": "Heartsgrove Citizen"
+	},
+	"heartsgrove-collector": {
+		"name": "Heartsgrove Collector"
+	},
+	"heavy-munitions-trainer": {
+		"name": "Heavy munitions Trainer"
+	},
+	"hell-magic-trainer": {
+		"name": "Hell Magic Trainer"
+	},
+	"hellbeast-slayer": {
+		"name": "Hellbeast Slayer"
+	},
+	"hellhound-slayer": {
+		"name": "Hellhound Slayer"
+	},
+	"hellish-imp-slayer": {
+		"name": "Hellish Imp Slayer"
+	},
+	"hellscar-leader": {
+		"name": "Hellscar Leader"
+	},
+	"hellspawn-slayer": {
+		"name": "Hellspawn Slayer"
+	},
+	"hellwarden-slayer": {
+		"name": "Hellwarden Slayer"
+	},
+	"hero": {
+		"name": "Hero"
+	},
+	"high-elf-slayer": {
+		"name": "High Elf Slayer"
+	},
+	"historian-and-collector": {
+		"name": "Historian and Collector"
+	},
+	"hologram": {
+		"name": "Hologram"
+	},
+	"horror-slayer": {
+		"name": "Horror Slayer"
+	},
+	"horse-slayer": {
+		"name": "Horse Slayer"
+	},
+	"hot-iron": {
+		"name": "Hot Iron"
+	},
+	"hot-iron-slayer": {
+		"name": "Hot Iron Slayer"
+	},
+	"hrrtani-slayer": {
+		"name": "Hrrtani Slayer"
+	},
+	"human-slayer": {
+		"name": "Human Slayer"
+	},
+	"humanoid-finder": {
+		"name": "Humanoid Finder"
+	},
+	"humanoid-seeker": {
+		"name": "Humanoid Seeker"
+	},
+	"humanoid-tracker": {
+		"name": "Humanoid Tracker"
+	},
+	"husk-slayer": {
+		"name": "Husk Slayer"
+	},
+	"hydra-slayer": {
+		"name": "Hydra Slayer"
+	},
+	"hydrania-slayer": {
+		"name": "Hydrania Slayer"
+	},
+	"ice-troll-slayer": {
+		"name": "Ice Troll Slayer"
+	},
+	"ignors-apprentice": {
+		"name": "Ignors Apprentice"
+	},
+	"imp-slayer": {
+		"name": "Imp Slayer"
+	},
+	"infamous-combatant": {
+		"name": "Infamous Combatant"
+	},
+	"initiate-dark-magic-trainer": {
+		"name": "Initiate Dark Magic Trainer"
+	},
+	"initiate-wizard-trainer": {
+		"name": "Initiate Wizard Trainer"
+	},
+	"inscription-trainer": {
+		"name": "Inscription Trainer"
+	},
+	"instrument-trainer": {
+		"name": "Instrument Trainer"
+	},
+	"instruments-trainer": {
+		"name": "Instruments Trainer"
+	},
+	"inventor-task-mistress": {
+		"name": "Inventor Task Mistress"
+	},
+	"inventors-assistant": {
+		"name": "Inventor`s Assistant"
+	},
+	"invocation-trainer": {
+		"name": "Invocation Trainer"
+	},
+	"irellian-defender": {
+		"name": "Irellian Defender"
+	},
+	"irellian-restorer": {
+		"name": "Irellian Restorer"
+	},
+	"irellian-slayer": {
+		"name": "Irellian Slayer"
+	},
+	"item-seeker": {
+		"name": "Item Seeker"
+	},
+	"jack-in-the-box-slayer": {
+		"name": "Jack in the Box Slayer"
+	},
+	"jackal-slayer": {
+		"name": "Jackal Slayer"
+	},
+	"jellyfish-slayer": {
+		"name": "Jellyfish Slayer"
+	},
+	"jeweller": {
+		"name": "Jeweller"
+	},
+	"jewelry-seller": {
+		"name": "Jewelry Seller"
+	},
+	"job-hunter": {
+		"name": "Job Hunter"
+	},
+	"job-seeker": {
+		"name": "Job Seeker"
+	},
+	"keeper-of-secrets": {
+		"name": "Keeper of Secrets"
+	},
+	"keeper-of-the-key": {
+		"name": "Keeper of the Key"
+	},
+	"killer-whale-slayer": {
+		"name": "Killer Whale Slayer"
+	},
+	"killerwasp-slayer": {
+		"name": "Killerwasp Slayer"
+	},
+	"king-arthur-slayer": {
+		"name": "King Arthur Slayer"
+	},
+	"king-of-heroism": {
+		"name": "King of Heroism"
+	},
+	"king-of-myzan": {
+		"name": "King of Myzan"
+	},
+	"kitten-slayer": {
+		"name": "Kitten Slayer"
+	},
+	"koi-carp-slayer": {
+		"name": "Koi Carp Slayer"
+	},
+	"ladybird-slayer": {
+		"name": "Ladybird Slayer"
+	},
+	"large-axes-trainer": {
+		"name": "Large axes Trainer"
+	},
+	"large-guns-trainer": {
+		"name": "Large guns Trainer"
+	},
+	"large-maces-trainer": {
+		"name": "Large maces Trainer"
+	},
+	"large-shields-trainer": {
+		"name": "Large shields Trainer"
+	},
+	"large-staves-trainer": {
+		"name": "Large staves Trainer"
+	},
+	"large-swords-trainer": {
+		"name": "Large swords Trainer"
+	},
+	"lawmaker": {
+		"name": "Lawmaker"
+	},
+	"leader": {
+		"name": "Leader"
+	},
+	"leader-of-the-reapers": {
+		"name": "Leader of the Reapers"
+	},
+	"league-pirate-king": {
+		"name": "League Pirate King"
+	},
+	"league-pirate-medic": {
+		"name": "League Pirate Medic"
+	},
+	"league-pirate-promoter": {
+		"name": "League Pirate Promoter"
+	},
+	"leatherworker": {
+		"name": "Leatherworker"
+	},
+	"leatherworker-trainer": {
+		"name": "Leatherworker Trainer"
+	},
+	"legend-seeker": {
+		"name": "Legend Seeker"
+	},
+	"legendary-2h-sword-seller": {
+		"name": "Legendary 2h Sword Seller"
+	},
+	"legendary-axe-seller": {
+		"name": "Legendary Axe Seller"
+	},
+	"legendary-big-axe-seller": {
+		"name": "Legendary Big Axe Seller"
+	},
+	"legendary-bow-seller": {
+		"name": "Legendary Bow Seller"
+	},
+	"legendary-crafter": {
+		"name": "Legendary Crafter"
+	},
+	"legendary-dagger-seller": {
+		"name": "Legendary Dagger Seller"
+	},
+	"legendary-fists-seller": {
+		"name": "Legendary Fists Seller"
+	},
+	"legendary-gun-seller": {
+		"name": "Legendary Gun Seller"
+	},
+	"legendary-king": {
+		"name": "Legendary King"
+	},
+	"legendary-large-mace-seller": {
+		"name": "Legendary Large Mace Seller"
+	},
+	"legendary-mace-seller": {
+		"name": "Legendary Mace Seller"
+	},
+	"legendary-pole-seller": {
+		"name": "Legendary Pole Seller"
+	},
+	"legendary-ranged-seller": {
+		"name": "Legendary Ranged Seller"
+	},
+	"legendary-rifle-seller": {
+		"name": "Legendary Rifle Seller"
+	},
+	"legendary-shield-seller": {
+		"name": "Legendary Shield Seller"
+	},
+	"legendary-stave-seller": {
+		"name": "Legendary Stave Seller"
+	},
+	"legendary-sword-seller": {
+		"name": "Legendary Sword Seller"
+	},
+	"legendary-weapon-seller": {
+		"name": "Legendary Weapon Seller"
+	},
+	"legion-commander": {
+		"name": "Legion Commander"
+	},
+	"legion-soldier": {
+		"name": "Legion Soldier"
+	},
+	"lemurian-slayer": {
+		"name": "Lemurian Slayer"
+	},
+	"lesser-archaeologist": {
+		"name": "Lesser Archaeologist"
+	},
+	"lesser-deamon-slayer": {
+		"name": "Lesser Deamon Slayer"
+	},
+	"lesser-key-keeper": {
+		"name": "Lesser Key Keeper"
+	},
+	"lesser-pole-trainer": {
+		"name": "Lesser Pole Trainer"
+	},
+	"lesser-wizard-trainer": {
+		"name": "Lesser Wizard Trainer"
+	},
+	"lethal-combatant": {
+		"name": "Lethal Combatant"
+	},
+	"level-10-goods": {
+		"name": "Level 10 Goods"
+	},
+	"level-20-goods": {
+		"name": "Level 20 Goods"
+	},
+	"level-50-goods": {
+		"name": "Level 50 Goods"
+	},
+	"level-150-goods": {
+		"name": "Level 150 Goods"
+	},
+	"level-250-goods": {
+		"name": "Level 250 Goods"
+	},
+	"level-350-goods": {
+		"name": "Level 350 Goods"
+	},
+	"level-450-goods": {
+		"name": "Level 450 Goods"
+	},
+	"level-550-goods": {
+		"name": "Level 550 Goods"
+	},
+	"level-650-goods": {
+		"name": "Level 650 Goods"
+	},
+	"level-750-goods": {
+		"name": "Level 750 Goods"
+	},
+	"level-850-goods": {
+		"name": "Level 850 Goods"
+	},
+	"level-950-goods": {
+		"name": "Level 950 Goods"
+	},
+	"liche-lord-slayer": {
+		"name": "Liche Lord Slayer"
+	},
+	"liche-slayer": {
+		"name": "Liche Slayer"
+	},
+	"lifestream-researcher": {
+		"name": "Lifestream Researcher"
+	},
+	"lifetaker-slayer": {
+		"name": "Lifetaker Slayer"
+	},
+	"lightbringer": {
+		"name": "Lightbringer"
+	},
+	"lion-slayer": {
+		"name": "Lion Slayer"
+	},
+	"lionheart-leader": {
+		"name": "Lionheart Leader"
+	},
+	"literary-hero": {
+		"name": "Literary Hero"
+	},
+	"lizard-slayer": {
+		"name": "Lizard Slayer"
+	},
+	"lizardmen-slayer": {
+		"name": "Lizardmen Slayer"
+	},
+	"lonely-stargazer": {
+		"name": "Lonely Stargazer"
+	},
+	"lordship-trainer": {
+		"name": "Lordship Trainer"
+	},
+	"lumberjacking-trainer": {
+		"name": "Lumberjacking Trainer"
+	},
+	"luminary-magic-trainer": {
+		"name": "Luminary Magic Trainer"
+	},
+	"lurcher-slayer": {
+		"name": "Lurcher Slayer"
+	},
+	"maces-trainer": {
+		"name": "Maces Trainer"
+	},
+	"magdendo-potion-peddlar": {
+		"name": "Magdendo Potion Peddlar"
+	},
+	"mage-guide": {
+		"name": "Mage Guide"
+	},
+	"mage-trainer": {
+		"name": "Mage Trainer"
+	},
+	"magic-dust-seeker": {
+		"name": "Magic Dust Seeker"
+	},
+	"magic-instructor": {
+		"name": "Magic Instructor"
+	},
+	"magic-trainer": {
+		"name": "Magic Trainer"
+	},
+	"magnalian-slayer": {
+		"name": "Magnalian Slayer"
+	},
+	"maminal-slayer": {
+		"name": "Maminal Slayer"
+	},
+	"mammoth-slayer": {
+		"name": "Mammoth Slayer"
+	},
+	"mana-drainer-trainer": {
+		"name": "Mana Drainer Trainer"
+	},
+	"mannequin-slayer": {
+		"name": "Mannequin Slayer"
+	},
+	"mantrap-slayer": {
+		"name": "Mantrap Slayer"
+	},
+	"master-alchemist": {
+		"name": "Master Alchemist"
+	},
+	"master-analyzer": {
+		"name": "Master Analyzer"
+	},
+	"master-animator": {
+		"name": "Master Animator"
+	},
+	"master-archaeologist": {
+		"name": "Master Archaeologist"
+	},
+	"master-beggar": {
+		"name": "Master Beggar"
+	},
+	"master-blacksmith": {
+		"name": "Master Blacksmith"
+	},
+	"master-breeder": {
+		"name": "Master Breeder"
+	},
+	"master-builder": {
+		"name": "Master Builder"
+	},
+	"master-carpenter": {
+		"name": "Master Carpenter"
+	},
+	"master-castaway": {
+		"name": "Master Castaway"
+	},
+	"master-cook": {
+		"name": "Master Cook"
+	},
+	"master-crafter": {
+		"name": "Master Crafter"
+	},
+	"master-demonologist": {
+		"name": "Master Demonologist"
+	},
+	"master-explorer": {
+		"name": "Master Explorer"
+	},
+	"master-farmer": {
+		"name": "Master Farmer"
+	},
+	"master-florist": {
+		"name": "Master Florist"
+	},
+	"master-forager": {
+		"name": "Master Forager"
+	},
+	"master-furnisher": {
+		"name": "Master Furnisher"
+	},
+	"master-geologist": {
+		"name": "Master Geologist"
+	},
+	"master-hexer": {
+		"name": "Master Hexer"
+	},
+	"master-inventor": {
+		"name": "Master Inventor"
+	},
+	"master-leatherworker": {
+		"name": "Master Leatherworker"
+	},
+	"master-locksmith": {
+		"name": "Master Locksmith"
+	},
+	"master-marinecarer": {
+		"name": "Master Marinecarer"
+	},
+	"master-miner": {
+		"name": "Master Miner"
+	},
+	"master-necromancer": {
+		"name": "Master Necromancer"
+	},
+	"master-of-the-depths": {
+		"name": "Master of the Depths"
+	},
+	"master-patchcrafter": {
+		"name": "Master Patchcrafter"
+	},
+	"master-revealer": {
+		"name": "Master Revealer"
+	},
+	"master-saboteur": {
+		"name": "Master Saboteur"
+	},
+	"master-scribe": {
+		"name": "Master Scribe"
+	},
+	"master-seaman": {
+		"name": "Master Seaman"
+	},
+	"master-seeker": {
+		"name": "Master Seeker"
+	},
+	"master-skinner": {
+		"name": "Master Skinner"
+	},
+	"master-slinker": {
+		"name": "Master Slinker"
+	},
+	"master-stonemason": {
+		"name": "Master Stonemason"
+	},
+	"master-tailor": {
+		"name": "Master Tailor"
+	},
+	"master-tamer": {
+		"name": "Master Tamer"
+	},
+	"master-tinker": {
+		"name": "Master Tinker"
+	},
+	"master-trapper": {
+		"name": "Master Trapper"
+	},
+	"master-treefeller": {
+		"name": "Master Treefeller"
+	},
+	"mayor": {
+		"name": "Mayor"
+	},
+	"mayor-of-greenmead": {
+		"name": "Mayor of Greenmead"
+	},
+	"mcgruesome": {
+		"name": "McGruesome"
+	},
+	"merchandise-collector": {
+		"name": "Merchandise Collector"
+	},
+	"merlin-slayer": {
+		"name": "Merlin Slayer"
+	},
+	"mermaid-slayer": {
+		"name": "Mermaid Slayer"
+	},
+	"metal-dragon-slayer": {
+		"name": "Metal Dragon Slayer"
+	},
+	"mimic-slayer": {
+		"name": "Mimic Slayer"
+	},
+	"mindwraithe-slayer": {
+		"name": "Mindwraithe Slayer"
+	},
+	"minotaur-slayer": {
+		"name": "Minotaur Slayer"
+	},
+	"mist-dweller-slayer": {
+		"name": "Mist Dweller Slayer"
+	},
+	"mistletoe-slayer": {
+		"name": "Mistletoe Slayer"
+	},
+	"monkey-seeker": {
+		"name": "Monkey Seeker"
+	},
+	"moorlank-slayer": {
+		"name": "Moorlank Slayer"
+	},
+	"morgana-slayer": {
+		"name": "Morgana Slayer"
+	},
+	"morphet-slayer": {
+		"name": "Morphet Slayer"
+	},
+	"mountable-golem-slayer": {
+		"name": "Mountable Golem Slayer"
+	},
+	"muffie-slayer": {
+		"name": "Muffie Slayer"
+	},
+	"muffin-enslaver": {
+		"name": "Muffin Enslaver"
+	},
+	"muffin-slave-slayer": {
+		"name": "Muffin Slave Slayer"
+	},
+	"mummy-slayer": {
+		"name": "Mummy Slayer"
+	},
+	"muncher-slayer": {
+		"name": "Muncher Slayer"
+	},
+	"murderous-combatant": {
+		"name": "Murderous Combatant"
+	},
+	"murkeye-slayer": {
+		"name": "Murkeye Slayer"
+	},
+	"mushroom-collector": {
+		"name": "Mushroom Collector"
+	},
+	"mystical-trainer": {
+		"name": "Mystical Trainer"
+	},
+	"myzan-defender": {
+		"name": "Myzan Defender"
+	},
+	"myzan-defender-healer": {
+		"name": "Myzan Defender - Healer"
+	},
+	"myzan-navy-leader": {
+		"name": "Myzan Navy Leader"
+	},
+	"myzan-navy-medic": {
+		"name": "Myzan Navy Medic"
+	},
+	"myzan-navy-promoter": {
+		"name": "Myzan Navy Promoter"
+	},
+	"naval-historian": {
+		"name": "Naval Historian"
+	},
+	"navy-duel-master": {
+		"name": "Navy Duel Master"
+	},
+	"navy-salvage-expert": {
+		"name": "Navy Salvage Expert"
+	},
+	"neanderthal-slayer": {
+		"name": "Neanderthal Slayer"
+	},
+	"necromancer-trainer": {
+		"name": "Necromancer Trainer"
+	},
+	"necromancy-trainer": {
+		"name": "Necromancy Trainer"
+	},
+	"necrotic-warrior-slayer": {
+		"name": "Necrotic Warrior Slayer"
+	},
+	"necryte-slayer": {
+		"name": "Necryte Slayer"
+	},
+	"nereid-slayer": {
+		"name": "Nereid Slayer"
+	},
+	"nest-keeper": {
+		"name": "Nest Keeper"
+	},
+	"neutral-champion": {
+		"name": "Neutral Champion"
+	},
+	"neutral-commander": {
+		"name": "Neutral Commander"
+	},
+	"neutral-healer": {
+		"name": "Neutral Healer"
+	},
+	"neutral-stranger": {
+		"name": "Neutral Stranger"
+	},
+	"nightmare-slayer": {
+		"name": "Nightmare Slayer"
+	},
+	"nightstalker-slayer": {
+		"name": "Nightstalker Slayer"
+	},
+	"nioxis-slayer": {
+		"name": "Nioxis Slayer"
+	},
+	"novice-alchemist": {
+		"name": "Novice Alchemist"
+	},
+	"novice-analyzer": {
+		"name": "Novice Analyzer"
+	},
+	"novice-animator": {
+		"name": "Novice Animator"
+	},
+	"novice-beggar": {
+		"name": "Novice Beggar"
+	},
+	"novice-bejeweler": {
+		"name": "Novice Bejeweler"
+	},
+	"novice-blacksmith": {
+		"name": "Novice Blacksmith"
+	},
+	"novice-breeder": {
+		"name": "Novice Breeder"
+	},
+	"novice-builder": {
+		"name": "Novice Builder"
+	},
+	"novice-carpenter": {
+		"name": "Novice Carpenter"
+	},
+	"novice-castaway": {
+		"name": "Novice Castaway"
+	},
+	"novice-cook": {
+		"name": "Novice Cook"
+	},
+	"novice-crafter": {
+		"name": "Novice Crafter"
+	},
+	"novice-dark-magic-trainer": {
+		"name": "Novice Dark Magic Trainer"
+	},
+	"novice-demonologist": {
+		"name": "Novice Demonologist"
+	},
+	"novice-explorer": {
+		"name": "Novice Explorer"
+	},
+	"novice-farmer": {
+		"name": "Novice Farmer"
+	},
+	"novice-fishcatcher": {
+		"name": "Novice Fishcatcher"
+	},
+	"novice-florist": {
+		"name": "Novice Florist"
+	},
+	"novice-follower": {
+		"name": "Novice Follower"
+	},
+	"novice-forager": {
+		"name": "Novice Forager"
+	},
+	"novice-furnisher": {
+		"name": "Novice Furnisher"
+	},
+	"novice-geologist": {
+		"name": "Novice Geologist"
+	},
+	"novice-hexer": {
+		"name": "Novice Hexer"
+	},
+	"novice-leatherworker": {
+		"name": "Novice Leatherworker"
+	},
+	"novice-locksmith": {
+		"name": "Novice Locksmith"
+	},
+	"novice-marinecarer": {
+		"name": "Novice Marinecarer"
+	},
+	"novice-miner": {
+		"name": "Novice Miner"
+	},
+	"novice-necromancer": {
+		"name": "Novice Necromancer"
+	},
+	"novice-patchcrafter": {
+		"name": "Novice Patchcrafter"
+	},
+	"novice-revealer": {
+		"name": "Novice Revealer"
+	},
+	"novice-saboteur": {
+		"name": "Novice Saboteur"
+	},
+	"novice-scribe": {
+		"name": "Novice Scribe"
+	},
+	"novice-seaman": {
+		"name": "Novice Seaman"
+	},
+	"novice-seeker": {
+		"name": "Novice Seeker"
+	},
+	"novice-skinner": {
+		"name": "Novice Skinner"
+	},
+	"novice-slinker": {
+		"name": "Novice Slinker"
+	},
+	"novice-stonemason": {
+		"name": "Novice Stonemason"
+	},
+	"novice-tailor": {
+		"name": "Novice Tailor"
+	},
+	"novice-tamer": {
+		"name": "Novice Tamer"
+	},
+	"novice-tinker": {
+		"name": "Novice Tinker"
+	},
+	"novice-trapper": {
+		"name": "Novice Trapper"
+	},
+	"novice-treefeller": {
+		"name": "Novice Treefeller"
+	},
+	"novice-wizard-trainer": {
+		"name": "Novice Wizard Trainer"
+	},
+	"obscure-magic-trainer": {
+		"name": "Obscure Magic Trainer"
+	},
+	"ocean-guardian": {
+		"name": "Ocean Guardian"
+	},
+	"octopus-slayer": {
+		"name": "Octopus Slayer"
+	},
+	"odd-plan-peddler": {
+		"name": "Odd Plan Peddler"
+	},
+	"ogre-slayer": {
+		"name": "Ogre Slayer"
+	},
+	"old-alchemist": {
+		"name": "Old Alchemist"
+	},
+	"old-one": {
+		"name": "Old One"
+	},
+	"old-sea-dog": {
+		"name": "Old Sea Dog"
+	},
+	"old-store-keep": {
+		"name": "Old Store Keep"
+	},
+	"orc-lord-slayer": {
+		"name": "Orc Lord Slayer"
+	},
+	"orc-slayer": {
+		"name": "Orc Slayer"
+	},
+	"orc-warrior-slayer": {
+		"name": "Orc Warrior Slayer"
+	},
+	"outpost-commander": {
+		"name": "Outpost Commander"
+	},
+	"pack-horse-slayer": {
+		"name": "Pack Horse Slayer"
+	},
+	"pack-rat-slayer": {
+		"name": "Pack rat Slayer"
+	},
+	"paint-peddler": {
+		"name": "Paint Peddler"
+	},
+	"paint-seller": {
+		"name": "Paint Seller"
+	},
+	"panda-slayer": {
+		"name": "Panda Slayer"
+	},
+	"parlor-trick-trainer": {
+		"name": "Parlor Trick Trainer"
+	},
+	"patchcrafting-trainer": {
+		"name": "Patchcrafting Trainer"
+	},
+	"peace-envoy": {
+		"name": "Peace Envoy"
+	},
+	"peace-officer": {
+		"name": "Peace Officer"
+	},
+	"pearl-collector": {
+		"name": "Pearl Collector"
+	},
+	"peddler-of-things": {
+		"name": "Peddler of Things"
+	},
+	"pegasus-slayer": {
+		"name": "Pegasus Slayer"
+	},
+	"pelt-collector": {
+		"name": "Pelt Collector"
+	},
+	"penguin-guardian": {
+		"name": "Penguin Guardian"
+	},
+	"penguin-slayer": {
+		"name": "Penguin Slayer"
+	},
+	"pest-controller": {
+		"name": "Pest Controller"
+	},
+	"pet-collector": {
+		"name": "Pet Collector"
+	},
+	"pet-dealer": {
+		"name": "Pet Dealer"
+	},
+	"phoenix-slayer": {
+		"name": "Phoenix Slayer"
+	},
+	"pirate-duel-master": {
+		"name": "Pirate Duel Master"
+	},
+	"pixie-slayer": {
+		"name": "Pixie Slayer"
+	},
+	"plan-giver": {
+		"name": "Plan Giver"
+	},
+	"platypus-slayer": {
+		"name": "Platypus Slayer"
+	},
+	"player-legend": {
+		"name": "Player Legend"
+	},
+	"poison-ivy-slayer": {
+		"name": "Poison Ivy Slayer"
+	},
+	"poison-magic-trainer": {
+		"name": "Poison Magic Trainer"
+	},
+	"poisoning-trainer": {
+		"name": "Poisoning Trainer"
+	},
+	"pole-trainer": {
+		"name": "Pole Trainer"
+	},
+	"pole-weapons-trainer": {
+		"name": "Pole weapons Trainer"
+	},
+	"potion-seller": {
+		"name": "Potion Seller"
+	},
+	"potions-and-solutions": {
+		"name": "Potions and Solutions"
+	},
+	"praying-mantis-slayer": {
+		"name": "Praying Mantis Slayer"
+	},
+	"premium-provider": {
+		"name": "Premium Provider"
+	},
+	"preservation-trainer": {
+		"name": "Preservation Trainer"
+	},
+	"preystalker-slayer": {
+		"name": "Preystalker Slayer"
+	},
+	"priestess": {
+		"name": "Priestess"
+	},
+	"prism-chaser": {
+		"name": "Prism Chaser"
+	},
+	"prison-mastermind": {
+		"name": "Prison Mastermind"
+	},
+	"prisoner": {
+		"name": "Prisoner"
+	},
+	"prize-farmer": {
+		"name": "Prize Farmer"
+	},
+	"prize-fishcatcher": {
+		"name": "Prize Fishcatcher"
+	},
+	"projectile-trainer": {
+		"name": "Projectile Trainer"
+	},
+	"protection-trainer": {
+		"name": "Protection Trainer"
+	},
+	"proudhorn-slayer": {
+		"name": "Proudhorn Slayer"
+	},
+	"pterosaurus-slayer": {
+		"name": "Pterosaurus Slayer"
+	},
+	"pumpkin-head-slayer": {
+		"name": "Pumpkin Head Slayer"
+	},
+	"puppet-slayer": {
+		"name": "Puppet Slayer"
+	},
+	"puppy-slayer": {
+		"name": "Puppy Slayer"
+	},
+	"quarry-surveyor": {
+		"name": "Quarry Surveyor"
+	},
+	"queen-of-myzan": {
+		"name": "Queen of Myzan"
+	},
+	"queen-of-the-irellians": {
+		"name": "Queen of the Irellians"
+	},
+	"rabbit-slayer": {
+		"name": "Rabbit Slayer"
+	},
+	"rabid-dog-slayer": {
+		"name": "Rabid Dog Slayer"
+	},
+	"raptor-slayer": {
+		"name": "Raptor Slayer"
+	},
+	"rat-slayer": {
+		"name": "Rat Slayer"
+	},
+	"ratilian-slayer": {
+		"name": "Ratilian Slayer"
+	},
+	"ravenar-slayer": {
+		"name": "Ravenar Slayer"
+	},
+	"realm-defender": {
+		"name": "Realm Defender"
+	},
+	"reaper-champion": {
+		"name": "Reaper Champion"
+	},
+	"reaper-commander": {
+		"name": "Reaper Commander"
+	},
+	"reaper-craft-master": {
+		"name": "Reaper Craft Master"
+	},
+	"reaper-dungeon-keeper": {
+		"name": "Reaper Dungeon Keeper"
+	},
+	"reaper-member": {
+		"name": "Reaper Member"
+	},
+	"reaper-stranger": {
+		"name": "Reaper Stranger"
+	},
+	"reaper-supplier": {
+		"name": "Reaper Supplier"
+	},
+	"recorder": {
+		"name": "Recorder"
+	},
+	"red-nosed-reindeer-slayer": {
+		"name": "Red-nosed reindeer Slayer"
+	},
+	"redcap-slayer": {
+		"name": "Redcap Slayer"
+	},
+	"redhide-slayer": {
+		"name": "Redhide Slayer"
+	},
+	"reformation-trainer": {
+		"name": "Reformation Trainer"
+	},
+	"relic-hunter": {
+		"name": "Relic Hunter"
+	},
+	"renovator": {
+		"name": "Renovator"
+	},
+	"research-assistant": {
+		"name": "Research Assistant"
+	},
+	"retired-hero": {
+		"name": "Retired Hero"
+	},
+	"revenant-slayer": {
+		"name": "Revenant Slayer"
+	},
+	"rhino-slayer": {
+		"name": "Rhino Slayer"
+	},
+	"ribble-slayer": {
+		"name": "Ribble Slayer"
+	},
+	"riding-trainer": {
+		"name": "Riding Trainer"
+	},
+	"ring-seeker": {
+		"name": "Ring Seeker"
+	},
+	"rival-slayer": {
+		"name": "Rival Slayer"
+	},
+	"rocking-horse-slayer": {
+		"name": "Rocking Horse Slayer"
+	},
+	"roost-master": {
+		"name": "Roost Master"
+	},
+	"root-collector": {
+		"name": "Root Collector"
+	},
+	"root-puller": {
+		"name": "Root Puller"
+	},
+	"royal-drake-slayer": {
+		"name": "Royal Drake Slayer"
+	},
+	"royal-gatekeeper": {
+		"name": "Royal Gatekeeper"
+	},
+	"ruler-of-the-deep": {
+		"name": "Ruler of the Deep"
+	},
+	"sabretooth-tiger-slayer": {
+		"name": "Sabretooth Tiger Slayer"
+	},
+	"sakure-slayer": {
+		"name": "Sakure Slayer"
+	},
+	"salamander-slayer": {
+		"name": "Salamander Slayer"
+	},
+	"salvage-drone": {
+		"name": "Salvage Drone"
+	},
+	"sandharper-gem-collector": {
+		"name": "Sandharper gem Collector"
+	},
+	"sandworm-slayer": {
+		"name": "Sandworm Slayer"
+	},
+	"savage-combatant": {
+		"name": "Savage Combatant"
+	},
+	"scammer": {
+		"name": "Scammer"
+	},
+	"scarecrow-slayer": {
+		"name": "Scarecrow Slayer"
+	},
+	"scary-crafter": {
+		"name": "Scary Crafter"
+	},
+	"scavenger-slayer": {
+		"name": "Scavenger Slayer"
+	},
+	"scorned-sister": {
+		"name": "Scorned Sister"
+	},
+	"scorpion-slayer": {
+		"name": "Scorpion Slayer"
+	},
+	"scratchcard-vendor": {
+		"name": "Scratchcard Vendor"
+	},
+	"scribe": {
+		"name": "Scribe"
+	},
+	"scurvy-dog": {
+		"name": "Scurvy Dog"
+	},
+	"sea-deamon-slayer": {
+		"name": "Sea Deamon Slayer"
+	},
+	"sea-dragon-slayer": {
+		"name": "Sea Dragon Slayer"
+	},
+	"sea-engineer": {
+		"name": "Sea Engineer"
+	},
+	"sea-horse-slayer": {
+		"name": "Sea Horse Slayer"
+	},
+	"sea-king-slayer": {
+		"name": "Sea King Slayer"
+	},
+	"sea-king-welk": {
+		"name": "Sea King Welk"
+	},
+	"sea-monster-slayer": {
+		"name": "Sea monster Slayer"
+	},
+	"sea-skeleton-slayer": {
+		"name": "Sea Skeleton Slayer"
+	},
+	"sea-snake-slayer": {
+		"name": "Sea snake Slayer"
+	},
+	"sea-spirit-slayer": {
+		"name": "Sea Spirit Slayer"
+	},
+	"sea-wretch-slayer": {
+		"name": "Sea Wretch Slayer"
+	},
+	"seaman": {
+		"name": "Seaman"
+	},
+	"seamanship-trainer": {
+		"name": "Seamanship Trainer"
+	},
+	"seller-of-golden-tickets": {
+		"name": "Seller of Golden Tickets"
+	},
+	"seller-of-wonders": {
+		"name": "Seller of Wonders"
+	},
+	"servant-girl": {
+		"name": "Servant Girl"
+	},
+	"serving-wench": {
+		"name": "Serving Wench"
+	},
+	"shade": {
+		"name": "Shade"
+	},
+	"shade-slayer": {
+		"name": "Shade Slayer"
+	},
+	"shadow-drow-slayer": {
+		"name": "Shadow Drow Slayer"
+	},
+	"shadow-slayer": {
+		"name": "Shadow Slayer"
+	},
+	"shadow-strike-trainer": {
+		"name": "Shadow-strike Trainer"
+	},
+	"shaman-trainer": {
+		"name": "Shaman Trainer"
+	},
+	"shambling-mounds-slayer": {
+		"name": "Shambling Mounds Slayer"
+	},
+	"shark-slayer": {
+		"name": "Shark Slayer"
+	},
+	"sheep-slayer": {
+		"name": "Sheep Slayer"
+	},
+	"shell-collector": {
+		"name": "Shell Collector"
+	},
+	"sheriff": {
+		"name": "Sheriff"
+	},
+	"shield-trainer": {
+		"name": "Shield Trainer"
+	},
+	"shields-trainer": {
+		"name": "Shields Trainer"
+	},
+	"shiny-bejeweler": {
+		"name": "Shiny Bejeweler"
+	},
+	"ships-captain": {
+		"name": "Ships Captain"
+	},
+	"ships-cat-slayer": {
+		"name": "Ships Cat Slayer"
+	},
+	"ships-dog-slayer": {
+		"name": "Ships Dog Slayer"
+	},
+	"ships-monkey-slayer": {
+		"name": "Ships Monkey Slayer"
+	},
+	"ships-parrot-slayer": {
+		"name": "Ships Parrot Slayer"
+	},
+	"ships-rat-slayer": {
+		"name": "Ships Rat Slayer"
+	},
+	"shipwright": {
+		"name": "Shipwright"
+	},
+	"shrine": {
+		"name": "Shrine"
+	},
+	"shrine-custodian": {
+		"name": "Shrine Custodian"
+	},
+	"sidekick-slayer": {
+		"name": "Sidekick Slayer"
+	},
+	"sidhee-slayer": {
+		"name": "Sidhee Slayer"
+	},
+	"siege-goods-seller": {
+		"name": "Siege Goods Seller"
+	},
+	"sieging-abilities-trainer": {
+		"name": "Sieging Abilities Trainer"
+	},
+	"singing-trainer": {
+		"name": "Singing Trainer"
+	},
+	"siren": {
+		"name": "Siren"
+	},
+	"sithanu-slayer": {
+		"name": "Sithanu Slayer"
+	},
+	"sithe-lord-slayer": {
+		"name": "Sithe Lord Slayer"
+	},
+	"sithe-scurge-slayer": {
+		"name": "Sithe Scurge Slayer"
+	},
+	"size-12-sneaker": {
+		"name": "Size 12 Sneaker"
+	},
+	"skaven-slayer": {
+		"name": "Skaven Slayer"
+	},
+	"skeletal-dog-slayer": {
+		"name": "Skeletal Dog Slayer"
+	},
+	"skeletal-horse-slayer": {
+		"name": "Skeletal horse Slayer"
+	},
+	"skeleton-captain-slayer": {
+		"name": "Skeleton Captain Slayer"
+	},
+	"skeleton-mage-slayer": {
+		"name": "Skeleton Mage Slayer"
+	},
+	"skeleton-slayer": {
+		"name": "Skeleton Slayer"
+	},
+	"skeleton-warrior-slayer": {
+		"name": "Skeleton Warrior Slayer"
+	},
+	"skull-admiral": {
+		"name": "Skull Admiral"
+	},
+	"slammerkin-slayer": {
+		"name": "Slammerkin Slayer"
+	},
+	"slayer-crafter-tokens": {
+		"name": "Slayer / Crafter Tokens"
+	},
+	"slayer-demon-slayer": {
+		"name": "Slayer Demon Slayer"
+	},
+	"sloth-slayer": {
+		"name": "Sloth Slayer"
+	},
+	"slow-poke": {
+		"name": "Slow Poke"
+	},
+	"slug-slayer": {
+		"name": "Slug Slayer"
+	},
+	"snake-slayer": {
+		"name": "Snake Slayer"
+	},
+	"snarkle-mod-slayer": {
+		"name": "Snarkle Mod Slayer"
+	},
+	"snarkle-saviour": {
+		"name": "Snarkle Saviour"
+	},
+	"snarkle-slayer": {
+		"name": "Snarkle Slayer"
+	},
+	"sneakers-slayer": {
+		"name": "Sneakers Slayer"
+	},
+	"snow-monster-slayer": {
+		"name": "Snow monster Slayer"
+	},
+	"society-baron": {
+		"name": "Society Baron"
+	},
+	"society-champion": {
+		"name": "Society Champion"
+	},
+	"society-commander": {
+		"name": "Society Commander"
+	},
+	"society-craft-master": {
+		"name": "Society Craft Master"
+	},
+	"society-dungeon-keeper": {
+		"name": "Society Dungeon Keeper"
+	},
+	"society-ruler": {
+		"name": "Society Ruler"
+	},
+	"society-stranger": {
+		"name": "Society Stranger"
+	},
+	"society-supplier": {
+		"name": "Society Supplier"
+	},
+	"souleater-slayer": {
+		"name": "Souleater Slayer"
+	},
+	"sparkly-bejeweler": {
+		"name": "Sparkly Bejeweler"
+	},
+	"sparky": {
+		"name": "Sparky"
+	},
+	"specter-slayer": {
+		"name": "Specter Slayer"
+	},
+	"spectral-cat-slayer": {
+		"name": "Spectral Cat Slayer"
+	},
+	"spectral-dragon-guardian": {
+		"name": "Spectral Dragon Guardian"
+	},
+	"spectral-dragon-leader": {
+		"name": "Spectral Dragon Leader"
+	},
+	"spectral-dragon-slayer": {
+		"name": "Spectral Dragon Slayer"
+	},
+	"spectral-horse-slayer": {
+		"name": "Spectral horse Slayer"
+	},
+	"spectral-sloth-slayer": {
+		"name": "Spectral Sloth Slayer"
+	},
+	"spectral-snow-cat-slayer": {
+		"name": "Spectral Snow Cat Slayer"
+	},
+	"spellbinder": {
+		"name": "Spellbinder"
+	},
+	"spider-slayer": {
+		"name": "Spider Slayer"
+	},
+	"spirit-of-undead-slayer": {
+		"name": "Spirit of Undead Slayer"
+	},
+	"spirit-slayer": {
+		"name": "Spirit Slayer"
+	},
+	"spiritsaviour": {
+		"name": "Spiritsaviour"
+	},
+	"spook-slayer": {
+		"name": "Spook Slayer"
+	},
+	"spriggans-slayer": {
+		"name": "Spriggans Slayer"
+	},
+	"spring-vendor": {
+		"name": "Spring vendor"
+	},
+	"springlade-thief": {
+		"name": "Springlade Thief"
+	},
+	"sprite-slayer": {
+		"name": "Sprite Slayer"
+	},
+	"stamina-sucking-trainer": {
+		"name": "Stamina Sucking Trainer"
+	},
+	"star-artist": {
+		"name": "Star Artist"
+	},
+	"starbeing-slayer": {
+		"name": "Starbeing Slayer"
+	},
+	"staves-trainer": {
+		"name": "Staves Trainer"
+	},
+	"steampowered-spider-slayer": {
+		"name": "Steampowered Spider Slayer"
+	},
+	"steelskin": {
+		"name": "Steelskin"
+	},
+	"stegosaurus-slayer": {
+		"name": "Stegosaurus Slayer"
+	},
+	"stenopterygius-slayer": {
+		"name": "Stenopterygius Slayer"
+	},
+	"stinging-nettle-slayer": {
+		"name": "Stinging Nettle Slayer"
+	},
+	"stocking-slayer": {
+		"name": "Stocking slayer"
+	},
+	"stonemason-trainer": {
+		"name": "Stonemason Trainer"
+	},
+	"storm-master": {
+		"name": "Storm Master"
+	},
+	"stringed-trainer": {
+		"name": "Stringed Trainer"
+	},
+	"sturdy-table-slayer": {
+		"name": "Sturdy Table Slayer"
+	},
+	"subterran-defender": {
+		"name": "Subterran Defender"
+	},
+	"subterran-leader": {
+		"name": "Subterran Leader"
+	},
+	"subterran-lifegiver": {
+		"name": "Subterran Lifegiver"
+	},
+	"subterran-slayer": {
+		"name": "Subterran Slayer"
+	},
+	"summoner-trainer": {
+		"name": "Summoner Trainer"
+	},
+	"sunstone-dragon-slayer": {
+		"name": "Sunstone Dragon Slayer"
+	},
+	"sunstone-flight-leader": {
+		"name": "Sunstone Flight Leader"
+	},
+	"sunstone-flight-legend": {
+		"name": "Sunstone Flight Legend"
+	},
+	"sunstone-wurm-slayer": {
+		"name": "Sunstone Wurm Slayer"
+	},
+	"super-guild-crafter-npc": {
+		"name": "Super Guild Crafter NPC"
+	},
+	"supplier-of-path": {
+		"name": "Supplier of Path"
+	},
+	"supply-keeper": {
+		"name": "Supply Keeper"
+	},
+	"surgery-trainer": {
+		"name": "Surgery Trainer"
+	},
+	"sweet-tooth": {
+		"name": "Sweet Tooth"
+	},
+	"swords-trainer": {
+		"name": "Swords Trainer"
+	},
+	"sylphs-slayer": {
+		"name": "Sylphs Slayer"
+	},
+	"tailor-of-fine-things": {
+		"name": "Tailor of Fine Things"
+	},
+	"tailor-trainer": {
+		"name": "Tailor Trainer"
+	},
+	"tame-flea-slayer": {
+		"name": "Tame Flea Slayer"
+	},
+	"templar-charger-slayer": {
+		"name": "Templar charger Slayer"
+	},
+	"templar-healer": {
+		"name": "Templar Healer"
+	},
+	"tenth-healer": {
+		"name": "Tenth Healer"
+	},
+	"tenth-legion-leader": {
+		"name": "Tenth Legion Leader"
+	},
+	"terranticle-slayer": {
+		"name": "Terranticle Slayer"
+	},
+	"the-bean-sidhe-slayer": {
+		"name": "The Bean Sidhe Slayer"
+	},
+	"the-catcher": {
+		"name": "The Catcher"
+	},
+	"the-lhiannan-shee-slayer": {
+		"name": "The Lhiannan-Shee Slayer"
+	},
+	"tiger-slayer": {
+		"name": "Tiger Slayer"
+	},
+	"tinker-guild-leader": {
+		"name": "Tinker Guild Leader"
+	},
+	"tinker-master": {
+		"name": "Tinker Master"
+	},
+	"tinker-mistress": {
+		"name": "Tinker Mistress"
+	},
+	"tiny-hero": {
+		"name": "Tiny Hero"
+	},
+	"topaz-dragon-slayer": {
+		"name": "Topaz Dragon Slayer"
+	},
+	"topaz-flight-leader": {
+		"name": "Topaz Flight Leader"
+	},
+	"topaz-wurm-slayer": {
+		"name": "Topaz Wurm Slayer"
+	},
+	"town-key-master": {
+		"name": "Town Key Master"
+	},
+	"town-leader": {
+		"name": "Town Leader"
+	},
+	"town-mayor": {
+		"name": "Town Mayor"
+	},
+	"toy-soldier-slayer": {
+		"name": "Toy Soldier Slayer"
+	},
+	"toymaster": {
+		"name": "Toymaster"
+	},
+	"trade-alliance-healer": {
+		"name": "Trade Alliance Healer"
+	},
+	"traders-alliance-enforcer": {
+		"name": "Traders Alliance Enforcer"
+	},
+	"traders-alliance-healer": {
+		"name": "Traders Alliance Healer"
+	},
+	"trapped-spirit": {
+		"name": "Trapped Spirit"
+	},
+	"trenian-slayer": {
+		"name": "Trenian Slayer"
+	},
+	"triceratops-slayer": {
+		"name": "Triceratops Slayer"
+	},
+	"trinket-collector": {
+		"name": "Trinket Collector"
+	},
+	"troll-slayer": {
+		"name": "Troll Slayer"
+	},
+	"trophy-barterer": {
+		"name": "Trophy Barterer"
+	},
+	"trophy-exchanger": {
+		"name": "Trophy Exchanger"
+	},
+	"trophy-hunter": {
+		"name": "Trophy Hunter"
+	},
+	"truth-seeker": {
+		"name": "Truth Seeker"
+	},
+	"tuatha-de-danann-slayer": {
+		"name": "Tuatha de Danann Slayer"
+	},
+	"tunnel-master": {
+		"name": "Tunnel Master"
+	},
+	"turtle-slayer": {
+		"name": "Turtle Slayer"
+	},
+	"tuskamoth-slayer": {
+		"name": "Tuskamoth Slayer"
+	},
+	"undead-commander": {
+		"name": "Undead Commander"
+	},
+	"undead-finder": {
+		"name": "Undead Finder"
+	},
+	"undead-healer": {
+		"name": "Undead Healer"
+	},
+	"undead-leader": {
+		"name": "Undead Leader"
+	},
+	"undead-pirate-slayer": {
+		"name": "Undead Pirate Slayer"
+	},
+	"undead-seeker": {
+		"name": "Undead Seeker"
+	},
+	"undead-slayer": {
+		"name": "Undead Slayer"
+	},
+	"undead-tracker": {
+		"name": "Undead Tracker"
+	},
+	"unicorn-slayer": {
+		"name": "Unicorn Slayer"
+	},
+	"urn-collector": {
+		"name": "Urn Collector"
+	},
+	"valdarak-slayer": {
+		"name": "Valdarak Slayer"
+	},
+	"vale-trophy-collector": {
+		"name": "Vale Trophy Collector"
+	},
+	"vampire-lord-slayer": {
+		"name": "Vampire Lord Slayer"
+	},
+	"vampire-slayer": {
+		"name": "Vampire Slayer"
+	},
+	"vessel-reclaim": {
+		"name": "Vessel Reclaim"
+	},
+	"village-elder": {
+		"name": "Village Elder"
+	},
+	"visiting-tinker": {
+		"name": "Visiting Tinker"
+	},
+	"war-ender": {
+		"name": "War Ender"
+	},
+	"war-goblin-slayer": {
+		"name": "War Goblin Slayer"
+	},
+	"war-mongerer": {
+		"name": "War Mongerer"
+	},
+	"warender": {
+		"name": "Warender"
+	},
+	"warephant-slayer": {
+		"name": "Warephant Slayer"
+	},
+	"warmaker-spider-slayer": {
+		"name": "Warmaker Spider Slayer"
+	},
+	"watcher-slayer": {
+		"name": "Watcher Slayer"
+	},
+	"water-cow-slayer": {
+		"name": "Water Cow Slayer"
+	},
+	"water-faerie-slayer": {
+		"name": "Water Faerie Slayer"
+	},
+	"water-guardian": {
+		"name": "Water Guardian"
+	},
+	"water-wisp-slayer": {
+		"name": "Water Wisp Slayer"
+	},
+	"watuman-slayer": {
+		"name": "Watuman Slayer"
+	},
+	"weapon-instructor": {
+		"name": "Weapon Instructor"
+	},
+	"weapon-skill-trainer": {
+		"name": "Weapon Skill Trainer"
+	},
+	"weapon-style-trainer": {
+		"name": "Weapon Style Trainer"
+	},
+	"weaver-slayer": {
+		"name": "Weaver Slayer"
+	},
+	"werewolf-slayer": {
+		"name": "Werewolf Slayer"
+	},
+	"westervale-family": {
+		"name": "Westervale Family"
+	},
+	"whelp-slayer": {
+		"name": "Whelp Slayer"
+	},
+	"white-tiger-chaser": {
+		"name": "White Tiger Chaser"
+	},
+	"white-tiger-slayer": {
+		"name": "White Tiger Slayer"
+	},
+	"whitefang-slayer": {
+		"name": "Whitefang Slayer"
+	},
+	"wife-of-historian-elwick": {
+		"name": "Wife of Historian Elwick"
+	},
+	"wighte-slayer": {
+		"name": "Wighte Slayer"
+	},
+	"winter-elf-army": {
+		"name": "Winter Elf Army"
+	},
+	"winter-elf-slayer": {
+		"name": "Winter Elf Slayer"
+	},
+	"winter-parcel-service": {
+		"name": "Winter Parcel Service"
+	},
+	"wintersvale-associate": {
+		"name": "Wintersvale Associate"
+	},
+	"wintersvale-owner": {
+		"name": "Wintersvale Owner"
+	},
+	"wisp-slayer": {
+		"name": "Wisp Slayer"
+	},
+	"witche-lord-slayer": {
+		"name": "Witche Lord Slayer"
+	},
+	"witche-slayer": {
+		"name": "Witche Slayer"
+	},
+	"witches-bat-slayer": {
+		"name": "Witches Bat Slayer"
+	},
+	"witches-black-cat-slayer": {
+		"name": "Witches Black Cat Slayer"
+	},
+	"witches-newt-slayer": {
+		"name": "Witches Newt Slayer"
+	},
+	"witches-toad-slayer": {
+		"name": "Witches Toad Slayer"
+	},
+	"witchs-assistant": {
+		"name": "Witch`s Assistant"
+	},
+	"wizard-in-training": {
+		"name": "Wizard in Training"
+	},
+	"wizard-trainer": {
+		"name": "Wizard Trainer"
+	},
+	"wizards-assistant": {
+		"name": "Wizard`s Assistant"
+	},
+	"wolf-slayer": {
+		"name": "Wolf Slayer"
+	},
+	"woode-slayer": {
+		"name": "Woode Slayer"
+	},
+	"world-explorer": {
+		"name": "World Explorer"
+	},
+	"world-mapper": {
+		"name": "World Mapper"
+	},
+	"wraith-slayer": {
+		"name": "Wraith Slayer"
+	},
+	"wretch-slayer": {
+		"name": "Wretch Slayer"
+	},
+	"wurm-ribbed-armorer": {
+		"name": "Wurm ribbed Armorer"
+	},
+	"wurmhide-armorer": {
+		"name": "Wurmhide Armorer"
+	},
+	"wyvern-slayer": {
+		"name": "Wyvern Slayer"
+	},
+	"yak-slayer": {
+		"name": "Yak Slayer"
+	},
+	"young-weaver-slayer": {
+		"name": "Young Weaver Slayer"
+	},
+	"zombie-slayer": {
+		"name": "Zombie Slayer"
+	}
 }

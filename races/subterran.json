@@ -1,18 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Subterran"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "subterran",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["subf1"],
 		"M": ["subm1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"earth-resistance": 5,
+		"fire-resistance": 5,
+		"fire-survival": 5
 	}
 }

@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Dark Dwarf"
-	},
+	"$type": "/v1/race",
+	"classification": "humanoid",
+	"id": "dark-dwarf",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["ddf"],
 		"M": ["ddm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"blacksmithing": 5,
+		"fire-survival": 5
 	}
 }

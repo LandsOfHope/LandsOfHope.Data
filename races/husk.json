@@ -1,0 +1,23 @@
+{
+	"$type": "/v1/race",
+	"classification": "demon",
+	"id": "husk",
+	"lootMaterial": "hide",
+	"pics": {
+		"F": ["ld2"],
+		"M": ["ld1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
+	}
+}

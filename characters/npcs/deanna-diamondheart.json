@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "diadragon",
+		"level": {
+			"primary": 1
+		},
+		"name": "Deanna Diamondheart",
+		"sex": "F",
+		"title": "diamond-flight-leader"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

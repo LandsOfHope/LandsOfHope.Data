@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "smf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Verinia Earthcaller",
+		"sex": "F",
+		"title": "wizard-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

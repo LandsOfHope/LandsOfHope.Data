@@ -1,0 +1,87 @@
+{
+	"bone": {
+		"desc": "Take Bone",
+		"name": "De-bone",
+		"success": "{{actor}} yanks a rib bone out of {{target}} and starts to clean it up it will take {{time}} seconds to finish."
+	},
+	"brain": {
+		"desc": "Take Brain",
+		"name": "Brain",
+		"success": "{{actor}} viciously opens {{target}}'s skull and begins to remove the brain it will take {{time}} seconds to finish."
+	},
+	"cookies": {
+		"desc": "Make cookies",
+		"name": "Cookies",
+		"success": "{{actor}} gently removes cookie dough from {{target}} and starts to bake it, it will take {{time}} seconds to finish."
+	},
+	"egg": {
+		"desc": "Gather Eggs",
+		"name": "Gather",
+		"success": "{{actor}} hunts around for {{target}}'s eggs it will take {{time}} seconds to find them."
+	},
+	"feather": {
+		"desc": "Pluck Feathers",
+		"name": "Pluck",
+		"success": "{{actor}} starts to pluck {{target}} it will take {{time}} seconds to finish."
+	},
+	"fiber": {
+		"desc": "Take Fiber",
+		"name": "Prune",
+		"success": "{{actor}} gathers the fiber of {{target}} it will take {{time}} seconds to finish."
+	},
+	"fillet": {
+		"desc": "Take Fish Fillet",
+		"name": "Butcher",
+		"success": "{{actor}} whacks  {{target}} over the head and cuts it up, it will take {{time}} seconds to finish."
+	},
+	"flesh": {
+		"desc": "Take Flesh",
+		"name": "Flesh",
+		"success": "{{actor}} carves off a piece of {{target}}'s flesh it will take {{time}} seconds to finish."
+	},
+	"heart": {
+		"desc": "Take Heart",
+		"name": "Heart",
+		"success": "{{actor}} viciously opens {{target}}'s rib cage and begins to remove the heart it will take {{time}} seconds to finish."
+	},
+	"hide": {
+		"desc": "Skin Hide",
+		"name": "Shear",
+		"success": "{{actor}} starts to shear {{target}} it will take {{time}} seconds to finish."
+	},
+	"meat": {
+		"desc": "Take Meat",
+		"name": "Butcher",
+		"success": "{{actor}} humanely slaughters {{target}} and starts to cut it up it will take {{time}} seconds to finish."
+	},
+	"milk": {
+		"desc": "Take Milk",
+		"name": "Milk",
+		"success": "{{actor}} starts to milk {{target}} it will take {{time}} seconds to finish."
+	},
+	"organs": {
+		"desc": "Take Organs",
+		"name": "Eviscerate",
+		"success": "{{actor}} humanely slaughters {{target}} and starts to harvest its organs it will take {{time}} seconds to finish."
+	},
+	"scale": {
+		"desc": "Take Scales",
+		"name": "Descale",
+		"success": "{{actor}} gathers the scales of {{target}}'s and processes them it will take {{time}} seconds to finish."
+	},
+	"silk": {
+		"desc": "Take Thread",
+		"name": "Thread",
+		"success": "{{actor}} gathers the web of {{target}} and processes it into fine silk it will take {{time}} seconds to finish."
+	},
+	"skin": {
+		"desc": "Take Skin",
+		"name": "Skin",
+		"success": "{{actor}} starts to skin {{target}} it will take {{time}} seconds to finish."
+	},
+	"skull": {
+		"desc": "Take Skull",
+		"name": "De-skull",
+		"success": "{{actor}} firmly removes {{target}}'s skull and starts to clean it up it will take {{time}} seconds to finish."
+	}
+}

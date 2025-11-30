@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "jwcb",
+		"level": {
+			"primary": 1
+		},
+		"name": "Clem Bloodclamp",
+		"sex": "M",
+		"title": "camp-healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

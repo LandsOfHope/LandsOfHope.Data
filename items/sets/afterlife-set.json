@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "red",
 	"id": "afterlife-set",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"afterlife-boots",
 		"afterlife-chestplate",
@@ -11,8 +11,11 @@
 		"afterlife-gauntlets"
 	],
 	"spells": {
-		"0": {
-			"0": "afterlife-alterations"
-		}
+		"neutral": [
+			{
+				"level": 0,
+				"spell": "gm-magic/afterlife-alterations"
+			}
+		]
 	}
 }

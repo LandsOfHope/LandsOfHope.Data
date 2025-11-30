@@ -15,10 +15,6 @@
 				},
 				"name": "World",
 				"sex": "F",
-				"status": {
-					"dead": false,
-					"jailed": false
-				},
 				"title": "fighter"
 			},
 			"participant": "chatpartid_WORLD_PARTICIPANT_ID",
@@ -44,13 +40,9 @@
 			},
 			"name": "Test",
 			"sex": "M",
-			"status": {
-				"dead": false,
-				"jailed": false
-			},
 			"title": "rogue"
 		},
-		"color": "ffffff",
+		"color": "#ffffff",
 		"id": "chatpartid_TEST_PARTICIPANT_ID"
 	},
 	"sent": "2023-09-19T19:29:32Z",

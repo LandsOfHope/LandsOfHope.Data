@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "ws1",
+		"level": {
+			"primary": 1
+		},
+		"name": "Xraz Midazzle",
+		"sex": "F",
+		"title": "fortress-forewisp"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

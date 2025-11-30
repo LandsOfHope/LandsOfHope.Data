@@ -1,17 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": "In the darkness it dwells."
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Dark Dweller"
-	},
+	"$type": "/v1/race",
+	"classification": "afterlife",
+	"id": "dark-dweller",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["mjpdark"]
+		"F": ["mjpdark"],
+		"M": ["mjpdark"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"dual-wielding": 5,
+		"mining": 5,
+		"stringed-defense": 5
 	}
 }

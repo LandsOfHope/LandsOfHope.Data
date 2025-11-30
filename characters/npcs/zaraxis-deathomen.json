@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mphwm",
+		"level": {
+			"primary": 600
+		},
+		"name": "Zaraxis Deathomen",
+		"sex": "M",
+		"title": "demonic-summoner"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

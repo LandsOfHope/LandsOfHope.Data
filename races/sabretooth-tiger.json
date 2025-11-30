@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": "Growing up to eight feet long, and close to nine hundred pounds, the sabretooth tiger is a dangerous predator. Their two prominent canines, more like daggers then teeth, can grow up to nearly a foot long and combined with their jaw strength, can pierce most non metallic armors. They are powerfully built, and if tamed can even support heavy riders."
-	},
-	"desc": {
-		"en": "One of the few mammals that have survived in Juratania. These large cats are master hunters. Their pack society can take down even the most stubborn of prey. The Eversight Expedition keeps constant watch for ambushes from these large cats."
-	},
-	"hist": {
-		"en": "Records of the Three Glaciers area tell that these predators still roamed those icy plains only a few thousand years before. The ones discovered in Juratania by the Eversight expedition didn't have the thick fur of their cousins, it thinning in the tropical climate."
-	},
-	"name": {
-		"en": "Sabretooth Tiger"
-	},
+	"$type": "/v1/race",
+	"classification": "beast",
+	"id": "sabretooth-tiger",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["stf"],
 		"M": ["stm"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"water-survival": 5
 	}
 }

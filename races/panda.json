@@ -1,17 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Panda"
-	},
+	"$type": "/v1/race",
+	"classification": "cutey",
+	"id": "panda",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["panda"]
+		"F": ["panda"],
+		"M": ["panda"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"bludgeon-defense": 5,
+		"dual-wielding": 5,
+		"lumberjacking": 5
 	}
 }

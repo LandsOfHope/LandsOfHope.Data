@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "gold",
 	"id": "tinman-set",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"blank-tinman-shoulders",
 		"blank-tinman-arms",
@@ -14,8 +14,11 @@
 		"blank-tinman-legs"
 	],
 	"spells": {
-		"0": {
-			"0": "tinmans-blessing"
-		}
+		"neutral": [
+			{
+				"level": 0,
+				"spell": "gm-magic/tinmans-blessing"
+			}
+		]
 	}
 }

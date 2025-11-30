@@ -1,0 +1,18 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/skills/caring/caring-action.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/skills/caring/caring-action"
+		},
+		"fatal": {
+			"type": "boolean"
+		},
+		"item": {
+			"$ref": "/schemas/v1/items-id.gen.json"
+		}
+	},
+	"required": ["$type", "fatal", "item"],
+	"title": "CaringAction",
+	"type": "object"
+}

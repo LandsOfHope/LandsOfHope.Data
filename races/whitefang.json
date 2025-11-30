@@ -1,17 +1,26 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Whitefang"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "whitefang",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["whitefang"]
+		"F": ["whitefang"],
+		"M": ["whitefang"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 2,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cold-magic": 5,
+		"cold-resistance": 5,
+		"cold-survival": 5
 	}
 }

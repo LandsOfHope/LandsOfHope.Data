@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "dkm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Vanrek Windrider",
+		"sex": "M",
+		"title": "dragonkin-quartermaster"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

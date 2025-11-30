@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "crabby-shirtmaker"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "gem",
@@ -14,10 +9,10 @@
 		},
 		"name": "Crabby Shirtmaker",
 		"sex": "M",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "tailor"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

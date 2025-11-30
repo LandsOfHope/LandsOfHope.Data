@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Spectral Snow Cat"
-	},
+	"$type": "/v1/race",
+	"classification": "beast",
+	"id": "spectral-snow-cat",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mjpscw"],
-		"M": ["mjpscw3"]
+		"M": ["mjpscw3"],
+		"U": ["mjpscw2"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 2,
+		"STRENGTH": 1
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5
 	}
 }

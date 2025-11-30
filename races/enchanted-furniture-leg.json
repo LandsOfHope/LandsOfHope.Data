@@ -1,17 +1,22 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Enchanted Furniture Leg"
-	},
+	"$type": "/v1/race",
+	"classification": "massive-foe",
+	"id": "enchanted-furniture-leg",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["mjplolcl"]
+		"F": ["mjplolcl"],
+		"M": ["mjplolcl"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"water-survival": 5
 	}
 }

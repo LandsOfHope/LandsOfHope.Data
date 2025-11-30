@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "sa2",
+		"level": {
+			"primary": 1
+		},
+		"name": "Dummy Aimedsight",
+		"sex": "F",
+		"title": "large-guns-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "gilinydd-piemaker"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hum",
@@ -14,10 +9,10 @@
 		},
 		"name": "Gilinydd Piemaker",
 		"sex": "M",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "cook"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 800
+		},
+		"name": "Durk Kilkirk",
+		"sex": "M",
+		"title": "instruments-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,5 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/settings/character-emote-level-setting.json",
+	"enum": ["off", "standard", "advanced"],
+	"title": "CharacterEmoteLevelSetting"
+}

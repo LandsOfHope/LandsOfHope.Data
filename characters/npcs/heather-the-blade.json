@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "pirate9",
+		"level": {
+			"primary": 1
+		},
+		"name": "Heather the Blade",
+		"sex": "F",
+		"title": "weapon-skill-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

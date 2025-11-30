@@ -1,18 +1,24 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Moorlank"
-	},
+	"$type": "/v1/race",
+	"classification": "humanoid",
+	"id": "moorlank",
 	"pics": {
 		"F": ["mof"],
 		"M": ["mom"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"water-resistance": 5,
+		"water-survival": 5
 	}
 }

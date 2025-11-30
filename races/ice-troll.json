@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": "Ice Trolls have skin of varying shades of blue.  Quick and agile warriors, they show no fear nor mercy as they race towards battle with ringing cries."
-	},
-	"desc": {
-		"en": "Ice Trolls live in the harshest climates of Myzan and seem to thrive on frozen tundra and snow.  Fearsome warriors, both male and female, they seem to spring from the ice itself when they fall on an enemy."
-	},
-	"hist": {
-		"en": "Rumor has it that the Ice Trolls sprang to life from magical ice long, long ago.  Little is really known about this race due to the fact that few other races can survive for long where they dwell."
-	},
-	"name": {
-		"en": "Ice Troll"
-	},
+	"$type": "/v1/race",
+	"classification": "humanoid",
+	"id": "ice-troll",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["il2"],
 		"M": ["il1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 2,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cold-resistance": 5,
+		"mystical-resistance": 5
 	}
 }

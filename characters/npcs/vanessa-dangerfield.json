@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "var",
+		"level": {
+			"primary": 440
+		},
+		"name": "Vanessa Dangerfield",
+		"sex": "F",
+		"title": "village-elder"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

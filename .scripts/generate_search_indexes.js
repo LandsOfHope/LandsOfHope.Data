@@ -1,23 +1,28 @@
-const util = require("util");
-const glob = require("glob");
-const fs = require("fs");
-const path = require("path");
-const readFileAsync = util.promisify(fs.readFile);
-const writeFileAsync = util.promisify(fs.writeFile);
+import { readFile, writeFile } from "node:fs";
+import { basename, join } from "node:path";
+import { promisify } from "node:util";
+import { sync } from "glob";
+
+const readFileAsync = promisify(readFile);
+const writeFileAsync = promisify(writeFile);
 
 const makeMaterialsSearchIndex = async () => {
-	const locales = glob.sync("./locales/*");
+	const locales = sync("./locales/*");
 
 	for (const locale of locales) {
-		const localeName = path.basename(locale);
+		const localeName = basename(locale);
 
-		const elasticlunr = require("elasticlunr");
-		require("lunr-languages/lunr.stemmer.support.js")(elasticlunr);
+		const elasticlunr = (await import("elasticlunr")).default;
+		const stemmer = (await import("lunr-languages/lunr.stemmer.support.js"))
+			.default;
+		stemmer(elasticlunr);
 		if (localeName !== "en") {
-			require(`lunr-languages/lunr.${localeName}.js`)(elasticlunr);
+			const langStemmer = (await import(`lunr-languages/lunr.${localeName}.js`))
+				.default;
+			langStemmer(elasticlunr);
 		}
 
-		const materials = await readFileAsync(path.join(locale, "materials.json"));
+		const materials = await readFileAsync(join(locale, "materials.json"));
 		const index = elasticlunr(function () {
 			if (localeName !== "en") {
 				this.use(elasticlunr[localeName]);
@@ -40,30 +45,30 @@ const makeMaterialsSearchIndex = async () => {
 		}
 
 		await writeFileAsync(
-			path.join(locale, "search.materials.index.gen.json"),
+			join(locale, "search.materials.index.gen.json"),
 			JSON.stringify(index.toJSON()),
 		);
 	}
 };
 
 const makeRecipesSearchIndex = async () => {
-	const locales = glob.sync("./locales/*");
+	const locales = sync("./locales/*");
 
 	for (const locale of locales) {
-		const localeName = path.basename(locale);
+		const localeName = basename(locale);
 
-		const elasticlunr = require("elasticlunr");
-		require("lunr-languages/lunr.stemmer.support.js")(elasticlunr);
+		const elasticlunr = (await import("elasticlunr")).default;
+		const stemmer = (await import("lunr-languages/lunr.stemmer.support.js"))
+			.default;
+		stemmer(elasticlunr);
 		if (localeName !== "en") {
-			require(`lunr-languages/lunr.${localeName}.js`)(elasticlunr);
+			const langStemmer = (await import(`lunr-languages/lunr.${localeName}.js`))
+				.default;
+			langStemmer(elasticlunr);
 		}
 
-		const recipes = await readFileAsync(
-			path.join(locale, "crafting-recipes.json"),
-		);
-		const skills = JSON.parse(
-			await readFileAsync(path.join(locale, "skills.json")),
-		);
+		const recipes = await readFileAsync(join(locale, "crafting-recipes.json"));
+		const skills = JSON.parse(await readFileAsync(join(locale, "skills.json")));
 
 		const index = elasticlunr(function () {
 			if (localeName !== "en") {
@@ -87,25 +92,29 @@ const makeRecipesSearchIndex = async () => {
 		}
 
 		writeFileAsync(
-			path.join(locale, "search.crafting-recipes.index.gen.json"),
+			join(locale, "search.crafting-recipes.index.gen.json"),
 			JSON.stringify(index.toJSON()),
 		);
 	}
 };
 
 const makeSkillsSearchIndex = async () => {
-	const locales = glob.sync("./locales/*");
+	const locales = sync("./locales/*");
 
 	for (const locale of locales) {
-		const localeName = path.basename(locale);
+		const localeName = basename(locale);
 
-		const elasticlunr = require("elasticlunr");
-		require("lunr-languages/lunr.stemmer.support.js")(elasticlunr);
+		const elasticlunr = (await import("elasticlunr")).default;
+		const stemmer = (await import("lunr-languages/lunr.stemmer.support.js"))
+			.default;
+		stemmer(elasticlunr);
 		if (localeName !== "en") {
-			require(`lunr-languages/lunr.${localeName}.js`)(elasticlunr);
+			const langStemmer = (await import(`lunr-languages/lunr.${localeName}.js`))
+				.default;
+			langStemmer(elasticlunr);
 		}
 
-		const skills = await readFileAsync(path.join(locale, "skills.json"));
+		const skills = await readFileAsync(join(locale, "skills.json"));
 		const index = elasticlunr(function () {
 			if (localeName !== "en") {
 				this.use(elasticlunr[localeName]);
@@ -128,27 +137,29 @@ const makeSkillsSearchIndex = async () => {
 		}
 
 		writeFileAsync(
-			path.join(locale, "search.skills.index.gen.json"),
+			join(locale, "search.skills.index.gen.json"),
 			JSON.stringify(index.toJSON()),
 		);
 	}
 };
 
 const makeProfessionsSearchIndex = async () => {
-	const locales = glob.sync("./locales/*");
+	const locales = sync("./locales/*");
 
 	for (const locale of locales) {
-		const localeName = path.basename(locale);
+		const localeName = basename(locale);
 
-		const elasticlunr = require("elasticlunr");
-		require("lunr-languages/lunr.stemmer.support.js")(elasticlunr);
+		const elasticlunr = (await import("elasticlunr")).default;
+		const stemmer = (await import("lunr-languages/lunr.stemmer.support.js"))
+			.default;
+		stemmer(elasticlunr);
 		if (localeName !== "en") {
-			require(`lunr-languages/lunr.${localeName}.js`)(elasticlunr);
+			const langStemmer = (await import(`lunr-languages/lunr.${localeName}.js`))
+				.default;
+			langStemmer(elasticlunr);
 		}
 
-		const professions = await readFileAsync(
-			path.join(locale, "professions.json"),
-		);
+		const professions = await readFileAsync(join(locale, "professions.json"));
 		const index = elasticlunr(function () {
 			if (localeName !== "en") {
 				this.use(elasticlunr[localeName]);
@@ -169,25 +180,29 @@ const makeProfessionsSearchIndex = async () => {
 		}
 
 		writeFileAsync(
-			path.join(locale, "search.professions.index.gen.json"),
+			join(locale, "search.professions.index.gen.json"),
 			JSON.stringify(index.toJSON()),
 		);
 	}
 };
 
 const makeItemsSearchIndex = async () => {
-	const locales = glob.sync("./locales/*");
+	const locales = sync("./locales/*");
 
 	for (const locale of locales) {
-		const localeName = path.basename(locale);
+		const localeName = basename(locale);
 
-		const elasticlunr = require("elasticlunr");
-		require("lunr-languages/lunr.stemmer.support.js")(elasticlunr);
+		const elasticlunr = (await import("elasticlunr")).default;
+		const stemmer = (await import("lunr-languages/lunr.stemmer.support.js"))
+			.default;
+		stemmer(elasticlunr);
 		if (localeName !== "en") {
-			require(`lunr-languages/lunr.${localeName}.js`)(elasticlunr);
+			const langStemmer = (await import(`lunr-languages/lunr.${localeName}.js`))
+				.default;
+			langStemmer(elasticlunr);
 		}
 
-		const items = await readFileAsync(path.join(locale, "items.json"));
+		const items = await readFileAsync(join(locale, "items.json"));
 		const index = elasticlunr(function () {
 			if (localeName !== "en") {
 				this.use(elasticlunr[localeName]);
@@ -206,25 +221,29 @@ const makeItemsSearchIndex = async () => {
 		}
 
 		writeFileAsync(
-			path.join(locale, "search.items.index.gen.json"),
+			join(locale, "search.items.index.gen.json"),
 			JSON.stringify(index.toJSON()),
 		);
 	}
 };
 
 const makeItemTypesSearchIndex = async () => {
-	const locales = glob.sync("./locales/*");
+	const locales = sync("./locales/*");
 
 	for (const locale of locales) {
-		const localeName = path.basename(locale);
+		const localeName = basename(locale);
 
-		const elasticlunr = require("elasticlunr");
-		require("lunr-languages/lunr.stemmer.support.js")(elasticlunr);
+		const elasticlunr = (await import("elasticlunr")).default;
+		const stemmer = (await import("lunr-languages/lunr.stemmer.support.js"))
+			.default;
+		stemmer(elasticlunr);
 		if (localeName !== "en") {
-			require(`lunr-languages/lunr.${localeName}.js`)(elasticlunr);
+			const langStemmer = (await import(`lunr-languages/lunr.${localeName}.js`))
+				.default;
+			langStemmer(elasticlunr);
 		}
 
-		const itemTypes = await readFileAsync(path.join(locale, "item-types.json"));
+		const itemTypes = await readFileAsync(join(locale, "item-types.json"));
 		const index = elasticlunr(function () {
 			if (localeName !== "en") {
 				this.use(elasticlunr[localeName]);
@@ -245,7 +264,7 @@ const makeItemTypesSearchIndex = async () => {
 		}
 
 		writeFileAsync(
-			path.join(locale, "search.item-types.index.gen.json"),
+			join(locale, "search.item-types.index.gen.json"),
 			JSON.stringify(index.toJSON()),
 		);
 	}

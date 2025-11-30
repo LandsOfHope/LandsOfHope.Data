@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "uwudj",
+		"level": {
+			"primary": 1
+		},
+		"name": "David Jones",
+		"sex": "M",
+		"title": "pet-dealer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

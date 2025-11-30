@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "pu2",
+		"level": {
+			"primary": 500
+		},
+		"name": "Ferilius Deathomen",
+		"sex": "F",
+		"title": "reaper-supplier"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

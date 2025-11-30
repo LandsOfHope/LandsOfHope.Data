@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "gold",
 	"id": "inventor-bolted-set",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"blank-bolted-shoulders",
 		"blank-bolted-arms",
@@ -14,17 +14,47 @@
 		"blank-bolted-legs"
 	],
 	"spells": {
-		"0": {
-			"10": "bolt-jolt-i",
-			"200": "bolt-jolt-ii",
-			"300": "bolt-jolt-iii",
-			"400": "bolt-jolt-iv",
-			"500": "bolt-jolt-v",
-			"600": "bolt-jolt-vi",
-			"700": "bolt-jolt-vii",
-			"800": "bolt-jolt-viii",
-			"900": "bolt-jolt-ix",
-			"1000": "bolt-jolt-x"
-		}
+		"neutral": [
+			{
+				"level": 10,
+				"spell": "gamemastery/bolt-jolt-i"
+			},
+			{
+				"level": 200,
+				"spell": "gamemastery/bolt-jolt-ii"
+			},
+			{
+				"level": 300,
+				"spell": "gamemastery/bolt-jolt-iii"
+			},
+			{
+				"level": 400,
+				"spell": "gamemastery/bolt-jolt-iv"
+			},
+			{
+				"level": 500,
+				"spell": "gamemastery/bolt-jolt-v"
+			},
+			{
+				"level": 600,
+				"spell": "gamemastery/bolt-jolt-vi"
+			},
+			{
+				"level": 700,
+				"spell": "gamemastery/bolt-jolt-vii"
+			},
+			{
+				"level": 800,
+				"spell": "gamemastery/bolt-jolt-viii"
+			},
+			{
+				"level": 900,
+				"spell": "gamemastery/bolt-jolt-ix"
+			},
+			{
+				"level": 1000,
+				"spell": "gamemastery/bolt-jolt-x"
+			}
+		]
 	}
 }

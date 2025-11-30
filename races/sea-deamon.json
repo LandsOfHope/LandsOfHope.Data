@@ -1,18 +1,25 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Sea Deamon"
-	},
+	"$type": "/v1/race",
+	"classification": "demon",
+	"id": "sea-deamon",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["se2"],
 		"M": ["se1"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"randomMaterial": "color",
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"water-resistance": 5
 	}
 }

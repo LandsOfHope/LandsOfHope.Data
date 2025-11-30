@@ -1,18 +1,28 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Spectral Horse"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "spectral-horse",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["shorsehp2"],
-		"M": ["shorse"]
+		"M": ["shorse"],
+		"U": ["shorseg"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"air-survival": 5,
+		"armor": 5,
+		"attack-power": 5,
+		"fire-survival": 5,
+		"fists": 5,
+		"hell-magic": 5
 	}
 }

@@ -1,0 +1,5 @@
+{
+	"$type": "/v1/characters/combat-script",
+	"profession": "undead-nuker",
+	"script": "CAST DAMAGE ON ANY FAIL BEGIN ATTACK END SUCEED NOTHING BEGIN"
+}

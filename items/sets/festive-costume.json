@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "green",
 	"id": "festive-costume",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"festive-costume-gloves",
 		"festive-costume-trousers",
@@ -12,8 +12,11 @@
 		"festive-costume-belt"
 	],
 	"spells": {
-		"0": {
-			"0": "festive-glow"
-		}
+		"neutral": [
+			{
+				"level": 0,
+				"spell": "gamemastery/festive-glow"
+			}
+		]
 	}
 }

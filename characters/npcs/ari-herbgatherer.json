@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "ari-herbgatherer"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "pim",
@@ -14,10 +9,10 @@
 		},
 		"name": "Ari Herbgatherer",
 		"sex": "M",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "alchemist"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

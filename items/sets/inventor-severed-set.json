@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "gold",
 	"id": "inventor-severed-set",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"blank-severed-shoulders",
 		"blank-severed-arms",
@@ -14,17 +14,47 @@
 		"blank-severed-legs"
 	],
 	"spells": {
-		"0": {
-			"10": "severance-package-i",
-			"200": "severance-package-ii",
-			"300": "severance-package-iii",
-			"400": "severance-package-iv",
-			"500": "severance-package-v",
-			"600": "severance-package-vi",
-			"700": "severance-package-vii",
-			"800": "severance-package-viii",
-			"900": "severance-package-ix",
-			"1000": "severance-package-x"
-		}
+		"neutral": [
+			{
+				"level": 10,
+				"spell": "gamemastery/severance-package-i"
+			},
+			{
+				"level": 200,
+				"spell": "gamemastery/severance-package-ii"
+			},
+			{
+				"level": 300,
+				"spell": "gamemastery/severance-package-iii"
+			},
+			{
+				"level": 400,
+				"spell": "gamemastery/severance-package-iv"
+			},
+			{
+				"level": 500,
+				"spell": "gamemastery/severance-package-v"
+			},
+			{
+				"level": 600,
+				"spell": "gamemastery/severance-package-vi"
+			},
+			{
+				"level": 700,
+				"spell": "gamemastery/severance-package-vii"
+			},
+			{
+				"level": 800,
+				"spell": "gamemastery/severance-package-viii"
+			},
+			{
+				"level": 900,
+				"spell": "gamemastery/severance-package-ix"
+			},
+			{
+				"level": 1000,
+				"spell": "gamemastery/severance-package-x"
+			}
+		]
 	}
 }

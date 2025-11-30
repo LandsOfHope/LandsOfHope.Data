@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "uwujw",
+		"level": {
+			"primary": 10
+		},
+		"name": "Judy Wit",
+		"sex": "F",
+		"title": "level-10-goods"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

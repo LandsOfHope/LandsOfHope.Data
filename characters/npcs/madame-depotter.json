@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjptempf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Madame Depotter",
+		"sex": "F",
+		"title": "lifestream-researcher"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

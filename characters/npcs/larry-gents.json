@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 1
+		},
+		"name": "Larry Gents",
+		"sex": "M",
+		"title": "peasant"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "jwdd",
+		"level": {
+			"primary": 1
+		},
+		"name": "Derwayne Deathstaller",
+		"sex": "M",
+		"title": "camp-healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hrf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Kirrel Polestrike",
+		"sex": "F",
+		"title": "pole-weapons-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

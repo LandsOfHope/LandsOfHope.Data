@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "fcleric",
+		"level": {
+			"primary": 1
+		},
+		"name": "Fleur Florentine",
+		"sex": "F",
+		"title": "florist"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

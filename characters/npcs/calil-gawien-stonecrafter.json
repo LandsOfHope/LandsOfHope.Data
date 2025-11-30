@@ -1,11 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": {
-		"talk": {
-			"$type": "/v1/characters/actions/character-action-buy-recipes",
-			"id": "calil-gawien-stonecrafter"
-		}
-	},
+	"actions": ["talk", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "elf",
@@ -14,10 +9,10 @@
 		},
 		"name": "Calil-Gawien Stonecrafter",
 		"sex": "F",
-		"status": {
-			"dead": false,
-			"jailed": false
-		},
 		"title": "stonemason"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
 	}
 }

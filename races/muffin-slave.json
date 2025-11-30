@@ -1,17 +1,22 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": ""
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Muffin Slave"
-	},
+	"$type": "/v1/race",
+	"classification": "massive-foe",
+	"id": "muffin-slave",
+	"lootMaterial": "hide",
 	"pics": {
-		"U": ["mjplolmuf"]
+		"F": ["mjplolmuf"],
+		"M": ["mjplolmuf"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 1
+	},
+	"skills": {
+		"water-survival": 5
 	}
 }

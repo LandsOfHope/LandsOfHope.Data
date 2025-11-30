@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "gempax",
+		"level": {
+			"primary": 1
+		},
+		"name": "Minister Gem Pax",
+		"sex": "F",
+		"title": "council-of-truth-leader"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

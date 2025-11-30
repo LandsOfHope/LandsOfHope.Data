@@ -2,7 +2,7 @@
 	"$type": "/v1/items/set",
 	"color": "gold",
 	"id": "inventor-basic-set",
-	"image": "na.gif",
+	"image": "na",
 	"items": [
 		"blank-shoulder-straps",
 		"blank-sleeve-coverings",
@@ -14,17 +14,47 @@
 		"blank-leg-armor"
 	],
 	"spells": {
-		"0": {
-			"10": "inventor-i",
-			"200": "inventor-ii",
-			"300": "inventor-iii",
-			"400": "inventor-iv",
-			"500": "inventor-v",
-			"600": "inventor-vi",
-			"700": "inventor-vii",
-			"800": "inventor-viii",
-			"900": "inventor-ix",
-			"1000": "inventor-x"
-		}
+		"neutral": [
+			{
+				"level": 10,
+				"spell": "gamemastery/inventor-i"
+			},
+			{
+				"level": 200,
+				"spell": "gamemastery/inventor-ii"
+			},
+			{
+				"level": 300,
+				"spell": "gamemastery/inventor-iii"
+			},
+			{
+				"level": 400,
+				"spell": "gamemastery/inventor-iv"
+			},
+			{
+				"level": 500,
+				"spell": "gamemastery/inventor-v"
+			},
+			{
+				"level": 600,
+				"spell": "gamemastery/inventor-vi"
+			},
+			{
+				"level": 700,
+				"spell": "gamemastery/inventor-vii"
+			},
+			{
+				"level": 800,
+				"spell": "gamemastery/inventor-viii"
+			},
+			{
+				"level": 900,
+				"spell": "gamemastery/inventor-ix"
+			},
+			{
+				"level": 1000,
+				"spell": "gamemastery/inventor-x"
+			}
+		]
 	}
 }

@@ -1,0 +1,57 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/items/set.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/items/set"
+		},
+		"color": {
+			"$ref": "/schemas/v1/color.json"
+		},
+		"id": {
+			"$ref": "/schemas/v1/items-sets-id.gen.json"
+		},
+		"image": {
+			"$ref": "/schemas/v1/items-images-id.gen.json"
+		},
+		"items": {
+			"items": {
+				"$ref": "/schemas/v1/items-id.gen.json"
+			},
+			"minItems": 1,
+			"type": "array",
+			"uniqueItems": true
+		},
+		"spells": {
+			"additionalProperties": true,
+			"patternProperties": {
+				".*": {
+					"items": {
+						"properties": {
+							"level": {
+								"maximum": 1000,
+								"minimum": 0,
+								"type": "integer"
+							},
+							"spell": {
+								"$ref": "/schemas/v1/skills-spells-id.gen.json"
+							}
+						},
+						"required": ["level", "spell"],
+						"type": "object"
+					},
+					"minItems": 1,
+					"type": "array"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/allegiances-id.gen.json"
+			},
+			"required": [],
+			"type": "object"
+		}
+	},
+	"required": ["$type", "id", "color", "image", "items"],
+	"title": "ItemSet",
+	"type": "object"
+}

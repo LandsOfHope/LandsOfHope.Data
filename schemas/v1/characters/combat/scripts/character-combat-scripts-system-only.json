@@ -1,0 +1,24 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/combat/scripts/character-combat-scripts-system-only.json",
+	"allOf": [
+		{
+			"enum": [
+				"devourer-might",
+				"animal",
+				"conjurer",
+				"devourer-magic",
+				"healer",
+				"forager",
+				"nobleman",
+				"devourer-cookie",
+				"guardian-ep",
+				"champion-ep",
+				"undead-nuker"
+			]
+		},
+		{
+			"$ref": "/schemas/v1/characters-combat-scripts-id.gen.json"
+		}
+	],
+	"title": "SystemOnlyCombatScript"
+}

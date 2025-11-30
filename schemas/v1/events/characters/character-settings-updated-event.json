@@ -1,0 +1,21 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/character-settings-updated-event.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/events/characters/character-settings-updated-event"
+		},
+		"character": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"new": {
+			"$ref": "/schemas/v1/characters/settings/character-settings.json"
+		},
+		"old": {
+			"$ref": "/schemas/v1/characters/settings/character-settings.json"
+		}
+	},
+	"required": ["$type", "character", "new"],
+	"title": "CharacterSettingsUpdatedEvent",
+	"type": "object"
+}

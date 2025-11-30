@@ -1,18 +1,24 @@
 {
-	"appr": {
-		"en": ""
-	},
-	"desc": {
-		"en": "A Drow doppleganger."
-	},
-	"hist": {
-		"en": ""
-	},
-	"name": {
-		"en": "Doppleganger"
-	},
+	"$type": "/v1/race",
+	"classification": "afterlife",
+	"id": "doppleganger",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["mpmaqf"],
 		"M": ["mpmaqm"]
+	},
+	"properties": {
+		"DEXTERITY": 2,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
+		"MAXSTAMINA": 2,
+		"SPEED": 2,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"dual-wielding": 5
 	}
 }

@@ -10,13 +10,9 @@
 			},
 			"name": "Test",
 			"sex": "M",
-			"status": {
-				"dead": false,
-				"jailed": false
-			},
 			"title": "rogue"
 		},
-		"color": "ffffff",
+		"color": "#ffffff",
 		"id": "chatpartid_TEST_PARTICIPANT_ID"
 	},
 	"room": "CHAT_ROOM_ID",

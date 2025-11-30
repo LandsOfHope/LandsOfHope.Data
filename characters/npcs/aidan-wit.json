@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 950
+		},
+		"name": "Aidan Wit",
+		"sex": "M",
+		"title": "level-950-goods"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "wfm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Clodulus the Mauler",
+		"sex": "M",
+		"title": "large-maces-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

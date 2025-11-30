@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "tde",
+		"level": {
+			"primary": 5
+		},
+		"name": "Chef Chip",
+		"sex": "M",
+		"title": "cookiemaster"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "uwsg",
+		"level": {
+			"primary": 1
+		},
+		"name": "Hydrania",
+		"sex": "F",
+		"title": "goddess-of-the-sea"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

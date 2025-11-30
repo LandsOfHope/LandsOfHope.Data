@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "pim",
+		"level": {
+			"primary": 1
+		},
+		"name": "Leetle Shadowkeeper",
+		"sex": "M",
+		"title": "shadow-strike-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

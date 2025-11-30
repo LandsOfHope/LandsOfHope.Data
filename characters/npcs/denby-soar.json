@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "irelm1",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Denby Soar",
+		"sex": "M",
+		"title": "irellian-restorer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

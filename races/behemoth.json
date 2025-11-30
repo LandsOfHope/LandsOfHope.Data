@@ -1,18 +1,26 @@
 {
-	"appr": {
-		"en": "They are like normal swine except much, much larger. Their tusks are very sharp and can easily gore most creatures. The bristly hair along their hide keeps them quite warm, and because of this, many have been tamed for this purpose by caravans as a portable heat source in the coldest regions of Myzan."
-	},
-	"desc": {
-		"en": "The Mythical Behemoth has always been revered as a god to the demi-humens of Myzan, its shear size and power making it quite menacing to those who encounter it. The only known habitat for the behemoth is in Barren Downs and are notoriously hard to control."
-	},
-	"hist": {
-		"en": "Behemoths have always been myths until a royal zoologist encountered one in the Barren Down region as he was probing the local demi-humen tribes for information on the local wildlife. The local tribes revered it as a god, but also ritually hunted it, saying consuming its meat helped them commune with the rest of their gods."
-	},
-	"name": {
-		"en": "Behemoth"
-	},
+	"$type": "/v1/race",
+	"classification": "mythical",
+	"id": "behemoth",
+	"lootMaterial": "hide",
 	"pics": {
 		"F": ["be1"],
 		"M": ["be2"]
+	},
+	"properties": {
+		"DEXTERITY": 1,
+		"INTELLIGENCE": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 1,
+		"MAXSTAMINA": 1,
+		"SPEED": 1,
+		"STRENGTH": 2
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cold-survival": 5,
+		"fists": 5,
+		"water-survival": 5
 	}
 }

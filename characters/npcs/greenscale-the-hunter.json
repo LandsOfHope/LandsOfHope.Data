@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "gof",
+		"level": {
+			"primary": 1
+		},
+		"name": "Greenscale the Hunter",
+		"sex": "F",
+		"title": "stringed-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

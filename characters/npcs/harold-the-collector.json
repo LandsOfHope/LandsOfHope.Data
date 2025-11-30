@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 400
+		},
+		"name": "Harold the Collector",
+		"sex": "M",
+		"title": "guild-trophy-collector"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

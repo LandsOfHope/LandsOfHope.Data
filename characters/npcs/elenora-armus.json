@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "jwea",
+		"level": {
+			"primary": 1
+		},
+		"name": "Elenora Armus",
+		"sex": "F",
+		"title": "eversight-healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

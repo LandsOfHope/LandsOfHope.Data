@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "ddm",
+		"level": {
+			"primary": 1
+		},
+		"name": "Hunder Boltpain",
+		"sex": "M",
+		"title": "legendary-ranged-seller"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

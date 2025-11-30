@@ -1,0 +1,5 @@
+{
+	"$type": "/v1/characters/combat-script",
+	"profession": "paladin",
+	"script": "IF ROUNDS < 1 { CAST SHIELD ON ANY FAIL BEGIN ATTACK END SUCEED BEGIN NOTHING END } ELSE IF HP > 20 { ATTACK } ELSE IF HP < 20 { USE HEAL ON ANY FAIL BEGIN ATTACK SUCEED BEGIN NOTHING END } ELSE { ATTACK ANY }"
+}

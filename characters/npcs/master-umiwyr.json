@@ -1,0 +1,18 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "pirate5",
+		"level": {
+			"primary": 1
+		},
+		"name": "Master Umiwyr",
+		"sex": "M",
+		"title": "port-master"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

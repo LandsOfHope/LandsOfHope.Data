@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "asim1",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Historian Mong",
+		"sex": "M",
+		"title": "allegiance-historian"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}
