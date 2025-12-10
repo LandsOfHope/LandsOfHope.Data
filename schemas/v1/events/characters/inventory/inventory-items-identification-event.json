@@ -1,8 +1,8 @@
 {
-	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/inventory/inventory-items-identification-updated-event.json",
+	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/inventory/inventory-items-identification-event.json",
 	"properties": {
 		"$type": {
-			"const": "/v1/events/characters/inventory/inventory-items-identification-updated-event"
+			"const": "/v1/events/characters/inventory/inventory-items-identification-event"
 		},
 		"character": {
 			"$ref": "/schemas/v1/characters/character-id.json"
@@ -20,6 +20,6 @@
 		}
 	},
 	"required": ["$type", "character", "updated"],
-	"title": "InventoryItemsIdentifiedEvent",
+	"title": "InventoryItemsIdentificationEvent",
 	"type": "object"
 }
