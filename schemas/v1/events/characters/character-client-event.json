@@ -23,6 +23,9 @@
 			"$ref": "/schemas/v1/events/characters/inventory/inventory-currency-updated-event.json"
 		},
 		{
+			"$ref": "/schemas/v1/events/characters/inventory/inventory-items-identified-event.json"
+		},
+		{
 			"$ref": "/schemas/v1/events/characters/character-settings-updated-event.json"
 		},
 		{
