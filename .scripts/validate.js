@@ -74,6 +74,12 @@ const schemasWithOptionalTypeSpecifier = [
 	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-name-contains-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-level-range-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-account-condition.json",
+
+	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-and-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-or-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-level-range-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-item-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-inventory-item-id-condition.json",
 ];
 
 const validate = async (schema, file) => {
@@ -420,6 +426,13 @@ const main = async () =>
 		validateTestData("v1/payments/credits/credit-history-support-adjustment"),
 
 		validateTestData("v1/characters/inventory/inventory-item-list"),
+
+		validateTestData(
+			"v1/characters/inventory/search/inventory-search-condition",
+		),
+		validateNegativeTestData(
+			"v1/characters/inventory/search/inventory-search-condition",
+		),
 
 		checkSchemaTypes(),
 

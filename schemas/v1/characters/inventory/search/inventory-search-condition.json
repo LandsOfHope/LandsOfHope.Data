@@ -1,0 +1,22 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-condition.json",
+	"oneOf": [
+		{
+			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-and-condition.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-or-condition.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-level-range-condition.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-item-condition.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-inventory-item-id-condition.json"
+		}
+	],
+	"title": "InventorySearchCondition",
+	"type": "object"
+}

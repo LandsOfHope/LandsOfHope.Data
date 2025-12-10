@@ -1,0 +1,16 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-or-condition.json",
+	"additionalProperties": false,
+	"properties": {
+		"or": {
+			"items": {
+				"$ref": "/schemas/v1/characters/inventory/search/inventory-search-condition.json"
+			},
+			"minItems": 2,
+			"type": "array"
+		}
+	},
+	"required": ["or"],
+	"title": "InventorySearchOrCondition",
+	"type": "object"
+}

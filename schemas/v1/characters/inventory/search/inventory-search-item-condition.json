@@ -1,0 +1,25 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-item-condition.json",
+	"additionalProperties": false,
+	"properties": {
+		"item": {
+			"additionalProperties": false,
+			"minProperties": 1,
+			"properties": {
+				"armorType": {
+					"$ref": "/schemas/v1/items/armor-type.json"
+				},
+				"id": {
+					"$ref": "/schemas/v1/items-id.gen.json"
+				},
+				"type": {
+					"$ref": "/schemas/v1/items-types-id.gen.json"
+				}
+			},
+			"type": "object"
+		}
+	},
+	"required": ["item"],
+	"title": "InventorySearchItemCondition",
+	"type": "object"
+}
