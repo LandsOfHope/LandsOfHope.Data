@@ -1,0 +1,18 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/deltas/character-experience-delta.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/deltas/character-experience-delta"
+		},
+		"new": {
+			"$ref": "/schemas/v1/characters/character-experience.json"
+		},
+		"old": {
+			"$ref": "/schemas/v1/characters/character-experience.json"
+		}
+	},
+	"required": ["$type", "new"],
+	"title": "CharacterExperienceDelta",
+	"type": "object"
+}

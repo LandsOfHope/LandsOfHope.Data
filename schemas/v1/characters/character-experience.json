@@ -1,0 +1,16 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/character-experience.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/character-experience"
+		},
+		"xp": {
+			"minimum": 0,
+			"type": "number"
+		}
+	},
+	"required": ["$type", "xp"],
+	"title": "CharacterExperience",
+	"type": "object"
+}

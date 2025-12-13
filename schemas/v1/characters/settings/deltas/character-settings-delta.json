@@ -1,0 +1,18 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/settings/deltas/character-settings-delta.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/deltas/character-settings-delta"
+		},
+		"new": {
+			"$ref": "/schemas/v1/characters/character-settings.json"
+		},
+		"old": {
+			"$ref": "/schemas/v1/characters/character-settings.json"
+		}
+	},
+	"required": ["$type", "new"],
+	"title": "CharacterSettingsDelta",
+	"type": "object"
+}
