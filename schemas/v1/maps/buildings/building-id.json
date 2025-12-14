@@ -1,0 +1,6 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/maps/buildings/building-id.json",
+	"minimum": 1,
+	"title": "BuildingId",
+	"type": "integer"
+}

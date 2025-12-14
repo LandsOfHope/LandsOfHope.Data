@@ -1,12 +1,12 @@
 {
-	"$id": "https://data.landsofhope.com/schemas/v1/buildings/dungeon-room.json",
+	"$id": "https://data.landsofhope.com/schemas/v1/maps/buildings/dungeon-room.json",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
-			"const": "/v1/buildings/dungeon-room"
+			"const": "/v1/maps/buildings/dungeon-room"
 		},
 		"id": {
-			"$ref": "/schemas/v1/buildings/building-id.json"
+			"$ref": "/schemas/v1/maps/buildings/building-id.json"
 		},
 		"img": {
 			"type": "string"
@@ -30,7 +30,7 @@
 			"type": "integer"
 		},
 		"spawn": {
-			"$ref": "/schemas/v1/buildings/dungeon-spawn.json"
+			"$ref": "/schemas/v1/maps/buildings/dungeon-spawn.json"
 		}
 	},
 	"required": [

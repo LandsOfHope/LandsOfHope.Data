@@ -5132,7 +5132,7 @@
 		},
 		"level": 30,
 		"location": {
-			"$type": "/v1/buildings/items/building-item-storage-location",
+			"$type": "/v1/maps/buildings/items/building-item-storage-location",
 			"buildingItem": 703788,
 			"location": "storage"
 		},
@@ -5159,7 +5159,7 @@
 		},
 		"level": 830,
 		"location": {
-			"$type": "/v1/buildings/items/building-item-storage-location",
+			"$type": "/v1/maps/buildings/items/building-item-storage-location",
 			"buildingItem": 703788,
 			"location": "storage"
 		},

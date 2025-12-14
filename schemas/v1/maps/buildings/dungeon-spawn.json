@@ -1,9 +1,9 @@
 {
-	"$id": "https://data.landsofhope.com/schemas/v1/buildings/dungeon-spawn.json",
+	"$id": "https://data.landsofhope.com/schemas/v1/maps/buildings/dungeon-spawn.json",
 	"additionalProperties": false,
 	"properties": {
 		"$type": {
-			"const": "/v1/buildings/dungeon-spawn"
+			"const": "/v1/maps/buildings/dungeon-spawn"
 		},
 		"boss": {
 			"type": "boolean"
