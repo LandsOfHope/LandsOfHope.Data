@@ -102,6 +102,9 @@
 				"refuseTrades": {
 					"type": "boolean"
 				},
+				"refuseUnlock": {
+					"type": "boolean"
+				},
 				"taunt": {
 					"type": "boolean"
 				}
@@ -179,9 +182,6 @@
 		"extraBar": {
 			"additionalProperties": false,
 			"properties": {
-				"extraBarRefresh": {
-					"type": "boolean"
-				},
 				"extraWindowPrimary": {
 					"oneOf": [
 						{
