@@ -1,5 +1,6 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/character-inventory-item-location-queue-locked.json",
+	"additionalProperties": false,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/inventory/character-inventory-item-location-queue-locked"
