@@ -1,8 +1,8 @@
 {
-	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-level-range-condition.json",
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-quantity-range-condition.json",
 	"additionalProperties": false,
 	"properties": {
-		"level": {
+		"quantity": {
 			"additionalProperties": false,
 			"minProperties": 1,
 			"properties": {
@@ -20,7 +20,7 @@
 			"type": "object"
 		}
 	},
-	"required": ["level"],
-	"title": "InventorySearchLevelRangeCondition",
+	"required": ["quantity"],
+	"title": "InventorySearchQuantityRangeCondition",
 	"type": "object"
 }

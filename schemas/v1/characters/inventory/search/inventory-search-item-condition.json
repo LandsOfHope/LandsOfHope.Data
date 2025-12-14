@@ -12,6 +12,9 @@
 				"id": {
 					"$ref": "/schemas/v1/items-id.gen.json"
 				},
+				"skill": {
+					"$ref": "/schemas/v1/skills-id.gen.json"
+				},
 				"type": {
 					"$ref": "/schemas/v1/items-types-id.gen.json"
 				}

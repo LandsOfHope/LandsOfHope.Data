@@ -11,6 +11,9 @@
 			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-level-range-condition.json"
 		},
 		{
+			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-quantity-range-condition.json"
+		},
+		{
 			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-item-condition.json"
 		},
 		{

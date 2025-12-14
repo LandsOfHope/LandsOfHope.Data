@@ -1,0 +1,41 @@
+{
+	"or": [
+		{
+			"and": [
+				{
+					"item": {
+						"armorType": "leather",
+						"id": "boots",
+						"type": "foot-armour"
+					}
+				},
+				{
+					"level": {
+						"max": 1000,
+						"min": 950
+					}
+				}
+			]
+		},
+		{
+			"and": [
+				{
+					"item": {
+						"id": "log"
+					}
+				},
+				{
+					"quantity": {
+						"min": 500
+					}
+				},
+				{
+					"level": {
+						"max": 920,
+						"min": 900
+					}
+				}
+			]
+		}
+	]
+}

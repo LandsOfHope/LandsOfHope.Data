@@ -78,6 +78,7 @@ const schemasWithOptionalTypeSpecifier = [
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-and-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-or-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-level-range-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-quantity-range-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-item-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-inventory-item-id-condition.json",
 ];
