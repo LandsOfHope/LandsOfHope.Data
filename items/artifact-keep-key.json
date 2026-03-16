@@ -3,5 +3,6 @@
 	"id": "artifact-keep-key",
 	"image": "6880",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "event-spawner"
 }

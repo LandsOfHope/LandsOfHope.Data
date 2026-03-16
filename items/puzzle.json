@@ -3,5 +3,6 @@
 	"id": "puzzle",
 	"image": "si1",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "puzzle"
 }

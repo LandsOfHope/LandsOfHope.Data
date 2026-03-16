@@ -3,5 +3,6 @@
 	"id": "berry",
 	"image": "ber",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "snowflake",
 	"image": "6060",
+	"stackLimit": 1000,
 	"type": "junk"
 }

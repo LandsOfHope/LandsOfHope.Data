@@ -3,5 +3,6 @@
 	"id": "broken-mirror",
 	"image": "bnm",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

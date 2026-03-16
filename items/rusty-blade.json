@@ -3,5 +3,6 @@
 	"id": "rusty-blade",
 	"image": "948",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

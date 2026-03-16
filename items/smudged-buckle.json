@@ -3,5 +3,6 @@
 	"id": "smudged-buckle",
 	"image": "sme",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

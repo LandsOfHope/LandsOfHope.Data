@@ -3,5 +3,6 @@
 	"id": "tainted-token",
 	"image": "ttt",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

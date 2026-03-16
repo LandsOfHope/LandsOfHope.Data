@@ -3,5 +3,6 @@
 	"id": "fiber-plantation",
 	"image": "877",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

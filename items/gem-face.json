@@ -3,5 +3,6 @@
 	"id": "gem-face",
 	"image": "rmin2",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

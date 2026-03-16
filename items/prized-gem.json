@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "prized-gem",
 	"image": "fl3",
+	"stackLimit": 1,
 	"type": "stolen-item-hard"
 }

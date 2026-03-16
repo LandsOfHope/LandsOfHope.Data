@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "seventh-demon-crystal",
 	"image": "6073",
+	"stackLimit": 1,
 	"type": "demon-crystal"
 }

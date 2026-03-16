@@ -3,5 +3,6 @@
 	"id": "weathered-blade",
 	"image": "be6",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

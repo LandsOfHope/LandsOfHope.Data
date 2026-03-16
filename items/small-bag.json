@@ -3,5 +3,6 @@
 	"id": "small-bag",
 	"image": "bg3",
 	"material": "cloth",
+	"stackLimit": 1,
 	"type": "bag"
 }

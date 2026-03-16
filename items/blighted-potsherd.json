@@ -3,5 +3,6 @@
 	"id": "blighted-potsherd",
 	"image": "bld",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

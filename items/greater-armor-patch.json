@@ -3,5 +3,6 @@
 	"id": "greater-armor-patch",
 	"image": "gmgrarpa",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "item-patch"
 }

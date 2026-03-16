@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "anniversary-token",
 	"image": "6804",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

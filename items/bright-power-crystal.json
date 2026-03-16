@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "bright-power-crystal",
 	"image": "gmbrpocr",
+	"stackLimit": 1000,
 	"type": "subterran-quest-item"
 }

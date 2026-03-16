@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "morganas-compendium",
 	"image": "6923",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

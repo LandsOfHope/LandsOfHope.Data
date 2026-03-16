@@ -3,5 +3,6 @@
 	"id": "cracked-bottle",
 	"image": "5593",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

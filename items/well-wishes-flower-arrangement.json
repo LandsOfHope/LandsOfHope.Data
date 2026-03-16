@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "well-wishes-flower-arrangement",
 	"image": "5804",
+	"stackLimit": 1000,
 	"type": "flower"
 }

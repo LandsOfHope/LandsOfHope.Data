@@ -3,5 +3,6 @@
 	"id": "relocation-permit",
 	"image": "deed2",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "relocation-permit"
 }

@@ -3,5 +3,6 @@
 	"id": "harpy-egg",
 	"image": "egg",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "monster-spawner"
 }

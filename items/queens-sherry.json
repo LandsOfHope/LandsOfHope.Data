@@ -4,5 +4,6 @@
 	"id": "queens-sherry",
 	"image": "gmqush",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "event-spawner"
 }

@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "pegasus",
 	"image": "gmpega",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

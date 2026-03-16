@@ -3,5 +3,6 @@
 	"id": "battering-ram-head-siegery",
 	"image": "brh",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

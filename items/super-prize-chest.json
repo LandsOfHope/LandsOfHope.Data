@@ -3,5 +3,6 @@
 	"id": "super-prize-chest",
 	"image": "6251",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "prize-box"
 }

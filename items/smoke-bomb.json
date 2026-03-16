@@ -4,5 +4,6 @@
 	"id": "smoke-bomb",
 	"image": "6412",
 	"skill": "parlor-tricks",
+	"stackLimit": 1000,
 	"type": "combat-item"
 }

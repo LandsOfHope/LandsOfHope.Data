@@ -4,5 +4,6 @@
 	"id": "barrel-of-port",
 	"image": "gmbapo",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "consumable-container"
 }

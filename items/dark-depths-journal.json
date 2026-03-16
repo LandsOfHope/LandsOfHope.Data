@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "dark-depths-journal",
 	"image": "bk",
+	"stackLimit": 1,
 	"type": "book"
 }

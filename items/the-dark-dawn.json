@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "the-dark-dawn",
 	"image": "zupabygu",
+	"stackLimit": 1000,
 	"type": "paintings"
 }

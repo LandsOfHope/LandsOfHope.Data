@@ -3,5 +3,6 @@
 	"id": "white-relic",
 	"image": "6042",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "money-sink-voucher"
 }

@@ -3,5 +3,6 @@
 	"id": "piece-of-stale-bread",
 	"image": "bd1",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "challenge-trophy"
 }

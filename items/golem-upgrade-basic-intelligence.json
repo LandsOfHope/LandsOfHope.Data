@@ -3,5 +3,6 @@
 	"id": "golem-upgrade-basic-intelligence",
 	"image": "2677",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "golem-parts"
 }

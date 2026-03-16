@@ -3,5 +3,6 @@
 	"id": "shimmering-chest",
 	"image": "ct4",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "good-spawner"
 }

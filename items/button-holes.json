@@ -3,5 +3,6 @@
 	"id": "button-holes",
 	"image": "5581",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

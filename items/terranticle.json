@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "terranticle",
 	"image": "6768",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

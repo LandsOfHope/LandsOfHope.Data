@@ -4,5 +4,6 @@
 	"id": "deposit-box",
 	"image": "5881",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "special-chest"
 }

@@ -3,5 +3,6 @@
 	"id": "balista-ammo-siegery",
 	"image": "ss6",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

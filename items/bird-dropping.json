@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "bird-dropping",
 	"image": "6056",
+	"stackLimit": 1000,
 	"type": "junk"
 }

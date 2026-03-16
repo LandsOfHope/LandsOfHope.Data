@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "la-sombra-flower",
 	"image": "5743",
+	"stackLimit": 1000,
 	"type": "flower"
 }

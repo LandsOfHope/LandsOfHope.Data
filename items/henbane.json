@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "henbane",
 	"image": "zuhebn",
+	"stackLimit": 1000,
 	"type": "alchemy-ingredient"
 }

@@ -3,5 +3,6 @@
 	"id": "ingot",
 	"image": "it",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "resource-smithing"
 }

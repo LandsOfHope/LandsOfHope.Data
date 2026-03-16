@@ -3,5 +3,6 @@
 	"id": "dragon-flesh",
 	"image": "fedrfl",
 	"material": "cloth",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

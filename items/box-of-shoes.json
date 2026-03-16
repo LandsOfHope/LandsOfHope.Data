@@ -4,5 +4,6 @@
 	"id": "box-of-shoes",
 	"image": "gmbosh",
 	"material": "color",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

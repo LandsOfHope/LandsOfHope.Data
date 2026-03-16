@@ -3,5 +3,6 @@
 	"id": "alien-chest",
 	"image": "7013",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "special-chest"
 }

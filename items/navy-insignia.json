@@ -3,5 +3,6 @@
 	"id": "navy-insignia",
 	"image": "zunain",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "event-spawner"
 }

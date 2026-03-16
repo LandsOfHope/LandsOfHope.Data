@@ -3,5 +3,6 @@
 	"id": "cloth-mill",
 	"image": "1066",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

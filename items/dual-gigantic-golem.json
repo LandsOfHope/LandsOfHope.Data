@@ -3,5 +3,6 @@
 	"id": "dual-gigantic-golem",
 	"image": "3190",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "golem"
 }

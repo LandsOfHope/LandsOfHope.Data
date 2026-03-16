@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "puppet",
 	"image": "na",
+	"stackLimit": 1,
 	"type": "monster-spawner"
 }

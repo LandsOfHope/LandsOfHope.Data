@@ -3,5 +3,6 @@
 	"id": "boltery",
 	"image": "1076",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

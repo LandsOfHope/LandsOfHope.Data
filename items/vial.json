@@ -3,5 +3,6 @@
 	"id": "vial",
 	"image": "pe8",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "magic-vial"
 }

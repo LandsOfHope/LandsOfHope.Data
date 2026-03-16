@@ -3,5 +3,6 @@
 	"id": "scarab",
 	"image": "scb",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

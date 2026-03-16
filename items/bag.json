@@ -3,5 +3,6 @@
 	"id": "bag",
 	"image": "ba",
 	"material": "cloth",
+	"stackLimit": 1,
 	"type": "spawner"
 }

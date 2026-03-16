@@ -3,5 +3,6 @@
 	"id": "rusty-plaque",
 	"image": "ferupl",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

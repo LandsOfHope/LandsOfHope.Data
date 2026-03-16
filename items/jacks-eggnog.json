@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "jacks-eggnog",
 	"image": "6202",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

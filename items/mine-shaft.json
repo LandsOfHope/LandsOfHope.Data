@@ -3,5 +3,6 @@
 	"id": "mine-shaft",
 	"image": "rmin",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

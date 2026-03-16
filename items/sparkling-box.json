@@ -3,5 +3,6 @@
 	"id": "sparkling-box",
 	"image": "sc1",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "good-spawner"
 }

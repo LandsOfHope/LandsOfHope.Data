@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "the-sword",
 	"image": "6757",
+	"stackLimit": 1,
 	"type": "trophy"
 }

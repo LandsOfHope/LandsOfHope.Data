@@ -3,5 +3,6 @@
 	"id": "weapon-rack",
 	"image": "vwk",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "storage-box"
 }

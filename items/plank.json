@@ -3,5 +3,6 @@
 	"id": "plank",
 	"image": "plk",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "resource-woodworking"
 }

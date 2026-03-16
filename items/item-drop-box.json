@@ -3,5 +3,6 @@
 	"id": "item-drop-box",
 	"image": "bx5",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "item-drop-box"
 }

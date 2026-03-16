@@ -3,5 +3,6 @@
 	"id": "glowing-key",
 	"image": "3204",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "portal"
 }

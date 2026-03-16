@@ -3,5 +3,6 @@
 	"id": "small-training-box",
 	"image": "sc1",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "training-aid-box"
 }

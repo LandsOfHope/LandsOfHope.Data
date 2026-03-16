@@ -3,5 +3,6 @@
 	"id": "vial-of-sulphur",
 	"image": "py3",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "challenge-trophy"
 }

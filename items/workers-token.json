@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "workers-token",
 	"image": "6793",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

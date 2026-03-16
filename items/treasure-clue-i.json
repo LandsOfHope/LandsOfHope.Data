@@ -3,5 +3,6 @@
 	"id": "treasure-clue-i",
 	"image": "mp",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "treasure-clue"
 }

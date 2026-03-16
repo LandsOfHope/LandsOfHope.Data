@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "prized-statue-of-st-josephine",
 	"image": "ans",
+	"stackLimit": 1,
 	"type": "stolen-item-medium"
 }

@@ -3,5 +3,6 @@
 	"id": "chipped-tablet",
 	"image": "cdt",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

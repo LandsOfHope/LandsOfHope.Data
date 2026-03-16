@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "warmaker-spider",
 	"image": "6746",
+	"stackLimit": 1,
 	"type": "creature"
 }

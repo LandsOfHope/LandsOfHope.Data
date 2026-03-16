@@ -3,5 +3,6 @@
 	"id": "bland-broth",
 	"image": "stw.jpg",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "food"
 }

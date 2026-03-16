@@ -3,5 +3,6 @@
 	"id": "belt-loops",
 	"image": "5582",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

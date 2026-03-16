@@ -3,5 +3,6 @@
 	"id": "mark-of-archaeology",
 	"image": "sg3",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "archaeologist-mark"
 }

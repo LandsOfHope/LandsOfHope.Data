@@ -4,5 +4,6 @@
 	"id": "box-of-tea",
 	"image": "gmbote",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

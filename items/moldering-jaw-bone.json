@@ -3,5 +3,6 @@
 	"id": "moldering-jaw-bone",
 	"image": "b1",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

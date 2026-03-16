@@ -3,5 +3,6 @@
 	"id": "brittle-skull",
 	"image": "sl",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

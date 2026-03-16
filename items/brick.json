@@ -3,5 +3,6 @@
 	"id": "brick",
 	"image": "bk5",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "house-resource-stone"
 }

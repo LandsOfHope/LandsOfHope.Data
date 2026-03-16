@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "rare-painting-by-wemband",
 	"image": "zurapabywe",
+	"stackLimit": 1,
 	"type": "stolen-item-medium"
 }

@@ -4,5 +4,6 @@
 	"id": "royal-rum",
 	"image": "gmroru",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "event-spawner"
 }

@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "gamemaster",
 	"image": "6470",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

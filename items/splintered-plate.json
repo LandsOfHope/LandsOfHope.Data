@@ -3,5 +3,6 @@
 	"id": "splintered-plate",
 	"image": "936",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

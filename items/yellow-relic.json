@@ -3,5 +3,6 @@
 	"id": "yellow-relic",
 	"image": "6043",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "money-sink-voucher"
 }

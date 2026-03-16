@@ -3,5 +3,6 @@
 	"id": "lost-map-piece-ix",
 	"image": "mp2",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

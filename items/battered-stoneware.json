@@ -3,5 +3,6 @@
 	"id": "battered-stoneware",
 	"image": "baw",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "penguin",
 	"image": "6037",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

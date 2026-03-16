@@ -3,5 +3,6 @@
 	"id": "spoiled-plaque",
 	"image": "984",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

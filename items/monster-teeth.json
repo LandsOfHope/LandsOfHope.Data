@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "monster-teeth",
 	"image": "6649",
+	"stackLimit": 1,
 	"type": "biting-item"
 }

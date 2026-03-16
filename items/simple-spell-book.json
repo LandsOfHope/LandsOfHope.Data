@@ -3,5 +3,6 @@
 	"id": "simple-spell-book",
 	"image": "bk2",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "training-aid-spells"
 }

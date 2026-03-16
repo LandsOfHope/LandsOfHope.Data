@@ -3,5 +3,6 @@
 	"id": "sparkling-bag",
 	"image": "zuspba",
 	"material": "cloth",
+	"stackLimit": 1,
 	"type": "good-spawner"
 }

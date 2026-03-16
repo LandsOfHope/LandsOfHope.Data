@@ -4,5 +4,6 @@
 	"id": "horde-map",
 	"image": "5880",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "treasure-map"
 }

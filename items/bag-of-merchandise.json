@@ -3,5 +3,6 @@
 	"id": "bag-of-merchandise",
 	"image": "zuspba",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "challenge-spawner"
 }

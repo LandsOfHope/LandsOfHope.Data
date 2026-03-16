@@ -3,5 +3,6 @@
 	"id": "supply-crate",
 	"image": "bx",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

@@ -3,5 +3,6 @@
 	"id": "armor-strengthener",
 	"image": "rsg",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "item-patch"
 }

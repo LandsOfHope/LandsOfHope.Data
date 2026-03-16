@@ -3,5 +3,6 @@
 	"id": "the-sword-of-death",
 	"image": "sw2",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "cleaned-relic"
 }

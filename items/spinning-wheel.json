@@ -3,5 +3,6 @@
 	"id": "spinning-wheel",
 	"image": "wheel",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "tailoring-thread-maker"
 }

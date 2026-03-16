@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "painting-by-noreal",
 	"image": "zurapabyno",
+	"stackLimit": 1,
 	"type": "stolen-item-easy"
 }

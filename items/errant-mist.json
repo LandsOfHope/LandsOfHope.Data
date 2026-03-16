@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "errant-mist",
 	"image": "5747",
+	"stackLimit": 1000,
 	"type": "flower"
 }

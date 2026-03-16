@@ -3,5 +3,6 @@
 	"id": "used-handkerchief",
 	"image": "5584",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

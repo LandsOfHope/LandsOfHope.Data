@@ -3,5 +3,6 @@
 	"id": "pirate-sash",
 	"image": "lban1",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

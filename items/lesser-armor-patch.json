@@ -3,5 +3,6 @@
 	"id": "lesser-armor-patch",
 	"image": "gmlearpa",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "item-patch"
 }

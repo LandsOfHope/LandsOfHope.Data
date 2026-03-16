@@ -3,5 +3,6 @@
 	"id": "rib-bone",
 	"image": "b5",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

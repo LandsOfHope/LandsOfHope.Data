@@ -3,5 +3,6 @@
 	"id": "vase-lid",
 	"image": "ld1",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

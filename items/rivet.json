@@ -3,5 +3,6 @@
 	"id": "rivet",
 	"image": "feritv",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "new-crafting-resource"
 }

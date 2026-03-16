@@ -3,5 +3,6 @@
 	"id": "jar-of-ore-dust",
 	"image": "gn2",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "challenge-trophy"
 }

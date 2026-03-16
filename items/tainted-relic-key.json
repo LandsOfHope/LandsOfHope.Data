@@ -3,5 +3,6 @@
 	"id": "tainted-relic-key",
 	"image": "zudike",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "event-spawner"
 }

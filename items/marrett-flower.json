@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "marrett-flower",
 	"image": "5756",
+	"stackLimit": 1000,
 	"type": "flower"
 }

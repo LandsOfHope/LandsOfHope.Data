@@ -3,5 +3,6 @@
 	"id": "quest-post-board",
 	"image": "si1",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "quest-list-item"
 }

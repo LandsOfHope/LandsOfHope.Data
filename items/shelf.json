@@ -3,5 +3,6 @@
 	"id": "shelf",
 	"image": "shf",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "storage-box"
 }

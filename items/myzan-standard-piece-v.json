@@ -3,5 +3,6 @@
 	"id": "myzan-standard-piece-v",
 	"image": "cl1",
 	"material": "cloth",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

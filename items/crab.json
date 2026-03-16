@@ -3,5 +3,6 @@
 	"id": "crab",
 	"image": "gmcrba",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "marine-resource"
 }

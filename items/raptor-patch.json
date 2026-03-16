@@ -3,5 +3,6 @@
 	"id": "raptor-patch",
 	"image": "gmrapa",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "item-patch"
 }

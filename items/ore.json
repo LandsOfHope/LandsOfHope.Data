@@ -3,5 +3,6 @@
 	"id": "ore",
 	"image": "ore",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "ore"
 }

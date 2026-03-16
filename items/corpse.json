@@ -3,5 +3,6 @@
 	"id": "corpse",
 	"image": "cop",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "battlefield-plan",
 	"image": "6555",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

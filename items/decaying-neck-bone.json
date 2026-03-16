@@ -3,5 +3,6 @@
 	"id": "decaying-neck-bone",
 	"image": "b6",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

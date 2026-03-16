@@ -3,5 +3,6 @@
 	"id": "gallon-of-tar",
 	"image": "cn1",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "challenge-trophy"
 }

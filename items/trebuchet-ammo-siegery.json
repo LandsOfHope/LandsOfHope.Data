@@ -3,5 +3,6 @@
 	"id": "trebuchet-ammo-siegery",
 	"image": "bl1",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

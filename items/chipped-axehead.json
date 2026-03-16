@@ -3,5 +3,6 @@
 	"id": "chipped-axehead",
 	"image": "cda",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

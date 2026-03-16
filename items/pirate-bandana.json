@@ -3,5 +3,6 @@
 	"id": "pirate-bandana",
 	"image": "zupiba",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "event-spawner"
 }

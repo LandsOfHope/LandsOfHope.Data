@@ -4,5 +4,6 @@
 	"id": "box-of-adamantium-ingots",
 	"image": "gmboadin",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

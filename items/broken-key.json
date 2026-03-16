@@ -3,5 +3,6 @@
 	"id": "broken-key",
 	"image": "5585",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

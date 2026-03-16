@@ -4,5 +4,6 @@
 	"id": "fog-paper",
 	"image": "pfog",
 	"material": "color",
+	"stackLimit": 1000,
 	"type": "explosive-component"
 }

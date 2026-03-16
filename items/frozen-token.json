@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "frozen-token",
 	"image": "6922",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

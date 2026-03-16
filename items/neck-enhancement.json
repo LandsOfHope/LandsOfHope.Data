@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "neck-enhancement",
 	"image": "zuyoro",
+	"stackLimit": 1000,
 	"type": "necklace-upgrade"
 }

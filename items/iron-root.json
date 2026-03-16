@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "iron-root",
 	"image": "6936",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

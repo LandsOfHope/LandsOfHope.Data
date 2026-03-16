@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "badge-of-command",
 	"image": "6557",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

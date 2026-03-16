@@ -3,5 +3,6 @@
 	"id": "jagged-dungeon-key",
 	"image": "ky2",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "dungeon-key"
 }

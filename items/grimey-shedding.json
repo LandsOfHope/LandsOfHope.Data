@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "grimey-shedding",
 	"image": "shedding8",
+	"stackLimit": 1000,
 	"type": "subterran-quest-item"
 }

@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "snakeroot",
 	"image": "flower5",
+	"stackLimit": 1000,
 	"type": "alchemy-ingredient"
 }

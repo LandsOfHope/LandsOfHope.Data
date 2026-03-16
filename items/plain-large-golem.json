@@ -3,5 +3,6 @@
 	"id": "plain-large-golem",
 	"image": "2947",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "golem"
 }

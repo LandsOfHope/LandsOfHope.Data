@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "star-constellation-map",
 	"image": "6025",
+	"stackLimit": 1,
 	"type": "constellation-chooser"
 }

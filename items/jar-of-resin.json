@@ -3,5 +3,6 @@
 	"id": "jar-of-resin",
 	"image": "pe7",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "challenge-trophy"
 }

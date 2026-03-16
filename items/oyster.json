@@ -3,5 +3,6 @@
 	"id": "oyster",
 	"image": "gmoyos",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "marine-resource"
 }

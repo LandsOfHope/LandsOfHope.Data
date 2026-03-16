@@ -3,5 +3,6 @@
 	"id": "impure-key",
 	"image": "imk",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

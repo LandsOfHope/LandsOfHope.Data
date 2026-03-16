@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "ancient-goblin-keystone",
 	"image": "6697",
+	"stackLimit": 1,
 	"type": "item-use-door"
 }

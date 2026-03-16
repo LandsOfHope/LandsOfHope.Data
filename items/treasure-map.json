@@ -3,5 +3,6 @@
 	"id": "treasure-map",
 	"image": "mp2",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "treasure-map"
 }

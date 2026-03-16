@@ -4,5 +4,6 @@
 	"id": "expedition-crate",
 	"image": "esc2",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "expedition-supplies"
 }

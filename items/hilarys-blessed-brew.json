@@ -3,5 +3,6 @@
 	"id": "hilarys-blessed-brew",
 	"image": "5006",
 	"material": "crop",
+	"stackLimit": 1000,
 	"type": "food"
 }

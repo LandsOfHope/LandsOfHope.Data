@@ -3,5 +3,6 @@
 	"id": "spool-of-twine",
 	"image": "rl1",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "challenge-trophy"
 }

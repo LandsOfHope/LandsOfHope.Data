@@ -3,5 +3,6 @@
 	"id": "skin",
 	"image": "na",
 	"material": "snake",
+	"stackLimit": 1000,
 	"type": "resource-tailoring"
 }

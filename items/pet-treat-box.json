@@ -3,5 +3,6 @@
 	"id": "pet-treat-box",
 	"image": "5738",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "good-spawner"
 }

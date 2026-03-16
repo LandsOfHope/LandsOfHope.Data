@@ -3,5 +3,6 @@
 	"id": "enchanted-chest",
 	"image": "sc3",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "rare-spawner"
 }

@@ -3,5 +3,6 @@
 	"id": "weathered-medal",
 	"image": "934",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

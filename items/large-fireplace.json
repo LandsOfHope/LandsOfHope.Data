@@ -3,5 +3,6 @@
 	"id": "large-fireplace",
 	"image": "2421",
 	"material": "stone",
-	"type": "house-furniture-iii"
+	"stackLimit": 1000,
+	"type": "fire-furniture"
 }

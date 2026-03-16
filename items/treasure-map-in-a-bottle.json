@@ -3,5 +3,6 @@
 	"id": "treasure-map-in-a-bottle",
 	"image": "me1",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "treasure-map"
 }

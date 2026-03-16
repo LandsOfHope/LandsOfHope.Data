@@ -4,5 +4,6 @@
 	"id": "earthshaking-bomb",
 	"image": "zubobb",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "bombs"
 }

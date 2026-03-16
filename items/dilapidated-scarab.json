@@ -3,5 +3,6 @@
 	"id": "dilapidated-scarab",
 	"image": "des",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

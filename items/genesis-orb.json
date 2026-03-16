@@ -3,5 +3,6 @@
 	"id": "genesis-orb",
 	"image": "zugeor",
 	"material": "stone",
+	"stackLimit": 1,
 	"type": "tile-claim"
 }

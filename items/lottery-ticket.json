@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "lottery-ticket",
 	"image": "1912",
+	"stackLimit": 1,
 	"type": "lottery-ticket"
 }

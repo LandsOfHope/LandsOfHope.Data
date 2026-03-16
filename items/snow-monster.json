@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "snow-monster",
 	"image": "gmsnmo",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

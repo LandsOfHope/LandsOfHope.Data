@@ -4,5 +4,6 @@
 	"id": "stone-coating",
 	"image": "2672",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "golem-parts"
 }

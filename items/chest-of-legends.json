@@ -3,5 +3,6 @@
 	"id": "chest-of-legends",
 	"image": "sc1",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "legend-token-chest"
 }

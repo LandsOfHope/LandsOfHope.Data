@@ -3,5 +3,6 @@
 	"id": "mildewed-carving",
 	"image": "935",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

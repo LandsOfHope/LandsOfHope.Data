@@ -3,5 +3,6 @@
 	"id": "signpost-up",
 	"image": "si4",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "signpost"
 }

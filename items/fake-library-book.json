@@ -3,5 +3,6 @@
 	"id": "fake-library-book",
 	"image": "bk2",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

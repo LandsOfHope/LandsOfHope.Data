@@ -3,5 +3,6 @@
 	"id": "message-board",
 	"image": "sig",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "message-board"
 }

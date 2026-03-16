@@ -3,5 +3,6 @@
 	"id": "bandages",
 	"image": "be1",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "healing-resource"
 }

@@ -3,5 +3,6 @@
 	"id": "bloody-dungeon-key",
 	"image": "ky4",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "dungeon-key"
 }

@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "rare-painting-by-van-guk",
 	"image": "zurapabyva",
+	"stackLimit": 1,
 	"type": "stolen-item-medium"
 }

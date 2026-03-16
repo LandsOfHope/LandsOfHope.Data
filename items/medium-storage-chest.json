@@ -3,5 +3,6 @@
 	"id": "medium-storage-chest",
 	"image": "zumestch",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "storage-box"
 }

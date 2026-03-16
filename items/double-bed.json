@@ -3,5 +3,6 @@
 	"id": "double-bed",
 	"image": "bed2",
 	"material": "wood",
-	"type": "house-furniture-i"
+	"stackLimit": 1000,
+	"type": "bed"
 }

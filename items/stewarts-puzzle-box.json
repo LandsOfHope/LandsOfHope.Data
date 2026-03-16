@@ -4,5 +4,6 @@
 	"id": "stewarts-puzzle-box",
 	"image": "puzzle",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "pirate-puzzle-prize"
 }

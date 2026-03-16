@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "ring-enhancement",
 	"image": "zuyoro",
+	"stackLimit": 1000,
 	"type": "ring-upgrade"
 }

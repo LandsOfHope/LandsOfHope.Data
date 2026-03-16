@@ -3,5 +3,6 @@
 	"id": "brittle-thigh-bone",
 	"image": "btt",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

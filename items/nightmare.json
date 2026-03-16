@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "nightmare",
 	"image": "gmniaa",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

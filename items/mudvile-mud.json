@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "mudvile-mud",
 	"image": "5975",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

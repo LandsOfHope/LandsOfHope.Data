@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "a-foul-mood",
 	"image": "zupabyru",
+	"stackLimit": 1000,
 	"type": "paintings"
 }

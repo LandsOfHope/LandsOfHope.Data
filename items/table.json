@@ -3,5 +3,6 @@
 	"id": "table",
 	"image": "tae1",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "storage-box"
 }

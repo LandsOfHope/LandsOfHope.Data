@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "orange-security-key",
 	"image": "6200",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

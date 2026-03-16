@@ -3,5 +3,6 @@
 	"id": "sellbox",
 	"image": "1798",
 	"material": "stone",
+	"stackLimit": 1,
 	"type": "trash-can"
 }

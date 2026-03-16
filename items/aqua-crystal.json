@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "aqua-crystal",
 	"image": "yac",
+	"stackLimit": 1000,
 	"type": "alchemy-ingredient"
 }

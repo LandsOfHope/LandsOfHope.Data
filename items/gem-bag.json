@@ -3,5 +3,6 @@
 	"id": "gem-bag",
 	"image": "ba2",
 	"material": "cloth",
+	"stackLimit": 1,
 	"type": "targeted-containers"
 }

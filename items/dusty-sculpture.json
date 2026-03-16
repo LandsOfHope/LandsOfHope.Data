@@ -3,5 +3,6 @@
 	"id": "dusty-sculpture",
 	"image": "todusc",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

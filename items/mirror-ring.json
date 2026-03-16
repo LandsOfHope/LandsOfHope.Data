@@ -4,7 +4,9 @@
 	"image": "rgf",
 	"material": "gem",
 	"skills": {
+		"arcane-resistance": 1,
 		"energy-resistance": 1
 	},
+	"stackLimit": 1,
 	"type": "ring"
 }

@@ -3,5 +3,6 @@
 	"id": "soiled-carving",
 	"image": "974",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

@@ -3,5 +3,6 @@
 	"id": "arena-chest",
 	"image": "gmarch",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "present-box"
 }

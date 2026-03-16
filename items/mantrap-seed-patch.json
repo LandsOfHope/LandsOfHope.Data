@@ -3,5 +3,6 @@
 	"id": "mantrap-seed-patch",
 	"image": "gmmasepa",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "item-patch"
 }

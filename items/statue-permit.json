@@ -3,5 +3,6 @@
 	"id": "statue-permit",
 	"image": "1927",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "statue-permit"
 }

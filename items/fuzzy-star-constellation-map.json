@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "fuzzy-star-constellation-map",
 	"image": "6024",
+	"stackLimit": 1,
 	"type": "constellation-chooser"
 }

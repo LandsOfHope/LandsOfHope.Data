@@ -3,5 +3,6 @@
 	"id": "book-case",
 	"image": "bc",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "storage-box"
 }

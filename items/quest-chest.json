@@ -3,5 +3,6 @@
 	"id": "quest-chest",
 	"image": "6249",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "prize-box"
 }

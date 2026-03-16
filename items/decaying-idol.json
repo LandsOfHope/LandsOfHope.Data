@@ -3,5 +3,6 @@
 	"id": "decaying-idol",
 	"image": "1001",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

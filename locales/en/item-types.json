@@ -3,7 +3,15 @@
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
 		"name": "1 Handed Equipment"
 	},
+	"1-handed-shields": {
+		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
+		"name": "1 Handed Equipment"
+	},
 	"2-handed-equipment": {
+		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
+		"name": "2 Handed Equipment"
+	},
+	"2-handed-shields": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
 		"name": "2 Handed Equipment"
 	},
@@ -120,6 +128,10 @@
 	"barter-items": {
 		"desc": "This item can be used to barter with the NPCs at 50, 50 Eastern Lands.",
 		"name": "Barter Items"
+	},
+	"bed": {
+		"desc": "Use the Furnishing screen to place this item into a compatible Room you own. Anyone with access to the room can then use the placed item.",
+		"name": "Furnishing"
 	},
 	"biting-item": {
 		"desc": "Use this item from your inventory to try to bite a player.",
@@ -258,7 +270,11 @@
 		"desc": "Unuseable",
 		"name": "Crystal Formation"
 	},
-	"dark-depths-control-crystal": {
+	"dark-depths-control-crystal-i": {
+		"desc": "Provides a unique effect inside the Dark Depths dungeon.",
+		"name": "Dark Depths Control Crystal"
+	},
+	"dark-depths-control-crystal-ii": {
 		"desc": "Provides a unique effect inside the Dark Depths dungeon.",
 		"name": "Dark Depths Control Crystal"
 	},
@@ -358,6 +374,10 @@
 	},
 	"feathers": {
 		"name": "Raw Materials"
+	},
+	"fire-furniture": {
+		"desc": "Use the Furnishing screen to place this item into a compatible Room you own. Anyone with access to the room can then use the placed item.",
+		"name": "Furnishing"
 	},
 	"fireworks": {
 		"desc": "Use this item from your Inventory to set off a fireworks display on the current tile. Please keep all pets inside and have a bucket of sand or water ready incase of emergencies.",
@@ -487,18 +507,6 @@
 	"house-deeds": {
 		"desc": "Use this item from your Inventory screen to build a brand new building. The type of building that is constructed is based on the deed.",
 		"name": "House Deed"
-	},
-	"house-furniture-i": {
-		"desc": "Use the Furnishing screen to place this item into a compatible Room you own. Anyone with access to the room can then use the placed item.",
-		"name": "Furnishing"
-	},
-	"house-furniture-ii": {
-		"desc": "Use the Furnishing screen to place this item into a compatible Room you own. Anyone with access to the room can then use the placed item.",
-		"name": "Furnishing"
-	},
-	"house-furniture-iii": {
-		"desc": "Use the Furnishing screen to place this item into a compatible Room you own. Anyone with access to the room can then use the placed item.",
-		"name": "Furnishing"
 	},
 	"house-resource-stone": {
 		"desc": "This item can be used in a tradeskill, use the relevant crafting screen and if you have enough skill this item will be available as an ingredient.",
@@ -726,10 +734,6 @@
 		"desc": "Using this item from your inventory will allow you to fetch items from your storage chests.",
 		"name": "Pack Rat"
 	},
-	"paint-pots": {
-		"desc": "As well as being used in a couple of Dark Depth Quests you can use this item to paint temporary messages on a tile.",
-		"name": "Paint Pots"
-	},
 	"paintings": {
 		"desc": "Paintings can be placed inside the Galleria room/building. You need to get a Construction deed made to use this item.",
 		"name": "Paintings"
@@ -796,7 +800,7 @@
 		"desc": "Use this item from your Inventory screen, it will teleport you to a specific destination.",
 		"name": "Portal"
 	},
-	"portal-ii": {
+	"portalstone": {
 		"desc": "Use a marked portalstone from the World > Open Portal screen or via the Inventory screen to open a new portal to the portalstones bound location.",
 		"name": "Materials"
 	},
@@ -957,6 +961,10 @@
 	"scroll": {
 		"desc": "Use this item from the Inventory screen if you have the required magic skill and skill value you will be able to learn the spell. Only natural value is considered so having an item equipped to get enough skill does not count.",
 		"name": "Scroll"
+	},
+	"seating": {
+		"desc": "Use the Furnishing screen to place this item into a compatible Room you own. Anyone with access to the room can then use the placed item.",
+		"name": "Furnishing"
 	},
 	"seeds-and-soil": {
 		"desc": "Seeds and Soil are both ingredients used in the Floristry crafting skill via Inventory > Tradeskills > Floristry.",

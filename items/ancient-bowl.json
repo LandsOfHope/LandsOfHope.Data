@@ -3,5 +3,6 @@
 	"id": "ancient-bowl",
 	"image": "abl",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

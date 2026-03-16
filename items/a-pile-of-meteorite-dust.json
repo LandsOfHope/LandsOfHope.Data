@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "a-pile-of-meteorite-dust",
 	"image": "6051",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

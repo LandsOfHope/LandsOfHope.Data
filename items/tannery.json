@@ -3,5 +3,6 @@
 	"id": "tannery",
 	"image": "rt",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

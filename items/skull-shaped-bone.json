@@ -3,5 +3,6 @@
 	"id": "skull-shaped-bone",
 	"image": "sl1",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "monster-spawner"
 }

@@ -3,5 +3,6 @@
 	"id": "mysterious-relic",
 	"image": "torale",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "unknown-relic"
 }

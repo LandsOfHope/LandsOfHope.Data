@@ -3,5 +3,6 @@
 	"id": "scratched-plaque",
 	"image": "906",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

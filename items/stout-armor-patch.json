@@ -3,5 +3,6 @@
 	"id": "stout-armor-patch",
 	"image": "gmstarpa",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "item-patch"
 }

@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "spectral-snow-cat",
 	"image": "6214",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

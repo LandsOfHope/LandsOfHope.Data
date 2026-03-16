@@ -3,5 +3,6 @@
 	"id": "water-defense-supplement",
 	"image": "c2k",
 	"material": "crop",
+	"stackLimit": 1000,
 	"type": "food"
 }

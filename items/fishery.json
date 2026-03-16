@@ -3,5 +3,6 @@
 	"id": "fishery",
 	"image": "rf",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

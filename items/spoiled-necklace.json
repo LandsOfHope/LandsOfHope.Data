@@ -3,5 +3,6 @@
 	"id": "spoiled-necklace",
 	"image": "865",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

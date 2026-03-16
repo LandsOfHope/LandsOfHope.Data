@@ -3,5 +3,6 @@
 	"id": "mummified-hand",
 	"image": "mdh",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

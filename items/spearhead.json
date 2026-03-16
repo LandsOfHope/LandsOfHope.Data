@@ -3,5 +3,6 @@
 	"id": "spearhead",
 	"image": "sp1",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

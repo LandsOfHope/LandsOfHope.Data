@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "red-candle",
 	"image": "candle6",
+	"stackLimit": 1000,
 	"type": "ritual-resource"
 }

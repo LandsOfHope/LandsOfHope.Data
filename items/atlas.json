@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "atlas",
 	"image": "6611",
+	"stackLimit": 1000,
 	"type": "item-use-door"
 }

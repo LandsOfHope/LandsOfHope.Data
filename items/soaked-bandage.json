@@ -3,5 +3,6 @@
 	"id": "soaked-bandage",
 	"image": "be1",
 	"material": "cloth",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

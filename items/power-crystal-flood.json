@@ -3,5 +3,6 @@
 	"id": "power-crystal-flood",
 	"image": "2430",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "golem-parts"
 }

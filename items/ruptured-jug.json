@@ -3,5 +3,6 @@
 	"id": "ruptured-jug",
 	"image": "rjg",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

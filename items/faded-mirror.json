@@ -3,5 +3,6 @@
 	"id": "faded-mirror",
 	"image": "911",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

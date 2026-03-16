@@ -3,5 +3,6 @@
 	"id": "crumbling-obelisk",
 	"image": "cgo",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

@@ -3,5 +3,6 @@
 	"id": "treasure-map-piece-i",
 	"image": "mp2",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

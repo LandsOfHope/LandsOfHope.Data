@@ -3,5 +3,6 @@
 	"id": "worm-eaten-idol",
 	"image": "962",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

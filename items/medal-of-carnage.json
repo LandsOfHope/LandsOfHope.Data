@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "medal-of-carnage",
 	"image": "6897",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

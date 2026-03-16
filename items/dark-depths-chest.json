@@ -4,5 +4,6 @@
 	"id": "dark-depths-chest",
 	"image": "6476",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "dark-depths-spawner"
 }

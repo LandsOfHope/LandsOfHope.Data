@@ -3,5 +3,6 @@
 	"id": "ornate-handle",
 	"image": "feorha",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "new-crafting-resource"
 }

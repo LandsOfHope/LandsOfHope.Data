@@ -4,5 +4,6 @@
 	"id": "plain-coating",
 	"image": "2438",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "golem-parts"
 }

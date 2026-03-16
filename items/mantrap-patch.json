@@ -3,5 +3,6 @@
 	"id": "mantrap-patch",
 	"image": "gmmapa",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "item-patch"
 }

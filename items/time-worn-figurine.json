@@ -3,5 +3,6 @@
 	"id": "time-worn-figurine",
 	"image": "anf",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

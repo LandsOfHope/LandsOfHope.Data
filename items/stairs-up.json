@@ -3,5 +3,6 @@
 	"id": "stairs-up",
 	"image": "us1",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "ladder"
 }

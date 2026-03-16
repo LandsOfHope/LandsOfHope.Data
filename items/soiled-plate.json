@@ -3,5 +3,6 @@
 	"id": "soiled-plate",
 	"image": "975",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

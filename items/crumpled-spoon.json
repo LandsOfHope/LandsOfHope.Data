@@ -3,5 +3,6 @@
 	"id": "crumpled-spoon",
 	"image": "spn",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

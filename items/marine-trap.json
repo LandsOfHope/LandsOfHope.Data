@@ -3,5 +3,6 @@
 	"id": "marine-trap",
 	"image": "zumatr",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "marine-tool"
 }

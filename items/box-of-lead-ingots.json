@@ -4,5 +4,6 @@
 	"id": "box-of-lead-ingots",
 	"image": "gmbolein",
 	"material": "color",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

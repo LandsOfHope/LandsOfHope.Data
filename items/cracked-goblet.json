@@ -3,5 +3,6 @@
 	"id": "cracked-goblet",
 	"image": "ccg",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

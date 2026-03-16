@@ -3,5 +3,6 @@
 	"id": "large-blade-hilt",
 	"image": "it",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "new-crafting-resource"
 }

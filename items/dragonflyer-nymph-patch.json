@@ -3,5 +3,6 @@
 	"id": "dragonflyer-nymph-patch",
 	"image": "gmdrnypa",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "item-patch"
 }

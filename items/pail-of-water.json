@@ -3,5 +3,6 @@
 	"id": "pail-of-water",
 	"image": "pw1",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

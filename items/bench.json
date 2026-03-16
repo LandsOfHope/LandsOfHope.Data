@@ -3,5 +3,6 @@
 	"id": "bench",
 	"image": "1029",
 	"material": "wood",
-	"type": "house-furniture-ii"
+	"stackLimit": 1000,
+	"type": "seating"
 }

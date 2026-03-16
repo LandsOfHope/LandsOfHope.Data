@@ -3,5 +3,6 @@
 	"id": "dragonflyer-patch",
 	"image": "gmdrpa",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "item-patch"
 }

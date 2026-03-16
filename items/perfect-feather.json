@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "perfect-feather",
 	"image": "irfea2",
+	"stackLimit": 1000,
 	"type": "irellian-quest-item"
 }

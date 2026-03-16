@@ -3,5 +3,6 @@
 	"id": "strangers-chest",
 	"image": "sc2",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "strangers-gift"
 }

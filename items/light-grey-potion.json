@@ -3,5 +3,6 @@
 	"id": "light-grey-potion",
 	"image": "pg1",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "magic-potion-other"
 }

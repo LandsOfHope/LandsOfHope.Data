@@ -3,5 +3,6 @@
 	"id": "sculpture",
 	"image": "anf",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "stone-masonry-result"
 }

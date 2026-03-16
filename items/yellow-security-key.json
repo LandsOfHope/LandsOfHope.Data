@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "yellow-security-key",
 	"image": "6182",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

@@ -3,5 +3,6 @@
 	"id": "large-axe-handle",
 	"image": "it",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "new-crafting-resource"
 }

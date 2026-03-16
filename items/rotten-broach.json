@@ -3,5 +3,6 @@
 	"id": "rotten-broach",
 	"image": "rbh",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

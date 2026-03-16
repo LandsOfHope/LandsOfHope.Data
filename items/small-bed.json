@@ -3,5 +3,6 @@
 	"id": "small-bed",
 	"image": "bed",
 	"material": "wood",
-	"type": "house-furniture-i"
+	"stackLimit": 1000,
+	"type": "bed"
 }

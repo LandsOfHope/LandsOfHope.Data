@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "dual-enhancement",
 	"image": "zuyoro",
+	"stackLimit": 1000,
 	"type": "jewelry-upgrade"
 }

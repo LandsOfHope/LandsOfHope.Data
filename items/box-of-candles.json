@@ -4,5 +4,6 @@
 	"id": "box-of-candles",
 	"image": "gmboca",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

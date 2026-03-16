@@ -3,5 +3,6 @@
 	"id": "bloodied-beads",
 	"image": "bdb",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

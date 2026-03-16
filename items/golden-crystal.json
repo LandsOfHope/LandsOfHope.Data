@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "golden-crystal",
 	"image": "goc",
+	"stackLimit": 1000,
 	"type": "alchemy-ingredient"
 }

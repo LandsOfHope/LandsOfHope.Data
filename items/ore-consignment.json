@@ -3,5 +3,6 @@
 	"id": "ore-consignment",
 	"image": "bx",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

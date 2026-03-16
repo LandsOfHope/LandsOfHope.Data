@@ -3,5 +3,6 @@
 	"id": "decaying-coffin",
 	"image": "cof2",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

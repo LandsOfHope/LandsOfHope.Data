@@ -3,5 +3,6 @@
 	"id": "campfire",
 	"image": "2419",
 	"material": "wood",
-	"type": "house-furniture-iii"
+	"stackLimit": 1000,
+	"type": "fire-furniture"
 }

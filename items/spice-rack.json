@@ -3,5 +3,6 @@
 	"id": "spice-rack",
 	"image": "pwk",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "storage-box"
 }

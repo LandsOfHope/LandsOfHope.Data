@@ -4,5 +4,6 @@
 	"id": "pirate-map-piece-2",
 	"image": "puz2",
 	"material": "color",
+	"stackLimit": 1,
 	"type": "pirate-puzzle"
 }

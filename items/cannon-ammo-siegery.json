@@ -3,5 +3,6 @@
 	"id": "cannon-ammo-siegery",
 	"image": "ste",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

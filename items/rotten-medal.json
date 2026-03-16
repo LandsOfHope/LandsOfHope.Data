@@ -3,5 +3,6 @@
 	"id": "rotten-medal",
 	"image": "895",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

@@ -4,5 +4,6 @@
 	"id": "barrel-of-grog",
 	"image": "gmbagr",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "consumable-container"
 }

@@ -3,5 +3,6 @@
 	"id": "magical-artifact",
 	"image": "na",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

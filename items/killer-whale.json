@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "killer-whale",
 	"image": "6176",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

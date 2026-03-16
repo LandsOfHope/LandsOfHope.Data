@@ -3,5 +3,6 @@
 	"id": "worm-eaten-bowl",
 	"image": "abl",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

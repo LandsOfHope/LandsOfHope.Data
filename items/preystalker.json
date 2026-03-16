@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "preystalker",
 	"image": "gmprke",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

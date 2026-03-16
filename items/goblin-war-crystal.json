@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "goblin-war-crystal",
 	"image": "6745",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

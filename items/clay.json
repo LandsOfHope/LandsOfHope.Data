@@ -3,5 +3,6 @@
 	"id": "clay",
 	"image": "dri",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "resource-ctm"
 }

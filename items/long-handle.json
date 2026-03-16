@@ -3,5 +3,6 @@
 	"id": "long-handle",
 	"image": "feloha",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "new-crafting-resource"
 }

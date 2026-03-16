@@ -3,5 +3,6 @@
 	"id": "scrap-of-paper",
 	"image": "zuscpa",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

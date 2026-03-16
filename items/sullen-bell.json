@@ -3,5 +3,6 @@
 	"id": "sullen-bell",
 	"image": "sll",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

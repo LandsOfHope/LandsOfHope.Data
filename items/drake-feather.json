@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "drake-feather",
 	"image": "7009",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

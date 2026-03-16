@@ -4,5 +4,6 @@
 	"id": "pterosaur-kite",
 	"image": "2007",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "monster-spawner"
 }

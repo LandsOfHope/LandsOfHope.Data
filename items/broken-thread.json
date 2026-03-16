@@ -3,5 +3,6 @@
 	"id": "broken-thread",
 	"image": "5591",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

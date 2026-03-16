@@ -3,5 +3,6 @@
 	"id": "petrified-rib-bone",
 	"image": "b4",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

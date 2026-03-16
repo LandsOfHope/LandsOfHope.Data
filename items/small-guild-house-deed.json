@@ -3,5 +3,6 @@
 	"id": "small-guild-house-deed",
 	"image": "1070",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "house-deeds"
 }

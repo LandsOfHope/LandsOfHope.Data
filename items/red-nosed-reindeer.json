@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "red-nosed-reindeer",
 	"image": "6189",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

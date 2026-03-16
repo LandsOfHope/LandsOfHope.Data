@@ -3,5 +3,6 @@
 	"id": "cracked-broach",
 	"image": "ccb",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

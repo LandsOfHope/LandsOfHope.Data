@@ -3,5 +3,6 @@
 	"id": "powder",
 	"image": "pra",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "potion-binding-solution"
 }

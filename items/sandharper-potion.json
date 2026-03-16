@@ -3,5 +3,6 @@
 	"id": "sandharper-potion",
 	"image": "ce1",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "magic-potion-other"
 }

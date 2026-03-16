@@ -3,5 +3,6 @@
 	"id": "pure-relic-key",
 	"image": "zupureke",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "event-spawner"
 }

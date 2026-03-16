@@ -3,5 +3,6 @@
 	"id": "shield-rack",
 	"image": "hwk",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "storage-box"
 }

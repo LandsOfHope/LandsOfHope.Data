@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "jewel-of-the-delta",
 	"image": "fl2",
+	"stackLimit": 1,
 	"type": "stolen-item-hard"
 }

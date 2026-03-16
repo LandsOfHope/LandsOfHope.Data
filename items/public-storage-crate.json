@@ -3,5 +3,6 @@
 	"id": "public-storage-crate",
 	"image": "bx2",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "public-storage-box"
 }

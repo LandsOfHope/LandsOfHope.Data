@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "emerald-shedding",
 	"image": "shedding3",
+	"stackLimit": 1000,
 	"type": "subterran-quest-item"
 }

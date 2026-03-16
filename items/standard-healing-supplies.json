@@ -3,5 +3,6 @@
 	"id": "standard-healing-supplies",
 	"image": "bx",
 	"material": "gem",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

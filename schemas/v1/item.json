@@ -66,6 +66,10 @@
 			},
 			"type": "object"
 		},
+		"stackLimit": {
+			"minimum": 1,
+			"type": "integer"
+		},
 		"type": {
 			"$ref": "/schemas/v1/items-types-id.gen.json"
 		}

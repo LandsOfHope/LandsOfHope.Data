@@ -3,5 +3,6 @@
 	"id": "flower-pot",
 	"image": "5799",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "seeds-and-soil"
 }

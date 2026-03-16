@@ -3,5 +3,6 @@
 	"id": "stone-block",
 	"image": "gsb",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "resource-stone-masonry"
 }

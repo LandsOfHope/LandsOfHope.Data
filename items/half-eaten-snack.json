@@ -3,5 +3,6 @@
 	"id": "half-eaten-snack",
 	"image": "5589",
 	"material": "vegetable",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

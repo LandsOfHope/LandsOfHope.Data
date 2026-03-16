@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "magic-genie-dust",
 	"image": "5941",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

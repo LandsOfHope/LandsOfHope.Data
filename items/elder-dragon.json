@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "elder-dragon",
 	"image": "gmeldr",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

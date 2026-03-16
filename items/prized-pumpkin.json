@@ -3,5 +3,6 @@
 	"id": "prized-pumpkin",
 	"image": "zushhp",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "event-spawner"
 }

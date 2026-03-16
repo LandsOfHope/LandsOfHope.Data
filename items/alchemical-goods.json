@@ -4,5 +4,6 @@
 	"id": "alchemical-goods",
 	"image": "zualgo",
 	"material": "color",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

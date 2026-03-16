@@ -3,5 +3,6 @@
 	"id": "broken-statue",
 	"image": "bks",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

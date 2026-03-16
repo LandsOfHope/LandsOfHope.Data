@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "white-patch",
 	"image": "6885",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

@@ -3,5 +3,6 @@
 	"id": "power-crystal-light",
 	"image": "2436",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "golem-parts"
 }

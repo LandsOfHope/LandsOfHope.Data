@@ -3,5 +3,6 @@
 	"id": "cloth",
 	"image": "cl1",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "resource-tailoring"
 }

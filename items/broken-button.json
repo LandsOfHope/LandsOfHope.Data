@@ -3,5 +3,6 @@
 	"id": "broken-button",
 	"image": "5586",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

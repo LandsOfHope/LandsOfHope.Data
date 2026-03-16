@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "hot-iron",
 	"image": "6724",
+	"stackLimit": 1,
 	"type": "creature"
 }

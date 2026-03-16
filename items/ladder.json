@@ -3,5 +3,6 @@
 	"id": "ladder",
 	"image": "us1",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "ladder"
 }

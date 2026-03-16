@@ -4,5 +4,6 @@
 	"id": "kings-port",
 	"image": "gmkipo",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "event-spawner"
 }

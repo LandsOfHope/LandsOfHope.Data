@@ -3,5 +3,6 @@
 	"id": "chopping-saw",
 	"image": "1386",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "log-chopping-tool"
 }

@@ -3,5 +3,6 @@
 	"id": "brittle-stoneware",
 	"image": "bsa",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

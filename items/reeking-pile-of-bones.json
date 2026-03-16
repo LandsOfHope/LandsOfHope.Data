@@ -3,5 +3,6 @@
 	"id": "reeking-pile-of-bones",
 	"image": "rpb",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

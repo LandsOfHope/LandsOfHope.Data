@@ -4,5 +4,6 @@
 	"id": "box-of-cloth",
 	"image": "gmbocl",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

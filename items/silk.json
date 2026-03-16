@@ -3,5 +3,6 @@
 	"id": "silk",
 	"image": "thd",
 	"material": "spider",
+	"stackLimit": 1000,
 	"type": "resource-tailoring"
 }

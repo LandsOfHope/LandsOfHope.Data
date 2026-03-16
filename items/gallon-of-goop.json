@@ -3,5 +3,6 @@
 	"id": "gallon-of-goop",
 	"image": "cnr",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "challenge-trophy"
 }

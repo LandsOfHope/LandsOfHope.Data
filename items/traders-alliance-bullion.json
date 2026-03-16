@@ -3,5 +3,6 @@
 	"id": "traders-alliance-bullion",
 	"image": "ing2",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

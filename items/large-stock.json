@@ -3,5 +3,6 @@
 	"id": "large-stock",
 	"image": "it",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "new-crafting-resource"
 }

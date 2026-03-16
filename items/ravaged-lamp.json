@@ -3,5 +3,6 @@
 	"id": "ravaged-lamp",
 	"image": "na",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

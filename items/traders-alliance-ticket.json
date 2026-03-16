@@ -3,5 +3,6 @@
 	"id": "traders-alliance-ticket",
 	"image": "tiv",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "money-deed"
 }

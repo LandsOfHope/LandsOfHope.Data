@@ -3,5 +3,6 @@
 	"id": "large-storage-chest",
 	"image": "zulastch",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "storage-box"
 }

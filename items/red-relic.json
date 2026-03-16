@@ -3,5 +3,6 @@
 	"id": "red-relic",
 	"image": "6044",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "money-sink-voucher"
 }

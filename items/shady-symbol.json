@@ -3,5 +3,6 @@
 	"id": "shady-symbol",
 	"image": "ob",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

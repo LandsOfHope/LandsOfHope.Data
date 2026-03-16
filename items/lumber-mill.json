@@ -3,5 +3,6 @@
 	"id": "lumber-mill",
 	"image": "rlm",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

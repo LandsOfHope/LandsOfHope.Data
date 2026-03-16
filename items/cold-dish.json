@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "cold-dish",
 	"image": "5953",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

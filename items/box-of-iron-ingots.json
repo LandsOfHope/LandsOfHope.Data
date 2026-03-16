@@ -4,5 +4,6 @@
 	"id": "box-of-iron-ingots",
 	"image": "gmboirin",
 	"material": "color",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

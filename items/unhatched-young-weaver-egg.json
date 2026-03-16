@@ -3,5 +3,6 @@
 	"id": "unhatched-young-weaver-egg",
 	"image": "e8",
 	"material": "gem",
+	"stackLimit": 1,
 	"type": "monster-spawner"
 }

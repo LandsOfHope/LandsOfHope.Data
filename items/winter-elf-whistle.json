@@ -3,5 +3,6 @@
 	"id": "winter-elf-whistle",
 	"image": "zuwielwh",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "monster-spawner"
 }

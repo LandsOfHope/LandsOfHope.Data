@@ -3,5 +3,6 @@
 	"id": "crumbling-potsherd",
 	"image": "967",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

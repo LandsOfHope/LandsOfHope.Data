@@ -4,5 +4,6 @@
 	"id": "navy-supplies",
 	"image": "ct3",
 	"material": "cloth",
+	"stackLimit": 1000,
 	"type": "duty-item"
 }

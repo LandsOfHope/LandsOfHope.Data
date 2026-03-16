@@ -3,5 +3,6 @@
 	"id": "grimey-beads",
 	"image": "grb",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

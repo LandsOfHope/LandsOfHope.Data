@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "toy-soldiers-boot-polish",
 	"image": "6209",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

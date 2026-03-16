@@ -3,5 +3,6 @@
 	"id": "farm",
 	"image": "1068",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

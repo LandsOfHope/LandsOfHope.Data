@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "rare-painting-by-peekaso",
 	"image": "zurapabype",
+	"stackLimit": 1,
 	"type": "stolen-item-medium"
 }

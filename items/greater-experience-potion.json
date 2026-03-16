@@ -3,5 +3,6 @@
 	"id": "greater-experience-potion",
 	"image": "pe4",
 	"material": "gem",
+	"stackLimit": 1,
 	"type": "magic-potion-other"
 }

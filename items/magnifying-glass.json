@@ -3,5 +3,6 @@
 	"id": "magnifying-glass",
 	"image": "mon",
 	"material": "gem",
+	"stackLimit": 1,
 	"type": "treasure-hunter-tool"
 }

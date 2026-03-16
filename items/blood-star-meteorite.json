@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "blood-star-meteorite",
 	"image": "5993",
+	"stackLimit": 1000,
 	"type": "star-metal"
 }

@@ -3,5 +3,6 @@
 	"id": "splintered-jaw-bone",
 	"image": "b2",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

@@ -3,5 +3,6 @@
 	"id": "orb-of-terraforming",
 	"image": "zuorte",
 	"material": "stone",
+	"stackLimit": 1,
 	"type": "tile-claim"
 }

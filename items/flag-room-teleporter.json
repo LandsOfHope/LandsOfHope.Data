@@ -3,5 +3,6 @@
 	"id": "flag-room-teleporter",
 	"image": "po7",
 	"material": "gem",
+	"stackLimit": 1,
 	"type": "flag-transporter"
 }

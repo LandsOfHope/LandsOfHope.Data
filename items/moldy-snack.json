@@ -3,5 +3,6 @@
 	"id": "moldy-snack",
 	"image": "5594",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

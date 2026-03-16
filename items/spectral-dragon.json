@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "spectral-dragon",
 	"image": "5958",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

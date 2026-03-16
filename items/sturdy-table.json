@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "sturdy-table",
 	"image": "6715",
+	"stackLimit": 1,
 	"type": "creature"
 }

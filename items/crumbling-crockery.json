@@ -3,5 +3,6 @@
 	"id": "crumbling-crockery",
 	"image": "1019",
 	"material": "stone",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

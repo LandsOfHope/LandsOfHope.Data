@@ -3,5 +3,6 @@
 	"id": "golem-upgrade-dualwield",
 	"image": "2673",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "golem-parts"
 }

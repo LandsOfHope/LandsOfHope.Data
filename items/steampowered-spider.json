@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "steampowered-spider",
 	"image": "6729",
+	"stackLimit": 1,
 	"type": "creature"
 }

@@ -3,5 +3,6 @@
 	"id": "old-relic-storage",
 	"image": "6566",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "relic-trigger"
 }

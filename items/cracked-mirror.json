@@ -3,5 +3,6 @@
 	"id": "cracked-mirror",
 	"image": "ccm",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

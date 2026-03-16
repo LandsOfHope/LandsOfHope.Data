@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "sleep-in-peace",
 	"image": "zushsip",
+	"stackLimit": 1000,
 	"type": "halloween-2007"
 }

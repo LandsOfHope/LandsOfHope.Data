@@ -3,5 +3,6 @@
 	"id": "fountain-of-healing",
 	"image": "foun",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

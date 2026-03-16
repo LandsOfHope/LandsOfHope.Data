@@ -3,5 +3,6 @@
 	"id": "rock-face",
 	"image": "1062",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

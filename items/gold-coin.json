@@ -4,5 +4,6 @@
 	"id": "gold-coin",
 	"image": "6484",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "money-deed"
 }

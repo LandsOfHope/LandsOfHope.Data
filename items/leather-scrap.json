@@ -3,5 +3,6 @@
 	"id": "leather-scrap",
 	"image": "5592",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

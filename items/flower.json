@@ -3,5 +3,6 @@
 	"id": "flower",
 	"image": "flr",
 	"material": "berry",
+	"stackLimit": 1000,
 	"type": "plants"
 }

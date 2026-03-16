@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "a-cookie-cat",
 	"image": "6740",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

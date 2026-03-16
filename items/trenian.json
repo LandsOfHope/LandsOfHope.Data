@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "trenian",
 	"image": "gmtrnn",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

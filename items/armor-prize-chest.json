@@ -3,5 +3,6 @@
 	"id": "armor-prize-chest",
 	"image": "sc3",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "prize-box"
 }

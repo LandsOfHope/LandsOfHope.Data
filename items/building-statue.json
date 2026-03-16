@@ -3,5 +3,6 @@
 	"id": "building-statue",
 	"image": "1004",
 	"material": "stone",
+	"stackLimit": 1,
 	"type": "building-statues"
 }

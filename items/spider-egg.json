@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "spider-egg",
 	"image": "6268",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

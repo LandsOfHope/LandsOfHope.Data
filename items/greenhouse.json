@@ -3,5 +3,6 @@
 	"id": "greenhouse",
 	"image": "green3",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

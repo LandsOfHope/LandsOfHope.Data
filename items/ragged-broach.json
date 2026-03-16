@@ -3,5 +3,6 @@
 	"id": "ragged-broach",
 	"image": "1358",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

@@ -3,5 +3,6 @@
 	"id": "stake",
 	"image": "seb",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "stake"
 }

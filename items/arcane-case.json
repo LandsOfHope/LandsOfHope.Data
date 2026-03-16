@@ -3,5 +3,6 @@
 	"id": "arcane-case",
 	"image": "bc2",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "storage-box"
 }

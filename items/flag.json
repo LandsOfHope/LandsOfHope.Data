@@ -3,5 +3,6 @@
 	"id": "flag",
 	"image": "fl3",
 	"material": "cloth",
+	"stackLimit": 1,
 	"type": "fort-capture-flag"
 }

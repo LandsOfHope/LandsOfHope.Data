@@ -3,5 +3,6 @@
 	"id": "life-energy",
 	"image": "zuspba",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "event-spawner"
 }

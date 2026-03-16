@@ -4,5 +4,6 @@
 	"id": "box-of-fruit",
 	"image": "gmbofr",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "quest-item"
 }

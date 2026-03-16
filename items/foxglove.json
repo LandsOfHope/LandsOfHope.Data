@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "foxglove",
 	"image": "zufolv",
+	"stackLimit": 1000,
 	"type": "alchemy-ingredient"
 }

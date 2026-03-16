@@ -3,5 +3,6 @@
 	"id": "wardrobe",
 	"image": "wae1",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "storage-box"
 }

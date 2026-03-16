@@ -3,5 +3,6 @@
 	"id": "wand-of-incantations",
 	"image": "wand01",
 	"material": "gem",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

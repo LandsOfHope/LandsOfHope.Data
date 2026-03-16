@@ -3,5 +3,6 @@
 	"id": "perished-sphere",
 	"image": "pse",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

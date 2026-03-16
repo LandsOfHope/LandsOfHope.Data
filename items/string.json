@@ -3,5 +3,6 @@
 	"id": "string",
 	"image": "zustrr",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "new-crafting-resource"
 }

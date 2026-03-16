@@ -3,5 +3,6 @@
 	"id": "arena-dungeon-key",
 	"image": "gmarduke",
 	"material": "metal",
+	"stackLimit": 1000,
 	"type": "arena-dungeon-key"
 }

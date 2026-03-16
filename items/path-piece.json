@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "path-piece",
 	"image": "6376",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

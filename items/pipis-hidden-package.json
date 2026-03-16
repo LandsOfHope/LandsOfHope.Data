@@ -3,5 +3,6 @@
 	"id": "pipis-hidden-package",
 	"image": "399",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "pet-bonus-item"
 }

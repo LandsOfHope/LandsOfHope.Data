@@ -3,5 +3,6 @@
 	"id": "flask",
 	"image": "bf1",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

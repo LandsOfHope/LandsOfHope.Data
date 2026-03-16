@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "hydrania",
 	"image": "6770",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

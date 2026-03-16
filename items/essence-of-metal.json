@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "essence-of-metal",
 	"image": "6514",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

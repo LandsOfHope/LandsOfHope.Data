@@ -3,5 +3,6 @@
 	"id": "deep-magmite-samples",
 	"image": "ore",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

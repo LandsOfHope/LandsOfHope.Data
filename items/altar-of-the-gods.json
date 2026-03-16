@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "altar-of-the-gods",
 	"image": "6610",
+	"stackLimit": 1000,
 	"type": "gladiator-altar"
 }

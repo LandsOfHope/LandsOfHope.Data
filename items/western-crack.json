@@ -4,5 +4,6 @@
 	"id": "western-crack",
 	"image": "crack7",
 	"material": "metal",
+	"stackLimit": 1,
 	"type": "directional-crack"
 }

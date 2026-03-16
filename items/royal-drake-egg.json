@@ -3,5 +3,6 @@
 	"id": "royal-drake-egg",
 	"image": "zurodreg",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "monster-spawner"
 }

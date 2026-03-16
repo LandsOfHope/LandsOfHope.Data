@@ -3,5 +3,6 @@
 	"id": "root",
 	"image": "rl1",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

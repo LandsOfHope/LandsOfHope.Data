@@ -3,5 +3,6 @@
 	"id": "grimey-carving",
 	"image": "1013",
 	"material": "wood",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

@@ -3,5 +3,6 @@
 	"id": "fury-patch",
 	"image": "gmfupa",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "item-patch"
 }

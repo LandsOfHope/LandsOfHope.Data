@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "goblin-gizmo",
 	"image": "6699",
+	"stackLimit": 1,
 	"type": "goblin-gizmo"
 }

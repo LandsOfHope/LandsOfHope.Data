@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "pile-of-fertile-soil",
 	"image": "soil",
+	"stackLimit": 1000,
 	"type": "seeds-and-soil"
 }

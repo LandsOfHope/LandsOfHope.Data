@@ -3,5 +3,6 @@
 	"id": "milestone",
 	"image": "si9",
 	"material": "wood",
+	"stackLimit": 1,
 	"type": "screen-trigger"
 }

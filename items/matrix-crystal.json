@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "matrix-crystal",
 	"image": "6993",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

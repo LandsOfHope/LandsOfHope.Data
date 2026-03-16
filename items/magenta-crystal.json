@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "magenta-crystal",
 	"image": "ymc",
+	"stackLimit": 1000,
 	"type": "alchemy-ingredient"
 }

@@ -3,5 +3,6 @@
 	"id": "decaying-rib-bone",
 	"image": "976",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "stealing-loot"
 }

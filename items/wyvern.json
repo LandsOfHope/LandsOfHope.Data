@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "wyvern",
 	"image": "6064",
+	"stackLimit": 1,
 	"type": "special-creature"
 }

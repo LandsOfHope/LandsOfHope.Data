@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "royal-palace-deed",
 	"image": "6093",
+	"stackLimit": 1,
 	"type": "house-deeds"
 }

@@ -3,5 +3,6 @@
 	"id": "small-fireplace",
 	"image": "2420",
 	"material": "stone",
-	"type": "house-furniture-iii"
+	"stackLimit": 1000,
+	"type": "fire-furniture"
 }

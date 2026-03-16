@@ -3,5 +3,6 @@
 	"id": "pile-of-skulls",
 	"image": "zushsc",
 	"material": "gem",
+	"stackLimit": 1000,
 	"type": "event-spawner"
 }

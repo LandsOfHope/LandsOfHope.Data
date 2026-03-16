@@ -3,5 +3,6 @@
 	"id": "gunsmith",
 	"image": "1077",
 	"material": "hide",
+	"stackLimit": 1000,
 	"type": "resource-harvester"
 }

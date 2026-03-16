@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "blue-crystal-fragment",
 	"image": "6979",
+	"stackLimit": 1000,
 	"type": "trophy"
 }

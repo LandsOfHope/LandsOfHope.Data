@@ -3,5 +3,6 @@
 	"id": "doll",
 	"image": "dol",
 	"material": "hide",
+	"stackLimit": 1,
 	"type": "quest-item"
 }

@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "chocolate-deccy-statue",
 	"image": "6210",
+	"stackLimit": 1,
 	"type": "chocolate-statue"
 }

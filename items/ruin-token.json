@@ -2,5 +2,6 @@
 	"$type": "/v1/item",
 	"id": "ruin-token",
 	"image": "6790",
+	"stackLimit": 1000,
 	"type": "trophy"
 }
