@@ -9,6 +9,18 @@ const schemaVersions = sync("schemas/*");
 
 const validationRoot = "api/js/validation/";
 
+const fixModelValidation = (data) => {
+	return data.replaceAll(
+		/const ([^\s]*?)\s*=\s*require\("([^"]*)"\)([^;]*);/g,
+		(_, assignedVariable, includedModulePath, postIncludeModuleObjAccess) => {
+			if (postIncludeModuleObjAccess === '.default') {
+				return `import ${assignedVariable} from "${includedModulePath}";`;
+			}
+			return `import ${assignedVariable}_default from "${includedModulePath}";const ${assignedVariable} = ${assignedVariable}_default${postIncludeModuleObjAccess};`;
+		},
+	);
+};
+
 const main = async () => {
 	schemaVersions.forEach((version) => {
 		const versionName = basename(version);
@@ -21,7 +33,7 @@ const main = async () => {
 			JSON.parse(readFileSync(s, { encoding: "utf-8" })),
 		);
 		const ajv = new Ajv({
-			code: { esm: true, source: true },
+			code: { esm: true, optimize: 3, source: true },
 			strict: true,
 		});
 		addFormats(ajv);
@@ -38,10 +50,21 @@ const main = async () => {
 		while (retry) {
 			retry = false;
 			try {
-				const code = standaloneCode(ajv, titleMap);
+				const code = fixModelValidation(standaloneCode(ajv, titleMap));
 				writeFileSync(
 					join(validationRoot, basename(version), "model-validation.js"),
 					code,
+				);
+
+				const validateFunctions = Object.keys(titleMap);
+
+				writeFileSync(
+					join(validationRoot, basename(version), "model-validation.d.ts"),
+					`// Auto-generated for model-validation.js
+${validateFunctions
+						.map((fn) => `export var ${fn}: (data: unknown) => data is ${fn.replace("validate", "")} & { errors: unknown[] };`)
+						.join("\n")}
+							`
 				);
 			} catch (err) {
 				if (err instanceof MissingRefError) {
