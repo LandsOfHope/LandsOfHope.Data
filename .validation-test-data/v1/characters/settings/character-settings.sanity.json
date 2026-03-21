@@ -1,0 +1,50 @@
+{
+    "$type": "/v1/characters/settings/character-settings",
+    "action": {
+        "defaultBuildingAction": "enter",
+        "defaultCharacterAction": "talk",
+        "defaultMonsterAction": "attack"
+    },
+    "advanced": {
+        "disableBonusResourceItems": false,
+        "noWorldSpawns": false,
+        "showNPCNotices": true
+    },
+    "bags": {
+        "defaultBag": "bag",
+        "defaultIdBag": "bag",
+        "defaultTradeskillDestinationBag": "bag",
+        "swapMode": "order-by-type-name-quality"
+    },
+    "character": {
+        "allowedEmotes": "standard",
+        "experienceOff": false,
+        "privateSkills": false,
+        "refuseAppraisal": false,
+        "refuseSpecialPost": false,
+        "refuseTrades": false,
+        "taunt": false
+    },
+    "combat": {
+        "gotoLoot": true,
+        "hideAmmoMessages": false
+    },
+    "display": {
+        "allegianceMessages": true,
+        "showLevelMap": false,
+        "tooltipLocation": "top-right-of-map",
+        "yourTileColor": "#debc32"
+    },
+    "expansion": {
+        "uwOceanBackground": "ocean1"
+    },
+    "extraBar": {
+        "extraWindowPrimary": "getting-started",
+        "extraWindowSecondary": "none"
+    },
+    "pricing": {
+        "building": 1000,
+        "item": 10,
+        "pet": 1000
+    }
+}

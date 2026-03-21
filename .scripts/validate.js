@@ -403,6 +403,7 @@ const main = async () =>
 		validateNegativeTestData("v1/characters/queue/character-queue-item"),
 		validateTestData("v1/characters/search/character-search-condition"),
 		validateNegativeTestData("v1/characters/search/character-search-condition"),
+		validateTestData("v1/characters/settings/character-settings"),
 		validateTestData("v1/chat/chat-mention"),
 		validateTestData("v1/chat/chat-message"),
 		validateTestData("v1/chat/chat-settings"),
