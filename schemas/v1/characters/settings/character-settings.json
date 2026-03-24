@@ -174,12 +174,7 @@
 			"additionalProperties": false,
 			"properties": {
 				"uwOceanBackground": {
-					"enum": [
-						"ocean1",
-						"ocean2",
-						"ocean3",
-						"ocean4"
-					]
+					"enum": ["ocean1", "ocean2", "ocean3", "ocean4"]
 				}
 			},
 			"type": "object"
@@ -235,9 +230,7 @@
 			"type": "object"
 		}
 	},
-	"required": [
-		"$type"
-	],
+	"required": ["$type"],
 	"title": "CharacterSettings",
 	"type": "object"
 }
