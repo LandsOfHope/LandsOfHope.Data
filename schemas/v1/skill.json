@@ -6,7 +6,7 @@
 			"const": "/v1/skill"
 		},
 		"group": {
-			"$ref": "/schemas/v1/skill-group.json"
+			"$ref": "/schemas/v1/skills-groups-id.gen.json"
 		},
 		"titles": {
 			"additionalProperties": false,

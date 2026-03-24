@@ -20,6 +20,7 @@ const directories = (() => {
 		"skills/caring/actions",
 		"skills/spells/*",
 		"skills/styles/*",
+		"skills/groups",
 		"maps/terrains/*",
 		"maps/worlds",
 		"maps/tiles/actions",
