@@ -12,12 +12,7 @@
 		"enabled": true
 	},
 	"files": {
-		"includes": [
-			"**/*.js",
-			"**/*.json",
-			"!**/*.gen.json",
-			"!maps/worlds/*/tiles.json"
-		]
+		"includes": ["**/*.js", "**/*.ts", "!node_modules", "**/*.json"]
 	},
 	"formatter": {
 		"enabled": true

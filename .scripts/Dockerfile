@@ -25,6 +25,8 @@ RUN node .scripts/generate_api_ts.js
 RUN node .scripts/generate_search_indexes.js
 RUN node .scripts/generate_health.js
 
+RUN npx biome check api/ --write
+
 RUN rm -r .[^.]*
 
 FROM httpd:2.4.62-alpine AS prod
