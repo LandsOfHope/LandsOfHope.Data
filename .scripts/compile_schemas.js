@@ -13,10 +13,13 @@ const fixModelValidation = (data) => {
 	return data.replaceAll(
 		/const ([^\s]*?)\s*=\s*require\("([^"]*)"\)([^;]*);/g,
 		(_, assignedVariable, includedModulePath, postIncludeModuleObjAccess) => {
-			if (postIncludeModuleObjAccess === '.default') {
+			if (postIncludeModuleObjAccess === ".default") {
 				return `import ${assignedVariable} from "${includedModulePath}";`;
 			}
-			return `import ${assignedVariable}_default from "${includedModulePath}";const ${assignedVariable} = ${assignedVariable}_default${postIncludeModuleObjAccess};`;
+			if (postIncludeModuleObjAccess === "") {
+				return `import * as ${assignedVariable} from "${includedModulePath}";`;
+			}
+			return `import * as ${assignedVariable}_module from "${includedModulePath}";const ${assignedVariable} = ${assignedVariable}_module${postIncludeModuleObjAccess};`;
 		},
 	);
 };
@@ -62,9 +65,12 @@ const main = async () => {
 					join(validationRoot, basename(version), "model-validation.d.ts"),
 					`// Auto-generated for model-validation.js
 ${validateFunctions
-						.map((fn) => `export var ${fn}: (data: unknown) => data is ${fn.replace("validate", "")} & { errors: unknown[] };`)
-						.join("\n")}
-							`
+	.map(
+		(fn) =>
+			`export var ${fn}: (data: unknown) => data is ${fn.replace("validate", "")} & { errors: unknown[] };`,
+	)
+	.join("\n")}
+							`,
 				);
 			} catch (err) {
 				if (err instanceof MissingRefError) {
