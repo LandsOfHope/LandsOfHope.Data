@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "stable", "resurrect", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "huf",
 		"level": {
-			"primary": 1000,
-			"sub": 0
+			"primary": 700
 		},
 		"name": "Pelimma",
+		"race": "human",
 		"sex": "F",
-		"title": "stable-master"
+		"title": "healer"
 	},
 	"status": {
 		"dead": false,

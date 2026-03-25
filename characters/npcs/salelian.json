@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "train-recipes", "quests"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "haf",
 		"level": {
-			"primary": 650
+			"primary": 1
 		},
 		"name": "Salelian",
+		"race": "halfling",
 		"sex": "F",
-		"title": "blacksmith"
+		"title": "hunter"
 	},
 	"status": {
 		"dead": false,

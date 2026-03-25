@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mnd1",
+		"level": {
+			"primary": 95
+		},
+		"name": "Dylbiran",
+		"race": "metal-dragon",
+		"sex": "M",
+		"title": "cloth-goods-vendor"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -5,11 +5,12 @@
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hum",
 		"level": {
-			"primary": 1
+			"primary": 600
 		},
 		"name": "Wicardowyn",
+		"race": "human",
 		"sex": "M",
-		"title": "peasant"
+		"title": "mail-goods-vendor"
 	},
 	"status": {
 		"dead": false,

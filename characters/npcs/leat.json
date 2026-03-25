@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "resurrect", "quests", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "hum",
+		"image": "mpgnm",
 		"level": {
-			"primary": 30
+			"primary": 1
 		},
 		"name": "Leat",
+		"race": "gnome",
 		"sex": "M",
-		"title": "healer"
+		"title": "hunter"
 	},
 	"status": {
 		"dead": false,

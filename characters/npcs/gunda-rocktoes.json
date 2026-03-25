@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "train-skills"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "dwm",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Gunda Rocktoes",
+		"race": "dwarf",
 		"sex": "M",
 		"title": "quarry-surveyor"
 	},

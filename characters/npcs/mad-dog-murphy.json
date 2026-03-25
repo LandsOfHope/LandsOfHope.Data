@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "maddog",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Mad `Dog` Murphy",
+		"race": "barbegazi",
 		"sex": "F",
 		"title": "hunter"
 	},

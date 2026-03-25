@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "stable"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "huf",
@@ -8,6 +8,7 @@
 			"primary": 200
 		},
 		"name": "Haerassa",
+		"race": "human",
 		"sex": "F",
 		"title": "stable-master"
 	},

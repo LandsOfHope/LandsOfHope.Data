@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "stable"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "asim1",
+		"level": {
+			"primary": 950
+		},
+		"name": "Urho",
+		"race": "human",
+		"sex": "M",
+		"title": "stable-master"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -5,11 +5,12 @@
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hum",
 		"level": {
-			"primary": 775
+			"primary": 275
 		},
 		"name": "Oneap",
+		"race": "human",
 		"sex": "M",
-		"title": "general-store"
+		"title": "bounty-master"
 	},
 	"status": {
 		"dead": false,

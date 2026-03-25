@@ -5,11 +5,12 @@
 		"$type": "/v1/characters/appearance-profile",
 		"image": "huf",
 		"level": {
-			"primary": 900
+			"primary": 175
 		},
 		"name": "Geradith",
+		"race": "human",
 		"sex": "F",
-		"title": "inn-keeper"
+		"title": "cloth-goods-vendor"
 	},
 	"status": {
 		"dead": false,

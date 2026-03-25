@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "quests"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mpnef",
+		"level": {
+			"primary": 1
+		},
+		"name": "Sarita",
+		"race": "neanderthal",
+		"sex": "F",
+		"title": "hunter"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

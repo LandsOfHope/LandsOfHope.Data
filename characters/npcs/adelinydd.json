@@ -5,11 +5,12 @@
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hum",
 		"level": {
-			"primary": 1
+			"primary": 175
 		},
 		"name": "Adelinydd",
+		"race": "human",
 		"sex": "M",
-		"title": "hunter"
+		"title": "bounty-master"
 	},
 	"status": {
 		"dead": false,

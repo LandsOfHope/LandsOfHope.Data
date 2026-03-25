@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 375
+		},
+		"name": "Patrik",
+		"race": "human",
+		"sex": "M",
+		"title": "leather-goods-vendor"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

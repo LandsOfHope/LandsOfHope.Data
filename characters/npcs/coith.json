@@ -1,16 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "quests", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "mjpshdm",
+		"image": "hum",
 		"level": {
-			"primary": 1000,
-			"sub": 0
+			"primary": 775
 		},
 		"name": "Coith",
+		"race": "human",
 		"sex": "M",
-		"title": "leather-goods-vendor"
+		"title": "cloth-goods-vendor"
 	},
 	"status": {
 		"dead": false,

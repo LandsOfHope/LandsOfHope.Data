@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "resurrect", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "fcleric",
@@ -8,6 +8,7 @@
 			"primary": 100
 		},
 		"name": "Neria Fixeruper",
+		"race": "human",
 		"sex": "F",
 		"title": "healer"
 	},

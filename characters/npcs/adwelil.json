@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "asim1",
+		"image": "hum",
 		"level": {
-			"primary": 950
+			"primary": 100
 		},
 		"name": "Adwelil",
+		"race": "human",
 		"sex": "M",
-		"title": "stable-master"
+		"title": "banker"
 	},
 	"status": {
 		"dead": false,

@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "dwf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Sister Romulas",
+		"race": "dwarf",
+		"sex": "F",
+		"title": "large-staves-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "quests", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "blaf5",
+		"image": "dof",
 		"level": {
-			"primary": 40
+			"primary": 1
 		},
 		"name": "Larayni",
+		"race": "drow",
 		"sex": "F",
-		"title": "general-store"
+		"title": "hunter"
 	},
 	"status": {
 		"dead": false,

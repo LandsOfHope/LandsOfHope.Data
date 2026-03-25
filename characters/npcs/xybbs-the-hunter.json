@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "quests"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "ws2",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Xybbs the Hunter",
+		"race": "sprite",
 		"sex": "M",
 		"title": "hunter"
 	},

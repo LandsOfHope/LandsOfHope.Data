@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 700
+		},
+		"name": "Auno",
+		"race": "human",
+		"sex": "M",
+		"title": "mail-goods-vendor"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

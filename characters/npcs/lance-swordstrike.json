@@ -3,12 +3,13 @@
 	"actions": ["talk"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "sa2",
+		"image": "hum",
 		"level": {
 			"primary": 1
 		},
 		"name": "Lance Swordstrike",
-		"sex": "F",
+		"race": "human",
+		"sex": "M",
 		"title": "large-swords-trainer"
 	},
 	"status": {

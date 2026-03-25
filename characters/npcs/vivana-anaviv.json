@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "resurrect", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "blaf2",
@@ -9,6 +9,7 @@
 			"sub": 0
 		},
 		"name": "Vivana Anaviv",
+		"race": "human",
 		"sex": "F",
 		"title": "healer"
 	},

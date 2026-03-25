@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "quests"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 1
+		},
+		"name": "Jyrki",
+		"race": "human",
+		"sex": "M",
+		"title": "hunter"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

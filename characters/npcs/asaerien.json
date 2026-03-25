@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "stable", "resurrect", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "asif1",
+		"image": "huf",
 		"level": {
-			"primary": 55
+			"primary": 375
 		},
 		"name": "Asaerien",
+		"race": "human",
 		"sex": "F",
-		"title": "stable-master"
+		"title": "healer"
 	},
 	"status": {
 		"dead": false,

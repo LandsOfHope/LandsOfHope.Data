@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "stable"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "pim",
+		"level": {
+			"primary": 575
+		},
+		"name": "Perlic",
+		"race": "pixie",
+		"sex": "M",
+		"title": "stable-master"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

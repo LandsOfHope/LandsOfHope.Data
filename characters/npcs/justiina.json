@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "sohuf1",
+		"level": {
+			"primary": 950
+		},
+		"name": "Justiina",
+		"race": "human",
+		"sex": "F",
+		"title": "mail-goods-vendor"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

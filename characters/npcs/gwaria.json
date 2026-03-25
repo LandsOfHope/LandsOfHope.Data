@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "stable", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "huf",
 		"level": {
-			"primary": 60
+			"primary": 175
 		},
 		"name": "Gwaria",
+		"race": "human",
 		"sex": "F",
-		"title": "stable-master"
+		"title": "mail-goods-vendor"
 	},
 	"status": {
 		"dead": false,

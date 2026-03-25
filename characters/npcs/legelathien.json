@@ -5,11 +5,12 @@
 		"$type": "/v1/characters/appearance-profile",
 		"image": "huf",
 		"level": {
-			"primary": 60
+			"primary": 450
 		},
 		"name": "Legelathien",
+		"race": "human",
 		"sex": "F",
-		"title": "mail-goods-vendor"
+		"title": "banker"
 	},
 	"status": {
 		"dead": false,

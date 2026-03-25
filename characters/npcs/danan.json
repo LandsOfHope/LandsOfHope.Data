@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "quests"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "com",
+		"level": {
+			"primary": 1
+		},
+		"name": "Danan",
+		"race": "centaur",
+		"sex": "M",
+		"title": "hunter"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

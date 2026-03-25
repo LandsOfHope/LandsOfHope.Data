@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "stable"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hum",
 		"level": {
-			"primary": 1
+			"primary": 275
 		},
 		"name": "Gwoend",
+		"race": "human",
 		"sex": "M",
-		"title": "peasant"
+		"title": "stable-master"
 	},
 	"status": {
 		"dead": false,

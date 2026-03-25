@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "resurrect", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "asif4",
+		"level": {
+			"primary": 950
+		},
+		"name": "Reeta",
+		"race": "human",
+		"sex": "F",
+		"title": "healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

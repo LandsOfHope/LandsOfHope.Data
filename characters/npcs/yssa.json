@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "resurrect", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "pif",
+		"level": {
+			"primary": 575
+		},
+		"name": "Yssa",
+		"race": "pixie",
+		"sex": "F",
+		"title": "healer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

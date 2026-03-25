@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "train-recipes", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "ham",
+		"image": "hum",
 		"level": {
-			"primary": 950
+			"primary": 675
 		},
 		"name": "Goilin",
+		"race": "human",
 		"sex": "M",
-		"title": "alchemist"
+		"title": "leather-goods-vendor"
 	},
 	"status": {
 		"dead": false,

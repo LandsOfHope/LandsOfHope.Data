@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "stable", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hum",
 		"level": {
-			"primary": 975
+			"primary": 375
 		},
 		"name": "Noijar",
+		"race": "human",
 		"sex": "M",
-		"title": "plate-goods-vendor"
+		"title": "stable-master"
 	},
 	"status": {
 		"dead": false,

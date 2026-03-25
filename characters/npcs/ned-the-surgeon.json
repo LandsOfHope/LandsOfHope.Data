@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "resurrect"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "pirate3",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Ned the Surgeon",
+		"race": "human",
 		"sex": "M",
 		"title": "league-pirate-medic"
 	},

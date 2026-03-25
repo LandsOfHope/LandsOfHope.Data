@@ -5,11 +5,12 @@
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hum",
 		"level": {
-			"primary": 1
+			"primary": 100
 		},
 		"name": "Babard",
+		"race": "human",
 		"sex": "M",
-		"title": "peasant"
+		"title": "leather-goods-vendor"
 	},
 	"status": {
 		"dead": false,

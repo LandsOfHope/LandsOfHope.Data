@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "quests"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "wof",
+		"level": {
+			"primary": 1
+		},
+		"name": "Willowfur",
+		"race": "werewolf",
+		"sex": "F",
+		"title": "hunter"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

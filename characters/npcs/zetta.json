@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "vaf",
+		"level": {
+			"primary": 600
+		},
+		"name": "Zetta",
+		"race": "vampire",
+		"sex": "F",
+		"title": "health-stealing-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

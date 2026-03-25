@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "stable"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "hum",
+		"level": {
+			"primary": 300
+		},
+		"name": "Reijo",
+		"race": "human",
+		"sex": "M",
+		"title": "stable-master"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

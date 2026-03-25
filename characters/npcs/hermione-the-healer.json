@@ -3,11 +3,12 @@
 	"actions": ["talk"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "dcf",
+		"image": "pif",
 		"level": {
 			"primary": 1
 		},
 		"name": "Hermione the Healer",
+		"race": "pixie",
 		"sex": "F",
 		"title": "healer-trainer"
 	},

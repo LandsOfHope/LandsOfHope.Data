@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "train-recipes"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "haf",
@@ -8,6 +8,7 @@
 			"primary": 650
 		},
 		"name": "Melisa Hellborn",
+		"race": "halfling",
 		"sex": "F",
 		"title": "leatherworker"
 	},

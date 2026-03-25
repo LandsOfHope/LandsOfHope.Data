@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "resurrect"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "irelf1",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Mela Mump",
+		"race": "irellian",
 		"sex": "F",
 		"title": "irellian-restorer"
 	},

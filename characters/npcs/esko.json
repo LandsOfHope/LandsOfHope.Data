@@ -1,0 +1,20 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "huf",
+		"level": {
+			"primary": 1000,
+			"sub": 0
+		},
+		"name": "Esko",
+		"race": "human",
+		"sex": "F",
+		"title": "bounty-master"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

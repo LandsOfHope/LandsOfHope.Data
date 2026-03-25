@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "sa2",
+		"level": {
+			"primary": 1
+		},
+		"name": "Pike Swordstrike",
+		"race": "scarecrow",
+		"sex": "F",
+		"title": "large-swords-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

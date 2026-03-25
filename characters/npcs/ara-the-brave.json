@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "quests"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "elf",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Ara the Brave",
+		"race": "elf",
 		"sex": "F",
 		"title": "hunter"
 	},

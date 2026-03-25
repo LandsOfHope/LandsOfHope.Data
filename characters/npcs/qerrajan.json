@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "quests"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "hum",
+		"image": "mpcym",
 		"level": {
 			"primary": 1
 		},
 		"name": "Qerrajan",
+		"race": "cyclops",
 		"sex": "M",
-		"title": "peasant"
+		"title": "hunter"
 	},
 	"status": {
 		"dead": false,

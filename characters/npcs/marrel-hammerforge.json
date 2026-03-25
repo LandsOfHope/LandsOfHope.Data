@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "train-skills"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "dwf",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Marrel Hammerforge",
+		"race": "dwarf",
 		"sex": "F",
 		"title": "blacksmith-trainer"
 	},

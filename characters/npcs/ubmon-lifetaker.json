@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "resurrect", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "my1",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Ubmon Lifetaker",
+		"race": "mummy",
 		"sex": "M",
 		"title": "healer"
 	},

@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpdm3",
+		"level": {
+			"primary": 90
+		},
+		"name": "Olrag",
+		"race": "deamon",
+		"sex": "M",
+		"title": "general-store"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

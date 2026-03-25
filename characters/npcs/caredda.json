@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "quests"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hrf",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Caredda",
+		"race": "hrrtani",
 		"sex": "F",
 		"title": "hunter"
 	},

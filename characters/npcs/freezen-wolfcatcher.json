@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "quests"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "il1",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Freezen Wolfcatcher",
+		"race": "ice-troll",
 		"sex": "M",
 		"title": "hunter"
 	},

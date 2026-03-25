@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "wff",
+		"level": {
+			"primary": 1
+		},
+		"name": "Hannah the Healer",
+		"race": "water-faerie",
+		"sex": "F",
+		"title": "healer-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

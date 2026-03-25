@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mnd1",
+		"level": {
+			"primary": 95
+		},
+		"name": "Idrunth",
+		"race": "metal-dragon",
+		"sex": "M",
+		"title": "appraiser"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

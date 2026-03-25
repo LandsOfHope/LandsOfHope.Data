@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "train-recipes"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "pim",
@@ -8,6 +8,7 @@
 			"primary": 400
 		},
 		"name": "Orchidnam Chestmaker",
+		"race": "pixie",
 		"sex": "M",
 		"title": "furnisher"
 	},

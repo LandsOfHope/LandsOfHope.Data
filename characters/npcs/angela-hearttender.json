@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "resurrect", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "ddf",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Angela Hearttender",
+		"race": "dark-dwarf",
 		"sex": "F",
 		"title": "healer"
 	},

@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "quests"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "mmf",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Koirin",
+		"race": "maminal",
 		"sex": "F",
 		"title": "hunter"
 	},

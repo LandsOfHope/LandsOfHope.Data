@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "mjpdf3",
+		"level": {
+			"primary": 90
+		},
+		"name": "Xazrimoth",
+		"race": "deamon",
+		"sex": "M",
+		"title": "mail-goods-vendor"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

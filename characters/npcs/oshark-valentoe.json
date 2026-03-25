@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "resurrect"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "elm",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Oshark Valentoe",
+		"race": "elf",
 		"sex": "M",
 		"title": "myzan-defender-healer"
 	},

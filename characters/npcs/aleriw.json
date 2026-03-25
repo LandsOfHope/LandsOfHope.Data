@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "stable"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hum",
 		"level": {
-			"primary": 775
+			"primary": 1
 		},
 		"name": "Aleriw",
+		"race": "human",
 		"sex": "M",
-		"title": "stable-master"
+		"title": "peasant"
 	},
 	"status": {
 		"dead": false,

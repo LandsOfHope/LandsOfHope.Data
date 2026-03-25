@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "train-recipes"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "dwm",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Derien Metalforger",
+		"race": "dwarf",
 		"sex": "M",
 		"title": "camp-blacksmith"
 	},

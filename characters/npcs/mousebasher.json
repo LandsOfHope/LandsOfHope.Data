@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "quests"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "ocf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Mousebasher",
+		"race": "orc-warrior",
+		"sex": "F",
+		"title": "hunter"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

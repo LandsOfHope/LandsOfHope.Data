@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "resurrect"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "blaf5",
@@ -8,6 +8,7 @@
 			"primary": 55
 		},
 		"name": "Dr Felicia Hacksaw",
+		"race": "human",
 		"sex": "F",
 		"title": "healer"
 	},

@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "train-recipes"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "ham",
@@ -8,6 +8,7 @@
 			"primary": 650
 		},
 		"name": "Ularedric Potionmaker",
+		"race": "halfling",
 		"sex": "M",
 		"title": "alchemist"
 	},

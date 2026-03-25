@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "quests", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "huf",
+		"image": "mpscaf",
 		"level": {
-			"primary": 975
+			"primary": 1
 		},
 		"name": "Brayllan",
+		"race": "scavenger",
 		"sex": "F",
-		"title": "general-store"
+		"title": "hunter"
 	},
 	"status": {
 		"dead": false,

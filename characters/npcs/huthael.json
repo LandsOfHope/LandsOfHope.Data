@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk", "trade"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "pim",
+		"level": {
+			"primary": 575
+		},
+		"name": "Huthael",
+		"race": "pixie",
+		"sex": "M",
+		"title": "mail-goods-vendor"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

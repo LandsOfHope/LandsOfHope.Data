@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "resurrect"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "mpskef",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Grimwise Grimagol",
+		"race": "skeleton",
 		"sex": "F",
 		"title": "dark-clan-lifemender"
 	},

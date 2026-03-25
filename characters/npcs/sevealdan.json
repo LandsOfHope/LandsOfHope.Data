@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "quests", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "dom",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Sevealdan",
+		"race": "drow",
 		"sex": "M",
 		"title": "hunter"
 	},

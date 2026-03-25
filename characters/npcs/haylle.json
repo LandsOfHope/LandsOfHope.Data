@@ -5,11 +5,12 @@
 		"$type": "/v1/characters/appearance-profile",
 		"image": "huf",
 		"level": {
-			"primary": 1
+			"primary": 200
 		},
 		"name": "Haylle",
+		"race": "human",
 		"sex": "F",
-		"title": "peasant"
+		"title": "leather-goods-vendor"
 	},
 	"status": {
 		"dead": false,

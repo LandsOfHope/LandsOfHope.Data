@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "resurrect"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hgf",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Vandred Heartseeker",
+		"race": "hag",
 		"sex": "F",
 		"title": "dark-clan-lifemender"
 	},

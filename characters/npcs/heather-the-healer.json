@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "dcf",
+		"level": {
+			"primary": 1
+		},
+		"name": "Heather the Healer",
+		"race": "dragonclan",
+		"sex": "F",
+		"title": "healer-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}

@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "stable"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "asif4",
+		"image": "fstable",
 		"level": {
-			"primary": 950
+			"primary": 5
 		},
 		"name": "Cadethien",
+		"race": "human",
 		"sex": "F",
-		"title": "healer"
+		"title": "stable-master"
 	},
 	"status": {
 		"dead": false,

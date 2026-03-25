@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
-		"image": "smf",
+		"image": "huf",
 		"level": {
-			"primary": 800
+			"primary": 1
 		},
 		"name": "Adiari",
+		"race": "human",
 		"sex": "F",
-		"title": "leather-goods-vendor"
+		"title": "peasant"
 	},
 	"status": {
 		"dead": false,

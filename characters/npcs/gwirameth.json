@@ -1,15 +1,16 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "train-recipes", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "huf",
 		"level": {
-			"primary": 950
+			"primary": 125
 		},
 		"name": "Gwirameth",
+		"race": "human",
 		"sex": "F",
-		"title": "renovator"
+		"title": "cloth-goods-vendor"
 	},
 	"status": {
 		"dead": false,

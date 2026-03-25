@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "train-skills"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "uwuww",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Wilma Watts",
+		"race": "human",
 		"sex": "F",
 		"title": "skill-trainer"
 	},

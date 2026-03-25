@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk"],
+	"actions": ["talk", "quests"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "ocf",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Liverdicer",
+		"race": "orc-warrior",
 		"sex": "F",
 		"title": "hunter"
 	},

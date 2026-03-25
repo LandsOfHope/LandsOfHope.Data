@@ -5,11 +5,12 @@
 		"$type": "/v1/characters/appearance-profile",
 		"image": "huf",
 		"level": {
-			"primary": 1
+			"primary": 675
 		},
 		"name": "Legelille",
+		"race": "human",
 		"sex": "F",
-		"title": "peasant"
+		"title": "plate-goods-vendor"
 	},
 	"status": {
 		"dead": false,

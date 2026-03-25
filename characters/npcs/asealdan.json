@@ -5,11 +5,12 @@
 		"$type": "/v1/characters/appearance-profile",
 		"image": "hum",
 		"level": {
-			"primary": 425
+			"primary": 275
 		},
 		"name": "Asealdan",
+		"race": "human",
 		"sex": "M",
-		"title": "leather-goods-vendor"
+		"title": "general-store"
 	},
 	"status": {
 		"dead": false,

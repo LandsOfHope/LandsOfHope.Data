@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/character-header",
-	"actions": ["talk", "trade"],
+	"actions": ["talk", "resurrect", "trade"],
 	"appearance": {
 		"$type": "/v1/characters/appearance-profile",
 		"image": "smf",
@@ -8,6 +8,7 @@
 			"primary": 1
 		},
 		"name": "Big Boulderfists",
+		"race": "slammerkin",
 		"sex": "F",
 		"title": "healer"
 	},

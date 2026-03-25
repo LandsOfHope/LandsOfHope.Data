@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/characters/character-header",
+	"actions": ["talk"],
+	"appearance": {
+		"$type": "/v1/characters/appearance-profile",
+		"image": "lem",
+		"level": {
+			"primary": 1
+		},
+		"name": "Buzz Barrelflinger",
+		"race": "lemurian",
+		"sex": "M",
+		"title": "large-guns-trainer"
+	},
+	"status": {
+		"dead": false,
+		"jailed": false
+	}
+}
