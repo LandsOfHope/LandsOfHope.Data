@@ -1,8 +1,8 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10000,
 	"id": "king-arthur",
-	"image": "ti3",
-	"material": "hide",
+	"image": "6806",
 	"stackLimit": 1,
-	"type": "trading-card"
+	"type": "special-creature"
 }

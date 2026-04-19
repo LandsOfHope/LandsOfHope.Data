@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1,
 	"id": "path-piece",
 	"image": "6376",
 	"stackLimit": 1000,

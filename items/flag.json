@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 20,
 	"id": "flag",
 	"image": "fl3",
 	"material": "cloth",

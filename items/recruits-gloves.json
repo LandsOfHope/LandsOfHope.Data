@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 308,
 	"id": "recruits-gloves",
-	"image": "2606",
+	"image": "gmregl",
 	"material": "metal",
 	"skills": {
 		"armor": 1

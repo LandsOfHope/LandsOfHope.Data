@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 25,
 	"id": "fruit-bush",
 	"image": "zaber2",
 	"stackLimit": 1,

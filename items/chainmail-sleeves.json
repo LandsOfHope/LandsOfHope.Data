@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "mail",
+	"baseValue": 10,
 	"id": "chainmail-sleeves",
 	"image": "4465",
 	"material": "metal",

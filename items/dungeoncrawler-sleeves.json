@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "mail",
+	"baseValue": 365,
 	"id": "dungeoncrawler-sleeves",
 	"image": "cvs",
 	"material": "metal",

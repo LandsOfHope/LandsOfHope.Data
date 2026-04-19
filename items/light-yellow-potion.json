@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1,
 	"id": "light-yellow-potion",
 	"image": "py1",
 	"material": "gem",

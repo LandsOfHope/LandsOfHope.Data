@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 6664,
 	"id": "commanders-gloves",
-	"image": "2616",
+	"image": "2352",
 	"material": "metal",
 	"skills": {
 		"armor": 1

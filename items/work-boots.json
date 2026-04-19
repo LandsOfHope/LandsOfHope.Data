@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "work-boots",
 	"image": "awbot",
 	"material": "cloth",

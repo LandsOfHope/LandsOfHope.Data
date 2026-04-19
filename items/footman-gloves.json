@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 550,
 	"id": "footman-gloves",
-	"image": "2608",
+	"image": "2344",
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "hand-armour"

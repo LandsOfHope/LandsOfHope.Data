@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 0,
 	"id": "guilded-cadet-sleeves",
-	"image": "3782",
+	"image": "3705",
 	"material": "metal",
 	"skills": {
 		"armor": 1

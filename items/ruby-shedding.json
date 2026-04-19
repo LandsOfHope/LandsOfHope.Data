@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1,
 	"id": "ruby-shedding",
 	"image": "shedding1",
 	"stackLimit": 1000,

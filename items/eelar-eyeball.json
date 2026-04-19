@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "eelar-eyeball",
 	"image": "7007",
 	"stackLimit": 1000,

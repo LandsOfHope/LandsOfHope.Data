@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "mail",
+	"baseValue": 0,
 	"id": "cragstone-boots",
 	"image": "4727",
 	"legendary": true,

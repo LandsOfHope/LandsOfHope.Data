@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "slaying-token",
 	"image": "6906",
 	"stackLimit": 1000,

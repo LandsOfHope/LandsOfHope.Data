@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 0,
 	"id": "guilded-bejewelled-pauldrons",
-	"image": "3797",
+	"image": "3720",
 	"material": "metal",
 	"skills": {
 		"armor": 1

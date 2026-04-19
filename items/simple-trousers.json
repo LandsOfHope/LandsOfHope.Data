@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "cloth",
+	"baseValue": 15,
 	"id": "simple-trousers",
 	"image": "3065",
 	"material": "cloth",

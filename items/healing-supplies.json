@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 20,
 	"id": "healing-supplies",
 	"image": "bx",
 	"material": "gem",

@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 16,
 	"id": "dangerous-substance",
 	"image": "ore",
 	"material": "gem",

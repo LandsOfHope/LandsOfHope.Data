@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "plate",
+	"baseValue": 365,
 	"id": "cracked-legs",
 	"image": "ccl",
 	"material": "gem",

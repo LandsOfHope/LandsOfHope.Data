@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "blue-crystal-fragment",
 	"image": "6979",
 	"stackLimit": 1000,

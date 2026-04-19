@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "plate",
+	"baseValue": 0,
 	"id": "proudline-helmet",
 	"image": "4732",
 	"legendary": true,

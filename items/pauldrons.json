@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "plate",
+	"baseValue": 330,
 	"id": "pauldrons",
 	"image": "244",
 	"material": "metal",

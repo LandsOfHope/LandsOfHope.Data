@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "leather",
+	"baseValue": 15,
 	"id": "leather-chestplate",
 	"image": "227",
 	"material": "hide",

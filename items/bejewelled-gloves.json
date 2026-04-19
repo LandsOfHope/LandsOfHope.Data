@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 2113,
 	"id": "bejewelled-gloves",
-	"image": "2611",
+	"image": "2347",
 	"material": "metal",
 	"skills": {
 		"armor": 1

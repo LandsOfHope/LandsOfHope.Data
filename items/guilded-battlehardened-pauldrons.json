@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 0,
 	"id": "guilded-battlehardened-pauldrons",
-	"image": "3798",
+	"image": "3721",
 	"material": "metal",
 	"skills": {
 		"armor": 1

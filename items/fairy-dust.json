@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1,
 	"id": "fairy-dust",
 	"image": "6201",
 	"stackLimit": 1000,

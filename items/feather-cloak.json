@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "cloth",
+	"baseValue": 360,
 	"id": "feather-cloak",
 	"image": "cl4",
 	"material": "bird",

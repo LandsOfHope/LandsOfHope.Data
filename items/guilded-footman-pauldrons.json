@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 0,
 	"id": "guilded-footman-pauldrons",
-	"image": "3794",
+	"image": "3717",
 	"material": "metal",
 	"skills": {
 		"armor": 1

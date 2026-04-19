@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 200,
 	"id": "greater-magic-potion",
 	"image": "pb1",
 	"material": "gem",

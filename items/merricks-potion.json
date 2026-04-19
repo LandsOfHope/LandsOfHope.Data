@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1,
 	"id": "merricks-potion",
 	"image": "5960",
 	"stackLimit": 1000,

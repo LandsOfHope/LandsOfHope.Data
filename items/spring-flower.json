@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "spring-flower",
 	"image": "6574",
 	"stackLimit": 1000,

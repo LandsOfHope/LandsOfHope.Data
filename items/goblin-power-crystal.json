@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "goblin-power-crystal",
 	"image": "6698",
 	"stackLimit": 1000,

@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "water-beast-token",
 	"image": "6789",
 	"stackLimit": 1000,

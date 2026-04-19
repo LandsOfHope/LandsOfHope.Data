@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 100,
 	"id": "used-handkerchief",
 	"image": "5584",
 	"material": "cloth",

@@ -1,9 +1,10 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 43,
 	"dpr": 2,
 	"id": "staff",
-	"image": "staff05",
-	"material": "metal",
+	"image": "staff06",
+	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1

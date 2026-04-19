@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "plate",
+	"baseValue": 550,
 	"id": "footman-legs",
 	"image": "2256",
 	"material": "metal",

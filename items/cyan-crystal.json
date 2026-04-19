@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1,
 	"id": "cyan-crystal",
 	"image": "ycc",
 	"stackLimit": 1000,

@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "mail",
+	"baseValue": 5,
 	"id": "bone-coating",
 	"image": "2440",
 	"material": "metal",

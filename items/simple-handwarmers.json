@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "cloth",
+	"baseValue": 15,
 	"id": "simple-handwarmers",
 	"image": "3145",
 	"material": "cloth",

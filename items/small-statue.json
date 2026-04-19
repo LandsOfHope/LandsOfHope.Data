@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 42,
 	"id": "small-statue",
 	"image": "ans",
 	"material": "stone",

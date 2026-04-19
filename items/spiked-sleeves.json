@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "plate",
+	"baseValue": 365,
 	"id": "spiked-sleeves",
 	"image": "1846",
 	"material": "metal",

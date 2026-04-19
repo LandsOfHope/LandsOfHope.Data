@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "cloth",
+	"baseValue": 19,
 	"id": "magic-coal",
 	"image": "coal",
 	"material": "stone",

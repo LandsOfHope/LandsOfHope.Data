@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "cloth",
+	"baseValue": 10,
 	"id": "explorers-glasses",
 	"image": "850",
 	"material": "metal",

@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "cloth",
+	"baseValue": 123,
 	"id": "crown",
 	"image": "cw",
 	"material": "metal",

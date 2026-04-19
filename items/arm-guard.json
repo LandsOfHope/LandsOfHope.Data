@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "plate",
+	"baseValue": 435,
 	"id": "arm-guard",
 	"image": "amg",
 	"material": "wood",

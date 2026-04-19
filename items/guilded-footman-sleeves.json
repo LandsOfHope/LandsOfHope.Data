@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 0,
 	"id": "guilded-footman-sleeves",
-	"image": "3783",
+	"image": "3706",
 	"material": "metal",
 	"skills": {
 		"armor": 1

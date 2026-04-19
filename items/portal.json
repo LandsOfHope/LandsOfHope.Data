@@ -1,7 +1,8 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 22,
 	"id": "portal",
-	"image": "po2",
+	"image": "po5",
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "portal"

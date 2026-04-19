@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "mail",
+	"baseValue": 10,
 	"id": "chainmail-coif",
 	"image": "4466",
 	"material": "metal",

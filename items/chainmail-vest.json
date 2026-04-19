@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "mail",
+	"baseValue": 10,
 	"id": "chainmail-vest",
 	"image": "4467",
 	"material": "metal",

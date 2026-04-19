@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "badge-of-command",
 	"image": "6557",
 	"stackLimit": 1000,

@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1,
 	"id": "pot-of-water",
 	"image": "pw1",
 	"material": "gem",

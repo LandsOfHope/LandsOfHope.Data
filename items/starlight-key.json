@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "starlight-key",
 	"image": "6980",
 	"stackLimit": 1000,

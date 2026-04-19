@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "matrix-crystal",
 	"image": "6993",
 	"stackLimit": 1000,

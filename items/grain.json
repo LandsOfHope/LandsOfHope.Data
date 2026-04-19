@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1,
 	"id": "grain",
 	"image": "gn1",
 	"material": "crop",

@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 250,
 	"id": "enriched-healing-potion",
 	"image": "pr1",
 	"material": "gem",

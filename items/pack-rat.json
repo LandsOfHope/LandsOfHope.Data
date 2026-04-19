@@ -1,7 +1,8 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 50,
 	"id": "pack-rat",
-	"image": "6371",
+	"image": "6066",
 	"stackLimit": 1,
-	"type": "special-creature"
+	"type": "pack-rat"
 }

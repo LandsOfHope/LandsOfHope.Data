@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "leather",
+	"baseValue": 20,
 	"id": "tanned-shoes",
 	"image": "2848",
 	"material": "hide",

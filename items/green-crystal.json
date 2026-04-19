@@ -1,7 +1,8 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1,
 	"id": "green-crystal",
-	"image": "6996",
+	"image": "ygc",
 	"stackLimit": 1000,
-	"type": "trophy"
+	"type": "alchemy-ingredient"
 }

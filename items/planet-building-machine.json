@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "planet-building-machine",
 	"image": "7014",
 	"stackLimit": 1000,

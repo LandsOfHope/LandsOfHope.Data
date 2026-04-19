@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 300,
 	"id": "plan-master-toolbox",
 	"image": "bk4",
 	"material": "hide",

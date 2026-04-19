@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "the-sword",
 	"image": "6757",
 	"stackLimit": 1,

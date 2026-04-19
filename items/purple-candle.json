@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1000,
 	"id": "purple-candle",
 	"image": "candle3",
 	"stackLimit": 1000,

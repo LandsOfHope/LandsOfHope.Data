@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 375,
 	"id": "cadet-gloves",
-	"image": "2607",
+	"image": "2343",
 	"material": "metal",
 	"skills": {
 		"armor": 1

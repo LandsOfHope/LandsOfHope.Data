@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 100,
 	"id": "elvish-grove",
 	"image": "zurapabyno",
 	"stackLimit": 1000,

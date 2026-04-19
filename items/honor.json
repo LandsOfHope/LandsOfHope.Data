@@ -1,8 +1,17 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 6000,
 	"id": "honor",
-	"image": "6306",
-	"material": "hide",
+	"image": "gmhooo",
+	"material": "gem",
+	"properties": {
+		"DEXTERITY": 1,
+		"MAXHITPOINTS": 1
+	},
+	"skills": {
+		"armor": 1,
+		"fire-survival": 1
+	},
 	"stackLimit": 1,
-	"type": "trading-card"
+	"type": "forehead"
 }

@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "morganas-compendium",
 	"image": "6923",
 	"stackLimit": 1000,

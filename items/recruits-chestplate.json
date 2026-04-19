@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "plate",
+	"baseValue": 300,
 	"id": "recruits-chestplate",
 	"image": "gmrech",
 	"material": "metal",

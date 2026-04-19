@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "gold-patch",
 	"image": "6886",
 	"stackLimit": 1000,

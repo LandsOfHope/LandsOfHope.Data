@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 0,
 	"id": "guilded-recruits-pauldrons",
-	"image": "3792",
+	"image": "gmgurepa",
 	"material": "metal",
 	"skills": {
 		"armor": 1

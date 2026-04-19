@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 0,
 	"id": "guilded-bejewelled-sleeves",
-	"image": "3786",
+	"image": "3709",
 	"material": "metal",
 	"skills": {
 		"armor": 1

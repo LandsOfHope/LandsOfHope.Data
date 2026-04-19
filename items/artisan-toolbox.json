@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 100,
 	"id": "artisan-toolbox",
 	"image": "bx5",
 	"material": "wood",

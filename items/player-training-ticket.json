@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1000,
 	"id": "player-training-ticket",
 	"image": "5597",
 	"material": "hide",

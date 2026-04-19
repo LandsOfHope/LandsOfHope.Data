@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 3509,
 	"id": "reinforced-gloves",
-	"image": "2613",
+	"image": "2349",
 	"material": "metal",
 	"skills": {
 		"armor": 1

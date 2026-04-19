@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "mail",
+	"baseValue": 5400,
 	"id": "bridged-sleeves",
 	"image": "css",
 	"material": "metal",

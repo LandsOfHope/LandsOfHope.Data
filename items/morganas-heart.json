@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "morganas-heart",
 	"image": "6913",
 	"stackLimit": 1000,

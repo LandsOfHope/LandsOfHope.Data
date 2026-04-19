@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 1000,
 	"id": "random-trading-card",
 	"image": "187",
 	"material": "hide",

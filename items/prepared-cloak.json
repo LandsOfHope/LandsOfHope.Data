@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "cloth",
+	"baseValue": 3100,
 	"id": "prepared-cloak",
 	"image": "pclo15",
 	"material": "cloth",

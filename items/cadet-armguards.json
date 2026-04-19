@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "plate",
+	"baseValue": 360,
 	"id": "cadet-armguards",
 	"image": "2464",
 	"material": "metal",

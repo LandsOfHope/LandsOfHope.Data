@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "crafters-token",
 	"image": "6905",
 	"stackLimit": 1000,

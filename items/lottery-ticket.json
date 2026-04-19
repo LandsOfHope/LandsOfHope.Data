@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10000,
 	"id": "lottery-ticket",
 	"image": "1912",
 	"stackLimit": 1,

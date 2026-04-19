@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 100,
 	"id": "toy-box",
 	"image": "6187",
 	"material": "wood",

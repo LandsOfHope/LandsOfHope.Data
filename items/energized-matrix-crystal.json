@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/item",
+	"baseValue": 10,
 	"id": "energized-matrix-crystal",
 	"image": "6995",
 	"stackLimit": 1000,

@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 0,
 	"id": "guilded-commanders-pauldrons",
-	"image": "3802",
+	"image": "3725",
 	"material": "metal",
 	"skills": {
 		"armor": 1

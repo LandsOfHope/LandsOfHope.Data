@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "cloth",
+	"baseValue": 80,
 	"id": "dynamo-gloves",
 	"image": "1111",
 	"material": "hide",

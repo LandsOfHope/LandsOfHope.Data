@@ -30,6 +30,10 @@
 		"material": {
 			"$ref": "/schemas/v1/items-materials-id.gen.json"
 		},
+		"baseValue": {
+			"minimum": 0,
+			"type": "integer"
+		},
 		"properties": {
 			"additionalProperties": false,
 			"minProperties": 1,

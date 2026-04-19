@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "plate",
+	"baseValue": 10000,
 	"expansion": "jurassic-wars",
 	"id": "scarab-helm",
 	"image": "5174",

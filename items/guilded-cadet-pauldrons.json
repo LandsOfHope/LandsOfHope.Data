@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 0,
 	"id": "guilded-cadet-pauldrons",
-	"image": "3793",
+	"image": "3716",
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "leather",
+	"baseValue": 16,
 	"id": "frozen-cloak",
 	"image": "cl8",
 	"material": "hide",

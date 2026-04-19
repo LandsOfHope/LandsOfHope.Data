@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "plate",
+	"baseValue": 365,
 	"id": "dungeonmaster-sleeves",
 	"image": "cvs",
 	"material": "metal",

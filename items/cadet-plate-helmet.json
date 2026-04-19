@@ -1,6 +1,7 @@
 {
 	"$type": "/v1/item",
 	"armorType": "plate",
+	"baseValue": 360,
 	"id": "cadet-plate-helmet",
 	"image": "2398",
 	"material": "metal",

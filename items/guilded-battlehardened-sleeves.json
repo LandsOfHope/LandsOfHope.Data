@@ -1,8 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
+	"armorType": "plate",
+	"baseValue": 0,
 	"id": "guilded-battlehardened-sleeves",
-	"image": "3787",
+	"image": "3710",
 	"material": "metal",
 	"skills": {
 		"armor": 1
