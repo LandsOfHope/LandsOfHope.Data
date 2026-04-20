@@ -26,11 +26,11 @@
 		"possessor": {
 			"$ref": "/schemas/v1/characters/appearance-profile.json"
 		},
-		"sex": {
-			"$ref": "/schemas/v0/characters/character-sex.json"
-		},
 		"race": {
 			"$ref": "/schemas/v1/races-id.gen.json"
+		},
+		"sex": {
+			"$ref": "/schemas/v0/characters/character-sex.json"
 		},
 		"title": {
 			"oneOf": [

@@ -11,6 +11,10 @@
 		"armorType": {
 			"$ref": "/schemas/v1/items/armor-type.json"
 		},
+		"baseValue": {
+			"minimum": 0,
+			"type": "integer"
+		},
 		"dpr": {
 			"minimum": 0,
 			"type": "integer"
@@ -29,10 +33,6 @@
 		},
 		"material": {
 			"$ref": "/schemas/v1/items-materials-id.gen.json"
-		},
-		"baseValue": {
-			"minimum": 0,
-			"type": "integer"
 		},
 		"properties": {
 			"additionalProperties": false,

@@ -8,9 +8,9 @@
 		"account": {
 			"$ref": "/schemas/v1/accounts/account-id.json"
 		},
-        "status": {
-            "$ref": "/schemas/v1/payments/subscriptions/subscription-status.json"
-        }
+		"status": {
+			"$ref": "/schemas/v1/payments/subscriptions/subscription-status.json"
+		}
 	},
 	"required": ["$type", "account", "status"],
 	"title": "PaymentSubscriptionStatusChangedEvent",
