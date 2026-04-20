@@ -1,0 +1,18 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/events/payments/payment-subscription-status-changed.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/events/payments/payment-subscription-status-changed"
+		},
+		"account": {
+			"$ref": "/schemas/v1/accounts/account-id.json"
+		},
+        "status": {
+            "$ref": "/schemas/v1/payments/subscriptions/subscription-status.json"
+        }
+	},
+	"required": ["$type", "account", "status"],
+	"title": "PaymentSubscriptionStatusChangedEvent",
+	"type": "object"
+}
