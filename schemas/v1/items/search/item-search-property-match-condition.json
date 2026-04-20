@@ -1,0 +1,37 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/items/search/item-search-property-match-condition.json",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"properties": {
+		"armorType": {
+			"$ref": "/schemas/v1/items/armor-type.json"
+		},
+		"expansion": {
+			"oneOf": [
+				{
+					"type": "null"
+				},
+				{
+					"$ref": "/schemas/v1/expansions-id.gen.json"
+				}
+			]
+		},
+		"id": {
+			"$ref": "/schemas/v1/items-id.gen.json"
+		},
+		"material": {
+			"$ref": "/schemas/v1/items-materials-id.gen.json"
+		},
+		"set": {
+			"$ref": "/schemas/v1/items-sets-id.gen.json"
+		},
+		"skill": {
+			"$ref": "/schemas/v1/skills-id.gen.json"
+		},
+		"type": {
+			"$ref": "/schemas/v1/items-types-id.gen.json"
+		}
+	},
+	"title": "ItemSearchPropertyMatchCondition",
+	"type": "object"
+}

@@ -3,23 +3,7 @@
 	"additionalProperties": false,
 	"properties": {
 		"item": {
-			"additionalProperties": false,
-			"minProperties": 1,
-			"properties": {
-				"armorType": {
-					"$ref": "/schemas/v1/items/armor-type.json"
-				},
-				"id": {
-					"$ref": "/schemas/v1/items-id.gen.json"
-				},
-				"skill": {
-					"$ref": "/schemas/v1/skills-id.gen.json"
-				},
-				"type": {
-					"$ref": "/schemas/v1/items-types-id.gen.json"
-				}
-			},
-			"type": "object"
+			"$ref": "/schemas/v1/items/search/item-search-condition.json"
 		}
 	},
 	"required": ["item"],

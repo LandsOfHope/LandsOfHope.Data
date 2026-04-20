@@ -1,0 +1,16 @@
+{
+	"and": [
+		{ "material": "cloth" },
+		{
+			"or": [
+				{ "armorType": "leather", "type": "foot-armour" },
+				{
+					"id": "boots"
+				},
+				{
+					"skill": "stealth"
+				}
+			]
+		}
+	]
+}

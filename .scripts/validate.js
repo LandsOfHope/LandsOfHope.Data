@@ -75,6 +75,10 @@ const schemasWithOptionalTypeSpecifier = [
 	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-level-range-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-account-condition.json",
 
+	"https://data.landsofhope.com/schemas/v1/items/search/item-search-and-condition.json",
+	"https://data.landsofhope.com/schemas/v1/items/search/item-search-or-condition.json",
+	"https://data.landsofhope.com/schemas/v1/items/search/item-search-property-match-condition.json",
+
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-and-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-or-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-level-range-condition.json",
@@ -381,6 +385,9 @@ const main = async () =>
 			"schemas/v1/items/enhancements/item-name.json",
 			"items/enhancements/names/!(*.gen).json",
 		),
+
+		validateTestData("v1/items/search/item-search-condition"),
+		validateNegativeTestData("v1/items/search/item-search-condition"),
 
 		validate(
 			"schemas/v1/accounts/settings/account-email-settings.json",

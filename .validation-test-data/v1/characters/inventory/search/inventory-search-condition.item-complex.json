@@ -1,0 +1,10 @@
+{
+	"item": {
+		"or": [
+			{
+				"and": [{ "armorType": "leather" }, { "id": "boots" }]
+			},
+			{ "type": "hand-armour" }
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/items/search/item-search-condition.json",
+	"oneOf": [
+		{
+			"$ref": "/schemas/v1/items/search/item-search-and-condition.json"
+		},
+		{
+			"$ref": "/schemas/v1/items/search/item-search-or-condition.json"
+		},
+		{
+			"$ref": "/schemas/v1/items/search/item-search-property-match-condition.json"
+		}
+	],
+	"title": "ItemSearchCondition",
+	"type": "object"
+}
