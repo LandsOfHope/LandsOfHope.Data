@@ -84,7 +84,7 @@ const makeRecipesSearchIndex = async () => {
 		for (const [skillId, recipes] of Object.entries(recipesJson)) {
 			for (const [recipeId, recipe] of Object.entries(recipes)) {
 				index.addDoc({
-					id: `recipe:${skillId}:${recipeId}`,
+					id: `recipe:${skillId}/${recipeId}`,
 					name: recipe.name,
 					skill: skills[skillId].name,
 				});
@@ -209,6 +209,7 @@ const makeItemsSearchIndex = async () => {
 			}
 
 			this.addField("name");
+			this.addField("desc");
 			this.setRef("id");
 		});
 
@@ -217,6 +218,7 @@ const makeItemsSearchIndex = async () => {
 			index.addDoc({
 				id: `item:${itemId}`,
 				name: item.name,
+				desc: item.desc,
 			});
 		}
 
