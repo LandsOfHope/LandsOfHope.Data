@@ -101,7 +101,7 @@ const validate = async (schema, file) => {
 		// console.log('validating', schema, 'against', file),
 		(
 			await exec(
-				`node ${import.meta.dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${file}" ${tmpSchemas.join(" ")} --valid`,
+				`bun ${import.meta.dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${file}" ${tmpSchemas.join(" ")} --valid`,
 			)
 		).exitCode
 	);
@@ -123,7 +123,7 @@ const validateAll = async (schema, fileGlob) => {
 		// console.log('validating', schema, 'against', fileGlob),
 		(
 			await exec(
-				`node ${import.meta.dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --valid`,
+				`bun ${import.meta.dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --valid`,
 			)
 		).exitCode
 	);
@@ -145,7 +145,7 @@ const failAll = async (schema, fileGlob) => {
 		// console.log('expecting failure', schema, 'against', fileGlob),
 		(
 			await exec(
-				`node ${import.meta.dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --invalid`,
+				`bun ${import.meta.dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${fileGlob}" ${tmpSchemas.join(" ")} --invalid`,
 			)
 		).exitCode
 	);
