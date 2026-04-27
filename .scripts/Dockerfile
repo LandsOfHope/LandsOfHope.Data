@@ -4,6 +4,8 @@ FROM oven/bun:${BUN_VERSION} AS dev
 
 FROM dev AS build
 
+RUN apt-get update && apt-get install -y rsync && apt-get clean
+
 WORKDIR /build
 
 COPY ./package.json /build/.
@@ -31,8 +33,9 @@ RUN bun .scripts/generate_health.js
 
 RUN bunx biome check api/ --write
 
-RUN rm -r .[^.]*
+RUN mkdir dist
+RUN rsync --archive --exclude-from='.scripts/dist-exclude.txt' /build/ /build/dist/
 
 FROM httpd:2.4.62-alpine AS prod
 
-COPY --from=build /build/. /usr/local/apache2/htdocs
+COPY --from=build /build/dist/. /usr/local/apache2/htdocs

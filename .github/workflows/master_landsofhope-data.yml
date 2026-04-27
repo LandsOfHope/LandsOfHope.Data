@@ -74,10 +74,13 @@ jobs:
         with:
           python-version: "3.10"
           token: ${{ secrets.GH_TOKEN }}
+      - run: |
+          mkdir -p ./dist
+          rsync --archive --exclude-from='.scripts/dist-exclude.txt' ./ ./dist/
       - run: pip install s3cmd
       - name: Publish
-        run: s3cmd sync --no-mime-magic --guess-mime-type --access_key=${{ secrets.AWS_ACCESS_KEY_ID_DEV }} --secret_key=${{ secrets.AWS_SECRET_ACCESS_KEY_DEV }} --host=${{ secrets.AWS_ENDPOINT_URL_DEV }} --host-bucket=${{ secrets.AWS_ENDPOINT_URL_DEV }} --bucket-location=auto --delete-removed --delete-after --no-preserve --recursive --exclude-from=.scripts/exclude.txt --rexclude-from=.scripts/exclude.regex.txt . 's3://lohdata-dev'
+        run: s3cmd sync --no-mime-magic --guess-mime-type --access_key=${{ secrets.AWS_ACCESS_KEY_ID_DEV }} --secret_key=${{ secrets.AWS_SECRET_ACCESS_KEY_DEV }} --host=${{ secrets.AWS_ENDPOINT_URL_DEV }} --host-bucket=${{ secrets.AWS_ENDPOINT_URL_DEV }} --bucket-location=auto --delete-removed --delete-after --no-preserve --recursive ./dist 's3://lohdata-dev'
         if: ${{ github.ref == 'refs/heads/develop' }}
       - name: Publish
-        run: s3cmd sync --no-mime-magic --guess-mime-type --access_key=${{ secrets.AWS_ACCESS_KEY_ID }} --secret_key=${{ secrets.AWS_SECRET_ACCESS_KEY }} --host=${{ secrets.AWS_ENDPOINT_URL }} --host-bucket=${{ secrets.AWS_ENDPOINT_URL }} --bucket-location=auto --delete-removed --delete-after --no-preserve --recursive --exclude-from=.scripts/exclude.txt --rexclude-from=.scripts/exclude.regex.txt . 's3://lohdata'
+        run: s3cmd sync --no-mime-magic --guess-mime-type --access_key=${{ secrets.AWS_ACCESS_KEY_ID }} --secret_key=${{ secrets.AWS_SECRET_ACCESS_KEY }} --host=${{ secrets.AWS_ENDPOINT_URL }} --host-bucket=${{ secrets.AWS_ENDPOINT_URL }} --bucket-location=auto --delete-removed --delete-after --no-preserve --recursive ./dist 's3://lohdata'
         if: ${{ github.ref == 'refs/heads/master' }}
