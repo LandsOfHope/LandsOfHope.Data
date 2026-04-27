@@ -63,7 +63,7 @@ jobs:
       - name: compile schemas
         run: bun .scripts/compile_schemas.js
       - name: generate typescript api types
-        run: bun .scripts/generate_api_ts.js
+        run: find schemas/**/*.json | xargs -n1 -P0 bun .scripts/generate_api_ts.ts
       - name: generate search indexes
         run: bun .scripts/generate_search_indexes.js
       - name: generate health file

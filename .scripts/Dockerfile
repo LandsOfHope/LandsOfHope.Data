@@ -25,7 +25,7 @@ RUN bun .scripts/generate_id_schemas.js
 RUN bun .scripts/generate_other_schemas.js
 RUN bun .scripts/validate.js
 RUN bun .scripts/compile_schemas.js
-RUN bun .scripts/generate_api_ts.js
+RUN find schemas/**/*.json | xargs -n1 -P0 bun .scripts/generate_api_ts.ts
 RUN bun .scripts/generate_search_indexes.js
 RUN bun .scripts/generate_health.js
 
