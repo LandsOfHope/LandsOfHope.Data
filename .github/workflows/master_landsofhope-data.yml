@@ -22,46 +22,55 @@ jobs:
     timeout-minutes: 5
     name: Deploy
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
         with:
           fetch-depth: 0
           persist-credentials: false
-      - uses: actions/setup-dotnet@v4
+      - uses: actions/setup-dotnet@c2fa09f4bde5ebb9d1777cf28262a3eb3db3ced7
         with:
-          dotnet-version: 9
+          dotnet-version: 10.x
       - name: install gitversion
-        uses: gittools/actions/gitversion/setup@v0
+        uses: gittools/actions/gitversion/setup@bc6623af8fc07d5a8903052dd46da33403eec8e8
         with:
-          versionSpec: "6.0.x"
+          versionSpec: "6.7.0"
       - name: determine version
         id: gitversion
-        uses: gittools/actions/gitversion/execute@v0
+        uses: gittools/actions/gitversion/execute@bc6623af8fc07d5a8903052dd46da33403eec8e8
         with:
           useConfigFile: true
+      - uses: cardinalby/export-env-action@4f48c4676cf6ed6f46e30899ee987ce695da7c80
+        id: env
+        with:
+          envFile: ".env"
+          export: false
+      - uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6
+        with:
+          bun-version: ${{ steps.env.outputs.BUN_VERSION }}
+          no-cache: true
       - name: Set package.json version
-        run: npm version --no-git-tag-version "${{steps.gitversion.outputs.fullSemVer}}"
-      - name: npm ci
+        run: bun pm version --no-git-tag-version "${{steps.gitversion.outputs.fullSemVer}}"
+      - name: bun install --production
         working-directory: .scripts
-        run: npm ci
+        run: bun install --production
       - name: generate_all_json
-        run: node .scripts/generate_all_json
+        run: bun .scripts/generate_all_json
       - name: generate_id_schemas
-        run: node .scripts/generate_id_schemas
+        run: bun .scripts/generate_id_schemas
       - name: generate_other_schemas
-        run: node .scripts/generate_other_schemas
+        run: bun .scripts/generate_other_schemas
       - name: validate schemas
-        run: node .scripts/validate
+        run: bun .scripts/validate
       - name: compile schemas
-        run: node .scripts/compile_schemas.js
+        run: bun .scripts/compile_schemas.js
       - name: generate typescript api types
-        run: node .scripts/generate_api_ts.js
+        run: bun .scripts/generate_api_ts.js
       - name: generate search indexes
-        run: node .scripts/generate_search_indexes.js
+        run: bun .scripts/generate_search_indexes.js
       - name: generate health file
-        run: node .scripts/generate_health.js
+        run: bun .scripts/generate_health.js
       - name: run biome check over api
-        run: npx biome check api/ --write
-      - uses: actions/setup-python@v5
+        run: bunx biome check api/ --write
+      - uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405
         with:
           python-version: "3.10"
           token: ${{ secrets.GH_TOKEN }}

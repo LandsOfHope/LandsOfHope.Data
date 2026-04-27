@@ -1,31 +1,35 @@
-FROM node:24-alpine AS build
+ARG BUN_VERSION
+
+FROM oven/bun:${BUN_VERSION} AS dev
+
+FROM dev AS build
 
 WORKDIR /build
 
 COPY ./package.json /build/.
 
 ARG BUILD_VERSION
-RUN npm version --no-git-tag-version "$BUILD_VERSION"
+RUN bun pm version --no-git-tag-version "$BUILD_VERSION"
 
 WORKDIR /build/.scripts
 
-COPY .scripts/package.json .scripts/package-lock.json /build/.scripts/
-RUN npm ci
+COPY .scripts/package.json .scripts/bun.lock /build/.scripts/
+RUN bun install --production
 
 WORKDIR /build
 
 COPY . /build
 
-RUN node .scripts/generate_all_json.js
-RUN node .scripts/generate_id_schemas.js
-RUN node .scripts/generate_other_schemas.js
-RUN node .scripts/validate.js
-RUN node .scripts/compile_schemas.js
-RUN node .scripts/generate_api_ts.js
-RUN node .scripts/generate_search_indexes.js
-RUN node .scripts/generate_health.js
+RUN bun .scripts/generate_all_json.js
+RUN bun .scripts/generate_id_schemas.js
+RUN bun .scripts/generate_other_schemas.js
+RUN bun .scripts/validate.js
+RUN bun .scripts/compile_schemas.js
+RUN bun .scripts/generate_api_ts.js
+RUN bun .scripts/generate_search_indexes.js
+RUN bun .scripts/generate_health.js
 
-RUN npx biome check api/ --write
+RUN bunx biome check api/ --write
 
 RUN rm -r .[^.]*
 

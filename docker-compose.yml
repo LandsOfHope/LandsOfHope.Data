@@ -1,0 +1,10 @@
+services:
+  dev:
+    build:
+      dockerfile: .scripts/Dockerfile
+      target: dev
+      args:
+        BUN_VERSION: ${BUN_VERSION}
+    volumes:
+      - .:/workspace:cached
+    command: sleep infinity
