@@ -1,0 +1,127 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-inventory-item-property-match-condition.json",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"properties": {
+		"id": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+		},
+		"item": {
+			"$ref": "/schemas/v1/items/search/item-search-condition.json"
+		},
+		"level": {
+			"oneOf": [
+				{
+					"maximum": 1000,
+					"minimum": 0,
+					"type": "integer"
+				},
+				{
+					"additionalProperties": false,
+					"minProperties": 1,
+					"properties": {
+						"max": {
+							"maximum": 1000,
+							"minimum": 1,
+							"type": "integer"
+						},
+						"min": {
+							"maximum": 1000,
+							"minimum": 0,
+							"type": "integer"
+						}
+					},
+					"title": "InventorySearchLevelRangeCondition",
+					"type": "object"
+				}
+			]
+		},
+		"location": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
+		},
+		"locked": {
+			"oneOf": [
+				{
+					"additionalProperties": false,
+					"minProperties": 1,
+					"properties": {
+						"lockpicking": {
+							"additionalProperties": false,
+							"minProperties": 1,
+							"properties": {
+								"max": {
+									"minimum": 5,
+									"type": "integer"
+								},
+								"min": {
+									"minimum": 5,
+									"type": "integer"
+								}
+							},
+							"title": "InventorySearchLockedLockpickingRequirementsRangeCondition",
+							"type": "object"
+						}
+					},
+					"title": "InventorySearchLockedCondition",
+					"type": "object"
+				},
+				{
+					"type": "boolean"
+				}
+			]
+		},
+        "quality": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "additionalProperties": false,
+                    "minProperties": 1,
+                    "properties": {
+                        "max": {
+                            "minimum": 0,
+                            "type": "integer"
+                        },
+                        "min": {
+                            "minimum": 0,
+                            "type": "integer"
+                        }
+                    },
+                    "title": "InventorySearchQualityRangeCondition",
+                    "type": "object"
+                }
+            ]
+        },
+		"quantity": {
+			"oneOf": [
+				{
+					"minimum": 1,
+					"type": "integer"
+				},
+				{
+					"additionalProperties": false,
+					"minProperties": 1,
+					"properties": {
+						"max": {
+							"minimum": 1,
+							"type": "integer"
+						},
+						"min": {
+							"minimum": 1,
+							"type": "integer"
+						}
+					},
+					"title": "InventorySearchQuantityRangeCondition",
+					"type": "object"
+				}
+			]
+		},
+        "stackHash": {
+            "$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
+        }
+	},
+	"title": "InventorySearchInventoryItemPropertyMatchCondition",
+	"type": "object"
+}

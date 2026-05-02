@@ -39,6 +39,45 @@
 		},
 		{
 			"id": 1
+		},
+		{
+			"level": {
+				"min": 100,
+				"max": 200
+			}
+		},
+		{
+			"level": 0
+		},
+		{
+			"locked": false
+		},
+		{
+			"locked": {
+				"lockpicking": {
+					"max": 100
+				}
+			}
+		},
+		{
+			"quality": 20
+		},
+		{
+			"quality": {
+				"min": 1,
+				"max": 10
+			}
+		},
+		{
+			"quantity": 1
+		},
+		{
+			"quantity": {
+				"min": 50
+			}
+		},
+		{
+			"stackHash": "0123456789abcdef"
 		}
 	]
 }
