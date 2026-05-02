@@ -921,8 +921,7 @@
 			"character": 1,
 			"location": "sellbag"
 		},
-		"quantity": 1,
-		"stackHash": "0000000000000000"
+		"quantity": 1
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",
@@ -1039,8 +1038,7 @@
 			"character": 1,
 			"location": "sellbag"
 		},
-		"quantity": 1,
-		"stackHash": "0000000000000000"
+		"quantity": 1
 	},
 	{
 		"$type": "/v1/characters/inventory/inventory-item",

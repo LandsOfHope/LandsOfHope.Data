@@ -124,8 +124,7 @@
 		"level",
 		"quantity",
 		"location",
-		"actions",
-		"stackHash"
+		"actions"
 	],
 	"title": "CharacterInventoryItem",
 	"type": "object"
