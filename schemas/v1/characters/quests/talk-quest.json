@@ -1,0 +1,22 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/quests/talk-quest.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/quests/talk-quest"
+		},
+		"talkTo": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/characters/character-id.json"
+				},
+				{
+					"$ref": "/schemas/v1/characters/character.json"
+				}
+			]
+		}
+	},
+	"required": ["$type", "talkTo"],
+	"title": "CharacterTalkQuest",
+	"type": "object"
+}
