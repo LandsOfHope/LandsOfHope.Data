@@ -1,0 +1,19 @@
+{
+	"$type": "/v1/profession",
+	"desc": {
+		"en": "An expert at cooking ingredients to make food."
+	},
+	"id": "chef",
+	"name": {
+		"en": "Chef"
+	},
+	"properties": {
+		"MAXHITPOINTS": 3,
+		"MAXSTAMINA": 3
+	},
+	"skills": {
+		"armor": 5,
+		"attack-power": 5,
+		"cooking": 5
+	}
+}

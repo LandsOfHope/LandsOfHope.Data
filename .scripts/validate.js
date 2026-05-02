@@ -495,8 +495,8 @@ const main = async () =>
 		// checkMappingsAreValidMap("items/types/mappings/id-to-slug.json"),
 		// checkMappingsAreValidMap("items/types/mappings/slug-to-id.json"),
 
-		// checkMappingsAreValidMap("professions/mappings/id-to-slug.json"),
-		// checkMappingsAreValidMap("professions/mappings/slug-to-id.json"),
+		checkMappingsAreValidMap("professions/mappings/id-to-slug.json"),
+		checkMappingsAreValidMap("professions/mappings/slug-to-id.json"),
 
 		...(await readdir("skills/crafting/recipes/", { withFileTypes: true })
 			.then((dirs) =>

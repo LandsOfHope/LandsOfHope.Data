@@ -215,6 +215,10 @@
 		"desc": "An ancient guardian",
 		"name": "Champion"
 	},
+	"chef": {
+		"desc": "An expert at cooking ingredients to make food.",
+		"name": "Chef"
+	},
 	"child": {
 		"desc": "A smaller version of a full grown person.",
 		"name": "Child"
@@ -478,6 +482,10 @@
 	"forager": {
 		"desc": "Foragers are the loners of Saloa, they shun people and civilisations and are normally very unfriendly to people they meet on there travels. They are experts at self survival.",
 		"name": "Forager"
+	},
+	"fortune-hunter": {
+		"desc": "A fortune hunter is often found searching for lost clues or ancient relics to find a mythical treasure.",
+		"name": "Fortune Hunter"
 	},
 	"free-enchanter": {
 		"desc": "A person with the ability to enchant items.",
