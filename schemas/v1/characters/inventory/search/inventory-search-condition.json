@@ -8,7 +8,7 @@
 			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-or-condition.json"
 		},
 		{
-			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-inventory-item-property-match-condition.json"
+			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-property-match-condition.json"
 		}
 	],
 	"title": "InventorySearchCondition",

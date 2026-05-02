@@ -70,10 +70,10 @@ const schemasWithOptionalTypeSpecifier = [
 	// search conditions aren't intended for any form of storage, only for query requests
 	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-and-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-or-condition.json",
-	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-is-player-character-condition.json",
-	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-name-contains-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-level-range-condition.json",
-	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-account-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-property-match-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-is-player-character-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/search/character-search-appearance-property-match-condition.json",
 
 	"https://data.landsofhope.com/schemas/v1/items/search/item-search-and-condition.json",
 	"https://data.landsofhope.com/schemas/v1/items/search/item-search-or-condition.json",
@@ -82,8 +82,8 @@ const schemasWithOptionalTypeSpecifier = [
 
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-and-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-or-condition.json",
-	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-item-condition.json",
-	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-inventory-item-property-match-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-level-range-search-condition.json",
+	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-property-match-condition.json",
 ];
 
 const validate = async (schema, file) => {

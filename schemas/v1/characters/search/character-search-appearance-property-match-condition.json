@@ -1,0 +1,42 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-appearance-property-match-condition.json",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"properties": {
+		"allegiance": {
+			"$ref": "/schemas/v1/allegiances-id.gen.json"
+		},
+		"level": {
+			"oneOf": [
+				{
+					"maximum": 1000,
+					"minimum": 1,
+					"type": "integer"
+				},
+				{
+					"$ref": "/schemas/v1/characters/search/character-search-level-range-condition.json"
+				}
+			]
+		},
+		"name": {
+			"additionalProperties": false,
+			"minProperties": 1,
+			"properties": {
+				"contains": {
+					"minLength": 3,
+					"type": "string"
+				}
+			},
+			"title": "CharacterSearchNameContainsCondition",
+			"type": "object"
+		},
+		"race": {
+			"$ref": "/schemas/v1/races-id.gen.json"
+		},
+		"sex": {
+			"$ref": "/schemas/v0/characters/character-sex.json"
+		}
+	},
+	"title": "CharacterSearchAppearancePropertyMatchCondition",
+	"type": "object"
+}

@@ -1,0 +1,22 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/quests/item-unlock-quest.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/quests/item-unlock-quest"
+		},
+		"inventoryItem": {
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/characters/inventory/inventory-item.json"
+				},
+				{
+					"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+				}
+			]
+		}
+	},
+	"required": ["$type", "inventoryItem"],
+	"title": "CharacterItemUnlockQuest",
+	"type": "object"
+}

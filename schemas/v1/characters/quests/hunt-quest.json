@@ -1,0 +1,19 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/quests/hunt-quest.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/quests/hunt-quest"
+		},
+		"count": {
+			"minimum": 1,
+			"type": "integer"
+		},
+		"huntCriterion": {
+			"$ref": "/schemas/v1/characters/search/character-search-condition.json"
+		}
+	},
+	"required": ["$type", "huntCriterion", "count"],
+	"title": "CharacterHuntQuest",
+	"type": "object"
+}

@@ -1,3 +1,7 @@
 {
-	"nameContains": "who"
+	"appearance": {
+		"name": {
+			"contains": "who"
+		}
+	}
 }

@@ -1,5 +1,5 @@
 {
-	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-inventory-item-property-match-condition.json",
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-property-match-condition.json",
 	"additionalProperties": false,
 	"minProperties": 1,
 	"properties": {
@@ -17,22 +17,7 @@
 					"type": "integer"
 				},
 				{
-					"additionalProperties": false,
-					"minProperties": 1,
-					"properties": {
-						"max": {
-							"maximum": 1000,
-							"minimum": 1,
-							"type": "integer"
-						},
-						"min": {
-							"maximum": 1000,
-							"minimum": 0,
-							"type": "integer"
-						}
-					},
-					"title": "InventorySearchLevelRangeCondition",
-					"type": "object"
+					"$ref": "/schemas/v1/characters/inventory/search/inventory-level-range-search-condition.json"
 				}
 			]
 		},
@@ -70,30 +55,30 @@
 				}
 			]
 		},
-        "quality": {
-            "oneOf": [
-                {
-                    "minimum": 0,
-                    "type": "integer"
-                },
-                {
-                    "additionalProperties": false,
-                    "minProperties": 1,
-                    "properties": {
-                        "max": {
-                            "minimum": 0,
-                            "type": "integer"
-                        },
-                        "min": {
-                            "minimum": 0,
-                            "type": "integer"
-                        }
-                    },
-                    "title": "InventorySearchQualityRangeCondition",
-                    "type": "object"
-                }
-            ]
-        },
+		"quality": {
+			"oneOf": [
+				{
+					"minimum": 0,
+					"type": "integer"
+				},
+				{
+					"additionalProperties": false,
+					"minProperties": 1,
+					"properties": {
+						"max": {
+							"minimum": 0,
+							"type": "integer"
+						},
+						"min": {
+							"minimum": 0,
+							"type": "integer"
+						}
+					},
+					"title": "InventorySearchQualityRangeCondition",
+					"type": "object"
+				}
+			]
+		},
 		"quantity": {
 			"oneOf": [
 				{
@@ -118,10 +103,10 @@
 				}
 			]
 		},
-        "stackHash": {
-            "$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
-        }
+		"stackHash": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
+		}
 	},
-	"title": "InventorySearchInventoryItemPropertyMatchCondition",
+	"title": "InventorySearchPropertyMatchCondition",
 	"type": "object"
 }

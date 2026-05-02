@@ -1,0 +1,15 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/quests/item-fetch-quest.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/quests/item-fetch-quest"
+		},
+		"itemCriterion": {
+			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-condition.json"
+		}
+	},
+	"required": ["$type", "itemCriterion"],
+	"title": "CharacterItemFetchQuest",
+	"type": "object"
+}
