@@ -481,8 +481,8 @@ const main = async () =>
 		checkMappingsAreValidMap("items/sets/mappings/id-to-slug.json"),
 		checkMappingsAreValidMap("items/sets/mappings/slug-to-id.json"),
 
-		// checkMappingsAreValidMap("races/mappings/id-to-slug.json"),
-		// checkMappingsAreValidMap("races/mappings/slug-to-id.json"),
+		checkMappingsAreValidMap("races/mappings/id-to-slug.json"),
+		checkMappingsAreValidMap("races/mappings/slug-to-id.json"),
 
 		checkMappingsAreValidMap("skills/mappings/id-to-slug.json"),
 		checkMappingsAreValidMap("skills/mappings/slug-to-id.json"),
