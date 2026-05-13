@@ -50,7 +50,14 @@
 			"type": "object"
 		},
 		"set": {
-			"$ref": "/schemas/v1/items-sets-id.gen.json"
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/items-sets-id.gen.json"
+				},
+				{
+					"$ref": "/schemas/v1/items/set.json"
+				}
+			]
 		},
 		"skill": {
 			"$ref": "/schemas/v1/skills-id.gen.json"
@@ -78,7 +85,7 @@
 			"$ref": "/schemas/v1/items-types-id.gen.json"
 		}
 	},
-	"required": ["$type", "image", "type"],
+	"required": ["$type", "id", "image", "type"],
 	"title": "Item",
 	"type": "object"
 }
