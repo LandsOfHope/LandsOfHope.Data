@@ -5,7 +5,7 @@
 	},
 	"1-handed-shields": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "1 Handed Equipment"
+		"name": "1 Handed Shields"
 	},
 	"2-handed-equipment": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
@@ -13,7 +13,7 @@
 	},
 	"2-handed-shields": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "2 Handed Equipment"
+		"name": "2 Handed Shields"
 	},
 	"advertising-items": {
 		"desc": "Having this item in your inventory will allow you enhanced advertising on the Marketeer when trading goods to vendors.",
@@ -33,35 +33,35 @@
 	},
 	"ammo-weapons-artillery": {
 		"desc": "Equip this item via the Inventory > Equipment screen when using Heavy Weapons such as Artillery.",
-		"name": "Ammo"
+		"name": "Ammo - Artillery"
 	},
 	"ammo-weapons-bows": {
 		"desc": "Equip this item via the Inventory > Equipment screen when using Bow weapons.",
-		"name": "Ammo"
+		"name": "Ammo - Arrows"
 	},
 	"ammo-weapons-bullets": {
 		"desc": "Equip this item via the Inventory > Equipment screen when using Gun weapons.",
-		"name": "Ammo"
+		"name": "Ammo - Bullets"
 	},
 	"ammo-weapons-crossbows": {
 		"desc": "Equip this item via the Inventory > Equipment screen when using Crossbow weapons.",
-		"name": "Ammo"
+		"name": "Ammo - Bolts"
 	},
 	"ammo-weapons-darts": {
 		"desc": "Equip this item via the Inventory > Equipment screen when using Blowpipe weapons.",
-		"name": "Ammo"
+		"name": "Ammo - Darts"
 	},
 	"ammo-weapons-organic": {
 		"desc": "Equip this item via the Inventory > Equipment screen when using Organic weapons.",
-		"name": "Ammo"
+		"name": "Ammo - Organic"
 	},
 	"ammo-weapons-potions": {
 		"desc": "Equip this item via the Inventory > Equipment screen when using Scoop weapons.",
-		"name": "Ammo"
+		"name": "Ammo - Potions"
 	},
 	"ammo-weapons-rocks": {
 		"desc": "Equip this item via the Inventory > Equipment screen when using Rock weapons.",
-		"name": "Ammo"
+		"name": "Ammo - Rocks"
 	},
 	"ancient-relic-container": {
 		"desc": "An ancient relic ... long thought lost.",
@@ -80,7 +80,7 @@
 	},
 	"arm-armour": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Armour"
+		"name": "Armour - Arms"
 	},
 	"artifact-key": {
 		"desc": "Use this key with the correct Artifact inside an Artifact Keep to gain control of the Artifact for your Allegiance.",
@@ -198,11 +198,11 @@
 	},
 	"chest-armour": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Armour"
+		"name": "Armour - Chest"
 	},
 	"chocolate-statue": {
 		"desc": "Use the item Tile Management screen to place this item on a tile you own.",
-		"name": "Chocoate Statue"
+		"name": "Chocolate Statue"
 	},
 	"christmas-item": {
 		"desc": "Use the item Tile Management screen to place this item on a tile you own.",
@@ -217,7 +217,7 @@
 	},
 	"cloak": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Armour"
+		"name": "Armour - Cloak"
 	},
 	"clock": {
 		"desc": "This item lets you keep a check on time!",
@@ -367,13 +367,13 @@
 	},
 	"face-armour": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Armour"
+		"name": "Armour - Face"
 	},
 	"faction-loot-box": {
 		"name": "Faction Loot Box"
 	},
 	"feathers": {
-		"name": "Raw Materials"
+		"name": "Raw Materials - Feathers"
 	},
 	"fire-furniture": {
 		"desc": "Use the Furnishing screen to place this item into a compatible Room you own. Anyone with access to the room can then use the placed item.",
@@ -385,7 +385,7 @@
 	},
 	"fish": {
 		"desc": "This item can be used in a tradeskill, use the relevant crafting screen and if you have enough skill this item will be available as an ingredient.",
-		"name": "Raw Materials"
+		"name": "Raw Materials - Fish"
 	},
 	"flag-stand": {
 		"desc": "Place a flag on the stand to capture an island.",
@@ -417,11 +417,11 @@
 	},
 	"foot-armour": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Armour"
+		"name": "Armour - Feet"
 	},
 	"forehead": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Clothing"
+		"name": "Clothing - Forehead"
 	},
 	"fort-capture-flag": {
 		"name": "Flag"
@@ -432,7 +432,7 @@
 	},
 	"gems": {
 		"desc": "This item can be used in a tradeskill, use the Stonemasonry crafting screen and if you have enough skill this item will be available as an ingredient.",
-		"name": "Raw Materials"
+		"name": "Raw Materials - Gems"
 	},
 	"gladiator-altar": {
 		"desc": "This item exists on a world map tile in the Gladiator Realm only.",
@@ -483,11 +483,11 @@
 	},
 	"hand-armour": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Armour"
+		"name": "Armour - Hands"
 	},
 	"head-armour": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Armour"
+		"name": "Armour - Head"
 	},
 	"healing-resource": {
 		"desc": "Use this item when in combat and if you have the First-Aid skill you can heal yourself of damage.",
@@ -498,7 +498,7 @@
 	},
 	"hide": {
 		"desc": "Use this item from your Inventory screen to turn hides into prepared hides, or use the relevant Leatherworking plan. In both cases you need Leatherworking skill.",
-		"name": "Raw Materials"
+		"name": "Raw Materials - Hides"
 	},
 	"hide-preparing-tool": {
 		"desc": "Use the item Tile Management screen to place this item on a tile you own. Visitors can then use this tool to prepare hides without needing Leatherworking skill, however you get less hides and no experience.",
@@ -510,7 +510,7 @@
 	},
 	"house-resource-stone": {
 		"desc": "This item can be used in a tradeskill, use the relevant crafting screen and if you have enough skill this item will be available as an ingredient.",
-		"name": "Raw Materials"
+		"name": "Raw Materials - Stone"
 	},
 	"imprint": {
 		"desc": "Use this item from your inventory to apply a specific effect to a weapon, be it a poison, imprinted spell or another effect. This will give the weapon a special effect in combat.",
@@ -585,7 +585,7 @@
 	},
 	"leg-armour": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Armour"
+		"name": "Armour - Legs"
 	},
 	"legend-key": {
 		"desc": "This key is used to open a locked chest inside one of the Legend Dungeons.",
@@ -615,7 +615,7 @@
 	},
 	"log": {
 		"desc": "Use this item from your Inventory screen to turn it into planks (if you have Lumberjacking skill) or find a Chopping Block/Saw.",
-		"name": "Raw Materials"
+		"name": "Raw Materials - Logs"
 	},
 	"log-chopping-tool": {
 		"desc": "Use the item Tile Management screen to place this item on a tile you own. Visitors can then use this tool to chop logs without needing Lumberjacking skill, however you get less planks and no experience.",
@@ -659,7 +659,7 @@
 	},
 	"marine-resource": {
 		"desc": "This resource is gathered using the Marine Husbandry skill, via various marine traps littered around the realm.",
-		"name": "Raw Materials"
+		"name": "Raw Materials - Marine"
 	},
 	"marine-tool": {
 		"desc": "This resource is gathered using Marine Husbandry when in the Shrouded Islands.",
@@ -673,7 +673,7 @@
 		"name": "Message Board"
 	},
 	"metal-ship-resource": {
-		"name": "Raw Resource"
+		"name": "Raw Materials - Metal Shipment"
 	},
 	"mini-vault": {
 		"desc": "This item can be used from your Inventory screen, using the item allows you to move items in and out of your bank vault without visiting the bank.",
@@ -700,11 +700,11 @@
 	},
 	"neck": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Armour"
+		"name": "Armour - Neck"
 	},
 	"neck-clothing": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Clothing"
+		"name": "Clothing - Neck"
 	},
 	"necklace-upgrade": {
 		"desc": "This item can be fitted into a neck slot item to give that item the additional bonuses shown below.",
@@ -724,7 +724,7 @@
 	},
 	"ore": {
 		"desc": "Use this item from your Inventory screen to turn it into ingots (if you have Blacksmithing skill) or find a Forge.",
-		"name": "Raw Materials"
+		"name": "Raw Materials - Ore"
 	},
 	"other": {
 		"desc": "Use this item from the Inventory screen to see if it does anything.",
@@ -836,7 +836,7 @@
 		"name": "Container"
 	},
 	"pulp": {
-		"name": "Raw Materials"
+		"name": "Raw Materials - Pulp"
 	},
 	"puzzle": {
 		"desc": "Use the Dungeon Furnishing screen to place this item into a Puzzle/Question room in a dungeon you own. Players who visit this room will then have to solve the puzzle before they continue.",
@@ -944,10 +944,10 @@
 		"name": "Rogue Training Device"
 	},
 	"rope-ship-resource": {
-		"name": "Raw Resource"
+		"name": "Ship Resource - Rope"
 	},
 	"sailcloth-ship-resource": {
-		"name": "Raw Resource"
+		"name": "Ship Resource - Sailcloth"
 	},
 	"scavenger-compass": {
 		"name": "Scavenger Compass"
@@ -976,7 +976,7 @@
 	},
 	"shoulders": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Armour"
+		"name": "Armour - Shoulders"
 	},
 	"shrine": {
 		"desc": "Use the Furnishing screen to place this item into a Shrine Room you own, or use the Tile Items screen to place it on a tile you own, anyone who clicks on the item will be brought back to life if they are dead.",
@@ -1131,7 +1131,7 @@
 	},
 	"tailoring-raw-material": {
 		"desc": "Use this item from your Inventory screen to turn the fiber into thread (requires Tailoring skill) or look for a Spinning wheel.",
-		"name": "Raw Materials"
+		"name": "Raw Materials - Tailoring"
 	},
 	"tailoring-thread-maker": {
 		"desc": "Use the Furnishing screen to place this item into a compatible Room you own or a land tile. Anyone with access to it can then use the item to turn fiber into thread.",
@@ -1139,10 +1139,10 @@
 	},
 	"tailoring-thread-material": {
 		"desc": "This item can be used in a tradeskill, use the relevant crafting screen and if you have enough skill this item will be available as an ingredient.",
-		"name": "Materials"
+		"name": "Materials - Tailoring"
 	},
 	"tar-ship-resource": {
-		"name": "Raw Resource"
+		"name": "Ship Resource - Tar"
 	},
 	"targeted-containers": {
 		"desc": "Use this item from your Inventory screen to open it, alternatively some of these types of items may be placed inside rooms and can then be accessed by people inside the room.",
@@ -1209,11 +1209,11 @@
 	},
 	"treasure-hunter-tool": {
 		"desc": "This item is used from your Inventory to uncover clues to long lost treasures!",
-		"name": "Treasure Hunter tool"
+		"name": "Treasure Hunter Tool"
 	},
 	"treasure-map": {
 		"desc": "Use this item from your Inventory screen to view the location the treasure map points to. To dig up the treasure you need to Equip a spade (which requires Mining skill) then goto the location of the treasure and click the Dig button.",
-		"name": "Map"
+		"name": "Treasure Map"
 	},
 	"trinket": {
 		"desc": "Use this item from your Inventory screen and you might find something strange happens.",
@@ -1315,7 +1315,7 @@
 		"name": "Wings"
 	},
 	"wood-ship-resource": {
-		"name": "Raw Resource"
+		"name": "Ship Resource - Wood"
 	},
 	"world-lockpick-spawn": {
 		"desc": "Clicking on a locked box in a building will attempt to open it, you will need Lockpicking skill.",
