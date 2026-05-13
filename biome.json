@@ -15,7 +15,14 @@
 		"includes": ["**/*.js", "**/*.ts", "!node_modules", "**/*.json"]
 	},
 	"formatter": {
-		"enabled": true
+		"enabled": true,
+		"indentStyle": "tab",
+		"lineWidth": 80
+	},
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "single"
+		}
 	},
 	"json": {
 		"formatter": {

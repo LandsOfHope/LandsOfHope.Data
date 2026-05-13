@@ -78,7 +78,7 @@ directories.forEach((dir) => {
 			if (stat.isDirectory()) {
 				const scopedAllValues = [];
 				const scopedInlineValues = {};
-				const files = readdirSync(subdirPath);
+				const files = readdirSync(subdirPath).sort();
 				for (const file of files) {
 					if (file.endsWith(".json") && !file.endsWith(".gen.json")) {
 						const id = `${subdir}/${file.slice(0, -5)}`;
@@ -105,7 +105,7 @@ directories.forEach((dir) => {
 			}
 		});
 	} else {
-		const files = readdirSync(parentDir);
+		const files = readdirSync(parentDir).sort();
 		for (const file of files) {
 			if (file.endsWith(".json") && !file.endsWith(".gen.json")) {
 				all_content.push(file.slice(0, -5));

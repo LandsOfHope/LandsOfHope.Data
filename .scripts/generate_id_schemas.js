@@ -120,7 +120,7 @@ directories.forEach((dir) => {
 					join(parentOutputDir, `${subdir}-${idName}.gen.json`),
 					JSON.stringify({
 						$id: `https://data.landsofhope.com/${scoped_id_schema_file}`,
-						enum: scopedEnumValues,
+						enum: scopedEnumValues.sort(),
 						title: scopedProperTitle,
 					}),
 				);
@@ -138,11 +138,11 @@ directories.forEach((dir) => {
 
 	const enumTypeObj = {};
 	if (isGlob) {
-		enumTypeObj.oneOf = childEnums.map((childEnum) => ({
+		enumTypeObj.oneOf = childEnums.sort().map((childEnum) => ({
 			$ref: `/${childEnum}`,
 		}));
 	} else {
-		enumTypeObj.enum = enumValues;
+		enumTypeObj.enum = enumValues.sort();
 	}
 
 	writeFileSync(
