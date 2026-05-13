@@ -23,10 +23,24 @@
 			"$ref": "/schemas/v1/items-materials-id.gen.json"
 		},
 		"set": {
-			"$ref": "/schemas/v1/items-sets-id.gen.json"
+			"oneOf": [
+				{
+					"type": "null"
+				},
+				{
+					"$ref": "/schemas/v1/items-sets-id.gen.json"
+				}
+			]
 		},
 		"skill": {
-			"$ref": "/schemas/v1/skills-id.gen.json"
+			"oneOf": [
+				{
+					"type": "null"
+				},
+				{
+					"$ref": "/schemas/v1/skills-id.gen.json"
+				}
+			]
 		},
 		"type": {
 			"$ref": "/schemas/v1/items-types-id.gen.json"
