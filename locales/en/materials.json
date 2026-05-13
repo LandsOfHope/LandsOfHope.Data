@@ -178,7 +178,8 @@
 		"985": { "name": "Marany Nut" },
 		"990": { "name": "Mauritius Raspberry" },
 		"995": { "name": "Strawberry Raspberry" },
-		"1000": { "name": "Jewelflower" }
+		"1000": { "name": "Jewelflower" },
+		"name": "Berry"
 	},
 	"bird": {
 		"0": { "name": "Blackbird" },
@@ -360,7 +361,8 @@
 		"985": { "name": "Dodo" },
 		"990": { "name": "Thunderbird" },
 		"995": { "name": "Roc" },
-		"1000": { "name": "Golden Heron" }
+		"1000": { "name": "Golden Heron" },
+		"name": "Bird"
 	},
 	"cloth": {
 		"0": { "name": "Cotton" },
@@ -545,7 +547,8 @@
 		"985": { "name": "Laince" },
 		"990": { "name": "God" },
 		"995": { "name": "Hevain" },
-		"1000": { "name": "Pamakani" }
+		"1000": { "name": "Pamakani" },
+		"name": "Cloth"
 	},
 	"color": {
 		"1": { "name": "Spotted" },
@@ -647,7 +650,8 @@
 		"970": { "name": "Dark green" },
 		"985": { "name": "Pale peacock" },
 		"995": { "name": "Ultramarine" },
-		"1000": { "name": "Glitter" }
+		"1000": { "name": "Glitter" },
+		"name": "Color"
 	},
 	"creatures": {
 		"1": { "name": "Rat" },
@@ -749,7 +753,8 @@
 		"945": { "name": "Elder Liche" },
 		"955": { "name": "Weaver" },
 		"960": { "name": "Giant Octopus" },
-		"970": { "name": "Young Weaver" }
+		"970": { "name": "Young Weaver" },
+		"name": "Creature"
 	},
 	"crop": {
 		"0": { "name": "Sorghum" },
@@ -932,7 +937,8 @@
 		"985": { "name": "Lucma" },
 		"990": { "name": "Sapote" },
 		"995": { "name": "Summer Barley" },
-		"1000": { "name": "Ambrosia" }
+		"1000": { "name": "Ambrosia" },
+		"name": "Crop"
 	},
 	"element": {
 		"30": { "name": "Omnipotent" },
@@ -967,7 +973,8 @@
 		"910": { "desc": "Reaping", "name": "Death" },
 		"940": { "desc": "Illusion", "name": "Illusion" },
 		"970": { "desc": "Paralysing", "name": "Paralysis" },
-		"1000": { "desc": "Nulification", "name": "Nulify" }
+		"1000": { "desc": "Nulification", "name": "Nulify" },
+		"name": "Element"
 	},
 	"fish": {
 		"0": { "name": "Tadpole" },
@@ -1149,7 +1156,8 @@
 		"985": { "name": "Hake" },
 		"990": { "name": "Barbel" },
 		"995": { "name": "Piranha" },
-		"1000": { "name": "Royal Darter" }
+		"1000": { "name": "Royal Darter" },
+		"name": "Fish"
 	},
 	"gem": {
 		"0": { "name": "Azurite" },
@@ -1336,7 +1344,8 @@
 		"985": { "name": "Red Diamond" },
 		"990": { "name": "Green Diamond" },
 		"995": { "name": "Ruby Diamond" },
-		"1000": { "name": "Hellfire Ruby" }
+		"1000": { "name": "Hellfire Ruby" },
+		"name": "Gem"
 	},
 	"hide": {
 		"0": { "name": "Ruined" },
@@ -1539,7 +1548,8 @@
 		"985": { "name": "Glorious" },
 		"990": { "name": "Exotic" },
 		"995": { "name": "Ravishing" },
-		"1000": { "name": "Ardent" }
+		"1000": { "name": "Ardent" },
+		"name": "Hide"
 	},
 	"metal": {
 		"0": { "name": "Brozahrium" },
@@ -1724,7 +1734,8 @@
 		"985": { "name": "Mandarite" },
 		"990": { "name": "Godenlinite" },
 		"995": { "name": "Trinium" },
-		"1000": { "name": "Irellinium" }
+		"1000": { "name": "Irellinium" },
+		"name": "Metal"
 	},
 	"snake": {
 		"1": { "name": "Lesser Scaled  Snake" },
@@ -1804,7 +1815,8 @@
 		"970": { "name": "Crowned Snake" },
 		"980": { "name": "Spitting Cobra" },
 		"995": { "name": "Scarlet King Snake" },
-		"1000": { "name": "Plains Bog Snake" }
+		"1000": { "name": "Plains Bog Snake" },
+		"name": "Snake"
 	},
 	"spider": {
 		"1": { "name": "Lesser Furry Spider" },
@@ -1884,7 +1896,8 @@
 		"970": { "name": "Orb-web Spider" },
 		"980": { "name": "Black Widow Spider" },
 		"995": { "name": "Regal Spider" },
-		"1000": { "name": "Meshweaver" }
+		"1000": { "name": "Meshweaver" },
+		"name": "Spider"
 	},
 	"stone": {
 		"0": { "name": "Chalk" },
@@ -2071,7 +2084,8 @@
 		"985": { "name": "Demoritz" },
 		"990": { "name": "Godonitz" },
 		"995": { "name": "Angoritz" },
-		"1000": { "name": "Brimstone" }
+		"1000": { "name": "Brimstone" },
+		"name": "Stone"
 	},
 	"undead": {
 		"250": { "name": "Dummy" },
@@ -2098,7 +2112,8 @@
 		"970": { "name": "Annis" },
 		"980": { "name": "Elder Liche" },
 		"990": { "name": "Wighte" },
-		"1000": { "name": "Dread Liche" }
+		"1000": { "name": "Dread Liche" },
+		"name": "Undead"
 	},
 	"vegetable": {
 		"0": { "name": "Sagegut" },
@@ -2283,7 +2298,8 @@
 		"985": { "name": "Ume" },
 		"990": { "name": "Kolomikta" },
 		"995": { "name": "Duku" },
-		"1000": { "name": "Eternal Pea" }
+		"1000": { "name": "Eternal Pea" },
+		"name": "Vegetable"
 	},
 	"wood": {
 		"0": { "name": "Balsa" },
@@ -2468,6 +2484,7 @@
 		"985": { "name": "Gumwood" },
 		"990": { "name": "Godwood" },
 		"995": { "name": "Knottwood" },
-		"1000": { "name": "Demiwood" }
+		"1000": { "name": "Demiwood" },
+		"name": "Wood"
 	}
 }
