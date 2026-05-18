@@ -135,7 +135,7 @@
 	},
 	"biting-item": {
 		"desc": "Use this item from your inventory to try to bite a player.",
-		"name": "Bought Extra"
+		"name": "Bought Extra - Teeth"
 	},
 	"bombs": {
 		"name": "Bombs"
@@ -245,7 +245,7 @@
 	},
 	"courier-item": {
 		"desc": "Use this item from your Inventory screen to be able to send Bought extras and other items to characters on your account.",
-		"name": "Bought Extra"
+		"name": "Bought Extra - Courier"
 	},
 	"crack": {
 		"desc": "Unuseable",
@@ -349,7 +349,7 @@
 	},
 	"exile-symbol": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Allegiance Symbol"
+		"name": "Allegiance Symbol - Exile"
 	},
 	"expansion-pack-portal": {
 		"name": "Expansion Pack Portal"
@@ -533,7 +533,7 @@
 	},
 	"item-sell-box": {
 		"desc": "Use this item from your Inventory screen to be able to sell items whenever you wish without going to an NPC, very useful for selling loot if you are full and in the middle of a dungeon.",
-		"name": "Bought Extra"
+		"name": "Bought Extra - Sell Box"
 	},
 	"item-use-door": {
 		"desc": "Allows someone with the correct item to pass.",
@@ -879,7 +879,7 @@
 	},
 	"reaper-symbol": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Allegiance Symbol"
+		"name": "Allegiance Symbol - Reaper"
 	},
 	"relic-piece": {
 		"name": "Relic Piece"
@@ -894,7 +894,7 @@
 	},
 	"relocation-tool": {
 		"desc": "Use this item from your Inventory screen to allow you to relocate a building from one tile to another.",
-		"name": "Bought Extra"
+		"name": "Bought Extra - Relocation Tool"
 	},
 	"rennovation-deeds": {
 		"desc": "Using the rennovate screen you can expand your building by selecting this deed or upgrade an existing room to this type.",
@@ -1012,7 +1012,7 @@
 	},
 	"society-symbol": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Allegiance Symbol"
+		"name": "Allegiance Symbol - Society"
 	},
 	"soul-gems": {
 		"desc": "Use this item from your Inventory screen if you have Transmigration skill it will release the spirit and give it physical form once more, alternatively building owners can place soul gems inside spawn rooms and the entrance room of a building.",
@@ -1073,11 +1073,7 @@
 	},
 	"statue-permit": {
 		"desc": "Use this item from your Inventory screen when standing on a tile you own, or inside a Statue Monument room you own to place a Statue. The statue can be based on any of your characters or characters on your server.",
-		"name": "Bought Extra"
-	},
-	"status-changer": {
-		"desc": "Use this item from your Inventory screen to be able to alter your appearance and to change the way you appear to others, you can also change the appearance of buildings.",
-		"name": "Bought Extra"
+		"name": "Bought Extra - Statue Permit"
 	},
 	"stealing-loot": {
 		"desc": "This type of item can be found solely from stealing from a monster or player.",
