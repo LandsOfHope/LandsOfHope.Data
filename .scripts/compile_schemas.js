@@ -3,6 +3,7 @@ import { basename, join, sep } from "node:path";
 import Ajv, { MissingRefError } from "ajv";
 import standaloneCode from "ajv/dist/standalone/index.js";
 import addFormats from "ajv-formats";
+import { fullFormats } from "ajv-formats/dist/formats";
 import { sync } from "glob";
 
 const schemaVersions = sync("schemas/*");
@@ -36,7 +37,7 @@ const main = async () => {
 			JSON.parse(readFileSync(s, { encoding: "utf-8" })),
 		);
 		const ajv = new Ajv({
-			code: { esm: true, optimize: 3, source: true },
+			code: { esm: true, optimize: 3, source: true, formats:fullFormats  },
 			strict: true,
 		});
 		addFormats(ajv);
