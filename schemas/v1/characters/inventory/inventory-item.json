@@ -113,6 +113,9 @@
 		"quantity": {
 			"$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
 		},
+		"card": {
+			"$ref": "/schemas/v1/items/card.json"
+		},
 		"stackHash": {
 			"$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
 		}

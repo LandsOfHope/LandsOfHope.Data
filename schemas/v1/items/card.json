@@ -1,0 +1,15 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/items/card.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/items/card"
+		},
+        "type": {
+            "$ref": "/schemas/v1/items-cards-types-id.gen.json"
+        }
+	},
+	"required": ["$type", "type"],
+	"title": "Card",
+	"type": "object"
+}

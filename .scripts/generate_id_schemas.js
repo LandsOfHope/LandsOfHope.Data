@@ -30,6 +30,8 @@ const directories = (() => {
 		"titles",
 		"allegiances",
 		"items",
+		"items/cards",
+		"items/cards/types",
 		"items/sets",
 		"items/types",
 		"items/images",

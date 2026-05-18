@@ -350,6 +350,8 @@ const main = async () =>
 			"characters/character-creation-images.json",
 		),
 		validateAll("schemas/v1/item.json", "items/!(*.gen).json"),
+		validateAll("schemas/v1/items/card.json", "items/cards/!(*.gen).json"),
+		validateAll("schemas/v1/items/card-type.json", "items/cards/types/!(*.gen).json"),
 		validateAll("schemas/v1/items/set.json", "items/sets/!(*.gen).json"),
 		validateAll("schemas/v1/items/type.json", "items/types/!(*.gen).json"),
 		validateAll("schemas/v1/items/image.json", "items/images/!(*.gen).json"),
