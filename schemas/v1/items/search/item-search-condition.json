@@ -8,9 +8,6 @@
 			"$ref": "/schemas/v1/items/search/item-search-or-condition.json"
 		},
 		{
-			"$ref": "/schemas/v1/items/search/item-search-name-contains-condition.json"
-		},
-		{
 			"$ref": "/schemas/v1/items/search/item-search-property-match-condition.json"
 		}
 	],

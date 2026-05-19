@@ -77,7 +77,6 @@ const schemasWithOptionalTypeSpecifier = [
 
 	"https://data.landsofhope.com/schemas/v1/items/search/item-search-and-condition.json",
 	"https://data.landsofhope.com/schemas/v1/items/search/item-search-or-condition.json",
-	"https://data.landsofhope.com/schemas/v1/items/search/item-search-name-contains-condition.json",
 	"https://data.landsofhope.com/schemas/v1/items/search/item-search-property-match-condition.json",
 
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-and-condition.json",
