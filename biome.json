@@ -28,5 +28,13 @@
 		"formatter": {
 			"enabled": true
 		}
-	}
+	},
+	"overrides": [
+		{
+			"includes": ["api/js/validation/**/*.js"],
+			"files": {
+				"maxSize": 6000000
+			}
+		}
+	]
 }
