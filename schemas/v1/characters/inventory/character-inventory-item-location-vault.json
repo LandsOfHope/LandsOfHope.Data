@@ -1,0 +1,18 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/character-inventory-item-location-vault.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/inventory/character-inventory-item-location-vault"
+		},
+		"character": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"vault": {
+			"$ref": "/schemas/v1/characters/inventory/inventory-item-vault-id.json"
+		}
+	},
+	"required": ["$type", "character", "vault"],
+	"title": "CharacterInventoryItemLocationVault",
+	"type": "object"
+}

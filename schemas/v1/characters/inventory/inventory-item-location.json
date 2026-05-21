@@ -15,6 +15,9 @@
 		},
 		{
 			"$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-queue-locked.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-vault.json"
 		}
 	],
 	"title": "CharacterInventoryItemLocation"
