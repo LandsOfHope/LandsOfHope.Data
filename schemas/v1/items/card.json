@@ -5,9 +5,9 @@
 		"$type": {
 			"const": "/v1/items/card"
 		},
-        "type": {
-            "$ref": "/schemas/v1/items-cards-types-id.gen.json"
-        }
+		"type": {
+			"$ref": "/schemas/v1/items-cards-types-id.gen.json"
+		}
 	},
 	"required": ["$type", "type"],
 	"title": "Card",

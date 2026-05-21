@@ -48,6 +48,9 @@
 		"actions": {
 			"$ref": "/schemas/v1/characters/inventory/actions/inventory-item-actions.json"
 		},
+		"card": {
+			"$ref": "/schemas/v1/items/card.json"
+		},
 		"enhancements": {
 			"items": {
 				"enum": [
@@ -112,9 +115,6 @@
 		},
 		"quantity": {
 			"$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
-		},
-		"card": {
-			"$ref": "/schemas/v1/items/card.json"
 		},
 		"stackHash": {
 			"$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
