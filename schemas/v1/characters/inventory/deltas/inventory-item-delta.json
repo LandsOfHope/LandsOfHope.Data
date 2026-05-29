@@ -1,6 +1,7 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/deltas/inventory-item-delta.json",
 	"additionalProperties": false,
+	"minProperties": 2,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/inventory/deltas/inventory-item-delta"
