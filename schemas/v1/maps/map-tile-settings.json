@@ -19,8 +19,7 @@
 		"salePrice": {
 			"oneOf": [
 				{
-					"minimum": 1,
-					"type": "number"
+					"$ref": "/schemas/v0/game-currency.json"
 				},
 				{
 					"type": "null"

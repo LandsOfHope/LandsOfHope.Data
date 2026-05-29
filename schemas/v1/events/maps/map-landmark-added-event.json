@@ -6,7 +6,7 @@
 			"const": "/v1/events/maps/map-landmark-added-event"
 		},
 		"landmark": {
-			"$ref": "/schemas/v1/maps/map-landmark-id.json"
+			"$ref": "/schemas/v1/maps/map-landmark.json"
 		}
 	},
 	"required": ["$type", "landmark"],
