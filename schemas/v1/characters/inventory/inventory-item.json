@@ -117,7 +117,14 @@
 			"$ref": "/schemas/v1/characters/inventory/inventory-item-quantity.json"
 		},
 		"stackHash": {
-			"$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/characters/inventory/inventory-item-stack-hash.json"
+				},
+				{
+					"type": "null"
+				}
+			]
 		}
 	},
 	"required": [

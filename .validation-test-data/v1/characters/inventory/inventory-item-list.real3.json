@@ -1,0 +1,3603 @@
+[
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371850664,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 500,
+			"id": "preystalkers-charm",
+			"image": "6792",
+			"material": "gem",
+			"skills": { "track-beasts": 20 },
+			"stackLimit": 1,
+			"type": "neck-clothing"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "neck"
+		},
+		"quality": 4,
+		"quantity": 1,
+		"stackHash": "277CF9FCA38C6C1D"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850627,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 31,
+			"dpr": 2,
+			"id": "hatchet",
+			"image": "ax7",
+			"material": "metal",
+			"skill": "lumberjacking",
+			"skills": { "lumberjacking": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 1,
+		"stackHash": "EF7C6D2BE1158AA1"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850628,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 20,
+			"dpr": 2,
+			"id": "harvestor-knife",
+			"image": "fehakn",
+			"material": "metal",
+			"skill": "farming",
+			"skills": { "farming": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 1,
+		"stackHash": "9DA9F3659147BD3F"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850629,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 24,
+			"id": "pickaxe",
+			"image": "9",
+			"material": "metal",
+			"skill": "mining",
+			"skills": { "mining": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 1,
+		"stackHash": "66429AF969A73C3D"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850630,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 26,
+			"id": "hide-crafting-tool",
+			"image": "hct",
+			"material": "hide",
+			"skill": "leatherworking",
+			"skills": { "leatherworking": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 1,
+		"stackHash": "964514C1280EC5FD"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850631,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 30,
+			"dpr": 2,
+			"id": "hoe",
+			"image": "hoe",
+			"material": "metal",
+			"skill": "foraging",
+			"skills": { "foraging": 1 },
+			"stackLimit": 1,
+			"type": "2-handed-equipment"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 1,
+		"stackHash": "2CF0061D7DFC2A44"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {}, "use": {} },
+		"id": 371850624,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 32,
+			"id": "simple-spell-book",
+			"image": "bk2",
+			"material": "hide",
+			"stackLimit": 1,
+			"type": "training-aid-spells"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 1,
+		"stackHash": "CDA4D5C67B4AFAFA"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {}, "use": {} },
+		"id": 371851872,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 16,
+			"id": "torn-training-book",
+			"image": "bk1",
+			"material": "hide",
+			"stackLimit": 1,
+			"type": "knowledge-aid-styles"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 1,
+		"stackHash": "01FA5FCC8C49035B"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371858173,
+		"item": {
+			"$type": "/v1/item",
+			"adjustable": true,
+			"baseValue": 20,
+			"id": "monacle-of-lore",
+			"image": "zumolo",
+			"material": "gem",
+			"properties": { "MANA": 1, "MAXMANA": 1 },
+			"stackLimit": 1,
+			"type": "lore-item"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quality": 10,
+		"quantity": 1,
+		"stackHash": "91795D22485A3D49"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371858172,
+		"item": {
+			"$type": "/v1/item",
+			"adjustable": true,
+			"baseValue": 29,
+			"id": "glasses-of-destiny",
+			"image": "5734",
+			"material": "gem",
+			"properties": { "INTELLIGENCE": 1, "MAXMANA": 1 },
+			"set": "destiny-set",
+			"skills": { "experience-bonus": 1 },
+			"stackLimit": 1,
+			"type": "glasses-shades"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quality": 10,
+		"quantity": 1,
+		"stackHash": "7A713A188224AAF1"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371851816,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 32,
+			"id": "bark",
+			"image": "1091",
+			"material": "wood",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 0,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quantity": 1,
+		"stackHash": "A838C542BC0ACC6F"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371856799,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"dpr": 2,
+			"id": "arrow",
+			"image": "arr1",
+			"material": "wood",
+			"skills": { "attack-power": 1 },
+			"stackLimit": 1000,
+			"type": "ammo-weapons-bows"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-5"
+		},
+		"quantity": 50,
+		"stackHash": "F359E7F34F63F957"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371856798,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 82,
+			"dpr": 3,
+			"id": "short-bow",
+			"image": "shb",
+			"material": "metal",
+			"skill": "bows",
+			"skills": { "attack-power": 1 },
+			"stackLimit": 1,
+			"type": "ranged-weapon"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-5"
+		},
+		"quantity": 1,
+		"stackHash": "0C73BD1CFDB3A8D8"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371856795,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 25,
+			"id": "headband",
+			"image": "6",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "forehead"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-5"
+		},
+		"quantity": 1,
+		"stackHash": "35A24A8A8BEC20C7"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371856817,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 33,
+			"dpr": 2,
+			"id": "knuckle-duster",
+			"image": "nft",
+			"material": "metal",
+			"skill": "fists",
+			"skills": { "attack-power": 1, "fists": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quantity": 1,
+		"stackHash": "D065E411F9A252C6"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {}, "use": {} },
+		"id": 371856822,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1000,
+			"id": "random-trading-card",
+			"image": "187",
+			"material": "hide",
+			"stackLimit": 1,
+			"type": "trading-card"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-1"
+		},
+		"quality": 1,
+		"quantity": 1,
+		"stackHash": "3E23586B6649DDE0"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371856805,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 23,
+			"dpr": 2,
+			"id": "sword",
+			"image": "sw1",
+			"material": "metal",
+			"skill": "swords",
+			"skills": { "attack-power": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quantity": 1,
+		"stackHash": "5A756544C64FB813"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {}, "use": {} },
+		"id": 371853604,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "treasure-map",
+			"image": "mp2",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "treasure-map"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quantity": 2,
+		"stackHash": "2C5AD89411E3F4E6"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371851754,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "foot",
+			"image": "435",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quality": 3,
+		"quantity": 2,
+		"stackHash": "D9D576E8C3967E80"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850607,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "fur",
+			"image": "521",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quality": 3,
+		"quantity": 1,
+		"stackHash": "3FCB1FF4390442C8"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850608,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 31,
+			"id": "small-bag",
+			"image": "bg3",
+			"material": "cloth",
+			"stackLimit": 1,
+			"type": "bag"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-4"
+		},
+		"quality": 3,
+		"quantity": 1,
+		"stackHash": "ABC80CA5E95BB882"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850640,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 31,
+			"id": "small-bag",
+			"image": "bg3",
+			"material": "cloth",
+			"stackLimit": 1,
+			"type": "bag"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-4"
+		},
+		"quality": 3,
+		"quantity": 1,
+		"stackHash": "ABC80CA5E95BB882"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850637,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 31,
+			"id": "small-bag",
+			"image": "bg3",
+			"material": "cloth",
+			"stackLimit": 1,
+			"type": "bag"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-4"
+		},
+		"quality": 3,
+		"quantity": 1,
+		"stackHash": "ABC80CA5E95BB882"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850634,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 31,
+			"id": "small-bag",
+			"image": "bg3",
+			"material": "cloth",
+			"stackLimit": 1,
+			"type": "bag"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-4"
+		},
+		"quality": 3,
+		"quantity": 1,
+		"stackHash": "ABC80CA5E95BB882"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmake2.asp",
+				"query": { "InventoryItemID": 371851819, "SkillID": 59 }
+			}
+		},
+		"id": 371851819,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "egg",
+			"image": "eg2",
+			"material": "bird",
+			"properties": { "HITPOINTS": 1 },
+			"stackLimit": 1000,
+			"type": "rawfood"
+		},
+		"level": 0,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 1,
+		"stackHash": "73706479DC0C97F0"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {}, "use": {} },
+		"id": 371850698,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1000,
+			"id": "random-trading-card",
+			"image": "187",
+			"material": "hide",
+			"stackLimit": 1,
+			"type": "trading-card"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-1"
+		},
+		"quality": 1,
+		"quantity": 1,
+		"stackHash": "52A49C01B18928DE"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {}, "use": {} },
+		"id": 371850655,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1000,
+			"id": "random-trading-card",
+			"image": "187",
+			"material": "hide",
+			"stackLimit": 1,
+			"type": "trading-card"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-1"
+		},
+		"quality": 1,
+		"quantity": 1,
+		"stackHash": "4FC54466EE06281C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371860182,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 25,
+			"id": "lesser-dungeon-key",
+			"image": "ky1",
+			"material": "metal",
+			"stackLimit": 1000,
+			"type": "dungeon-key"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quality": 2,
+		"quantity": 2,
+		"stackHash": "90AF12D2517327E2"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371869207,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "dung",
+			"image": "503",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quality": 3,
+		"quantity": 3,
+		"stackHash": "EE56934270A5E3C6"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmake2.asp",
+				"query": { "InventoryItemID": 371859524, "SkillID": 59 }
+			}
+		},
+		"id": 371859524,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "vegetable",
+			"image": "vg1",
+			"material": "vegetable",
+			"properties": { "HITPOINTS": 1 },
+			"stackLimit": 1000,
+			"type": "rawfood"
+		},
+		"level": 0,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 125,
+		"stackHash": "9D07D9169C56202C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371859523, "ItemID": 74 }
+			}
+		},
+		"id": 371859523,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "fiber",
+			"image": "flower13",
+			"material": "cloth",
+			"stackLimit": 1000,
+			"type": "tailoring-raw-material"
+		},
+		"level": 0,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 9,
+		"stackHash": "A23F936523A701DA"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {}, "use": {} },
+		"id": 371857012,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1000,
+			"id": "random-trading-card",
+			"image": "187",
+			"material": "hide",
+			"stackLimit": 1,
+			"type": "trading-card"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-1"
+		},
+		"quality": 1,
+		"quantity": 1,
+		"stackHash": "69E267071E318DD5"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371857113,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "stone-block",
+			"image": "gsb",
+			"material": "stone",
+			"stackLimit": 1000,
+			"type": "resource-stone-masonry"
+		},
+		"level": 0,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 28,
+		"stackHash": "0B1B6B51F3419529"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371857028,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "gem",
+			"image": "216",
+			"material": "gem",
+			"stackLimit": 1000,
+			"type": "gems"
+		},
+		"level": 0,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 1,
+		"stackHash": "0007F004640F8F3E"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371856829,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "skeleton-bone",
+			"image": "254",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quality": 3,
+		"quantity": 5,
+		"stackHash": "95679F8D865AEC51"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {}, "use": {} },
+		"id": 371856910,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1000,
+			"id": "random-trading-card",
+			"image": "187",
+			"material": "hide",
+			"stackLimit": 1,
+			"type": "trading-card"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-1"
+		},
+		"quality": 1,
+		"quantity": 1,
+		"stackHash": "AE7D2AA5CB97D1D2"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {}, "use": {} },
+		"id": 371856618,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1000,
+			"id": "random-trading-card",
+			"image": "187",
+			"material": "hide",
+			"stackLimit": 1,
+			"type": "trading-card"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-1"
+		},
+		"quality": 1,
+		"quantity": 1,
+		"stackHash": "EB9CE4109805B3B0"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371856816,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 33,
+			"dpr": 2,
+			"id": "knuckle-duster",
+			"image": "nft",
+			"material": "metal",
+			"skill": "fists",
+			"skills": { "attack-power": 1, "fists": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-5"
+		},
+		"quantity": 1,
+		"stackHash": "D065E411F9A252C6"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhlp.asp",
+				"query": { "InventoryItemID": 371856810 }
+			}
+		},
+		"id": 371856810,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"dpr": 2,
+			"id": "lockpick",
+			"image": "be7",
+			"material": "metal",
+			"skill": "lockpicking",
+			"skills": { "lockpicking": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-5"
+		},
+		"quantity": 1,
+		"stackHash": "9C6DF63CA5D61667"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371856809,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 33,
+			"dpr": 2,
+			"id": "dagger",
+			"image": "dg",
+			"material": "metal",
+			"properties": { "SPEED": 1 },
+			"skill": "daggers",
+			"skills": { "attack-power": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-5"
+		},
+		"quantity": 1,
+		"stackHash": "4E21A4BC9979DD0F"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371856806,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 25,
+			"id": "headband",
+			"image": "6",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "forehead"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-5"
+		},
+		"quantity": 1,
+		"stackHash": "35A24A8A8BEC20C7"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371872269,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "gem",
+			"image": "216",
+			"material": "gem",
+			"stackLimit": 1000,
+			"type": "gems"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 21,
+		"stackHash": "8381D5C0177C3F79"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371872274,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "gem",
+			"image": "216",
+			"material": "gem",
+			"stackLimit": 1000,
+			"type": "gems"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 19,
+		"stackHash": "08E8338075EA39E6"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371869384,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 10,
+			"id": "wild-beast-token",
+			"image": "6788",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quantity": 24,
+		"stackHash": "FD35F77A7C7A97E7"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371872270, "ItemID": 52 }
+			}
+		},
+		"id": 371872270,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "hide",
+			"image": "he1",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "hide"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 144,
+		"stackHash": "3BB4FD2C5DBFA6C7"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371874481,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "flesh",
+			"image": "395",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quality": 3,
+		"quantity": 21,
+		"stackHash": "2362B150EB944535"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371875293,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 10,
+			"id": "slaying-token",
+			"image": "6906",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quantity": 11,
+		"stackHash": "6BF303EB39E30CA9"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371870527,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "rat-tail",
+			"image": "229",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quality": 3,
+		"quantity": 46,
+		"stackHash": "A773AC8AA0014BEF"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {}, "use": {} },
+		"id": 371873270,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "treasure-map",
+			"image": "mp2",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "treasure-map"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-4"
+		},
+		"quantity": 1,
+		"stackHash": "7FF53996BB0BE72C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {}, "use": {} },
+		"id": 371872272,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "treasure-map",
+			"image": "mp2",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "treasure-map"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-4"
+		},
+		"quantity": 1,
+		"stackHash": "2C5AD89411E3F4E6"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371874373, "ItemID": 52 }
+			}
+		},
+		"id": 371874373,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "hide",
+			"image": "he1",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "hide"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 79,
+		"stackHash": "B3E78867193FA6B5"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371875349,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 10,
+			"id": "scouting-report",
+			"image": "6795",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quantity": 1,
+		"stackHash": "F9CFB8754448A00B"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371875359,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 10,
+			"id": "ruin-token",
+			"image": "6790",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quantity": 13,
+		"stackHash": "160CAAB2159ECD47"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371875340, "ItemID": 52 }
+			}
+		},
+		"id": 371875340,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "hide",
+			"image": "he1",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "hide"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 46,
+		"stackHash": "C146758C3A7825EB"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371876289, "ItemID": 188 }
+			}
+		},
+		"id": 371876289,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "log",
+			"image": "lg",
+			"material": "wood",
+			"stackLimit": 1000,
+			"type": "log"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 74,
+		"stackHash": "D6AFE88986A60D5F"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371881294, "ItemID": 52 }
+			}
+		},
+		"id": 371881294,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "hide",
+			"image": "he1",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "hide"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 69,
+		"stackHash": "E0132D28CD32CAFA"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371883623, "ItemID": 188 }
+			}
+		},
+		"id": 371883623,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "log",
+			"image": "lg",
+			"material": "wood",
+			"stackLimit": 1000,
+			"type": "log"
+		},
+		"level": 0,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quantity": 34,
+		"stackHash": "C64132C6E40DF173"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmake2.asp",
+				"query": { "InventoryItemID": 371883649, "SkillID": 59 }
+			}
+		},
+		"id": 371883649,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "egg",
+			"image": "eg2",
+			"material": "bird",
+			"properties": { "HITPOINTS": 1 },
+			"stackLimit": 1000,
+			"type": "rawfood"
+		},
+		"level": 0,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 2,
+		"stackHash": "73706479DC0C97F0"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371883653, "ItemID": 188 }
+			}
+		},
+		"id": 371883653,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "log",
+			"image": "lg",
+			"material": "wood",
+			"stackLimit": 1000,
+			"type": "log"
+		},
+		"level": 0,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 25,
+		"stackHash": "C64132C6E40DF173"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371893552, "ItemID": 52 }
+			}
+		},
+		"id": 371893552,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "hide",
+			"image": "he1",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "hide"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 1,
+		"stackHash": "E0132D28CD32CAFA"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371896622, "ItemID": 52 }
+			}
+		},
+		"id": 371896622,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "hide",
+			"image": "he1",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "hide"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 3,
+		"stackHash": "3BB4FD2C5DBFA6C7"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896686,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "plank",
+			"image": "plk",
+			"material": "wood",
+			"stackLimit": 1000,
+			"type": "resource-woodworking"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 1,
+		"stackHash": "92F6A2BAF84F0817"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371896698, "ItemID": 52 }
+			}
+		},
+		"id": 371896698,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "hide",
+			"image": "he1",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "hide"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 13,
+		"stackHash": "C146758C3A7825EB"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhmakeres.asp",
+				"query": { "InventoryItemID": 371896727, "ItemID": 52 }
+			}
+		},
+		"id": 371896727,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "hide",
+			"image": "he1",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "hide"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "bag"
+		},
+		"quantity": 1,
+		"stackHash": "C146758C3A7825EB"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371850603,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 33,
+			"dpr": 2,
+			"id": "half-moon-axe",
+			"image": "ham",
+			"material": "metal",
+			"skill": "axes",
+			"skills": { "attack-power": 1, "axes": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "left-hand"
+		},
+		"quantity": 1,
+		"stackHash": "DF35ECA5E16CB8E1"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371850599,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 23,
+			"dpr": 2,
+			"id": "sword",
+			"image": "sw1",
+			"material": "metal",
+			"skill": "swords",
+			"skills": { "attack-power": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "right-hand"
+		},
+		"quantity": 1,
+		"stackHash": "5A756544C64FB813"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371850641,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 193,
+			"id": "nimble-earring",
+			"image": "266",
+			"material": "gem",
+			"properties": { "DEXTERITY": 1 },
+			"stackLimit": 1,
+			"type": "ear-jewelry"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "left-ear"
+		},
+		"quantity": 1,
+		"stackHash": "E9C463EB05B52012"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371850636,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 193,
+			"id": "nimble-earring",
+			"image": "266",
+			"material": "gem",
+			"properties": { "DEXTERITY": 1 },
+			"stackLimit": 1,
+			"type": "ear-jewelry"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "right-ear"
+		},
+		"quantity": 1,
+		"stackHash": "E9C463EB05B52012"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371869197,
+		"item": {
+			"$type": "/v1/item",
+			"adjustable": true,
+			"baseValue": 20,
+			"id": "monacle-of-lore",
+			"image": "zumolo",
+			"material": "gem",
+			"properties": { "MANA": 1, "MAXMANA": 1 },
+			"stackLimit": 1,
+			"type": "lore-item"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "eyes"
+		},
+		"quality": 10,
+		"quantity": 1,
+		"stackHash": "91795D22485A3D49"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371869458,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 25,
+			"id": "headband",
+			"image": "6",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "forehead"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "forehead"
+		},
+		"quantity": 1,
+		"stackHash": "264C069860EB1D31"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371869469,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 31,
+			"id": "shirt",
+			"image": "15",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "chest"
+		},
+		"quantity": 1,
+		"stackHash": "32DAF66F741F936C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"enhancements": ["named"],
+		"id": 371869511,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 34,
+			"id": "simple-pants",
+			"image": "3045",
+			"material": "cloth",
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "legs"
+		},
+		"name": "names/lumberjacking",
+		"quality": 2,
+		"quantity": 1,
+		"stackHash": "81E09931EEA2AEBD"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371851740,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "leather",
+			"baseValue": 29,
+			"id": "boned-gloves",
+			"image": "512",
+			"material": "hide",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "hand-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "hands"
+		},
+		"quantity": 1,
+		"stackHash": "5A274C3AB7599B3C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371856819,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "leather",
+			"baseValue": 49,
+			"id": "boned-sleeves",
+			"image": "513",
+			"material": "hide",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "arm-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "arms"
+		},
+		"quantity": 1,
+		"stackHash": "255D7DF2981522AF"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371850601,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "leather",
+			"baseValue": 31,
+			"id": "moccasins",
+			"image": "220",
+			"material": "hide",
+			"properties": { "MAXMANA": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "foot-armour"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "feet"
+		},
+		"quantity": 1,
+		"stackHash": "4CAEB3B7C977F323"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371850649,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 500,
+			"id": "preystalking-ring",
+			"image": "6791",
+			"material": "gem",
+			"skills": { "track-beasts": 20 },
+			"stackLimit": 1,
+			"type": "ring"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "finger-1"
+		},
+		"quality": 4,
+		"quantity": 1,
+		"stackHash": "CF9871B642B27BD0"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371870693,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 500,
+			"id": "enhanced-preystalking-ring",
+			"image": "6791",
+			"material": "gem",
+			"properties": { "MAXHITPOINTS": 5, "STRENGTH": 1 },
+			"skills": { "track-beasts": 10 },
+			"stackLimit": 1,
+			"type": "ring"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "finger-2"
+		},
+		"quality": 4,
+		"quantity": 1,
+		"stackHash": "99F6EEA7E1D3515C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhbandage.asp",
+				"query": { "InventoryItemID": 371870667 }
+			}
+		},
+		"id": 371870667,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "bandages",
+			"image": "be1",
+			"material": "cloth",
+			"stackLimit": 1000,
+			"type": "healing-resource"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 10,
+		"stackHash": "79CC3FC35E4A5018"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371869375,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 25,
+			"id": "headband",
+			"image": "6",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "forehead"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "0EF583E1B059C6BF"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371874318,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 25,
+			"id": "headband",
+			"image": "6",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "forehead"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "35A24A8A8BEC20C7"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371874325,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 25,
+			"id": "headband",
+			"image": "6",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "forehead"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "264C069860EB1D31"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371874331,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 25,
+			"id": "headband",
+			"image": "6",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "forehead"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "35A24A8A8BEC20C7"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"enhancements": ["named"],
+		"id": 371875284,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 18,
+			"id": "simple-tunic",
+			"image": "3035",
+			"material": "cloth",
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"name": "names/mining",
+		"quality": 2,
+		"quantity": 1,
+		"stackHash": "60DDA2AADC7F62B4"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371875347,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 100,
+			"id": "a-strange-locked-room",
+			"image": "6787",
+			"material": "metal",
+			"stackLimit": 1,
+			"type": "key"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quality": 5,
+		"quantity": 1,
+		"stackHash": "F87386B506997E50"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371881293,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "rat-tail",
+			"image": "229",
+			"material": "hide",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quality": 3,
+		"quantity": 1,
+		"stackHash": "A773AC8AA0014BEF"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896621,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "gem",
+			"image": "216",
+			"material": "gem",
+			"stackLimit": 1000,
+			"type": "gems"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 2,
+		"stackHash": "08E8338075EA39E6"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {
+			"disguise": {},
+			"use_redir": {
+				"host": "play",
+				"path": "fhbandage.asp",
+				"query": { "InventoryItemID": 371896627 }
+			}
+		},
+		"id": 371896627,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "bandages",
+			"image": "be1",
+			"material": "cloth",
+			"stackLimit": 1000,
+			"type": "healing-resource"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 50,
+		"stackHash": "C6B8C78339989F23"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896628,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 20,
+			"dpr": 2,
+			"id": "short-staff",
+			"image": "shs",
+			"material": "wood",
+			"skill": "staves",
+			"skills": { "attack-power": 1 },
+			"stackLimit": 1,
+			"type": "1-handed-equipment"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "D4E6B9B77F08D421"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896629,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"id": "gem",
+			"image": "216",
+			"material": "gem",
+			"stackLimit": 1000,
+			"type": "gems"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "8381D5C0177C3F79"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896631,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 125,
+			"id": "webbed-skirt",
+			"image": "fst",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXSTAMINA": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "4B0BD528197EC12D"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896632,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 46,
+			"id": "skirt",
+			"image": "skt",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "50B37BC4298451B0"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896633,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 31,
+			"id": "shirt",
+			"image": "15",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "4D159EB80BB87D1A"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896634,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 34,
+			"id": "trousers",
+			"image": "14",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "1B78A10DB5A38DE5"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "identify": {} },
+		"id": 371896635,
+		"item": {
+			"$type": "/v1/characters/inventory/unidentified-item",
+			"appraisal": 0,
+			"image": "manual"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quality": 1,
+		"quantity": 1,
+		"stackHash": null
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896638,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 46,
+			"id": "skirt",
+			"image": "skt",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "169DF6CB4CB8D6F9"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896639,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 31,
+			"id": "shirt",
+			"image": "15",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "32DAF66F741F936C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896640,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 125,
+			"id": "webbed-skirt",
+			"image": "fst",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXSTAMINA": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "BC10160155A2600D"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896641,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 25,
+			"id": "headband",
+			"image": "6",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "forehead"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "0EF583E1B059C6BF"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896643,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 46,
+			"id": "skirt",
+			"image": "skt",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "69FD165C0DEAE52E"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896644,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 94,
+			"id": "webbed-pants",
+			"image": "2085",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXHITPOINTS": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "DFEA7BF9BF5451FC"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896645,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 31,
+			"id": "shirt",
+			"image": "15",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "32DAF66F741F936C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896646,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 125,
+			"id": "webbed-skirt",
+			"image": "fst",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXSTAMINA": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "4B0BD528197EC12D"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896648,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 31,
+			"id": "shirt",
+			"image": "15",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "32DAF66F741F936C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896649,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 25,
+			"id": "headband",
+			"image": "6",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "forehead"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "35A24A8A8BEC20C7"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896650,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 125,
+			"id": "webbed-skirt",
+			"image": "fst",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXSTAMINA": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "4B0BD528197EC12D"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896651,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 94,
+			"id": "webbed-pants",
+			"image": "2085",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXHITPOINTS": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "CE681F7232063497"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896653,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 34,
+			"id": "trousers",
+			"image": "14",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "13C48E84F86E7FB1"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896654,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 125,
+			"id": "webbed-skirt",
+			"image": "fst",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXSTAMINA": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "4B0BD528197EC12D"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896655,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 94,
+			"id": "webbed-pants",
+			"image": "2085",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXHITPOINTS": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "CE681F7232063497"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896656,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 31,
+			"id": "shirt",
+			"image": "15",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "CBED9581F15D11A5"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896658,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 125,
+			"id": "webbed-skirt",
+			"image": "fst",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXSTAMINA": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "4B0BD528197EC12D"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896659,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 34,
+			"id": "trousers",
+			"image": "14",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "1B78A10DB5A38DE5"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896660,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 31,
+			"id": "shirt",
+			"image": "15",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "83EA8FC211E6F5B0"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896661,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 46,
+			"id": "skirt",
+			"image": "skt",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "169DF6CB4CB8D6F9"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896664,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 31,
+			"id": "shirt",
+			"image": "15",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "32DAF66F741F936C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896665,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 34,
+			"id": "trousers",
+			"image": "14",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "CC83936E090D50BF"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896666,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 46,
+			"id": "skirt",
+			"image": "skt",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "169DF6CB4CB8D6F9"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896667,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 94,
+			"id": "webbed-pants",
+			"image": "2085",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXHITPOINTS": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "DFEA7BF9BF5451FC"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "identify": {} },
+		"id": 371896668,
+		"item": {
+			"$type": "/v1/characters/inventory/unidentified-item",
+			"appraisal": 245,
+			"image": "2728"
+		},
+		"level": 50,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quality": 2,
+		"quantity": 1,
+		"stackHash": null
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896670,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 94,
+			"id": "webbed-pants",
+			"image": "2085",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXHITPOINTS": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "CE681F7232063497"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896671,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 25,
+			"id": "headband",
+			"image": "6",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "forehead"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "0EF583E1B059C6BF"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896672,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 34,
+			"id": "trousers",
+			"image": "14",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "13C48E84F86E7FB1"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896673,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 31,
+			"id": "shirt",
+			"image": "15",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "32DAF66F741F936C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896675,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 34,
+			"id": "trousers",
+			"image": "14",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "13C48E84F86E7FB1"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896676,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 125,
+			"id": "webbed-skirt",
+			"image": "fst",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXSTAMINA": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "BC10160155A2600D"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896677,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 94,
+			"id": "webbed-pants",
+			"image": "2085",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXHITPOINTS": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "DFEA7BF9BF5451FC"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896678,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 46,
+			"id": "skirt",
+			"image": "skt",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "4011ECD3EEB4B849"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "identify": {} },
+		"id": 371896679,
+		"item": {
+			"$type": "/v1/characters/inventory/unidentified-item",
+			"appraisal": 70,
+			"image": "3235"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quality": 2,
+		"quantity": 1,
+		"stackHash": null
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896681,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 31,
+			"id": "shirt",
+			"image": "15",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "32DAF66F741F936C"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896682,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 46,
+			"id": "skirt",
+			"image": "skt",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "69FD165C0DEAE52E"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896683,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 125,
+			"id": "webbed-skirt",
+			"image": "fst",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXSTAMINA": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "4B0BD528197EC12D"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896684,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 25,
+			"id": "headband",
+			"image": "6",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "forehead"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "0EF583E1B059C6BF"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896687,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 46,
+			"id": "skirt",
+			"image": "skt",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "4011ECD3EEB4B849"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896688,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 94,
+			"id": "webbed-pants",
+			"image": "2085",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXHITPOINTS": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 10,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "DFEA7BF9BF5451FC"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896689,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 31,
+			"id": "shirt",
+			"image": "15",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"skills": { "armor": 1 },
+			"stackLimit": 1,
+			"type": "chest-armour"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "4D159EB80BB87D1A"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896690,
+		"item": {
+			"$type": "/v1/item",
+			"armorType": "cloth",
+			"baseValue": 125,
+			"id": "webbed-skirt",
+			"image": "fst",
+			"material": "spider",
+			"properties": { "DEXTERITY": 1, "MAXSTAMINA": 1 },
+			"stackLimit": 1,
+			"type": "leg-armour"
+		},
+		"level": 15,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "4B0BD528197EC12D"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896697,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 10,
+			"id": "slaying-token",
+			"image": "6906",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "6BF303EB39E30CA9"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896705,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 10,
+			"id": "ruin-token",
+			"image": "6790",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 3,
+		"stackHash": "160CAAB2159ECD47"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371896726,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 10,
+			"id": "ruin-token",
+			"image": "6790",
+			"stackLimit": 1000,
+			"type": "trophy"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+			"character": 56694456,
+			"location": "sellbag"
+		},
+		"quantity": 1,
+		"stackHash": "160CAAB2159ECD47"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371851867,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 1,
+			"dpr": 2,
+			"id": "arrow",
+			"image": "arr1",
+			"material": "wood",
+			"skills": { "attack-power": 1 },
+			"stackLimit": 1000,
+			"type": "ammo-weapons-bows"
+		},
+		"level": 5,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "ammo"
+		},
+		"quantity": 50,
+		"stackHash": "E21EC51DB9267437"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371850604,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 17,
+			"id": "drakos-brand",
+			"image": "drako",
+			"material": "cloth",
+			"properties": { "MAXHITPOINTS": 1 },
+			"stackLimit": 1,
+			"type": "exile-symbol"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "bonus-1"
+		},
+		"quality": 4,
+		"quantity": 1,
+		"stackHash": "E1644B83D77E1E39"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850632,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 31,
+			"id": "small-bag",
+			"image": "bg3",
+			"material": "cloth",
+			"stackLimit": 1,
+			"type": "bag"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "bag-slot-1"
+		},
+		"quality": 3,
+		"quantity": 1,
+		"stackHash": "ABC80CA5E95BB882"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850633,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 31,
+			"id": "small-bag",
+			"image": "bg3",
+			"material": "cloth",
+			"stackLimit": 1,
+			"type": "bag"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "bag-slot-2"
+		},
+		"quality": 3,
+		"quantity": 1,
+		"stackHash": "ABC80CA5E95BB882"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850638,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 31,
+			"id": "small-bag",
+			"image": "bg3",
+			"material": "cloth",
+			"stackLimit": 1,
+			"type": "bag"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "bag-slot-3"
+		},
+		"quality": 3,
+		"quantity": 1,
+		"stackHash": "ABC80CA5E95BB882"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850639,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 31,
+			"id": "small-bag",
+			"image": "bg3",
+			"material": "cloth",
+			"stackLimit": 1,
+			"type": "bag"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "bag-slot-4"
+		},
+		"quality": 3,
+		"quantity": 1,
+		"stackHash": "ABC80CA5E95BB882"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": { "disguise": {} },
+		"id": 371850635,
+		"item": {
+			"$type": "/v1/item",
+			"baseValue": 31,
+			"id": "small-bag",
+			"image": "bg3",
+			"material": "cloth",
+			"stackLimit": 1,
+			"type": "bag"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "bag-slot-5"
+		},
+		"quality": 3,
+		"quantity": 1,
+		"stackHash": "ABC80CA5E95BB882"
+	},
+	{
+		"$type": "/v1/characters/inventory/inventory-item",
+		"actions": {},
+		"id": 371858174,
+		"item": {
+			"$type": "/v1/item",
+			"adjustable": true,
+			"baseValue": 29,
+			"id": "badge-of-destiny",
+			"image": "5733",
+			"material": "hide",
+			"properties": { "MAXHITPOINTS": 1, "MAXSTAMINA": 1 },
+			"set": "destiny-set",
+			"skills": { "experience-bonus": 1 },
+			"stackLimit": 1,
+			"type": "bonus-2"
+		},
+		"level": 1,
+		"location": {
+			"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+			"character": 56694456,
+			"location": "bonus-2"
+		},
+		"quality": 10,
+		"quantity": 1,
+		"stackHash": "3C5BE27383EDEC6E"
+	}
+]
