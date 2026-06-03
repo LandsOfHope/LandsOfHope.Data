@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/race",
+	"care": ["meat", "eye", "heart", "brain"],
 	"classification": "beast",
 	"id": "crab",
 	"lootMaterial": "hide",

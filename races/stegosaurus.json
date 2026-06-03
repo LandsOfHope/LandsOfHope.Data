@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/race",
+	"care": ["milk", "side-of-meat"],
 	"classification": "beast",
 	"id": "stegosaurus",
 	"lootMaterial": "hide",

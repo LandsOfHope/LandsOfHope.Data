@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/race",
+	"care": ["fillet"],
 	"classification": "beast",
 	"id": "koi-carp",
 	"lootMaterial": "hide",

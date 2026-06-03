@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/race",
+	"care": ["meat", "eye", "heart", "brain", "organs"],
 	"classification": "humanoid",
 	"id": "giant",
 	"lootMaterial": "hide",

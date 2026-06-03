@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/race",
+	"care": ["milk"],
 	"classification": "humanoid",
 	"id": "orc",
 	"lootMaterial": "hide",

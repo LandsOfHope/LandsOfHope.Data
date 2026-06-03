@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/race",
+	"care": ["milk", "meat", "eye", "heart", "brain"],
 	"classification": "beast",
 	"id": "goat",
 	"lootMaterial": "hide",

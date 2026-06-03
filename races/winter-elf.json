@@ -1,26 +1,23 @@
 {
 	"$type": "/v1/race",
+	"care": ["milk", "meat", "eye", "heart", "brain", "organs"],
 	"classification": "humanoid",
 	"id": "winter-elf",
 	"lootMaterial": "hide",
 	"pics": {
-		"F": ["ba2"],
-		"M": ["ba1"]
+		"F": ["wif"],
+		"M": ["wim"]
 	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 1,
-		"MAXHITPOINTS": 2,
-		"MAXMANA": 2,
+		"MAXHITPOINTS": 1,
+		"MAXMANA": 1,
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
 	},
 	"skills": {
-		"armor": 5,
-		"attack-power": 5,
-		"cold-resistance": 5,
-		"detect-hidden": 5,
-		"fists": 5
+		"appraisal": 5
 	}
 }

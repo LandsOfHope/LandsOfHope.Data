@@ -1,25 +1,27 @@
 {
 	"$type": "/v1/race",
-	"care": ["milk"],
+	"care": ["meat", "eye", "heart", "brain", "organs"],
 	"classification": "humanoid",
-	"id": "dwarf",
+	"id": "ice-elf",
 	"lootMaterial": "hide",
 	"pics": {
-		"F": ["dwf"],
-		"M": ["dwm"]
+		"F": ["ba2"],
+		"M": ["ba1"]
 	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 1,
-		"MAXHITPOINTS": 1,
-		"MAXMANA": 1,
+		"MAXHITPOINTS": 2,
+		"MAXMANA": 2,
 		"MAXSTAMINA": 1,
 		"SPEED": 1,
 		"STRENGTH": 1
 	},
 	"skills": {
-		"blacksmithing": 5,
+		"armor": 5,
+		"attack-power": 5,
 		"cold-resistance": 5,
-		"fire-resistance": 5
+		"detect-hidden": 5,
+		"fists": 5
 	}
 }

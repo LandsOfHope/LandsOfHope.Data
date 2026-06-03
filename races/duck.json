@@ -1,5 +1,6 @@
 {
 	"$type": "/v1/race",
+	"care": ["feather", "egg"],
 	"classification": "beast",
 	"id": "duck",
 	"lootMaterial": "hide",
