@@ -15,7 +15,14 @@
 			]
 		},
 		"old": {
-			"$ref": "/schemas/v1/characters/inventory/inventory-item-nickname.json"
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/characters/inventory/inventory-item-nickname.json"
+				},
+				{
+					"type": "null"
+				}
+			]
 		}
 	},
 	"required": ["$type", "old", "new"],
