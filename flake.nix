@@ -125,9 +125,6 @@
         let
           pkgs = import nixpkgs {
             inherit system;
-            overlays = [
-              bun2nix.overlays.default
-            ];
           };
         in
         rec {
