@@ -151,7 +151,7 @@ const main = async () => {
 ${validateFunctions
 	.map(
 		(fn) =>
-			`export var ${fn}: (data: unknown) => data is ${fn.replace('validate', '')} & { errors: unknown[] };`,
+			`export var ${fn}: ((data: unknown) => data is ${fn.replace('validate', '')}) & { errors: unknown[] };`,
 	)
 	.join('\n')}
 							`,
