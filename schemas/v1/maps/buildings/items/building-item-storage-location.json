@@ -6,19 +6,9 @@
 		},
 		"buildingItem": {
 			"$ref": "/schemas/v1/maps/buildings/items/building-item-id.json"
-		},
-		"location": {
-			"allOf": [
-				{
-					"const": "storage"
-				},
-				{
-					"$ref": "/schemas/v1/items-locations-id.gen.json"
-				}
-			]
 		}
 	},
-	"required": ["$type", "location", "buildingItem"],
+	"required": ["$type", "buildingItem"],
 	"title": "BuildingItemStorageLocation",
 	"type": "object"
 }
