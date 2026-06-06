@@ -1,0 +1,18 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-locked-location.json",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/queue/character-queue-locked-location"
+        },
+        "character": {
+            "$ref": "/schemas/v1/characters/character-id.json"
+        },
+		"queueId": {
+			"$ref": "/schemas/v1/characters/queue/character-queue-item-id.json"
+		}
+    },
+    "required": ["$type", "character", "queueId"],
+    "title": "CharacterQueueLockedLocation",
+    "type": "object"
+}

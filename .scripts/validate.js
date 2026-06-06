@@ -83,6 +83,8 @@ const schemasWithOptionalTypeSpecifier = [
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-or-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-level-range-search-condition.json",
 	"https://data.landsofhope.com/schemas/v1/characters/inventory/search/inventory-search-property-match-condition.json",
+
+	"https://data.landsofhope.com/schemas/v1/characters/messages/character-message-attachments.json"
 ];
 
 const validate = async (schema, file) => {

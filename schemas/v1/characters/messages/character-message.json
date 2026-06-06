@@ -1,0 +1,42 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/messages/character-message.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/messages/character-message"
+		},
+		"attachments": {
+			"$ref": "/schemas/v1/characters/messages/character-message-attachments.json"
+		},
+		"body": {
+			"type": "string"
+		},
+		"from": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"id": {
+			"$ref": "/schemas/v1/characters/messages/character-message-id.json"
+		},
+		"sent": {
+			"$ref": "/schemas/v0/datetime.json"
+		},
+		"subject": {
+			"type": "string"
+		},
+		"to": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		}
+	},
+	"required": [
+		"$type",
+		"subject",
+		"from",
+		"to",
+		"sent",
+		"body",
+		"attachments",
+		"id"
+	],
+	"title": "CharacterMessage",
+	"type": "object"
+}

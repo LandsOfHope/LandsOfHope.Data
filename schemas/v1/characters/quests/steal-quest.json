@@ -1,35 +1,18 @@
 {
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/quests/steal-quest.json",
 	"additionalProperties": false,
-	"minProperties": 2,
 	"properties": {
 		"$type": {
 			"const": "/v1/characters/quests/steal-quest"
 		},
 		"from": {
-			"allOf": [
-				{
-					"$ref": "/schemas/v1/characters/inventory/inventory-item-location.json"
-				},
-				{
-					"not": {
-						"oneOf": [
-							{
-								"$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-queue-locked.json"
-							},
-							{
-								"$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-equipped.json"
-							}
-						]
-					}
-				}
-			]
+			"$ref": "/schemas/v1/characters/character-id.json"
 		},
 		"itemCriterion": {
 			"$ref": "/schemas/v1/characters/inventory/search/inventory-search-condition.json"
 		}
 	},
-	"required": ["$type"],
+	"required": ["$type", "itemCriterion"],
 	"title": "CharacterStealQuest",
 	"type": "object"
 }

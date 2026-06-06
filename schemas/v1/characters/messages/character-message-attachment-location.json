@@ -1,0 +1,15 @@
+{
+    "$id": "https://data.landsofhope.com/schemas/v1/characters/messages/character-message-attachment-location.json",
+    "additionalProperties": false,
+    "properties": {
+        "$type": {
+            "const": "/v1/characters/messages/character-message-attachment-location"
+        },
+		"message": {
+			"$ref": "/schemas/v1/characters/messages/character-message-id.json"
+		}
+    },
+    "required": ["$type", "message"],
+    "title": "CharacterMessageAttachmentLocation",
+    "type": "object"
+}

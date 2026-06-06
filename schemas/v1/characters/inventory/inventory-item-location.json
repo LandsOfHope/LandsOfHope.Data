@@ -14,10 +14,13 @@
 			"$ref": "/schemas/v1/maps/buildings/items/building-item-storage-location.json"
 		},
 		{
-			"$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-queue-locked.json"
+			"$ref": "/schemas/v1/characters/queue/character-queue-locked-location.json"
 		},
 		{
 			"$ref": "/schemas/v1/characters/inventory/character-inventory-item-location-vault.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/messages/character-message-attachment-location.json"
 		}
 	],
 	"title": "CharacterInventoryItemLocation"
