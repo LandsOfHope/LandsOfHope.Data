@@ -1,0 +1,15 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/characters-delta-event.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/events/characters/characters-delta-event"
+		},
+		"delta": {
+            "$ref": "/schemas/v1/characters/deltas/characters-delta.json"
+        }
+	},
+	"required": ["$type", "delta"],
+	"title": "CharactersDeltaEvent",
+	"type": "object"
+}

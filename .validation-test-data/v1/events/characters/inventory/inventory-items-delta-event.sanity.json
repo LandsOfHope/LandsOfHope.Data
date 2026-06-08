@@ -1,0 +1,117 @@
+{
+	"$type": "/v1/events/characters/inventory/inventory-items-delta-event",
+	"character": 1,
+	"delta": {
+		"$type": "/v1/characters/inventory/deltas/inventory-items-delta",
+		"added": [
+			{
+				"$type": "/v1/characters/inventory/inventory-item",
+				"actions": {},
+				"enhancements": ["named"],
+				"id": 373712488,
+				"item": {
+					"$type": "/v1/item",
+					"armorType": "cloth",
+					"id": "headband",
+					"image": "6",
+					"material": "cloth",
+					"properties": {
+						"MAXHITPOINTS": 1
+					},
+					"skills": {
+						"armor": 1
+					},
+					"type": "forehead"
+				},
+				"level": 995,
+				"location": {
+					"$type": "/v1/characters/inventory/character-inventory-item-location-equipped",
+					"character": 56694456,
+					"location": "forehead"
+				},
+				"name": "names/keeping",
+				"quantity": 1,
+				"stackHash": "5CABF57B428E4E94"
+			}
+		],
+		"flagsChanged": [
+			[
+				1000,
+				{
+					"$type": "/v1/characters/inventory/deltas/inventory-item-flags-changed-delta",
+					"new": {
+						"$type": "/v1/characters/inventory/inventory-item-flags",
+						"canSet": {
+							"noDecon": true,
+							"noDrop": true,
+							"noSell": true,
+							"noTrade": true
+						},
+						"noAuction": true,
+						"noBank": true,
+						"noChest": true,
+						"noDecon": true,
+						"noDrop": true,
+						"noSell": true,
+						"noTrade": true
+					},
+					"old": {
+						"$type": "/v1/characters/inventory/inventory-item-flags",
+						"canSet": {
+							"noDecon": true,
+							"noDrop": true,
+							"noSell": true,
+							"noTrade": true
+						},
+						"noAuction": false,
+						"noBank": false,
+						"noChest": false,
+						"noDecon": false,
+						"noDrop": false,
+						"noSell": false,
+						"noTrade": false
+					}
+				}
+			]
+		],
+		"moved": [
+			[
+				1000,
+				{
+					"$type": "/v1/characters/inventory/deltas/inventory-item-moved-delta",
+					"new": {
+						"$type": "/v1/maps/buildings/items/building-item-storage-location",
+						"buildingItem": 703788,
+						"location": "storage"
+					},
+					"old": {
+						"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+						"character": 56694456,
+						"location": "sellbag"
+					}
+				}
+			]
+		],
+		"nicknameChanged": [
+			[
+				1000,
+				{
+					"$type": "/v1/characters/inventory/deltas/inventory-item-nickname-changed-delta",
+					"new": "new nickname",
+					"old": null
+				}
+			]
+		],
+		"quantitiesChanged": [
+			[
+				1000,
+				{
+					"$type": "/v1/characters/inventory/deltas/inventory-item-quantity-changed-delta",
+					"new": 2,
+					"old": 20
+				}
+			]
+		],
+		"removed": [1001]
+	}
+}

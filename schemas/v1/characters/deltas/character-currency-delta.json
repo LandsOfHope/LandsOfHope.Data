@@ -1,0 +1,17 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/deltas/character-currency-delta.json",
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/deltas/character-currency-delta"
+		},
+		"new": {
+			"$ref": "/schemas/v0/game-currency.json"
+		},
+		"old": {
+			"$ref": "/schemas/v0/game-currency.json"
+		}
+	},
+	"required": ["$type", "new"],
+	"title": "CharacterCurrencyDelta",
+	"type": "object"
+}

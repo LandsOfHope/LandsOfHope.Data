@@ -1,0 +1,17 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/inventory/inventory-items-delta-event.json",
+	"properties": {
+		"$type": {
+			"const": "/v1/events/characters/inventory/inventory-items-delta-event"
+		},
+		"character": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"delta": {
+			"$ref": "/schemas/v1/characters/inventory/deltas/inventory-items-delta.json"
+		}
+	},
+	"required": ["$type", "character", "delta"],
+	"title": "InventoryItemsDeltaEvent",
+	"type": "object"
+}

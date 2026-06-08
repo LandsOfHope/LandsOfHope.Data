@@ -5,25 +5,10 @@
 			"$ref": "/schemas/v1/events/characters/character-appearance-profile-updated-event.json"
 		},
 		{
-			"$ref": "/schemas/v1/events/characters/character-deleted-event.json"
+			"$ref": "/schemas/v1/events/characters/characters-delta-event.json"
 		},
 		{
-			"$ref": "/schemas/v1/events/characters/character-skills-updated-event.json"
-		},
-		{
-			"$ref": "/schemas/v1/events/characters/inventory/inventory-items-moved-event.json"
-		},
-		{
-			"$ref": "/schemas/v1/events/characters/inventory/inventory-items-updated-event.json"
-		},
-		{
-			"$ref": "/schemas/v1/events/characters/inventory/inventory-items-flags-updated-event.json"
-		},
-		{
-			"$ref": "/schemas/v1/events/characters/inventory/inventory-currency-updated-event.json"
-		},
-		{
-			"$ref": "/schemas/v1/events/characters/inventory/inventory-items-identification-event.json"
+			"$ref": "/schemas/v1/events/characters/inventory/inventory-items-delta-event.json"
 		},
 		{
 			"$ref": "/schemas/v1/events/characters/character-settings-updated-event.json"
