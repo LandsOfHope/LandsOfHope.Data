@@ -5,10 +5,10 @@
 		"$type": {
 			"const": "/v1/characters/inventory/actions/inventory-action-split"
 		},
-		"splitFromInventoryItemId": {
+		"split": {
 			"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
 		},
-		"splitToStackSizes": {
+		"stackSizes": {
 			"items": {
 				"minimum": 1,
 				"type": "integer"
@@ -17,7 +17,7 @@
 			"type": "array"
 		}
 	},
-	"required": ["$type", "splitFromInventoryItemId", "splitToStackSizes"],
+	"required": ["$type", "split", "stackSizes"],
 	"title": "InventoryActionSplit",
 	"type": "object"
 }
