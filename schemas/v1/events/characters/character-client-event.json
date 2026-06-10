@@ -15,6 +15,9 @@
 		},
 		{
 			"$ref": "/schemas/v1/events/characters/character-emoted-event.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/characters/character-queue-delta-event.json"
 		}
 	],
 	"title": "CharacterClientEvent",
