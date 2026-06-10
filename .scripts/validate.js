@@ -423,7 +423,7 @@ const main = async () =>
 		validateTestData("v1/events/chat/rooms/chat-room-presence-event"),
 		validateTestData("v1/events/chat/messages/chat-message-sent-event"),
 		validateTestData(
-			"v1/events/characters/inventory/inventory-items-moved-event",
+			"v1/events/characters/inventory/inventory-items-delta-event",
 		),
 		validateTestData("v1/events/any-event"),
 		// validateTestData("v1/events/server-event"),

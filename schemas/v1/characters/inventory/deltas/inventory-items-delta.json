@@ -91,6 +91,6 @@
 		}
 	},
 	"required": ["$type"],
-	"title": "CharacterInventoryItemDelta",
+	"title": "CharacterInventoryItemsDelta",
 	"type": "object"
 }

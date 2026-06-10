@@ -1,7 +1,7 @@
 {
 	"and": [
 		{
-			"nameContains": "who"
+			"name": {"contains": "who"}
 		}
 	]
 }
