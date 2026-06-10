@@ -8,7 +8,7 @@
 			"$ref": "/schemas/v1/characters/character-id.json"
 		},
 		"delta": {
-			"$ref": "/schemas/v1/characters/deltas/character-queue-delta.json"
+			"$ref": "/schemas/v1/characters/queue/deltas/character-queue-delta.json"
 		}
 	},
 	"required": ["$type", "character", "delta"],
