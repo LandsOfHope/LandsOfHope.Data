@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An expert food and drink maker, who likes nothing more than to bake a good cake every now and then."
-	},
 	"id": "cook",
-	"name": {
-		"en": "Cook"
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3

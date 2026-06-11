@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Crafter class."
-	},
 	"id": "majestic-crafter",
-	"name": {
-		"en": "Majestic Crafter"
-	},
 	"properties": {
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 3,

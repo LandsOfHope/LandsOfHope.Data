@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Master of the Lights and the Stars."
-	},
 	"id": "luminary-mage",
-	"name": {
-		"en": "Luminary Mage"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 3,

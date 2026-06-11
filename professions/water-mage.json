@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Water Mage. An expert at casting Water Magic."
-	},
 	"id": "water-mage",
-	"name": {
-		"en": "Water Mage"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 1,

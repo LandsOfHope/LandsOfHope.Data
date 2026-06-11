@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The seller of houses and house deeds."
-	},
 	"id": "estate-agent",
-	"name": {
-		"en": "Estate Agent"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 2,

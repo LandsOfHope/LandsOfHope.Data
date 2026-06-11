@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Flesh Dealer is a Tier II evolution from the Inventor Profession via Stitchworker."
-	},
 	"evo": {
 		"mutilator": 650
 	},
 	"id": "flesh-dealer",
-	"name": {
-		"en": "Flesh Dealer"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 6

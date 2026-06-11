@@ -76,6 +76,7 @@
 		"name": "Animal"
 	},
 	"animator": {
+		"blurb": "<b>Combat class</b> uses crafting skills to make golems which act as combat pets.",
 		"desc": "The Animator uses basic components to create golems and other automotrons. They are more defensively natured than most classes and instead rely on their creations to do all of the hard work for them.",
 		"name": "Animator"
 	},
@@ -84,6 +85,7 @@
 		"name": "Appraiser"
 	},
 	"apprentice": {
+		"blurb": "<b>Non-combat class</b> designed for crafting only.<br><b style=\"color: red\">Only for experienced players</b>",
 		"desc": "The Apprentice is a dedicated crafter/gather, this class has no combat skills and can not participate in combat or dueling, however it does have enhanced gathering and crafting abilities and faster queue times.",
 		"name": "Apprentice"
 	},
@@ -96,6 +98,7 @@
 		"name": "Archaeologist"
 	},
 	"archer": {
+		"blurb": "<b>Combat class</b> with primary focus on ranged combat, later evolutions gain tracking and/or beast taming abilities.",
 		"desc": "The Archer is a dedicated ranged weapon user, skilled expertly in Bows and Crossbows they prefer to sit at the back of any encounter and shoot from range, however should ones enemy deflect an arrow or charge blindly through the maelstrom many an Archer has been known to quickly unsheath a Dagger and finish the foe.",
 		"name": "Archer"
 	},
@@ -204,6 +207,7 @@
 		"name": "Carpenter"
 	},
 	"caster": {
+		"blurb": "<b>Combat class</b> with primary focus on offensive magic, later evolutions gain abilities such as undead control.",
 		"desc": "Through the ages the Caster profession has existed in one form or another, Casters choose the way of magic over the way of melee weapons they may specialise in Mystical spells which affect the mind and body. Although should the need arise a Caster may fight with his trusty Staff or simply pummel you with his or her fists if they desire to do so.",
 		"name": "Caster"
 	},
@@ -276,7 +280,7 @@
 		"name": "Conjurer"
 	},
 	"conscript": {
-		"desc": "The Conscript is a Tier I evolution from the Rancher Profession, while keeping all of the Rancher's abilities the Conscript also gains the ability to use <b>Swords</b>.<br><br> As with the Rancher, the Conscript can use Axes and Fists.",
+		"desc": "The Conscript is a Tier I evolution from the Rancher Profession, while keeping all of the Rancher abilities the Conscript also gains the ability to use <b>Swords</b>.<br><br> As with the Rancher the Conscript can use Axes and Fists.",
 		"name": "Conscript"
 	},
 	"cook": {
@@ -444,6 +448,7 @@
 		"name": "Farmer"
 	},
 	"fighter": {
+		"blurb": "<b>Combat class</b> with primary focus on melee combat, later evolutions gain humanoid taming and many weapon skills.",
 		"desc": "Throughout history we have known many wars each one tainted by the blood of the fallen souls who died defending their \"point of view\", the Fighter profession would in most wars be the first to die or the last person standing at the end of the conflict. They are skilled expertly in most one handed weapons to the point where they can dual wield and still be effective.",
 		"name": "Fighter"
 	},
@@ -588,6 +593,7 @@
 		"name": "Gunner"
 	},
 	"hag": {
+		"blurb": "<b>Combat class</b> with primary focus on combat, later evolutions gain the ability to make charms and other special items.",
 		"desc": "The Hag is a hybrid combat class primarily using melee combat at lower levels and then a mix of magic and melee at higher levels.",
 		"name": "Hag"
 	},
@@ -596,6 +602,7 @@
 		"name": "Harvestor"
 	},
 	"healer": {
+		"blurb": "<b>Combat class</b> with primary focus on defensive and healing magic, later evolutions gain buffs and more.",
 		"desc": "Reverred and worshipped throughout the ages, the Healer profession has been known to perform many miracles, some believe the Healers to be merely angels (or demons) who walk the lands doing the work of the gods. While a healer is not skilled enough to revive dead people they can bring the wounded or sick back to full life as easily as one might draw breath.",
 		"name": "Healer"
 	},
@@ -612,6 +619,7 @@
 		"name": "Hellish Fiend"
 	},
 	"hermit": {
+		"blurb": "<b>Combat class</b> with dual focus on melee and magic, later evolutions gain the ability to tame plants and insects.",
 		"desc": "The Hermit lives a life of isolation, often they will spend countless hours in the woods ... no one knows what they do out there but you can often hear strange noises. Hermits dedicate themselves to the study of plants and nature. Although should the need arise a Hermit may fight with his trusty 2Handed Staff or simply pummel you with his or her fists if they desire to do so.you are likely to see a first hand demonstration of a Hermits skills.",
 		"name": "Hermit"
 	},
@@ -640,6 +648,7 @@
 		"name": "Inn Keeper"
 	},
 	"inventor": {
+		"blurb": "<b>Combat class</b> with primary focus on combat, later evolutions gain the ability to specialize in either self augmentation or combat.",
 		"desc": "Testing",
 		"name": "Inventor"
 	},
@@ -1032,6 +1041,7 @@
 		"name": "Rampaging Beast"
 	},
 	"rancher": {
+		"blurb": "<b>Combat class</b> with primary focus on combat, later evolutions gain the ability to use targeted combat, parlor tricks, way of the warrior and lordship skills.",
 		"desc": "Throughout history we have known many wars each one tainted by the blood of the fallen souls who died defending their \"point of view\", the Fighter profession would in most wars be the first to die or the last person standing at the end of the conflict. They are skilled expertly in most one handed weapons to the point where they can dual wield and still be effective.",
 		"name": "Rancher"
 	},
@@ -1052,6 +1062,7 @@
 		"name": "Riddler"
 	},
 	"rogue": {
+		"blurb": "<b>Combat class</b> with primary focus on combat and access to stealth and lockpicking, later evolutions gain stealing.",
 		"desc": "The Rogue is a hard profession to classify, looked down upon by many as nefarious criminals the Rogue is often called upon or hired to perform questionable acts. The Rogue is skilled in the art of Stealth and Lockpicking, they also know how to wield a Dagger very well and can use Thrown Weapons.",
 		"name": "Rogue"
 	},
@@ -1068,11 +1079,12 @@
 		"name": "Salvage Expert"
 	},
 	"salvager": {
+		"blurb": "<b>Combat class</b> with primary focus on melee combat, later evolutions gains access to archaeology.",
 		"desc": "The Salvager is often regarded as someone who has no thought for preserving the relics of the past, they would rather smash a priceless vase on their hunt for gold and jewels than preserve it for future generations.<br><br>Salvagers can deconstruct items using the Deconstruction skill (starting skill), they can also Salvage corpses once they are out of the estate to gain additional resources.<br><br>Salvagers get a 10% looted money increase and access to Tier 1 Salvage goods.",
 		"name": "Salvager"
 	},
 	"samurai": {
-		"desc": "The Samurai is a Tier II evolution from the Rancher Profession via Conscript, while keeping all of the Conscripts abilities the Samurai also gains the abilty to use <b>Way of the Warrior</b>, <b>Taunting</b> and <b>Two Handed Swords</b>.",
+		"desc": "The Samurai is a Tier II evolution from the Rancher Profession via conscript, while keeping all of the Conscripts abilities the Samurai also gains the abilty to use <b>Way of the Warrior</b>, <b>Taunting</b> and <b>Two Handed Swords</b>.",
 		"name": "Samurai"
 	},
 	"scavenger": {
@@ -1212,6 +1224,7 @@
 		"name": "Stardreamer"
 	},
 	"stargazer": {
+		"blurb": "<b>Combat class</b> a hybrid with melee and magic skills has the ability to use meteorites.",
 		"desc": "The Stargazer spends their time gazing intently up at the heavens, watching the stars and wondering what fate they might have in store for them.",
 		"name": "Stargazer"
 	},

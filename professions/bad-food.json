@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "bad-food",
-	"name": {
-		"en": "Bad Food"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 3,

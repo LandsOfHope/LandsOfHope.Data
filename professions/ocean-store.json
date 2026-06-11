@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "ocean-store",
-	"name": {
-		"en": "Ocean Store"
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3

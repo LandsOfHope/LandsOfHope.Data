@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A Quest NPC for supplying outposts."
-	},
 	"id": "supply-master",
-	"name": {
-		"en": "Supply Master"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 1,

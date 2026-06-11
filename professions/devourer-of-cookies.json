@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "This ancient demon was born from the deepest darkest parts of the kitchen. It`s mission in life is to seek out and destroy all of the cookies in the world!"
-	},
 	"id": "devourer-of-cookies",
-	"name": {
-		"en": "Devourer of Cookies"
-	},
 	"properties": {
 		"DEXTERITY": 4,
 		"INTELLIGENCE": 5,

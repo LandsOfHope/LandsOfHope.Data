@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The killer of things."
-	},
 	"id": "monster-hunter",
-	"name": {
-		"en": "Monster Hunter"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 3,

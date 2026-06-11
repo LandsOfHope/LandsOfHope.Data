@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The scariest of all the undead, even there own bretherin fear the mention of there names."
-	},
 	"id": "fleshcraver",
-	"name": {
-		"en": "Fleshcraver"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 3,

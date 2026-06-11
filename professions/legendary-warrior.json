@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Warrior class."
-	},
 	"id": "legendary-warrior",
-	"name": {
-		"en": "Legendary Warrior"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 5,

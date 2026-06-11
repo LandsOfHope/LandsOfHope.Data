@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An agent of the Shadow Collective."
-	},
 	"id": "shadow-collective-agent",
-	"name": {
-		"en": "Shadow Collective Agent"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 3,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A demon that uses spells on the enemy."
-	},
 	"id": "pit-demon",
-	"name": {
-		"en": "Pit Demon"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 2,

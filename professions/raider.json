@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Adept is a Tier II evolution from the Buccaneer Profession."
-	},
 	"evo": {
 		"pirate": 650
 	},
 	"id": "raider",
-	"name": {
-		"en": "Raider"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 2,

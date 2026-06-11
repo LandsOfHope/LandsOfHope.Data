@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "spellslinger",
-	"name": {
-		"en": "Spellslinger"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 2,

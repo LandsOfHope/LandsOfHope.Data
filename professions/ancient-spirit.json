@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient mage."
-	},
 	"id": "ancient-spirit",
-	"name": {
-		"en": "Ancient Spirit"
-	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 4,

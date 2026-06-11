@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Sells various trinkets and goods for holidays."
-	},
 	"id": "gift-vendor",
-	"name": {
-		"en": "Gift Vendor"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 1,

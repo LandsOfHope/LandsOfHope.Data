@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Wintersvale Product 2008"
-	},
 	"id": "christmas-plant",
-	"name": {
-		"en": "Christmas Plant"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 12,

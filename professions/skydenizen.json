@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "skydenizen",
-	"name": {
-		"en": "Skydenizen"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 4,

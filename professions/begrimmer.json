@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "None"
-	},
 	"id": "begrimmer",
-	"name": {
-		"en": "Begrimmer"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 2,

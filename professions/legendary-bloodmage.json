@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Bloodmage class."
-	},
 	"id": "legendary-bloodmage",
-	"name": {
-		"en": "Legendary Bloodmage"
-	},
 	"properties": {
 		"DEXTERITY": 5,
 		"INTELLIGENCE": 4,

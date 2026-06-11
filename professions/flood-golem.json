@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Flood Golem Pet Class"
-	},
 	"id": "flood-golem",
-	"name": {
-		"en": "Flood Golem"
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
 	},

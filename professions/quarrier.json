@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Quarrier. An expert at Quarrying rocks for stone."
-	},
 	"id": "quarrier",
-	"name": {
-		"en": "Quarrier"
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 3,

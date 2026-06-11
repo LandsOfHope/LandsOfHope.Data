@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The seller and keeper of pets and creatures."
-	},
 	"id": "stable-master",
-	"name": {
-		"en": "Stable Master"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 3,

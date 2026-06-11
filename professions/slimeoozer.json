@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "None"
-	},
 	"id": "slimeoozer",
-	"name": {
-		"en": "Slimeoozer"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 1,

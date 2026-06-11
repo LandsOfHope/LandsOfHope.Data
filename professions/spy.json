@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Spy is a Tier I evolution from the Farmer Profession, while keeping all of the Farmers abilities the Spy also gains the ability to <b>Track Items</b> and <b>Stealth</b>.<br><br> As with the Farmer the Spy can use Axes and Fists but also gains Daggers and Thrown Weapons."
-	},
 	"evo": {
 		"denshi": 350
 	},
 	"id": "spy",
-	"name": {
-		"en": "Spy"
-	},
 	"properties": {
 		"MAXHITPOINTS": 2,
 		"MAXSTAMINA": 2,

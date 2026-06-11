@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "rampager",
-	"name": {
-		"en": "Rampager"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 2,

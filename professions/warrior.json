@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Warrior is a Tier I evolution from the Fighter Profession, while keeping all of the Fighters abilities the Warrior also gains the ability to use <b>Shields</b>.<br><br> As with the Fighter the Warrior can use Axes, Swords, Daggers and Maces."
-	},
 	"evo": {
 		"berserker": 350
 	},
 	"id": "warrior",
-	"name": {
-		"en": "Warrior"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 2,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "general-store",
-	"name": {
-		"en": "General Store"
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Shogun is a Tier III evolution from the Farmer Profession via Conscript > Samurai > Shogun, the Shogun gains the ability to claim taxes via <b>Lordship</b> and to wield <b>Pole Weapons</b>."
-	},
 	"id": "shogun",
-	"name": {
-		"en": "Shogun"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 5,

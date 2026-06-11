@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A smaller version of a full grown person."
-	},
 	"id": "child",
-	"name": {
-		"en": "Child"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 1,

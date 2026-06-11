@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Samurai is a Tier II evolution from the Farmer Profession via conscript, while keeping all of the Conscripts abilities the Samurai also gains the abilty to use <b>Way of the Warrior</b>, <b>Taunting</b> and <b>Two Handed Swords</b>."
-	},
 	"evo": {
 		"shogun": 650
 	},
 	"id": "samurai",
-	"name": {
-		"en": "Samurai"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 3,

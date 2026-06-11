@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Nest Queen"
-	},
 	"id": "nest-queen",
-	"name": {
-		"en": "Nest Queen"
-	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 5,

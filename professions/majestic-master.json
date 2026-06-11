@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Master class."
-	},
 	"id": "majestic-master",
-	"name": {
-		"en": "Majestic Master"
-	},
 	"properties": {
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 3,

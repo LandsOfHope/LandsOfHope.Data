@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Rewards good Gladiators."
-	},
 	"id": "gladiator-rewarder",
-	"name": {
-		"en": "Gladiator Rewarder"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 4,

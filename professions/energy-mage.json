@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Energy Mage"
-	},
 	"id": "energy-mage",
-	"name": {
-		"en": "Energy Mage"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 1,

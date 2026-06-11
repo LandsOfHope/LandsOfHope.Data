@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "massive-obstacle",
-	"name": {
-		"en": "Massive Obstacle"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"INTELLIGENCE": 4,

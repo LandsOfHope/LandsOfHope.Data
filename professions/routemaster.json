@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Responsible for the logistics of managing a trade route."
-	},
 	"id": "routemaster",
-	"name": {
-		"en": "Routemaster"
-	},
 	"properties": {
 		"DEXTERITY": 4,
 		"INTELLIGENCE": 2,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "One who studies books and collates manuscripts and records of history."
-	},
 	"id": "librarian",
-	"name": {
-		"en": "Librarian"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 2,

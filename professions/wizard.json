@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Wizard is a Tier III evolution from the Caster Profession via Mage > Elementalist keeping all of the Elementalists abilities the Wizard also gains the abilty to use <b>Air</b> and <b>Earth</b> magic, <b>Mana Draining</b> and <b>Maces</b>."
-	},
 	"id": "wizard",
-	"name": {
-		"en": "Wizard"
-	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 2,

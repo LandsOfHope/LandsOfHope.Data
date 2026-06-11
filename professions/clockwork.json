@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Flesh Dealer is a Tier II evolution from the Inventor Profession via Junker."
-	},
 	"evo": {
 		"war-machine": 650
 	},
 	"id": "clockwork",
-	"name": {
-		"en": "Clockwork"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 6

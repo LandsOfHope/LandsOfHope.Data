@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient guardian"
-	},
 	"id": "wavestormer",
-	"name": {
-		"en": "Wavestormer"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 3,

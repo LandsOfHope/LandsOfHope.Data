@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Ranger is a Tier III evolution from the Archer Profession via Scout > Beastmaster, while keeping all of the Beastmasters abilities the Ranger also gains the abilty to use <b>Wildlife</b> magic and to wield <b>Two Handed Swords</b>."
-	},
 	"id": "ranger",
-	"name": {
-		"en": "Ranger"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 2,

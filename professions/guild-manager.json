@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "This NPC can be setup to manage various Guild aspects."
-	},
 	"id": "guild-manager",
-	"name": {
-		"en": "Guild Manager"
-	},
 	"properties": {
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 4

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Guard Mage"
-	},
 	"id": "guard-mage",
-	"name": {
-		"en": "Guard Mage"
-	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 3,

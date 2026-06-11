@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A vengeful summon."
-	},
 	"id": "vengeful-summon",
-	"name": {
-		"en": "Vengeful Summon"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 6,

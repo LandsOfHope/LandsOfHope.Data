@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The guardian of a town."
-	},
 	"id": "town-guard",
-	"name": {
-		"en": "Town Guard"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 4,

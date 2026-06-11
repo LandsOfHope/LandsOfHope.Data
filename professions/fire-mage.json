@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Fire Mage. An expert at casting Fire Magic."
-	},
 	"id": "fire-mage",
-	"name": {
-		"en": "Fire Mage"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 1,

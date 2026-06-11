@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient guardian"
-	},
 	"id": "legend-guardian",
-	"name": {
-		"en": "Legend Guardian"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,

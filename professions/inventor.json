@@ -1,16 +1,10 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Testing"
-	},
 	"evo": {
 		"junker": 50,
 		"stitchworker": 50
 	},
 	"id": "inventor",
-	"name": {
-		"en": "Inventor"
-	},
 	"properties": {
 		"MAXHITPOINTS": 2,
 		"MAXSTAMINA": 3

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A paid bonus NPC, with special quests."
-	},
 	"id": "advanced-collector",
-	"name": {
-		"en": "Advanced Collector"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 5

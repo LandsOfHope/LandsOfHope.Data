@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Dwarven Smith. An expert at creating metal and magmite items."
-	},
 	"id": "plate-goods-vendor",
-	"name": {
-		"en": "Plate Goods Vendor"
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 1,

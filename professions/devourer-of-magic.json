@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "This ancient demon was born from the deepest parts of the Hell Plane. It feeds on magic, devouring the energies of those that it encounters."
-	},
 	"id": "devourer-of-magic",
-	"name": {
-		"en": "Devourer of Magic"
-	},
 	"properties": {
 		"INTELLIGENCE": 7,
 		"MAXHITPOINTS": 16,

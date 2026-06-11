@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Wintersvale Product 2008."
-	},
 	"id": "toy-boxer",
-	"name": {
-		"en": "Toy Boxer"
-	},
 	"properties": {
 		"MAXHITPOINTS": 10,
 		"MAXSTAMINA": 4,

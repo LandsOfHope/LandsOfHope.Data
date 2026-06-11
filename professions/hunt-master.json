@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Someone who hides items and makes people hunt for them."
-	},
 	"id": "hunt-master",
-	"name": {
-		"en": "Hunt Master"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 4,

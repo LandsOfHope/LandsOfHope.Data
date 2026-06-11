@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Fighter class."
-	},
 	"id": "majestic-fighter",
-	"name": {
-		"en": "Majestic Fighter"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,

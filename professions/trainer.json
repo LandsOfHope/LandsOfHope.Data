@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Responsible for Guild Levelling."
-	},
 	"id": "trainer",
-	"name": {
-		"en": "Trainer"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 3,

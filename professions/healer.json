@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Reverred and worshipped throughout the ages, the Healer profession has been known to perform many miracles, some believe the Healers to be merely angels (or demons) who walk the lands doing the work of the gods. While a healer is not skilled enough to revive dead people they can bring the wounded or sick back to full life as easily as one might draw breath."
-	},
 	"evo": {
 		"cleric": 50,
 		"friar": 50,
 		"protector": 50
 	},
 	"id": "healer",
-	"name": {
-		"en": "Healer"
-	},
 	"properties": {
 		"INTELLIGENCE": 2,
 		"MAXHITPOINTS": 1,

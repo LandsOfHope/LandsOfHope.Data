@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Wintersvale Product 2008."
-	},
 	"id": "christmas-trinket",
-	"name": {
-		"en": "Christmas Trinket"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 10,

@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Denshi is a Tier II evolution from the Farmer Profession via spy, while keeping all of the Spies abilities the Denshi also gains the abilty to use <b>Targeted Combat</b>."
-	},
 	"evo": {
 		"ninja": 650
 	},
 	"id": "denshi",
-	"name": {
-		"en": "Denshi"
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3,

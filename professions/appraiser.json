@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The appraiser is a master of discovering the truth about items, buildings and players"
-	},
 	"id": "appraiser",
-	"name": {
-		"en": "Appraiser"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 2,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Sells bane items."
-	},
 	"id": "baneseller",
-	"name": {
-		"en": "Baneseller"
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3

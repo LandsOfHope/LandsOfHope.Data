@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient guardian"
-	},
 	"id": "earthstriker",
-	"name": {
-		"en": "Earthstriker"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 2,

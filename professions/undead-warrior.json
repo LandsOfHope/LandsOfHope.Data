@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient warrior."
-	},
 	"id": "undead-warrior",
-	"name": {
-		"en": "Undead Warrior"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,

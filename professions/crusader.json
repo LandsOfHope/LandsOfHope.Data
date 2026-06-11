@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Crusader is a Tier III evolution from the Healer Profession via Protector > Paladin keeping all of the Paladins abilities the Crusader also gains the abilty to use <b>Divine Fury</b>."
-	},
 	"id": "crusader",
-	"name": {
-		"en": "Crusader"
-	},
 	"properties": {
 		"INTELLIGENCE": 2,
 		"MAXHITPOINTS": 3,

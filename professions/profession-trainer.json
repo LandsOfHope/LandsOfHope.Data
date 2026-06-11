@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Trains in Spells and Styles"
-	},
 	"id": "profession-trainer",
-	"name": {
-		"en": "Profession Trainer"
-	},
 	"properties": {
 		"DEXTERITY": 4,
 		"MAXHITPOINTS": 3,

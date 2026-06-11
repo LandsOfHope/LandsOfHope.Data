@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Scavenger"
-	},
 	"id": "scavenger",
-	"name": {
-		"en": "Scavenger"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 2,

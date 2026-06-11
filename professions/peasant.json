@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The mark of a thievery attempt."
-	},
 	"id": "peasant",
-	"name": {
-		"en": "Peasant"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 1,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Tainted Golem Pet Class"
-	},
 	"id": "tainted-golem",
-	"name": {
-		"en": "Tainted Golem"
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
 	},

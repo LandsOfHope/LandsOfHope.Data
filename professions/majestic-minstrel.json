@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Minstrel class."
-	},
 	"id": "majestic-minstrel",
-	"name": {
-		"en": "Majestic Minstrel"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 3,

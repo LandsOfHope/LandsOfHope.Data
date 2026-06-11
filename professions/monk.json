@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Monk is a Tier II evolution from the Healer Profession via Friar, while keeping all of the Friars abilities the Monk also gains the abilty to use <b>Shields</b>."
-	},
 	"evo": {
 		"abbot": 650
 	},
 	"id": "monk",
-	"name": {
-		"en": "Monk"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 1,

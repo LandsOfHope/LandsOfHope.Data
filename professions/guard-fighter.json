@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Guard Fighter"
-	},
 	"id": "guard-fighter",
-	"name": {
-		"en": "Guard Fighter"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 5,

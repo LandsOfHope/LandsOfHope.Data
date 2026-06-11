@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Noblemen are the upper class, born into a rich family or lifestyle, they don't have to work very hard and can often talk there enemies around or bribe them till they submit. They are trained in Blades by some of the finest blade masters in all of Saloa."
-	},
 	"id": "nobleman",
-	"name": {
-		"en": "Nobleman"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 4,

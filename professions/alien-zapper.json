@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An alien mage."
-	},
 	"id": "alien-zapper",
-	"name": {
-		"en": "Alien Zapper"
-	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 8,

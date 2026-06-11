@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Hermit lives a life of isolation, often they will spend countless hours in the woods ... no one knows what they do out there but you can often hear strange noises. Hermits dedicate themselves to the study of plants and nature. Although should the need arise a Hermit may fight with his trusty 2Handed Staff or simply pummel you with his or her fists if they desire to do so.you are likely to see a first hand demonstration of a Hermits skills."
-	},
 	"evo": {
 		"diviner": 50
 	},
 	"id": "hermit",
-	"name": {
-		"en": "Hermit"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 2,

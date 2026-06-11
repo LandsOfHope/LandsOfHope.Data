@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Caster class."
-	},
 	"id": "majestic-caster",
-	"name": {
-		"en": "Majestic Caster"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"INTELLIGENCE": 3,

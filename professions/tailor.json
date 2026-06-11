@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Tailor. An expert at creating tailored  items from cloth and hides."
-	},
 	"id": "tailor",
-	"name": {
-		"en": "Tailor"
-	},
 	"properties": {
 		"INTELLIGENCE": 2,
 		"MAXHITPOINTS": 2,

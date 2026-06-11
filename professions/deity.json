@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The ruler of a religion."
-	},
 	"id": "deity",
-	"name": {
-		"en": "Deity"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"INTELLIGENCE": 2,

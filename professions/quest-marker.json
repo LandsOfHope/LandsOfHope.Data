@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The fixer of quests."
-	},
 	"id": "quest-marker",
-	"name": {
-		"en": "Quest Marker"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 3,

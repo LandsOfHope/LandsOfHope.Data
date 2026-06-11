@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Skill Task Master"
-	},
 	"id": "skill-task-master",
-	"name": {
-		"en": "Skill Task Master"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 3,

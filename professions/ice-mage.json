@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Ice Mage. An expert at casting Ice Magic."
-	},
 	"id": "ice-mage",
-	"name": {
-		"en": "Ice Mage"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 2,

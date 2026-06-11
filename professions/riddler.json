@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Riddler"
-	},
 	"id": "riddler",
-	"name": {
-		"en": "Riddler"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 1,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Hellish Fiend"
-	},
 	"id": "hellish-fiend",
-	"name": {
-		"en": "Hellish Fiend"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 2,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Woodworkers are experts at Carpentry and Woodworking. They rely on there excellent skills to manufacture wooden objects such as Shields and wooden weapons."
-	},
 	"id": "woodworker",
-	"name": {
-		"en": "Woodworker"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 1,

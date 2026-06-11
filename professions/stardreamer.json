@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Stardreamer is a Tier I evolution from the Stargazer Profession, while keeping all of the Stargazers abilities the Stardreamer also gains the ability to choose an additional constellation."
-	},
 	"evo": {
 		"starchaser": 350
 	},
 	"id": "stardreamer",
-	"name": {
-		"en": "Stardreamer"
-	},
 	"properties": {
 		"INTELLIGENCE": 2,
 		"MAXHITPOINTS": 2,

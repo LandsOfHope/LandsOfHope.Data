@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient guardian"
-	},
 	"id": "demon-beast",
-	"name": {
-		"en": "Demon Beast"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 5,

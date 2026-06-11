@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Storm Golem Pet Class"
-	},
 	"id": "storm-golem",
-	"name": {
-		"en": "Storm Golem"
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
 	},

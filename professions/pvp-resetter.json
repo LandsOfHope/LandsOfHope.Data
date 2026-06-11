@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "PVP Resetter"
-	},
 	"id": "pvp-resetter",
-	"name": {
-		"en": "PVP Resetter"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 5

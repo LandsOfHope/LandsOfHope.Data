@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Skinner. An expert at tending the animals and creatures of Saloa to gain hides, eggs and meats."
-	},
 	"id": "skinner",
-	"name": {
-		"en": "Skinner"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 1,

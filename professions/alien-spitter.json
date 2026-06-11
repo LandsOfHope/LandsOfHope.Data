@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An alien archer."
-	},
 	"id": "alien-spitter",
-	"name": {
-		"en": "Alien Spitter"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 7,

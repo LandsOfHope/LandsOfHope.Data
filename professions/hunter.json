@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Hunter is a Tier II evolution from the Archer Profession via Tracker, while keeping all of the Trackers abilities the Hunter also gains the abilty to track <b>Beasts</b>, <b>Humanoids</b>, <b>Undeads</b> and to track <b>Criminals</b>."
-	},
 	"evo": {
 		"beastlord": 650
 	},
 	"id": "hunter",
-	"name": {
-		"en": "Hunter"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 2,

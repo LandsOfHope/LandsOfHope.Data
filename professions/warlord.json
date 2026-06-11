@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Warlord is a Tier III evolution from the Fighter Profession via Warrior > Berserker keeping all of the Berserkers abilities the Warlord also gains the abilty to use <b>Devotion</b>."
-	},
 	"id": "warlord",
-	"name": {
-		"en": "Warlord"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 1,

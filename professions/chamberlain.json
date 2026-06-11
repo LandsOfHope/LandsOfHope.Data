@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Responsible for Administering the guild Credit System."
-	},
 	"id": "chamberlain",
-	"name": {
-		"en": "Chamberlain"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"INTELLIGENCE": 3,

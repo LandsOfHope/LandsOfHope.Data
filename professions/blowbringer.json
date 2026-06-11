@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Warriors are weapons experts specialising in large weapons such as Double Axes and Clubs. Warriors are not known for there accuracy instead prefer to go for damage and there fearsome battle cries to strike fear into the enemy."
-	},
 	"id": "blowbringer",
-	"name": {
-		"en": "Blowbringer"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,

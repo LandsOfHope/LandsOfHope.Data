@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "salvage-expert",
-	"name": {
-		"en": "Salvage Expert"
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 1,

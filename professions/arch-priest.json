@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Arch Priest is a Tier III evolution from the Healer Profession via Cleric > Priest, while keeping all of the Priests abilities the Arch Priest also gains the abilty to use <b>Blessing</b> magic spells."
-	},
 	"id": "arch-priest",
-	"name": {
-		"en": "Arch Priest"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 2,

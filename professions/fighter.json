@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Throughout history we have known many wars each one tainted by the blood of the fallen souls who died defending their \"point of view\", the Fighter profession would in most wars be the first to die or the last person standing at the end of the conflict. They are skilled expertly in most one handed weapons to the point where they can dual wield and still be effective."
-	},
 	"evo": {
 		"grunt": 50,
 		"squire": 50,
 		"warrior": 50
 	},
 	"id": "fighter",
-	"name": {
-		"en": "Fighter"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 1,

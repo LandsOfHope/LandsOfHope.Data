@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Tracker is a Tier I evolution from the Archer Profession, while keeping all of the Archers abilities the tracker also gains the ability to <b>Track Beasts</b> and make <b>Traps</b>.<br><br> As with the Archer the Tracker can use Daggers, Bows and Crossbows but also gains <b>Axes</b>."
-	},
 	"evo": {
 		"hunter": 350
 	},
 	"id": "tracker",
-	"name": {
-		"en": "Tracker"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 1,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Harvestor. An expert at tending the plants of Saloa to gain fibers."
-	},
 	"id": "harvestor",
-	"name": {
-		"en": "Harvestor"
-	},
 	"properties": {
 		"INTELLIGENCE": 2,
 		"MAXHITPOINTS": 3,

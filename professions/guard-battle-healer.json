@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Guard Healer"
-	},
 	"id": "guard-battle-healer",
-	"name": {
-		"en": "Guard Battle Healer"
-	},
 	"properties": {
 		"INTELLIGENCE": 2,
 		"MAXHITPOINTS": 4,

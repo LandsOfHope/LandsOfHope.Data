@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A demon that steals the life (health) of the enemy."
-	},
 	"id": "leech-demon",
-	"name": {
-		"en": "Leech Demon"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 3,

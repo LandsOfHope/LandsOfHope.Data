@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "battler",
-	"name": {
-		"en": "Battler"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 3,

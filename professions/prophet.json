@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Someone who sees things."
-	},
 	"id": "prophet",
-	"name": {
-		"en": "Prophet"
-	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 3,

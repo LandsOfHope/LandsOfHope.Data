@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Novice is a Tier I evolution from the Apprentice  Profession."
-	},
 	"evo": {
 		"adept": 350
 	},
 	"id": "novice",
-	"name": {
-		"en": "Novice"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 3,

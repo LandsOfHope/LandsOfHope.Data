@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A fortune hunter is often found searching for lost clues or ancient relics to find a mythical treasure."
-	},
 	"id": "fortune-hunter",
-	"name": {
-		"en": "Fortune Hunter"
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 4,

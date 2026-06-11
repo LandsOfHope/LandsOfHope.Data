@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The manager of a post office."
-	},
 	"id": "post-master",
-	"name": {
-		"en": "Post Master"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 2

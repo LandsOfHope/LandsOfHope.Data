@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Stonemason. An expert at creating stone items from quarried stone."
-	},
 	"id": "stonemason",
-	"name": {
-		"en": "Stonemason"
-	},
 	"properties": {
 		"MAXHITPOINTS": 2,
 		"MAXSTAMINA": 3,

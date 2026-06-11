@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Imbues artifacts with strange powers."
-	},
 	"id": "artifact-imbuer",
-	"name": {
-		"en": "Artifact Imbuer"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 2

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A demon that steals the soul (mana power) of the enemy."
-	},
 	"id": "soul-demon",
-	"name": {
-		"en": "Soul Demon"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 3,

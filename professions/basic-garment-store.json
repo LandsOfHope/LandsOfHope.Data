@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "basic-garment-store",
-	"name": {
-		"en": "Basic Garment Store"
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 1

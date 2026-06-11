@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Ninja is a Tier III evolution from the Farmer Profession via Spy > Denshi > Ninja, the Ninja gains the ability to use <b>Parlor Tricks</b> and <b>Lockpick</b>."
-	},
 	"id": "ninja",
-	"name": {
-		"en": "Ninja"
-	},
 	"properties": {
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 4,

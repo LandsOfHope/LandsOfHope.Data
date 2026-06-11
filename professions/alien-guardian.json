@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An elite alien guardian of ubernation!"
-	},
 	"id": "alien-guardian",
-	"name": {
-		"en": "Alien Guardian"
-	},
 	"properties": {
 		"DEXTERITY": 5,
 		"MAXHITPOINTS": 17,

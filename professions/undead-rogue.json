@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient rogue."
-	},
 	"id": "undead-rogue",
-	"name": {
-		"en": "Undead Rogue"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 4,

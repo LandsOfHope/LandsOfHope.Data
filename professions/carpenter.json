@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Carpenter. An expert at creating wooden items from planks."
-	},
 	"id": "carpenter",
-	"name": {
-		"en": "Carpenter"
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXSTAMINA": 2,

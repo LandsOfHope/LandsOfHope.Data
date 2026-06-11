@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Druid is a Tier III evolution from the Hermit Profession via Diviner > Warder keeping all of the Warders abilities the Druid also gains the abilty to use <b>Druid</b> magic."
-	},
 	"id": "druid",
-	"name": {
-		"en": "Druid"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 4,

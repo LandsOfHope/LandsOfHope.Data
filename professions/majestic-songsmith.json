@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Songsmith class."
-	},
 	"id": "majestic-songsmith",
-	"name": {
-		"en": "Majestic Songsmith"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 4,

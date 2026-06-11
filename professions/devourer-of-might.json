@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "This ancient demon was born from the deepest parts of the Hell Plane. It feeds on might, devouring the strengths and fears of all it encounters."
-	},
 	"id": "devourer-of-might",
-	"name": {
-		"en": "Devourer of Might"
-	},
 	"properties": {
 		"DEXTERITY": 4,
 		"MAXHITPOINTS": 15,

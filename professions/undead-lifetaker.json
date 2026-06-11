@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient mage."
-	},
 	"id": "undead-lifetaker",
-	"name": {
-		"en": "Undead Lifetaker"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 4,

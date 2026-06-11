@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Responsible for the day to day runnings of the port."
-	},
 	"id": "port-master",
-	"name": {
-		"en": "Port Master"
-	},
 	"properties": {
 		"DEXTERITY": 4,
 		"INTELLIGENCE": 2,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient warrior."
-	},
 	"id": "ancient-manifestation",
-	"name": {
-		"en": "Ancient Manifestation"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 5,

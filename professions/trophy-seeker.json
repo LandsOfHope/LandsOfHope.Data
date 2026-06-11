@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Collects creature and quest trophys."
-	},
 	"id": "trophy-seeker",
-	"name": {
-		"en": "Trophy Seeker"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 2,

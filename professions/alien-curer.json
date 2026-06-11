@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An alien healer."
-	},
 	"id": "alien-curer",
-	"name": {
-		"en": "Alien Curer"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 7,

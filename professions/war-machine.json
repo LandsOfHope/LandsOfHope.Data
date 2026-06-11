@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The War Machine is a Tier III evolution from the Inventor Profession via Junker > Clockwork."
-	},
 	"id": "war-machine",
-	"name": {
-		"en": "War Machine"
-	},
 	"properties": {
 		"MAXHITPOINTS": 6,
 		"MAXSTAMINA": 8

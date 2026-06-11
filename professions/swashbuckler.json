@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Adept is a Tier II evolution from the Sailor Profession."
-	},
 	"evo": {
 		"pirate-hunter": 650
 	},
 	"id": "swashbuckler",
-	"name": {
-		"en": "Swashbuckler"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 2,

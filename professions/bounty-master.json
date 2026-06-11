@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A person responsible for handling bounty and the assignment of criminal capture."
-	},
 	"id": "bounty-master",
-	"name": {
-		"en": "Bounty Master"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 3,

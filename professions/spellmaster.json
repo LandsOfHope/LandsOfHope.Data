@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Responsible for Administering guild Abilities."
-	},
 	"id": "spellmaster",
-	"name": {
-		"en": "Spellmaster"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 3,

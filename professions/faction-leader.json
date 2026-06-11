@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Leader of a Faction."
-	},
 	"id": "faction-leader",
-	"name": {
-		"en": "Faction Leader"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 4,

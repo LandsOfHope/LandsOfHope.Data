@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "basic-armor-store",
-	"name": {
-		"en": "Basic Armor Store"
-	},
 	"properties": {
 		"MAXHITPOINTS": 1,
 		"MAXMANA": 1,

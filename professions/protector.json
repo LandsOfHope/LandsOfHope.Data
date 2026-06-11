@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Protector is a Tier I evolution from the Healer Profession, while keeping all of the Healers abilities the Protector also gains the ability to use <b>Healing</b> items and <b>Protection magic </b> spells.<br><br> As with the Healer the Protector can use Staves and Fists but also gains <b>Two Handed Staves</b> and <b>Shields</b>."
-	},
 	"evo": {
 		"templar": 350
 	},
 	"id": "protector",
-	"name": {
-		"en": "Protector"
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXHITPOINTS": 2,

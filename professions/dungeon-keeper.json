@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Master of Dungeons"
-	},
 	"id": "dungeon-keeper",
-	"name": {
-		"en": "Dungeon Keeper"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 2,

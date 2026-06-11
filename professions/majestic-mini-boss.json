@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Mini boss class."
-	},
 	"id": "majestic-mini-boss",
-	"name": {
-		"en": "Majestic Mini Boss"
-	},
 	"properties": {
 		"DEXTERITY": 4,
 		"INTELLIGENCE": 1,

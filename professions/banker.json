@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Stores gold and items for a small price."
-	},
 	"id": "banker",
-	"name": {
-		"en": "Banker"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 3,

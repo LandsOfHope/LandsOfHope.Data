@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Wintersvale Product 2008."
-	},
 	"id": "toy-popgunner",
-	"name": {
-		"en": "Toy Popgunner"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 11,

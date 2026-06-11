@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Cutey class."
-	},
 	"id": "majestic-cutey",
-	"name": {
-		"en": "Majestic Cutey"
-	},
 	"properties": {
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 3,

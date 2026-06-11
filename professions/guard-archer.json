@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Guard Archer"
-	},
 	"id": "guard-archer",
-	"name": {
-		"en": "Guard Archer"
-	},
 	"properties": {
 		"DEXTERITY": 4,
 		"MAXHITPOINTS": 4,

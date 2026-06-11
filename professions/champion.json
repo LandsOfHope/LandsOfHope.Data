@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient guardian"
-	},
 	"id": "champion",
-	"name": {
-		"en": "Champion"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,

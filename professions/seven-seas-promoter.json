@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Rewards pirates/navy."
-	},
 	"id": "seven-seas-promoter",
-	"name": {
-		"en": "Seven Seas Promoter"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 5

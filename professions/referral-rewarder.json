@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "referral-rewarder",
-	"name": {
-		"en": "Referral Rewarder"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 1,

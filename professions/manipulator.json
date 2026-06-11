@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The  Manipulator is a Tier II evolution from the Animator Profession via Shaper."
-	},
 	"evo": {
 		"geomancer": 650
 	},
 	"id": "manipulator",
-	"name": {
-		"en": "Manipulator"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 2,

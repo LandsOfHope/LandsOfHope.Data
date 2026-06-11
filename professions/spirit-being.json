@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Lala"
-	},
 	"id": "spirit-being",
-	"name": {
-		"en": "Spirit Being"
-	},
 	"properties": {
 		"INTELLIGENCE": 2,
 		"MAXHITPOINTS": 2,

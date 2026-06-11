@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Grunt is a Tier I evolution from the Fighter Profession, while keeping all of the Fighters abilities the Grunt also gains the ability to use <b>Shields</b> and <b>Hand Guns</b>.<br><br> As with the Fighter the Grunt can use Axes, Swords, Daggers and Maces."
-	},
 	"evo": {
 		"soldier": 350
 	},
 	"id": "grunt",
-	"name": {
-		"en": "Grunt"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 2,

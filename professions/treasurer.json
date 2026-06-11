@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Responsible for Administering guild Treasury."
-	},
 	"id": "treasurer",
-	"name": {
-		"en": "Treasurer"
-	},
 	"properties": {
 		"INTELLIGENCE": 2,
 		"MAXHITPOINTS": 3,

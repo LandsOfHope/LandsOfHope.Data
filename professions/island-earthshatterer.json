@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Found in the Pirate Expansion."
-	},
 	"id": "island-earthshatterer",
-	"name": {
-		"en": "Island Earthshatterer"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"INTELLIGENCE": 3,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Blacksmith. An expert at creating metal items from ingots."
-	},
 	"id": "blacksmith",
-	"name": {
-		"en": "Blacksmith"
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 2,

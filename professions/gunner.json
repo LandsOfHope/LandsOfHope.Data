@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Gunner"
-	},
 	"id": "gunner",
-	"name": {
-		"en": "Gunner"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 4,

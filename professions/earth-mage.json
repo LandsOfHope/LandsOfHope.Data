@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Earth Mage. An expert at casting Earth Magic."
-	},
 	"id": "earth-mage",
-	"name": {
-		"en": "Earth Mage"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 1,

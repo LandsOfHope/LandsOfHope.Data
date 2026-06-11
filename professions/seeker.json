@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The seeker of strange things."
-	},
 	"id": "seeker",
-	"name": {
-		"en": "Seeker"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 5

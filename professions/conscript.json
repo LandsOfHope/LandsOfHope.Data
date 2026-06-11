@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Conscript is a Tier I evolution from the Farmer Profession, while keeping all of the Farmer abilities the Conscript also gains the ability to use <b>Swords</b>.<br><br> As with the Farmer the Conscript can use Axes and Fists."
-	},
 	"evo": {
 		"samurai": 350
 	},
 	"id": "conscript",
-	"name": {
-		"en": "Conscript"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 2,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Fighter class."
-	},
 	"id": "siege-monster",
-	"name": {
-		"en": "Siege Monster"
-	},
 	"properties": {
 		"MAXHITPOINTS": 9,
 		"MAXSTAMINA": 6,

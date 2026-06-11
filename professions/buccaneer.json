@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Novice is a Tier I evolution from the Privateer Profession."
-	},
 	"evo": {
 		"raider": 350
 	},
 	"id": "buccaneer",
-	"name": {
-		"en": "Buccaneer"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 2,

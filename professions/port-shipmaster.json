@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Responsible for improving ships and buying or selling new ships."
-	},
 	"id": "port-shipmaster",
-	"name": {
-		"en": "Port Shipmaster"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 3,

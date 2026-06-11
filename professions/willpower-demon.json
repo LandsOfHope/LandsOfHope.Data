@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A demon that steals the Willpower (stamina) of the enemy."
-	},
 	"id": "willpower-demon",
-	"name": {
-		"en": "Willpower Demon"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 3,

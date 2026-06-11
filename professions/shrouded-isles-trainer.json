@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Trains players in skills"
-	},
 	"id": "shrouded-isles-trainer",
-	"name": {
-		"en": "Shrouded Isles Trainer"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 4,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Killer is a Tier III evolution from the Rogue Profession via Shadowstalker > Assassin keeping all of the Assassins abilities the Killer also gains the abilty to use <b>Track Humanoids</b> and to use <b>Crossbows</b>."
-	},
 	"id": "killer",
-	"name": {
-		"en": "Killer"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 3,

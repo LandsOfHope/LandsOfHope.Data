@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Found in the Pirate Expansion."
-	},
 	"id": "island-shadowcreeper",
-	"name": {
-		"en": "Island Shadowcreeper"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,

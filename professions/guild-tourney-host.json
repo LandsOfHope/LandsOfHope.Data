@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The master of Guild Tourneys"
-	},
 	"id": "guild-tourney-host",
-	"name": {
-		"en": "Guild Tourney Host"
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Fighter class."
-	},
 	"id": "siege-wizard",
-	"name": {
-		"en": "Siege Wizard"
-	},
 	"properties": {
 		"INTELLIGENCE": 7,
 		"MAXHITPOINTS": 5,

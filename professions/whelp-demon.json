@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An all round pet, with reasonable stats and a varied amount of skills."
-	},
 	"id": "whelp-demon",
-	"name": {
-		"en": "Whelp Demon"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 6,

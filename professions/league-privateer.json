@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "xx"
-	},
 	"evo": {
 		"buccaneer": 50
 	},
 	"id": "league-privateer",
-	"name": {
-		"en": "League Privateer"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 1,

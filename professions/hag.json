@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Hag is a hybrid combat class primarily using melee combat at lower levels and then a mix of magic and melee at higher levels."
-	},
 	"evo": {
 		"enchantress": 50
 	},
 	"id": "hag",
-	"name": {
-		"en": "Hag"
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXHITPOINTS": 1,

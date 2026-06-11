@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The leader of a guild."
-	},
 	"id": "guild-promoter",
-	"name": {
-		"en": "Guild Promoter"
-	},
 	"properties": {
 		"INTELLIGENCE": 2,
 		"MAXHITPOINTS": 1,

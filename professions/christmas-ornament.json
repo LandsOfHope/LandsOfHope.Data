@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Wintersvale Product 2008."
-	},
 	"id": "christmas-ornament",
-	"name": {
-		"en": "Christmas Ornament"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 10,

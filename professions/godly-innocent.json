@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Godly Innocent"
-	},
 	"id": "godly-innocent",
-	"name": {
-		"en": "Godly Innocent"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 3,

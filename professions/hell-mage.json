@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Master of the Darkness and the depths of hell."
-	},
 	"id": "hell-mage",
-	"name": {
-		"en": "Hell Mage"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 2,

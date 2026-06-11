@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The dealer of quests."
-	},
 	"id": "quest-master",
-	"name": {
-		"en": "Quest Master"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 5

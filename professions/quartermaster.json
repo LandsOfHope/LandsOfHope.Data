@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An NPC that gives out rewards based on the amount of tokens or required items a player has found."
-	},
 	"id": "quartermaster",
-	"name": {
-		"en": "Quartermaster"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 1,

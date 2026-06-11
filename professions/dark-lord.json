@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Dark Lord is a Tier III evolution from the Caster Profession via Shaman > Necromancer keeping all of the Necromancers abilities the Dark Lord also gains the abilty to use <b>Dark</b> magic, <b>Mana Draining</b> and <b>Maces</b>."
-	},
 	"id": "dark-lord",
-	"name": {
-		"en": "Dark Lord"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 1,

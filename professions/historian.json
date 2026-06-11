@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The studier of ancient ways and cultures."
-	},
 	"id": "historian",
-	"name": {
-		"en": "Historian"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 2,

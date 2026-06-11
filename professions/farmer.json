@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Farmer. An expert at tending the lands to make food."
-	},
 	"id": "farmer",
-	"name": {
-		"en": "Farmer"
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 4,

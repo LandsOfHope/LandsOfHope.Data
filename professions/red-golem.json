@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Red Golem Pet Class"
-	},
 	"id": "red-golem",
-	"name": {
-		"en": "Red Golem"
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
 	},

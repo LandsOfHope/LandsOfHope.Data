@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Keeper of Dimensions of course"
-	},
 	"id": "dimension-keeper",
-	"name": {
-		"en": "Dimension Keeper"
-	},
 	"properties": {
 		"MAXHITPOINTS": 1
 	},

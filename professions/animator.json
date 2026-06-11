@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Animator uses basic components to create golems and other automotrons. They are more defensively natured than most classes and instead rely on their creations to do all of the hard work for them."
-	},
 	"evo": {
 		"shaper": 50
 	},
 	"id": "animator",
-	"name": {
-		"en": "Animator"
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXHITPOINTS": 1,

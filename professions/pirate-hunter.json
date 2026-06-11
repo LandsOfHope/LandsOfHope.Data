@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Master is a Tier III evolution from the Privateer Profession via Sailor > Swashbuckler."
-	},
 	"id": "pirate-hunter",
-	"name": {
-		"en": "Pirate Hunter"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,

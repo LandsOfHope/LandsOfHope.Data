@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Volcanic Golem Pet Class"
-	},
 	"id": "volcanic-golem",
-	"name": {
-		"en": "Volcanic Golem"
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
 	},

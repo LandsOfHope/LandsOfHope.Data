@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Knight is a Tier II evolution from the Fighter Profession via squire, while keeping all of the Squires abilities the Knight also gains the abilty to use <b>Pole blades</b>, <b>Two Handed Shields</b>, <b>Two Handed Maces</b> and <b>Two Handed Swords</b>."
-	},
 	"evo": {
 		"paladin": 650
 	},
 	"id": "knight",
-	"name": {
-		"en": "Knight"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 3,

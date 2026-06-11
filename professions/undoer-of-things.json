@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "-"
-	},
 	"id": "undoer-of-things",
-	"name": {
-		"en": "Undoer of Things"
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 2,

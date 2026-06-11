@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Healer class."
-	},
 	"id": "majestic-healer",
-	"name": {
-		"en": "Majestic Healer"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"INTELLIGENCE": 3,

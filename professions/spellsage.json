@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Those that seek ultimate control over magic often turn towards this profession."
-	},
 	"id": "spellsage",
-	"name": {
-		"en": "Spellsage"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 4,

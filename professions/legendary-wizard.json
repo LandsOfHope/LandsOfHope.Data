@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bought extra pet Wizard class."
-	},
 	"id": "legendary-wizard",
-	"name": {
-		"en": "Legendary Wizard"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"INTELLIGENCE": 5,

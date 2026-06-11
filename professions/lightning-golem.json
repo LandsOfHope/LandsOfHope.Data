@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Lightning Golem Pet Class"
-	},
 	"id": "lightning-golem",
-	"name": {
-		"en": "Lightning Golem"
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
 	},

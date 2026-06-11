@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "None"
-	},
 	"id": "sludgedrencher",
-	"name": {
-		"en": "Sludgedrencher"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 3,

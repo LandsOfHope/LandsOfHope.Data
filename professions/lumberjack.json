@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Lumberjack. An expert at chopping the trees of Saloa to make logs."
-	},
 	"id": "lumberjack",
-	"name": {
-		"en": "Lumberjack"
-	},
 	"properties": {
 		"MAXHITPOINTS": 2,
 		"MAXSTAMINA": 2,

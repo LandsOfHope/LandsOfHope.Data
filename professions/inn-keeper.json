@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Owner of an Inn"
-	},
 	"id": "inn-keeper",
-	"name": {
-		"en": "Inn Keeper"
-	},
 	"properties": {
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 3,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Bone Golem Pet Class"
-	},
 	"id": "bone-golem",
-	"name": {
-		"en": "Bone Golem"
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
 	},

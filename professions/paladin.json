@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Paladin is a Tier III evolution from the Fighter Profession via Squire > Knight > Paladin, the Paladin gains the ability to <b>Track Undead</b> and wield <b>Pole Blades</b> and <b>Two Handed Swords</b>."
-	},
 	"id": "paladin",
-	"name": {
-		"en": "Paladin"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 2,

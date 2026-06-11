@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The  Temptress is a Tier II evolution from the Hag Profession via Enchantress"
-	},
 	"evo": {
 		"witch": 650
 	},
 	"id": "temptress",
-	"name": {
-		"en": "Temptress"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 2,

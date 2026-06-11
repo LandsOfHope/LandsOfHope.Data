@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A demon that can do no physical damage, yet blocks attacks against its master."
-	},
 	"id": "protection-demon",
-	"name": {
-		"en": "Protection Demon"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5
 	},

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Master of the 7 Winds and Weather of Saloa."
-	},
 	"id": "tempest-mage",
-	"name": {
-		"en": "Tempest Mage"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 2,

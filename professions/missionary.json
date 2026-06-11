@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The dealer of Holy Missions."
-	},
 	"id": "missionary",
-	"name": {
-		"en": "Missionary"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 3,

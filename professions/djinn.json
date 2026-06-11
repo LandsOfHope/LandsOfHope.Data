@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Master of the 7 Winds and Weather of Saloa."
-	},
 	"id": "djinn",
-	"name": {
-		"en": "Djinn"
-	},
 	"properties": {
 		"INTELLIGENCE": 5,
 		"MAXHITPOINTS": 1,

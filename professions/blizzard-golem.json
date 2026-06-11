@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Blizzard Golem Pet Class"
-	},
 	"id": "blizzard-golem",
-	"name": {
-		"en": "Blizzard Golem"
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
 	},

@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Thief is a Tier II evolution from the Rogue Profession via Pickpocket, while keeping all of the Pickpockets abilities the Thief also gains the abilty to use <b>Deception</b> and <b>Swords</b>."
-	},
 	"evo": {
 		"crimelord": 650
 	},
 	"id": "thief",
-	"name": {
-		"en": "Thief"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 2,

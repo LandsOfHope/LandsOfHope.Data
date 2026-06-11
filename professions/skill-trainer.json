@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Trains players in skills"
-	},
 	"id": "skill-trainer",
-	"name": {
-		"en": "Skill Trainer"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 4,

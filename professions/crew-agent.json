@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Provides access to crew."
-	},
 	"id": "crew-agent",
-	"name": {
-		"en": "Crew Agent"
-	},
 	"properties": {
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 3,

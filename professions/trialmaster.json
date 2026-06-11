@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The dealer of Guild Trials."
-	},
 	"id": "trialmaster",
-	"name": {
-		"en": "Trialmaster"
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3,

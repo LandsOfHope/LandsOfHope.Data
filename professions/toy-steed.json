@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Wintersvale Product 2008."
-	},
 	"id": "toy-steed",
-	"name": {
-		"en": "Toy Steed"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"INTELLIGENCE": 4,

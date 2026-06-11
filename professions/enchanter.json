@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Someone who can enchant items."
-	},
 	"id": "enchanter",
-	"name": {
-		"en": "Enchanter"
-	},
 	"properties": {
 		"INTELLIGENCE": 4,
 		"MAXHITPOINTS": 1,

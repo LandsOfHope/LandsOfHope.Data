@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A demented mentalist."
-	},
 	"id": "dementalist",
-	"name": {
-		"en": "Dementalist"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 4,

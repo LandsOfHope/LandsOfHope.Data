@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "xx"
-	},
 	"evo": {
 		"sailor": 50
 	},
 	"id": "navy-privateer",
-	"name": {
-		"en": "Navy Privateer"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"MAXHITPOINTS": 1,

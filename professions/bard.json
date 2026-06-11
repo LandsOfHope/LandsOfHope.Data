@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Bard is a Tier III evolution from the Rogue Profession via Trickster > Deceiver keeping all of the Deceivers abilities the Bard also gains the abilty to use <b>Instruments and Songs</b>."
-	},
 	"id": "bard",
-	"name": {
-		"en": "Bard"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 3,

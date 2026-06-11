@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The dealer of quests."
-	},
 	"id": "quest-trigger",
-	"name": {
-		"en": "Quest Trigger"
-	},
 	"properties": {
 		"MAXHITPOINTS": 3,
 		"MAXSTAMINA": 3

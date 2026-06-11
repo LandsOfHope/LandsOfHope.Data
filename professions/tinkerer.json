@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Someone who is skilled in the manufacture of items and machines for advanced use."
-	},
 	"id": "tinkerer",
-	"name": {
-		"en": "Tinkerer"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 3,

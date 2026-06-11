@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Warmachine is a Tier III evolution from the Inventor Profession via Stitchworker > Flesh Dealer."
-	},
 	"id": "mutilator",
-	"name": {
-		"en": "Mutilator"
-	},
 	"properties": {
 		"MAXHITPOINTS": 6,
 		"MAXSTAMINA": 8

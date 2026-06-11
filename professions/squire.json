@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Squire is a Tier I evolution from the Fighter Profession, while keeping all of the Fighters abilities the Squire also gains the ability to use <b>Shields</b>.<br><br> As with the Fighter the Squire can use Axes, Swords, Daggers and Maces."
-	},
 	"evo": {
 		"knight": 350
 	},
 	"id": "squire",
-	"name": {
-		"en": "Squire"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 2,

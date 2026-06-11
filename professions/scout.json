@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Scout is a Tier I evolution from the Archer Profession, while keeping all of the Archers abilities the scout also gains abilities to detect places and beings that perhaps otherwise would perhaps not normally be seen.<br><br>As with the Archer the Scout can use Daggers, Bows and Crossbows."
-	},
 	"evo": {
 		"beastmaster": 350
 	},
 	"id": "scout",
-	"name": {
-		"en": "Scout"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 2,

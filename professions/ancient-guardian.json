@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient guardian"
-	},
 	"id": "ancient-guardian",
-	"name": {
-		"en": "Ancient Guardian"
-	},
 	"properties": {
 		"INTELLIGENCE": 6,
 		"MAXHITPOINTS": 6,

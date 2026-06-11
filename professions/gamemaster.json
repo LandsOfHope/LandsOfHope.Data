@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "One who controls the world."
-	},
 	"id": "gamemaster",
-	"name": {
-		"en": "Gamemaster"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 2,

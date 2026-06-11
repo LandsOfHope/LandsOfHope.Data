@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Shaper is a Tier I evolution from the Animator Profession."
-	},
 	"evo": {
 		"manipulator": 350
 	},
 	"id": "shaper",
-	"name": {
-		"en": "Shaper"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 2,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A vengeful spirit."
-	},
 	"id": "vengeful-spirit",
-	"name": {
-		"en": "Vengeful Spirit"
-	},
 	"properties": {
 		"DEXTERITY": 4,
 		"MAXHITPOINTS": 7,

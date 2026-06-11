@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient guardian"
-	},
 	"id": "glade-keeper",
-	"name": {
-		"en": "Glade Keeper"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"INTELLIGENCE": 4,

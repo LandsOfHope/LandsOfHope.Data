@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Archers are experts with stringed weapons they specialise in Long/Short and Cross bows. Although preferring the size and power of the Long/Short bows over the Cross bows. They are skilled marksmen and should never be underestimated."
-	},
 	"id": "spearmen",
-	"name": {
-		"en": "Spearmen"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 2,

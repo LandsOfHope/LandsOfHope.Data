@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Crimelord is a Tier III evolution from the Rogue Profession via Pickpocket > Thief keeping all of the Thieves abilities the Crimelord also gains the abilty to use <b>Hand Guns</b>."
-	},
 	"id": "crimelord",
-	"name": {
-		"en": "Crimelord"
-	},
 	"properties": {
 		"DEXTERITY": 4,
 		"MAXHITPOINTS": 3,

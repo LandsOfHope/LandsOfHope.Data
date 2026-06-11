@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Rogue is a hard profession to classify, looked down upon by many as nefarious criminals the Rogue is often called upon or hired to perform questionable acts. The Rogue is skilled in the art of Stealth and Lockpicking, they also know how to wield a Dagger very well and can use Thrown Weapons."
-	},
 	"evo": {
 		"pickpocket": 50,
 		"shadowstalker": 50,
 		"trickster": 50
 	},
 	"id": "rogue",
-	"name": {
-		"en": "Rogue"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 1,

@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Stargazer spends their time gazing intently up at the heavens, watching the stars and wondering what fate they might have in store for them."
-	},
 	"evo": {
 		"stardreamer": 50
 	},
 	"id": "stargazer",
-	"name": {
-		"en": "Stargazer"
-	},
 	"properties": {
 		"INTELLIGENCE": 2,
 		"MAXHITPOINTS": 1,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Those that seek ultimate control over magic often turn towards this profession."
-	},
 	"id": "powerseeker",
-	"name": {
-		"en": "Powerseeker"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 1,

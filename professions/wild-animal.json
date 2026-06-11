@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A animal  which has no set profession."
-	},
 	"id": "wild-animal",
-	"name": {
-		"en": "Wild Animal"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 3,

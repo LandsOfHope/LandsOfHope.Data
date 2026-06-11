@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The lord of the dungeon."
-	},
 	"id": "dungeon-master",
-	"name": {
-		"en": "Dungeon Master"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 4,

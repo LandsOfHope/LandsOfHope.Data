@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Promotes pirates."
-	},
 	"id": "seven-seas-leader",
-	"name": {
-		"en": "Seven Seas Leader"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 5

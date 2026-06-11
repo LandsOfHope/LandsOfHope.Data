@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Bombadier is a Tier III evolution from the Archer Profession via Soldier > Sharpshooter, while keeping all of the Sharpshooters abilities the Bombadier also gains the abilty to use <b>Heavy Munitions</b>."
-	},
 	"id": "bombadier",
-	"name": {
-		"en": "Bombadier"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"INTELLIGENCE": 1,

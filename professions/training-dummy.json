@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "This dummy helps you experiment with skills."
-	},
 	"id": "training-dummy",
-	"name": {
-		"en": "Training Dummy"
-	},
 	"properties": {
 		"MAXHITPOINTS": 4,
 		"MAXSTAMINA": 4

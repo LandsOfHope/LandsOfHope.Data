@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The manager of a Market."
-	},
 	"id": "marketeer",
-	"name": {
-		"en": "Marketeer"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 5

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Veteran is a Tier III evolution from the Fighter Profession via Grunt > Soldier keeping all of the Soldiers abilities the Veteran also gains the abilty to use <b>Two Handed Axes</b> and <b>Two Handed Shields</b>."
-	},
 	"id": "veteran",
-	"name": {
-		"en": "Veteran"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 4,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Light Golem Pet Class"
-	},
 	"id": "light-golem",
-	"name": {
-		"en": "Light Golem"
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
 	},

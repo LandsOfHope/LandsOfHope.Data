@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An alien warrior."
-	},
 	"id": "alien-squabbler",
-	"name": {
-		"en": "Alien Squabbler"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 8,

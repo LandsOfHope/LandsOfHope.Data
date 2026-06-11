@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Minstrels are those happy singing souls that can be found sitting at a crossroads playing a lute or harp and singing peacefully to themselves or the animals. Minstrels can and often do strike fear into the hearts of many with there magics."
-	},
 	"id": "minstrel",
-	"name": {
-		"en": "Minstrel"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 3,

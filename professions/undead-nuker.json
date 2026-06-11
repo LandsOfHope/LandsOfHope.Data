@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "An ancient mage."
-	},
 	"id": "undead-nuker",
-	"name": {
-		"en": "Undead Nuker"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 4,

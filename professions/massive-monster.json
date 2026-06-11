@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": ""
-	},
 	"id": "massive-monster",
-	"name": {
-		"en": "Massive Monster"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 6,

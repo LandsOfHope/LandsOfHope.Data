@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Responsible for Running Tournaments."
-	},
 	"id": "tourney-host",
-	"name": {
-		"en": "Tourney Host"
-	},
 	"properties": {
 		"MAXHITPOINTS": 5,
 		"MAXSTAMINA": 5

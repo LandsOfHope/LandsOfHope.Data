@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "A religious soul who can marry characters, divorce them and bury them."
-	},
 	"id": "vicar",
-	"name": {
-		"en": "Vicar"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 3,

@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Guard Paladin"
-	},
 	"id": "guard-paladin",
-	"name": {
-		"en": "Guard Paladin"
-	},
 	"properties": {
 		"DEXTERITY": 1,
 		"INTELLIGENCE": 1,

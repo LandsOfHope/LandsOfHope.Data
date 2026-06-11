@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Keeper of the port stores"
-	},
 	"id": "port-storekeeper",
-	"name": {
-		"en": "Port Storekeeper"
-	},
 	"properties": {
 		"MAXHITPOINTS": 2,
 		"MAXSTAMINA": 2

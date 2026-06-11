@@ -5,17 +5,11 @@
 		"$type": {
 			"const": "/v1/profession"
 		},
-		"desc": {
-			"$ref": "/schemas/v1/localized-string.json"
-		},
 		"evo": {
 			"$ref": "/schemas/v1/profession-evolution.json"
 		},
 		"id": {
 			"$ref": "/schemas/v1/professions-id.gen.json"
-		},
-		"name": {
-			"$ref": "/schemas/v1/localized-string.json"
 		},
 		"properties": {
 			"additionalProperties": false,
@@ -44,7 +38,7 @@
 			"type": "object"
 		}
 	},
-	"required": ["$type", "name", "desc"],
+	"required": ["$type", "id"],
 	"title": "Profession",
 	"type": "object"
 }

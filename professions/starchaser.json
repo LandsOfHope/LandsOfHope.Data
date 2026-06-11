@@ -1,15 +1,9 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Starchaser is a Tier II evolution from the Stargazer Profession via the Stardreamer Profession, while keeping all of the Stardreamers abilities the Starchaser also gains the ability to choose an additional constellation."
-	},
 	"evo": {
 		"star-catcher": 650
 	},
 	"id": "starchaser",
-	"name": {
-		"en": "Starchaser"
-	},
 	"properties": {
 		"INTELLIGENCE": 3,
 		"MAXHITPOINTS": 2,

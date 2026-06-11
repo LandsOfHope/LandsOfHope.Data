@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Found in the Pirate Expansion."
-	},
 	"id": "island-brute",
-	"name": {
-		"en": "Island Brute"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 4,

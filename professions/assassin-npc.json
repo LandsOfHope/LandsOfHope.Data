@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Assassin NPC"
-	},
 	"id": "assassin-npc",
-	"name": {
-		"en": "Assassin NPC"
-	},
 	"properties": {
 		"INTELLIGENCE": 1,
 		"MAXHITPOINTS": 3,

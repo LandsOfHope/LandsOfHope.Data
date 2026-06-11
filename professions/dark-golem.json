@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "Dark Golem Pet Class"
-	},
 	"id": "dark-golem",
-	"name": {
-		"en": "Dark Golem"
-	},
 	"properties": {
 		"MAXHITPOINTS": 0
 	},

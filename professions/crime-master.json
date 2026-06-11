@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The dealer of trouble and crimes."
-	},
 	"id": "crime-master",
-	"name": {
-		"en": "Crime Master"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"MAXHITPOINTS": 3,

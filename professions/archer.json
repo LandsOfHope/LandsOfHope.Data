@@ -1,17 +1,11 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The Archer is a dedicated ranged weapon user, skilled expertly in Bows and Crossbows they prefer to sit at the back of any encounter and shoot from range, however should ones enemy deflect an arrow or charge blindly through the maelstrom many an Archer has been known to quickly unsheath a Dagger and finish the foe."
-	},
 	"evo": {
 		"scout": 50,
 		"tracker": 50,
 		"trooper": 50
 	},
 	"id": "archer",
-	"name": {
-		"en": "Archer"
-	},
 	"properties": {
 		"DEXTERITY": 2,
 		"MAXHITPOINTS": 1,

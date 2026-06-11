@@ -1,12 +1,6 @@
 {
 	"$type": "/v1/profession",
-	"desc": {
-		"en": "The ancient leader of the Demons."
-	},
 	"id": "corruptor-of-worlds",
-	"name": {
-		"en": "Corruptor of Worlds"
-	},
 	"properties": {
 		"DEXTERITY": 3,
 		"INTELLIGENCE": 7,
