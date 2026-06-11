@@ -276,7 +276,7 @@
 		"name": "Conjurer"
 	},
 	"conscript": {
-		"desc": "The Conscript is a Tier I evolution from the Farmer Profession, while keeping all of the Farmer abilities the Conscript also gains the ability to use <b>Swords</b>.<br><br> As with the Farmer the Conscript can use Axes and Fists.",
+		"desc": "The Conscript is a Tier I evolution from the Rancher Profession, while keeping all of the Rancher's abilities the Conscript also gains the ability to use <b>Swords</b>.<br><br> As with the Rancher, the Conscript can use Axes and Fists.",
 		"name": "Conscript"
 	},
 	"cook": {
@@ -344,7 +344,7 @@
 		"name": "Demonic Follower"
 	},
 	"denshi": {
-		"desc": "The Denshi is a Tier II evolution from the Farmer Profession via spy, while keeping all of the Spies abilities the Denshi also gains the abilty to use <b>Targeted Combat</b>.",
+		"desc": "The Denshi is a Tier II evolution from the Rancher Profession via Spy, while keeping all of the Spy's abilities the Denshi also gains the abilty to use <b>Targeted Combat</b>.",
 		"name": "Denshi"
 	},
 	"despicable-one": {
@@ -892,7 +892,7 @@
 		"name": "Nest Queen"
 	},
 	"ninja": {
-		"desc": "The Ninja is a Tier III evolution from the Farmer Profession via Spy > Denshi > Ninja, the Ninja gains the ability to use <b>Parlor Tricks</b> and <b>Lockpick</b>.",
+		"desc": "The Ninja is a Tier III evolution from the Rancher Profession via Spy > Denshi > Ninja, the Ninja gains the ability to use <b>Parlor Tricks</b> and <b>Lockpick</b>.",
 		"name": "Ninja"
 	},
 	"nobleman": {
@@ -1072,7 +1072,7 @@
 		"name": "Salvager"
 	},
 	"samurai": {
-		"desc": "The Samurai is a Tier II evolution from the Farmer Profession via conscript, while keeping all of the Conscripts abilities the Samurai also gains the abilty to use <b>Way of the Warrior</b>, <b>Taunting</b> and <b>Two Handed Swords</b>.",
+		"desc": "The Samurai is a Tier II evolution from the Rancher Profession via Conscript, while keeping all of the Conscripts abilities the Samurai also gains the abilty to use <b>Way of the Warrior</b>, <b>Taunting</b> and <b>Two Handed Swords</b>.",
 		"name": "Samurai"
 	},
 	"scavenger": {
@@ -1116,7 +1116,7 @@
 		"name": "Sharpshooter"
 	},
 	"shogun": {
-		"desc": "The Shogun is a Tier III evolution from the Farmer Profession via Conscript > Samurai > Shogun, the Shogun gains the ability to claim taxes via <b>Lordship</b> and to wield <b>Pole Weapons</b>.",
+		"desc": "The Shogun is a Tier III evolution from the Rancher Profession via Conscript > Samurai > Shogun, the Shogun gains the ability to claim taxes via <b>Lordship</b> and to wield <b>Pole Weapons</b>.",
 		"name": "Shogun"
 	},
 	"shrouded-isles-trainer": {
@@ -1188,7 +1188,7 @@
 		"name": "Spirit Being"
 	},
 	"spy": {
-		"desc": "The Spy is a Tier I evolution from the Farmer Profession, while keeping all of the Farmers abilities the Spy also gains the ability to <b>Track Items</b> and <b>Stealth</b>.<br><br> As with the Farmer the Spy can use Axes and Fists but also gains Daggers and Thrown Weapons.",
+		"desc": "The Spy is a Tier I evolution from the Rancher Profession, while keeping all of the Rancher's abilities the Spy also gains the ability to <b>Track Items</b> and <b>Stealth</b>.<br><br> As with the Rancher the Spy can use Axes and Fists but also gains Daggers and Thrown Weapons.",
 		"name": "Spy"
 	},
 	"squire": {
