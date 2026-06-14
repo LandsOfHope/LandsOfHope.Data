@@ -18,19 +18,8 @@
 		"recipesChanged": {
 			"$ref": "/schemas/v1/characters/deltas/character-recipes-delta.json"
 		},
-		"skillsChanged": {
-			"additionalProperties": false,
-			"minProperties": 1,
-			"patternProperties": {
-				".*": {
-					"$ref": "/schemas/v1/characters/deltas/character-skill-delta.json"
-				}
-			},
-			"propertyNames": {
-				"$ref": "/schemas/v1/skills-id.gen.json"
-			},
-			"title": "CharacterSkillsDelta",
-			"type": "object"
+		"skills": {
+			"$ref": "/schemas/v1/characters/deltas/character-skills-delta.json"
 		}
 	},
 	"required": ["$type"],

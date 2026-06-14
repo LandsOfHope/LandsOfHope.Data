@@ -38,27 +38,48 @@
 		"added": ["blacksmithing/sword"],
 		"removed": ["blacksmithing/battle-axe"]
 	},
-	"skillsChanged": {
-		"blacksmithing": {
-			"$type": "/v1/characters/deltas/character-skill-delta",
-			"new": {
-				"$type": "/v1/characters/character-skill",
-				"bonus": {
-					"item": 0,
-					"spell": 0
-				},
-				"limit": 5000,
-				"natural": 5000
-			},
-			"old": {
-				"$type": "/v1/characters/character-skill",
-				"bonus": {
-					"item": 0,
-					"spell": 0
-				},
-				"limit": 5000,
-				"natural": 4999
-			}
-		}
+	"skills": {
+		"$type": "/v1/characters/deltas/character-skills-delta",
+		"added": [
+			[
+				"tinkering",
+				{
+					"$type": "/v1/characters/character-skill",
+					"bonus": {
+						"item": 0,
+						"spell": 0
+					},
+					"limit": 5000,
+					"natural": 5
+				}
+			]
+		],
+		"removed": ["deconstruction"],
+		"updated": [
+			[
+				"blacksmithing",
+				{
+					"$type": "/v1/characters/deltas/character-skill-delta",
+					"new": {
+						"$type": "/v1/characters/character-skill",
+						"bonus": {
+							"item": 0,
+							"spell": 0
+						},
+						"limit": 5000,
+						"natural": 5000
+					},
+					"old": {
+						"$type": "/v1/characters/character-skill",
+						"bonus": {
+							"item": 0,
+							"spell": 0
+						},
+						"limit": 5000,
+						"natural": 4999
+					}
+				}
+			]
+		]
 	}
 }

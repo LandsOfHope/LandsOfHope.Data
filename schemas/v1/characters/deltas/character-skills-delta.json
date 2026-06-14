@@ -1,0 +1,55 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/deltas/character-skills-delta.json",
+	"additionalProperties": false,
+	"minProperties": 2,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/deltas/character-skills-delta"
+		},
+		"added": {
+			"items": {
+				"items": [
+					{
+						"$ref": "/schemas/v1/skills-id.gen.json"
+					},
+					{
+						"$ref": "/schemas/v1/characters/character-skill.json"
+					}
+				],
+				"maxItems": 2,
+				"minItems": 2,
+				"type": "array"
+			},
+			"minItems": 1,
+			"type": "array"
+		},
+		"removed": {
+			"items": {
+				"$ref": "/schemas/v1/skills-id.gen.json"
+			},
+			"minItems": 1,
+			"type": "array",
+			"uniqueItems": true
+		},
+		"updated": {
+			"items": {
+				"items": [
+					{
+						"$ref": "/schemas/v1/skills-id.gen.json"
+					},
+					{
+						"$ref": "/schemas/v1/characters/deltas/character-skill-delta.json"
+					}
+				],
+				"maxItems": 2,
+				"minItems": 2,
+				"type": "array"
+			},
+			"minItems": 1,
+			"type": "array"
+		}
+	},
+	"required": ["$type"],
+	"title": "CharacterSkillsDelta",
+	"type": "object"
+}
