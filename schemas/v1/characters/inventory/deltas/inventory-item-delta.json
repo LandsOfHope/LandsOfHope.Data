@@ -1,0 +1,27 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/inventory/deltas/inventory-item-delta.json",
+    "minProperties": 2,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/inventory/deltas/inventory-item-delta"
+		},
+        "flags": {
+            "$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-flags-changed-delta.json"
+        },
+        "identified": {
+            "$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-identified-delta.json"
+        },
+        "moved": {
+            "$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-moved-delta.json"
+        },
+        "nickname": {
+            "$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-nickname-changed-delta.json"
+        },
+        "quantity": {
+            "$ref": "/schemas/v1/characters/inventory/deltas/inventory-item-quantity-changed-delta.json"
+        }
+	},
+	"required": ["$type"],
+	"title": "CharacterInventoryItemDelta",
+	"type": "object"
+}

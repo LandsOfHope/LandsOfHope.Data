@@ -11,7 +11,7 @@
 			"$ref": "/schemas/v1/characters/inventory/inventory-item-flags.json"
 		}
 	},
-	"required": ["$type", "old", "new"],
+	"required": ["$type", "new"],
 	"title": "CharacterInventoryItemFlagsChangedDelta",
 	"type": "object"
 }

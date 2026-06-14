@@ -34,84 +34,72 @@
 				"stackHash": "5CABF57B428E4E94"
 			}
 		],
-		"flagsChanged": [
+		"removed": [1001],
+		"updated": [
 			[
 				1000,
 				{
-					"$type": "/v1/characters/inventory/deltas/inventory-item-flags-changed-delta",
-					"new": {
-						"$type": "/v1/characters/inventory/inventory-item-flags",
-						"canSet": {
+					"$type": "/v1/characters/inventory/deltas/inventory-item-delta",
+					"flags": {
+						"$type": "/v1/characters/inventory/deltas/inventory-item-flags-changed-delta",
+						"new": {
+							"$type": "/v1/characters/inventory/inventory-item-flags",
+							"canSet": {
+								"noDecon": true,
+								"noDrop": true,
+								"noSell": true,
+								"noTrade": true
+							},
+							"noAuction": true,
+							"noBank": true,
+							"noChest": true,
 							"noDecon": true,
 							"noDrop": true,
 							"noSell": true,
 							"noTrade": true
 						},
-						"noAuction": true,
-						"noBank": true,
-						"noChest": true,
-						"noDecon": true,
-						"noDrop": true,
-						"noSell": true,
-						"noTrade": true
+						"old": {
+							"$type": "/v1/characters/inventory/inventory-item-flags",
+							"canSet": {
+								"noDecon": true,
+								"noDrop": true,
+								"noSell": true,
+								"noTrade": true
+							},
+							"noAuction": false,
+							"noBank": false,
+							"noChest": false,
+							"noDecon": false,
+							"noDrop": false,
+							"noSell": false,
+							"noTrade": false
+						}
 					},
-					"old": {
-						"$type": "/v1/characters/inventory/inventory-item-flags",
-						"canSet": {
-							"noDecon": true,
-							"noDrop": true,
-							"noSell": true,
-							"noTrade": true
+					"moved": {
+						"$type": "/v1/characters/inventory/deltas/inventory-item-moved-delta",
+						"new": {
+							"$type": "/v1/maps/buildings/items/building-item-storage-location",
+							"buildingItem": 703788,
+							"location": "storage"
 						},
-						"noAuction": false,
-						"noBank": false,
-						"noChest": false,
-						"noDecon": false,
-						"noDrop": false,
-						"noSell": false,
-						"noTrade": false
-					}
-				}
-			]
-		],
-		"moved": [
-			[
-				1000,
-				{
-					"$type": "/v1/characters/inventory/deltas/inventory-item-moved-delta",
-					"new": {
-						"$type": "/v1/maps/buildings/items/building-item-storage-location",
-						"buildingItem": 703788,
-						"location": "storage"
+						"old": {
+							"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
+							"character": 56694456,
+							"location": "sellbag"
+						}
 					},
-					"old": {
-						"$type": "/v1/characters/inventory/character-inventory-item-location-in-bag",
-						"character": 56694456,
-						"location": "sellbag"
+					"nickname": {
+						"$type": "/v1/characters/inventory/deltas/inventory-item-nickname-changed-delta",
+						"new": "new nickname",
+						"old": null
+					},
+					"quantity": {
+						"$type": "/v1/characters/inventory/deltas/inventory-item-quantity-changed-delta",
+						"new": 2,
+						"old": 20
 					}
 				}
 			]
-		],
-		"nicknameChanged": [
-			[
-				1000,
-				{
-					"$type": "/v1/characters/inventory/deltas/inventory-item-nickname-changed-delta",
-					"new": "new nickname",
-					"old": null
-				}
-			]
-		],
-		"quantitiesChanged": [
-			[
-				1000,
-				{
-					"$type": "/v1/characters/inventory/deltas/inventory-item-quantity-changed-delta",
-					"new": 2,
-					"old": 20
-				}
-			]
-		],
-		"removed": [1001]
+		]
 	}
 }
