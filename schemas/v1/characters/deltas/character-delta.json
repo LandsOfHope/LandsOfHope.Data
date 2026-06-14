@@ -6,16 +6,16 @@
 		"$type": {
 			"const": "/v1/characters/deltas/character-delta"
 		},
-		"appearanceChanged": {
+		"appearance": {
 			"$ref": "/schemas/v1/characters/deltas/character-appearance-changed-delta.json"
 		},
-		"currencyChanged": {
+		"currency": {
 			"$ref": "/schemas/v1/characters/deltas/character-currency-delta.json"
 		},
-		"experienceChanged": {
+		"experience": {
 			"$ref": "/schemas/v1/characters/deltas/character-experience-delta.json"
 		},
-		"recipesChanged": {
+		"recipes": {
 			"$ref": "/schemas/v1/characters/deltas/character-recipes-delta.json"
 		},
 		"skills": {

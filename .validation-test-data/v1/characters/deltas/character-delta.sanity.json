@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/characters/deltas/character-delta",
-	"appearanceChanged": {
+	"appearance": {
 		"$type": "/v1/characters/deltas/character-appearance-changed-delta",
 		"new": {
 			"$type": "/v1/characters/appearance-profile",
@@ -23,17 +23,17 @@
 			"title": "fighter"
 		}
 	},
-	"currencyChanged": {
+	"currency": {
 		"$type": "/v1/characters/deltas/character-currency-delta",
 		"new": 150,
 		"old": 100
 	},
-	"experienceChanged": {
+	"experience": {
 		"$type": "/v1/characters/deltas/character-experience-delta",
 		"new": { "$type": "/v1/characters/character-experience", "xp": 5000 },
 		"old": { "$type": "/v1/characters/character-experience", "xp": 4500 }
 	},
-	"recipesChanged": {
+	"recipes": {
 		"$type": "/v1/characters/deltas/character-recipes-delta",
 		"added": ["blacksmithing/sword"],
 		"removed": ["blacksmithing/battle-axe"]
