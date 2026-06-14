@@ -1,0 +1,39 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/deltas/character-delta.json",
+	"additionalProperties": false,
+	"minProperties": 2,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/deltas/character-delta"
+		},
+		"appearanceChanged": {
+			"$ref": "/schemas/v1/characters/deltas/character-appearance-changed-delta.json"
+		},
+		"currencyChanged": {
+			"$ref": "/schemas/v1/characters/deltas/character-currency-delta.json"
+		},
+		"experienceChanged": {
+			"$ref": "/schemas/v1/characters/deltas/character-experience-delta.json"
+		},
+		"recipesChanged": {
+			"$ref": "/schemas/v1/characters/deltas/character-recipes-delta.json"
+		},
+		"skillsChanged": {
+			"additionalProperties": false,
+			"minProperties": 1,
+			"patternProperties": {
+				".*": {
+					"$ref": "/schemas/v1/characters/deltas/character-skill-delta.json"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/skills-id.gen.json"
+			},
+			"title": "CharacterSkillsDelta",
+			"type": "object"
+		}
+	},
+	"required": ["$type"],
+	"title": "CharacterDelta",
+	"type": "object"
+}

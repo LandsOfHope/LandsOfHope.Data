@@ -1,0 +1,64 @@
+{
+	"$type": "/v1/characters/deltas/character-delta",
+	"appearanceChanged": {
+		"$type": "/v1/characters/deltas/character-appearance-changed-delta",
+		"new": {
+			"$type": "/v1/characters/appearance-profile",
+			"image": "sohuf1",
+			"level": {
+				"primary": 1
+			},
+			"name": "World",
+			"sex": "M",
+			"title": "soldier"
+		},
+		"old": {
+			"$type": "/v1/characters/appearance-profile",
+			"image": "sohuf1",
+			"level": {
+				"primary": 50
+			},
+			"name": "World",
+			"sex": "M",
+			"title": "fighter"
+		}
+	},
+	"currencyChanged": {
+		"$type": "/v1/characters/deltas/character-currency-delta",
+		"new": 150,
+		"old": 100
+	},
+	"experienceChanged": {
+		"$type": "/v1/characters/deltas/character-experience-delta",
+		"new": { "$type": "/v1/characters/character-experience", "xp": 5000 },
+		"old": { "$type": "/v1/characters/character-experience", "xp": 4500 }
+	},
+	"recipesChanged": {
+		"$type": "/v1/characters/deltas/character-recipes-delta",
+		"added": ["blacksmithing/sword"],
+		"removed": ["blacksmithing/battle-axe"]
+	},
+	"skillsChanged": {
+		"blacksmithing": {
+			"$type": "/v1/characters/deltas/character-skill-delta",
+			"new": {
+				"$type": "/v1/characters/character-skill",
+				"bonus": {
+					"item": 0,
+					"spell": 0
+				},
+				"limit": 5000,
+				"natural": 5000
+			},
+			"old": {
+				"$type": "/v1/characters/character-skill",
+				"bonus": {
+					"item": 0,
+					"spell": 0
+				},
+				"limit": 5000,
+				"natural": 4999
+			}
+		}
+	}
+}

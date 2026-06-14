@@ -13,57 +13,6 @@
 			"minItems": 1,
 			"type": "array"
 		},
-		"currencyChanged": {
-			"items": {
-				"items": [
-					{
-						"$ref": "/schemas/v1/characters/character-id.json"
-					},
-					{
-						"$ref": "/schemas/v1/characters/deltas/character-currency-delta.json"
-					}
-				],
-				"maxItems": 2,
-				"minItems": 2,
-				"type": "array"
-			},
-			"minItems": 1,
-			"type": "array"
-		},
-		"appearanceChanged": {
-			"items": {
-				"items": [
-					{
-						"$ref": "/schemas/v1/characters/character-id.json"
-					},
-					{
-						"$ref": "/schemas/v1/characters/deltas/character-appearance-changed-delta.json"
-					}
-				],
-				"maxItems": 2,
-				"minItems": 2,
-				"type": "array"
-			},
-			"minItems": 1,
-			"type": "array"
-		},
-		"experienceChanged": {
-			"items": {
-				"items": [
-					{
-						"$ref": "/schemas/v1/characters/character-id.json"
-					},
-					{
-						"$ref": "/schemas/v1/characters/deltas/character-experience-delta.json"
-					}
-				],
-				"maxItems": 2,
-				"minItems": 2,
-				"type": "array"
-			},
-			"minItems": 1,
-			"type": "array"
-		},
 		"removed": {
 			"items": {
 				"$ref": "/schemas/v1/characters/character-id.json"
@@ -72,14 +21,14 @@
 			"type": "array",
 			"uniqueItems": true
 		},
-		"skillChanged": {
+		"updated": {
 			"items": {
 				"items": [
 					{
 						"$ref": "/schemas/v1/characters/character-id.json"
 					},
 					{
-						"$ref": "/schemas/v1/characters/deltas/character-skill-delta.json"
+						"$ref": "/schemas/v1/characters/deltas/character-delta.json"
 					}
 				],
 				"maxItems": 2,

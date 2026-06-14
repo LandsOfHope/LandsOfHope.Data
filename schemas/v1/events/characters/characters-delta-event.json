@@ -6,8 +6,8 @@
 			"const": "/v1/events/characters/characters-delta-event"
 		},
 		"delta": {
-            "$ref": "/schemas/v1/characters/deltas/characters-delta.json"
-        }
+			"$ref": "/schemas/v1/characters/deltas/characters-delta.json"
+		}
 	},
 	"required": ["$type", "delta"],
 	"title": "CharactersDeltaEvent",

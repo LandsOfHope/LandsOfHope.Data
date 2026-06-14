@@ -1,0 +1,29 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/deltas/character-recipes-delta.json",
+	"additionalProperties": false,
+	"minProperties": 2,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/deltas/character-recipes-delta"
+		},
+		"added": {
+			"items": {
+				"$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
+			},
+			"minItems": 1,
+			"type": "array",
+			"uniqueItems": true
+		},
+		"removed": {
+			"items": {
+				"$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
+			},
+			"minItems": 1,
+			"type": "array",
+			"uniqueItems": true
+		}
+	},
+	"required": ["$type", "added", "removed"],
+	"title": "CharacterRecipesDelta",
+	"type": "object"
+}

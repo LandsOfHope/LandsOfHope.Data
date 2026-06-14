@@ -413,6 +413,8 @@ const main = async () =>
 		validateTestData("v1/characters/search/character-search-condition"),
 		validateNegativeTestData("v1/characters/search/character-search-condition"),
 		validateTestData("v1/characters/settings/character-settings"),
+		validateTestData("v1/characters/deltas/character-delta"),
+		validateTestData("v1/characters/deltas/characters-delta"),
 		validateTestData("v1/chat/chat-mention"),
 		validateTestData("v1/chat/chat-message"),
 		validateTestData("v1/chat/chat-settings"),
