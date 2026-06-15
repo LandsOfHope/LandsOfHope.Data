@@ -13,6 +13,14 @@
 			"minItems": 1,
 			"type": "array"
 		},
+		"removed": {
+			"items": {
+				"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
+			},
+			"minItems": 1,
+			"type": "array",
+			"uniqueItems": true
+		},
 		"updated": {
 			"items": {
 				"items": [
@@ -29,14 +37,6 @@
 			},
 			"minItems": 1,
 			"type": "array"
-		},
-		"removed": {
-			"items": {
-				"$ref": "/schemas/v1/characters/inventory/inventory-item-id.json"
-			},
-			"minItems": 1,
-			"type": "array",
-			"uniqueItems": true
 		}
 	},
 	"required": ["$type"],

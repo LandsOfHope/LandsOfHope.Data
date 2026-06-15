@@ -5,11 +5,11 @@
 		"$type": {
 			"const": "/v1/random-roll-result"
 		},
-		"result": {
-			"type": "boolean"
-		},
 		"chance": {
 			"$ref": "/schemas/v1/random-chance.json"
+		},
+		"result": {
+			"type": "boolean"
 		},
 		"roll": {
 			"type": "integer"
