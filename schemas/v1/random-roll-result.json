@@ -1,0 +1,21 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/random-roll-result.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/random-roll-result"
+		},
+		"result": {
+			"type": "boolean"
+		},
+		"chance": {
+			"$ref": "/schemas/v1/random-chance.json"
+		},
+		"roll": {
+			"type": "integer"
+		}
+	},
+	"required": ["$type", "result", "chance", "roll"],
+	"title": "RandomRollResult",
+	"type": "object"
+}
