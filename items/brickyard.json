@@ -3,6 +3,9 @@
 	"baseValue": 4576,
 	"id": "brickyard",
 	"image": "ro",
+	"level": {
+		"min": 650
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

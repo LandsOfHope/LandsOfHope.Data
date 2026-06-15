@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "big-budda-boom",
 	"image": "6330",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

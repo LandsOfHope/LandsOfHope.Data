@@ -4,6 +4,9 @@
 	"baseValue": 2824,
 	"id": "foresters-sleeves",
 	"image": "2975",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

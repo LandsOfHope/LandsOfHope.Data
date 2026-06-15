@@ -4,6 +4,9 @@
 	"baseValue": 5619,
 	"id": "darkness-gloves",
 	"image": "2879",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

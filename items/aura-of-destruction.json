@@ -3,6 +3,9 @@
 	"baseValue": 10000,
 	"id": "aura-of-destruction",
 	"image": "6901",
+	"level": {
+		"min": 1000
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1.5

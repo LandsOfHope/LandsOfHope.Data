@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "deamon-bone-staff",
 	"image": "dbstaff",
+	"level": {
+		"min": 60
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

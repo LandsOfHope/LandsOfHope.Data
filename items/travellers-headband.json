@@ -4,6 +4,9 @@
 	"baseValue": 250,
 	"id": "travellers-headband",
 	"image": "4533",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1

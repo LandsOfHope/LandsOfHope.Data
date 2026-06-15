@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "large-deadly-shield",
 	"image": "sda",
+	"level": {
+		"min": 700
+	},
 	"material": "wood",
 	"skill": "two-handed-shields",
 	"skills": {

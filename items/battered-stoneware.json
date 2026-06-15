@@ -3,6 +3,9 @@
 	"baseValue": 150,
 	"id": "battered-stoneware",
 	"image": "baw",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

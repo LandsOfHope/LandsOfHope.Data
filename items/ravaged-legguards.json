@@ -4,6 +4,9 @@
 	"baseValue": 722,
 	"id": "ravaged-legguards",
 	"image": "2532",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

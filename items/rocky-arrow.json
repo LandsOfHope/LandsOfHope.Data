@@ -4,6 +4,9 @@
 	"dpr": 74,
 	"id": "rocky-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 721
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

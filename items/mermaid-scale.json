@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "mermaid-scale",
 	"image": "scale02",
+	"level": {
+		"min": 420
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

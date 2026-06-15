@@ -4,6 +4,9 @@
 	"dpr": 56,
 	"id": "soaking-potion",
 	"image": "pe5",
+	"level": {
+		"min": 547
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

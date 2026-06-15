@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "tainted-blood-axe",
 	"image": "ax13",
+	"level": {
+		"min": 25
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

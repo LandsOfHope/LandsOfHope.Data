@@ -4,6 +4,9 @@
 	"dpr": 19,
 	"id": "dragon-cannon",
 	"image": "ss2",
+	"level": {
+		"min": 175
+	},
 	"material": "metal",
 	"skill": "siege-weapons",
 	"skills": {

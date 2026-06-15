@@ -4,6 +4,9 @@
 	"baseValue": 463,
 	"id": "holy-sleeves",
 	"image": "gmhosl",
+	"level": {
+		"min": 65
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

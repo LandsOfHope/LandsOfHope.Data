@@ -4,6 +4,9 @@
 	"baseValue": 28,
 	"id": "simple-boots",
 	"image": "3095",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

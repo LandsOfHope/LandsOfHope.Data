@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "bloody-halberd",
 	"image": "hal",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

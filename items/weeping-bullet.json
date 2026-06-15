@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "weeping-bullet",
 	"image": "zuwebu",
+	"level": {
+		"min": 601
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"dpr": 93,
 	"id": "iced-potion",
 	"image": "pe5",
+	"level": {
+		"min": 911
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

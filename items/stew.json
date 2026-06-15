@@ -3,6 +3,9 @@
 	"baseValue": 481,
 	"id": "stew",
 	"image": "stw.jpg",
+	"level": {
+		"min": 960
+	},
 	"material": "hide",
 	"properties": {
 		"STAMINA": 3

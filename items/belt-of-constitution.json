@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "belt-of-constitution",
 	"image": "pbelt1",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

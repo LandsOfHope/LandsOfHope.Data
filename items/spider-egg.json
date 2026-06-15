@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "spider-egg",
 	"image": "6268",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

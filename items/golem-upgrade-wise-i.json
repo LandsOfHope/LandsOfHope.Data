@@ -3,6 +3,9 @@
 	"baseValue": 5,
 	"id": "golem-upgrade-wise-i",
 	"image": "2699",
+	"level": {
+		"min": 5
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "golem-parts"

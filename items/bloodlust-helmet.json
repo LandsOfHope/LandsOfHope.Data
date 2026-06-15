@@ -4,6 +4,9 @@
 	"baseValue": 18,
 	"id": "bloodlust-helmet",
 	"image": "6510",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

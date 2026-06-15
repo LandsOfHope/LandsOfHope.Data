@@ -4,6 +4,9 @@
 	"baseValue": 360,
 	"id": "cadet-plate-helmet",
 	"image": "2398",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

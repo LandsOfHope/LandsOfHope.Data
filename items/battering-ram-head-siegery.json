@@ -3,6 +3,9 @@
 	"baseValue": 6324,
 	"id": "battering-ram-head-siegery",
 	"image": "brh",
+	"level": {
+		"min": 900
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

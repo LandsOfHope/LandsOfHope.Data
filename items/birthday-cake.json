@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "birthday-cake",
 	"image": "ce2",
+	"level": {
+		"min": 1
+	},
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 1,

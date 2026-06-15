@@ -3,6 +3,9 @@
 	"baseValue": 535,
 	"id": "sparkling-small-bag",
 	"image": "zuspsmba",
+	"level": {
+		"min": 75
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "good-spawner"

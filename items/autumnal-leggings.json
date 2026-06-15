@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "autumnal-leggings",
 	"image": "jwadp",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skills": {
 		"armor": 1

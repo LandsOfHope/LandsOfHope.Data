@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "deadly-hammer",
 	"image": "sle",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

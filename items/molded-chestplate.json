@@ -4,6 +4,9 @@
 	"baseValue": 2474,
 	"id": "molded-chestplate",
 	"image": "4420",
+	"level": {
+		"min": 350
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

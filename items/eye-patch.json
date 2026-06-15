@@ -4,6 +4,9 @@
 	"baseValue": 3525,
 	"id": "eye-patch",
 	"image": "eyp",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "twisted-heart-mace",
 	"image": "nmc",
+	"level": {
+		"min": 80
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1,

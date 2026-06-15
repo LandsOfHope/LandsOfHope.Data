@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "arena-dungeon-key",
 	"image": "gmarduke",
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "arena-dungeon-key"

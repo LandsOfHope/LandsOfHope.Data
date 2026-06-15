@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "balanced-pistol",
 	"image": "pl1",
+	"level": {
+		"min": 5
+	},
 	"material": "stone",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "pink-ninja-star",
 	"image": "6407",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

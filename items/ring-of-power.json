@@ -3,6 +3,9 @@
 	"baseValue": 1739,
 	"id": "ring-of-power",
 	"image": "rgi",
+	"level": {
+		"min": 245
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,

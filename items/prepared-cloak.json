@@ -4,6 +4,9 @@
 	"baseValue": 3100,
 	"id": "prepared-cloak",
 	"image": "pclo15",
+	"level": {
+		"min": 430
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXMANA": 1

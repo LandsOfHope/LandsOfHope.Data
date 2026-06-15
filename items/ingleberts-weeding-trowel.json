@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "ingleberts-weeding-trowel",
 	"image": "5952",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skill": "foraging",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 32,
 	"id": "prized-statue-of-st-josephine",
 	"image": "ans",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "stolen-item-medium"
 }

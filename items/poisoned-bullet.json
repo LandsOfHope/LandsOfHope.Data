@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "poisoned-bullet",
 	"image": "zupobu",
+	"level": {
+		"min": 46
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

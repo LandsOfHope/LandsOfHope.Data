@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "cookies",
 	"image": "c2k",
+	"level": {
+		"min": 55
+	},
 	"material": "crop",
 	"properties": {
 		"MANA": 1

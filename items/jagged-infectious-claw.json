@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "jagged-infectious-claw",
 	"image": "cuh",
+	"level": {
+		"min": 20
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

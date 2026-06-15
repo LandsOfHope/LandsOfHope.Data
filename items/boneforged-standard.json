@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "boneforged-standard",
 	"image": "zsgc2",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"HITPOINTS": 1,

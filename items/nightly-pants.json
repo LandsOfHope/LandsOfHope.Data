@@ -4,6 +4,9 @@
 	"baseValue": 2127,
 	"id": "nightly-pants",
 	"image": "3049",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

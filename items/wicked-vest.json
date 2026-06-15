@@ -4,6 +4,9 @@
 	"baseValue": 4220,
 	"id": "wicked-vest",
 	"image": "2570",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

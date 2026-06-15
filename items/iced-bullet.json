@@ -4,6 +4,9 @@
 	"dpr": 95,
 	"id": "iced-bullet",
 	"image": "zuicbu",
+	"level": {
+		"min": 931
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

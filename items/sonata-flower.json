@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "sonata-flower",
 	"image": "5753",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

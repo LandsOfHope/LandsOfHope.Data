@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "exile-emissary-key",
 	"image": "ky3",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "key"

@@ -4,6 +4,9 @@
 	"dpr": 65,
 	"id": "razor-snowflake",
 	"image": "zurasn",
+	"level": {
+		"min": 630
+	},
 	"material": "metal",
 	"skill": "thrown-weapons",
 	"skills": {

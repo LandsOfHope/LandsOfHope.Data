@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "rocky-dart",
 	"image": "drt",
+	"level": {
+		"min": 706
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2123,
 	"id": "bejewelled-legplates",
 	"image": "2281",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

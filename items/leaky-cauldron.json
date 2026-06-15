@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "leaky-cauldron",
 	"image": "6287",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

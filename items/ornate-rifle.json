@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-rifle",
 	"image": "re1",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skill": "two-handed-guns",
 	"skills": {

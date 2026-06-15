@@ -4,6 +4,9 @@
 	"baseValue": 1425,
 	"id": "blessed-chain-coif",
 	"image": "2665",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

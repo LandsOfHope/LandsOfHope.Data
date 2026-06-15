@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-ghostly-gloves",
 	"image": "3844",
+	"level": {
+		"min": 610
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

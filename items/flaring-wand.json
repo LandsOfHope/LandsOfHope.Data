@@ -4,6 +4,9 @@
 	"dpr": 57,
 	"id": "flaring-wand",
 	"image": "wand09",
+	"level": {
+		"min": 556
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

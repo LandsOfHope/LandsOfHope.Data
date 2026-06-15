@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "ladybird-pupae-patch",
 	"image": "gmlapupa",
+	"level": {
+		"min": 250
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

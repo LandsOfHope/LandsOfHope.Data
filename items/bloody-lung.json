@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "bloody-lung",
 	"image": "6339",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "trophy"

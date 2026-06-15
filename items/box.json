@@ -3,6 +3,9 @@
 	"baseValue": 723,
 	"id": "box",
 	"image": "bx",
+	"level": {
+		"min": 100
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "spawner"

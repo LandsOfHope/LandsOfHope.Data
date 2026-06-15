@@ -4,6 +4,9 @@
 	"baseValue": 539,
 	"id": "spiked-helmet",
 	"image": "1848",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

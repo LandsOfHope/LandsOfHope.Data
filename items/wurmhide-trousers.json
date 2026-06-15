@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "wurmhide-trousers",
 	"image": "5827",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

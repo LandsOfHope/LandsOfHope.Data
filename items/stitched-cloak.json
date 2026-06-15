@@ -4,6 +4,9 @@
 	"baseValue": 2400,
 	"id": "stitched-cloak",
 	"image": "pclo12",
+	"level": {
+		"min": 330
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

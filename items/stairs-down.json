@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "stairs-down",
 	"image": "us2",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "ladder"

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "barrel",
 	"image": "bl1",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skill": "siege-weapons",
 	"skills": {

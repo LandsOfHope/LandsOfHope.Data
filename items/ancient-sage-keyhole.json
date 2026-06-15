@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-sage-keyhole",
 	"image": "6456",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "item-use-door"
 }

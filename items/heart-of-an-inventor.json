@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "heart-of-an-inventor",
 	"image": "6859",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

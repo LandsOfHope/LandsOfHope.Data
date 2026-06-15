@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "frostden-pelt-cloak",
 	"image": "5008",
+	"level": {
+		"min": 680
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

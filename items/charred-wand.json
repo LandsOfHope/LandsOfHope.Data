@@ -4,6 +4,9 @@
 	"dpr": 17,
 	"id": "charred-wand",
 	"image": "wand11",
+	"level": {
+		"min": 151
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

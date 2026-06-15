@@ -4,6 +4,9 @@
 	"baseValue": 5622,
 	"id": "regal-trousers",
 	"image": "3073",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

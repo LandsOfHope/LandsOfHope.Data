@@ -3,6 +3,9 @@
 	"baseValue": 1496,
 	"id": "necklace-of-the-summoners",
 	"image": "zunesu",
+	"level": {
+		"min": 210
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

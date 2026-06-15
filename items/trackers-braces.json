@@ -4,6 +4,9 @@
 	"baseValue": 3513,
 	"id": "trackers-braces",
 	"image": "2998",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

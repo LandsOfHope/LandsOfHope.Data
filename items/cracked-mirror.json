@@ -3,6 +3,9 @@
 	"baseValue": 160,
 	"id": "cracked-mirror",
 	"image": "ccm",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

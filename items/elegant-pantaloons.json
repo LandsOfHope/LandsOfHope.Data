@@ -4,6 +4,9 @@
 	"baseValue": 1216,
 	"id": "elegant-pantaloons",
 	"image": "1843",
+	"level": {
+		"min": 170
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1,

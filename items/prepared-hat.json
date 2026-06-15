@@ -4,6 +4,9 @@
 	"baseValue": 3000,
 	"id": "prepared-hat",
 	"image": "what6",
+	"level": {
+		"min": 410
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXMANA": 1

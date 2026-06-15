@@ -4,6 +4,9 @@
 	"baseValue": 18,
 	"id": "mask-of-quickness",
 	"image": "mask2",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

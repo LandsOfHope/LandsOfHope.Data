@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "dwarven-pistol",
 	"image": "pl1",
+	"level": {
+		"min": 15
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

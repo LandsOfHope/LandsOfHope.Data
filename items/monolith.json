@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "monolith",
 	"image": "zusrum",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1,
 	"type": "anniversary-gift"

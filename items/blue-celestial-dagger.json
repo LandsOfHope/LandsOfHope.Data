@@ -4,6 +4,9 @@
 	"dpr": 12,
 	"id": "blue-celestial-dagger",
 	"image": "5998",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"properties": {
 		"MAXMANA": 1

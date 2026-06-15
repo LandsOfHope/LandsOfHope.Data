@@ -4,6 +4,9 @@
 	"baseValue": 29,
 	"id": "mask-of-valor",
 	"image": "zumava",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

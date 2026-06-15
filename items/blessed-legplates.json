@@ -4,6 +4,9 @@
 	"baseValue": 1421,
 	"id": "blessed-legplates",
 	"image": "2280",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "triangular-prism-piece",
 	"image": "6528",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "stealth-blade",
 	"image": "drk",
+	"level": {
+		"min": 80
+	},
 	"material": "stone",
 	"properties": {
 		"MAXSTAMINA": 1

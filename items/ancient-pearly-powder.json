@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-pearly-powder",
 	"image": "6435",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

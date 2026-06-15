@@ -4,6 +4,9 @@
 	"dpr": 77,
 	"id": "hailing-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 751
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

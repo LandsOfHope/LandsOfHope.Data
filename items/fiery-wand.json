@@ -4,6 +4,9 @@
 	"dpr": 87,
 	"id": "fiery-wand",
 	"image": "wand08",
+	"level": {
+		"min": 856
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

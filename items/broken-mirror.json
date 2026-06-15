@@ -3,6 +3,9 @@
 	"baseValue": 280,
 	"id": "broken-mirror",
 	"image": "bnm",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

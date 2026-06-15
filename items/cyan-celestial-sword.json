@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "cyan-celestial-sword",
 	"image": "6008",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "celestial-weapons",
 	"skills": {

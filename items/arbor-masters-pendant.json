@@ -3,6 +3,9 @@
 	"baseValue": 853,
 	"id": "arbor-masters-pendant",
 	"image": "amp",
+	"level": {
+		"min": 120
+	},
 	"material": "wood",
 	"properties": {
 		"STRENGTH": 1

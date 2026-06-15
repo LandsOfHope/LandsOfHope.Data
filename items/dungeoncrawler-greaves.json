@@ -4,6 +4,9 @@
 	"baseValue": 441,
 	"id": "dungeoncrawler-greaves",
 	"image": "clt",
+	"level": {
+		"min": 70
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

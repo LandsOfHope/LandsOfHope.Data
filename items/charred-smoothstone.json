@@ -4,6 +4,9 @@
 	"dpr": 17,
 	"id": "charred-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 151
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

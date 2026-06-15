@@ -4,6 +4,9 @@
 	"dpr": 15,
 	"id": "oozing-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 136
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

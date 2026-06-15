@@ -3,6 +3,9 @@
 	"baseValue": 210,
 	"id": "blighted-neck-bone",
 	"image": "blb",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

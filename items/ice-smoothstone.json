@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "ice-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 61
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

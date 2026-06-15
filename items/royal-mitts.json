@@ -4,6 +4,9 @@
 	"baseValue": 6663,
 	"id": "royal-mitts",
 	"image": "3144",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

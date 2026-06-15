@@ -4,6 +4,9 @@
 	"baseValue": 954,
 	"id": "foul-skirt",
 	"image": "cskirt5",
+	"level": {
+		"min": 135
+	},
 	"material": "hide",
 	"properties": {
 		"SPEED": 1

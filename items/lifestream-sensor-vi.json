@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "lifestream-sensor-vi",
 	"image": "6226",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

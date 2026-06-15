@@ -3,6 +3,9 @@
 	"baseValue": 2080,
 	"id": "chipped-bowl",
 	"image": "abl2",
+	"level": {
+		"min": 295
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

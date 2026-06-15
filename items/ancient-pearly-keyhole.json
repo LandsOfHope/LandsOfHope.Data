@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-pearly-keyhole",
 	"image": "6455",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "item-use-door"
 }

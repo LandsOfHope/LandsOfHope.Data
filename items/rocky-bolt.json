@@ -4,6 +4,9 @@
 	"dpr": 69,
 	"id": "rocky-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 676
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

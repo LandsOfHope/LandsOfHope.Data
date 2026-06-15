@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "plan-adept-toolbox",
 	"image": "bk4",
+	"level": {
+		"min": 350
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "training-aid-plan"

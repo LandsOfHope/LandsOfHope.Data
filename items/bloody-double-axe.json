@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "bloody-double-axe",
 	"image": "ax12",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

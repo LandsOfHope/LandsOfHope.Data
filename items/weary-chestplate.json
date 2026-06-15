@@ -4,6 +4,9 @@
 	"baseValue": 929,
 	"id": "weary-chestplate",
 	"image": "4455",
+	"level": {
+		"min": 130
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

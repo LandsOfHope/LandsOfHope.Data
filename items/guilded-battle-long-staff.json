@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-long-staff",
 	"image": "sf",
+	"level": {
+		"min": 410
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

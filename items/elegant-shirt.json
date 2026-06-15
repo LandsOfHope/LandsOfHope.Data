@@ -4,6 +4,9 @@
 	"baseValue": 1133,
 	"id": "elegant-shirt",
 	"image": "1841",
+	"level": {
+		"min": 160
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,

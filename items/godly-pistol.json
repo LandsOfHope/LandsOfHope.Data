@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-pistol",
 	"image": "pl1",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

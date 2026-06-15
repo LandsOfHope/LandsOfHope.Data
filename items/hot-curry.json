@@ -3,6 +3,9 @@
 	"baseValue": 441,
 	"id": "hot-curry",
 	"image": "stw.jpg",
+	"level": {
+		"min": 880
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 3

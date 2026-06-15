@@ -3,6 +3,9 @@
 	"baseValue": 12,
 	"id": "crafters-glasses",
 	"image": "854",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "artisan",
 	"stackLimit": 1,

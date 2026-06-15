@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "lethal-crossbow",
 	"image": "xw2",
+	"level": {
+		"min": 600
+	},
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {

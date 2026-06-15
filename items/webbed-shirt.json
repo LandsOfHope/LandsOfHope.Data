@@ -4,6 +4,9 @@
 	"baseValue": 443,
 	"id": "webbed-shirt",
 	"image": "2083",
+	"level": {
+		"min": 60
+	},
 	"material": "spider",
 	"properties": {
 		"MAXSTAMINA": 1

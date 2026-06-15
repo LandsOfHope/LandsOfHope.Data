@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "recyclatron",
 	"image": "6504",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "dark-depths-recycletron"
 }

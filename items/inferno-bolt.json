@@ -4,6 +4,9 @@
 	"dpr": 90,
 	"id": "inferno-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 886
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

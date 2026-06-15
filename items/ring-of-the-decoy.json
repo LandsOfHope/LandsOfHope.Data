@@ -3,6 +3,9 @@
 	"baseValue": 2117,
 	"id": "ring-of-the-decoy",
 	"image": "ring12",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

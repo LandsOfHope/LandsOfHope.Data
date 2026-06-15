@@ -4,6 +4,9 @@
 	"baseValue": 5621,
 	"id": "regal-leggings",
 	"image": "3063",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

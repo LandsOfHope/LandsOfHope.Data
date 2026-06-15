@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "thread",
 	"image": "thd",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1000,
 	"type": "tailoring-thread-material"

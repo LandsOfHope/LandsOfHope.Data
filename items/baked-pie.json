@@ -3,6 +3,9 @@
 	"baseValue": 391,
 	"id": "baked-pie",
 	"image": "bdp",
+	"level": {
+		"min": 780
+	},
 	"material": "hide",
 	"properties": {
 		"STAMINA": 2

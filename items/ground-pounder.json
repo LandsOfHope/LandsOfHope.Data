@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "ground-pounder",
 	"image": "st1",
+	"level": {
+		"min": 70
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"dpr": 66,
 	"id": "crushing-dart",
 	"image": "drt",
+	"level": {
+		"min": 646
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

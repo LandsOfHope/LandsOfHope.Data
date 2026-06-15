@@ -4,6 +4,9 @@
 	"baseValue": 311,
 	"id": "recruits-shoulderchains",
 	"image": "2738",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

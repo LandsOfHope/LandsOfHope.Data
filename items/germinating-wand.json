@@ -4,6 +4,9 @@
 	"dpr": 38,
 	"id": "germinating-wand",
 	"image": "wand03",
+	"level": {
+		"min": 361
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

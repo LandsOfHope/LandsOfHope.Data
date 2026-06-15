@@ -4,6 +4,9 @@
 	"baseValue": 781,
 	"id": "sparkling-sleeves",
 	"image": "575",
+	"level": {
+		"min": 110
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

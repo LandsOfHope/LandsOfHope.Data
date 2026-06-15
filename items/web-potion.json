@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "web-potion",
 	"image": "pe5",
+	"level": {
+		"min": 71
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

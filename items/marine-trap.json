@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "marine-trap",
 	"image": "zumatr",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "marine-tool"

@@ -3,6 +3,9 @@
 	"baseValue": 361,
 	"id": "cake",
 	"image": "ce3",
+	"level": {
+		"min": 720
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 2

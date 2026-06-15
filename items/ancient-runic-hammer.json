@@ -4,6 +4,9 @@
 	"dpr": 12,
 	"id": "ancient-runic-hammer",
 	"image": "hr2",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

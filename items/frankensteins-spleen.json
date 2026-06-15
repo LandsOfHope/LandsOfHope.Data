@@ -4,6 +4,9 @@
 	"baseValue": 1,
 	"id": "frankensteins-spleen",
 	"image": "6343",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 6673,
 	"id": "royal-hat",
 	"image": "3164",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "pirate-map-piece-45",
 	"image": "puz45",
+	"level": {
+		"min": 1
+	},
 	"material": "color",
 	"stackLimit": 1,
 	"type": "pirate-puzzle"

@@ -3,6 +3,9 @@
 	"baseValue": 190,
 	"id": "worm-eaten-rib-bone",
 	"image": "1015",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

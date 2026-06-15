@@ -4,6 +4,9 @@
 	"baseValue": 1285,
 	"id": "sooty-trousers",
 	"image": "zusotr",
+	"level": {
+		"min": 180
+	},
 	"material": "cloth",
 	"skills": {
 		"cold-resistance": 1,

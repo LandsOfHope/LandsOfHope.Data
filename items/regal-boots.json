@@ -4,6 +4,9 @@
 	"baseValue": 5611,
 	"id": "regal-boots",
 	"image": "3103",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

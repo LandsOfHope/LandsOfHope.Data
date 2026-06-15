@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "green-control-box",
 	"image": "6451",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "item-use-door"
 }

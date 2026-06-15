@@ -3,6 +3,9 @@
 	"baseValue": 1070,
 	"id": "chest",
 	"image": "ct3",
+	"level": {
+		"min": 150
+	},
 	"material": "metal",
 	"skills": {
 		"bladed-defense": 1

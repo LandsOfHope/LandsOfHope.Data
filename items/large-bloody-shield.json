@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "large-bloody-shield",
 	"image": "sda",
+	"level": {
+		"min": 500
+	},
 	"material": "wood",
 	"properties": {
 		"MAXHITPOINTS": 1

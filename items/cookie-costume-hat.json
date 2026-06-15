@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "cookie-costume-hat",
 	"image": "cmhat",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"set": "cookie-costume",
 	"skill": "artisan",

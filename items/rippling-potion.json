@@ -4,6 +4,9 @@
 	"dpr": 90,
 	"id": "rippling-potion",
 	"image": "pe5",
+	"level": {
+		"min": 883
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

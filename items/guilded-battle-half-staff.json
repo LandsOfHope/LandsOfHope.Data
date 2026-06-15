@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-half-staff",
 	"image": "st1",
+	"level": {
+		"min": 410
+	},
 	"material": "wood",
 	"skill": "staves",
 	"skills": {

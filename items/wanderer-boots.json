@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "wanderer-boots",
 	"image": "5257",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skill": "myzan-navy",
 	"skills": {

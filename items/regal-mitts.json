@@ -4,6 +4,9 @@
 	"baseValue": 5624,
 	"id": "regal-mitts",
 	"image": "3143",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

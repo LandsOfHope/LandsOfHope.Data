@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "blank-severed-chestpiece",
 	"image": "6840",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 0.6

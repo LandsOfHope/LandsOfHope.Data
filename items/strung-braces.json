@@ -4,6 +4,9 @@
 	"baseValue": 541,
 	"id": "strung-braces",
 	"image": "2993",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "arm-armour"

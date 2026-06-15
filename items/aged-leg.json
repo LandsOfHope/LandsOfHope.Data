@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "aged-leg",
 	"image": "age",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"skill": "maces",
 	"skills": {

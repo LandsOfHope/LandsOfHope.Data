@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "glacial-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 406
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

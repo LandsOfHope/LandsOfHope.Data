@@ -4,6 +4,9 @@
 	"baseValue": 32,
 	"id": "tanned-vest",
 	"image": "2826",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

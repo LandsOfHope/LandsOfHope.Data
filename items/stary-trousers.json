@@ -4,6 +4,9 @@
 	"baseValue": 1414,
 	"id": "stary-trousers",
 	"image": "3068",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

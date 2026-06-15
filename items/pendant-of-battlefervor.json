@@ -3,6 +3,9 @@
 	"baseValue": 1282,
 	"id": "pendant-of-battlefervor",
 	"image": "pdt",
+	"level": {
+		"min": 180
+	},
 	"material": "gem",
 	"skills": {
 		"frenzy": 1

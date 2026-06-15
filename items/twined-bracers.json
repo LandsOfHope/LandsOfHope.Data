@@ -4,6 +4,9 @@
 	"baseValue": 5691,
 	"id": "twined-bracers",
 	"image": "cbs",
+	"level": {
+		"min": 810
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

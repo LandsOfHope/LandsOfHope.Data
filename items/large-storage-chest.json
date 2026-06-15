@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "large-storage-chest",
 	"image": "zulastch",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "storage-box"

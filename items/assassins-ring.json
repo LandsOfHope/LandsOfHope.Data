@@ -3,6 +3,9 @@
 	"baseValue": 54,
 	"id": "assassins-ring",
 	"image": "asr",
+	"level": {
+		"min": 5
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

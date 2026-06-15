@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "cooked-crab",
 	"image": "gmcocr",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 1

@@ -4,6 +4,9 @@
 	"baseValue": 65,
 	"id": "tanned-chaps",
 	"image": "502",
+	"level": {
+		"min": 8
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

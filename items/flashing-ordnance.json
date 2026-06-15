@@ -4,6 +4,9 @@
 	"dpr": 67,
 	"id": "flashing-ordnance",
 	"image": "ss6",
+	"level": {
+		"min": 650
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

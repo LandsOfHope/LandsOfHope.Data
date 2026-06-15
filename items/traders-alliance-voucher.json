@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "traders-alliance-voucher",
 	"image": "tiv",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "money-deed"

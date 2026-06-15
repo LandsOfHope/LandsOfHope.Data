@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "dahlia-bud-earring",
 	"image": "1187",
+	"level": {
+		"min": 135
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

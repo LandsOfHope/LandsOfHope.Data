@@ -4,6 +4,9 @@
 	"baseValue": 6669,
 	"id": "commanders-shoulder-pads",
 	"image": "2759",
+	"level": {
+		"min": 950
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "stick",
 	"image": "sk1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "maces",
 	"skills": {

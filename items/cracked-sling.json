@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "cracked-sling",
 	"image": "crs",
+	"level": {
+		"min": 55
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

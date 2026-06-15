@@ -4,6 +4,9 @@
 	"baseValue": 2115,
 	"id": "nightly-shoulders",
 	"image": "3249",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

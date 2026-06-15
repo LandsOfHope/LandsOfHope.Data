@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "box-of-fine-china",
 	"image": "gmbofich",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "quest-item"

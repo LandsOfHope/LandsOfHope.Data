@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "enchanted-collar",
 	"image": "gmenco",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

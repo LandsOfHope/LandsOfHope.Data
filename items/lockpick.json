@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "lockpick",
 	"image": "be7",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "lockpicking",
 	"skills": {

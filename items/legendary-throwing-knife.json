@@ -5,6 +5,9 @@
 	"id": "legendary-throwing-knife",
 	"image": "gmlethkn",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "gem",
 	"properties": {
 		"SPEED": 1,

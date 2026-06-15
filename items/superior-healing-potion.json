@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "superior-healing-potion",
 	"image": "pr1",
+	"level": {
+		"min": 600
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 3.25

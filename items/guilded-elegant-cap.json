@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-elegant-cap",
 	"image": "3927",
+	"level": {
+		"min": 610
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

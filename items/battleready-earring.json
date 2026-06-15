@@ -4,6 +4,9 @@
 	"baseValue": 11,
 	"id": "battleready-earring",
 	"image": "858",
+	"level": {
+		"min": 550
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,

@@ -4,6 +4,9 @@
 	"dpr": 77,
 	"id": "fragmenting-ordnance",
 	"image": "ss6",
+	"level": {
+		"min": 750
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

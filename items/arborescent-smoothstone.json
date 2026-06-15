@@ -4,6 +4,9 @@
 	"dpr": 50,
 	"id": "arborescent-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 481
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

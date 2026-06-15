@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "scales-of-worth",
 	"image": "zuscwo",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "vendor-upgrade"

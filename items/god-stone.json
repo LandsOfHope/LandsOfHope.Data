@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "god-stone",
 	"image": "6684",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "god-tablet"

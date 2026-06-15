@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "valentines-day-flowers",
 	"image": "flr",
+	"level": {
+		"min": 1
+	},
 	"material": "berry",
 	"stackLimit": 1,
 	"type": "plants"

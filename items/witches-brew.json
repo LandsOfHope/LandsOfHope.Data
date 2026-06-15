@@ -3,6 +3,9 @@
 	"baseValue": 18,
 	"id": "witches-brew",
 	"image": "zushwb",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "halloween-2007"
 }

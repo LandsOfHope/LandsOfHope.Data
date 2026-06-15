@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "enchanted-chest",
 	"image": "sc3",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "rare-spawner"

@@ -4,6 +4,9 @@
 	"baseValue": 4209,
 	"id": "elegant-leggings",
 	"image": "3062",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

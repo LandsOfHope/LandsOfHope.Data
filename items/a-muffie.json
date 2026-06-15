@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "a-muffie",
 	"image": "6739",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

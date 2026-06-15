@@ -4,6 +4,9 @@
 	"baseValue": 4214,
 	"id": "ghostly-cap",
 	"image": "2922",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

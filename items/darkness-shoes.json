@@ -4,6 +4,9 @@
 	"baseValue": 5620,
 	"id": "darkness-shoes",
 	"image": "2857",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

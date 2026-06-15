@@ -4,6 +4,9 @@
 	"dpr": 27,
 	"id": "chilling-wand",
 	"image": "wand13",
+	"level": {
+		"min": 256
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

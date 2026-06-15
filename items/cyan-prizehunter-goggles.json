@@ -3,6 +3,9 @@
 	"baseValue": 6000,
 	"id": "cyan-prizehunter-goggles",
 	"image": "6256",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

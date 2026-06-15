@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "pile-of-fertile-soil",
 	"image": "soil",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "seeds-and-soil"
 }

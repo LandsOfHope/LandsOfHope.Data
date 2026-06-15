@@ -4,6 +4,9 @@
 	"baseValue": 2824,
 	"id": "enblazened-pants",
 	"image": "3050",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

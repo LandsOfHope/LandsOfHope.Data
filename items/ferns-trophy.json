@@ -3,6 +3,9 @@
 	"baseValue": 300,
 	"id": "ferns-trophy",
 	"image": "5709",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "boss-trophy"

@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "frayed-rope",
 	"image": "zufrro",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "rope-ship-resource"
 }

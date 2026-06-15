@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "portalstone",
 	"image": "po1",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skill": "portal-mastery",
 	"stackLimit": 1000,

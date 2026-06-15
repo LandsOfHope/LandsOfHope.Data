@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "devourers-might",
 	"image": "zudemi",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

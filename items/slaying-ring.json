@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "slaying-ring",
 	"image": "6908",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 0.6,

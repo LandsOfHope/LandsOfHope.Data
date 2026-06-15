@@ -4,6 +4,9 @@
 	"dpr": 12,
 	"id": "sword-of-might",
 	"image": "zuswmi",
+	"level": {
+		"min": 100
+	},
 	"material": "gem",
 	"skill": "swords",
 	"skills": {

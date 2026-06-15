@@ -4,6 +4,9 @@
 	"baseValue": 5200,
 	"id": "pressed-cloak",
 	"image": "pclo16",
+	"level": {
+		"min": 730
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1

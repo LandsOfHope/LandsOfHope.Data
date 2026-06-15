@@ -3,6 +3,9 @@
 	"baseValue": 2221,
 	"id": "ring-of-the-infernal-machine",
 	"image": "ring9",
+	"level": {
+		"min": 315
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

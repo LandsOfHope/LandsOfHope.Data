@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "history-of-myzan-ix",
 	"image": "bk1",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "quest-item"

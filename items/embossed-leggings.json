@@ -4,6 +4,9 @@
 	"baseValue": 1426,
 	"id": "embossed-leggings",
 	"image": "2797",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

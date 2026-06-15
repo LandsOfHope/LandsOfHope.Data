@@ -4,6 +4,9 @@
 	"dpr": 90,
 	"id": "sharded-wand",
 	"image": "wand14",
+	"level": {
+		"min": 886
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

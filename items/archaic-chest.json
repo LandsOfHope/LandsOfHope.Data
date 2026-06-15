@@ -4,6 +4,9 @@
 	"baseValue": 150,
 	"id": "archaic-chest",
 	"image": "fe5voch",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "archaeology",
 	"skills": {

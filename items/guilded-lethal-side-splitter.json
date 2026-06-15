@@ -4,6 +4,9 @@
 	"dpr": 63,
 	"id": "guilded-lethal-side-splitter",
 	"image": "dg",
+	"level": {
+		"min": 610
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

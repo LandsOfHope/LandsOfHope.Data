@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "minions-battle-axe",
 	"image": "bax",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "autumnal-gloves",
 	"image": "jwadg",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skills": {
 		"armor": 1

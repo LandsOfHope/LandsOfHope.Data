@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-heater-shield",
 	"image": "sd1",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "gtg-necklace",
 	"image": "6727",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

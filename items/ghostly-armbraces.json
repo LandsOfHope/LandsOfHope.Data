@@ -4,6 +4,9 @@
 	"baseValue": 4215,
 	"id": "ghostly-armbraces",
 	"image": "2988",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

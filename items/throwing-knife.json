@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "throwing-knife",
 	"image": "gmthkn",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

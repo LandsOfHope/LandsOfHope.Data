@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "throne-of-ages-key",
 	"image": "6891",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "key"

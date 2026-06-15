@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "stake",
 	"image": "seb",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stake"

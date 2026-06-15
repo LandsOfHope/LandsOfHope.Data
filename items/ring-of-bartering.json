@@ -3,6 +3,9 @@
 	"baseValue": 822,
 	"id": "ring-of-bartering",
 	"image": "ring21",
+	"level": {
+		"min": 115
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,

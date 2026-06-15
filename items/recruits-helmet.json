@@ -4,6 +4,9 @@
 	"baseValue": 301,
 	"id": "recruits-helmet",
 	"image": "gmxrh1",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

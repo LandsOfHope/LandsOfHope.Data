@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "tri-blade",
 	"image": "tbd",
+	"level": {
+		"min": 15
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "blood-red-sword",
 	"image": "zublresw",
+	"level": {
+		"min": 20
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1,

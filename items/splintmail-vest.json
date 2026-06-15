@@ -4,6 +4,9 @@
 	"baseValue": 3219,
 	"id": "splintmail-vest",
 	"image": "cv1",
+	"level": {
+		"min": 490
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

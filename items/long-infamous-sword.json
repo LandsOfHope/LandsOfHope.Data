@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "long-infamous-sword",
 	"image": "ls2",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

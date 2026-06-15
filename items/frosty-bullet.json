@@ -4,6 +4,9 @@
 	"dpr": 14,
 	"id": "frosty-bullet",
 	"image": "zufrbu3",
+	"level": {
+		"min": 121
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

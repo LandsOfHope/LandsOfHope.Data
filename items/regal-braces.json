@@ -4,6 +4,9 @@
 	"baseValue": 5619,
 	"id": "regal-braces",
 	"image": "3243",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

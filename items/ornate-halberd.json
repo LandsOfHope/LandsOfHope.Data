@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-halberd",
 	"image": "hal",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

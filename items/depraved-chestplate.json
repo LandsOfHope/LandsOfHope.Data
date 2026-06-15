@@ -4,6 +4,9 @@
 	"baseValue": 584,
 	"id": "depraved-chestplate",
 	"image": "1817",
+	"level": {
+		"min": 80
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

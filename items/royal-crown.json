@@ -3,6 +3,9 @@
 	"baseValue": 397,
 	"id": "royal-crown",
 	"image": "cw",
+	"level": {
+		"min": 5
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "head-armour"

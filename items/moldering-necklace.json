@@ -4,6 +4,9 @@
 	"baseValue": 327,
 	"id": "moldering-necklace",
 	"image": "zumon",
+	"level": {
+		"min": 45
+	},
 	"material": "gem",
 	"skills": {
 		"drain-resistance": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 290,
 	"id": "defiled-prism",
 	"image": "dep",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

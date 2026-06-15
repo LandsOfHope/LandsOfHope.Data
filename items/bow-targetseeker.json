@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "bow-targetseeker",
 	"image": "tas",
+	"level": {
+		"min": 40
+	},
 	"material": "wood",
 	"properties": {
 		"DEXTERITY": 1

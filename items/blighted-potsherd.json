@@ -3,6 +3,9 @@
 	"baseValue": 210,
 	"id": "blighted-potsherd",
 	"image": "bld",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

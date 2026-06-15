@@ -4,6 +4,9 @@
 	"baseValue": 5610,
 	"id": "regal-shoulder-guards",
 	"image": "3273",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

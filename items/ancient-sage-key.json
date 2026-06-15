@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-sage-key",
 	"image": "6465",
+	"level": {
+		"min": 40
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "portal"

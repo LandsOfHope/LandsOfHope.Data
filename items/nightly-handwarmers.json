@@ -4,6 +4,9 @@
 	"baseValue": 2114,
 	"id": "nightly-handwarmers",
 	"image": "3149",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

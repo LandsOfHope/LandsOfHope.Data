@@ -4,6 +4,9 @@
 	"baseValue": 5,
 	"id": "bone-coating",
 	"image": "2440",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "golem-parts"

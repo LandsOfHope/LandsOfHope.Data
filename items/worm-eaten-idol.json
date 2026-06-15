@@ -3,6 +3,9 @@
 	"baseValue": 3828,
 	"id": "worm-eaten-idol",
 	"image": "962",
+	"level": {
+		"min": 545
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

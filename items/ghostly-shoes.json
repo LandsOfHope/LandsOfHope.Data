@@ -4,6 +4,9 @@
 	"baseValue": 4226,
 	"id": "ghostly-shoes",
 	"image": "2856",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

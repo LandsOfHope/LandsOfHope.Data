@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "platypus",
 	"image": "6522",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

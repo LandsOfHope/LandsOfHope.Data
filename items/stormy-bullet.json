@@ -4,6 +4,9 @@
 	"dpr": 74,
 	"id": "stormy-bullet",
 	"image": "zustbu",
+	"level": {
+		"min": 721
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

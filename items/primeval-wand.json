@@ -4,6 +4,9 @@
 	"dpr": 51,
 	"id": "primeval-wand",
 	"image": "wand07",
+	"level": {
+		"min": 496
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

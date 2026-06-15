@@ -4,6 +4,9 @@
 	"baseValue": 2808,
 	"id": "foresters-vest",
 	"image": "2832",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

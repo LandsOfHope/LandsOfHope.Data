@@ -4,6 +4,9 @@
 	"baseValue": 364,
 	"id": "cured-moccasins",
 	"image": "2860",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "foot-armour"

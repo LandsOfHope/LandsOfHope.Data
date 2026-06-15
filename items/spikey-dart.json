@@ -4,6 +4,9 @@
 	"dpr": 80,
 	"id": "spikey-dart",
 	"image": "drt",
+	"level": {
+		"min": 781
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

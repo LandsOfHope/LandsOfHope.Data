@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "long-ornate-staff",
 	"image": "sf",
+	"level": {
+		"min": 300
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

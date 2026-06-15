@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "delicious-cookie-ring",
 	"image": "6719",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1,

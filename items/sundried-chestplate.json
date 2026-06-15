@@ -4,6 +4,9 @@
 	"baseValue": 3876,
 	"id": "sundried-chestplate",
 	"image": "l3",
+	"level": {
+		"min": 550
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

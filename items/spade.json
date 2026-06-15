@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "spade",
 	"image": "se1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"properties": {
 		"SPEED": 1

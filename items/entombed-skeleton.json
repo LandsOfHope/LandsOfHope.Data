@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "entombed-skeleton",
 	"image": "ets",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

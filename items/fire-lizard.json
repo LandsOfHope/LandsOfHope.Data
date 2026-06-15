@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "fire-lizard",
 	"image": "6078",
+	"level": {
+		"min": 1
+	},
 	"skill": "brothers-of-sakure",
 	"stackLimit": 1,
 	"type": "special-creature"

@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "large-fireplace",
 	"image": "2421",
+	"level": {
+		"min": 75
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "fire-furniture"

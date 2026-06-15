@@ -4,6 +4,9 @@
 	"baseValue": 6665,
 	"id": "devilish-pants",
 	"image": "2792",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

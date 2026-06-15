@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "javelin",
 	"image": "fejaia",
+	"level": {
+		"min": 595
+	},
 	"material": "wood",
 	"properties": {
 		"SPEED": 1

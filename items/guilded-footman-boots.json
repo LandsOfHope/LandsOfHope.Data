@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-footman-boots",
 	"image": "3750",
+	"level": {
+		"min": 85
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

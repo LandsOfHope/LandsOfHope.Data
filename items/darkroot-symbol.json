@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "darkroot-symbol",
 	"image": "zudasy",
+	"level": {
+		"min": 565
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

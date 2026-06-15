@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-embossed-leggings",
 	"image": "3818",
+	"level": {
+		"min": 210
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

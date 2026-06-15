@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "ladybird-patch",
 	"image": "gmlapa",
+	"level": {
+		"min": 550
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

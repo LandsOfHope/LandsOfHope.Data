@@ -4,6 +4,9 @@
 	"baseValue": 715,
 	"id": "follower-robe",
 	"image": "rb7",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

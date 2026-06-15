@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "tees-necklace",
 	"image": "rec1",
+	"level": {
+		"min": 10
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

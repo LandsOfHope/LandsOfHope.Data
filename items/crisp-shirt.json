@@ -4,6 +4,9 @@
 	"baseValue": 4600,
 	"id": "crisp-shirt",
 	"image": "pshi6",
+	"level": {
+		"min": 650
+	},
 	"material": "cloth",
 	"properties": {
 		"SPEED": 1

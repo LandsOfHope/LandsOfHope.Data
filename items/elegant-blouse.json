@@ -4,6 +4,9 @@
 	"baseValue": 1058,
 	"id": "elegant-blouse",
 	"image": "1842",
+	"level": {
+		"min": 150
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

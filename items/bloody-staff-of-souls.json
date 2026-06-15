@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "bloody-staff-of-souls",
 	"image": "bss",
+	"level": {
+		"min": 40
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

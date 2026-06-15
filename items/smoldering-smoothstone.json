@@ -4,6 +4,9 @@
 	"dpr": 69,
 	"id": "smoldering-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 676
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

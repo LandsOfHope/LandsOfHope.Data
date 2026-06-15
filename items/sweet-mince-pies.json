@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "sweet-mince-pies",
 	"image": "6196",
+	"level": {
+		"min": 250
+	},
 	"material": "hide",
 	"properties": {
 		"MANA": 3

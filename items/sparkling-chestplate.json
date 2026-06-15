@@ -4,6 +4,9 @@
 	"baseValue": 2265,
 	"id": "sparkling-chestplate",
 	"image": "573",
+	"level": {
+		"min": 320
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1

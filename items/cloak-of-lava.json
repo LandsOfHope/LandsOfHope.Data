@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "cloak-of-lava",
 	"image": "zuclla",
+	"level": {
+		"min": 770
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-cadet-legchain",
 	"image": "3738",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

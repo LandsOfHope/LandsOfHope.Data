@@ -3,6 +3,9 @@
 	"baseValue": 18,
 	"id": "snack",
 	"image": "cay",
+	"level": {
+		"min": 35
+	},
 	"material": "vegetable",
 	"properties": {
 		"MANA": 1

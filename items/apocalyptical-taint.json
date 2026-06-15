@@ -4,6 +4,9 @@
 	"dpr": 140,
 	"id": "apocalyptical-taint",
 	"image": "6733",
+	"level": {
+		"min": 1000
+	},
 	"material": "color",
 	"properties": {
 		"DEXTERITY": 1,

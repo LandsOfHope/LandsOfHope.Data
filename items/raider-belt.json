@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "raider-belt",
 	"image": "5238",
+	"level": {
+		"min": 350
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -4,6 +4,9 @@
 	"dpr": 45,
 	"id": "blazing-wand",
 	"image": "wand07",
+	"level": {
+		"min": 436
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

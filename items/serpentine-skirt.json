@@ -4,6 +4,9 @@
 	"baseValue": 440,
 	"id": "serpentine-skirt",
 	"image": "fst",
+	"level": {
+		"min": 60
+	},
 	"material": "snake",
 	"properties": {
 		"SPEED": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2745,
 	"id": "dried-boots",
 	"image": "cbt",
+	"level": {
+		"min": 390
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

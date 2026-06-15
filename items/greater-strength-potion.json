@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "greater-strength-potion",
 	"image": "pe8",
+	"level": {
+		"min": 200
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

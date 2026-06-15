@@ -4,6 +4,9 @@
 	"baseValue": 3522,
 	"id": "ethereal-shoulders",
 	"image": "3251",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

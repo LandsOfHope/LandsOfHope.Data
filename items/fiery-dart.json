@@ -4,6 +4,9 @@
 	"dpr": 87,
 	"id": "fiery-dart",
 	"image": "drt",
+	"level": {
+		"min": 856
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

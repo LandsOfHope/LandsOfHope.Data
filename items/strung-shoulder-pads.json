@@ -4,6 +4,9 @@
 	"baseValue": 533,
 	"id": "strung-shoulder-pads",
 	"image": "3015",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "shoulders"

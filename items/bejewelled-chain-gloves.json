@@ -4,6 +4,9 @@
 	"baseValue": 2125,
 	"id": "bejewelled-chain-gloves",
 	"image": "2622",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

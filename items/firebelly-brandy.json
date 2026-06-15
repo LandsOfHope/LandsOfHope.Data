@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "firebelly-brandy",
 	"image": "zufibr",
+	"level": {
+		"min": 45
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

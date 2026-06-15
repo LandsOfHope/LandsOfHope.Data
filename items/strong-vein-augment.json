@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "strong-vein-augment",
 	"image": "6823",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1.2,

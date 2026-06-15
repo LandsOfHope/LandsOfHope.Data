@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "fauchard",
 	"image": "fau",
+	"level": {
+		"min": 10
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

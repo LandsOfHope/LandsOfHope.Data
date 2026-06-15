@@ -4,6 +4,9 @@
 	"baseValue": 24,
 	"id": "tanned-gloves",
 	"image": "2870",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

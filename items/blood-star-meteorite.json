@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "blood-star-meteorite",
 	"image": "5993",
+	"level": {
+		"min": 500
+	},
 	"stackLimit": 1000,
 	"type": "star-metal"
 }

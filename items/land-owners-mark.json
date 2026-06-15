@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "land-owners-mark",
 	"image": "3199",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 4215,
 	"id": "wicked-legs",
 	"image": "2262",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

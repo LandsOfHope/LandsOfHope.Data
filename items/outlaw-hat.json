@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "outlaw-hat",
 	"image": "5231",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skill": "pirate-league",
 	"skills": {

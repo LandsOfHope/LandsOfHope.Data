@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "short-deadly-sword",
 	"image": "sw1",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

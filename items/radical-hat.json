@@ -4,6 +4,9 @@
 	"baseValue": 5800,
 	"id": "radical-hat",
 	"image": "what3",
+	"level": {
+		"min": 810
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1

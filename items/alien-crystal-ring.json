@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "alien-crystal-ring",
 	"image": "7000",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

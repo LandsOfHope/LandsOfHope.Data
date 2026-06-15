@@ -4,6 +4,9 @@
 	"dpr": 21,
 	"id": "moss-potion",
 	"image": "pe5",
+	"level": {
+		"min": 197
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

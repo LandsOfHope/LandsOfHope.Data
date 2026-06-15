@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "public-storage-crate",
 	"image": "bx2",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "public-storage-box"

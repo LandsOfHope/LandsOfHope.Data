@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "orange-alien-crystal-shard",
 	"image": "7005",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1.5,

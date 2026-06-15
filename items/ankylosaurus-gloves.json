@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "ankylosaurus-gloves",
 	"image": "5167",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

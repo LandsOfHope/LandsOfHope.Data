@@ -4,6 +4,9 @@
 	"dpr": 92,
 	"id": "rippling-wand",
 	"image": "wand09",
+	"level": {
+		"min": 901
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

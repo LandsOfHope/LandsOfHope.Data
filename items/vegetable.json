@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "vegetable",
 	"image": "vg1",
+	"level": {
+		"min": 1
+	},
 	"material": "vegetable",
 	"properties": {
 		"HITPOINTS": 1

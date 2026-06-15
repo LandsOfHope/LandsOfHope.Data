@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "guilded-hunters-short-axe",
 	"image": "ham",
+	"level": {
+		"min": 210
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

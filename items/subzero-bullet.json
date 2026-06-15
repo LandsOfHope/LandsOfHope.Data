@@ -4,6 +4,9 @@
 	"dpr": 71,
 	"id": "subzero-bullet",
 	"image": "zufrbu1",
+	"level": {
+		"min": 691
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

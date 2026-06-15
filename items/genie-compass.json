@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "genie-compass",
 	"image": "gem",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "scavenger-compass"

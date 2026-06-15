@@ -4,6 +4,9 @@
 	"baseValue": 2889,
 	"id": "dried-bracers",
 	"image": "cbs",
+	"level": {
+		"min": 410
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

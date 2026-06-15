@@ -4,6 +4,9 @@
 	"baseValue": 5615,
 	"id": "regal-hat",
 	"image": "3163",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

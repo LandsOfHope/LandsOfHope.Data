@@ -4,6 +4,9 @@
 	"dpr": 12,
 	"id": "vampiric-wand",
 	"image": "wand02",
+	"level": {
+		"min": 105
+	},
 	"material": "wood",
 	"properties": {
 		"INTELLIGENCE": 1

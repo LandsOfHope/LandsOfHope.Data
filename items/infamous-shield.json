@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-shield",
 	"image": "sd5",
+	"level": {
+		"min": 800
+	},
 	"material": "wood",
 	"properties": {
 		"STRENGTH": 1

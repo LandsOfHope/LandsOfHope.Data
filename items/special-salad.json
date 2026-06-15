@@ -3,6 +3,9 @@
 	"baseValue": 251,
 	"id": "special-salad",
 	"image": "zuspsa",
+	"level": {
+		"min": 500
+	},
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 2

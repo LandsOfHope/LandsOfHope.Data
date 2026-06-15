@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "window-dressings",
 	"image": "6422",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "lordship",
 	"stackLimit": 1,

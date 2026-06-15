@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "spiked-fist",
 	"image": "ft",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 1005,
 	"id": "amulet",
 	"image": "am1",
+	"level": {
+		"min": 140
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

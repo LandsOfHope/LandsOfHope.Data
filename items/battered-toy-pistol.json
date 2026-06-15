@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "battered-toy-pistol",
 	"image": "pl2",
+	"level": {
+		"min": 20
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

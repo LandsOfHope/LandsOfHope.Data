@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "bloodrage-standard",
 	"image": "zsgc6",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"HITPOINTS": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 1553,
 	"id": "icandrias-mantle",
 	"image": "mle",
+	"level": {
+		"min": 220
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

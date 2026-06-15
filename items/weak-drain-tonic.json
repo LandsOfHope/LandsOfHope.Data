@@ -3,6 +3,9 @@
 	"baseValue": 56,
 	"id": "weak-drain-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 110
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

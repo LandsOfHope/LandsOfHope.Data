@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "bullet",
 	"image": "zubuut",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

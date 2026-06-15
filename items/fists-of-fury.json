@@ -4,6 +4,9 @@
 	"dpr": 11,
 	"id": "fists-of-fury",
 	"image": "ft3",
+	"level": {
+		"min": 95
+	},
 	"material": "gem",
 	"skill": "fists",
 	"skills": {

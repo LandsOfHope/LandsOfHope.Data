@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "anniversary-token",
 	"image": "6804",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

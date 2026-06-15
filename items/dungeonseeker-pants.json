@@ -4,6 +4,9 @@
 	"baseValue": 1216,
 	"id": "dungeonseeker-pants",
 	"image": "4949",
+	"level": {
+		"min": 9
+	},
 	"material": "hide",
 	"properties": {
 		"SPEED": 1

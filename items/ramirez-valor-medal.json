@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "ramirez-valor-medal",
 	"image": "2078",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "society-symbol"

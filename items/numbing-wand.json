@@ -4,6 +4,9 @@
 	"dpr": 78,
 	"id": "numbing-wand",
 	"image": "wand03",
+	"level": {
+		"min": 766
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

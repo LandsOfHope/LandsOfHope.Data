@@ -4,6 +4,9 @@
 	"baseValue": 3524,
 	"id": "ethereal-leggings",
 	"image": "3061",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 793,
 	"id": "battered-amulet",
 	"image": "bda",
+	"level": {
+		"min": 110
+	},
 	"material": "metal",
 	"skills": {
 		"alchemy": 1

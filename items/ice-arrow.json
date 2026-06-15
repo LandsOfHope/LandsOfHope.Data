@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "ice-arrow",
 	"image": "arri",
+	"level": {
+		"min": 76
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

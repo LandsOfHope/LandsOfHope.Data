@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "decorated-white-tree",
 	"image": "6191",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "christmas-tree"

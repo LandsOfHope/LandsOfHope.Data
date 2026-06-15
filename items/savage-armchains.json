@@ -4,6 +4,9 @@
 	"baseValue": 5608,
 	"id": "savage-armchains",
 	"image": "2736",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

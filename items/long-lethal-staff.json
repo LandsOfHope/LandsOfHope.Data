@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "long-lethal-staff",
 	"image": "sf",
+	"level": {
+		"min": 600
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

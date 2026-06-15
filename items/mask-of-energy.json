@@ -4,6 +4,9 @@
 	"baseValue": 30,
 	"id": "mask-of-energy",
 	"image": "zumaen",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXMANA": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2812,
 	"id": "battlehardened-chain-coif",
 	"image": "2667",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

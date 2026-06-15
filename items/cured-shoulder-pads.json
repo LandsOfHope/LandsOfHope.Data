@@ -4,6 +4,9 @@
 	"baseValue": 374,
 	"id": "cured-shoulder-pads",
 	"image": "3014",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "shoulders"

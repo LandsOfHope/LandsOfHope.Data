@@ -3,6 +3,9 @@
 	"baseValue": 190,
 	"id": "belt-of-the-strong",
 	"image": "pbelt9",
+	"level": {
+		"min": 450
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

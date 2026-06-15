@@ -4,6 +4,9 @@
 	"baseValue": 5611,
 	"id": "darkness-headgear",
 	"image": "2934",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

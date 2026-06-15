@@ -3,6 +3,9 @@
 	"baseValue": 305,
 	"id": "lie",
 	"image": "6228",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1,
 	"type": "map-tile-extender"

@@ -4,6 +4,9 @@
 	"dpr": 68,
 	"id": "crying-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 661
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

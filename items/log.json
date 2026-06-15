@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "log",
 	"image": "lg",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "log"

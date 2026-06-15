@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-strung-vest",
 	"image": "3805",
+	"level": {
+		"min": 85
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "chest-armour"

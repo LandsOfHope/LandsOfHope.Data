@@ -4,6 +4,9 @@
 	"dpr": 89,
 	"id": "rippling-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 871
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

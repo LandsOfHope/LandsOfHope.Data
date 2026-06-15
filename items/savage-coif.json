@@ -4,6 +4,9 @@
 	"baseValue": 5610,
 	"id": "savage-coif",
 	"image": "2648",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

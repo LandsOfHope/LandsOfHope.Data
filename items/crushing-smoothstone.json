@@ -4,6 +4,9 @@
 	"dpr": 66,
 	"id": "crushing-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 646
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

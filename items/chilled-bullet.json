@@ -4,6 +4,9 @@
 	"dpr": 89,
 	"id": "chilled-bullet",
 	"image": "zuchbu",
+	"level": {
+		"min": 871
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

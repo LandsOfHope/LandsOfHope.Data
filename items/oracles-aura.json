@@ -4,6 +4,9 @@
 	"baseValue": 17,
 	"id": "oracles-aura",
 	"image": "6179",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 2

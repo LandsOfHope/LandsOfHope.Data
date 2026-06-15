@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "kings-jewel",
 	"image": "3194",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "food"

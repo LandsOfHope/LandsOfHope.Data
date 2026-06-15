@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "pickaxe",
 	"image": "9",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "mining",
 	"skills": {

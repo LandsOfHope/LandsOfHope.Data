@@ -4,6 +4,9 @@
 	"dpr": 12,
 	"id": "sacrificial-dagger",
 	"image": "6169",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

@@ -3,6 +3,9 @@
 	"baseValue": 400,
 	"id": "plan-wintersvale-marzipan-cookie",
 	"image": "bk4",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "training-aid-plan"

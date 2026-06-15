@@ -4,6 +4,9 @@
 	"baseValue": 163,
 	"id": "webbed-trousers",
 	"image": "2088",
+	"level": {
+		"min": 20
+	},
 	"material": "spider",
 	"properties": {
 		"SPEED": 1,

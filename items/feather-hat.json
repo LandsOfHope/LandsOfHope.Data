@@ -4,6 +4,9 @@
 	"baseValue": 48,
 	"id": "feather-hat",
 	"image": "613",
+	"level": {
+		"min": 5
+	},
 	"material": "bird",
 	"properties": {
 		"INTELLIGENCE": 1

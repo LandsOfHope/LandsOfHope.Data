@@ -4,6 +4,9 @@
 	"baseValue": 547,
 	"id": "turned-bracelet",
 	"image": "gmtubr",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "wrist-jewelry"

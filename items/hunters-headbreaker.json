@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "hunters-headbreaker",
 	"image": "lsf",
+	"level": {
+		"min": 200
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

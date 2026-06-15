@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "devouring-spoon",
 	"image": "spn",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "cooking-magic",
 	"skills": {

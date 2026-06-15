@@ -4,6 +4,9 @@
 	"baseValue": 4213,
 	"id": "elegant-shoulder-pads",
 	"image": "3262",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

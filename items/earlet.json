@@ -3,6 +3,9 @@
 	"baseValue": 58,
 	"id": "earlet",
 	"image": "elt",
+	"level": {
+		"min": 5
+	},
 	"material": "gem",
 	"skills": {
 		"appraisal": 1

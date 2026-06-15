@@ -3,6 +3,9 @@
 	"baseValue": 126,
 	"id": "sandharper-potion",
 	"image": "ce1",
+	"level": {
+		"min": 350
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

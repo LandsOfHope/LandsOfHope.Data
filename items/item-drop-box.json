@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "item-drop-box",
 	"image": "bx5",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "item-drop-box"

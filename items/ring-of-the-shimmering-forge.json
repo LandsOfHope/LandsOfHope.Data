@@ -3,6 +3,9 @@
 	"baseValue": 2389,
 	"id": "ring-of-the-shimmering-forge",
 	"image": "ring4",
+	"level": {
+		"min": 340
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,

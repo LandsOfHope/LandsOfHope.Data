@@ -3,6 +3,9 @@
 	"baseValue": 295,
 	"id": "springlade-jade-ring",
 	"image": "rgd",
+	"level": {
+		"min": 5
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "ring"

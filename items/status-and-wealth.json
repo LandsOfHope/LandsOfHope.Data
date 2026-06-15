@@ -3,6 +3,9 @@
 	"baseValue": 20000,
 	"id": "status-and-wealth",
 	"image": "tiv",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "money-deed"

@@ -4,6 +4,9 @@
 	"dpr": 17,
 	"id": "frosty-potion",
 	"image": "pe5",
+	"level": {
+		"min": 155
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

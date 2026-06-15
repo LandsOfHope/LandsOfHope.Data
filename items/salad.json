@@ -3,6 +3,9 @@
 	"baseValue": 6,
 	"id": "salad",
 	"image": "zusaal",
+	"level": {
+		"min": 10
+	},
 	"material": "vegetable",
 	"properties": {
 		"HITPOINTS": 1

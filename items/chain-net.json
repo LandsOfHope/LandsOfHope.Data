@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "chain-net",
 	"image": "fin",
+	"level": {
+		"min": 940
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

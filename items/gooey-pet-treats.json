@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "gooey-pet-treats",
 	"image": "5735",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

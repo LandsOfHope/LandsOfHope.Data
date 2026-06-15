@@ -4,6 +4,9 @@
 	"baseValue": 271,
 	"id": "foul-hat",
 	"image": "1813",
+	"level": {
+		"min": 35
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "puzzle",
 	"image": "si1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "puzzle"

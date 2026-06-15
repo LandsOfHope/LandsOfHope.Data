@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "toy-box",
 	"image": "6187",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skills": {
 		"toy-snatching": 1

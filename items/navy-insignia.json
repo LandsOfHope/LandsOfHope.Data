@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "navy-insignia",
 	"image": "zunain",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1000,
 	"type": "event-spawner"

@@ -4,6 +4,9 @@
 	"baseValue": 2746,
 	"id": "antique-ruby-ring",
 	"image": "6326",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"set": "antique-set",
 	"stackLimit": 1,

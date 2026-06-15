@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "spoiled-ring",
 	"image": "rgp",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

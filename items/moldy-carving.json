@@ -3,6 +3,9 @@
 	"baseValue": 1150,
 	"id": "moldy-carving",
 	"image": "896",
+	"level": {
+		"min": 15
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "frostden-fur-boots",
 	"image": "5016",
+	"level": {
+		"min": 690
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -3,6 +3,9 @@
 	"baseValue": 201,
 	"id": "wine",
 	"image": "rew",
+	"level": {
+		"min": 400
+	},
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 2

@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "spine-of-the-beast",
 	"image": "bes",
+	"level": {
+		"min": 70
+	},
 	"material": "gem",
 	"skill": "two-handed-swords",
 	"skills": {

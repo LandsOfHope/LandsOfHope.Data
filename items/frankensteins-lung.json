@@ -4,6 +4,9 @@
 	"baseValue": 1,
 	"id": "frankensteins-lung",
 	"image": "6344",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,

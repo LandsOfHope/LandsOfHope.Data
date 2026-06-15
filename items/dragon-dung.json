@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "dragon-dung",
 	"image": "fedrdu",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

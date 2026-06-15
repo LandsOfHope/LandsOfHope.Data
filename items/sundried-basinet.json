@@ -4,6 +4,9 @@
 	"baseValue": 3722,
 	"id": "sundried-basinet",
 	"image": "cse",
+	"level": {
+		"min": 530
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

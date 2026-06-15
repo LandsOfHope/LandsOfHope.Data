@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "orange-advertising-paint",
 	"image": "5973",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "advertising-items"

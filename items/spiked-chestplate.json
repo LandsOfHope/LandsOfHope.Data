@@ -4,6 +4,9 @@
 	"baseValue": 2464,
 	"id": "spiked-chestplate",
 	"image": "1849",
+	"level": {
+		"min": 350
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

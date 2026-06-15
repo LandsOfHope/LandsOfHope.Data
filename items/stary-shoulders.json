@@ -4,6 +4,9 @@
 	"baseValue": 1413,
 	"id": "stary-shoulders",
 	"image": "3248",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

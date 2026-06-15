@@ -3,6 +3,9 @@
 	"baseValue": 550,
 	"id": "naturists-ring",
 	"image": "rgf",
+	"level": {
+		"min": 75
+	},
 	"material": "gem",
 	"skills": {
 		"nature-resistance": 1

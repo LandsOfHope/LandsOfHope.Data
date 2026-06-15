@@ -4,6 +4,9 @@
 	"baseValue": 2810,
 	"id": "foresters-doublet",
 	"image": "2821",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

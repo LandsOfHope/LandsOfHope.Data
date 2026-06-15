@@ -4,6 +4,9 @@
 	"baseValue": 2118,
 	"id": "cloak-of-the-greenwood",
 	"image": "clg",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"carpentry": 1

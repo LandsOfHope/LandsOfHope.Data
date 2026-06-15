@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "milestone",
 	"image": "si9",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "screen-trigger"

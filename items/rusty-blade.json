@@ -3,6 +3,9 @@
 	"baseValue": 340,
 	"id": "rusty-blade",
 	"image": "948",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

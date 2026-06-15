@@ -4,6 +4,9 @@
 	"dpr": 101,
 	"id": "ancient-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 991
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

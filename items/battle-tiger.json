@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "battle-tiger",
 	"image": "6669",
+	"level": {
+		"min": 1
+	},
 	"skill": "gods-favor",
 	"stackLimit": 1,
 	"type": "creature"

@@ -3,6 +3,9 @@
 	"baseValue": 10000,
 	"id": "merlin",
 	"image": "6805",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

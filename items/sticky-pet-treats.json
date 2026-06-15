@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "sticky-pet-treats",
 	"image": "5736",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

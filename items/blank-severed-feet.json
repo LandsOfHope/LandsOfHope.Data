@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "blank-severed-feet",
 	"image": "6839",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 0.6

@@ -4,6 +4,9 @@
 	"baseValue": 3527,
 	"id": "reinforced-greaves",
 	"image": "2338",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

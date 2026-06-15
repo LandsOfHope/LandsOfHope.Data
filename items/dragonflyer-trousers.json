@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "dragonflyer-trousers",
 	"image": "5134",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

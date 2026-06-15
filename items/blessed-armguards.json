@@ -4,6 +4,9 @@
 	"baseValue": 1408,
 	"id": "blessed-armguards",
 	"image": "2467",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

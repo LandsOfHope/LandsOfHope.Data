@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "nimble-augment",
 	"image": "6822",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1.1,

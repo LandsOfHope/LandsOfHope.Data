@@ -4,6 +4,9 @@
 	"baseValue": 366,
 	"id": "weary-chaps",
 	"image": "4451",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

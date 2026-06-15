@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "shrimp",
 	"image": "cn3",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MANA": 1

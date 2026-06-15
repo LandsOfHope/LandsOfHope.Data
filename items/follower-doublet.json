@@ -4,6 +4,9 @@
 	"baseValue": 714,
 	"id": "follower-doublet",
 	"image": "3077",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

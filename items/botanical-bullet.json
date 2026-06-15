@@ -4,6 +4,9 @@
 	"dpr": 47,
 	"id": "botanical-bullet",
 	"image": "zubobu",
+	"level": {
+		"min": 451
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

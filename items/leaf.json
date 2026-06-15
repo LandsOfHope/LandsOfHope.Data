@@ -3,6 +3,9 @@
 	"baseValue": 27,
 	"id": "leaf",
 	"image": "feleef",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "quest-item"

@@ -4,6 +4,9 @@
 	"baseValue": 514,
 	"id": "encrusted-helmet",
 	"image": "723",
+	"level": {
+		"min": 70
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "lethal-shield",
 	"image": "sd5",
+	"level": {
+		"min": 600
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

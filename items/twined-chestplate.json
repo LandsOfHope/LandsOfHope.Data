@@ -4,6 +4,9 @@
 	"baseValue": 5961,
 	"id": "twined-chestplate",
 	"image": "l3",
+	"level": {
+		"min": 850
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

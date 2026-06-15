@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "masons-tools",
 	"image": "zumato",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "stonemasonry",
 	"skills": {

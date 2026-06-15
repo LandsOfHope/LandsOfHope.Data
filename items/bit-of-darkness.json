@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "bit-of-darkness",
 	"image": "6238",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "trophy"
 }

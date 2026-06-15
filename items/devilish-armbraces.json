@@ -4,6 +4,9 @@
 	"baseValue": 6676,
 	"id": "devilish-armbraces",
 	"image": "2990",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

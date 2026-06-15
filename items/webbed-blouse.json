@@ -4,6 +4,9 @@
 	"baseValue": 515,
 	"id": "webbed-blouse",
 	"image": "2084",
+	"level": {
+		"min": 70
+	},
 	"material": "spider",
 	"properties": {
 		"INTELLIGENCE": 1,

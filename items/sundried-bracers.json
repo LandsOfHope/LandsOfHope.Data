@@ -4,6 +4,9 @@
 	"baseValue": 3591,
 	"id": "sundried-bracers",
 	"image": "cbs",
+	"level": {
+		"min": 510
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

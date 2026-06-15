@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "limbcleaver",
 	"image": "d",
+	"level": {
+		"min": 35
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

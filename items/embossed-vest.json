@@ -4,6 +4,9 @@
 	"baseValue": 1421,
 	"id": "embossed-vest",
 	"image": "2830",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

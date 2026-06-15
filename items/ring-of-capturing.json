@@ -3,6 +3,9 @@
 	"baseValue": 923,
 	"id": "ring-of-capturing",
 	"image": "ring20",
+	"level": {
+		"min": 130
+	},
 	"material": "metal",
 	"skills": {
 		"track-beasts": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 1176,
 	"id": "ring-of-demolition",
 	"image": "ring19",
+	"level": {
+		"min": 165
+	},
 	"material": "gem",
 	"skills": {
 		"siege-magic": 1,

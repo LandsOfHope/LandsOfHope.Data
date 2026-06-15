@@ -6,6 +6,9 @@
 	"id": "pureheart-helmet",
 	"image": "4739",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

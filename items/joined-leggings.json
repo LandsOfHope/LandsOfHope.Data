@@ -4,6 +4,9 @@
 	"baseValue": 5000,
 	"id": "joined-leggings",
 	"image": "cls",
+	"level": {
+		"min": 780
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

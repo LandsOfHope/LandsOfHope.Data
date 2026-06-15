@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-tanned-sleeves",
 	"image": "3858",
+	"level": {
+		"min": 11
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -5,6 +5,9 @@
 	"id": "blank-tinman-cuffs",
 	"image": "6940",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"set": "tinman-set",
 	"skill": "bolts-over-brains",

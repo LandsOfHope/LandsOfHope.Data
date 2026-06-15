@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "furry-feet",
 	"image": "191",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

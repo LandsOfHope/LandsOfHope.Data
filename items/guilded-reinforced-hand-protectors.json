@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-reinforced-hand-protectors",
 	"image": "3766",
+	"level": {
+		"min": 510
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

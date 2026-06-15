@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "red-celestial-sword",
 	"image": "5986",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "celestial-weapons",
 	"skills": {

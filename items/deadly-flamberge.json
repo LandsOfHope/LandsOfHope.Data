@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "deadly-flamberge",
 	"image": "sw9",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 18,
 	"id": "potion-rack",
 	"image": "pwk",
+	"level": {
+		"min": 35
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "storage-box"

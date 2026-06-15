@@ -3,6 +3,9 @@
 	"baseValue": 150,
 	"id": "discolored-ornament",
 	"image": "zudior",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

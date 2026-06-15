@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "meat",
 	"image": "mt",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 1

@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "desertfury-jewel",
 	"image": "zsgc7",
+	"level": {
+		"min": 350
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 32,
 	"id": "strangers-chest",
 	"image": "sc2",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "strangers-gift"

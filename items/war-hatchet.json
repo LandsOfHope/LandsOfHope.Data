@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "war-hatchet",
 	"image": "ax8",
+	"level": {
+		"min": 10
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

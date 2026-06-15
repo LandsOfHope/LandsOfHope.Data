@@ -5,6 +5,9 @@
 	"id": "legendary-rifle",
 	"image": "re1",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1,

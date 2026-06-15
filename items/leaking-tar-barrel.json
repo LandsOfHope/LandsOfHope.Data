@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "leaking-tar-barrel",
 	"image": "sib",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "tar-ship-resource"
 }

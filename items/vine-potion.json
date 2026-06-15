@@ -4,6 +4,9 @@
 	"dpr": 25,
 	"id": "vine-potion",
 	"image": "pe5",
+	"level": {
+		"min": 239
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

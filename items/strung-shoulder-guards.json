@@ -4,6 +4,9 @@
 	"baseValue": 535,
 	"id": "strung-shoulder-guards",
 	"image": "3026",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "shoulders"

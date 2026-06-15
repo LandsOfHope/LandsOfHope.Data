@@ -4,6 +4,9 @@
 	"dpr": 51,
 	"id": "arborescent-potion",
 	"image": "pe5",
+	"level": {
+		"min": 491
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

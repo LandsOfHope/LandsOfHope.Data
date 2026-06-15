@@ -4,6 +4,9 @@
 	"baseValue": 193,
 	"id": "withered-pants",
 	"image": "1574",
+	"level": {
+		"min": 25
+	},
 	"material": "wood",
 	"properties": {
 		"MAXMANA": 1

@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "bow",
 	"image": "bw",
+	"level": {
+		"min": 45
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

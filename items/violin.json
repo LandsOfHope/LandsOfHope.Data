@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "violin",
 	"image": "vio",
+	"level": {
+		"min": 25
+	},
 	"material": "wood",
 	"skill": "instruments",
 	"skills": {

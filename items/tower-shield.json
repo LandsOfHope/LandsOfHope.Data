@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "tower-shield",
 	"image": "sd8",
+	"level": {
+		"min": 35
+	},
 	"material": "metal",
 	"skill": "two-handed-shields",
 	"skills": {

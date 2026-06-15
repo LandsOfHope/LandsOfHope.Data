@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "shield-of-ravaging",
 	"image": "sd9",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"skill": "two-handed-shields",
 	"skills": {

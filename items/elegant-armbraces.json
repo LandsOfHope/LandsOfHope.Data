@@ -4,6 +4,9 @@
 	"baseValue": 4212,
 	"id": "elegant-armbraces",
 	"image": "3232",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

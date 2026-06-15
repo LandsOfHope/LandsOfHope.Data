@@ -4,6 +4,9 @@
 	"dpr": 37,
 	"id": "wizards-fury",
 	"image": "5013",
+	"level": {
+		"min": 350
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"baseValue": 3877,
 	"id": "elegant-headpiece",
 	"image": "1839",
+	"level": {
+		"min": 550
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1,

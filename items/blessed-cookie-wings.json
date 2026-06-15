@@ -3,6 +3,9 @@
 	"baseValue": 6663,
 	"id": "blessed-cookie-wings",
 	"image": "6718",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 132,
 	"id": "travellers-sandals",
 	"image": "sds",
+	"level": {
+		"min": 40
+	},
 	"material": "cloth",
 	"properties": {
 		"SPEED": 1

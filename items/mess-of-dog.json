@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "mess-of-dog",
 	"image": "6157",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "charm-ingredient"
 }

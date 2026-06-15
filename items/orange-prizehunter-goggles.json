@@ -3,6 +3,9 @@
 	"baseValue": 6000,
 	"id": "orange-prizehunter-goggles",
 	"image": "6255",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

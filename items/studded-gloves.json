@@ -4,6 +4,9 @@
 	"baseValue": 708,
 	"id": "studded-gloves",
 	"image": "2873",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

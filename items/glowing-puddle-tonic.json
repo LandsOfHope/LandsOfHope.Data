@@ -3,6 +3,9 @@
 	"baseValue": 381,
 	"id": "glowing-puddle-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 760
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

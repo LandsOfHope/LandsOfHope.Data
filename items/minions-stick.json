@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "minions-stick",
 	"image": "sk1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"properties": {
 		"STRENGTH": 1

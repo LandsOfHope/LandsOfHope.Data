@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "painting-by-budanis",
 	"image": "zupabybu",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "stolen-item-hard"
 }

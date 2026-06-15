@@ -4,6 +4,9 @@
 	"baseValue": 5614,
 	"id": "savage-plate-boots",
 	"image": "2318",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

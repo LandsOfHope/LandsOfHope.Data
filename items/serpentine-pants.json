@@ -4,6 +4,9 @@
 	"baseValue": 470,
 	"id": "serpentine-pants",
 	"image": "2096",
+	"level": {
+		"min": 65
+	},
 	"material": "snake",
 	"skills": {
 		"poison-resistance": 1

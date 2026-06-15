@@ -4,6 +4,9 @@
 	"baseValue": 2115,
 	"id": "bejewelled-shoulder-pads",
 	"image": "2754",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

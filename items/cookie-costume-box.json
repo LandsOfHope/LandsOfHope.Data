@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "cookie-costume-box",
 	"image": "5625",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "artisan",
 	"stackLimit": 1,

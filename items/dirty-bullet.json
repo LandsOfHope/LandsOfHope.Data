@@ -4,6 +4,9 @@
 	"dpr": 29,
 	"id": "dirty-bullet",
 	"image": "zudibu1",
+	"level": {
+		"min": 271
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

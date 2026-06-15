@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-musket",
 	"image": "re3",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "two-handed-guns",
 	"skills": {

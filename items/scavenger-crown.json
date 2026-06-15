@@ -3,6 +3,9 @@
 	"baseValue": 3443,
 	"id": "scavenger-crown",
 	"image": "849",
+	"level": {
+		"min": 490
+	},
 	"material": "metal",
 	"skills": {
 		"appraisal": 1,

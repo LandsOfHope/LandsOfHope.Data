@@ -4,6 +4,9 @@
 	"baseValue": 4221,
 	"id": "elegant-handwarmers",
 	"image": "3152",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

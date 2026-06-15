@@ -3,6 +3,9 @@
 	"baseValue": 572,
 	"id": "ring-of-the-meek",
 	"image": "6091",
+	"level": {
+		"min": 100
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 21,
 	"id": "cooked-rice",
 	"image": "c1r",
+	"level": {
+		"min": 40
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

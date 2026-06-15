@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "elemental-staff",
 	"image": "staff03",
+	"level": {
+		"min": 55
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

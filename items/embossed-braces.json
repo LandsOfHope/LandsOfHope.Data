@@ -4,6 +4,9 @@
 	"baseValue": 1424,
 	"id": "embossed-braces",
 	"image": "2995",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

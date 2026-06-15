@@ -3,6 +3,9 @@
 	"baseValue": 70,
 	"id": "fast-large-golem-mk-iii",
 	"image": "2953",
+	"level": {
+		"min": 550
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "golem"

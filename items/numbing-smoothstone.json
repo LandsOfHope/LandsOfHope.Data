@@ -4,6 +4,9 @@
 	"dpr": 78,
 	"id": "numbing-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 766
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

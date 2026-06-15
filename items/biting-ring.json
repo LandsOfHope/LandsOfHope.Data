@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "biting-ring",
 	"image": "gmbiri",
+	"level": {
+		"min": 5
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

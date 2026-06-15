@@ -4,6 +4,9 @@
 	"baseValue": 2112,
 	"id": "adventurer-gloves",
 	"image": "2875",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

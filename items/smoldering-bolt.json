@@ -4,6 +4,9 @@
 	"dpr": 66,
 	"id": "smoldering-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 646
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

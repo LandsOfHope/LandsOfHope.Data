@@ -4,6 +4,9 @@
 	"baseValue": 4000,
 	"id": "chinked-coif",
 	"image": "ccs",
+	"level": {
+		"min": 630
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

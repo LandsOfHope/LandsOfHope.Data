@@ -4,6 +4,9 @@
 	"baseValue": 129,
 	"id": "gloves-of-summoning",
 	"image": "784",
+	"level": {
+		"min": 15
+	},
 	"material": "hide",
 	"skill": "summoning",
 	"skills": {

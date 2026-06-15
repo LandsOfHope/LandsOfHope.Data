@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "joes-puzzle-box",
 	"image": "puzzle",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "pirate-puzzle-prize"

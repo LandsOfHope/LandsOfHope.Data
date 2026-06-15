@@ -4,6 +4,9 @@
 	"dpr": 12,
 	"id": "barbed-bullet",
 	"image": "zubabu",
+	"level": {
+		"min": 106
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 6667,
 	"id": "devilish-shoulder-guards",
 	"image": "3034",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

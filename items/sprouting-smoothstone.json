@@ -4,6 +4,9 @@
 	"dpr": 33,
 	"id": "sprouting-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 316
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

@@ -3,6 +3,9 @@
 	"baseValue": 2746,
 	"id": "woodcrafters-ring",
 	"image": "zuwori",
+	"level": {
+		"min": 390
+	},
 	"material": "wood",
 	"skills": {
 		"carpentry": 1

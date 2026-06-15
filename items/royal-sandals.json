@@ -4,6 +4,9 @@
 	"baseValue": 6675,
 	"id": "royal-sandals",
 	"image": "3124",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

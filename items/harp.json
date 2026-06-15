@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "harp",
 	"image": "hp1",
+	"level": {
+		"min": 15
+	},
 	"material": "metal",
 	"skill": "instruments",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 6668,
 	"id": "devilish-headgear",
 	"image": "2935",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

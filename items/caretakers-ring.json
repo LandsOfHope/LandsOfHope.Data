@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "caretakers-ring",
 	"image": "rg5",
+	"level": {
+		"min": 10
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

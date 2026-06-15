@@ -4,6 +4,9 @@
 	"baseValue": 2500,
 	"id": "stitched-trousers",
 	"image": "ptro7",
+	"level": {
+		"min": 360
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

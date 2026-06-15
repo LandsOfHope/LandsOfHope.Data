@@ -4,6 +4,9 @@
 	"baseValue": 2819,
 	"id": "foresters-handwarmers",
 	"image": "2898",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

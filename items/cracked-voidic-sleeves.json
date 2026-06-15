@@ -4,6 +4,9 @@
 	"baseValue": 298,
 	"id": "cracked-voidic-sleeves",
 	"image": "681",
+	"level": {
+		"min": 40
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

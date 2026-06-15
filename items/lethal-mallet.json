@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "lethal-mallet",
 	"image": "cb",
+	"level": {
+		"min": 600
+	},
 	"material": "wood",
 	"skill": "maces",
 	"skills": {

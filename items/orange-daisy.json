@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "orange-daisy",
 	"image": "zapot3",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "polymorpher"
 }

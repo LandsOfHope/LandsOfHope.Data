@@ -4,6 +4,9 @@
 	"baseValue": 368,
 	"id": "elemental-boots",
 	"image": "6377",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"set": "elemental-set",
 	"stackLimit": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "winter-elf-army-badge",
 	"image": "6203",
+	"level": {
+		"min": 1000
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "rocky-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 706
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

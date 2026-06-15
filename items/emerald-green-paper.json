@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "emerald-green-paper",
 	"image": "pemeraldgre",
+	"level": {
+		"min": 575
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

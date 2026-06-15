@@ -4,6 +4,9 @@
 	"baseValue": 5618,
 	"id": "darkness-doublet",
 	"image": "2824",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

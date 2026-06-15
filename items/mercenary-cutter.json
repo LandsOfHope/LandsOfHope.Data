@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "mercenary-cutter",
 	"image": "6662",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

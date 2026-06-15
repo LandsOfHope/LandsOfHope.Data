@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "allie-flower",
 	"image": "5782",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

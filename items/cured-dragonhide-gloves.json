@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "cured-dragonhide-gloves",
 	"image": "5818",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1,

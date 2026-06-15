@@ -4,6 +4,9 @@
 	"dpr": 83,
 	"id": "nova-bullet",
 	"image": "zunobu",
+	"level": {
+		"min": 811
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

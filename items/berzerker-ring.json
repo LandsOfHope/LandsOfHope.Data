@@ -3,6 +3,9 @@
 	"baseValue": 123,
 	"id": "berzerker-ring",
 	"image": "rgf",
+	"level": {
+		"min": 15
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

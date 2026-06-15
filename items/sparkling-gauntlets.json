@@ -4,6 +4,9 @@
 	"baseValue": 644,
 	"id": "sparkling-gauntlets",
 	"image": "574",
+	"level": {
+		"min": 90
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

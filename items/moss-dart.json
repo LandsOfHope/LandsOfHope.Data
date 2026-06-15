@@ -4,6 +4,9 @@
 	"dpr": 18,
 	"id": "moss-dart",
 	"image": "drt",
+	"level": {
+		"min": 166
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

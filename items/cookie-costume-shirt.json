@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "cookie-costume-shirt",
 	"image": "cmsit",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"set": "cookie-costume",
 	"skill": "artisan",

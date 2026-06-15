@@ -4,6 +4,9 @@
 	"dpr": 81,
 	"id": "drenching-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 796
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

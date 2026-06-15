@@ -3,6 +3,9 @@
 	"baseValue": 2000,
 	"id": "traders-alliance-ticket",
 	"image": "tiv",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "money-deed"

@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "sabretooth-mask",
 	"image": "ta1",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "moon-paper",
 	"image": "pmoon",
+	"level": {
+		"min": 550
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

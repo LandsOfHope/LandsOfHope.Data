@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "sleek-feet",
 	"image": "189",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"properties": {
 		"SPEED": 1

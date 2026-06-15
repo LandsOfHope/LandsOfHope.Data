@@ -6,6 +6,9 @@
 	"id": "silverclaw-gloves",
 	"image": "4701",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1,

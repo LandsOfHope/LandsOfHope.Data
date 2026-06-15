@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "half-moon-axe",
 	"image": "ham",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

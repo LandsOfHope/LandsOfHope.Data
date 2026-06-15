@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "hardwood-floors",
 	"image": "deck7",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"skill": "lordship",
 	"stackLimit": 1,

@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "shield-of-health",
 	"image": "542",
+	"level": {
+		"min": 20
+	},
 	"material": "wood",
 	"properties": {
 		"MAXHITPOINTS": 1

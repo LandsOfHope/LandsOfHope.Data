@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "hunters-half-axe",
 	"image": "ham",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

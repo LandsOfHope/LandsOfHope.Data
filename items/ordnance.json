@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "ordnance",
 	"image": "ss6",
+	"level": {
+		"min": 600
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

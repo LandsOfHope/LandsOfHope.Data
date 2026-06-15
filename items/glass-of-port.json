@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "glass-of-port",
 	"image": "5487",
+	"level": {
+		"min": 150
+	},
 	"material": "wood",
 	"properties": {
 		"HITPOINTS": 1,

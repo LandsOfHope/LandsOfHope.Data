@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "trenian",
 	"image": "gmtrnn",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

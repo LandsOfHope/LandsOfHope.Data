@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "ankylosaurus-leggings",
 	"image": "5164",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 33,
 	"id": "sprouting-dart",
 	"image": "drt",
+	"level": {
+		"min": 316
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "spawn-of-frog",
 	"image": "6152",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "charm-ingredient"
 }

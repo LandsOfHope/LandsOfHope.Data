@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "mug-of-ale",
 	"image": "gmmual",
+	"level": {
+		"min": 101
+	},
 	"material": "wood",
 	"properties": {
 		"HITPOINTS": 1,

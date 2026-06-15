@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "bloody-light-crossbow",
 	"image": "xw2",
+	"level": {
+		"min": 500
+	},
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {

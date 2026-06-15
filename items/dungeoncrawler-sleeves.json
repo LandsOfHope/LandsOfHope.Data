@@ -4,6 +4,9 @@
 	"baseValue": 365,
 	"id": "dungeoncrawler-sleeves",
 	"image": "cvs",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

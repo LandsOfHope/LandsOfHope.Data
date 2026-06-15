@@ -4,6 +4,9 @@
 	"baseValue": 5622,
 	"id": "darkness-braces",
 	"image": "3000",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "valentines-day-bracelet",
 	"image": "lhb",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"HITPOINTS": 1,

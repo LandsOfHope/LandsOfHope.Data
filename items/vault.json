@@ -3,6 +3,9 @@
 	"baseValue": 337,
 	"id": "vault",
 	"image": "bv1",
+	"level": {
+		"min": 45
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "bank-vault"

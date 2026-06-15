@@ -4,6 +4,9 @@
 	"baseValue": 366,
 	"id": "pleated-leggings",
 	"image": "3056",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "leg-armour"

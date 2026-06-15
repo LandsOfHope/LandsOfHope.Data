@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "frigid-potion",
 	"image": "pe5",
+	"level": {
+		"min": 211
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

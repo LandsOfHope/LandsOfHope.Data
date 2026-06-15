@@ -4,6 +4,9 @@
 	"baseValue": 5400,
 	"id": "bridged-sleeves",
 	"image": "css",
+	"level": {
+		"min": 850
+	},
 	"material": "metal",
 	"properties": {
 		"MAXMANA": 1

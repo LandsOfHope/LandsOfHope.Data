@@ -4,6 +4,9 @@
 	"baseValue": 6666,
 	"id": "royal-shoulder-guards",
 	"image": "3274",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

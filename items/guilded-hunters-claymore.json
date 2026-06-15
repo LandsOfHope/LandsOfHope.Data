@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "guilded-hunters-claymore",
 	"image": "ce",
+	"level": {
+		"min": 210
+	},
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {

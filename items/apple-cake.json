@@ -3,6 +3,9 @@
 	"baseValue": 381,
 	"id": "apple-cake",
 	"image": "ac1",
+	"level": {
+		"min": 760
+	},
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 2

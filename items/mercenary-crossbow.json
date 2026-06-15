@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "mercenary-crossbow",
 	"image": "6657",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

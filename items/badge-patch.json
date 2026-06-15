@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "badge-patch",
 	"image": "vs1",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "badge-container"

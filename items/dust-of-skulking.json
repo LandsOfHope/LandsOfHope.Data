@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "dust-of-skulking",
 	"image": "gn2",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "bonus-slot"

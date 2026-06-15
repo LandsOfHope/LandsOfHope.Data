@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "soul-orb",
 	"image": "zusoor",
+	"level": {
+		"min": 70
+	},
 	"material": "gem",
 	"properties": {
 		"MANA": 1,

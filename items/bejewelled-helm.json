@@ -4,6 +4,9 @@
 	"baseValue": 2115,
 	"id": "bejewelled-helm",
 	"image": "2655",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

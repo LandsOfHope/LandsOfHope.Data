@@ -4,6 +4,9 @@
 	"dpr": 69,
 	"id": "booming-ordnance",
 	"image": "ss6",
+	"level": {
+		"min": 675
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-headbreaker",
 	"image": "lsf",
+	"level": {
+		"min": 400
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

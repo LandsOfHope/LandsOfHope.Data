@@ -3,6 +3,9 @@
 	"baseValue": 1374,
 	"id": "mildewed-carving",
 	"image": "935",
+	"level": {
+		"min": 195
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

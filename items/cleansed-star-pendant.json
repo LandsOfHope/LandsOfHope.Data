@@ -4,6 +4,9 @@
 	"baseValue": 4500,
 	"id": "cleansed-star-pendant",
 	"image": "6040",
+	"level": {
+		"min": 950
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

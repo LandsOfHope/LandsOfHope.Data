@@ -4,6 +4,9 @@
 	"baseValue": 4300,
 	"id": "tenth-cavalry-leggings",
 	"image": "5045",
+	"level": {
+		"min": 930
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1,

@@ -4,6 +4,9 @@
 	"dpr": 84,
 	"id": "stoney-bullet",
 	"image": "zustbu1",
+	"level": {
+		"min": 826
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

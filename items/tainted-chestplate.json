@@ -4,6 +4,9 @@
 	"baseValue": 5267,
 	"id": "tainted-chestplate",
 	"image": "l3",
+	"level": {
+		"min": 750
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

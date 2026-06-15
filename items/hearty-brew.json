@@ -3,6 +3,9 @@
 	"baseValue": 111,
 	"id": "hearty-brew",
 	"image": "pe8",
+	"level": {
+		"min": 650
+	},
 	"material": "crop",
 	"properties": {
 		"STAMINA": 1

@@ -4,6 +4,9 @@
 	"baseValue": 29,
 	"id": "skull-of-corruption",
 	"image": "xsc",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skills": {
 		"necromancy": 1

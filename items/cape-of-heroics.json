@@ -4,6 +4,9 @@
 	"baseValue": 18,
 	"id": "cape-of-heroics",
 	"image": "zucahe",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"STRENGTH": 1

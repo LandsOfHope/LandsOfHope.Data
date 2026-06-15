@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "flower-seed",
 	"image": "5798",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "seeds-and-soil"

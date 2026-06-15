@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "jewel-of-the-barons",
 	"image": "fl2",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "stolen-item-medium"
 }

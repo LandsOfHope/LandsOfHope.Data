@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "morgans-wild-wonders",
 	"image": "5506",
+	"level": {
+		"min": 150
+	},
 	"stackLimit": 1,
 	"type": "magic-vial"
 }

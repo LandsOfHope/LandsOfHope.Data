@@ -4,6 +4,9 @@
 	"baseValue": 19,
 	"id": "wintersvale-marzipan-cookie",
 	"image": "6212",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "food"

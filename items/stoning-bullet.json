@@ -4,6 +4,9 @@
 	"dpr": 60,
 	"id": "stoning-bullet",
 	"image": "zustbu2",
+	"level": {
+		"min": 586
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

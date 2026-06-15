@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "short-bow-talisman",
 	"image": "zushbo`t",
+	"level": {
+		"min": 65
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1,

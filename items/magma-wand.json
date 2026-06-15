@@ -4,6 +4,9 @@
 	"dpr": 75,
 	"id": "magma-wand",
 	"image": "wand12",
+	"level": {
+		"min": 736
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

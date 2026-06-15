@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "lesser-healing-potion",
 	"image": "pr1",
+	"level": {
+		"min": 100
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 1.5

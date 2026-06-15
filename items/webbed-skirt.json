@@ -4,6 +4,9 @@
 	"baseValue": 125,
 	"id": "webbed-skirt",
 	"image": "fst",
+	"level": {
+		"min": 15
+	},
 	"material": "spider",
 	"properties": {
 		"DEXTERITY": 1,

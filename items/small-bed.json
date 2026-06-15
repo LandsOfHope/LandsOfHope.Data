@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "small-bed",
 	"image": "bed",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "bed"

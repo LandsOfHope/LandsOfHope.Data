@@ -3,6 +3,9 @@
 	"baseValue": 261,
 	"id": "smoothie",
 	"image": "cof",
+	"level": {
+		"min": 520
+	},
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 2

@@ -4,6 +4,9 @@
 	"baseValue": 5417,
 	"id": "twined-chaps",
 	"image": "cgh",
+	"level": {
+		"min": 770
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

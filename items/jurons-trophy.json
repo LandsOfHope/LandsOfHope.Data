@@ -3,6 +3,9 @@
 	"baseValue": 300,
 	"id": "jurons-trophy",
 	"image": "5690",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "boss-trophy"

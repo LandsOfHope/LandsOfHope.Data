@@ -4,6 +4,9 @@
 	"baseValue": 4225,
 	"id": "elegant-headband",
 	"image": "3182",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 690,
 	"id": "ring-of-accuracy",
 	"image": "rg1",
+	"level": {
+		"min": 95
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

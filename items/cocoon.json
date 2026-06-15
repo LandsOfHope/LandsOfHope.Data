@@ -3,6 +3,9 @@
 	"baseValue": 6663,
 	"id": "cocoon",
 	"image": "gmcocn",
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "demonstones"

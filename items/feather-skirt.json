@@ -4,6 +4,9 @@
 	"baseValue": 1066,
 	"id": "feather-skirt",
 	"image": "fst",
+	"level": {
+		"min": 150
+	},
 	"material": "bird",
 	"properties": {
 		"SPEED": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "brigit-blossom",
 	"image": "5796",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

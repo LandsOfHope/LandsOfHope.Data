@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "guilded-hunters-side-splitter",
 	"image": "dg",
+	"level": {
+		"min": 210
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

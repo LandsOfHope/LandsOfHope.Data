@@ -3,6 +3,9 @@
 	"baseValue": 150,
 	"id": "cracked-vase",
 	"image": "ce1",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

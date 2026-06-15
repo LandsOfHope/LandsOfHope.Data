@@ -4,6 +4,9 @@
 	"baseValue": 1,
 	"id": "frankensteins-eye",
 	"image": "6349",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"baseValue": 552,
 	"id": "strung-tunic",
 	"image": "2773",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "chest-armour"

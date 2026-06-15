@@ -3,6 +3,9 @@
 	"baseValue": 351,
 	"id": "elven-bread",
 	"image": "zuelbr",
+	"level": {
+		"min": 700
+	},
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 2

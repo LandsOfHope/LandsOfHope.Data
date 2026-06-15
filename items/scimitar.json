@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "scimitar",
 	"image": "sw3",
+	"level": {
+		"min": 35
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

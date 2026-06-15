@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "voidic-long-bow",
 	"image": "gmvolobo",
+	"level": {
+		"min": 80
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 24,
 	"id": "sandy-potion",
 	"image": "pe5",
+	"level": {
+		"min": 225
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

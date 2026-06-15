@@ -3,6 +3,9 @@
 	"baseValue": 27,
 	"id": "special-bush",
 	"image": "zaber3",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "anniversary-gift"
 }

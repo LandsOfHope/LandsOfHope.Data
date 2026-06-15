@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-strung-boots",
 	"image": "3827",
+	"level": {
+		"min": 85
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "foot-armour"

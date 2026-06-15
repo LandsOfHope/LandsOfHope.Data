@@ -4,6 +4,9 @@
 	"baseValue": 19,
 	"id": "sooty-jacket",
 	"image": "zusoja",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"cold-resistance": 1,

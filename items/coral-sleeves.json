@@ -4,6 +4,9 @@
 	"baseValue": 93,
 	"id": "coral-sleeves",
 	"image": "1564",
+	"level": {
+		"min": 10
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

@@ -4,6 +4,9 @@
 	"baseValue": 1,
 	"id": "frankensteins-foot",
 	"image": "6350",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1,

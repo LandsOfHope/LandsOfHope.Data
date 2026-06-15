@@ -4,6 +4,9 @@
 	"baseValue": 3999,
 	"id": "hellborn-chaps",
 	"image": "cgh",
+	"level": {
+		"min": 570
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

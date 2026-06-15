@@ -3,6 +3,9 @@
 	"baseValue": 160,
 	"id": "belt-of-speed",
 	"image": "pbelt6",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"properties": {
 		"SPEED": 1

@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "robust-hardened-tattoo",
 	"image": "tattoo5",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "wise-small-golem-mk-ii",
 	"image": "2690",
+	"level": {
+		"min": 65
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "golem"

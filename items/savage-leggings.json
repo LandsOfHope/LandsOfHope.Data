@@ -4,6 +4,9 @@
 	"baseValue": 5612,
 	"id": "savage-leggings",
 	"image": "2527",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

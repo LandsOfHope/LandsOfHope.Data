@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "darksoul",
 	"image": "fedaro",
+	"level": {
+		"min": 45
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

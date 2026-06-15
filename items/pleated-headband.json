@@ -4,6 +4,9 @@
 	"baseValue": 368,
 	"id": "pleated-headband",
 	"image": "3176",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "head-armour"

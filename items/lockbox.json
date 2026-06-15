@@ -3,6 +3,9 @@
 	"baseValue": 92,
 	"id": "lockbox",
 	"image": "bx5",
+	"level": {
+		"min": 10
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "bank-vault"

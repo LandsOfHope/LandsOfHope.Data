@@ -4,6 +4,9 @@
 	"dpr": 51,
 	"id": "arborescent-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 496
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

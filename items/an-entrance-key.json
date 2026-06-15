@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "an-entrance-key",
 	"image": "6321",
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "portal"

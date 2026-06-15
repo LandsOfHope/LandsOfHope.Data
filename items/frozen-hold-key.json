@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "frozen-hold-key",
 	"image": "6894",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "key"

@@ -4,6 +4,9 @@
 	"baseValue": 546,
 	"id": "strung-hat",
 	"image": "2905",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "head-armour"

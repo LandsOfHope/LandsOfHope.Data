@@ -4,6 +4,9 @@
 	"baseValue": 3521,
 	"id": "reinforced-boots",
 	"image": "2591",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

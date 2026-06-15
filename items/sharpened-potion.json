@@ -4,6 +4,9 @@
 	"dpr": 14,
 	"id": "sharpened-potion",
 	"image": "pe5",
+	"level": {
+		"min": 127
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

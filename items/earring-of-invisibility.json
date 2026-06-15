@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "earring-of-invisibility",
 	"image": "zueain",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

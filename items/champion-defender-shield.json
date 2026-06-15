@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "champion-defender-shield",
 	"image": "cde",
+	"level": {
+		"min": 45
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

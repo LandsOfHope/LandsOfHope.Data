@@ -4,6 +4,9 @@
 	"dpr": 30,
 	"id": "watery-bullet",
 	"image": "zuwabu",
+	"level": {
+		"min": 286
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

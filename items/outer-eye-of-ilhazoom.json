@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "outer-eye-of-ilhazoom",
 	"image": "eol",
+	"level": {
+		"min": 195
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,

@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "dragon-food",
 	"image": "5859",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 0.5

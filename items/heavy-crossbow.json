@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "heavy-crossbow",
 	"image": "xw",
+	"level": {
+		"min": 20
+	},
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {

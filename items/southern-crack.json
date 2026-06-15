@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "southern-crack",
 	"image": "crack5",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "directional-crack"

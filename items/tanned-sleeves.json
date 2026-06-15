@@ -4,6 +4,9 @@
 	"baseValue": 26,
 	"id": "tanned-sleeves",
 	"image": "2969",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

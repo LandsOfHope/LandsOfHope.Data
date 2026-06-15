@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "cow-costume-hat",
 	"image": "arhat",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skill": "artisan",
 	"skills": {

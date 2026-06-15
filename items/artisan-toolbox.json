@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "artisan-toolbox",
 	"image": "bx5",
+	"level": {
+		"min": 850
+	},
 	"material": "wood",
 	"skill": "artisan",
 	"stackLimit": 1,

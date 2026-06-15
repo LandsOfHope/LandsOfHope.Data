@@ -4,6 +4,9 @@
 	"dpr": 90,
 	"id": "mortar",
 	"image": "4636",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "heavy-munitions",
 	"skills": {

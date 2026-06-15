@@ -4,6 +4,9 @@
 	"baseValue": 373,
 	"id": "cadet-shoulders",
 	"image": "2761",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

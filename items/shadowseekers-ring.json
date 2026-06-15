@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "shadowseekers-ring",
 	"image": "6565",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

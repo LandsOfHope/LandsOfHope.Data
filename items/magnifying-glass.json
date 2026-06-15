@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "magnifying-glass",
 	"image": "mon",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "treasure-hunter-tool"

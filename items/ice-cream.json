@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "ice-cream",
 	"image": "6572",
+	"level": {
+		"min": 1
+	},
 	"material": "crop",
 	"properties": {
 		"MANA": 1

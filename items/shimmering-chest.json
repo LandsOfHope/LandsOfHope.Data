@@ -3,6 +3,9 @@
 	"baseValue": 711,
 	"id": "shimmering-chest",
 	"image": "ct4",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "good-spawner"

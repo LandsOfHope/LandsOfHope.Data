@@ -4,6 +4,9 @@
 	"baseValue": 2816,
 	"id": "enblazened-sandals",
 	"image": "3120",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

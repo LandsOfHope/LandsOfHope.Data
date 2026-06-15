@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "small-bloody-shield",
 	"image": "sd7",
+	"level": {
+		"min": 500
+	},
 	"material": "wood",
 	"skill": "shields",
 	"skills": {

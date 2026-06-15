@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-ghostly-vest",
 	"image": "3811",
+	"level": {
+		"min": 610
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

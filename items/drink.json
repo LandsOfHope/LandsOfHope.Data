@@ -3,6 +3,9 @@
 	"baseValue": 51,
 	"id": "drink",
 	"image": "zudrir",
+	"level": {
+		"min": 100
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 1

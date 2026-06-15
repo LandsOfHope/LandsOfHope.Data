@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "altar-of-the-gods",
 	"image": "6610",
+	"level": {
+		"min": 99
+	},
 	"stackLimit": 1000,
 	"type": "gladiator-altar"
 }

@@ -4,6 +4,9 @@
 	"baseValue": 1426,
 	"id": "blessed-sleeves",
 	"image": "2709",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "bulging-stocking",
 	"image": "6199",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skills": {
 		"toy-snatching": 1

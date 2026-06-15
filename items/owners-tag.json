@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "owners-tag",
 	"image": "zuowta",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

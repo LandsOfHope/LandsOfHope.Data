@@ -3,6 +3,9 @@
 	"baseValue": 1592,
 	"id": "ring-of-magical-intentions",
 	"image": "rgg",
+	"level": {
+		"min": 225
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

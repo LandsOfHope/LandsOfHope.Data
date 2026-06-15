@@ -4,6 +4,9 @@
 	"baseValue": 2812,
 	"id": "foresters-headgear",
 	"image": "2931",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

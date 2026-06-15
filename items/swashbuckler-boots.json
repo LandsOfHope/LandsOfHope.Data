@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "swashbuckler-boots",
 	"image": "5262",
+	"level": {
+		"min": 350
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

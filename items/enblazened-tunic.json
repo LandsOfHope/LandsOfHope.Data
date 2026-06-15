@@ -4,6 +4,9 @@
 	"baseValue": 2812,
 	"id": "enblazened-tunic",
 	"image": "3040",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

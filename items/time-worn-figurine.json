@@ -3,6 +3,9 @@
 	"baseValue": 250,
 	"id": "time-worn-figurine",
 	"image": "anf",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

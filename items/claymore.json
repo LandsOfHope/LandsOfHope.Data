@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "claymore",
 	"image": "cly",
+	"level": {
+		"min": 15
+	},
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {

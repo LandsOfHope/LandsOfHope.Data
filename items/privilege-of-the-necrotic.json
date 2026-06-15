@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "privilege-of-the-necrotic",
 	"image": "6288",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1,

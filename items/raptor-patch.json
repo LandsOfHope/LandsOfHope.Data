@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "raptor-patch",
 	"image": "gmrapa",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

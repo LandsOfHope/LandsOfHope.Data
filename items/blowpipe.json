@@ -4,6 +4,9 @@
 	"dpr": 66,
 	"id": "blowpipe",
 	"image": "bp",
+	"level": {
+		"min": 645
+	},
 	"material": "wood",
 	"skill": "propelled",
 	"skills": {

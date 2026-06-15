@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "virginias-ring-of-appraising",
 	"image": "6798",
+	"level": {
+		"min": 20
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -4,6 +4,9 @@
 	"baseValue": 4800,
 	"id": "joined-coif",
 	"image": "ccs",
+	"level": {
+		"min": 730
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

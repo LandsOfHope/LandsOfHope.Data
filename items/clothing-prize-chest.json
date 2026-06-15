@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "clothing-prize-chest",
 	"image": "sc3",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "prize-box"

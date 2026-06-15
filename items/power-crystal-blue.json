@@ -3,6 +3,9 @@
 	"baseValue": 5,
 	"id": "power-crystal-blue",
 	"image": "2433",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "golem-parts"

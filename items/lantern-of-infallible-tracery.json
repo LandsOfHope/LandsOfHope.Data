@@ -3,6 +3,9 @@
 	"baseValue": 26,
 	"id": "lantern-of-infallible-tracery",
 	"image": "felaintr",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"exploration": 1,

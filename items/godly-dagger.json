@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-dagger",
 	"image": "dg",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

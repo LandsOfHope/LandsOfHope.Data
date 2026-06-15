@@ -3,6 +3,9 @@
 	"baseValue": 170,
 	"id": "belt-of-nimbleness",
 	"image": "pbelt7",
+	"level": {
+		"min": 350
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

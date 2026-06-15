@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "sewing-kit",
 	"image": "gmseki",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "tailoring",
 	"skills": {

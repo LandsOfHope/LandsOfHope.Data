@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "zajak-oxck",
 	"image": "zk",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

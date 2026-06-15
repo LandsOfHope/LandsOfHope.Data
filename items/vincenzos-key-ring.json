@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "vincenzos-key-ring",
 	"image": "6552",
+	"level": {
+		"min": 995
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "key-chain"

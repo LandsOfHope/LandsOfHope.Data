@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "greater-palace-deed",
 	"image": "deed3",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "house-deeds"
 }

@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "privateer-belt",
 	"image": "zuprbe",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

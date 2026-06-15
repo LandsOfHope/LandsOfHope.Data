@@ -4,6 +4,9 @@
 	"baseValue": 299,
 	"id": "studded-leggings",
 	"image": "na",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

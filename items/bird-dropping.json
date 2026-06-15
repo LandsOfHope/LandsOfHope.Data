@@ -3,6 +3,9 @@
 	"baseValue": 102,
 	"id": "bird-dropping",
 	"image": "6056",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "junk"
 }

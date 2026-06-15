@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "weeping-dart",
 	"image": "drt",
+	"level": {
+		"min": 601
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

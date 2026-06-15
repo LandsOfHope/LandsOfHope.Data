@@ -4,6 +4,9 @@
 	"dpr": 27,
 	"id": "chilling-dart",
 	"image": "drt",
+	"level": {
+		"min": 256
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

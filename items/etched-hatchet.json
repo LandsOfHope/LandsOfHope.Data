@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "etched-hatchet",
 	"image": "ax11",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

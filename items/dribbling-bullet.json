@@ -4,6 +4,9 @@
 	"dpr": 24,
 	"id": "dribbling-bullet",
 	"image": "zudrbu1",
+	"level": {
+		"min": 226
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

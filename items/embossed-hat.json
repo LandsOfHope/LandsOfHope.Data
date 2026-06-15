@@ -4,6 +4,9 @@
 	"baseValue": 1416,
 	"id": "embossed-hat",
 	"image": "2907",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

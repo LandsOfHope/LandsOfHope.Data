@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "light-crossbow",
 	"image": "xw2",
+	"level": {
+		"min": 10
+	},
 	"material": "wood",
 	"properties": {
 		"SPEED": 1

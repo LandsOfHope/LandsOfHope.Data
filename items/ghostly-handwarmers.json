@@ -4,6 +4,9 @@
 	"baseValue": 4216,
 	"id": "ghostly-handwarmers",
 	"image": "2900",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

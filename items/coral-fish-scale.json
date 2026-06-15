@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "coral-fish-scale",
 	"image": "5902",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "quest-marker"
 }

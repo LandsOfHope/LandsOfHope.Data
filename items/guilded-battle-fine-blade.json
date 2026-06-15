@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-fine-blade",
 	"image": "sw1",
+	"level": {
+		"min": 410
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

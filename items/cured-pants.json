@@ -4,6 +4,9 @@
 	"baseValue": 376,
 	"id": "cured-pants",
 	"image": "2783",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "leg-armour"

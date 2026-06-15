@@ -4,6 +4,9 @@
 	"baseValue": 542,
 	"id": "footman-armguards",
 	"image": "2465",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "arm-armour"

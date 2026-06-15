@@ -4,6 +4,9 @@
 	"baseValue": 608,
 	"id": "crown-of-glory",
 	"image": "zucrgl",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

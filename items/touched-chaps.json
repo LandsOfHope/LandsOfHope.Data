@@ -4,6 +4,9 @@
 	"baseValue": 6100,
 	"id": "touched-chaps",
 	"image": "cgh",
+	"level": {
+		"min": 870
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

@@ -4,6 +4,9 @@
 	"baseValue": 435,
 	"id": "cured-chestplate",
 	"image": "492",
+	"level": {
+		"min": 60
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

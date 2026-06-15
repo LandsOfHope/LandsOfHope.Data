@@ -4,6 +4,9 @@
 	"baseValue": 500,
 	"id": "spiked-shoulders",
 	"image": "sss",
+	"level": {
+		"min": 750
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

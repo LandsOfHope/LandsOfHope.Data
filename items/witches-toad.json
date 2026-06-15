@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "witches-toad",
 	"image": "6215",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

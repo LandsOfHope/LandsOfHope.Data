@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "round-bloody-shield",
 	"image": "sd6",
+	"level": {
+		"min": 500
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

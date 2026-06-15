@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "tuskamoth-calf",
 	"image": "egg",
+	"level": {
+		"min": 30
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "monster-spawner"

@@ -4,6 +4,9 @@
 	"dpr": 20,
 	"id": "charred-potion",
 	"image": "pe5",
+	"level": {
+		"min": 183
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

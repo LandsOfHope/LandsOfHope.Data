@@ -4,6 +4,9 @@
 	"baseValue": 1416,
 	"id": "serpentine-headband",
 	"image": "2093",
+	"level": {
+		"min": 200
+	},
 	"material": "snake",
 	"skills": {
 		"poison-resistance": 1,

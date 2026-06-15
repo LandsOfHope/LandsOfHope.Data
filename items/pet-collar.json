@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "pet-collar",
 	"image": "zupeco",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

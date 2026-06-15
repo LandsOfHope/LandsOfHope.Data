@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "battering-ram-head",
 	"image": "brh",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "siege-weapons",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 173,
 	"id": "seedling",
 	"image": "454",
+	"level": {
+		"min": 345
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "ammo-weapons-organic"

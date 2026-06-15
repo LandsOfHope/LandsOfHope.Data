@@ -4,6 +4,9 @@
 	"baseValue": 1216,
 	"id": "truestitched-boots",
 	"image": "4457",
+	"level": {
+		"min": 170
+	},
 	"material": "hide",
 	"properties": {
 		"SPEED": 1

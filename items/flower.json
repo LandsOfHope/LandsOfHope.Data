@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "flower",
 	"image": "flr",
+	"level": {
+		"min": 1
+	},
 	"material": "berry",
 	"stackLimit": 1000,
 	"type": "plants"

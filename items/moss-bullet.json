@@ -4,6 +4,9 @@
 	"dpr": 18,
 	"id": "moss-bullet",
 	"image": "4142",
+	"level": {
+		"min": 166
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

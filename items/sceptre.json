@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "sceptre",
 	"image": "sce",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"MANA": 1,

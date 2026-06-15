@@ -4,6 +4,9 @@
 	"baseValue": 6676,
 	"id": "royal-trousers",
 	"image": "3074",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

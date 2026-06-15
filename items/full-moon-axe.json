@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "full-moon-axe",
 	"image": "fefuax",
+	"level": {
+		"min": 20
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

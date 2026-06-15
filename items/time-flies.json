@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "time-flies",
 	"image": "6398",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "clock"

@@ -4,6 +4,9 @@
 	"baseValue": 26,
 	"id": "medal-of-knowledge",
 	"image": "2212",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"baseValue": 28,
 	"id": "bracers",
 	"image": "243",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "robins-ring",
 	"image": "4960",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "quest-item"

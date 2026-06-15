@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "whitefang",
 	"image": "6764",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

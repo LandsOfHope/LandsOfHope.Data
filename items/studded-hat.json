@@ -4,6 +4,9 @@
 	"baseValue": 717,
 	"id": "studded-hat",
 	"image": "2906",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

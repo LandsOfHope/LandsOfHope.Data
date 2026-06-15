@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "vale-sash-of-honor",
 	"image": "4971",
+	"level": {
+		"min": 405
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,

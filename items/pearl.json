@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "pearl",
 	"image": "zupera",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "marine-tool"

@@ -3,6 +3,9 @@
 	"baseValue": 306,
 	"id": "shoulder-pads",
 	"image": "shp",
+	"level": {
+		"min": 41
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

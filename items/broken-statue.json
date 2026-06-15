@@ -3,6 +3,9 @@
 	"baseValue": 330,
 	"id": "broken-statue",
 	"image": "bks",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

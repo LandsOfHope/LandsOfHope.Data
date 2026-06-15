@@ -4,6 +4,9 @@
 	"baseValue": 2809,
 	"id": "enblazened-feetwarmers",
 	"image": "3110",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

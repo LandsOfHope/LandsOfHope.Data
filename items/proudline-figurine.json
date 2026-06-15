@@ -3,6 +3,9 @@
 	"baseValue": 2000,
 	"id": "proudline-figurine",
 	"image": "relic2",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1,

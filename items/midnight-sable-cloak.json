@@ -4,6 +4,9 @@
 	"baseValue": 2672,
 	"id": "midnight-sable-cloak",
 	"image": "1135",
+	"level": {
+		"min": 380
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

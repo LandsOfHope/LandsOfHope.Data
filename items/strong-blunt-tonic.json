@@ -3,6 +3,9 @@
 	"baseValue": 276,
 	"id": "strong-blunt-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 550
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

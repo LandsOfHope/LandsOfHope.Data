@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "boomer",
 	"image": "bom",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "siege-weapons",
 	"stackLimit": 1000,

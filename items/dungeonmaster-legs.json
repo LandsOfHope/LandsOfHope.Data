@@ -4,6 +4,9 @@
 	"baseValue": 441,
 	"id": "dungeonmaster-legs",
 	"image": "cvl",
+	"level": {
+		"min": 370
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

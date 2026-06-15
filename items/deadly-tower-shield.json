@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "deadly-tower-shield",
 	"image": "sd8",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "two-handed-shields",
 	"skills": {

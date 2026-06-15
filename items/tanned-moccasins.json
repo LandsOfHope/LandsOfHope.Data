@@ -4,6 +4,9 @@
 	"baseValue": 30,
 	"id": "tanned-moccasins",
 	"image": "2859",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "sabretooth-huntress-patch",
 	"image": "gmsahupa",
+	"level": {
+		"min": 700
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

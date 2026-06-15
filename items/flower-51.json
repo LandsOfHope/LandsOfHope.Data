@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "flower-51",
 	"image": "5789",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

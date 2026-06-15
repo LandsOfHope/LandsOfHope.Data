@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "orange-celestial-sword",
 	"image": "6013",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "blue-formal-flower-dress",
 	"image": "6964",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "wings"
 }

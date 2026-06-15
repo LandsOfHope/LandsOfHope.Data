@@ -4,6 +4,9 @@
 	"dpr": 44,
 	"id": "earthen-bullet",
 	"image": "zueabu",
+	"level": {
+		"min": 421
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

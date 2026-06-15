@@ -4,6 +4,9 @@
 	"expansion": "jurassic-wars",
 	"id": "venomshroud",
 	"image": "musr27",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "jurassic-resource"
 }

@@ -5,6 +5,9 @@
 	"id": "legendary-razor-axe",
 	"image": "aba",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1,

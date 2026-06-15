@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "buccaneer-boots",
 	"image": "5227",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"properties": {
 		"SPEED": 1

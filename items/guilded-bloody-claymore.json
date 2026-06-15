@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "guilded-bloody-claymore",
 	"image": "ce",
+	"level": {
+		"min": 510
+	},
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "short-battle-sword",
 	"image": "sw1",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

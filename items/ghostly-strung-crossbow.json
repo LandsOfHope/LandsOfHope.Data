@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "ghostly-strung-crossbow",
 	"image": "na",
+	"level": {
+		"min": 50
+	},
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {

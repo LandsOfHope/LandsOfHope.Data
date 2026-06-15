@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "scoop",
 	"image": "sp",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "thrown-magic",
 	"skills": {

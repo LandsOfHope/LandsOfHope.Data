@@ -4,6 +4,9 @@
 	"dpr": 120,
 	"id": "grief",
 	"image": "3212",
+	"level": {
+		"min": 1000
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1,

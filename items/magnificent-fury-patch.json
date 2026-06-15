@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "magnificent-fury-patch",
 	"image": "gmmafupa",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

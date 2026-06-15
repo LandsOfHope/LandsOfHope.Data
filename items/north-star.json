@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "north-star",
 	"image": "6731",
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1,

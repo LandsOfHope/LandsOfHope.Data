@@ -4,6 +4,9 @@
 	"baseValue": 1235,
 	"id": "wild-belt",
 	"image": "6029",
+	"level": {
+		"min": 60
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1,

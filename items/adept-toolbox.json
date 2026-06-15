@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "adept-toolbox",
 	"image": "bx5",
+	"level": {
+		"min": 350
+	},
 	"material": "wood",
 	"skill": "artisan",
 	"skills": {

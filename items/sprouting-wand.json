@@ -4,6 +4,9 @@
 	"dpr": 33,
 	"id": "sprouting-wand",
 	"image": "wand07",
+	"level": {
+		"min": 316
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "mark-of-steel",
 	"image": "6515",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

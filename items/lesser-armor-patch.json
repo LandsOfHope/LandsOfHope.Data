@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "lesser-armor-patch",
 	"image": "gmlearpa",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

@@ -4,6 +4,9 @@
 	"dpr": 21,
 	"id": "sandy-wand",
 	"image": "wand12",
+	"level": {
+		"min": 196
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

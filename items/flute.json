@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "flute",
 	"image": "fe1",
+	"level": {
+		"min": 10
+	},
 	"material": "wood",
 	"skill": "instruments",
 	"skills": {

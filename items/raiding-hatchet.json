@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "raiding-hatchet",
 	"image": "zuraha",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

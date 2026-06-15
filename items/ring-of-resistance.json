@@ -3,6 +3,9 @@
 	"baseValue": 1869,
 	"id": "ring-of-resistance",
 	"image": "rgl",
+	"level": {
+		"min": 265
+	},
 	"material": "metal",
 	"skill": "healing-magic",
 	"skills": {

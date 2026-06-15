@@ -4,6 +4,9 @@
 	"baseValue": 725,
 	"id": "studded-handwarmers",
 	"image": "2895",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

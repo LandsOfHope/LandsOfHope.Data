@@ -3,6 +3,9 @@
 	"baseValue": 306,
 	"id": "strong-string-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 610
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

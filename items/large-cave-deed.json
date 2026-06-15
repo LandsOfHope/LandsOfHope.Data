@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "large-cave-deed",
 	"image": "1070",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "house-deeds"

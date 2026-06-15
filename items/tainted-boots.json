@@ -4,6 +4,9 @@
 	"baseValue": 4857,
 	"id": "tainted-boots",
 	"image": "cbt",
+	"level": {
+		"min": 690
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

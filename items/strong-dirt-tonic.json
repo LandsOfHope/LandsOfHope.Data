@@ -3,6 +3,9 @@
 	"baseValue": 281,
 	"id": "strong-dirt-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 560
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "beached-wreckage",
 	"image": "wreck",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "marine-tool"

@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "black-wing-key",
 	"image": "3200",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "key"

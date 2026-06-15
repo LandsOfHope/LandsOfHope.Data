@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "deepwound",
 	"image": "ax12",
+	"level": {
+		"min": 40
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

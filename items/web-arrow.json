@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "web-arrow",
 	"image": "91",
+	"level": {
+		"min": 46
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

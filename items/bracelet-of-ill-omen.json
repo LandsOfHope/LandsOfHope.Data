@@ -3,6 +3,9 @@
 	"baseValue": 371,
 	"id": "bracelet-of-ill-omen",
 	"image": "bt1",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"expansion": "jurassic-wars",
 	"id": "cloak-of-invisibility",
 	"image": "cl3",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

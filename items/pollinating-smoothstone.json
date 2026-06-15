@@ -4,6 +4,9 @@
 	"dpr": 36,
 	"id": "pollinating-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 346
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

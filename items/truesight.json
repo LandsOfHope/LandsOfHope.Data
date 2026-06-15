@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "truesight",
 	"image": "4992",
+	"level": {
+		"min": 75
+	},
 	"material": "gem",
 	"skill": "two-handed-guns",
 	"skills": {

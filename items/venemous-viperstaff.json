@@ -4,6 +4,9 @@
 	"dpr": 11,
 	"id": "venemous-viperstaff",
 	"image": "st1",
+	"level": {
+		"min": 90
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

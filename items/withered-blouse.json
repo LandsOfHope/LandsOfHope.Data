@@ -4,6 +4,9 @@
 	"baseValue": 374,
 	"id": "withered-blouse",
 	"image": "1573",
+	"level": {
+		"min": 50
+	},
 	"material": "wood",
 	"properties": {
 		"MAXMANA": 1

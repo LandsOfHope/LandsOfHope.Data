@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "aura-of-the-smart",
 	"image": "6692",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "grail",
 	"image": "6242",
+	"level": {
+		"min": 1000
+	},
 	"stackLimit": 1,
 	"type": "grail"
 }

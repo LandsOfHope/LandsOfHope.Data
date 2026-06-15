@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "templar-beacon",
 	"image": "6264",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "light-beacon"
 }

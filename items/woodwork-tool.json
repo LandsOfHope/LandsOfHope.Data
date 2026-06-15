@@ -3,6 +3,9 @@
 	"baseValue": 32,
 	"id": "woodwork-tool",
 	"image": "wwt",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "carpentry",
 	"skills": {

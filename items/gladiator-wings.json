@@ -3,6 +3,9 @@
 	"baseValue": 6663,
 	"id": "gladiator-wings",
 	"image": "6681",
+	"level": {
+		"min": 5
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

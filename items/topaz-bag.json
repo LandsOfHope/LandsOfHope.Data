@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "topaz-bag",
 	"image": "5867",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"mystical-resistance": 1,

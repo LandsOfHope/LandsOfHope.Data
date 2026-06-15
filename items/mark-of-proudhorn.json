@@ -3,6 +3,9 @@
 	"baseValue": 21,
 	"id": "mark-of-proudhorn",
 	"image": "zumapr",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

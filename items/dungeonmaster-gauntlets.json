@@ -4,6 +4,9 @@
 	"baseValue": 854,
 	"id": "dungeonmaster-gauntlets",
 	"image": "cvg",
+	"level": {
+		"min": 390
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

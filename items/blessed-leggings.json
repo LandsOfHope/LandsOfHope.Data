@@ -4,6 +4,9 @@
 	"baseValue": 1411,
 	"id": "blessed-leggings",
 	"image": "2522",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

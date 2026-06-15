@@ -4,6 +4,9 @@
 	"baseValue": 31,
 	"id": "shirt",
 	"image": "15",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -4,6 +4,9 @@
 	"dpr": 74,
 	"id": "stormy-wand",
 	"image": "wand05",
+	"level": {
+		"min": 721
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

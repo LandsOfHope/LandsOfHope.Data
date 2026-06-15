@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "lava-wand",
 	"image": "wand11",
+	"level": {
+		"min": 16
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

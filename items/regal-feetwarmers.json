@@ -4,6 +4,9 @@
 	"baseValue": 5620,
 	"id": "regal-feetwarmers",
 	"image": "3113",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

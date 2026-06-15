@@ -4,6 +4,9 @@
 	"dpr": 39,
 	"id": "herbal-dart",
 	"image": "drt",
+	"level": {
+		"min": 376
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

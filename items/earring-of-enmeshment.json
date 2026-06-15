@@ -3,6 +3,9 @@
 	"baseValue": 370,
 	"id": "earring-of-enmeshment",
 	"image": "toeaen",
+	"level": {
+		"min": 50
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

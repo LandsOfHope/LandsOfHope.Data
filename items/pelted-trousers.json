@@ -4,6 +4,9 @@
 	"baseValue": 604,
 	"id": "pelted-trousers",
 	"image": "ptro11",
+	"level": {
+		"min": 85
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

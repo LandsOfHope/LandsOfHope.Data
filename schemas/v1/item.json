@@ -31,6 +31,24 @@
 		"legendary": {
 			"const": true
 		},
+		"level": {
+			"oneOf": [
+				{
+					"minimum": 1,
+					"type": "integer"
+				},
+				{
+					"additionalProperties": false,
+					"properties": {
+						"min": {
+							"minimum": 1,
+							"type": "integer"
+						}
+					},
+					"type": "object"
+				}
+			]
+		},
 		"material": {
 			"$ref": "/schemas/v1/items-materials-id.gen.json"
 		},

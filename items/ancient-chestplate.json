@@ -5,6 +5,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-chestplate",
 	"image": "6472",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "chest-armour"

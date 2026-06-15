@@ -4,6 +4,9 @@
 	"baseValue": 550,
 	"id": "footman-pauldrons",
 	"image": "2476",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "shoulders"

@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "scary-costume-boots",
 	"image": "tboots",
+	"level": {
+		"min": 150
+	},
 	"material": "hide",
 	"set": "halloween-costume",
 	"skills": {

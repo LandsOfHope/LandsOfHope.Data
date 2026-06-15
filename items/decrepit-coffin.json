@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "decrepit-coffin",
 	"image": "6160",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "special-chest"

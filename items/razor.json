@@ -4,6 +4,9 @@
 	"dpr": 75,
 	"id": "razor",
 	"image": "dg",
+	"level": {
+		"min": 750
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

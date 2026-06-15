@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "goblin-power-crystal",
 	"image": "6698",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

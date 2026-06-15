@@ -4,6 +4,9 @@
 	"dpr": 99,
 	"id": "thermal-bullet",
 	"image": "zuthbu",
+	"level": {
+		"min": 976
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

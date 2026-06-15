@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "westervale-belt",
 	"image": "zuwebe",
+	"level": {
+		"min": 45
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

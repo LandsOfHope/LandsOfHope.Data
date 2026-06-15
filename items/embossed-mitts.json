@@ -4,6 +4,9 @@
 	"baseValue": 1412,
 	"id": "embossed-mitts",
 	"image": "2885",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 709,
 	"id": "follower-cap",
 	"image": "3167",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

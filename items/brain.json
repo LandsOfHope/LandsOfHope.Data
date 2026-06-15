@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "brain",
 	"image": "4462",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

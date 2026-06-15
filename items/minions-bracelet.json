@@ -3,6 +3,9 @@
 	"baseValue": 4500,
 	"id": "minions-bracelet",
 	"image": "5931",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"mana-regen": 1

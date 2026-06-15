@@ -4,6 +4,9 @@
 	"baseValue": 2319,
 	"id": "molded-basinet",
 	"image": "4419",
+	"level": {
+		"min": 330
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

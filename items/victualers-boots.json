@@ -4,6 +4,9 @@
 	"baseValue": 435,
 	"id": "victualers-boots",
 	"image": "bot",
+	"level": {
+		"min": 60
+	},
 	"material": "hide",
 	"skills": {
 		"furnishing": 1

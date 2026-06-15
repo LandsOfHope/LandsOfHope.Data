@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "weeping-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 601
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "hunters-skewer",
 	"image": "sta",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

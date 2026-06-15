@@ -4,6 +4,9 @@
 	"dpr": 58,
 	"id": "flaring-potion",
 	"image": "pe5",
+	"level": {
+		"min": 561
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

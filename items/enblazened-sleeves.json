@@ -4,6 +4,9 @@
 	"baseValue": 2819,
 	"id": "enblazened-sleeves",
 	"image": "3220",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

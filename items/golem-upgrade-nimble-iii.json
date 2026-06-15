@@ -3,6 +3,9 @@
 	"baseValue": 5,
 	"id": "golem-upgrade-nimble-iii",
 	"image": "2698",
+	"level": {
+		"min": 15
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "golem-parts"

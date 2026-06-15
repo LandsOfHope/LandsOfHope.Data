@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "green-cobra-statue",
 	"image": "5875",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "world-relic"
 }

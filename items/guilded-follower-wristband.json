@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-follower-wristband",
 	"image": "ta5",
+	"level": {
+		"min": 110
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

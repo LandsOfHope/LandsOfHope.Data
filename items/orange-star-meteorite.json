@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "orange-star-meteorite",
 	"image": "5996",
+	"level": {
+		"min": 800
+	},
 	"stackLimit": 1000,
 	"type": "star-metal"
 }

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "lavelia-flower",
 	"image": "5788",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

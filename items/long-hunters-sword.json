@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "long-hunters-sword",
 	"image": "ls2",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

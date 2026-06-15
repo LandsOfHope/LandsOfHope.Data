@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "friendship-flower-arrangement",
 	"image": "5802",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

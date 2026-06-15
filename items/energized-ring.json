@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "energized-ring",
 	"image": "rge",
+	"level": {
+		"min": 38
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

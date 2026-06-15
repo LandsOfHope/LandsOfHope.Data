@@ -4,6 +4,9 @@
 	"baseValue": 441,
 	"id": "wig",
 	"image": "wg1",
+	"level": {
+		"min": 60
+	},
 	"material": "color",
 	"skills": {
 		"armor": 1

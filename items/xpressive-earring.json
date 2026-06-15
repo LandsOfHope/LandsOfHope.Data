@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "xpressive-earring",
 	"image": "6800",
+	"level": {
+		"min": 5
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1.5,

@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "lifestealer",
 	"image": "hr2",
+	"level": {
+		"min": 20
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

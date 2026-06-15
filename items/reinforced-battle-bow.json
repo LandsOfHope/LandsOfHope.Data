@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "reinforced-battle-bow",
 	"image": "bw1",
+	"level": {
+		"min": 60
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1

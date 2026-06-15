@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-axe",
 	"image": "ham",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

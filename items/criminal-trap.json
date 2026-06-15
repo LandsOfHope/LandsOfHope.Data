@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "criminal-trap",
 	"image": "cs1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "traps",
 	"stackLimit": 1000,

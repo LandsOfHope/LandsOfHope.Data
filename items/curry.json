@@ -3,6 +3,9 @@
 	"baseValue": 401,
 	"id": "curry",
 	"image": "stw.jpg",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 3

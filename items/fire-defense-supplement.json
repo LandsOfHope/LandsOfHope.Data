@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "fire-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 320
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

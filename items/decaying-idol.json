@@ -3,6 +3,9 @@
 	"baseValue": 2910,
 	"id": "decaying-idol",
 	"image": "1001",
+	"level": {
+		"min": 40
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

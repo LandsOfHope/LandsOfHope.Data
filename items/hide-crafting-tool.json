@@ -3,6 +3,9 @@
 	"baseValue": 26,
 	"id": "hide-crafting-tool",
 	"image": "hct",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skill": "leatherworking",
 	"skills": {

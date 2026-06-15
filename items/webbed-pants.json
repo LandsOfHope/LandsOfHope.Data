@@ -4,6 +4,9 @@
 	"baseValue": 94,
 	"id": "webbed-pants",
 	"image": "2085",
+	"level": {
+		"min": 10
+	},
 	"material": "spider",
 	"properties": {
 		"DEXTERITY": 1,

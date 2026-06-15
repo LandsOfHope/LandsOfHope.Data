@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "skeletal-dog",
 	"image": "6087",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

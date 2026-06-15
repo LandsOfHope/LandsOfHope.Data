@@ -4,6 +4,9 @@
 	"baseValue": 4220,
 	"id": "elegant-boots",
 	"image": "3102",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

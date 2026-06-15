@@ -4,6 +4,9 @@
 	"dpr": 68,
 	"id": "crying-dart",
 	"image": "drt",
+	"level": {
+		"min": 661
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

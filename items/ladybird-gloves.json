@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "ladybird-gloves",
 	"image": "5173",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

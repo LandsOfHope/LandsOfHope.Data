@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "goblin-costume-box",
 	"image": "5626",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "artisan",
 	"stackLimit": 1,

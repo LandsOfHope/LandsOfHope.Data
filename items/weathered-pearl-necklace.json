@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "weathered-pearl-necklace",
 	"image": "4986",
+	"level": {
+		"min": 500
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1

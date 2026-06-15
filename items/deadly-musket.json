@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "deadly-musket",
 	"image": "re3",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "two-handed-guns",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 721,
 	"id": "hellish-sack",
 	"image": "gmhesa",
+	"level": {
+		"min": 25
+	},
 	"material": "cloth",
 	"skills": {
 		"fire-survival": 1

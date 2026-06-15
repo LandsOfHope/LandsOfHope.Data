@@ -4,6 +4,9 @@
 	"baseValue": 849,
 	"id": "cracked-chestplate",
 	"image": "c1c",
+	"level": {
+		"min": 120
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

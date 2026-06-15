@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "darkroot-totem",
 	"image": "zudato",
+	"level": {
+		"min": 560
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2613,
 	"id": "dried-chaps",
 	"image": "cgh",
+	"level": {
+		"min": 370
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

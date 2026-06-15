@@ -4,6 +4,9 @@
 	"baseValue": 499,
 	"id": "chain-gloves",
 	"image": "cgs",
+	"level": {
+		"min": 160
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

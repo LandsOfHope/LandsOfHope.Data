@@ -4,6 +4,9 @@
 	"dpr": 45,
 	"id": "blazing-bullet",
 	"image": "zublbu1",
+	"level": {
+		"min": 436
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

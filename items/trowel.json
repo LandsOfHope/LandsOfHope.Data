@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "trowel",
 	"image": "5801",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "floristry",
 	"skills": {

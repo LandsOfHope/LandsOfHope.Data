@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "heater-shield",
 	"image": "sd1",
+	"level": {
+		"min": 10
+	},
 	"material": "metal",
 	"skill": "two-handed-shields",
 	"skills": {

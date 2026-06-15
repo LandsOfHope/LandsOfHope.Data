@@ -3,6 +3,9 @@
 	"baseValue": 75,
 	"id": "scary-costume-box",
 	"image": "669",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "costume-box"

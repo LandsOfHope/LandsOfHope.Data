@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "short-ornate-bow",
 	"image": "bw",
+	"level": {
+		"min": 300
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

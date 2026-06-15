@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "seed-spitter",
 	"image": "na",
+	"level": {
+		"min": 30
+	},
 	"material": "wood",
 	"skill": "two-handed-guns",
 	"skills": {

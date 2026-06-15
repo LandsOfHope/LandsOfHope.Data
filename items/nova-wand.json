@@ -4,6 +4,9 @@
 	"dpr": 83,
 	"id": "nova-wand",
 	"image": "wand15",
+	"level": {
+		"min": 811
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

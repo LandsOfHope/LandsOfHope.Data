@@ -4,6 +4,9 @@
 	"baseValue": 6661,
 	"id": "commanders-armguards",
 	"image": "2473",
+	"level": {
+		"min": 950
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

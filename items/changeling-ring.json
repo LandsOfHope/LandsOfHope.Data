@@ -3,6 +3,9 @@
 	"baseValue": 161,
 	"id": "changeling-ring",
 	"image": "zudiri",
+	"level": {
+		"min": 20
+	},
 	"material": "gem",
 	"skills": {
 		"disguise": 1

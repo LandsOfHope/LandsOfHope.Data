@@ -4,6 +4,9 @@
 	"dpr": 50,
 	"id": "arborescent-bullet",
 	"image": "zuarbu",
+	"level": {
+		"min": 481
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

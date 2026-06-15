@@ -3,6 +3,9 @@
 	"baseValue": 305,
 	"id": "genesis-orb",
 	"image": "zugeor",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1,
 	"type": "tile-claim"

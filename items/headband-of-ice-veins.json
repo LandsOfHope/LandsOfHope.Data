@@ -4,6 +4,9 @@
 	"baseValue": 360,
 	"id": "headband-of-ice-veins",
 	"image": "zuhoiv",
+	"level": {
+		"min": 80
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1,

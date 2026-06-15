@@ -3,6 +3,9 @@
 	"baseValue": 155,
 	"id": "weathered-blade",
 	"image": "be6",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

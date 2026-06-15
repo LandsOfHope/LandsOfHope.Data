@@ -4,6 +4,9 @@
 	"baseValue": 2469,
 	"id": "loopmail-sleeves",
 	"image": "css",
+	"level": {
+		"min": 350
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

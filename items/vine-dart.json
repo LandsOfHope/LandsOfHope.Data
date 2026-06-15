@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "vine-dart",
 	"image": "drt",
+	"level": {
+		"min": 211
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

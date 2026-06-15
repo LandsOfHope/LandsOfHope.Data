@@ -4,6 +4,9 @@
 	"baseValue": 3518,
 	"id": "reinforced-shoulderchains",
 	"image": "2745",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

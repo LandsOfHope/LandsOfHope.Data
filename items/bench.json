@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "bench",
 	"image": "1029",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "seating"

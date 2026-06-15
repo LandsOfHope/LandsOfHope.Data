@@ -3,6 +3,9 @@
 	"baseValue": 15,
 	"id": "cooked-shrimp",
 	"image": "1696",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MANA": 1

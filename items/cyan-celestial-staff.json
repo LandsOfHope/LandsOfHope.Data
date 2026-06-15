@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "cyan-celestial-staff",
 	"image": "6017",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "celestial-weapons",
 	"skills": {

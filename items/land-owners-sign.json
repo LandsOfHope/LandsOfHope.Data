@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "land-owners-sign",
 	"image": "5879",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1,

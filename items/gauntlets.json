@@ -4,6 +4,9 @@
 	"baseValue": 298,
 	"id": "gauntlets",
 	"image": "122",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

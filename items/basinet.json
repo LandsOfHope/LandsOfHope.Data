@@ -4,6 +4,9 @@
 	"baseValue": 28,
 	"id": "basinet",
 	"image": "bse",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"SPEED": 1

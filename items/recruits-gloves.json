@@ -4,6 +4,9 @@
 	"baseValue": 308,
 	"id": "recruits-gloves",
 	"image": "gmregl",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

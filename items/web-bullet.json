@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "web-bullet",
 	"image": "bl",
+	"level": {
+		"min": 31
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

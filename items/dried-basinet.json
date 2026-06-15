@@ -4,6 +4,9 @@
 	"baseValue": 3027,
 	"id": "dried-basinet",
 	"image": "cse",
+	"level": {
+		"min": 430
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

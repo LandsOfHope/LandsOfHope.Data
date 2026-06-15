@@ -4,6 +4,9 @@
 	"dpr": 17,
 	"id": "oozing-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 151
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

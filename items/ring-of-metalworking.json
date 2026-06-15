@@ -3,6 +3,9 @@
 	"baseValue": 1671,
 	"id": "ring-of-metalworking",
 	"image": "rgh",
+	"level": {
+		"min": 235
+	},
 	"material": "gem",
 	"skills": {
 		"blacksmithing": 1,

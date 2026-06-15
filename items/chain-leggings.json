@@ -4,6 +4,9 @@
 	"baseValue": 340,
 	"id": "chain-leggings",
 	"image": "cls",
+	"level": {
+		"min": 80
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

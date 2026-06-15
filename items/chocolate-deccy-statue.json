@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "chocolate-deccy-statue",
 	"image": "6210",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "chocolate-statue"
 }

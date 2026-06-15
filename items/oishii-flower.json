@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "oishii-flower",
 	"image": "5776",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

@@ -4,6 +4,9 @@
 	"baseValue": 1800,
 	"id": "haggard-trousers",
 	"image": "ptro6",
+	"level": {
+		"min": 260
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

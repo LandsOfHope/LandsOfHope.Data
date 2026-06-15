@@ -4,6 +4,9 @@
 	"baseValue": 308,
 	"id": "ringmail-legs",
 	"image": "127",
+	"level": {
+		"min": 55
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

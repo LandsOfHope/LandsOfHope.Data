@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "league-chest",
 	"image": "1026",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "pirate-league",
 	"stackLimit": 1,

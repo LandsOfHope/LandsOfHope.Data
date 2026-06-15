@@ -4,6 +4,9 @@
 	"baseValue": 1425,
 	"id": "blessed-greaves",
 	"image": "2335",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

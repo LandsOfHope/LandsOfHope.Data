@@ -4,6 +4,9 @@
 	"baseValue": 2823,
 	"id": "enblazened-shoulders",
 	"image": "3250",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

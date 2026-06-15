@@ -4,6 +4,9 @@
 	"dpr": 71,
 	"id": "subzero-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 691
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

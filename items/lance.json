@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "lance",
 	"image": "lae",
+	"level": {
+		"min": 10
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

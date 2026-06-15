@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "baby-bonegard",
 	"image": "zubabo",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skill": "dark-hollow-clan",
 	"stackLimit": 1,

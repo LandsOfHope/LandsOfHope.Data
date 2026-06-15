@@ -4,6 +4,9 @@
 	"dpr": 11,
 	"id": "club-of-might",
 	"image": "clm",
+	"level": {
+		"min": 95
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1,

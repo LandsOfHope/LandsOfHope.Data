@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "cargo-crate",
 	"image": "bx",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "quest-item"

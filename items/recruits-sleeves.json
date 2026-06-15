@@ -4,6 +4,9 @@
 	"baseValue": 312,
 	"id": "recruits-sleeves",
 	"image": "2705",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

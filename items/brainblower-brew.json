@@ -3,6 +3,9 @@
 	"baseValue": 111,
 	"id": "brainblower-brew",
 	"image": "pe6",
+	"level": {
+		"min": 650
+	},
 	"material": "crop",
 	"properties": {
 		"MANA": 1

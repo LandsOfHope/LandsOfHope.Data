@@ -4,6 +4,9 @@
 	"baseValue": 309,
 	"id": "recruits-shoulders",
 	"image": "2760",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

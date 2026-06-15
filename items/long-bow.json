@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "long-bow",
 	"image": "lob",
+	"level": {
+		"min": 5
+	},
 	"material": "metal",
 	"skill": "bows",
 	"skills": {

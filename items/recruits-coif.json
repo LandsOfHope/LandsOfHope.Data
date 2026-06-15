@@ -4,6 +4,9 @@
 	"baseValue": 307,
 	"id": "recruits-coif",
 	"image": "2639",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

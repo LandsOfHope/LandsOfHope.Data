@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "faded-cyan-paper",
 	"image": "pfadedcyan",
+	"level": {
+		"min": 125
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

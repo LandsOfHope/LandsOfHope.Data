@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "giant-spider-egg-sac",
 	"image": "egg",
+	"level": {
+		"min": 20
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "monster-spawner"

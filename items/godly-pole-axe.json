@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-pole-axe",
 	"image": "ahd",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

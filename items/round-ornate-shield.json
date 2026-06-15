@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "round-ornate-shield",
 	"image": "sd6",
+	"level": {
+		"min": 300
+	},
 	"material": "wood",
 	"skill": "shields",
 	"skills": {

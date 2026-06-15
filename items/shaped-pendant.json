@@ -3,6 +3,9 @@
 	"baseValue": 472,
 	"id": "shaped-pendant",
 	"image": "am2",
+	"level": {
+		"min": 65
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

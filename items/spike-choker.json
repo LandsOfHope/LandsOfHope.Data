@@ -3,6 +3,9 @@
 	"baseValue": 924,
 	"id": "spike-choker",
 	"image": "zuspch",
+	"level": {
+		"min": 130
+	},
 	"material": "gem",
 	"properties": {
 		"SPEED": 1

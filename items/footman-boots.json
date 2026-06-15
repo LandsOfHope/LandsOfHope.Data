@@ -4,6 +4,9 @@
 	"baseValue": 546,
 	"id": "footman-boots",
 	"image": "2586",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "foot-armour"

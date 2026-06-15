@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "feathered-earring",
 	"image": "ql1",
+	"level": {
+		"min": 10
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

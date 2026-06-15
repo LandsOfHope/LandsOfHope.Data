@@ -4,6 +4,9 @@
 	"baseValue": 509,
 	"id": "archaic-helmet",
 	"image": "fe5vohe",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "archaeology",
 	"skills": {

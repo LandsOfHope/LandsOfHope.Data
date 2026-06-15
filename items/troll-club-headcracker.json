@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "troll-club-headcracker",
 	"image": "hr2",
+	"level": {
+		"min": 80
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

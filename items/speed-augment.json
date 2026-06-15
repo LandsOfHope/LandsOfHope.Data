@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "speed-augment",
 	"image": "6817",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"SPEED": 1.2

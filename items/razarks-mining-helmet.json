@@ -4,6 +4,9 @@
 	"baseValue": 23,
 	"id": "razarks-mining-helmet",
 	"image": "5028",
+	"level": {
+		"min": 750
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1

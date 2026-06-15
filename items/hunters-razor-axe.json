@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "hunters-razor-axe",
 	"image": "aba",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

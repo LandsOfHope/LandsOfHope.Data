@@ -4,6 +4,9 @@
 	"baseValue": 5623,
 	"id": "regal-vest",
 	"image": "3093",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2814,
 	"id": "foresters-shoulders",
 	"image": "3008",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

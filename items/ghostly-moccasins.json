@@ -4,6 +4,9 @@
 	"baseValue": 4219,
 	"id": "ghostly-moccasins",
 	"image": "2867",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

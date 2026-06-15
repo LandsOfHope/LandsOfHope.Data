@@ -4,6 +4,9 @@
 	"dpr": 83,
 	"id": "guilded-infamous-fine-blade",
 	"image": "sw1",
+	"level": {
+		"min": 810
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

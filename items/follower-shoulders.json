@@ -4,6 +4,9 @@
 	"baseValue": 719,
 	"id": "follower-shoulders",
 	"image": "3247",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

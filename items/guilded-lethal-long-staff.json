@@ -4,6 +4,9 @@
 	"dpr": 63,
 	"id": "guilded-lethal-long-staff",
 	"image": "sf",
+	"level": {
+		"min": 610
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

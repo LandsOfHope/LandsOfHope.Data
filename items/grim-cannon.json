@@ -4,6 +4,9 @@
 	"dpr": 27,
 	"id": "grim-cannon",
 	"image": "ss2",
+	"level": {
+		"min": 250
+	},
 	"material": "metal",
 	"skill": "siege-weapons",
 	"skills": {

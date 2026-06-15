@@ -3,6 +3,9 @@
 	"baseValue": 2285,
 	"id": "charm-of-the-earth",
 	"image": "zuchea",
+	"level": {
+		"min": 325
+	},
 	"material": "wood",
 	"skills": {
 		"earth-magic": 1

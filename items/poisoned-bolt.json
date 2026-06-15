@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "poisoned-bolt",
 	"image": "zupobo",
+	"level": {
+		"min": 61
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

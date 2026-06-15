@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "arrowhead",
 	"image": "ar1",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"HITPOINTS": 1

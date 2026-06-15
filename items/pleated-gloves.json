@@ -4,6 +4,9 @@
 	"baseValue": 374,
 	"id": "pleated-gloves",
 	"image": "3126",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "hand-armour"

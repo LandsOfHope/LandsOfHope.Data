@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "crimson-paper",
 	"image": "pcrimson",
+	"level": {
+		"min": 695
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

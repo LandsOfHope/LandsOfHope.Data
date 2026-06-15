@@ -3,6 +3,9 @@
 	"baseValue": 27,
 	"id": "leech-sponge-plant",
 	"image": "1459",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

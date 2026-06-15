@@ -4,6 +4,9 @@
 	"baseValue": 6534,
 	"id": "touched-basinet",
 	"image": "cse",
+	"level": {
+		"min": 930
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "tees-safety-rope",
 	"image": "rl1",
+	"level": {
+		"min": 75
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "combat-item"

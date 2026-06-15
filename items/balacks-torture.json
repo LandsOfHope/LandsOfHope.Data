@@ -4,6 +4,9 @@
 	"dpr": 93,
 	"id": "balacks-torture",
 	"image": "5039",
+	"level": {
+		"min": 910
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

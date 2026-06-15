@@ -4,6 +4,9 @@
 	"baseValue": 550,
 	"id": "footman-legs",
 	"image": "2256",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "leg-armour"

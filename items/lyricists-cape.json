@@ -4,6 +4,9 @@
 	"baseValue": 2544,
 	"id": "lyricists-cape",
 	"image": "cob",
+	"level": {
+		"min": 360
+	},
 	"material": "cloth",
 	"skills": {
 		"instruments": 1

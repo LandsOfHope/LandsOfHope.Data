@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "scale",
 	"image": "2092",
+	"level": {
+		"min": 1
+	},
 	"material": "snake",
 	"skills": {
 		"armor": 1,

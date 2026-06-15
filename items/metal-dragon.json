@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "metal-dragon",
 	"image": "5828",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

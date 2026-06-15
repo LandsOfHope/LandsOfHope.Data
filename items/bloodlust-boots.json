@@ -4,6 +4,9 @@
 	"baseValue": 368,
 	"id": "bloodlust-boots",
 	"image": "6507",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

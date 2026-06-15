@@ -4,6 +4,9 @@
 	"baseValue": 6,
 	"id": "battleready-headband",
 	"image": "zumahb",
+	"level": {
+		"min": 250
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1,

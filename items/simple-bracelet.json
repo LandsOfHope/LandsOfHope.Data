@@ -4,6 +4,9 @@
 	"baseValue": 304,
 	"id": "simple-bracelet",
 	"image": "gmsibr",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

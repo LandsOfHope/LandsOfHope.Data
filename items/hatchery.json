@@ -3,6 +3,9 @@
 	"baseValue": 4925,
 	"id": "hatchery",
 	"image": "ra",
+	"level": {
+		"min": 700
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

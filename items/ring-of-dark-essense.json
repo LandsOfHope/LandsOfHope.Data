@@ -3,6 +3,9 @@
 	"baseValue": 970,
 	"id": "ring-of-dark-essense",
 	"image": "rg8",
+	"level": {
+		"min": 135
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

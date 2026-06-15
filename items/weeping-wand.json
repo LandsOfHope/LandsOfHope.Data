@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "weeping-wand",
 	"image": "wand14",
+	"level": {
+		"min": 601
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

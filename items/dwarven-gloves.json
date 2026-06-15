@@ -4,6 +4,9 @@
 	"baseValue": 1480,
 	"id": "dwarven-gloves",
 	"image": "483",
+	"level": {
+		"min": 210
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

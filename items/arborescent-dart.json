@@ -4,6 +4,9 @@
 	"dpr": 50,
 	"id": "arborescent-dart",
 	"image": "drt",
+	"level": {
+		"min": 481
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "greenmead-banner",
 	"image": "5939",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "privilege-of-the-payer",
 	"image": "5890",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

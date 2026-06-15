@@ -4,6 +4,9 @@
 	"baseValue": 4213,
 	"id": "wicked-armchains",
 	"image": "2735",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

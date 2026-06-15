@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "blank-hand-protection",
 	"image": "6812",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"set": "inventor-basic-set",
 	"skill": "augmenting",

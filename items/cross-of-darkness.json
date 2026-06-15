@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "cross-of-darkness",
 	"image": "cso",
+	"level": {
+		"min": 500
+	},
 	"material": "wood",
 	"skill": "maces",
 	"skills": {

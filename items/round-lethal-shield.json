@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "round-lethal-shield",
 	"image": "sd6",
+	"level": {
+		"min": 600
+	},
 	"material": "wood",
 	"skill": "shields",
 	"skills": {

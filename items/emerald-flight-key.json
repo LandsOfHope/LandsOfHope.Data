@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "emerald-flight-key",
 	"image": "3210",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "key"

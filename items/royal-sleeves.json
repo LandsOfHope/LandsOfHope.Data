@@ -4,6 +4,9 @@
 	"baseValue": 6661,
 	"id": "royal-sleeves",
 	"image": "3224",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

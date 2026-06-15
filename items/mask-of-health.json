@@ -4,6 +4,9 @@
 	"baseValue": 24,
 	"id": "mask-of-health",
 	"image": "zumahe",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

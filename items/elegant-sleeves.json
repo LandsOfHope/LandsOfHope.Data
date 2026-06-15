@@ -4,6 +4,9 @@
 	"baseValue": 4215,
 	"id": "elegant-sleeves",
 	"image": "3222",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

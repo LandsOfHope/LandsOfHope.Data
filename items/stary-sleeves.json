@@ -4,6 +4,9 @@
 	"baseValue": 1427,
 	"id": "stary-sleeves",
 	"image": "3218",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

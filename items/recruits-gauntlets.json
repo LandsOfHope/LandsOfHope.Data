@@ -4,6 +4,9 @@
 	"baseValue": 298,
 	"id": "recruits-gauntlets",
 	"image": "gmrega",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

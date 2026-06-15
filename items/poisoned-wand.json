@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "poisoned-wand",
 	"image": "wand05",
+	"level": {
+		"min": 46
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

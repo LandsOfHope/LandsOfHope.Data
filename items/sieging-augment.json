@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "sieging-augment",
 	"image": "6873",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"siege-weapons": 1

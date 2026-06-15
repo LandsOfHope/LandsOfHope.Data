@@ -3,6 +3,9 @@
 	"baseValue": 123,
 	"id": "large-shield-rack",
 	"image": "hwk",
+	"level": {
+		"min": 245
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "storage-box"

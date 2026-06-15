@@ -3,6 +3,9 @@
 	"baseValue": 122,
 	"id": "loom",
 	"image": "lm",
+	"level": {
+		"min": 14
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "tailoring-cloth-maker"

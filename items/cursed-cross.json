@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "cursed-cross",
 	"image": "cso",
+	"level": {
+		"min": 600
+	},
 	"material": "wood",
 	"skill": "maces",
 	"skills": {

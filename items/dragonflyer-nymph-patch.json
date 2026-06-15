@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "dragonflyer-nymph-patch",
 	"image": "gmdrnypa",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

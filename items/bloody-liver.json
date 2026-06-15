@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "bloody-liver",
 	"image": "6341",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "trophy"

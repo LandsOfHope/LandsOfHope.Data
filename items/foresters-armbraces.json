@@ -4,6 +4,9 @@
 	"baseValue": 2811,
 	"id": "foresters-armbraces",
 	"image": "2986",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

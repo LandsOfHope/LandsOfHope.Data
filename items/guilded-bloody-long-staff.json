@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "guilded-bloody-long-staff",
 	"image": "staff03",
+	"level": {
+		"min": 510
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

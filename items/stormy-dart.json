@@ -4,6 +4,9 @@
 	"dpr": 74,
 	"id": "stormy-dart",
 	"image": "drt",
+	"level": {
+		"min": 721
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

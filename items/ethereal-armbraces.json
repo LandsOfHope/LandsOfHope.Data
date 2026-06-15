@@ -4,6 +4,9 @@
 	"baseValue": 3513,
 	"id": "ethereal-armbraces",
 	"image": "3231",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

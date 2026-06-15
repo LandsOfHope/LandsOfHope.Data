@@ -4,6 +4,9 @@
 	"dpr": 92,
 	"id": "rippling-dart",
 	"image": "drt",
+	"level": {
+		"min": 901
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

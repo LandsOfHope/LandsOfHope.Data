@@ -4,6 +4,9 @@
 	"baseValue": 4708,
 	"id": "tainted-chaps",
 	"image": "cgh",
+	"level": {
+		"min": 670
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

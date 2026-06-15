@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "karollwyn-flower",
 	"image": "5763",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

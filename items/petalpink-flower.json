@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "petalpink-flower",
 	"image": "5771",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

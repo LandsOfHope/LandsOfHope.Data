@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-mallet",
 	"image": "cb",
+	"level": {
+		"min": 400
+	},
 	"material": "wood",
 	"skill": "maces",
 	"skills": {

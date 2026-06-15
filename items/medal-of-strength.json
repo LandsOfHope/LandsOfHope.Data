@@ -4,6 +4,9 @@
 	"baseValue": 16,
 	"id": "medal-of-strength",
 	"image": "2217",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

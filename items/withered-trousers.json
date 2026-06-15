@@ -4,6 +4,9 @@
 	"baseValue": 270,
 	"id": "withered-trousers",
 	"image": "1570",
+	"level": {
+		"min": 35
+	},
 	"material": "wood",
 	"properties": {
 		"MAXMANA": 1

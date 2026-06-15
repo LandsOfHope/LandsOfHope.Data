@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "trikraken-scalebelt",
 	"image": "lban2",
+	"level": {
+		"min": 110
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

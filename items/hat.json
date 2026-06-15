@@ -4,6 +4,9 @@
 	"baseValue": 23,
 	"id": "hat",
 	"image": "19",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

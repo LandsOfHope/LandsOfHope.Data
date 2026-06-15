@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "compound-bow",
 	"image": "c2b",
+	"level": {
+		"min": 35
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

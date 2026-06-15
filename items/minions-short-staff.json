@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "minions-short-staff",
 	"image": "shs",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"properties": {
 		"STRENGTH": 1

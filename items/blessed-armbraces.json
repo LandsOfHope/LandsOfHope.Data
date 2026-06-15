@@ -4,6 +4,9 @@
 	"baseValue": 1423,
 	"id": "blessed-armbraces",
 	"image": "2720",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

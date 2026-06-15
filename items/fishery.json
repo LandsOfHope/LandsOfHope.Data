@@ -3,6 +3,9 @@
 	"baseValue": 4221,
 	"id": "fishery",
 	"image": "rf",
+	"level": {
+		"min": 600
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

@@ -3,6 +3,9 @@
 	"baseValue": 3,
 	"id": "taters",
 	"image": "zutaar",
+	"level": {
+		"min": 5
+	},
 	"material": "vegetable",
 	"properties": {
 		"HITPOINTS": 1

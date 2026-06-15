@@ -4,6 +4,9 @@
 	"dpr": 11,
 	"id": "frosty-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 91
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -3,6 +3,9 @@
 	"baseValue": 3136,
 	"id": "ancient-bowl",
 	"image": "abl",
+	"level": {
+		"min": 445
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

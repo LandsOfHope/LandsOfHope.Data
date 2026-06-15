@@ -4,6 +4,9 @@
 	"dpr": 48,
 	"id": "verdant-dart",
 	"image": "drt",
+	"level": {
+		"min": 466
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

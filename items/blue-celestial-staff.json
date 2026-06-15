@@ -4,6 +4,9 @@
 	"dpr": 12,
 	"id": "blue-celestial-staff",
 	"image": "6014",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"properties": {
 		"MAXMANA": 1

@@ -4,6 +4,9 @@
 	"baseValue": 1418,
 	"id": "embossed-moccasins",
 	"image": "2863",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 6663,
 	"id": "allsparks-steampowered-helmet",
 	"image": "6726",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

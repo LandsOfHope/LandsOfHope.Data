@@ -4,6 +4,9 @@
 	"baseValue": 21,
 	"id": "simple-vest",
 	"image": "3085",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

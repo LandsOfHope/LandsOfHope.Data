@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "pulp",
 	"image": "gn2",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skill": "intercession",
 	"stackLimit": 1000,

@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-dirk",
 	"image": "drk",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

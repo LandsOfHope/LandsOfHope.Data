@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "elite-demented-earring",
 	"image": "5942",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1.2,

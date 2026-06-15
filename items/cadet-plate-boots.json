@@ -4,6 +4,9 @@
 	"baseValue": 375,
 	"id": "cadet-plate-boots",
 	"image": "2310",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

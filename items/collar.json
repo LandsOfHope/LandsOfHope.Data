@@ -4,6 +4,9 @@
 	"baseValue": 1071,
 	"id": "collar",
 	"image": "car",
+	"level": {
+		"min": 150
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

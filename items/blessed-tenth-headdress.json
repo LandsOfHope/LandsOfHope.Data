@@ -4,6 +4,9 @@
 	"baseValue": 4300,
 	"id": "blessed-tenth-headdress",
 	"image": "ta1",
+	"level": {
+		"min": 930
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

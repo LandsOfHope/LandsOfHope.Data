@@ -3,6 +3,9 @@
 	"baseValue": 605,
 	"id": "ring-of-assault",
 	"image": "asr",
+	"level": {
+		"min": 85
+	},
 	"material": "gem",
 	"skills": {
 		"siege-magic": 1,

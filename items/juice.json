@@ -3,6 +3,9 @@
 	"baseValue": 76,
 	"id": "juice",
 	"image": "jui",
+	"level": {
+		"min": 150
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 1

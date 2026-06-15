@@ -3,6 +3,9 @@
 	"baseValue": 21,
 	"id": "quest-post-board",
 	"image": "si1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "quest-list-item"

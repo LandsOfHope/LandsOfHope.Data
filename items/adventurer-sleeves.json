@@ -4,6 +4,9 @@
 	"baseValue": 2117,
 	"id": "adventurer-sleeves",
 	"image": "2974",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

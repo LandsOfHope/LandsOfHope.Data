@@ -4,6 +4,9 @@
 	"dpr": 30,
 	"id": "sprouting-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 286
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

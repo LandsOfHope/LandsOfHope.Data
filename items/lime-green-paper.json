@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "lime-green-paper",
 	"image": "plimegreen",
+	"level": {
+		"min": 765
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

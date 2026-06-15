@@ -4,6 +4,9 @@
 	"baseValue": 3171,
 	"id": "feather-headband",
 	"image": "607",
+	"level": {
+		"min": 450
+	},
 	"material": "bird",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -3,6 +3,9 @@
 	"baseValue": 361,
 	"id": "glowing-wind-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 720
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "ribcage-shield",
 	"image": "sdd",
+	"level": {
+		"min": 15
+	},
 	"material": "gem",
 	"properties": {
 		"STRENGTH": 1

@@ -4,6 +4,9 @@
 	"baseValue": 19,
 	"id": "deathcrawler-blessing",
 	"image": "6286",
+	"level": {
+		"min": 1000
+	},
 	"material": "stone",
 	"skills": {
 		"air-resistance": 1,

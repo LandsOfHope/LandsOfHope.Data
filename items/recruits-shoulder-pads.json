@@ -4,6 +4,9 @@
 	"baseValue": 310,
 	"id": "recruits-shoulder-pads",
 	"image": "2749",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

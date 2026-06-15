@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "mud",
 	"image": "mud",
+	"level": {
+		"min": 25
+	},
 	"material": "stone",
 	"skill": "thrown-weapons",
 	"skills": {

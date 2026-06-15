@@ -4,6 +4,9 @@
 	"baseValue": 1409,
 	"id": "blessed-plate",
 	"image": "2302",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

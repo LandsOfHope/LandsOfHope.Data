@@ -4,6 +4,9 @@
 	"dpr": 41,
 	"id": "earthen-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 391
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

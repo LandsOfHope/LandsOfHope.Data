@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "tinker-tools",
 	"image": "blr",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "tinkering",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 6461,
 	"id": "cloth-mill",
 	"image": "1066",
+	"level": {
+		"min": 920
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

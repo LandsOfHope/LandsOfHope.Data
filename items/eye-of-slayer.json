@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "eye-of-slayer",
 	"image": "1692",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

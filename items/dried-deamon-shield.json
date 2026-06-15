@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "dried-deamon-shield",
 	"image": "sh2",
+	"level": {
+		"min": 40
+	},
 	"material": "wood",
 	"properties": {
 		"MAXHITPOINTS": 1

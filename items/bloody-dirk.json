@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "bloody-dirk",
 	"image": "drk",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

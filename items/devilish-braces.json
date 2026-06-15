@@ -4,6 +4,9 @@
 	"baseValue": 6658,
 	"id": "devilish-braces",
 	"image": "3001",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

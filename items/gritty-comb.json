@@ -3,6 +3,9 @@
 	"baseValue": 230,
 	"id": "gritty-comb",
 	"image": "gcb",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

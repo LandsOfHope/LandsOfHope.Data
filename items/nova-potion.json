@@ -4,6 +4,9 @@
 	"dpr": 81,
 	"id": "nova-potion",
 	"image": "pe5",
+	"level": {
+		"min": 799
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

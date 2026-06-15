@@ -4,6 +4,9 @@
 	"dpr": 56,
 	"id": "icy-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 541
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

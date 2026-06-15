@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-devilish-vest",
 	"image": "3813",
+	"level": {
+		"min": 960
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

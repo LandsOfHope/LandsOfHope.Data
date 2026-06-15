@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "painting-by-van-guk",
 	"image": "zupabyva",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "stolen-item-easy"
 }

@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "shocking-potion",
 	"image": "pf2",
+	"level": {
+		"min": 15
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

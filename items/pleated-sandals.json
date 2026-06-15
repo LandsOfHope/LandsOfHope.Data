@@ -4,6 +4,9 @@
 	"baseValue": 362,
 	"id": "pleated-sandals",
 	"image": "3116",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "foot-armour"

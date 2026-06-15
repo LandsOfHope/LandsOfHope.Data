@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-dagger",
 	"image": "dg",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

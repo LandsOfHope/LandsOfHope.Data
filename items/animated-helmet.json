@@ -4,6 +4,9 @@
 	"baseValue": 18,
 	"id": "animated-helmet",
 	"image": "6354",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

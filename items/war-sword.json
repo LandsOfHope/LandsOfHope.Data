@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "war-sword",
 	"image": "rusty",
+	"level": {
+		"min": 10
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

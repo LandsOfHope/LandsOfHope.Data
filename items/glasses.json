@@ -3,6 +3,9 @@
 	"baseValue": 411,
 	"id": "glasses",
 	"image": "1993",
+	"level": {
+		"min": 55
+	},
 	"material": "gem",
 	"skills": {
 		"appraisal": 1

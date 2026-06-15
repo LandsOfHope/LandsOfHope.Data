@@ -3,6 +3,9 @@
 	"baseValue": 718,
 	"id": "band",
 	"image": "rgg",
+	"level": {
+		"min": 100
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

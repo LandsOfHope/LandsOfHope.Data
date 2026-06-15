@@ -3,6 +3,9 @@
 	"baseValue": 2210,
 	"id": "splintered-idol",
 	"image": "923",
+	"level": {
+		"min": 30
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

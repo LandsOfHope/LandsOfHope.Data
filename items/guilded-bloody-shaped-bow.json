@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "guilded-bloody-shaped-bow",
 	"image": "bw",
+	"level": {
+		"min": 510
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

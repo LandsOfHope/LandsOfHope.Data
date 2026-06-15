@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "earring-of-harmony",
 	"image": "feeaha",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "myzan-standard-piece-ix",
 	"image": "cl1",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "quest-item"

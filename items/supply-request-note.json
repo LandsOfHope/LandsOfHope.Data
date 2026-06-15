@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "supply-request-note",
 	"image": "fesureno",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "quest-item"

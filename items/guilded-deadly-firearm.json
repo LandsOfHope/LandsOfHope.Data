@@ -4,6 +4,9 @@
 	"dpr": 73,
 	"id": "guilded-deadly-firearm",
 	"image": "pl1",
+	"level": {
+		"min": 710
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

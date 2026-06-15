@@ -3,6 +3,9 @@
 	"baseValue": 2684,
 	"id": "wedding-ring",
 	"image": "rg8",
+	"level": {
+		"min": 380
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "ring"

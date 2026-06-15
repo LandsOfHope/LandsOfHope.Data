@@ -4,6 +4,9 @@
 	"baseValue": 724,
 	"id": "ravaged-armchains",
 	"image": "2730",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

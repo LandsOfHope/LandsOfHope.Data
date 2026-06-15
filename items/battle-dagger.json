@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-dagger",
 	"image": "dg",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

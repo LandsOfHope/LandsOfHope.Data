@@ -4,6 +4,9 @@
 	"baseValue": 5832,
 	"id": "twined-basinet",
 	"image": "cse",
+	"level": {
+		"min": 830
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

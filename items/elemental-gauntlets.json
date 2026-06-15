@@ -4,6 +4,9 @@
 	"baseValue": 18,
 	"id": "elemental-gauntlets",
 	"image": "6381",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"set": "elemental-set",
 	"stackLimit": 1,

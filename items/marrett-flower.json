@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "marrett-flower",
 	"image": "5756",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

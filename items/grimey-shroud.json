@@ -4,6 +4,9 @@
 	"baseValue": 1496,
 	"id": "grimey-shroud",
 	"image": "959",
+	"level": {
+		"min": 210
+	},
 	"material": "cloth",
 	"skills": {
 		"drain-resistance": 1,

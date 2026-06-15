@@ -4,6 +4,9 @@
 	"baseValue": 709,
 	"id": "elemental-chestplate",
 	"image": "6378",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"set": "elemental-set",
 	"stackLimit": 1,

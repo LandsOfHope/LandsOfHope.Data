@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "lens",
 	"image": "len",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "glasses-shades"

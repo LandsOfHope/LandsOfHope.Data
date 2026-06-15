@@ -3,6 +3,9 @@
 	"baseValue": 1030,
 	"id": "tome",
 	"image": "1534",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "scroll"

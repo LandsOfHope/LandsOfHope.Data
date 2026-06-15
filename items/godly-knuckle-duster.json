@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-knuckle-duster",
 	"image": "nft",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

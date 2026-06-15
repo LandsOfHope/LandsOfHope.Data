@@ -3,6 +3,9 @@
 	"baseValue": 996,
 	"id": "ring-of-dark-shadows",
 	"image": "rg9",
+	"level": {
+		"min": 140
+	},
 	"material": "gem",
 	"skill": "stealth",
 	"skills": {

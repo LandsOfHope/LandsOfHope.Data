@@ -4,6 +4,9 @@
 	"baseValue": 2120,
 	"id": "adventurer-boots",
 	"image": "2842",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

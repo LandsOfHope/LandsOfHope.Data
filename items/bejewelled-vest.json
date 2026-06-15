@@ -4,6 +4,9 @@
 	"baseValue": 2117,
 	"id": "bejewelled-vest",
 	"image": "2567",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

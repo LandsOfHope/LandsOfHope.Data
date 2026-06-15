@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "long-hunters-bow",
 	"image": "bw2",
+	"level": {
+		"min": 200
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

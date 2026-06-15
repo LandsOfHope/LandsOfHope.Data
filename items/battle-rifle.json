@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-rifle",
 	"image": "re1",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "two-handed-guns",
 	"skills": {

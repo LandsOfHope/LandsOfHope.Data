@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "blank-stitched-chestpiece",
 	"image": "6857",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 0.75

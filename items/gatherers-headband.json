@@ -3,6 +3,9 @@
 	"baseValue": 5,
 	"id": "gatherers-headband",
 	"image": "778",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"skill": "artisan",
 	"stackLimit": 1,

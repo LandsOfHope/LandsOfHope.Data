@@ -4,6 +4,9 @@
 	"baseValue": 4144,
 	"id": "hellborn-boots",
 	"image": "cbt",
+	"level": {
+		"min": 590
+	},
 	"material": "hide",
 	"properties": {
 		"SPEED": 1

@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "lethal-hatchet",
 	"image": "ax7",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

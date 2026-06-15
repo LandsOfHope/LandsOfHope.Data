@@ -4,6 +4,9 @@
 	"baseValue": 374,
 	"id": "cured-doublet",
 	"image": "2816",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "chest-armour"

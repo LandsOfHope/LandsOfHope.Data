@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "trikraken-tooth-earring",
 	"image": "eas",
+	"level": {
+		"min": 110
+	},
 	"material": "gem",
 	"properties": {
 		"STRENGTH": 1

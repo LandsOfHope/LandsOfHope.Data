@@ -4,6 +4,9 @@
 	"dpr": 35,
 	"id": "sprouting-potion",
 	"image": "pe5",
+	"level": {
+		"min": 337
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

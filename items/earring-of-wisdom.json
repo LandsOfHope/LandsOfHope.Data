@@ -4,6 +4,9 @@
 	"baseValue": 12,
 	"id": "earring-of-wisdom",
 	"image": "859",
+	"level": {
+		"min": 650
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

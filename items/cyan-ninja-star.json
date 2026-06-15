@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "cyan-ninja-star",
 	"image": "6409",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "thrown-weapons",
 	"skills": {

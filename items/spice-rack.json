@@ -3,6 +3,9 @@
 	"baseValue": 48,
 	"id": "spice-rack",
 	"image": "pwk",
+	"level": {
+		"min": 95
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "storage-box"

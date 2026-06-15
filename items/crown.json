@@ -4,6 +4,9 @@
 	"baseValue": 123,
 	"id": "crown",
 	"image": "cw",
+	"level": {
+		"min": 15
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

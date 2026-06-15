@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-adventurer-leggings",
 	"image": "3819",
+	"level": {
+		"min": 310
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "alicia-flower",
 	"image": "5791",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

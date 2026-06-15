@@ -4,6 +4,9 @@
 	"baseValue": 552,
 	"id": "strung-breeches",
 	"image": "2806",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "leg-armour"

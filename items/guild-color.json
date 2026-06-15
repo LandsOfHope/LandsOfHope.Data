@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "guild-color",
 	"image": "zsgc1",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"HITPOINTS": 1,

@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "boarding-axe",
 	"image": "zuboax",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

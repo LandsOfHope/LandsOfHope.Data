@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "jewel-encrusted-earring",
 	"image": "4830",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 1413,
 	"id": "embossed-shoulder-pads",
 	"image": "3017",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

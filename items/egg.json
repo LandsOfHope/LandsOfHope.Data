@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "egg",
 	"image": "eg2",
+	"level": {
+		"min": 1
+	},
 	"material": "bird",
 	"properties": {
 		"HITPOINTS": 1

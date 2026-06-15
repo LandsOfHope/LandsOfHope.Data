@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "rat-juice",
 	"image": "5897",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "magic-potion-other"
 }

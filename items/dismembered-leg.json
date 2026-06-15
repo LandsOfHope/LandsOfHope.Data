@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "dismembered-leg",
 	"image": "587",
+	"level": {
+		"min": 35
+	},
 	"material": "hide",
 	"skill": "two-handed-maces",
 	"skills": {

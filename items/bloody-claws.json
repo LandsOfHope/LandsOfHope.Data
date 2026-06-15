@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "bloody-claws",
 	"image": "ft2",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

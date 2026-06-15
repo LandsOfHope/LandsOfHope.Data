@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "boiled-ice-troll-skull",
 	"image": "sl",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

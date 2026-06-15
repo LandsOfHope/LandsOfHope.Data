@@ -4,6 +4,9 @@
 	"baseValue": 538,
 	"id": "strung-doublet",
 	"image": "2817",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "chest-armour"

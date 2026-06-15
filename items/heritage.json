@@ -3,6 +3,9 @@
 	"baseValue": 6663,
 	"id": "heritage",
 	"image": "gmhegi",
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

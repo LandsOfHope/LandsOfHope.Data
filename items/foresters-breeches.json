@@ -4,6 +4,9 @@
 	"baseValue": 2810,
 	"id": "foresters-breeches",
 	"image": "2810",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

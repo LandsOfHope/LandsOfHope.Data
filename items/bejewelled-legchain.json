@@ -4,6 +4,9 @@
 	"baseValue": 2118,
 	"id": "bejewelled-legchain",
 	"image": "2545",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 4220,
 	"id": "elegant-mitts",
 	"image": "3142",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

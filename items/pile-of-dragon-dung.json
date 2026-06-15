@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "pile-of-dragon-dung",
 	"image": "5885",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "dung-pile"
 }

@@ -3,6 +3,9 @@
 	"baseValue": 1426,
 	"id": "necklace-of-torment",
 	"image": "zunot",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 539,
 	"id": "footman-chain-boots",
 	"image": "2575",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "foot-armour"

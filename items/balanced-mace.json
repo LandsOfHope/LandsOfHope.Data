@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "balanced-mace",
 	"image": "cb",
+	"level": {
+		"min": 45
+	},
 	"material": "stone",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2360,
 	"id": "stitched-hat",
 	"image": "what3",
+	"level": {
+		"min": 310
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

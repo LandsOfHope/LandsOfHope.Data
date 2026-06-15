@@ -4,6 +4,9 @@
 	"baseValue": 371,
 	"id": "cured-gloves",
 	"image": "2871",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "hand-armour"

@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "purple-celestial-dagger",
 	"image": "6003",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "celestial-weapons",
 	"skills": {

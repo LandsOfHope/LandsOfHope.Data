@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "light-yellow-potion",
 	"image": "py1",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"STAMINA": 1

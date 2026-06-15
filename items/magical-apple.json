@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "magical-apple",
 	"image": "6170",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MANA": 1

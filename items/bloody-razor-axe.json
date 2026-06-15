@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "bloody-razor-axe",
 	"image": "aba",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

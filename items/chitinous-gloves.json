@@ -4,6 +4,9 @@
 	"baseValue": 2323,
 	"id": "chitinous-gloves",
 	"image": "ctg",
+	"level": {
+		"min": 330
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

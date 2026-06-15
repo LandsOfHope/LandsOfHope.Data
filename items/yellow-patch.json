@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "yellow-patch",
 	"image": "6888",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

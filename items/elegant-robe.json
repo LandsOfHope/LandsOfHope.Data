@@ -4,6 +4,9 @@
 	"baseValue": 4224,
 	"id": "elegant-robe",
 	"image": "rb10",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

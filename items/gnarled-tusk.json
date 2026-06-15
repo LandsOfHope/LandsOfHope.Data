@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "gnarled-tusk",
 	"image": "zugntu",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

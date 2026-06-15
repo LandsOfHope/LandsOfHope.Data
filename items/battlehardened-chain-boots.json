@@ -4,6 +4,9 @@
 	"baseValue": 2820,
 	"id": "battlehardened-chain-boots",
 	"image": "2579",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "mythological-bag",
 	"image": "zumyba",
+	"level": {
+		"min": 101
+	},
 	"material": "hide",
 	"skills": {
 		"myth-and-legends": 1

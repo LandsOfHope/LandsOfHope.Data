@@ -4,6 +4,9 @@
 	"dpr": 67,
 	"id": "crying-potion",
 	"image": "pe5",
+	"level": {
+		"min": 659
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

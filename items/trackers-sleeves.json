@@ -4,6 +4,9 @@
 	"baseValue": 3513,
 	"id": "trackers-sleeves",
 	"image": "2976",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

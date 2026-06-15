@@ -4,6 +4,9 @@
 	"baseValue": 1410,
 	"id": "stary-robe",
 	"image": "rb12",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

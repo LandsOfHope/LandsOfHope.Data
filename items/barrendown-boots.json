@@ -6,6 +6,9 @@
 	"id": "barrendown-boots",
 	"image": "5668",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

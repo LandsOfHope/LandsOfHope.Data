@@ -4,6 +4,9 @@
 	"baseValue": 327,
 	"id": "serpentine-hat",
 	"image": "2097",
+	"level": {
+		"min": 45
+	},
 	"material": "snake",
 	"properties": {
 		"DEXTERITY": 1

@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "monkey-juice",
 	"image": "5894",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "magic-potion-other"
 }

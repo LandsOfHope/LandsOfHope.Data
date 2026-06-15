@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "cyan-crystal",
 	"image": "ycc",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "alchemy-ingredient"
 }

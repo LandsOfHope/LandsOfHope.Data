@@ -4,6 +4,9 @@
 	"dpr": 37,
 	"id": "undeathbringer",
 	"image": "5015",
+	"level": {
+		"min": 350
+	},
 	"material": "stone",
 	"skill": "pole-weapons",
 	"skills": {

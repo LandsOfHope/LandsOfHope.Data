@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "battlehammer",
 	"image": "bhr",
+	"level": {
+		"min": 25
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

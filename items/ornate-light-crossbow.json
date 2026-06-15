@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-light-crossbow",
 	"image": "xw2",
+	"level": {
+		"min": 300
+	},
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 1840,
 	"id": "mildewed-shroud",
 	"image": "920",
+	"level": {
+		"min": 260
+	},
 	"material": "cloth",
 	"skills": {
 		"drain-resistance": 1,

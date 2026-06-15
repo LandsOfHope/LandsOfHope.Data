@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "forest-green-paper",
 	"image": "pforestgree",
+	"level": {
+		"min": 635
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

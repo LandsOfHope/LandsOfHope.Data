@@ -3,6 +3,9 @@
 	"baseValue": 3867,
 	"id": "fountain-of-mana",
 	"image": "foun3",
+	"level": {
+		"min": 550
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

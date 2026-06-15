@@ -3,6 +3,9 @@
 	"baseValue": 51,
 	"id": "fried-fillet",
 	"image": "frf",
+	"level": {
+		"min": 100
+	},
 	"material": "fish",
 	"properties": {
 		"STAMINA": 1

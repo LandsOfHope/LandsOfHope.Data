@@ -4,6 +4,9 @@
 	"baseValue": 541,
 	"id": "footman-link-boots",
 	"image": "2597",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "foot-armour"

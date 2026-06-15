@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ashen-wand",
 	"image": "wand05",
+	"level": {
+		"min": 301
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

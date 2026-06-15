@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "rifle",
 	"image": "re4",
+	"level": {
+		"min": 25
+	},
 	"material": "metal",
 	"skill": "two-handed-guns",
 	"skills": {

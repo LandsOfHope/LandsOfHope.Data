@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "orb-of-power",
 	"image": "ob",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

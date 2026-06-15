@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "black-rod",
 	"image": "zublro",
+	"level": {
+		"min": 45
+	},
 	"material": "metal",
 	"skill": "staves",
 	"skills": {

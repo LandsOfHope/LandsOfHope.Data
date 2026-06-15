@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-umber-powder",
 	"image": "6434",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

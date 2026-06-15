@@ -4,6 +4,9 @@
 	"baseValue": 309,
 	"id": "chain-sleeves",
 	"image": "css",
+	"level": {
+		"min": 70
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

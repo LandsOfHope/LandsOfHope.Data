@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "stitchwork-belt",
 	"image": "6877",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,

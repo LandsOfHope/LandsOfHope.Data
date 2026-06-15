@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "sharpened-destiny-blade",
 	"image": "zushdebl",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -3,6 +3,9 @@
 	"baseValue": 501,
 	"id": "steak",
 	"image": "zustae",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"properties": {
 		"STAMINA": 3

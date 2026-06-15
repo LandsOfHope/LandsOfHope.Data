@@ -4,6 +4,9 @@
 	"dpr": 86,
 	"id": "flooding-wand",
 	"image": "wand10",
+	"level": {
+		"min": 841
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

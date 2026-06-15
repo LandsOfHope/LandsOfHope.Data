@@ -3,6 +3,9 @@
 	"baseValue": 6733,
 	"id": "rock-face",
 	"image": "1062",
+	"level": {
+		"min": 960
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

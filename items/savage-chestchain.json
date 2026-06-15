@@ -4,6 +4,9 @@
 	"baseValue": 5614,
 	"id": "savage-chestchain",
 	"image": "2516",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

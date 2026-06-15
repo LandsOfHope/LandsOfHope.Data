@@ -4,6 +4,9 @@
 	"baseValue": 10,
 	"id": "chainmail-coif",
 	"image": "4466",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

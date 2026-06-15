@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "red-alien-crystal-shard",
 	"image": "7003",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 1.2,

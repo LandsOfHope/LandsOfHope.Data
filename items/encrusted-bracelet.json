@@ -4,6 +4,9 @@
 	"baseValue": 364,
 	"id": "encrusted-bracelet",
 	"image": "gmenbr",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "wrist-jewelry"

@@ -4,6 +4,9 @@
 	"baseValue": 644,
 	"id": "chitinous-ribplate",
 	"image": "ctr",
+	"level": {
+		"min": 90
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

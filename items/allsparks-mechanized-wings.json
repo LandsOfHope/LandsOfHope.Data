@@ -3,6 +3,9 @@
 	"baseValue": 6663,
 	"id": "allsparks-mechanized-wings",
 	"image": "6725",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "emerald-bag",
 	"image": "5869",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"acid-resistance": 1,

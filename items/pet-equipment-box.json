@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "pet-equipment-box",
 	"image": "5882",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "pet-equipment-box"

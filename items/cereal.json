@@ -3,6 +3,9 @@
 	"baseValue": 41,
 	"id": "cereal",
 	"image": "ers",
+	"level": {
+		"min": 80
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 1

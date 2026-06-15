@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-bow",
 	"image": "bw",
+	"level": {
+		"min": 900
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

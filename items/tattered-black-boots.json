@@ -4,6 +4,9 @@
 	"baseValue": 1411,
 	"id": "tattered-black-boots",
 	"image": "bot",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"cold-resistance": 1,

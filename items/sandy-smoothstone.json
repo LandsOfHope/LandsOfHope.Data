@@ -4,6 +4,9 @@
 	"dpr": 21,
 	"id": "sandy-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 196
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

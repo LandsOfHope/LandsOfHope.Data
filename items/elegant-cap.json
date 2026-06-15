@@ -4,6 +4,9 @@
 	"baseValue": 4225,
 	"id": "elegant-cap",
 	"image": "3172",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

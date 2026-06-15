@@ -4,6 +4,9 @@
 	"baseValue": 3445,
 	"id": "sundried-boots",
 	"image": "cbt",
+	"level": {
+		"min": 490
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

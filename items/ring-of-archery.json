@@ -3,6 +3,9 @@
 	"baseValue": 782,
 	"id": "ring-of-archery",
 	"image": "rg4",
+	"level": {
+		"min": 110
+	},
 	"material": "gem",
 	"skills": {
 		"bows": 1,

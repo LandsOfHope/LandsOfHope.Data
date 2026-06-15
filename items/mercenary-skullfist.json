@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "mercenary-skullfist",
 	"image": "6661",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

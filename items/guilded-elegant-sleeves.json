@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-elegant-sleeves",
 	"image": "3947",
+	"level": {
+		"min": 610
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

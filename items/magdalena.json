@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "magdalena",
 	"image": "6506",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

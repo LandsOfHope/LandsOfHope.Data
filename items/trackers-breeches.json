@@ -4,6 +4,9 @@
 	"baseValue": 3515,
 	"id": "trackers-breeches",
 	"image": "2811",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

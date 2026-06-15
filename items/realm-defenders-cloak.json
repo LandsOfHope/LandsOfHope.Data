@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "realm-defenders-cloak",
 	"image": "5057",
+	"level": {
+		"min": 940
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

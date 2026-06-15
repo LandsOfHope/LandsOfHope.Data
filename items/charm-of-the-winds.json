@@ -3,6 +3,9 @@
 	"baseValue": 1594,
 	"id": "charm-of-the-winds",
 	"image": "zuchwi",
+	"level": {
+		"min": 225
+	},
 	"material": "wood",
 	"skills": {
 		"air-magic": 1

@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "diseased-dart",
 	"image": "drt",
+	"level": {
+		"min": 76
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

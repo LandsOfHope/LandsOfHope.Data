@@ -4,6 +4,9 @@
 	"dpr": 101,
 	"id": "ancient-dart",
 	"image": "drt",
+	"level": {
+		"min": 991
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

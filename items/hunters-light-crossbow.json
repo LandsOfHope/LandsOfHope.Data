@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "hunters-light-crossbow",
 	"image": "xw2",
+	"level": {
+		"min": 200
+	},
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {

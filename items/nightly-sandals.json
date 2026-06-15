@@ -4,6 +4,9 @@
 	"baseValue": 2115,
 	"id": "nightly-sandals",
 	"image": "3119",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

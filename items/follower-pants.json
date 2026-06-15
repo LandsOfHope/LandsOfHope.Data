@@ -4,6 +4,9 @@
 	"baseValue": 710,
 	"id": "follower-pants",
 	"image": "3047",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

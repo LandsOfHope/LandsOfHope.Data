@@ -3,6 +3,9 @@
 	"baseValue": 13,
 	"id": "poppers",
 	"image": "zupopr",
+	"level": {
+		"min": 25
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

@@ -3,6 +3,9 @@
 	"baseValue": 7,
 	"id": "pancake",
 	"image": "pan",
+	"level": {
+		"min": 12
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 1

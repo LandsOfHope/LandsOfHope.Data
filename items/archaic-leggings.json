@@ -4,6 +4,9 @@
 	"baseValue": 296,
 	"id": "archaic-leggings",
 	"image": "fe5vole",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "archaeology",
 	"skills": {

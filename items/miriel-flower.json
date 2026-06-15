@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "miriel-flower",
 	"image": "5745",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

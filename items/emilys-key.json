@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "emilys-key",
 	"image": "ky2",
+	"level": {
+		"min": 855
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "key"

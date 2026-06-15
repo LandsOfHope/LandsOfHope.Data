@@ -4,6 +4,9 @@
 	"dpr": 37,
 	"id": "leafy-potion",
 	"image": "pe5",
+	"level": {
+		"min": 351
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

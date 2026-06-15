@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "eye-of-icandria",
 	"image": "zuhon",
+	"level": {
+		"min": 610
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

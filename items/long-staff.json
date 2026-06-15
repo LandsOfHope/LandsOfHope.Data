@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "long-staff",
 	"image": "lsf",
+	"level": {
+		"min": 15
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

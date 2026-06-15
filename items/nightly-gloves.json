@@ -4,6 +4,9 @@
 	"baseValue": 2126,
 	"id": "nightly-gloves",
 	"image": "3129",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

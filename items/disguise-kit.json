@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "disguise-kit",
 	"image": "fl3",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "disguise-kit"

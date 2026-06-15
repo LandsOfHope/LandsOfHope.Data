@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "coffin-fragment",
 	"image": "6265",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "trophy"

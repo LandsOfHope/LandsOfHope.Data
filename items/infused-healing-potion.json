@@ -3,6 +3,9 @@
 	"baseValue": 150,
 	"id": "infused-healing-potion",
 	"image": "pr1",
+	"level": {
+		"min": 300
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 2.5

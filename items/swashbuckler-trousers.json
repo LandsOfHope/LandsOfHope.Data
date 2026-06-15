@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "swashbuckler-trousers",
 	"image": "5259",
+	"level": {
+		"min": 350
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

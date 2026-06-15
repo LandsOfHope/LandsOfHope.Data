@@ -4,6 +4,9 @@
 	"dpr": 54,
 	"id": "flaring-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 526
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

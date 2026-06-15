@@ -4,6 +4,9 @@
 	"dpr": 75,
 	"id": "magma-bullet",
 	"image": "bl",
+	"level": {
+		"min": 736
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

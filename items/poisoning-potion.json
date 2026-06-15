@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "poisoning-potion",
 	"image": "pe5",
+	"level": {
+		"min": 43
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

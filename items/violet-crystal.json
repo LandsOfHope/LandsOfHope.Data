@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "violet-crystal",
 	"image": "yvc",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "alchemy-ingredient"
 }

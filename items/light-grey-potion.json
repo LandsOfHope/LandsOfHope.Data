@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "light-grey-potion",
 	"image": "pg1",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

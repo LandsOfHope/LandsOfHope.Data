@@ -4,6 +4,9 @@
 	"baseValue": 1134,
 	"id": "elegant-breeches",
 	"image": "1840",
+	"level": {
+		"min": 160
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

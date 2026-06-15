@@ -3,6 +3,9 @@
 	"baseValue": 190,
 	"id": "cracked-broach",
 	"image": "ccb",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

@@ -4,6 +4,9 @@
 	"baseValue": 1417,
 	"id": "blessed-armchains",
 	"image": "2731",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

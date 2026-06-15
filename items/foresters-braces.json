@@ -4,6 +4,9 @@
 	"baseValue": 2827,
 	"id": "foresters-braces",
 	"image": "2997",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

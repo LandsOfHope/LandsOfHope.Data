@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "vine-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 211
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

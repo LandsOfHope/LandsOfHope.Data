@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "deadly-staff",
 	"image": "st1",
+	"level": {
+		"min": 700
+	},
 	"material": "wood",
 	"skill": "staves",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "frozen-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 601
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

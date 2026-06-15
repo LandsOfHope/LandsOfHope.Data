@@ -4,6 +4,9 @@
 	"baseValue": 4214,
 	"id": "ghostly-vest",
 	"image": "2834",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

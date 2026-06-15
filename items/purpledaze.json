@@ -4,6 +4,9 @@
 	"expansion": "jurassic-wars",
 	"id": "purpledaze",
 	"image": "musr8",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "jurassic-resource"
 }

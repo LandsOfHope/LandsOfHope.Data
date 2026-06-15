@@ -4,6 +4,9 @@
 	"baseValue": 709,
 	"id": "animated-chestplate",
 	"image": "6352",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

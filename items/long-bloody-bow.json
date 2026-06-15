@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "long-bloody-bow",
 	"image": "bw2",
+	"level": {
+		"min": 500
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

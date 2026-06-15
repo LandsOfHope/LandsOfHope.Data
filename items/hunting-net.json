@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "hunting-net",
 	"image": "hun",
+	"level": {
+		"min": 70
+	},
 	"material": "cloth",
 	"skill": "thrown-weapons",
 	"skills": {

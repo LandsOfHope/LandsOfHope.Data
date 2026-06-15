@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "expensive-furniture",
 	"image": "6424",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "lordship",
 	"stackLimit": 1,

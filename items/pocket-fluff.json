@@ -3,6 +3,9 @@
 	"baseValue": 120,
 	"id": "pocket-fluff",
 	"image": "zupofl",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

@@ -4,6 +4,9 @@
 	"baseValue": 6200,
 	"id": "splintchain-leggings",
 	"image": "cls",
+	"level": {
+		"min": 980
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "large-stock",
 	"image": "it",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "new-crafting-resource"

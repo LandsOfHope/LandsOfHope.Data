@@ -4,6 +4,9 @@
 	"dpr": 87,
 	"id": "fiery-bullet",
 	"image": "zufibu",
+	"level": {
+		"min": 856
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

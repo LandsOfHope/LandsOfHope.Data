@@ -4,6 +4,9 @@
 	"baseValue": 298,
 	"id": "sleeves",
 	"image": "245",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

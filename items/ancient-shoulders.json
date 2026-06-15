@@ -4,6 +4,9 @@
 	"baseValue": 500,
 	"id": "ancient-shoulders",
 	"image": "sss",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

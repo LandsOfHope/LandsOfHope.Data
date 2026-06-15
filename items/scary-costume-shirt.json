@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "scary-costume-shirt",
 	"image": "tcoat2",
+	"level": {
+		"min": 150
+	},
 	"material": "hide",
 	"set": "halloween-costume",
 	"skills": {

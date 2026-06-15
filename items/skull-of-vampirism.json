@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "skull-of-vampirism",
 	"image": "xsc",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,

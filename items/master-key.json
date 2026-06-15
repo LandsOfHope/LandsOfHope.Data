@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "master-key",
 	"image": "zumake",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "unlocking-tool"

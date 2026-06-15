@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "deathpit-grimoire",
 	"image": "bk1",
+	"level": {
+		"min": 380
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 720,
 	"id": "studded-moccasins",
 	"image": "2862",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

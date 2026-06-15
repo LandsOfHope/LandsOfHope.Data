@@ -4,6 +4,9 @@
 	"baseValue": 2120,
 	"id": "bejewelled-link-boots",
 	"image": "2600",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 50,
 	"id": "dahlia-bloom-earring",
 	"image": "1183",
+	"level": {
+		"min": 145
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,

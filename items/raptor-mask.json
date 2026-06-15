@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "raptor-mask",
 	"image": "5150",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

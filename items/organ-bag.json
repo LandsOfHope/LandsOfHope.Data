@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "organ-bag",
 	"image": "6337",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "special-chest"

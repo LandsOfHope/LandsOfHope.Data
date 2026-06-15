@@ -3,6 +3,9 @@
 	"baseValue": 86,
 	"id": "deathcrawler-egg",
 	"image": "zudeeg",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skill": "dark-hollow-clan",
 	"skills": {

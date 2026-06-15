@@ -3,6 +3,9 @@
 	"baseValue": 2114,
 	"id": "tinkers-lock",
 	"image": "lock",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "locks"

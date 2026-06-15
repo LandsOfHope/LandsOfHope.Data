@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-bejewelled-headguard",
 	"image": "3698",
+	"level": {
+		"min": 310
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

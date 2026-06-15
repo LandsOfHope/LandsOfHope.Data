@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "giant-slayer",
 	"image": "ar",
+	"level": {
+		"min": 65
+	},
 	"material": "stone",
 	"properties": {
 		"SPEED": 1

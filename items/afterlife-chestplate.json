@@ -5,6 +5,9 @@
 	"expansion": "the-afterlife",
 	"id": "afterlife-chestplate",
 	"image": "6383",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"set": "afterlife-set",
 	"stackLimit": 1,

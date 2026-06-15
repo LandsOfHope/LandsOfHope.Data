@@ -4,6 +4,9 @@
 	"dpr": 35,
 	"id": "leafy-bullet",
 	"image": "4153",
+	"level": {
+		"min": 331
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 19,
 	"id": "wintersvale-cookie",
 	"image": "c1k",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "food"

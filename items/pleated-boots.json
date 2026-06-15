@@ -4,6 +4,9 @@
 	"baseValue": 359,
 	"id": "pleated-boots",
 	"image": "3096",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "foot-armour"

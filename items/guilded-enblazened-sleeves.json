@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-enblazened-sleeves",
 	"image": "3945",
+	"level": {
+		"min": 410
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

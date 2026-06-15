@@ -3,6 +3,9 @@
 	"baseValue": 8,
 	"id": "shelf",
 	"image": "shf",
+	"level": {
+		"min": 15
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "storage-box"

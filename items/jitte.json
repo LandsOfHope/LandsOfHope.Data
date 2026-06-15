@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "jitte",
 	"image": "255",
+	"level": {
+		"min": 30
+	},
 	"material": "metal",
 	"skill": "maces",
 	"skills": {

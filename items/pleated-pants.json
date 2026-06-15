@@ -4,6 +4,9 @@
 	"baseValue": 367,
 	"id": "pleated-pants",
 	"image": "3046",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "leg-armour"

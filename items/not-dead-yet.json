@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "not-dead-yet",
 	"image": "zushndy",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "halloween-2007"
 }

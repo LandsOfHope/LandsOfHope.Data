@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "fruit",
 	"image": "fruit",
+	"level": {
+		"min": 1
+	},
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 1

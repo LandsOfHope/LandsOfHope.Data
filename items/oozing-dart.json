@@ -4,6 +4,9 @@
 	"dpr": 15,
 	"id": "oozing-dart",
 	"image": "drt",
+	"level": {
+		"min": 136
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

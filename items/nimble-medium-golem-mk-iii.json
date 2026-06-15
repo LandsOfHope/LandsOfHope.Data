@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "nimble-medium-golem-mk-iii",
 	"image": "2942",
+	"level": {
+		"min": 360
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "golem"

@@ -3,6 +3,9 @@
 	"baseValue": 6461,
 	"id": "fiber-plantation",
 	"image": "877",
+	"level": {
+		"min": 555
+	},
 	"material": "cloth",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

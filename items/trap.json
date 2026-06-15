@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "trap",
 	"image": "ss6",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "traps",
 	"stackLimit": 1000,

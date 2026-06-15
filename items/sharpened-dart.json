@@ -4,6 +4,9 @@
 	"dpr": 11,
 	"id": "sharpened-dart",
 	"image": "drt",
+	"level": {
+		"min": 91
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 3510,
 	"id": "trackers-pants",
 	"image": "2789",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

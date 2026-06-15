@@ -4,6 +4,9 @@
 	"baseValue": 291,
 	"id": "withered-shirt",
 	"image": "1572",
+	"level": {
+		"min": 40
+	},
 	"material": "wood",
 	"properties": {
 		"MAXMANA": 1

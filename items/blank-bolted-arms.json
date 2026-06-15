@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "blank-bolted-arms",
 	"image": "6827",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"set": "inventor-bolted-set",
 	"skill": "bolts-over-brains",

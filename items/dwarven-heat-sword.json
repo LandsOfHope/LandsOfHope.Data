@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "dwarven-heat-sword",
 	"image": "dhs",
+	"level": {
+		"min": 35
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

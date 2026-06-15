@@ -4,6 +4,9 @@
 	"dpr": 65,
 	"id": "crying-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 631
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

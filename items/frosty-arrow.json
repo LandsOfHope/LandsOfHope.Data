@@ -4,6 +4,9 @@
 	"dpr": 15,
 	"id": "frosty-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 136
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "mercenary-claymore",
 	"image": "6654",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

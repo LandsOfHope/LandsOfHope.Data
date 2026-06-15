@@ -4,6 +4,9 @@
 	"baseValue": 15,
 	"id": "medal-of-valor",
 	"image": "2210",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"STAMINA": 1

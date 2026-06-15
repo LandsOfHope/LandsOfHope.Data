@@ -4,6 +4,9 @@
 	"baseValue": 6659,
 	"id": "commanders-link-boots",
 	"image": "2605",
+	"level": {
+		"min": 950
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

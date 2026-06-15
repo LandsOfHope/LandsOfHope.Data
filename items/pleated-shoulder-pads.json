@@ -4,6 +4,9 @@
 	"baseValue": 375,
 	"id": "pleated-shoulder-pads",
 	"image": "3256",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "shoulders"

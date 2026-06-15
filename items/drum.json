@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "drum",
 	"image": "dm1",
+	"level": {
+		"min": 5
+	},
 	"material": "hide",
 	"skill": "instruments",
 	"skills": {

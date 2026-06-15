@@ -4,6 +4,9 @@
 	"baseValue": 2109,
 	"id": "adventurer-moccasins",
 	"image": "2864",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

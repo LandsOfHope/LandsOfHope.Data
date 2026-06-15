@@ -4,6 +4,9 @@
 	"baseValue": 361,
 	"id": "cured-tunic",
 	"image": "2772",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "chest-armour"

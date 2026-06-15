@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-flintlock",
 	"image": "pl1",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

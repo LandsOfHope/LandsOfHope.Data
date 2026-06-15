@@ -3,6 +3,9 @@
 	"baseValue": 6324,
 	"id": "trebuchet-ammo-siegery",
 	"image": "bl1",
+	"level": {
+		"min": 900
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

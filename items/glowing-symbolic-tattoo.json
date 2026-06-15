@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "glowing-symbolic-tattoo",
 	"image": "tattoo2",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1,

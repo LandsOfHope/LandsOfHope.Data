@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "short-bloody-sword",
 	"image": "sw1",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

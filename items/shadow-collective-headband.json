@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "shadow-collective-headband",
 	"image": "6560",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

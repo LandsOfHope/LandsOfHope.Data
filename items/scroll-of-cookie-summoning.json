@@ -3,6 +3,9 @@
 	"baseValue": 305,
 	"id": "scroll-of-cookie-summoning",
 	"image": "6717",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "cookie-spawner"

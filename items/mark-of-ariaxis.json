@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "mark-of-ariaxis",
 	"image": "zumaar",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

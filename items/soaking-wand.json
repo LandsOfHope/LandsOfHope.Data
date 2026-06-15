@@ -4,6 +4,9 @@
 	"dpr": 56,
 	"id": "soaking-wand",
 	"image": "wand05",
+	"level": {
+		"min": 541
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

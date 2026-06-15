@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "silk",
 	"image": "thd",
+	"level": {
+		"min": 1
+	},
 	"material": "spider",
 	"stackLimit": 1000,
 	"type": "resource-tailoring"

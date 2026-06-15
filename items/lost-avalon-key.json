@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "lost-avalon-key",
 	"image": "6916",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "key"

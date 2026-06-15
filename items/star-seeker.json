@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "star-seeker",
 	"image": "6022",
+	"level": {
+		"min": 1
+	},
 	"skill": "celestial-magic",
 	"stackLimit": 1,
 	"type": "star-metal-tracker"

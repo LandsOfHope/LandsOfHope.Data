@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-claws",
 	"image": "ft2",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

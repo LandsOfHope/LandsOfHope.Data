@@ -4,6 +4,9 @@
 	"baseValue": 377,
 	"id": "pleated-mitts",
 	"image": "3136",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "hand-armour"

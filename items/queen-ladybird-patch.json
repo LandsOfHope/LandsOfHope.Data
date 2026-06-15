@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "queen-ladybird-patch",
 	"image": "gmqulapa",
+	"level": {
+		"min": 850
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

@@ -4,6 +4,9 @@
 	"baseValue": 1,
 	"id": "cloak-of-villainy",
 	"image": "zufec",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

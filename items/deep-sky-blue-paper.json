@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "deep-sky-blue-paper",
 	"image": "pdeepskyblu",
+	"level": {
+		"min": 910
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

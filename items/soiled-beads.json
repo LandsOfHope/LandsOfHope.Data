@@ -3,6 +3,9 @@
 	"baseValue": 210,
 	"id": "soiled-beads",
 	"image": "grb",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

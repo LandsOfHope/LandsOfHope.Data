@@ -4,6 +4,9 @@
 	"dpr": 93,
 	"id": "rippling-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 916
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

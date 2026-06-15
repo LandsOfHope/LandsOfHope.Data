@@ -3,6 +3,9 @@
 	"baseValue": 2465,
 	"id": "ring-of-the-timberlands",
 	"image": "ring2",
+	"level": {
+		"min": 350
+	},
 	"material": "gem",
 	"skills": {
 		"carpentry": 1,

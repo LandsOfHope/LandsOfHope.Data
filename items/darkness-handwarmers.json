@@ -4,6 +4,9 @@
 	"baseValue": 5620,
 	"id": "darkness-handwarmers",
 	"image": "2901",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

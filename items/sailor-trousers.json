@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "sailor-trousers",
 	"image": "5249",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"properties": {
 		"SPEED": 1

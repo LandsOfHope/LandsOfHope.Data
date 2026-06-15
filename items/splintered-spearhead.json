@@ -3,6 +3,9 @@
 	"baseValue": 210,
 	"id": "splintered-spearhead",
 	"image": "sp2",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

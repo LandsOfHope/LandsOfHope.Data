@@ -3,6 +3,9 @@
 	"baseValue": 2157,
 	"id": "ring-of-the-ebon-aura",
 	"image": "ring11",
+	"level": {
+		"min": 305
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1

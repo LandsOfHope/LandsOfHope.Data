@@ -4,6 +4,9 @@
 	"baseValue": 368,
 	"id": "nocturnal-stilletos",
 	"image": "6753",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

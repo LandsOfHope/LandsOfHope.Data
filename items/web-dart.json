@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "web-dart",
 	"image": "drt",
+	"level": {
+		"min": 31
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

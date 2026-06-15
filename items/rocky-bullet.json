@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "rocky-bullet",
 	"image": "zurobu",
+	"level": {
+		"min": 706
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

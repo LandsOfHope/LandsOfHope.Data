@@ -4,6 +4,9 @@
 	"baseValue": 1000,
 	"id": "star-of-myzan",
 	"image": "6325",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"set": "antique-set",
 	"stackLimit": 1,

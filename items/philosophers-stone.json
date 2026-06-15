@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "philosophers-stone",
 	"image": "5959",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "transmogrification-trigger"

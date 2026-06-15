@@ -4,6 +4,9 @@
 	"baseValue": 540,
 	"id": "footman-armbraces",
 	"image": "2718",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "arm-armour"

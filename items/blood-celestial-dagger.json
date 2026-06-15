@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "blood-celestial-dagger",
 	"image": "6002",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

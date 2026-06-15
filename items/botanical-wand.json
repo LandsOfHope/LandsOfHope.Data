@@ -4,6 +4,9 @@
 	"dpr": 47,
 	"id": "botanical-wand",
 	"image": "wand10",
+	"level": {
+		"min": 451
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

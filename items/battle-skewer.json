@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-skewer",
 	"image": "sta",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 360,
 	"id": "feather-cloak",
 	"image": "cl4",
+	"level": {
+		"min": 50
+	},
 	"material": "bird",
 	"skills": {
 		"armor": 1

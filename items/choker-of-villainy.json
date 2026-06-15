@@ -4,6 +4,9 @@
 	"baseValue": 750,
 	"id": "choker-of-villainy",
 	"image": "zuchvi",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

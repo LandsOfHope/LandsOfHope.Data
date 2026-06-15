@@ -4,6 +4,9 @@
 	"baseValue": 5625,
 	"id": "darkness-shoulders",
 	"image": "3011",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

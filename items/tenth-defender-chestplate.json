@@ -4,6 +4,9 @@
 	"baseValue": 4300,
 	"id": "tenth-defender-chestplate",
 	"image": "5054",
+	"level": {
+		"min": 930
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

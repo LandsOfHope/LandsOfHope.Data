@@ -4,6 +4,9 @@
 	"dpr": 68,
 	"id": "forestprowlers-fang",
 	"image": "fops",
+	"level": {
+		"min": 660
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

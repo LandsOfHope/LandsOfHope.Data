@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "in-a-bottle",
 	"image": "292",
+	"level": {
+		"min": 1
+	},
 	"material": "fish",
 	"stackLimit": 1,
 	"type": "creature-in-a-bottle"

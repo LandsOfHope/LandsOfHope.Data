@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "the-rose-of-the-reaper",
 	"image": "2yri3",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "paintings"
 }

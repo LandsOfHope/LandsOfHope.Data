@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "cutlass",
 	"image": "cus",
+	"level": {
+		"min": 65
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

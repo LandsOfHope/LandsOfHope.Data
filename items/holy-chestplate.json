@@ -4,6 +4,9 @@
 	"baseValue": 1844,
 	"id": "holy-chestplate",
 	"image": "gmhoch",
+	"level": {
+		"min": 260
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

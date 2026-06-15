@@ -3,6 +3,9 @@
 	"baseValue": 721,
 	"id": "guild-bag",
 	"image": "bg6",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "bag"

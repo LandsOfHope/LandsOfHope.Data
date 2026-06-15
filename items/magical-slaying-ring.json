@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "magical-slaying-ring",
 	"image": "6909",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1.1,

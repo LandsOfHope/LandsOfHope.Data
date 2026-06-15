@@ -4,6 +4,9 @@
 	"baseValue": 549,
 	"id": "strung-shoes",
 	"image": "2850",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "foot-armour"

@@ -3,6 +3,9 @@
 	"baseValue": 93,
 	"id": "large-weapon-rack",
 	"image": "vwk",
+	"level": {
+		"min": 185
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "storage-box"

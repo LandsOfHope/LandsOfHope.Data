@@ -4,6 +4,9 @@
 	"baseValue": 233,
 	"id": "pelted-hat",
 	"image": "what8",
+	"level": {
+		"min": 30
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

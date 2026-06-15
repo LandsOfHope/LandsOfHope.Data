@@ -4,6 +4,9 @@
 	"dpr": 69,
 	"id": "smoldering-dart",
 	"image": "drt",
+	"level": {
+		"min": 676
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

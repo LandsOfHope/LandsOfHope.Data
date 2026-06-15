@@ -4,6 +4,9 @@
 	"baseValue": 260,
 	"id": "volleymasters-bracers",
 	"image": "bcs",
+	"level": {
+		"min": 35
+	},
 	"material": "hide",
 	"skills": {
 		"siege-weapons": 1

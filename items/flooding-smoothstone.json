@@ -4,6 +4,9 @@
 	"dpr": 86,
 	"id": "flooding-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 841
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

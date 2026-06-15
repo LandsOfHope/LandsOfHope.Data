@@ -4,6 +4,9 @@
 	"baseValue": 1415,
 	"id": "blessed-breastchain",
 	"image": "2555",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

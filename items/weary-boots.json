@@ -4,6 +4,9 @@
 	"baseValue": 503,
 	"id": "weary-boots",
 	"image": "4452",
+	"level": {
+		"min": 70
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

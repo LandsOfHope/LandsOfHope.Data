@@ -3,6 +3,9 @@
 	"baseValue": 376,
 	"id": "divine-healing-potion",
 	"image": "pdr",
+	"level": {
+		"min": 750
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 3.5

@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "battered-toy-rifle",
 	"image": "re1",
+	"level": {
+		"min": 15
+	},
 	"material": "wood",
 	"properties": {
 		"SPEED": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1204,
 	"id": "pendant-of-excavation",
 	"image": "zuruam",
+	"level": {
+		"min": 170
+	},
 	"material": "gem",
 	"skill": "mining",
 	"skills": {

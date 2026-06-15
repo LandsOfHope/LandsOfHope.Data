@@ -3,6 +3,9 @@
 	"baseValue": 4000,
 	"id": "grimbrow-figurine",
 	"image": "relic4",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1,

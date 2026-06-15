@@ -4,6 +4,9 @@
 	"baseValue": 201,
 	"id": "gloves-of-dark-shadows",
 	"image": "togldash",
+	"level": {
+		"min": 25
+	},
 	"material": "hide",
 	"skill": "stealth",
 	"skills": {

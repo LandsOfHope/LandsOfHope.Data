@@ -3,6 +3,9 @@
 	"baseValue": 6000,
 	"id": "cragstone-figurine",
 	"image": "relic6",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1,

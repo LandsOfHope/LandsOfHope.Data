@@ -4,6 +4,9 @@
 	"baseValue": 1198,
 	"id": "feather-blouse",
 	"image": "611",
+	"level": {
+		"min": 170
+	},
 	"material": "bird",
 	"properties": {
 		"MAXHITPOINTS": 1

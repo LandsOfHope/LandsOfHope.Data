@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "greenmead-downs-key",
 	"image": "ky2",
+	"level": {
+		"min": 15
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "key"

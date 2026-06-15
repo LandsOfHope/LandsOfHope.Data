@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "corsair-boots",
 	"image": "5247",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1,

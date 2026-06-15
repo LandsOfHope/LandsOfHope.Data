@@ -4,6 +4,9 @@
 	"baseValue": 1174,
 	"id": "dungeonseeker-skirt",
 	"image": "cskirt1",
+	"level": {
+		"min": 7
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

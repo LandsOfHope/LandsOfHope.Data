@@ -4,6 +4,9 @@
 	"baseValue": 430,
 	"id": "dark-helmet",
 	"image": "1556",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2814,
 	"id": "enblazened-shoulder-pads",
 	"image": "3260",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

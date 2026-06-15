@@ -3,6 +3,9 @@
 	"baseValue": 321,
 	"id": "muffin",
 	"image": "zumuif",
+	"level": {
+		"min": 640
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 2

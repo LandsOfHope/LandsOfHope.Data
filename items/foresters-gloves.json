@@ -4,6 +4,9 @@
 	"baseValue": 2821,
 	"id": "foresters-gloves",
 	"image": "2876",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "long-ornate-sword",
 	"image": "ls2",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 539,
 	"id": "dungeoncreeper-basinet",
 	"image": "4946",
+	"level": {
+		"min": 8
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

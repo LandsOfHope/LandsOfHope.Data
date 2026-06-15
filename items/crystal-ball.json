@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "crystal-ball",
 	"image": "zucrba",
+	"level": {
+		"min": 40
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

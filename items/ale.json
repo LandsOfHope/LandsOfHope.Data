@@ -3,6 +3,9 @@
 	"baseValue": 131,
 	"id": "ale",
 	"image": "fealae",
+	"level": {
+		"min": 260
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

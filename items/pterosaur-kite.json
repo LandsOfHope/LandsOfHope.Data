@@ -4,6 +4,9 @@
 	"expansion": "jurassic-wars",
 	"id": "pterosaur-kite",
 	"image": "2007",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "monster-spawner"

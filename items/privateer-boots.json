@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "privateer-boots",
 	"image": "5222",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"SPEED": 1

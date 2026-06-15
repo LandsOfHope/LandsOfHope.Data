@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "skin",
 	"image": "na",
+	"level": {
+		"min": 1
+	},
 	"material": "snake",
 	"stackLimit": 1000,
 	"type": "resource-tailoring"

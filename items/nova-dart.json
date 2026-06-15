@@ -4,6 +4,9 @@
 	"dpr": 83,
 	"id": "nova-dart",
 	"image": "drt",
+	"level": {
+		"min": 811
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

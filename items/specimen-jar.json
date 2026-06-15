@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "specimen-jar",
 	"image": "6261",
+	"level": {
+		"min": 1
+	},
 	"material": "creatures",
 	"stackLimit": 1000,
 	"type": "specimen-jar"

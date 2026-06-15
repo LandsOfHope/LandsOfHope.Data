@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "balanced-sword",
 	"image": "ls2",
+	"level": {
+		"min": 70
+	},
 	"material": "stone",
 	"properties": {
 		"MAXSTAMINA": 1

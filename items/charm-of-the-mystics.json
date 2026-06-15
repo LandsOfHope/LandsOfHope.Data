@@ -3,6 +3,9 @@
 	"baseValue": 3685,
 	"id": "charm-of-the-mystics",
 	"image": "zuchmy",
+	"level": {
+		"min": 525
+	},
 	"material": "wood",
 	"skills": {
 		"mystical-magic": 1

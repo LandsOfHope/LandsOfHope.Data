@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "guilded-bloody-firearm",
 	"image": "pl1",
+	"level": {
+		"min": 510
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

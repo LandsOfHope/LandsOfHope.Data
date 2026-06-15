@@ -3,6 +3,9 @@
 	"baseValue": 451,
 	"id": "glowing-flame-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 900
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

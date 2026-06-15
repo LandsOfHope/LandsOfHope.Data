@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "bolt",
 	"image": "febotl",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

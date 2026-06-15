@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "bonecutter",
 	"image": "boc",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

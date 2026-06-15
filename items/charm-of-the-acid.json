@@ -3,6 +3,9 @@
 	"baseValue": 4560,
 	"id": "charm-of-the-acid",
 	"image": "zuchac",
+	"level": {
+		"min": 650
+	},
 	"material": "wood",
 	"skills": {
 		"acid-magic": 1

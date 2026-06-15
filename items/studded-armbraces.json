@@ -4,6 +4,9 @@
 	"baseValue": 711,
 	"id": "studded-armbraces",
 	"image": "2983",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

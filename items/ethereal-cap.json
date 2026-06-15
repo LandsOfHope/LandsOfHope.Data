@@ -4,6 +4,9 @@
 	"baseValue": 3527,
 	"id": "ethereal-cap",
 	"image": "3171",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 325,
 	"id": "forge",
 	"image": "fg2",
+	"level": {
+		"min": 45
+	},
 	"material": "stone",
 	"skill": "blacksmithing",
 	"skills": {

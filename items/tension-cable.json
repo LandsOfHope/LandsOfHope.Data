@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "tension-cable",
 	"image": "795",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "siege-weapons",
 	"stackLimit": 1000,

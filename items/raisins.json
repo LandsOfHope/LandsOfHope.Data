@@ -3,6 +3,9 @@
 	"baseValue": 291,
 	"id": "raisins",
 	"image": "zuraii",
+	"level": {
+		"min": 580
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 2

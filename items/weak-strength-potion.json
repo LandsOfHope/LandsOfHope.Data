@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "weak-strength-potion",
 	"image": "pe8",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

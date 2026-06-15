@@ -4,6 +4,9 @@
 	"baseValue": 16,
 	"id": "frozen-cloak",
 	"image": "cl8",
+	"level": {
+		"min": 450
+	},
 	"material": "hide",
 	"skills": {
 		"arcane-resistance": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 16,
 	"id": "symbol-of-distinction",
 	"image": "4660",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

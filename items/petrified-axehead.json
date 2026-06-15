@@ -3,6 +3,9 @@
 	"baseValue": 260,
 	"id": "petrified-axehead",
 	"image": "1020",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

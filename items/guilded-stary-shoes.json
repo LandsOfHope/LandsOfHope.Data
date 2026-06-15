@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-stary-shoes",
 	"image": "3903",
+	"level": {
+		"min": 210
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

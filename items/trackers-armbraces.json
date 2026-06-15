@@ -4,6 +4,9 @@
 	"baseValue": 3526,
 	"id": "trackers-armbraces",
 	"image": "2987",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

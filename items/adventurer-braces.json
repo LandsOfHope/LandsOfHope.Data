@@ -4,6 +4,9 @@
 	"baseValue": 2127,
 	"id": "adventurer-braces",
 	"image": "2996",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 6252,
 	"id": "touched-boots",
 	"image": "cbt",
+	"level": {
+		"min": 890
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-halberd",
 	"image": "hal",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

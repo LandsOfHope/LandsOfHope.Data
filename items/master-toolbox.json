@@ -3,6 +3,9 @@
 	"baseValue": 75,
 	"id": "master-toolbox",
 	"image": "bx5",
+	"level": {
+		"min": 650
+	},
 	"material": "wood",
 	"skill": "artisan",
 	"skills": {

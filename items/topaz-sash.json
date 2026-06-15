@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "topaz-sash",
 	"image": "5854",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "topaz-flight",
 	"stackLimit": 1,

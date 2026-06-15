@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "coldtoes-icecream",
 	"image": "zucoic",
+	"level": {
+		"min": 250
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "dented-metal-shipment",
 	"image": "5549",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "metal-ship-resource"
 }

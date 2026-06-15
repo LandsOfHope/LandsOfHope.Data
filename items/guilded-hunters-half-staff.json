@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "guilded-hunters-half-staff",
 	"image": "st1",
+	"level": {
+		"min": 210
+	},
 	"material": "wood",
 	"skill": "staves",
 	"skills": {

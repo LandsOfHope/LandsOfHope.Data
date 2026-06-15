@@ -4,6 +4,9 @@
 	"baseValue": 2042,
 	"id": "ringmail-chest",
 	"image": "rv1",
+	"level": {
+		"min": 290
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

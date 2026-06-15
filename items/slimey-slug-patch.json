@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "slimey-slug-patch",
 	"image": "gmslslpa",
+	"level": {
+		"min": 750
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

@@ -4,6 +4,9 @@
 	"dpr": 44,
 	"id": "botanical-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 421
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

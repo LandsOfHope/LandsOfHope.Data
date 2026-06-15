@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "prepared-oyster",
 	"image": "gmproy",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"STAMINA": 1

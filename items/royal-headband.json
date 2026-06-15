@@ -4,6 +4,9 @@
 	"baseValue": 6658,
 	"id": "royal-headband",
 	"image": "3184",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

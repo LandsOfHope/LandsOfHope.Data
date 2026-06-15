@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-ravaged-headguard",
 	"image": "3696",
+	"level": {
+		"min": 110
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

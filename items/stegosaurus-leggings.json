@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "stegosaurus-leggings",
 	"image": "5158",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 96,
 	"id": "quaking-bullet",
 	"image": "zuqubu",
+	"level": {
+		"min": 946
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

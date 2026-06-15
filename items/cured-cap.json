@@ -4,6 +4,9 @@
 	"baseValue": 361,
 	"id": "cured-cap",
 	"image": "2915",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "head-armour"

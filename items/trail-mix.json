@@ -3,6 +3,9 @@
 	"baseValue": 211,
 	"id": "trail-mix",
 	"image": "zutrmi",
+	"level": {
+		"min": 420
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 2

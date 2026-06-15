@@ -4,6 +4,9 @@
 	"id": "makers-chestpiece",
 	"image": "6393",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"set": "makers-set",
 	"skill": "artisan",

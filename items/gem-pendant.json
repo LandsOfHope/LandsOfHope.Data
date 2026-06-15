@@ -3,6 +3,9 @@
 	"baseValue": 467,
 	"id": "gem-pendant",
 	"image": "pdt",
+	"level": {
+		"min": 65
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

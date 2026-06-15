@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "frenzied-raptor-patch",
 	"image": "gmfrrapa",
+	"level": {
+		"min": 650
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

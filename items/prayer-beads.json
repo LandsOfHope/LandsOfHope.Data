@@ -3,6 +3,9 @@
 	"baseValue": 1766,
 	"id": "prayer-beads",
 	"image": "grb",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,

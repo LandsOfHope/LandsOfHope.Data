@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "mystical-shimmering-tattoo",
 	"image": "tattoo3",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

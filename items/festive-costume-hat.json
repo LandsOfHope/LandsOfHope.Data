@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "festive-costume-hat",
 	"image": "shat",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"set": "festive-costume",
 	"stackLimit": 1,

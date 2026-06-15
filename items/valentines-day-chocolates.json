@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "valentines-day-chocolates",
 	"image": "val4",
+	"level": {
+		"min": 1
+	},
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 1,

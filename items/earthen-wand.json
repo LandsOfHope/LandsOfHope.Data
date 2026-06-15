@@ -4,6 +4,9 @@
 	"dpr": 44,
 	"id": "earthen-wand",
 	"image": "wand07",
+	"level": {
+		"min": 421
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

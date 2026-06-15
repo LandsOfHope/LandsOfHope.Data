@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "bullet-mold",
 	"image": "febumo",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"HITPOINTS": 1

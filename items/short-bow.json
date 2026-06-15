@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "short-bow",
 	"image": "shb",
+	"level": {
+		"min": 10
+	},
 	"material": "metal",
 	"skill": "bows",
 	"skills": {

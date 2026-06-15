@@ -4,6 +4,9 @@
 	"dpr": 73,
 	"id": "guilded-deadly-shaped-crossbow",
 	"image": "xw2",
+	"level": {
+		"min": 710
+	},
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {

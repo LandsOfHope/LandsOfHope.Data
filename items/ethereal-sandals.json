@@ -4,6 +4,9 @@
 	"baseValue": 3515,
 	"id": "ethereal-sandals",
 	"image": "3121",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

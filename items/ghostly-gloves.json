@@ -4,6 +4,9 @@
 	"baseValue": 4220,
 	"id": "ghostly-gloves",
 	"image": "2878",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

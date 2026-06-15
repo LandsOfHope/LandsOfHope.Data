@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "grand-magic-potion",
 	"image": "pb1",
+	"level": {
+		"min": 1000
+	},
 	"material": "gem",
 	"properties": {
 		"MANA": 4

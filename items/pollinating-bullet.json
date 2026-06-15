@@ -4,6 +4,9 @@
 	"dpr": 36,
 	"id": "pollinating-bullet",
 	"image": "4154",
+	"level": {
+		"min": 346
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

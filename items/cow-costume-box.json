@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "cow-costume-box",
 	"image": "1966",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "artisan",
 	"stackLimit": 1,

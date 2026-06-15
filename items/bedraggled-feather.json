@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "bedraggled-feather",
 	"image": "irfea4",
+	"level": {
+		"min": 1000
+	},
 	"stackLimit": 1000,
 	"type": "irellian-quest-item"
 }

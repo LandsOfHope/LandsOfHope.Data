@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "bladed-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 560
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

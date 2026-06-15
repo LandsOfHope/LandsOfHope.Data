@@ -4,6 +4,9 @@
 	"baseValue": 4993,
 	"id": "tainted-bracers",
 	"image": "cbs",
+	"level": {
+		"min": 710
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

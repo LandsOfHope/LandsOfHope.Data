@@ -4,6 +4,9 @@
 	"baseValue": 715,
 	"id": "pants",
 	"image": "ptro8",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

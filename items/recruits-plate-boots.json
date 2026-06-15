@@ -4,6 +4,9 @@
 	"baseValue": 308,
 	"id": "recruits-plate-boots",
 	"image": "gmreplbo",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "glory-of-the-joust",
 	"image": "zugoj2",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "two-handed-staves",
 	"skills": {

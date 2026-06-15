@@ -4,6 +4,9 @@
 	"baseValue": 402,
 	"id": "grimey-mask",
 	"image": "zugrma",
+	"level": {
+		"min": 55
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

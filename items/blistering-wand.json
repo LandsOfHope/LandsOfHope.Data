@@ -4,6 +4,9 @@
 	"dpr": 63,
 	"id": "blistering-wand",
 	"image": "wand08",
+	"level": {
+		"min": 616
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "light-snow-paper",
 	"image": "plightsnow",
+	"level": {
+		"min": 55
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

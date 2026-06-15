@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "noble-bag-of-strength",
 	"image": "6775",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"properties": {
 		"STRENGTH": 1

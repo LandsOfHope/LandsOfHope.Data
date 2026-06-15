@@ -4,6 +4,9 @@
 	"baseValue": 6100,
 	"id": "radical-trousers",
 	"image": "ptro7",
+	"level": {
+		"min": 860
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1

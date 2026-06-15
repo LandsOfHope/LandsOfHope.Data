@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-depths-chest",
 	"image": "6476",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "special-chest"

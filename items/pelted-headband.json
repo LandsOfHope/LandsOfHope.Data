@@ -4,6 +4,9 @@
 	"baseValue": 723,
 	"id": "pelted-headband",
 	"image": "zuphb",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

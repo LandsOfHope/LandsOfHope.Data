@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "goblin-gizmo",
 	"image": "6699",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "goblin-gizmo"
 }

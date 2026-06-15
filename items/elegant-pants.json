@@ -4,6 +4,9 @@
 	"baseValue": 4221,
 	"id": "elegant-pants",
 	"image": "3052",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

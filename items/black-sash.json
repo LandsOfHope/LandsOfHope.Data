@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "black-sash",
 	"image": "5858",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "black-wing",
 	"stackLimit": 1,

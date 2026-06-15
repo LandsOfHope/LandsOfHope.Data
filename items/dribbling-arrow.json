@@ -4,6 +4,9 @@
 	"dpr": 26,
 	"id": "dribbling-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 241
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

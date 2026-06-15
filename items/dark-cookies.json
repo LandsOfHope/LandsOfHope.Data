@@ -3,6 +3,9 @@
 	"baseValue": 411,
 	"id": "dark-cookies",
 	"image": "dri",
+	"level": {
+		"min": 820
+	},
 	"material": "hide",
 	"properties": {
 		"STAMINA": 3

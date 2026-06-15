@@ -4,6 +4,9 @@
 	"dpr": 48,
 	"id": "verdant-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 466
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

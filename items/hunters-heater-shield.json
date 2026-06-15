@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "hunters-heater-shield",
 	"image": "sd1",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skill": "two-handed-shields",
 	"skills": {

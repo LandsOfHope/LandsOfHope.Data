@@ -4,6 +4,9 @@
 	"baseValue": 20,
 	"id": "adventurers-compass",
 	"image": "zuadco",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

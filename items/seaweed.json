@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "seaweed",
 	"image": "zusedw",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "quest-item"

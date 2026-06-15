@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "scalpel",
 	"image": "fescea",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "surgery",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 542,
 	"id": "footman-sleeves",
 	"image": "2707",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "arm-armour"

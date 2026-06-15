@@ -4,6 +4,9 @@
 	"dpr": 21,
 	"id": "sandy-bullet",
 	"image": "4144",
+	"level": {
+		"min": 196
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

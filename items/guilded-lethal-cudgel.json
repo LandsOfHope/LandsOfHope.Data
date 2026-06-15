@@ -4,6 +4,9 @@
 	"dpr": 63,
 	"id": "guilded-lethal-cudgel",
 	"image": "bm",
+	"level": {
+		"min": 610
+	},
 	"material": "metal",
 	"skill": "maces",
 	"skills": {

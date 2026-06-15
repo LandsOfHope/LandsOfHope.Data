@@ -4,6 +4,9 @@
 	"dpr": 73,
 	"id": "guilded-deadly-bulletspewer",
 	"image": "re1",
+	"level": {
+		"min": 710
+	},
 	"material": "metal",
 	"skill": "two-handed-guns",
 	"skills": {

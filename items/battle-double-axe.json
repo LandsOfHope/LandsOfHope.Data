@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-double-axe",
 	"image": "ax12",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

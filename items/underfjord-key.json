@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "underfjord-key",
 	"image": "6441",
+	"level": {
+		"min": 40
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "portal"

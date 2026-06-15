@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "feathers",
 	"image": "fr",
+	"level": {
+		"min": 1
+	},
 	"material": "bird",
 	"stackLimit": 1000,
 	"type": "feathers"

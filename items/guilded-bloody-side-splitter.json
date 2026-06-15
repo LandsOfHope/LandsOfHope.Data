@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "guilded-bloody-side-splitter",
 	"image": "dg",
+	"level": {
+		"min": 510
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

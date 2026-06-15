@@ -3,6 +3,9 @@
 	"baseValue": 20000,
 	"id": "the-leveller",
 	"image": "gmthle",
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "demonstones"

@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "lail-vine",
 	"image": "zulavi",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "quest-item"

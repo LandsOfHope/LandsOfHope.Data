@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "goblin-freedom-ring",
 	"image": "6747",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

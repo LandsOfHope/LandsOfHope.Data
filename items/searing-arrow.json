@@ -4,6 +4,9 @@
 	"dpr": 27,
 	"id": "searing-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 256
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

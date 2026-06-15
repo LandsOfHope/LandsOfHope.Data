@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "faded-red-paper",
 	"image": "pfadedred",
+	"level": {
+		"min": 135
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

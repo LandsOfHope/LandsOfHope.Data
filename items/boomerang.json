@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "boomerang",
 	"image": "bgb",
+	"level": {
+		"min": 50
+	},
 	"material": "wood",
 	"properties": {
 		"SPEED": 1

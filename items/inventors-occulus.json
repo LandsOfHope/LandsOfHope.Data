@@ -3,6 +3,9 @@
 	"baseValue": 6663,
 	"id": "inventors-occulus",
 	"image": "6929",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skill": "augmenting",
 	"skills": {

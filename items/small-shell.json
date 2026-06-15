@@ -3,6 +3,9 @@
 	"baseValue": 5,
 	"id": "small-shell",
 	"image": "2423",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"skills": {
 		"armor": 1

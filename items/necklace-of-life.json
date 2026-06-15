@@ -5,6 +5,9 @@
 	"baseValue": 19,
 	"id": "necklace-of-life",
 	"image": "arb",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skills": {
 		"first-aid": 1,

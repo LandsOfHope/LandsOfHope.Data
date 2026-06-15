@@ -4,6 +4,9 @@
 	"baseValue": 5000,
 	"id": "joined-vest",
 	"image": "cv1",
+	"level": {
+		"min": 790
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

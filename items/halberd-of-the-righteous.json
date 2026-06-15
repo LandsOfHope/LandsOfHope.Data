@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "halberd-of-the-righteous",
 	"image": "tohari",
+	"level": {
+		"min": 25
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

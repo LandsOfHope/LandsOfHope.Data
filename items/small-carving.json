@@ -3,6 +3,9 @@
 	"baseValue": 251,
 	"id": "small-carving",
 	"image": "brk",
+	"level": {
+		"min": 34
+	},
 	"material": "wood",
 	"properties": {
 		"MAXHITPOINTS": 1,

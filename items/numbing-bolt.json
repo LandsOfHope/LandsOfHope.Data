@@ -4,6 +4,9 @@
 	"dpr": 75,
 	"id": "numbing-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 736
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

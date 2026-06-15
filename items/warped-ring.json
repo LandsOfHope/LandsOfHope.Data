@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "warped-ring",
 	"image": "gmwari",
+	"level": {
+		"min": 5
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1,

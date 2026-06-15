@@ -4,6 +4,9 @@
 	"baseValue": 540,
 	"id": "footman-greaves",
 	"image": "2333",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "foot-armour"

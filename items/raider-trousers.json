@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "raider-trousers",
 	"image": "5234",
+	"level": {
+		"min": 350
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

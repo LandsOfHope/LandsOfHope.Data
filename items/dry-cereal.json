@@ -3,6 +3,9 @@
 	"baseValue": 38,
 	"id": "dry-cereal",
 	"image": "ers",
+	"level": {
+		"min": 75
+	},
 	"material": "crop",
 	"properties": {
 		"MANA": 1

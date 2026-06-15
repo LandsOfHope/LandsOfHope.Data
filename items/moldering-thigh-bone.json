@@ -3,6 +3,9 @@
 	"baseValue": 190,
 	"id": "moldering-thigh-bone",
 	"image": "bea",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

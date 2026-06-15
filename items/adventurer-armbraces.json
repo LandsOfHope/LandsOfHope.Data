@@ -4,6 +4,9 @@
 	"baseValue": 2119,
 	"id": "adventurer-armbraces",
 	"image": "2985",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 29,
 	"id": "bloodlust-legs",
 	"image": "6509",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

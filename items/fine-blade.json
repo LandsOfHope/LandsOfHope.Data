@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "fine-blade",
 	"image": "bd",
+	"level": {
+		"min": 55
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

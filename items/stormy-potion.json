@@ -4,6 +4,9 @@
 	"dpr": 73,
 	"id": "stormy-potion",
 	"image": "pe5",
+	"level": {
+		"min": 715
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

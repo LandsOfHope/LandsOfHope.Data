@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "blossoming-potion",
 	"image": "pe5",
+	"level": {
+		"min": 407
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

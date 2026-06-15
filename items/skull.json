@@ -3,6 +3,9 @@
 	"baseValue": 160,
 	"id": "skull",
 	"image": "sl1",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

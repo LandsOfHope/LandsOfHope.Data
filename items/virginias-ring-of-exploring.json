@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "virginias-ring-of-exploring",
 	"image": "6797",
+	"level": {
+		"min": 20
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "relocation-permit",
 	"image": "deed2",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "relocation-permit"

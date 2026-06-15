@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "pale-silver-paper",
 	"image": "ppalesilver",
+	"level": {
+		"min": 30
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

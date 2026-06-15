@@ -4,6 +4,9 @@
 	"expansion": "jurassic-wars",
 	"id": "dragonian-band",
 	"image": "rgg",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "ring"

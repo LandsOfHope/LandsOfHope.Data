@@ -4,6 +4,9 @@
 	"baseValue": 5616,
 	"id": "darkness-tunic",
 	"image": "2780",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "sweet-n-sticky-cloak",
 	"image": "6720",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1,

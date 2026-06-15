@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "teddy-bear",
 	"image": "888",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"frenzy": 1,

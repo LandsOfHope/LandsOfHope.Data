@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "forked-stick",
 	"image": "fos",
+	"level": {
+		"min": 35
+	},
 	"material": "wood",
 	"properties": {
 		"MAXMANA": 1

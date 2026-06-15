@@ -4,6 +4,9 @@
 	"dpr": 27,
 	"id": "chilling-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 256
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

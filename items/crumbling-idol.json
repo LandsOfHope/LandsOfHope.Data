@@ -3,6 +3,9 @@
 	"baseValue": 342,
 	"id": "crumbling-idol",
 	"image": "cgi",
+	"level": {
+		"min": 45
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

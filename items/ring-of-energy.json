@@ -3,6 +3,9 @@
 	"baseValue": 1387,
 	"id": "ring-of-energy",
 	"image": "rge",
+	"level": {
+		"min": 195
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

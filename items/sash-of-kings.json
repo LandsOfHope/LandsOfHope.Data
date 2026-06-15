@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "sash-of-kings",
 	"image": "fesaki",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

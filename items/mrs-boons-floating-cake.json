@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "mrs-boons-floating-cake",
 	"image": "885",
+	"level": {
+		"min": 600
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

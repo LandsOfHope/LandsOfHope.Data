@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "small-fireplace",
 	"image": "2420",
+	"level": {
+		"min": 50
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "fire-furniture"

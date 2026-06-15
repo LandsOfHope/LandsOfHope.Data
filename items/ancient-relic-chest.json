@@ -3,6 +3,9 @@
 	"baseValue": 1424,
 	"id": "ancient-relic-chest",
 	"image": "relc1",
+	"level": {
+		"min": 600
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "ancient-relic-container"

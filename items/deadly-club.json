@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "deadly-club",
 	"image": "cb",
+	"level": {
+		"min": 700
+	},
 	"material": "wood",
 	"skill": "maces",
 	"skills": {

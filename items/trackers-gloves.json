@@ -4,6 +4,9 @@
 	"baseValue": 3524,
 	"id": "trackers-gloves",
 	"image": "2877",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

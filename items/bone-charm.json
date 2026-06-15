@@ -3,6 +3,9 @@
 	"baseValue": 149,
 	"id": "bone-charm",
 	"image": "bc1",
+	"level": {
+		"min": 1
+	},
 	"material": "color",
 	"properties": {
 		"MAXMANA": 1

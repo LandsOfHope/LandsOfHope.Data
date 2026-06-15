@@ -4,6 +4,9 @@
 	"baseValue": 364,
 	"id": "pleated-shoulders",
 	"image": "3246",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "shoulders"

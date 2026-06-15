@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "inner-eye-of-ilhazoom",
 	"image": "eol",
+	"level": {
+		"min": 195
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

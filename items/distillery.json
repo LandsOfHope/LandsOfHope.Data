@@ -3,6 +3,9 @@
 	"baseValue": 1762,
 	"id": "distillery",
 	"image": "1034",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

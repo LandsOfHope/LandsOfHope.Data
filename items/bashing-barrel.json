@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "bashing-barrel",
 	"image": "bl1",
+	"level": {
+		"min": 15
+	},
 	"material": "crop",
 	"skill": "two-handed-maces",
 	"skills": {

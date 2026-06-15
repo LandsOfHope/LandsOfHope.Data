@@ -4,6 +4,9 @@
 	"baseValue": 398,
 	"id": "lenores-amulet",
 	"image": "zuleam",
+	"level": {
+		"min": 55
+	},
 	"material": "gem",
 	"skills": {
 		"first-aid": 1,

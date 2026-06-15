@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "plain-shield",
 	"image": "sd5",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "shields",
 	"skills": {

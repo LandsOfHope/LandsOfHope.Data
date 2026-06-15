@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "large-bloody-axe",
 	"image": "ax13",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

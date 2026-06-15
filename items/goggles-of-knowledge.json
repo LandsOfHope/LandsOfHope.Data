@@ -3,6 +3,9 @@
 	"baseValue": 6000,
 	"id": "goggles-of-knowledge",
 	"image": "6675",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skill": "spoils-of-war",
 	"skills": {

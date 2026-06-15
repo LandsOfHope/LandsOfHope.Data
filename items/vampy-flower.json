@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "vampy-flower",
 	"image": "5777",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

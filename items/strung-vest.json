@@ -4,6 +4,9 @@
 	"baseValue": 542,
 	"id": "strung-vest",
 	"image": "2828",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "chest-armour"

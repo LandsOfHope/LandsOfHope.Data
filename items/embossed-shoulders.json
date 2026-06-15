@@ -4,6 +4,9 @@
 	"baseValue": 1421,
 	"id": "embossed-shoulders",
 	"image": "3006",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 28,
 	"id": "searing-potion",
 	"image": "pe5",
+	"level": {
+		"min": 267
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

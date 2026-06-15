@@ -4,6 +4,9 @@
 	"dpr": 93,
 	"id": "balacks-headlopper",
 	"image": "5041",
+	"level": {
+		"min": 915
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

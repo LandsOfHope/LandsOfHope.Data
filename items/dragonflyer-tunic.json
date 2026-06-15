@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "dragonflyer-tunic",
 	"image": "5133",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

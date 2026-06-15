@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "eyeball-of-the-beast",
 	"image": "1428",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

@@ -4,6 +4,9 @@
 	"baseValue": 711,
 	"id": "studded-doublet",
 	"image": "2818",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

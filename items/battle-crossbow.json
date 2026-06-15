@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-crossbow",
 	"image": "xw2",
+	"level": {
+		"min": 400
+	},
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {

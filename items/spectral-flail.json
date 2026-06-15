@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "spectral-flail",
 	"image": "bm",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skill": "maces",
 	"skills": {

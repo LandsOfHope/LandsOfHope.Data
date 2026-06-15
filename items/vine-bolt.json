@@ -4,6 +4,9 @@
 	"dpr": 20,
 	"id": "vine-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 181
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

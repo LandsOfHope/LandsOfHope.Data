@@ -4,6 +4,9 @@
 	"dpr": 66,
 	"id": "crushing-bullet",
 	"image": "zucrbu",
+	"level": {
+		"min": 646
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

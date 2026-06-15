@@ -4,6 +4,9 @@
 	"baseValue": 26,
 	"id": "medal-of-dedication",
 	"image": "1858",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

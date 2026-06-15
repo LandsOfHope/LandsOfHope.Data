@@ -3,6 +3,9 @@
 	"baseValue": 431,
 	"id": "eyeball-soup",
 	"image": "sou",
+	"level": {
+		"min": 860
+	},
 	"material": "hide",
 	"properties": {
 		"MANA": 3

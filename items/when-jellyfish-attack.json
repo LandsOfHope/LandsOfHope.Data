@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "when-jellyfish-attack",
 	"image": "2yri5",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "paintings"
 }

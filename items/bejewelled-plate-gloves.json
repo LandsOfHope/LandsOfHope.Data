@@ -4,6 +4,9 @@
 	"baseValue": 2111,
 	"id": "bejewelled-plate-gloves",
 	"image": "2369",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

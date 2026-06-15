@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "kasha-flower",
 	"image": "5749",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

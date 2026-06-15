@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "knuckle-duster",
 	"image": "nft",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

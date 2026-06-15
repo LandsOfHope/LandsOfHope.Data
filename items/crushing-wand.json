@@ -4,6 +4,9 @@
 	"dpr": 66,
 	"id": "crushing-wand",
 	"image": "wand14",
+	"level": {
+		"min": 646
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

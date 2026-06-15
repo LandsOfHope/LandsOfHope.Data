@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "egg-of-roc",
 	"image": "6154",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "charm-ingredient"
 }

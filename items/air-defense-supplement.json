@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "air-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 830
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

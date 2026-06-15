@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "sassy-stir-fry",
 	"image": "pe8",
+	"level": {
+		"min": 1
+	},
 	"material": "crop",
 	"properties": {
 		"MANA": 1

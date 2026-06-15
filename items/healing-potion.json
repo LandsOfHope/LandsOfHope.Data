@@ -3,6 +3,9 @@
 	"baseValue": 101,
 	"id": "healing-potion",
 	"image": "pr2",
+	"level": {
+		"min": 200
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 2

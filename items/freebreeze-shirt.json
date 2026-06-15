@@ -6,6 +6,9 @@
 	"id": "freebreeze-shirt",
 	"image": "4691",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

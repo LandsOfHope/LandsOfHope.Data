@@ -4,6 +4,9 @@
 	"baseValue": 29,
 	"id": "elemental-legs",
 	"image": "6379",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"set": "elemental-set",
 	"stackLimit": 1,

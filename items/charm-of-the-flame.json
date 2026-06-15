@@ -3,6 +3,9 @@
 	"baseValue": 897,
 	"id": "charm-of-the-flame",
 	"image": "zuchfl",
+	"level": {
+		"min": 125
+	},
 	"material": "wood",
 	"skills": {
 		"fire-magic": 1

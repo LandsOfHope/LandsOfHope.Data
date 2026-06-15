@@ -3,6 +3,9 @@
 	"baseValue": 21,
 	"id": "weak-decay-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 40
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

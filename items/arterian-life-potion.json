@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "arterian-life-potion",
 	"image": "gmarlipo",
+	"level": {
+		"min": 1000
+	},
 	"properties": {
 		"HITPOINTS": 6
 	},

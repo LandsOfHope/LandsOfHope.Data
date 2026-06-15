@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-trackers-vest",
 	"image": "3810",
+	"level": {
+		"min": 510
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

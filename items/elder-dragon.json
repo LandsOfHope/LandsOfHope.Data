@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "elder-dragon",
 	"image": "gmeldr",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

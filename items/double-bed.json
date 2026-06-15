@@ -3,6 +3,9 @@
 	"baseValue": 51,
 	"id": "double-bed",
 	"image": "bed2",
+	"level": {
+		"min": 100
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "bed"

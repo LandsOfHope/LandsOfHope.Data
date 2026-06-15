@@ -3,6 +3,9 @@
 	"baseValue": 310,
 	"id": "petrified-rib-bone",
 	"image": "b4",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

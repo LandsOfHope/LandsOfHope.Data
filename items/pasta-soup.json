@@ -3,6 +3,9 @@
 	"baseValue": 81,
 	"id": "pasta-soup",
 	"image": "sou",
+	"level": {
+		"min": 160
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

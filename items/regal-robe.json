@@ -4,6 +4,9 @@
 	"baseValue": 5612,
 	"id": "regal-robe",
 	"image": "rb8",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

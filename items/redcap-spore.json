@@ -3,6 +3,9 @@
 	"baseValue": 26,
 	"id": "redcap-spore",
 	"image": "zuseed",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "spore"

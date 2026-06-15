@@ -4,6 +4,9 @@
 	"dpr": 59,
 	"id": "icy-bullet",
 	"image": "zuicbu1",
+	"level": {
+		"min": 571
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

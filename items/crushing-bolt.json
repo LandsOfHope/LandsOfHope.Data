@@ -4,6 +4,9 @@
 	"dpr": 63,
 	"id": "crushing-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 616
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "fake-library-book",
 	"image": "bk2",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "quest-item"

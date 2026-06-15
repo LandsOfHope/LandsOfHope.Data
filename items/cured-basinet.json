@@ -4,6 +4,9 @@
 	"baseValue": 125,
 	"id": "cured-basinet",
 	"image": "496",
+	"level": {
+		"min": 15
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

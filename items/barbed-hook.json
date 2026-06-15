@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "barbed-hook",
 	"image": "bbh",
+	"level": {
+		"min": 5
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

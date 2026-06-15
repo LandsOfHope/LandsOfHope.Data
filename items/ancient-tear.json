@@ -3,6 +3,9 @@
 	"baseValue": 2048,
 	"id": "ancient-tear",
 	"image": "tr1",
+	"level": {
+		"min": 290
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

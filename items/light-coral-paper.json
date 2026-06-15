@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "light-coral-paper",
 	"image": "plightcoral",
+	"level": {
+		"min": 45
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

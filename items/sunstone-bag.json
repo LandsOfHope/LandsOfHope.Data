@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "sunstone-bag",
 	"image": "5868",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"earth-resistance": 1,

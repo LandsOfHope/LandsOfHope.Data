@@ -4,6 +4,9 @@
 	"baseValue": 2119,
 	"id": "adventurer-leggings",
 	"image": "2798",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

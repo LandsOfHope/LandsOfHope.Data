@@ -4,6 +4,9 @@
 	"dpr": 26,
 	"id": "searing-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 241
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

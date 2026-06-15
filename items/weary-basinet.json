@@ -4,6 +4,9 @@
 	"baseValue": 782,
 	"id": "weary-basinet",
 	"image": "4454",
+	"level": {
+		"min": 110
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

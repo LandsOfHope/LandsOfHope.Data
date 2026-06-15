@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "blank-severed-shoulders",
 	"image": "6834",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 0.6

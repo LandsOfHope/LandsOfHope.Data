@@ -4,6 +4,9 @@
 	"baseValue": 365,
 	"id": "cured-sleeves",
 	"image": "2970",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "arm-armour"

@@ -3,6 +3,9 @@
 	"baseValue": 101,
 	"id": "kingsize-bed",
 	"image": "bed3",
+	"level": {
+		"min": 200
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "bed"

@@ -4,6 +4,9 @@
 	"dpr": 14,
 	"id": "frosty-wand",
 	"image": "wand14",
+	"level": {
+		"min": 121
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

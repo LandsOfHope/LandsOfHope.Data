@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "ladybird-chestplate",
 	"image": "5169",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

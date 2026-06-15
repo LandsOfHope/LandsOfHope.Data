@@ -4,6 +4,9 @@
 	"baseValue": 1,
 	"id": "frankensteins-ribcage",
 	"image": "6347",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1,

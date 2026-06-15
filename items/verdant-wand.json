@@ -4,6 +4,9 @@
 	"dpr": 48,
 	"id": "verdant-wand",
 	"image": "wand12",
+	"level": {
+		"min": 466
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

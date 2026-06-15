@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "round-battle-shield",
 	"image": "sd6",
+	"level": {
+		"min": 400
+	},
 	"material": "wood",
 	"properties": {
 		"STRENGTH": 1

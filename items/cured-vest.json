@@ -4,6 +4,9 @@
 	"baseValue": 368,
 	"id": "cured-vest",
 	"image": "2827",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "chest-armour"

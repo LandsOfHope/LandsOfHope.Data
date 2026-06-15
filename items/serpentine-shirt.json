@@ -4,6 +4,9 @@
 	"baseValue": 641,
 	"id": "serpentine-shirt",
 	"image": "2094",
+	"level": {
+		"min": 90
+	},
 	"material": "snake",
 	"skills": {
 		"poison-magic": 1,

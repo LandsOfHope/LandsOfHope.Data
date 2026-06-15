@@ -5,6 +5,9 @@
 	"expansion": "the-afterlife",
 	"id": "templar-tabard",
 	"image": "6234",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 1411,
 	"id": "embossed-pants",
 	"image": "2786",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

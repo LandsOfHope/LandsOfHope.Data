@@ -4,6 +4,9 @@
 	"baseValue": 5622,
 	"id": "regal-gloves",
 	"image": "3133",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

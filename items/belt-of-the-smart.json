@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "belt-of-the-smart",
 	"image": "pbelt10",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

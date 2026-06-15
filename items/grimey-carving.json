@@ -3,6 +3,9 @@
 	"baseValue": 2776,
 	"id": "grimey-carving",
 	"image": "1013",
+	"level": {
+		"min": 395
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

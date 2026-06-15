@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "stargate",
 	"image": "6328",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "stargate"

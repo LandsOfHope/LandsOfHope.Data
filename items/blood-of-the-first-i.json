@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "blood-of-the-first-i",
 	"image": "bod",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "quest-item"

@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "wurm-ribbed-gloves",
 	"image": "5813",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1,

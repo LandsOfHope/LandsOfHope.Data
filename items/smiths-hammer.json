@@ -3,6 +3,9 @@
 	"baseValue": 18,
 	"id": "smiths-hammer",
 	"image": "dbh",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "blacksmithing",
 	"skills": {

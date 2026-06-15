@@ -4,6 +4,9 @@
 	"baseValue": 1761,
 	"id": "haggard-shirt",
 	"image": "pshi4",
+	"level": {
+		"min": 250
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

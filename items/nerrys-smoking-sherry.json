@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "nerrys-smoking-sherry",
 	"image": "5499",
+	"level": {
+		"min": 50
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "magic-vial"

@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "dwarven-rock-rifle",
 	"image": "re2",
+	"level": {
+		"min": 5
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

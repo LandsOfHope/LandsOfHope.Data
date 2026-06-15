@@ -3,6 +3,9 @@
 	"baseValue": 10000,
 	"id": "aura-of-crafting",
 	"image": "6903",
+	"level": {
+		"min": 1000
+	},
 	"material": "gem",
 	"skills": {
 		"artisan": 1,

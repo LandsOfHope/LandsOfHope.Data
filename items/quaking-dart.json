@@ -4,6 +4,9 @@
 	"dpr": 96,
 	"id": "quaking-dart",
 	"image": "drt",
+	"level": {
+		"min": 946
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

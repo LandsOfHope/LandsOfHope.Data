@@ -3,6 +3,9 @@
 	"baseValue": 1519,
 	"id": "ring-of-health",
 	"image": "rgf",
+	"level": {
+		"min": 215
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 2125,
 	"id": "adventurer-hat",
 	"image": "2908",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 727,
 	"id": "follower-vest",
 	"image": "3087",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "leg",
 	"image": "wlg",
+	"level": {
+		"min": 45
+	},
 	"material": "hide",
 	"skill": "two-handed-maces",
 	"skills": {

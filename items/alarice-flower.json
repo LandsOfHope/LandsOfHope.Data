@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "alarice-flower",
 	"image": "5744",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

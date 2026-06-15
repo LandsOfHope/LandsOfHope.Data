@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "barrel-of-ale",
 	"image": "gmbaal",
+	"level": {
+		"min": 126
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "consumable-container"

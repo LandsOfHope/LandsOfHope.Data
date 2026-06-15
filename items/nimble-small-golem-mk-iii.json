@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "nimble-small-golem-mk-iii",
 	"image": "2686",
+	"level": {
+		"min": 110
+	},
 	"material": "stone",
 	"skills": {
 		"armor": 1

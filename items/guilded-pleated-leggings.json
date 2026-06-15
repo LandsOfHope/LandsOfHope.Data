@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-pleated-leggings",
 	"image": "3881",
+	"level": {
+		"min": 60
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "leg-armour"

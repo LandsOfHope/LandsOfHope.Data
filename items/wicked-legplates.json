@@ -4,6 +4,9 @@
 	"baseValue": 4219,
 	"id": "wicked-legplates",
 	"image": "2284",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

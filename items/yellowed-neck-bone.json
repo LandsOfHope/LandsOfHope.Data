@@ -3,6 +3,9 @@
 	"baseValue": 300,
 	"id": "yellowed-neck-bone",
 	"image": "908",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

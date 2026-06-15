@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "cooked-lobster",
 	"image": "gmcolo",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 1,

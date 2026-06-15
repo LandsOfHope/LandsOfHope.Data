@@ -4,6 +4,9 @@
 	"dpr": 55,
 	"id": "shaking-potion",
 	"image": "pe5",
+	"level": {
+		"min": 533
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

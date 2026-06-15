@@ -3,6 +3,9 @@
 	"baseValue": 2180,
 	"id": "trugars-tendril-ring",
 	"image": "rg1",
+	"level": {
+		"min": 245
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

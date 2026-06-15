@@ -4,6 +4,9 @@
 	"baseValue": 3513,
 	"id": "reinforced-gauntlets",
 	"image": "2360",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

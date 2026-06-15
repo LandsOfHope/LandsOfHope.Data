@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "smoke-bomb",
 	"image": "6412",
+	"level": {
+		"min": 1
+	},
 	"skill": "parlor-tricks",
 	"stackLimit": 1000,
 	"type": "combat-item"

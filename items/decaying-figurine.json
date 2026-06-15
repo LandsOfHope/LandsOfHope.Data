@@ -3,6 +3,9 @@
 	"baseValue": 310,
 	"id": "decaying-figurine",
 	"image": "957",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

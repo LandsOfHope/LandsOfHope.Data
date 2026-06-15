@@ -4,6 +4,9 @@
 	"baseValue": 369,
 	"id": "malefic-necklace",
 	"image": "zumane",
+	"level": {
+		"min": 50
+	},
 	"material": "gem",
 	"skills": {
 		"spirit-magic": 1

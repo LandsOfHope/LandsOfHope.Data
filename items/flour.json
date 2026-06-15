@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "flour",
 	"image": "fr1",
+	"level": {
+		"min": 1
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

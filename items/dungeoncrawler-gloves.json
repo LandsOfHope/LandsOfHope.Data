@@ -4,6 +4,9 @@
 	"baseValue": 854,
 	"id": "dungeoncrawler-gloves",
 	"image": "cvg",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "six-shooter",
 	"image": "6570",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

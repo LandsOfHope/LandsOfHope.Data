@@ -4,6 +4,9 @@
 	"baseValue": 724,
 	"id": "studded-shoulder-pads",
 	"image": "3016",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

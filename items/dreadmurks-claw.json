@@ -4,6 +4,9 @@
 	"dpr": 75,
 	"id": "dreadmurks-claw",
 	"image": "5020",
+	"level": {
+		"min": 730
+	},
 	"material": "hide",
 	"skill": "fists",
 	"skills": {

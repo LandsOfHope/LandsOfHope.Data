@@ -4,6 +4,9 @@
 	"dpr": 50,
 	"id": "arborescent-wand",
 	"image": "wand04",
+	"level": {
+		"min": 481
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

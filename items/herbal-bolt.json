@@ -4,6 +4,9 @@
 	"dpr": 36,
 	"id": "herbal-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 346
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

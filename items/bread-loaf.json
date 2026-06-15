@@ -3,6 +3,9 @@
 	"baseValue": 86,
 	"id": "bread-loaf",
 	"image": "bd1",
+	"level": {
+		"min": 170
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

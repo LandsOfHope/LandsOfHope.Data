@@ -4,6 +4,9 @@
 	"baseValue": 2815,
 	"id": "battlehardened-armchains",
 	"image": "2733",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

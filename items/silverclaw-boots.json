@@ -6,6 +6,9 @@
 	"id": "silverclaw-boots",
 	"image": "4707",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1,

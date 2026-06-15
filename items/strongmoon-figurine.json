@@ -3,6 +3,9 @@
 	"baseValue": 5000,
 	"id": "strongmoon-figurine",
 	"image": "relic5",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "raptor-trousers",
 	"image": "5152",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

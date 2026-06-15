@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "spicy-hot-chili",
 	"image": "pe8",
+	"level": {
+		"min": 1
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "magic-vial"

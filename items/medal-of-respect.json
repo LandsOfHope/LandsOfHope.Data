@@ -4,6 +4,9 @@
 	"baseValue": 26,
 	"id": "medal-of-respect",
 	"image": "4656",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1,

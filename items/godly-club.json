@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-club",
 	"image": "cb",
+	"level": {
+		"min": 900
+	},
 	"material": "wood",
 	"skill": "maces",
 	"skills": {

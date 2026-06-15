@@ -4,6 +4,9 @@
 	"baseValue": 722,
 	"id": "sparkling-legs",
 	"image": "576",
+	"level": {
+		"min": 100
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

@@ -4,6 +4,9 @@
 	"dpr": 65,
 	"id": "rusty-razor",
 	"image": "dg",
+	"level": {
+		"min": 650
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

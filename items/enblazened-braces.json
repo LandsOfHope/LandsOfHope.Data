@@ -4,6 +4,9 @@
 	"baseValue": 2816,
 	"id": "enblazened-braces",
 	"image": "3240",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

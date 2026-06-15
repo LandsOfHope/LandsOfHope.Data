@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "punching-dagger",
 	"image": "ft2",
+	"level": {
+		"min": 40
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

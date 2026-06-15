@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "wrist-blade",
 	"image": "gmwrbl",
+	"level": {
+		"min": 80
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

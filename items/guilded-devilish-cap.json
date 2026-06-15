@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-devilish-cap",
 	"image": "3857",
+	"level": {
+		"min": 960
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

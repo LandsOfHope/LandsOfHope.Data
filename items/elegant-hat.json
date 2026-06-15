@@ -4,6 +4,9 @@
 	"baseValue": 4214,
 	"id": "elegant-hat",
 	"image": "3162",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

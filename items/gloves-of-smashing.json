@@ -4,6 +4,9 @@
 	"baseValue": 48,
 	"id": "gloves-of-smashing",
 	"image": "1148",
+	"level": {
+		"min": 5
+	},
 	"material": "cloth",
 	"skills": {
 		"attack-power": 1,

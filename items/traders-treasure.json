@@ -3,6 +3,9 @@
 	"baseValue": 2122,
 	"id": "traders-treasure",
 	"image": "zutrtr",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

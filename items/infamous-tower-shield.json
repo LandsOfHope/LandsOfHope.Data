@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-tower-shield",
 	"image": "sd8",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "two-handed-shields",
 	"skills": {

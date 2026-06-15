@@ -4,6 +4,9 @@
 	"dpr": 57,
 	"id": "flaring-bullet",
 	"image": "zuflbu1",
+	"level": {
+		"min": 556
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

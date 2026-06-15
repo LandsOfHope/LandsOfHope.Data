@@ -3,6 +3,9 @@
 	"baseValue": 250,
 	"id": "enchanted-magic-potion",
 	"image": "pb1",
+	"level": {
+		"min": 500
+	},
 	"material": "gem",
 	"properties": {
 		"MANA": 3

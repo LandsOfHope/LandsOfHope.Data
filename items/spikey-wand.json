@@ -4,6 +4,9 @@
 	"dpr": 80,
 	"id": "spikey-wand",
 	"image": "wand06",
+	"level": {
+		"min": 781
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

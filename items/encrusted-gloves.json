@@ -4,6 +4,9 @@
 	"baseValue": 1279,
 	"id": "encrusted-gloves",
 	"image": "726",
+	"level": {
+		"min": 180
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

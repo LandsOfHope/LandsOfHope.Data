@@ -4,6 +4,9 @@
 	"baseValue": 4200,
 	"id": "minions-bindings",
 	"image": "5923",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

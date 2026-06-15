@@ -4,6 +4,9 @@
 	"dpr": 74,
 	"id": "shield-of-volcanoss",
 	"image": "sh6",
+	"level": {
+		"min": 765
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1

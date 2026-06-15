@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "ankylosaur-patch",
 	"image": "gmanpa",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

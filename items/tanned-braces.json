@@ -4,6 +4,9 @@
 	"baseValue": 27,
 	"id": "tanned-braces",
 	"image": "2991",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

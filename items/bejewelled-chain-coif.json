@@ -4,6 +4,9 @@
 	"baseValue": 2117,
 	"id": "bejewelled-chain-coif",
 	"image": "2666",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

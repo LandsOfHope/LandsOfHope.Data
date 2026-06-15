@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "unlife-tablet",
 	"image": "6092",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "self-restoration"

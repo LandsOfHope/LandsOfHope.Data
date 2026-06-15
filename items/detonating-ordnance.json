@@ -4,6 +4,9 @@
 	"dpr": 87,
 	"id": "detonating-ordnance",
 	"image": "ss6",
+	"level": {
+		"min": 850
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"dpr": 47,
 	"id": "arborescent-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 451
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -3,6 +3,9 @@
 	"baseValue": 3,
 	"id": "cabinet",
 	"image": "cat1",
+	"level": {
+		"min": 5
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "storage-box"

@@ -4,6 +4,9 @@
 	"baseValue": 4216,
 	"id": "ghostly-pants",
 	"image": "2790",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

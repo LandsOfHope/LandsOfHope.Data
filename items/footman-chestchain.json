@@ -4,6 +4,9 @@
 	"baseValue": 546,
 	"id": "footman-chestchain",
 	"image": "2509",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "chest-armour"

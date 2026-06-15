@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "lump-of-saltpetre",
 	"image": "gmlusa",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "special-pirate-resource"
 }

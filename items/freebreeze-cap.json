@@ -6,6 +6,9 @@
 	"id": "freebreeze-cap",
 	"image": "4692",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 5271,
 	"id": "dairy-farm",
 	"image": "rp",
+	"level": {
+		"min": 750
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "tentacle",
 	"image": "zuteln",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"skill": "two-handed-maces",
 	"skills": {

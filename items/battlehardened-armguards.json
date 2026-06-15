@@ -4,6 +4,9 @@
 	"baseValue": 2811,
 	"id": "battlehardened-armguards",
 	"image": "2469",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

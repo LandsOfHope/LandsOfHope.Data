@@ -3,6 +3,9 @@
 	"baseValue": 4401,
 	"id": "mine-shaft",
 	"image": "rmin",
+	"level": {
+		"min": 625
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

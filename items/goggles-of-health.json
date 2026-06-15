@@ -3,6 +3,9 @@
 	"baseValue": 6000,
 	"id": "goggles-of-health",
 	"image": "6676",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "wardrobe",
 	"image": "wae1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "storage-box"

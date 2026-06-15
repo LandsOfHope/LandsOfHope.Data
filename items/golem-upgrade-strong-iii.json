@@ -3,6 +3,9 @@
 	"baseValue": 5,
 	"id": "golem-upgrade-strong-iii",
 	"image": "2676",
+	"level": {
+		"min": 15
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "golem-parts"

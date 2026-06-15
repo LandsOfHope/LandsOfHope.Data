@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-nightly-wristband",
 	"image": "ta5",
+	"level": {
+		"min": 310
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

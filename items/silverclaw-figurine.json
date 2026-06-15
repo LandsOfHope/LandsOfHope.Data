@@ -3,6 +3,9 @@
 	"baseValue": 8500,
 	"id": "silverclaw-figurine",
 	"image": "relic9",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1,

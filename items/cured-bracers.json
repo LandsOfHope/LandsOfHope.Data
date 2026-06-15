@@ -4,6 +4,9 @@
 	"baseValue": 119,
 	"id": "cured-bracers",
 	"image": "495",
+	"level": {
+		"min": 15
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

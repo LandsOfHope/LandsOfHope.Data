@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "red-dragon-potion",
 	"image": "5861",
+	"level": {
+		"min": 100
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 1

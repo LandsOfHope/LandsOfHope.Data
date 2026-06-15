@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "path-piece",
 	"image": "6376",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

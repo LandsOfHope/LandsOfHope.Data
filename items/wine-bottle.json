@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "wine-bottle",
 	"image": "rew",
+	"level": {
+		"min": 10
+	},
 	"material": "berry",
 	"skill": "maces",
 	"skills": {

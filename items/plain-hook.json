@@ -4,6 +4,9 @@
 	"dpr": 85,
 	"id": "plain-hook",
 	"image": "bbh",
+	"level": {
+		"min": 850
+	},
 	"material": "metal",
 	"skill": "exotic-weapons",
 	"skills": {

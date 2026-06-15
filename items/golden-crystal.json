@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "golden-crystal",
 	"image": "goc",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "alchemy-ingredient"
 }

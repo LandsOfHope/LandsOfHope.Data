@@ -4,6 +4,9 @@
 	"dpr": 97,
 	"id": "thermal-potion",
 	"image": "pe5",
+	"level": {
+		"min": 953
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

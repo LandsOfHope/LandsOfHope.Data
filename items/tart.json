@@ -3,6 +3,9 @@
 	"baseValue": 231,
 	"id": "tart",
 	"image": "zutatr",
+	"level": {
+		"min": 460
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 2

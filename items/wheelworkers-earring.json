@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "wheelworkers-earring",
 	"image": "zuwhea",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"tinkering": 1

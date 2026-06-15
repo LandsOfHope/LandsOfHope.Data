@@ -4,6 +4,9 @@
 	"baseValue": 6700,
 	"id": "youthful-shirt",
 	"image": "4528",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

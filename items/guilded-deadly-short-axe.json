@@ -4,6 +4,9 @@
 	"dpr": 73,
 	"id": "guilded-deadly-short-axe",
 	"image": "ham",
+	"level": {
+		"min": 710
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

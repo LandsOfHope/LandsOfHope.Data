@@ -3,6 +3,9 @@
 	"baseValue": 2781,
 	"id": "pendant-of-ensnaring",
 	"image": "bat",
+	"level": {
+		"min": 395
+	},
 	"material": "gem",
 	"skills": {
 		"spirit-magic": 1

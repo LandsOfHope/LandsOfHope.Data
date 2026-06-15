@@ -4,6 +4,9 @@
 	"baseValue": 923,
 	"id": "blighted-shroud",
 	"image": "bls",
+	"level": {
+		"min": 130
+	},
 	"material": "cloth",
 	"skills": {
 		"mystical-resistance": 1,

@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-fauchard",
 	"image": "fau",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

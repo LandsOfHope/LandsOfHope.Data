@@ -3,6 +3,9 @@
 	"baseValue": 51,
 	"id": "pickles",
 	"image": "zupiil",
+	"level": {
+		"min": 100
+	},
 	"material": "vegetable",
 	"properties": {
 		"HITPOINTS": 1

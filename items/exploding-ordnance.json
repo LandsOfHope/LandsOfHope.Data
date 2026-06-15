@@ -4,6 +4,9 @@
 	"dpr": 84,
 	"id": "exploding-ordnance",
 	"image": "ss6",
+	"level": {
+		"min": 825
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

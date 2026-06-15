@@ -6,6 +6,9 @@
 	"id": "barrendown-vest",
 	"image": "5669",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

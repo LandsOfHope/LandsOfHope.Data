@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "morganas-earring",
 	"image": "6924",
+	"level": {
+		"min": 1000
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1.2

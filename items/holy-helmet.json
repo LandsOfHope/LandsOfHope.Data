@@ -4,6 +4,9 @@
 	"baseValue": 290,
 	"id": "holy-helmet",
 	"image": "gmhohe",
+	"level": {
+		"min": 40
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

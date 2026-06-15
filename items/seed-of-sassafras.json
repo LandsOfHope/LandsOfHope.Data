@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "seed-of-sassafras",
 	"image": "6156",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "charm-ingredient"
 }

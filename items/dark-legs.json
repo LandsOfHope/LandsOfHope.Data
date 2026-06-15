@@ -4,6 +4,9 @@
 	"baseValue": 469,
 	"id": "dark-legs",
 	"image": "1555",
+	"level": {
+		"min": 65
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

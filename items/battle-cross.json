@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "battle-cross",
 	"image": "cso",
+	"level": {
+		"min": 300
+	},
 	"material": "wood",
 	"skill": "maces",
 	"skills": {

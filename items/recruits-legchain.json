@@ -4,6 +4,9 @@
 	"baseValue": 304,
 	"id": "recruits-legchain",
 	"image": "2540",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

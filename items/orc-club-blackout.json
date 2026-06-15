@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "orc-club-blackout",
 	"image": "hr2",
+	"level": {
+		"min": 65
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

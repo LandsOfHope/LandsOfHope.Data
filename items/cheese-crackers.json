@@ -3,6 +3,9 @@
 	"baseValue": 226,
 	"id": "cheese-crackers",
 	"image": "chs",
+	"level": {
+		"min": 450
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 2

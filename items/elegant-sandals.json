@@ -4,6 +4,9 @@
 	"baseValue": 4209,
 	"id": "elegant-sandals",
 	"image": "3122",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

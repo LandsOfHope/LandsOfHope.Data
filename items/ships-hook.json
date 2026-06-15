@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "ships-hook",
 	"image": "gmshho",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "seamanship",
 	"skills": {

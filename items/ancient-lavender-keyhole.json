@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-lavender-keyhole",
 	"image": "6453",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "item-use-door"
 }

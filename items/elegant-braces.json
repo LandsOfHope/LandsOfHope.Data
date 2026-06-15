@@ -4,6 +4,9 @@
 	"baseValue": 4223,
 	"id": "elegant-braces",
 	"image": "3242",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

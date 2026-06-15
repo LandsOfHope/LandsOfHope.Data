@@ -4,6 +4,9 @@
 	"baseValue": 3524,
 	"id": "ethereal-shoulder-pads",
 	"image": "3261",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

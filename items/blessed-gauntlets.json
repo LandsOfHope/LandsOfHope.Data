@@ -4,6 +4,9 @@
 	"baseValue": 1412,
 	"id": "blessed-gauntlets",
 	"image": "2357",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

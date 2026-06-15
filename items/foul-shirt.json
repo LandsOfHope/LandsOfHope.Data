@@ -4,6 +4,9 @@
 	"baseValue": 1424,
 	"id": "foul-shirt",
 	"image": "1810",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

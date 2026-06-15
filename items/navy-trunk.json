@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "navy-trunk",
 	"image": "zunatr",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "myzan-navy",
 	"stackLimit": 1,

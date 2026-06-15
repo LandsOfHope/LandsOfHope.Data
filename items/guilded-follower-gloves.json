@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-follower-gloves",
 	"image": "3912",
+	"level": {
+		"min": 110
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 548,
 	"id": "firerock-pendant",
 	"image": "amp",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1,

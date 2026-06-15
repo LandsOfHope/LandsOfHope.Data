@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "stiletto",
 	"image": "sto",
+	"level": {
+		"min": 85
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

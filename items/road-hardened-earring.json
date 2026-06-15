@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "road-hardened-earring",
 	"image": "6803",
+	"level": {
+		"min": 5
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1.5,

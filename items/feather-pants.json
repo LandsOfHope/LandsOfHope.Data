@@ -4,6 +4,9 @@
 	"baseValue": 1109,
 	"id": "feather-pants",
 	"image": "612",
+	"level": {
+		"min": 155
+	},
 	"material": "bird",
 	"properties": {
 		"DEXTERITY": 1

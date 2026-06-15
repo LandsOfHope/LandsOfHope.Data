@@ -5,6 +5,9 @@
 	"id": "legendary-bow",
 	"image": "zuvabo",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "neko-flower",
 	"image": "5759",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

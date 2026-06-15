@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "friendcaller-ring",
 	"image": "6930",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1.3,

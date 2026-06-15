@@ -4,6 +4,9 @@
 	"baseValue": 18,
 	"id": "bloodlust-gloves",
 	"image": "6511",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -4,6 +4,9 @@
 	"dpr": 83,
 	"id": "stoney-potion",
 	"image": "pe5",
+	"level": {
+		"min": 813
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

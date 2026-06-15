@@ -3,6 +3,9 @@
 	"baseValue": 13,
 	"id": "nocturnal-tear-of-blood",
 	"image": "6748",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

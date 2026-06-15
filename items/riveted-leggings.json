@@ -4,6 +4,9 @@
 	"baseValue": 3600,
 	"id": "riveted-leggings",
 	"image": "cls",
+	"level": {
+		"min": 580
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

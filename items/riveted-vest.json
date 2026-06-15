@@ -4,6 +4,9 @@
 	"baseValue": 3600,
 	"id": "riveted-vest",
 	"image": "cv1",
+	"level": {
+		"min": 590
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

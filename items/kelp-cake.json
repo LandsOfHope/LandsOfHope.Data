@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "kelp-cake",
 	"image": "gmkeca",
+	"level": {
+		"min": 10
+	},
 	"material": "color",
 	"properties": {
 		"HITPOINTS": 1,

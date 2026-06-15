@@ -3,6 +3,9 @@
 	"baseValue": 421,
 	"id": "eyeball-pie",
 	"image": "zueypi",
+	"level": {
+		"min": 840
+	},
 	"material": "hide",
 	"properties": {
 		"MANA": 3

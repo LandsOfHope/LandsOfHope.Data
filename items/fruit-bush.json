@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "fruit-bush",
 	"image": "zaber2",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "fruit-respawner"
 }

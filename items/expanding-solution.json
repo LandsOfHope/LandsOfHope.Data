@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "expanding-solution",
 	"image": "toexso",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "potion-binding-solution"

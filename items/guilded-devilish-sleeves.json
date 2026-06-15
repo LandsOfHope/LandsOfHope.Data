@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-devilish-sleeves",
 	"image": "3868",
+	"level": {
+		"min": 960
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

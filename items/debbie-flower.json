@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "debbie-flower",
 	"image": "5793",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

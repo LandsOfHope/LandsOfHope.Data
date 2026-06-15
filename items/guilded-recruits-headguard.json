@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-recruits-headguard",
 	"image": "gmgurehe",
+	"level": {
+		"min": 11
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

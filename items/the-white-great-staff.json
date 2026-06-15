@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "the-white-great-staff",
 	"image": "zuthwhgrst",
+	"level": {
+		"min": 85
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1,

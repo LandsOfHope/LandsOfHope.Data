@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-claymore",
 	"image": "ce",
+	"level": {
+		"min": 410
+	},
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {

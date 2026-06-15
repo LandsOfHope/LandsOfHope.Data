@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "novice-gloves",
 	"image": "anglv",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"skill": "artisan",
 	"stackLimit": 1,

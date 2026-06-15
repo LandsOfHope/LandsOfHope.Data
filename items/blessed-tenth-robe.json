@@ -4,6 +4,9 @@
 	"baseValue": 4300,
 	"id": "blessed-tenth-robe",
 	"image": "rb13",
+	"level": {
+		"min": 930
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

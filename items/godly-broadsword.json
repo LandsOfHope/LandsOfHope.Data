@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-broadsword",
 	"image": "ce",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {

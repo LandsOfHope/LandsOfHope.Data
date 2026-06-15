@@ -4,6 +4,9 @@
 	"dpr": 60,
 	"id": "stoning-potion",
 	"image": "pe5",
+	"level": {
+		"min": 589
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

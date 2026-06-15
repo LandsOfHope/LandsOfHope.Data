@@ -4,6 +4,9 @@
 	"baseValue": 100,
 	"id": "ethereal-bindings",
 	"image": "pbelt13",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,

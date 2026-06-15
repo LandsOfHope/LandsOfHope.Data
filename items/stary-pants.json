@@ -4,6 +4,9 @@
 	"baseValue": 1418,
 	"id": "stary-pants",
 	"image": "3048",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

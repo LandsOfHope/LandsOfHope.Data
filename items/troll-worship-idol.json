@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "troll-worship-idol",
 	"image": "fig2",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "stolen-item-hard"
 }

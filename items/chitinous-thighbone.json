@@ -4,6 +4,9 @@
 	"baseValue": 478,
 	"id": "chitinous-thighbone",
 	"image": "ctb",
+	"level": {
+		"min": 65
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

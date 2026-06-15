@@ -4,6 +4,9 @@
 	"dpr": 95,
 	"id": "torrential-potion",
 	"image": "pe5",
+	"level": {
+		"min": 939
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

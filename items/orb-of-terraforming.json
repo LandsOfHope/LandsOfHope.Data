@@ -3,6 +3,9 @@
 	"baseValue": 296,
 	"id": "orb-of-terraforming",
 	"image": "zuorte",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1,
 	"type": "tile-claim"

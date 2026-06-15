@@ -3,6 +3,9 @@
 	"baseValue": 301,
 	"id": "pie",
 	"image": "ap1",
+	"level": {
+		"min": 600
+	},
 	"material": "berry",
 	"properties": {
 		"STAMINA": 2

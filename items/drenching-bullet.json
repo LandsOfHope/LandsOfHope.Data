@@ -4,6 +4,9 @@
 	"dpr": 81,
 	"id": "drenching-bullet",
 	"image": "zudrbu",
+	"level": {
+		"min": 796
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

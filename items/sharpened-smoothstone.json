@@ -4,6 +4,9 @@
 	"dpr": 11,
 	"id": "sharpened-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 91
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

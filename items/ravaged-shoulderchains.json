@@ -4,6 +4,9 @@
 	"baseValue": 720,
 	"id": "ravaged-shoulderchains",
 	"image": "2741",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

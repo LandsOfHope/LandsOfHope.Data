@@ -4,6 +4,9 @@
 	"baseValue": 1422,
 	"id": "embossed-headgear",
 	"image": "2929",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

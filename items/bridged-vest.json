@@ -4,6 +4,9 @@
 	"baseValue": 5800,
 	"id": "bridged-vest",
 	"image": "cv1",
+	"level": {
+		"min": 890
+	},
 	"material": "metal",
 	"properties": {
 		"MAXMANA": 1

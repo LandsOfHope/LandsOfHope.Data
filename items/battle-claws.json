@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-claws",
 	"image": "ft2",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

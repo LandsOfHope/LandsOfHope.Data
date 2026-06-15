@@ -4,6 +4,9 @@
 	"baseValue": 28,
 	"id": "simple-cap",
 	"image": "3165",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

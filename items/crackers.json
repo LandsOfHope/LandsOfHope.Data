@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "crackers",
 	"image": "chs",
+	"level": {
+		"min": 60
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

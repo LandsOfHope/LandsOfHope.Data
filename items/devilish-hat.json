@@ -4,6 +4,9 @@
 	"baseValue": 6671,
 	"id": "devilish-hat",
 	"image": "2913",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

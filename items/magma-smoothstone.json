@@ -4,6 +4,9 @@
 	"dpr": 75,
 	"id": "magma-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 736
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

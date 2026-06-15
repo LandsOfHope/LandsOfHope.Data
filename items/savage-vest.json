@@ -4,6 +4,9 @@
 	"baseValue": 5615,
 	"id": "savage-vest",
 	"image": "2571",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

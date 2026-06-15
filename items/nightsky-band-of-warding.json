@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "nightsky-band-of-warding",
 	"image": "4964",
+	"level": {
+		"min": 325
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1

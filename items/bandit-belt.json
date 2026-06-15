@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "bandit-belt",
 	"image": "5243",
+	"level": {
+		"min": 650
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1

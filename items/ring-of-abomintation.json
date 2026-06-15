@@ -3,6 +3,9 @@
 	"baseValue": 645,
 	"id": "ring-of-abomintation",
 	"image": "ring22",
+	"level": {
+		"min": 90
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

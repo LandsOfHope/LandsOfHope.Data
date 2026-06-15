@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "guilded-bloody-kings-shield",
 	"image": "sda",
+	"level": {
+		"min": 510
+	},
 	"material": "wood",
 	"properties": {
 		"MAXHITPOINTS": 1

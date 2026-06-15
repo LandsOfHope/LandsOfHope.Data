@@ -4,6 +4,9 @@
 	"baseValue": 5300,
 	"id": "pressed-shirt",
 	"image": "4520",
+	"level": {
+		"min": 750
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1

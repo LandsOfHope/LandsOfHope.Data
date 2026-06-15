@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "diamond-bag",
 	"image": "5870",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"cold-resistance": 1,

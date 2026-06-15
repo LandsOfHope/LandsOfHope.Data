@@ -4,6 +4,9 @@
 	"dpr": 35,
 	"id": "leafy-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 331
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

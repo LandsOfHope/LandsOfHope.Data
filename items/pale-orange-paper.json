@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "pale-orange-paper",
 	"image": "ppaleorange",
+	"level": {
+		"min": 235
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

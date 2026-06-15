@@ -4,6 +4,9 @@
 	"baseValue": 546,
 	"id": "footman-shoulder-pads",
 	"image": "2751",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "shoulders"

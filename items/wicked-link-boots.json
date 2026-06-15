@@ -4,6 +4,9 @@
 	"baseValue": 4209,
 	"id": "wicked-link-boots",
 	"image": "2603",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

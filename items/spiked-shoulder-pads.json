@@ -4,6 +4,9 @@
 	"baseValue": 164,
 	"id": "spiked-shoulder-pads",
 	"image": "sss",
+	"level": {
+		"min": 20
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

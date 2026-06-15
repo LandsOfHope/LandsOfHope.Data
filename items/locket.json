@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "locket",
 	"image": "zulocc",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

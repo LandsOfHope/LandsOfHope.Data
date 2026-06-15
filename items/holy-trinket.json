@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "holy-trinket",
 	"image": "zumane",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "quest-item"

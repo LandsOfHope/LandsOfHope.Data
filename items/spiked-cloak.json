@@ -4,6 +4,9 @@
 	"baseValue": 26,
 	"id": "spiked-cloak",
 	"image": "cl8",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

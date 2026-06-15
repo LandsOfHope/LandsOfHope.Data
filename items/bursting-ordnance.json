@@ -4,6 +4,9 @@
 	"dpr": 74,
 	"id": "bursting-ordnance",
 	"image": "ss6",
+	"level": {
+		"min": 725
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

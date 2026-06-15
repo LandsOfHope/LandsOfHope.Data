@@ -4,6 +4,9 @@
 	"baseValue": 1700,
 	"id": "ringmail-coif",
 	"image": "ccs",
+	"level": {
+		"min": 230
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

@@ -3,6 +3,9 @@
 	"baseValue": 34,
 	"id": "boo",
 	"image": "zushboo",
+	"level": {
+		"min": 1
+	},
 	"properties": {
 		"STRENGTH": 1
 	},

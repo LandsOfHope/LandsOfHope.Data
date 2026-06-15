@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "reinforced-dragon-shell-shield",
 	"image": "sd4",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1

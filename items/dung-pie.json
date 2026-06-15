@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "dung-pie",
 	"image": "ap1",
+	"level": {
+		"min": 60
+	},
 	"material": "hide",
 	"properties": {
 		"STAMINA": 1

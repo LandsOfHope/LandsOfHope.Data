@@ -4,6 +4,9 @@
 	"baseValue": 851,
 	"id": "loincloth",
 	"image": "lch",
+	"level": {
+		"min": 120
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

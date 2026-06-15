@@ -3,6 +3,9 @@
 	"baseValue": 310,
 	"id": "crumbling-potsherd",
 	"image": "967",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

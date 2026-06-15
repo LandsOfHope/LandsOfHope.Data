@@ -3,6 +3,9 @@
 	"baseValue": 210,
 	"id": "brittle-ornament",
 	"image": "bto",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

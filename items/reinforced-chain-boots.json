@@ -4,6 +4,9 @@
 	"baseValue": 3523,
 	"id": "reinforced-chain-boots",
 	"image": "2580",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

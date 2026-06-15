@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-infused-potion",
 	"image": "6479",
+	"level": {
+		"min": 40
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 4,

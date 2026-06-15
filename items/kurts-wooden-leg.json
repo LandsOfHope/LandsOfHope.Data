@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "kurts-wooden-leg",
 	"image": "5513",
+	"level": {
+		"min": 1000
+	},
 	"material": "wood",
 	"properties": {
 		"DEXTERITY": 1,

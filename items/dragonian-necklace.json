@@ -4,6 +4,9 @@
 	"expansion": "jurassic-wars",
 	"id": "dragonian-necklace",
 	"image": "ann",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "neck"

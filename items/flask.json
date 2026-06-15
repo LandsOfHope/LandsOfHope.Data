@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "flask",
 	"image": "bf1",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "quest-item"

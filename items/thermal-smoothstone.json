@@ -4,6 +4,9 @@
 	"dpr": 99,
 	"id": "thermal-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 976
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

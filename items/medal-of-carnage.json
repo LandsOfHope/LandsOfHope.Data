@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "medal-of-carnage",
 	"image": "6897",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

@@ -3,6 +3,9 @@
 	"baseValue": 170,
 	"id": "ruptured-jug",
 	"image": "rjg",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "enhanced-preystalking-ring",
 	"image": "6791",
+	"level": {
+		"min": 10
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 5,

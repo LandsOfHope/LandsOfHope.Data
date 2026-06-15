@@ -4,6 +4,9 @@
 	"baseValue": 3519,
 	"id": "trackers-shoulder-pads",
 	"image": "3020",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

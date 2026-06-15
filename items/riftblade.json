@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "riftblade",
 	"image": "rr",
+	"level": {
+		"min": 10
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

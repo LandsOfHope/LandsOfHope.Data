@@ -3,6 +3,9 @@
 	"baseValue": 8,
 	"id": "gatherers-glasses",
 	"image": "839",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skill": "artisan",
 	"stackLimit": 1,

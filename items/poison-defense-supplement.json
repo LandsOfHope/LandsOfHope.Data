@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "poison-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 250
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

@@ -4,6 +4,9 @@
 	"baseValue": 2113,
 	"id": "nightly-tunic",
 	"image": "3039",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

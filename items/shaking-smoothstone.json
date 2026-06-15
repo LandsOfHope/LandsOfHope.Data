@@ -4,6 +4,9 @@
 	"dpr": 54,
 	"id": "shaking-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 526
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

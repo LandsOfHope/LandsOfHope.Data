@@ -5,6 +5,9 @@
 	"id": "legendary-pistol",
 	"image": "pl1",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1,

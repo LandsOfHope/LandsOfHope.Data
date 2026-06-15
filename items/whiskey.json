@@ -3,6 +3,9 @@
 	"baseValue": 151,
 	"id": "whiskey",
 	"image": "zuwhii",
+	"level": {
+		"min": 300
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

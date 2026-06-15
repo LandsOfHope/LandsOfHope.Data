@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "bloodied-shield",
 	"image": "sd3",
+	"level": {
+		"min": 55
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,

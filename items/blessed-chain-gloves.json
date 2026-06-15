@@ -4,6 +4,9 @@
 	"baseValue": 1410,
 	"id": "blessed-chain-gloves",
 	"image": "2621",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

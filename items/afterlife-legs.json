@@ -5,6 +5,9 @@
 	"expansion": "the-afterlife",
 	"id": "afterlife-legs",
 	"image": "6384",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"set": "afterlife-set",
 	"stackLimit": 1,

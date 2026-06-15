@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "arterian-energy-potion",
 	"image": "gmarenpo",
+	"level": {
+		"min": 1000
+	},
 	"properties": {
 		"MANA": 6
 	},

@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "round-godly-shield",
 	"image": "sd6",
+	"level": {
+		"min": 900
+	},
 	"material": "wood",
 	"skill": "shields",
 	"skills": {

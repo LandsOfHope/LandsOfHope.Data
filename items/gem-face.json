@@ -3,6 +3,9 @@
 	"baseValue": 5609,
 	"id": "gem-face",
 	"image": "rmin2",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

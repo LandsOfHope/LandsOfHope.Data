@@ -4,6 +4,9 @@
 	"baseValue": 1417,
 	"id": "stary-headband",
 	"image": "3178",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

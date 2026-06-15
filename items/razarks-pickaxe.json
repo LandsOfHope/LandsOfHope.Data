@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "razarks-pickaxe",
 	"image": "5027",
+	"level": {
+		"min": 750
+	},
 	"material": "gem",
 	"skill": "mining",
 	"skills": {

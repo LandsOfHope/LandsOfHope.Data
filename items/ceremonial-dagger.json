@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "ceremonial-dagger",
 	"image": "dg4",
+	"level": {
+		"min": 20
+	},
 	"material": "gem",
 	"properties": {
 		"STRENGTH": 1

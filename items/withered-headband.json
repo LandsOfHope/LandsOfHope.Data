@@ -4,6 +4,9 @@
 	"baseValue": 2123,
 	"id": "withered-headband",
 	"image": "1569",
+	"level": {
+		"min": 300
+	},
 	"material": "wood",
 	"properties": {
 		"MAXMANA": 1

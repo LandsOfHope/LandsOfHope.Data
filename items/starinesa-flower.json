@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "starinesa-flower",
 	"image": "5764",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

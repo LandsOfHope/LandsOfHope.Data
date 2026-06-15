@@ -3,6 +3,9 @@
 	"baseValue": 171,
 	"id": "average-puddle-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 340
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

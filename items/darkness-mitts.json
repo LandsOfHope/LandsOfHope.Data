@@ -4,6 +4,9 @@
 	"baseValue": 5617,
 	"id": "darkness-mitts",
 	"image": "2890",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

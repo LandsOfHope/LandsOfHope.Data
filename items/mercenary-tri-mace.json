@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "mercenary-tri-mace",
 	"image": "6659",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

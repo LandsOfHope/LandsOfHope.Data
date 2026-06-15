@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "stegosaurus-patch",
 	"image": "gmstpa",
+	"level": {
+		"min": 350
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

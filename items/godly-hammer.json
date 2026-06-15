@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-hammer",
 	"image": "sle",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

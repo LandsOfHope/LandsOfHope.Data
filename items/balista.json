@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "balista",
 	"image": "ss5",
+	"level": {
+		"min": 10
+	},
 	"material": "wood",
 	"skill": "siege-weapons",
 	"skills": {

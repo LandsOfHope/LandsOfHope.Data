@@ -4,6 +4,9 @@
 	"baseValue": 3525,
 	"id": "trackers-tunic",
 	"image": "2778",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

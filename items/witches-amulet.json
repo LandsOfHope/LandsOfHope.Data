@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "witches-amulet",
 	"image": "6172",
+	"level": {
+		"min": 15
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "neck"

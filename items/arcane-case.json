@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "arcane-case",
 	"image": "bc2",
+	"level": {
+		"min": 65
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "storage-box"

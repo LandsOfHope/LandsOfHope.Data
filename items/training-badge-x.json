@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "training-badge-x",
 	"image": "6284",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "training-trophy"
 }

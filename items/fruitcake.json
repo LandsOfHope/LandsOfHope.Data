@@ -3,6 +3,9 @@
 	"baseValue": 331,
 	"id": "fruitcake",
 	"image": "zufrai",
+	"level": {
+		"min": 660
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 2

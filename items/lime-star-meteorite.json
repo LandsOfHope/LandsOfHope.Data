@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "lime-star-meteorite",
 	"image": "5995",
+	"level": {
+		"min": 700
+	},
 	"stackLimit": 1000,
 	"type": "star-metal"
 }

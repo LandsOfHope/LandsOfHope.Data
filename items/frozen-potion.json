@@ -4,6 +4,9 @@
 	"dpr": 65,
 	"id": "frozen-potion",
 	"image": "pe5",
+	"level": {
+		"min": 631
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

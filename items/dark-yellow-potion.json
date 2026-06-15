@@ -3,6 +3,9 @@
 	"baseValue": 376,
 	"id": "dark-yellow-potion",
 	"image": "pdy",
+	"level": {
+		"min": 750
+	},
 	"material": "gem",
 	"properties": {
 		"STAMINA": 1

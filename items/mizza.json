@@ -3,6 +3,9 @@
 	"baseValue": 86,
 	"id": "mizza",
 	"image": "mizza",
+	"level": {
+		"min": 10
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

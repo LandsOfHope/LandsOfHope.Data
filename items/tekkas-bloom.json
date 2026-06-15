@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "tekkas-bloom",
 	"image": "3192",
+	"level": {
+		"min": 1
+	},
 	"material": "berry",
 	"stackLimit": 1000,
 	"type": "food"

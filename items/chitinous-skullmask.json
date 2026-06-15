@@ -4,6 +4,9 @@
 	"baseValue": 3314,
 	"id": "chitinous-skullmask",
 	"image": "tochsk",
+	"level": {
+		"min": 470
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

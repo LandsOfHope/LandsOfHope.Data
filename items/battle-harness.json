@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "battle-harness",
 	"image": "bet",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

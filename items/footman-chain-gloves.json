@@ -4,6 +4,9 @@
 	"baseValue": 551,
 	"id": "footman-chain-gloves",
 	"image": "2619",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "hand-armour"

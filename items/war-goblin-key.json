@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "war-goblin-key",
 	"image": "6696",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "portal"

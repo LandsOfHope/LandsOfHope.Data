@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "mask-of-dedication",
 	"image": "zuolwoma",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

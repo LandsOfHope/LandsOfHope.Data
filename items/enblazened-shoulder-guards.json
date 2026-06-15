@@ -4,6 +4,9 @@
 	"baseValue": 2822,
 	"id": "enblazened-shoulder-guards",
 	"image": "3270",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

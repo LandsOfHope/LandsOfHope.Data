@@ -6,6 +6,9 @@
 	"id": "strongmoon-shoes",
 	"image": "4695",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 2811,
 	"id": "enblazened-cap",
 	"image": "3170",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

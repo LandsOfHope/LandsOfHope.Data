@@ -4,6 +4,9 @@
 	"baseValue": 6659,
 	"id": "commanders-chain-boots",
 	"image": "2583",
+	"level": {
+		"min": 950
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "red-pepper-plant",
 	"image": "2yri8",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "vegetable-respawner"
 }

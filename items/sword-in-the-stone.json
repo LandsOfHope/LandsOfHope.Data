@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "sword-in-the-stone",
 	"image": "6755",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "sword-in-the-stone"

@@ -4,6 +4,9 @@
 	"baseValue": 2124,
 	"id": "nightly-vest",
 	"image": "3089",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

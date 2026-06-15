@@ -4,6 +4,9 @@
 	"baseValue": 3069,
 	"id": "splintmail-sleeves",
 	"image": "css",
+	"level": {
+		"min": 450
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

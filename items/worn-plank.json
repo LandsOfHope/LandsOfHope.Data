@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "worn-plank",
 	"image": "plk",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "wood-ship-resource"
 }

@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "rare-gem",
 	"image": "zuglge",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "stolen-item-easy"
 }

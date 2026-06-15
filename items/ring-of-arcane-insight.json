@@ -3,6 +3,9 @@
 	"baseValue": 713,
 	"id": "ring-of-arcane-insight",
 	"image": "rg2",
+	"level": {
+		"min": 100
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 2087,
 	"id": "ring-of-the-dead",
 	"image": "rgo",
+	"level": {
+		"min": 295
+	},
 	"material": "metal",
 	"skill": "necromancy",
 	"skills": {

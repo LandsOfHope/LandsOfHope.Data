@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "minions-spear",
 	"image": "fesppa",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"properties": {
 		"SPEED": 1

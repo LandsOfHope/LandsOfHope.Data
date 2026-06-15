@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "hellsdrift-standard",
 	"image": "zsgc11",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"HITPOINTS": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "mince-pies",
 	"image": "6197",
+	"level": {
+		"min": 250
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 3

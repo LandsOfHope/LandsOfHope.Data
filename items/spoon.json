@@ -3,6 +3,9 @@
 	"baseValue": 32,
 	"id": "spoon",
 	"image": "spn",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "cooking",
 	"skills": {

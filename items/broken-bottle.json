@@ -4,6 +4,9 @@
 	"dpr": 70,
 	"id": "broken-bottle",
 	"image": "rew",
+	"level": {
+		"min": 700
+	},
 	"material": "gem",
 	"properties": {
 		"STAMINA": 1

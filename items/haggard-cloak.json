@@ -4,6 +4,9 @@
 	"baseValue": 1660,
 	"id": "haggard-cloak",
 	"image": "pclo7",
+	"level": {
+		"min": 230
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

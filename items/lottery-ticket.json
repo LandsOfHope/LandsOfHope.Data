@@ -3,6 +3,9 @@
 	"baseValue": 10000,
 	"id": "lottery-ticket",
 	"image": "1912",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "lottery-ticket"
 }

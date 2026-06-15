@@ -3,6 +3,9 @@
 	"baseValue": 2056,
 	"id": "ring-of-the-angler",
 	"image": "ring13",
+	"level": {
+		"min": 290
+	},
 	"material": "gem",
 	"skills": {
 		"cooking": 1,

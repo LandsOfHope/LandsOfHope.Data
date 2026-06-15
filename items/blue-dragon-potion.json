@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "blue-dragon-potion",
 	"image": "5864",
+	"level": {
+		"min": 50
+	},
 	"material": "gem",
 	"properties": {
 		"MANA": 1

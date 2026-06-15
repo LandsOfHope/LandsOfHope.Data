@@ -4,6 +4,9 @@
 	"dpr": 71,
 	"id": "smoldering-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 691
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "learning-device",
 	"image": "6334",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "uncommon-plan"

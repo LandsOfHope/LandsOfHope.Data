@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "yellow-ninja-star",
 	"image": "6408",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

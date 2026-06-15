@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "ornate-short-bow",
 	"image": "gmorshbo",
+	"level": {
+		"min": 55
+	},
 	"material": "gem",
 	"properties": {
 		"STRENGTH": 1

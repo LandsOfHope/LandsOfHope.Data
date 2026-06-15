@@ -4,6 +4,9 @@
 	"dpr": 17,
 	"id": "charred-bullet",
 	"image": "zuchbu1",
+	"level": {
+		"min": 151
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 28,
 	"id": "cloak",
 	"image": "pclo15",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

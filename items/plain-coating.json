@@ -4,6 +4,9 @@
 	"baseValue": 5,
 	"id": "plain-coating",
 	"image": "2438",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1000,
 	"type": "golem-parts"

@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "mercenary-sword",
 	"image": "6651",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

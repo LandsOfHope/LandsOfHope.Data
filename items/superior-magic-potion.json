@@ -3,6 +3,9 @@
 	"baseValue": 300,
 	"id": "superior-magic-potion",
 	"image": "pb1",
+	"level": {
+		"min": 600
+	},
 	"material": "gem",
 	"properties": {
 		"MANA": 3.25

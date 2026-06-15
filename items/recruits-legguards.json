@@ -4,6 +4,9 @@
 	"baseValue": 305,
 	"id": "recruits-legguards",
 	"image": "2529",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

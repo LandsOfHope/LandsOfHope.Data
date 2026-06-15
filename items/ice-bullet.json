@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "ice-bullet",
 	"image": "zuicbu2",
+	"level": {
+		"min": 61
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

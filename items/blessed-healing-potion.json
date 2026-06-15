@@ -3,6 +3,9 @@
 	"baseValue": 426,
 	"id": "blessed-healing-potion",
 	"image": "pr4",
+	"level": {
+		"min": 850
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 3.75

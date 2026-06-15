@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "painting-by-noreal",
 	"image": "zurapabyno",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "stolen-item-easy"
 }

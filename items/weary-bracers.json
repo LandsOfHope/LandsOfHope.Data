@@ -4,6 +4,9 @@
 	"baseValue": 644,
 	"id": "weary-bracers",
 	"image": "4453",
+	"level": {
+		"min": 90
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

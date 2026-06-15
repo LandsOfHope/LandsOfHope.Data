@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "ocarina",
 	"image": "5984",
+	"level": {
+		"min": 100
+	},
 	"material": "wood",
 	"properties": {
 		"INTELLIGENCE": 1

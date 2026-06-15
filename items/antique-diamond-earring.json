@@ -4,6 +4,9 @@
 	"baseValue": 13,
 	"id": "antique-diamond-earring",
 	"image": "6323",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"set": "antique-set",
 	"stackLimit": 1,

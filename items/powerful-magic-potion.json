@@ -3,6 +3,9 @@
 	"baseValue": 376,
 	"id": "powerful-magic-potion",
 	"image": "pb3",
+	"level": {
+		"min": 750
+	},
 	"material": "gem",
 	"properties": {
 		"MANA": 3.5

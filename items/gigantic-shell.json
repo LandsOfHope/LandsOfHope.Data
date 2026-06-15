@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "gigantic-shell",
 	"image": "2426",
+	"level": {
+		"min": 100
+	},
 	"material": "stone",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "round-deadly-shield",
 	"image": "sd6",
+	"level": {
+		"min": 700
+	},
 	"material": "wood",
 	"skill": "shields",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "shwubbery",
 	"image": "6331",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

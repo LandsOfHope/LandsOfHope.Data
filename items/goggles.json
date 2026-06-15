@@ -3,6 +3,9 @@
 	"baseValue": 1110,
 	"id": "goggles",
 	"image": "ces",
+	"level": {
+		"min": 155
+	},
 	"material": "gem",
 	"skills": {
 		"armor": 1

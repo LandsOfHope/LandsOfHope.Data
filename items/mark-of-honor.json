@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "mark-of-honor",
 	"image": "6578",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

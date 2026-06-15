@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "iceclan-claw",
 	"image": "4987",
+	"level": {
+		"min": 540
+	},
 	"material": "hide",
 	"skills": {
 		"attack-power": 1,

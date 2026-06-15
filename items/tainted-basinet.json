@@ -4,6 +4,9 @@
 	"baseValue": 5125,
 	"id": "tainted-basinet",
 	"image": "cse",
+	"level": {
+		"min": 730
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

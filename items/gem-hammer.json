@@ -3,6 +3,9 @@
 	"baseValue": 26,
 	"id": "gem-hammer",
 	"image": "zugeha",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "geology",
 	"skills": {

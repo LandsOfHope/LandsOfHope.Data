@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "chocolate-cookie-tree",
 	"image": "2yri9",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "anniversary-gift"
 }

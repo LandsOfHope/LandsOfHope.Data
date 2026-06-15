@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "festive-costume-shirt",
 	"image": "sshirt",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"set": "festive-costume",
 	"stackLimit": 1,

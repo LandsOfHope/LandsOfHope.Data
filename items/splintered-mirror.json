@@ -3,6 +3,9 @@
 	"baseValue": 180,
 	"id": "splintered-mirror",
 	"image": "950",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

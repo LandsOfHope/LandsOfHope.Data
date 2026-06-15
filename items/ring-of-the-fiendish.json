@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "ring-of-the-fiendish",
 	"image": "6165",
+	"level": {
+		"min": 300
+	},
 	"material": "gem",
 	"properties": {
 		"STRENGTH": 1

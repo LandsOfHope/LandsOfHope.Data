@@ -4,6 +4,9 @@
 	"dpr": 14,
 	"id": "barbed-arrow",
 	"image": "bba",
+	"level": {
+		"min": 121
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "pale-bone-paper",
 	"image": "ppalebone",
+	"level": {
+		"min": 680
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

@@ -3,6 +3,9 @@
 	"baseValue": 1559,
 	"id": "ring-of-intelligence",
 	"image": "rgf",
+	"level": {
+		"min": 220
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

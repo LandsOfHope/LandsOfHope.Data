@@ -4,6 +4,9 @@
 	"baseValue": 5609,
 	"id": "regal-sandals",
 	"image": "3123",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

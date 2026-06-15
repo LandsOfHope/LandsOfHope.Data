@@ -4,6 +4,9 @@
 	"baseValue": 5,
 	"id": "stitched-coating",
 	"image": "2439",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "golem-parts"

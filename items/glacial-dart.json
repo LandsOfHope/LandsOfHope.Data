@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "glacial-dart",
 	"image": "drt",
+	"level": {
+		"min": 406
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "blade-of-the-fallen",
 	"image": "swf",
+	"level": {
+		"min": 80
+	},
 	"material": "gem",
 	"skill": "swords",
 	"skills": {

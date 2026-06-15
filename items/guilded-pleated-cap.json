@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-pleated-cap",
 	"image": "3921",
+	"level": {
+		"min": 60
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "head-armour"

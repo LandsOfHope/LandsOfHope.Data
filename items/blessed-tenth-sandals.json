@@ -4,6 +4,9 @@
 	"baseValue": 4300,
 	"id": "blessed-tenth-sandals",
 	"image": "ta4",
+	"level": {
+		"min": 930
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "muffin-slave",
 	"image": "6714",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "creature"
 }

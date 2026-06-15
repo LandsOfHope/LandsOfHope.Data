@@ -4,6 +4,9 @@
 	"baseValue": 3508,
 	"id": "trackers-shoes",
 	"image": "2855",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

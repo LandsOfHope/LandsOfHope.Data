@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-savage-chestprotector",
 	"image": "3735",
+	"level": {
+		"min": 810
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

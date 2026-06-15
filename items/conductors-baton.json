@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "conductors-baton",
 	"image": "zucoba01",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "instruments",
 	"skills": {

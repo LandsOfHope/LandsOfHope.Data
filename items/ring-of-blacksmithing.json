@@ -3,6 +3,9 @@
 	"baseValue": 886,
 	"id": "ring-of-blacksmithing",
 	"image": "rg6",
+	"level": {
+		"min": 125
+	},
 	"material": "gem",
 	"skill": "blacksmithing",
 	"skills": {

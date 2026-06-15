@@ -4,6 +4,9 @@
 	"baseValue": 3800,
 	"id": "faded-cloak",
 	"image": "pclo8",
+	"level": {
+		"min": 530
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1

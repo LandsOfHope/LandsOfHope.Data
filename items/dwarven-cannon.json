@@ -4,6 +4,9 @@
 	"dpr": 14,
 	"id": "dwarven-cannon",
 	"image": "ss3",
+	"level": {
+		"min": 125
+	},
 	"material": "metal",
 	"skill": "siege-weapons",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "harvestor-knife",
 	"image": "fehakn",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "farming",
 	"skills": {

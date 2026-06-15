@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "compound-crossbow",
 	"image": "xw2",
+	"level": {
+		"min": 15
+	},
 	"material": "metal",
 	"skill": "crossbows",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 2469,
 	"id": "loopmail-coif",
 	"image": "ccs",
+	"level": {
+		"min": 330
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

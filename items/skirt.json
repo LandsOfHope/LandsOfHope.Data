@@ -4,6 +4,9 @@
 	"baseValue": 46,
 	"id": "skirt",
 	"image": "skt",
+	"level": {
+		"min": 5
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

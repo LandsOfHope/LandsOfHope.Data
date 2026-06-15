@@ -3,6 +3,9 @@
 	"baseValue": 6,
 	"id": "cooked-fillet",
 	"image": "c1f",
+	"level": {
+		"min": 10
+	},
 	"material": "fish",
 	"properties": {
 		"STAMINA": 1

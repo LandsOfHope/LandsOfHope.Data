@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-broadsword",
 	"image": "ce",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {

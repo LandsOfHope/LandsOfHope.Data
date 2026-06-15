@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "unhatched-young-weaver-egg",
 	"image": "e8",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "monster-spawner"

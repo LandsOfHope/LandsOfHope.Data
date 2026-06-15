@@ -4,6 +4,9 @@
 	"baseValue": 2122,
 	"id": "adventurer-pants",
 	"image": "2787",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

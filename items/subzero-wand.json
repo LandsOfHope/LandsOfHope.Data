@@ -4,6 +4,9 @@
 	"dpr": 71,
 	"id": "subzero-wand",
 	"image": "wand13",
+	"level": {
+		"min": 691
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

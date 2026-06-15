@@ -3,6 +3,9 @@
 	"baseValue": 310,
 	"id": "dilapidated-scarab",
 	"image": "des",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

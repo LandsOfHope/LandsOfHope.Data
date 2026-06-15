@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "red-celestial-staff",
 	"image": "5987",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "celestial-weapons",
 	"skills": {

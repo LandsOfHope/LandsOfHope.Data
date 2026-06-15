@@ -3,6 +3,9 @@
 	"baseValue": 2709,
 	"id": "winchwinders-ring",
 	"image": "zuwiri",
+	"level": {
+		"min": 385
+	},
 	"material": "metal",
 	"skills": {
 		"tinkering": 1

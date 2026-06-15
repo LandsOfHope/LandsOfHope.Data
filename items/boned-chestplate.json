@@ -4,6 +4,9 @@
 	"baseValue": 166,
 	"id": "boned-chestplate",
 	"image": "511",
+	"level": {
+		"min": 20
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

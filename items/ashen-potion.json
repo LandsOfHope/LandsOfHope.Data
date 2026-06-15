@@ -4,6 +4,9 @@
 	"dpr": 34,
 	"id": "ashen-potion",
 	"image": "pe5",
+	"level": {
+		"min": 323
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

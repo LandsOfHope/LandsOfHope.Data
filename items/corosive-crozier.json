@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "corosive-crozier",
 	"image": "st1",
+	"level": {
+		"min": 85
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

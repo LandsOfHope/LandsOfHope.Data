@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "rare-painting-by-micael-langelo",
 	"image": "zurapabymic",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "stolen-item-medium"
 }

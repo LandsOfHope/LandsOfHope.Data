@@ -4,6 +4,9 @@
 	"baseValue": 151,
 	"id": "depraved-sleeves",
 	"image": "1814",
+	"level": {
+		"min": 20
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

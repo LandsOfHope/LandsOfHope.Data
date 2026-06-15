@@ -4,6 +4,9 @@
 	"baseValue": 890,
 	"id": "leggings-of-arcane-englyphment",
 	"image": "1375",
+	"level": {
+		"min": 125
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

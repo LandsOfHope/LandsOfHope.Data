@@ -4,6 +4,9 @@
 	"baseValue": 2477,
 	"id": "archaic-sleeves",
 	"image": "fe5vosl",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "archaeology",
 	"skills": {

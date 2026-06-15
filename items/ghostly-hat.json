@@ -4,6 +4,9 @@
 	"baseValue": 4218,
 	"id": "ghostly-hat",
 	"image": "2911",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

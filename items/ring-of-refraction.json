@@ -3,6 +3,9 @@
 	"baseValue": 1833,
 	"id": "ring-of-refraction",
 	"image": "rgk",
+	"level": {
+		"min": 260
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

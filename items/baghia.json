@@ -4,6 +4,9 @@
 	"baseValue": 341,
 	"id": "baghia",
 	"image": "246",
+	"level": {
+		"min": 45
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

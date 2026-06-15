@@ -4,6 +4,9 @@
 	"dpr": 59,
 	"id": "weeping-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 571
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

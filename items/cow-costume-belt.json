@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "cow-costume-belt",
 	"image": "arbet",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"set": "cow-costume",
 	"skill": "artisan",

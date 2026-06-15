@@ -3,6 +3,9 @@
 	"baseValue": 151,
 	"id": "cheese-sandwich",
 	"image": "ch1",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 1

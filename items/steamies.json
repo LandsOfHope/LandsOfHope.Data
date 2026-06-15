@@ -3,6 +3,9 @@
 	"baseValue": 26,
 	"id": "steamies",
 	"image": "zustii",
+	"level": {
+		"min": 50
+	},
 	"material": "vegetable",
 	"properties": {
 		"HITPOINTS": 1

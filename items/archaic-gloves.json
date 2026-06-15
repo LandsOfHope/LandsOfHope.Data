@@ -4,6 +4,9 @@
 	"baseValue": 363,
 	"id": "archaic-gloves",
 	"image": "fe5vogl",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "archaeology",
 	"skills": {

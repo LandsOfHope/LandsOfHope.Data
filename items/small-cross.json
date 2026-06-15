@@ -4,6 +4,9 @@
 	"dpr": 12,
 	"id": "small-cross",
 	"image": "cso",
+	"level": {
+		"min": 100
+	},
 	"material": "wood",
 	"skill": "maces",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 98,
 	"id": "torrential-bullet",
 	"image": "zutobu",
+	"level": {
+		"min": 961
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

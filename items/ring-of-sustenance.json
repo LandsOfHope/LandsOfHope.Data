@@ -3,6 +3,9 @@
 	"baseValue": 2008,
 	"id": "ring-of-sustenance",
 	"image": "ring14",
+	"level": {
+		"min": 285
+	},
 	"material": "gem",
 	"skills": {
 		"cooking": 1,

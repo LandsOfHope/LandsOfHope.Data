@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "wurm-ribbed-helmet",
 	"image": "5814",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "green-alien-crystal-shard",
 	"image": "7001",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1,

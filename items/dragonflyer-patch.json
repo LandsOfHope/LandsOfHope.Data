@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "dragonflyer-patch",
 	"image": "gmdrpa",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

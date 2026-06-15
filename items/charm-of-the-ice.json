@@ -3,6 +3,9 @@
 	"baseValue": 4397,
 	"id": "charm-of-the-ice",
 	"image": "zuchic",
+	"level": {
+		"min": 625
+	},
 	"material": "wood",
 	"skills": {
 		"cold-magic": 1

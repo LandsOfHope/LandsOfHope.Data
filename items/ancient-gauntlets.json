@@ -5,6 +5,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-gauntlets",
 	"image": "6475",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "hand-armour"

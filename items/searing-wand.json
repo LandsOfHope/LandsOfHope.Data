@@ -4,6 +4,9 @@
 	"dpr": 26,
 	"id": "searing-wand",
 	"image": "wand11",
+	"level": {
+		"min": 241
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

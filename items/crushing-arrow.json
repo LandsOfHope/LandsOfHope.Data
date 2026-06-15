@@ -4,6 +4,9 @@
 	"dpr": 68,
 	"id": "crushing-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 661
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

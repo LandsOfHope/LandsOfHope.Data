@@ -3,6 +3,9 @@
 	"baseValue": 281,
 	"id": "roasted-nuts",
 	"image": "ron",
+	"level": {
+		"min": 560
+	},
 	"material": "berry",
 	"properties": {
 		"HITPOINTS": 2

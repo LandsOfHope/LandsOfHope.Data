@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "draining-hand-art",
 	"image": "6232",
+	"level": {
+		"min": 800
+	},
 	"material": "color",
 	"skill": "martial-arts",
 	"skills": {

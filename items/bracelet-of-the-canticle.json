@@ -3,6 +3,9 @@
 	"baseValue": 714,
 	"id": "bracelet-of-the-canticle",
 	"image": "bac",
+	"level": {
+		"min": 100
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

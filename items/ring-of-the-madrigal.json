@@ -3,6 +3,9 @@
 	"baseValue": 2283,
 	"id": "ring-of-the-madrigal",
 	"image": "ring7",
+	"level": {
+		"min": 325
+	},
 	"material": "metal",
 	"skills": {
 		"instruments": 1

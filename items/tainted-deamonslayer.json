@@ -4,6 +4,9 @@
 	"dpr": 11,
 	"id": "tainted-deamonslayer",
 	"image": "zutade",
+	"level": {
+		"min": 90
+	},
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {

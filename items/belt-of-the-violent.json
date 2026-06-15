@@ -3,6 +3,9 @@
 	"baseValue": 140,
 	"id": "belt-of-the-violent",
 	"image": "pbelt4",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"attack-power": 1

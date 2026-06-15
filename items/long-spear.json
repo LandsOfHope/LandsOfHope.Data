@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "long-spear",
 	"image": "acs",
+	"level": {
+		"min": 5
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

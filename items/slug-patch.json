@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "slug-patch",
 	"image": "gmslpa",
+	"level": {
+		"min": 450
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

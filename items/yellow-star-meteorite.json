@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "yellow-star-meteorite",
 	"image": "5990",
+	"level": {
+		"min": 200
+	},
 	"stackLimit": 1000,
 	"type": "star-metal"
 }

@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "skulking-dagger",
 	"image": "zuskda",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

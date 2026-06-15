@@ -4,6 +4,9 @@
 	"baseValue": 2108,
 	"id": "nightly-shoulder-guards",
 	"image": "3269",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

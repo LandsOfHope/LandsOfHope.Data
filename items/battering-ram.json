@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "battering-ram",
 	"image": "ss7",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "siege-weapons",
 	"skills": {

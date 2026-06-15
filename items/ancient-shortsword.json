@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "ancient-shortsword",
 	"image": "sw9",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

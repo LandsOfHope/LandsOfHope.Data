@@ -3,6 +3,9 @@
 	"baseValue": 102,
 	"id": "windborn-leaf",
 	"image": "6058",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "junk"
 }

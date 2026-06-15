@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "plain-handle",
 	"image": "feplha",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "new-crafting-resource"

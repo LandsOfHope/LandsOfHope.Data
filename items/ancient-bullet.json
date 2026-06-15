@@ -4,6 +4,9 @@
 	"dpr": 101,
 	"id": "ancient-bullet",
 	"image": "zuanbu",
+	"level": {
+		"min": 991
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

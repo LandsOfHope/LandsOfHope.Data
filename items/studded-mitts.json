@@ -4,6 +4,9 @@
 	"baseValue": 722,
 	"id": "studded-mitts",
 	"image": "2884",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 370,
 	"id": "pleated-hat",
 	"image": "3156",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "head-armour"

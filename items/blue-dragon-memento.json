@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "blue-dragon-memento",
 	"image": "6621",
+	"level": {
+		"min": 1
+	},
 	"skill": "gods-favor",
 	"stackLimit": 1000,
 	"type": "trophy"

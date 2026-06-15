@@ -4,6 +4,9 @@
 	"baseValue": 713,
 	"id": "follower-shoulder-guards",
 	"image": "3267",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "raider-hat",
 	"image": "5236",
+	"level": {
+		"min": 350
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

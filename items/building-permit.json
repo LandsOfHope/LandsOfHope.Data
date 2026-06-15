@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "building-permit",
 	"image": "deed3",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "building-permit"

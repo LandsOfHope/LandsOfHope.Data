@@ -4,6 +4,9 @@
 	"dpr": 30,
 	"id": "chilling-potion",
 	"image": "pe5",
+	"level": {
+		"min": 281
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

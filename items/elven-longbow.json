@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "elven-longbow",
 	"image": "bw3",
+	"level": {
+		"min": 30
+	},
 	"material": "wood",
 	"properties": {
 		"MAXHITPOINTS": 1

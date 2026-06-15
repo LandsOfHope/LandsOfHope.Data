@@ -4,6 +4,9 @@
 	"baseValue": 712,
 	"id": "follower-sleeves",
 	"image": "3217",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

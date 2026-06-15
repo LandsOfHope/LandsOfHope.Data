@@ -4,6 +4,9 @@
 	"baseValue": 854,
 	"id": "dungeoncreeper-gloves",
 	"image": "4944",
+	"level": {
+		"min": 6
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

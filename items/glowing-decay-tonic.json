@@ -3,6 +3,9 @@
 	"baseValue": 413,
 	"id": "glowing-decay-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 825
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

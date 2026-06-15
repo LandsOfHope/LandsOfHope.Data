@@ -4,6 +4,9 @@
 	"baseValue": 5616,
 	"id": "darkness-hat",
 	"image": "2912",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

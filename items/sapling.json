@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "sapling",
 	"image": "pt",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "green-formal-flower-suit",
 	"image": "6960",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "wings"
 }

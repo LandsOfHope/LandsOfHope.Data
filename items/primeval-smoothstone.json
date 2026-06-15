@@ -4,6 +4,9 @@
 	"dpr": 51,
 	"id": "primeval-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 496
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

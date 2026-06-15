@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "mystical-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 410
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

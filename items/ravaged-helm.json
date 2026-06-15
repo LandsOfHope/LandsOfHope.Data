@@ -4,6 +4,9 @@
 	"baseValue": 722,
 	"id": "ravaged-helm",
 	"image": "2653",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

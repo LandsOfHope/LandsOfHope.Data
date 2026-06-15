@@ -4,6 +4,9 @@
 	"baseValue": 342,
 	"id": "bracers-of-nourishment",
 	"image": "bcs",
+	"level": {
+		"min": 45
+	},
 	"material": "hide",
 	"skills": {
 		"cooking": 1

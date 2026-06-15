@@ -4,6 +4,9 @@
 	"baseValue": 17,
 	"id": "tanned-headgear",
 	"image": "2925",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

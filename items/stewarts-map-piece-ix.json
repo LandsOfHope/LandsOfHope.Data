@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "stewarts-map-piece-ix",
 	"image": "mp2",
+	"level": {
+		"min": 1
+	},
 	"material": "color",
 	"stackLimit": 1,
 	"type": "pirate-puzzle"

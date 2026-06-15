@@ -4,6 +4,9 @@
 	"baseValue": 2464,
 	"id": "dungeoncreeper-tunic",
 	"image": "4947",
+	"level": {
+		"min": 10
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "shadowed-runic-tattoo",
 	"image": "tattoo1",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1,

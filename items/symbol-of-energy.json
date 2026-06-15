@@ -4,6 +4,9 @@
 	"baseValue": 17,
 	"id": "symbol-of-energy",
 	"image": "1862",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MANA": 1,

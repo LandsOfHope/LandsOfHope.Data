@@ -4,6 +4,9 @@
 	"baseValue": 297,
 	"id": "body",
 	"image": "138",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

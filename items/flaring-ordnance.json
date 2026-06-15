@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "flaring-ordnance",
 	"image": "ss6",
+	"level": {
+		"min": 700
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

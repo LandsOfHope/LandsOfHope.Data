@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "white-rose",
 	"image": "flr",
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "exile-symbol"

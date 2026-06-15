@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "firey-flanged-mace",
 	"image": "bm",
+	"level": {
+		"min": 55
+	},
 	"material": "metal",
 	"skill": "maces",
 	"skills": {

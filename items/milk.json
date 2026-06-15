@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "milk",
 	"image": "mil",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 1

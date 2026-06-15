@@ -4,6 +4,9 @@
 	"baseValue": 1409,
 	"id": "blessed-legchain",
 	"image": "2544",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

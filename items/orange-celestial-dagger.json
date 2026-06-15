@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "orange-celestial-dagger",
 	"image": "6012",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "warped-cookie-box",
 	"image": "6721",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "special-chest"

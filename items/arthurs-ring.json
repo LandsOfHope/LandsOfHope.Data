@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "arthurs-ring",
 	"image": "6914",
+	"level": {
+		"min": 1000
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 0.5,

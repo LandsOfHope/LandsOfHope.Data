@@ -4,6 +4,9 @@
 	"dpr": 44,
 	"id": "glacial-potion",
 	"image": "pe5",
+	"level": {
+		"min": 421
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

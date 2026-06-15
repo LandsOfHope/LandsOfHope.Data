@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-knuckle-basher",
 	"image": "nft",
+	"level": {
+		"min": 410
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

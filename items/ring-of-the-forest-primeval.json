@@ -3,6 +3,9 @@
 	"baseValue": 2180,
 	"id": "ring-of-the-forest-primeval",
 	"image": "ring10",
+	"level": {
+		"min": 310
+	},
 	"material": "wood",
 	"skills": {
 		"botany": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "young-weaver",
 	"image": "gmyowe",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

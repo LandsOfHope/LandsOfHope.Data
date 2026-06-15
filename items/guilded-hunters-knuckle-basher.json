@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "guilded-hunters-knuckle-basher",
 	"image": "nft",
+	"level": {
+		"min": 210
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

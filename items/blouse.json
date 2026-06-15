@@ -4,6 +4,9 @@
 	"baseValue": 988,
 	"id": "blouse",
 	"image": "blo",
+	"level": {
+		"min": 140
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1,

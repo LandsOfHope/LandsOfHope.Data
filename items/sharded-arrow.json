@@ -4,6 +4,9 @@
 	"dpr": 92,
 	"id": "sharded-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 901
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

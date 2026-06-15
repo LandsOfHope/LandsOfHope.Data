@@ -4,6 +4,9 @@
 	"dpr": 87,
 	"id": "chilled-potion",
 	"image": "pe5",
+	"level": {
+		"min": 855
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

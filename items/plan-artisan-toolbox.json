@@ -3,6 +3,9 @@
 	"baseValue": 400,
 	"id": "plan-artisan-toolbox",
 	"image": "bk4",
+	"level": {
+		"min": 999
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "training-aid-plan"

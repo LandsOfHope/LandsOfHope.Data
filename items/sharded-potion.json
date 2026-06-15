@@ -4,6 +4,9 @@
 	"dpr": 88,
 	"id": "sharded-potion",
 	"image": "pe5",
+	"level": {
+		"min": 869
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

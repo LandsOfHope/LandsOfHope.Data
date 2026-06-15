@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "ancient-half-axe",
 	"image": "aha",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

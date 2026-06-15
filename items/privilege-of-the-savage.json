@@ -4,6 +4,9 @@
 	"expansion": "jurassic-wars",
 	"id": "privilege-of-the-savage",
 	"image": "5889",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,

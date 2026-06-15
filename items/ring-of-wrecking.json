@@ -3,6 +3,9 @@
 	"baseValue": 2532,
 	"id": "ring-of-wrecking",
 	"image": "ring1",
+	"level": {
+		"min": 360
+	},
 	"material": "gem",
 	"properties": {
 		"STRENGTH": 1

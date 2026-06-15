@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "frenzied-blood-axe",
 	"image": "ax13",
+	"level": {
+		"min": 40
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

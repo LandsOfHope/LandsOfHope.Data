@@ -3,6 +3,9 @@
 	"baseValue": 1211,
 	"id": "ring-of-digging",
 	"image": "rgc",
+	"level": {
+		"min": 170
+	},
 	"material": "gem",
 	"skill": "mining",
 	"skills": {

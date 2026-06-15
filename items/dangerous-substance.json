@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "dangerous-substance",
 	"image": "ore",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

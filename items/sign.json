@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "sign",
 	"image": "si1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "signpost"

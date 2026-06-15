@@ -4,6 +4,9 @@
 	"dpr": 63,
 	"id": "guilded-lethal-claymore",
 	"image": "ce",
+	"level": {
+		"min": 610
+	},
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 18,
 	"id": "sculpture",
 	"image": "anf",
+	"level": {
+		"min": 35
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "stone-masonry-result"

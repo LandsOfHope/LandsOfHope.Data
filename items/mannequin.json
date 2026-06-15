@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "mannequin",
 	"image": "6369",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "simple-flower-arrangement",
 	"image": "5800",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

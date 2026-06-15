@@ -4,6 +4,9 @@
 	"dpr": 47,
 	"id": "botanical-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 451
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

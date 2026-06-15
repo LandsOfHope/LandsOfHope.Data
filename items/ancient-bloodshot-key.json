@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-bloodshot-key",
 	"image": "6461",
+	"level": {
+		"min": 40
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "portal"

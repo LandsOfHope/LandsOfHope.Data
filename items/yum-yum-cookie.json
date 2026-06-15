@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "yum-yum-cookie",
 	"image": "6723",
+	"level": {
+		"min": 1
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1,

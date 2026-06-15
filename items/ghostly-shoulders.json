@@ -4,6 +4,9 @@
 	"baseValue": 4227,
 	"id": "ghostly-shoulders",
 	"image": "3010",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

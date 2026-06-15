@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "magicians-folly",
 	"image": "5012",
+	"level": {
+		"min": 30
+	},
 	"material": "wood",
 	"properties": {
 		"MAXMANA": 1

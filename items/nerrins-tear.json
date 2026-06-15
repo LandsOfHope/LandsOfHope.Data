@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "nerrins-tear",
 	"image": "am1",
+	"level": {
+		"min": 160
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

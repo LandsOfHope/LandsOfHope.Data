@@ -4,6 +4,9 @@
 	"baseValue": 398,
 	"id": "webbed-hat",
 	"image": "2086",
+	"level": {
+		"min": 55
+	},
 	"material": "spider",
 	"properties": {
 		"MAXMANA": 1

@@ -3,6 +3,9 @@
 	"baseValue": 2426,
 	"id": "ring-of-the-square-meal",
 	"image": "ring3",
+	"level": {
+		"min": 345
+	},
 	"material": "gem",
 	"skills": {
 		"cooking": 1,

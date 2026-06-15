@@ -4,6 +4,9 @@
 	"baseValue": 2116,
 	"id": "nightly-sleeves",
 	"image": "3219",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

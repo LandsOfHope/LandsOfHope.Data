@@ -3,6 +3,9 @@
 	"baseValue": 176,
 	"id": "cheese-slice",
 	"image": "ch2",
+	"level": {
+		"min": 350
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 1

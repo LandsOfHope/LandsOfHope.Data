@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "plain-medium-golem",
 	"image": "2695",
+	"level": {
+		"min": 201
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "golem"

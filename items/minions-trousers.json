@@ -4,6 +4,9 @@
 	"baseValue": 4500,
 	"id": "minions-trousers",
 	"image": "5925",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

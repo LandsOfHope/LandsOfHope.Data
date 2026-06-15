@@ -4,6 +4,9 @@
 	"baseValue": 2822,
 	"id": "enblazened-handwarmers",
 	"image": "3150",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

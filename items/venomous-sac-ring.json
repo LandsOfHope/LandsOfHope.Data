@@ -3,6 +3,9 @@
 	"baseValue": 2612,
 	"id": "venomous-sac-ring",
 	"image": "vsr",
+	"level": {
+		"min": 370
+	},
 	"material": "metal",
 	"skills": {
 		"poison-magic": 1,

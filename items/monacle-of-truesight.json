@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "monacle-of-truesight",
 	"image": "mot",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

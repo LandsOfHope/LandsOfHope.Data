@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "sleep-in-peace",
 	"image": "zushsip",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "halloween-2007"
 }

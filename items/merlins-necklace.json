@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "merlins-necklace",
 	"image": "6919",
+	"level": {
+		"min": 1000
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 0.7,

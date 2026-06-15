@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "meteorite-magnet",
 	"image": "6049",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skill": "celestial-magic",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 443,
 	"id": "healers-aid",
 	"image": "zuheai",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

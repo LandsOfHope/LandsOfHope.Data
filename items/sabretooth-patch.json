@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "sabretooth-patch",
 	"image": "gmsapa",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

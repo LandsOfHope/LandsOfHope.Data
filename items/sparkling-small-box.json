@@ -3,6 +3,9 @@
 	"baseValue": 1072,
 	"id": "sparkling-small-box",
 	"image": "bx",
+	"level": {
+		"min": 150
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "good-spawner"

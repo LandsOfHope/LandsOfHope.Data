@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "sturdy-table",
 	"image": "6715",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "creature"
 }

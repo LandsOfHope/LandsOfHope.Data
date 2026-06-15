@@ -4,6 +4,9 @@
 	"baseValue": 3509,
 	"id": "trackers-handwarmers",
 	"image": "2899",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

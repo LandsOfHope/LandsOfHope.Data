@@ -4,6 +4,9 @@
 	"baseValue": 6666,
 	"id": "devilish-mitts",
 	"image": "2891",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

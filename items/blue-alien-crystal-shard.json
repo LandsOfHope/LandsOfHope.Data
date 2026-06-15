@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "blue-alien-crystal-shard",
 	"image": "7002",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1.2,

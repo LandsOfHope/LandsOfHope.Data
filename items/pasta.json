@@ -3,6 +3,9 @@
 	"baseValue": 76,
 	"id": "pasta",
 	"image": "fepaas",
+	"level": {
+		"min": 150
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "horde-map",
 	"image": "5880",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "treasure-map"

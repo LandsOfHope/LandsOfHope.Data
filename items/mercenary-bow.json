@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "mercenary-bow",
 	"image": "6656",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

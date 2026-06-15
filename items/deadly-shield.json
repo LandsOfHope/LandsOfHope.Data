@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "deadly-shield",
 	"image": "sd5",
+	"level": {
+		"min": 700
+	},
 	"material": "wood",
 	"properties": {
 		"STRENGTH": 1

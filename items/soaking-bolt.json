@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "soaking-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 511
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

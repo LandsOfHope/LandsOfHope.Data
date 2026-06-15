@@ -4,6 +4,9 @@
 	"baseValue": 1900,
 	"id": "molded-chaps",
 	"image": "4416",
+	"level": {
+		"min": 270
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

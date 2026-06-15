@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "bedazzled-ring",
 	"image": "6163",
+	"level": {
+		"min": 150
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "ring"

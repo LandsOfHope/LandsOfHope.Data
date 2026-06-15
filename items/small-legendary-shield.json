@@ -5,6 +5,9 @@
 	"id": "small-legendary-shield",
 	"image": "sd7",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "wood",
 	"properties": {
 		"STRENGTH": 1

@@ -3,6 +3,9 @@
 	"baseValue": 655,
 	"id": "broken-amulet",
 	"image": "bka",
+	"level": {
+		"min": 90
+	},
 	"material": "metal",
 	"skills": {
 		"instruments": 1

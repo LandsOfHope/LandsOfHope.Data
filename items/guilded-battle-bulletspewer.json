@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-bulletspewer",
 	"image": "re1",
+	"level": {
+		"min": 410
+	},
 	"material": "metal",
 	"skill": "two-handed-guns",
 	"skills": {

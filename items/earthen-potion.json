@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "earthen-potion",
 	"image": "pd1",
+	"level": {
+		"min": 29
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

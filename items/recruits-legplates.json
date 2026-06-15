@@ -4,6 +4,9 @@
 	"baseValue": 299,
 	"id": "recruits-legplates",
 	"image": "gmxrl2",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "sandharper-jewel",
 	"image": "shg3",
+	"level": {
+		"min": 350
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,

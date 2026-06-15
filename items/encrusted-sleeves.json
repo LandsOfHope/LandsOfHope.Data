@@ -4,6 +4,9 @@
 	"baseValue": 543,
 	"id": "encrusted-sleeves",
 	"image": "725",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

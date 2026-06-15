@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "bloody-hammer",
 	"image": "sle",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

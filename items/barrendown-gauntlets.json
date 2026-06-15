@@ -6,6 +6,9 @@
 	"id": "barrendown-gauntlets",
 	"image": "5673",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

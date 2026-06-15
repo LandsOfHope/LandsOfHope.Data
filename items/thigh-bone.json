@@ -3,6 +3,9 @@
 	"baseValue": 320,
 	"id": "thigh-bone",
 	"image": "b9",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

@@ -3,6 +3,9 @@
 	"baseValue": 26,
 	"id": "ore-consignment",
 	"image": "bx",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "quest-item"

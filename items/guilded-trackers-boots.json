@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-trackers-boots",
 	"image": "3832",
+	"level": {
+		"min": 510
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 6000,
 	"id": "radical-shirt",
 	"image": "pshi5",
+	"level": {
+		"min": 850
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1

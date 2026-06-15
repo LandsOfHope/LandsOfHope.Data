@@ -3,6 +3,9 @@
 	"baseValue": 5,
 	"id": "golem-upgrade-basic-intelligence",
 	"image": "2677",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "golem-parts"

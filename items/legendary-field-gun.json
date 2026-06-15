@@ -5,6 +5,9 @@
 	"id": "legendary-field-gun",
 	"image": "4913",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1,

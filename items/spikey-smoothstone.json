@@ -4,6 +4,9 @@
 	"dpr": 80,
 	"id": "spikey-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 781
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

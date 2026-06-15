@@ -4,6 +4,9 @@
 	"baseValue": 360,
 	"id": "cured-shoulders",
 	"image": "3003",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "shoulders"

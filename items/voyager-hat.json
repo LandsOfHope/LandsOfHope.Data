@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "voyager-hat",
 	"image": "5266",
+	"level": {
+		"min": 650
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1

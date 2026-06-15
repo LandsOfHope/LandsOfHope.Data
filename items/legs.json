@@ -4,6 +4,9 @@
 	"baseValue": 353,
 	"id": "legs",
 	"image": "leg",
+	"level": {
+		"min": 49
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

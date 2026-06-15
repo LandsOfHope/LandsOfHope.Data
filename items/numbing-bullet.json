@@ -4,6 +4,9 @@
 	"dpr": 78,
 	"id": "numbing-bullet",
 	"image": "zunubu",
+	"level": {
+		"min": 766
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

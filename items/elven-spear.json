@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "elven-spear",
 	"image": "acs",
+	"level": {
+		"min": 15
+	},
 	"material": "wood",
 	"properties": {
 		"DEXTERITY": 1

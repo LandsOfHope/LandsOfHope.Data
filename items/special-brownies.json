@@ -3,6 +3,9 @@
 	"baseValue": 26,
 	"id": "special-brownies",
 	"image": "zuspbr",
+	"level": {
+		"min": 50
+	},
 	"material": "bird",
 	"properties": {
 		"MANA": 1

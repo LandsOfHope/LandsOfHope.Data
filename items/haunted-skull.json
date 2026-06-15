@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "haunted-skull",
 	"image": "zushhs",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "halloween-2007"
 }

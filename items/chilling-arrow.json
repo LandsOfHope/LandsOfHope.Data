@@ -4,6 +4,9 @@
 	"dpr": 29,
 	"id": "chilling-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 271
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

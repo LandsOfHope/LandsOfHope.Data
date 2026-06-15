@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "ore",
 	"image": "ore",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "ore"

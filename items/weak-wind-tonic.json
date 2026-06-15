@@ -3,6 +3,9 @@
 	"baseValue": 86,
 	"id": "weak-wind-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 170
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

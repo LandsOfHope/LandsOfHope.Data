@@ -3,6 +3,9 @@
 	"baseValue": 1770,
 	"id": "ring-of-choices",
 	"image": "rgf",
+	"level": {
+		"min": 250
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1

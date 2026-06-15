@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "mantrap-blossom-patch",
 	"image": "gmmablpa",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

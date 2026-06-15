@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "fresh-soup",
 	"image": "sou",
+	"level": {
+		"min": 30
+	},
 	"material": "vegetable",
 	"properties": {
 		"HITPOINTS": 1

@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "dragon-flesh",
 	"image": "fedrfl",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "quest-item"

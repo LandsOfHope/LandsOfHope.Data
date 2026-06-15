@@ -4,6 +4,9 @@
 	"baseValue": 2813,
 	"id": "foresters-tunic",
 	"image": "2777",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

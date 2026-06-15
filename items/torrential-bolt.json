@@ -4,6 +4,9 @@
 	"dpr": 95,
 	"id": "torrential-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 931
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

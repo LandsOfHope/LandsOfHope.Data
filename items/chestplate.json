@@ -4,6 +4,9 @@
 	"baseValue": 431,
 	"id": "chestplate",
 	"image": "cp2",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 1249,
 	"id": "ring-of-dispair",
 	"image": "ring18",
+	"level": {
+		"min": 175
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

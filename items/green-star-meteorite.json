@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "green-star-meteorite",
 	"image": "5991",
+	"level": {
+		"min": 300
+	},
 	"stackLimit": 1000,
 	"type": "star-metal"
 }

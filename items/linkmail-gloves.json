@@ -4,6 +4,9 @@
 	"baseValue": 312,
 	"id": "linkmail-gloves",
 	"image": "131",
+	"level": {
+		"min": 65
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "templar-band",
 	"image": "6235",
+	"level": {
+		"min": 50
+	},
 	"material": "gem",
 	"set": "templar-set",
 	"stackLimit": 1,

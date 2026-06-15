@@ -3,6 +3,9 @@
 	"baseValue": 133,
 	"id": "sausage",
 	"image": "zusauu",
+	"level": {
+		"min": 265
+	},
 	"material": "hide",
 	"properties": {
 		"STAMINA": 1

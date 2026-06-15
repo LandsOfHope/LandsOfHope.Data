@@ -3,6 +3,9 @@
 	"baseValue": 260,
 	"id": "broken-ornament",
 	"image": "bko",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

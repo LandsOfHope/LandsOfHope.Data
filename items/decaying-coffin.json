@@ -3,6 +3,9 @@
 	"baseValue": 6698,
 	"id": "decaying-coffin",
 	"image": "cof2",
+	"level": {
+		"min": 955
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

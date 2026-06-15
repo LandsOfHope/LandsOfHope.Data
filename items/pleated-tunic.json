@@ -4,6 +4,9 @@
 	"baseValue": 365,
 	"id": "pleated-tunic",
 	"image": "3036",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "chest-armour"

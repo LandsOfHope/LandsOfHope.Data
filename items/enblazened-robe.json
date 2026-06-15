@@ -4,6 +4,9 @@
 	"baseValue": 2814,
 	"id": "enblazened-robe",
 	"image": "rb11",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

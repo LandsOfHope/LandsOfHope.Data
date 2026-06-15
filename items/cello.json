@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "cello",
 	"image": "5982",
+	"level": {
+		"min": 200
+	},
 	"material": "wood",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2817,
 	"id": "foresters-shoulder-pads",
 	"image": "3019",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

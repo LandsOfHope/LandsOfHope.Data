@@ -4,6 +4,9 @@
 	"baseValue": 2185,
 	"id": "molded-bracers",
 	"image": "4418",
+	"level": {
+		"min": 310
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "large-ornate-shield",
 	"image": "sda",
+	"level": {
+		"min": 300
+	},
 	"material": "wood",
 	"skill": "two-handed-shields",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 140,
 	"id": "exquisite-discharge",
 	"image": "6631",
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1,

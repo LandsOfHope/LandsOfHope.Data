@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "dark-depths-tent",
 	"image": "6553",
+	"level": {
+		"min": 150
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "camping-equipment"

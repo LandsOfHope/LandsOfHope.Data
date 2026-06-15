@@ -4,6 +4,9 @@
 	"dpr": 27,
 	"id": "dribbling-potion",
 	"image": "pe5",
+	"level": {
+		"min": 253
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

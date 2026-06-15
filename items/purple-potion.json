@@ -3,6 +3,9 @@
 	"baseValue": 101,
 	"id": "purple-potion",
 	"image": "pp2",
+	"level": {
+		"min": 200
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 1.75,

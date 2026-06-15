@@ -5,6 +5,9 @@
 	"id": "legendary-flamberge",
 	"image": "zulefl",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1,

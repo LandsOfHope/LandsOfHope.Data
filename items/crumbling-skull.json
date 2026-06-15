@@ -3,6 +3,9 @@
 	"baseValue": 180,
 	"id": "crumbling-skull",
 	"image": "sl3",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

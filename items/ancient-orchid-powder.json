@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-orchid-powder",
 	"image": "6439",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

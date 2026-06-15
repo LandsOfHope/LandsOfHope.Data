@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "holemaker",
 	"image": "xw2",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

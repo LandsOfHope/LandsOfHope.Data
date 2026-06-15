@@ -4,6 +4,9 @@
 	"baseValue": 372,
 	"id": "pleated-braces",
 	"image": "3236",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "arm-armour"

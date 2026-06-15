@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "elven-crossbow",
 	"image": "xw2",
+	"level": {
+		"min": 5
+	},
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {

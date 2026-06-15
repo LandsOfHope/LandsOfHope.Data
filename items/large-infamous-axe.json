@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "large-infamous-axe",
 	"image": "ax13",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

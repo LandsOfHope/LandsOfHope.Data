@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-heater-shield",
 	"image": "sd1",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "two-handed-shields",
 	"skills": {

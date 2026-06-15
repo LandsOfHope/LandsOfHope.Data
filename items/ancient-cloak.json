@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-cloak",
 	"image": "6480",
+	"level": {
+		"min": 45
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "neck-clothing"

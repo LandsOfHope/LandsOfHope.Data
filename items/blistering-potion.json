@@ -4,6 +4,9 @@
 	"dpr": 63,
 	"id": "blistering-potion",
 	"image": "pe5",
+	"level": {
+		"min": 617
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

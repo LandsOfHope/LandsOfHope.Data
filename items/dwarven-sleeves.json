@@ -4,6 +4,9 @@
 	"baseValue": 515,
 	"id": "dwarven-sleeves",
 	"image": "484",
+	"level": {
+		"min": 70
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

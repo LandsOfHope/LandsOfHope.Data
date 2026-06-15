@@ -4,6 +4,9 @@
 	"baseValue": 2826,
 	"id": "foresters-moccasins",
 	"image": "2865",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

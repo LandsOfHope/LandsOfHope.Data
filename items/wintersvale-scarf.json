@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "wintersvale-scarf",
 	"image": "6206",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

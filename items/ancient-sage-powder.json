@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-sage-powder",
 	"image": "6436",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

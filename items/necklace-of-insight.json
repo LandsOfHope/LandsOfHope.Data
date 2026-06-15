@@ -3,6 +3,9 @@
 	"baseValue": 1343,
 	"id": "necklace-of-insight",
 	"image": "zunov",
+	"level": {
+		"min": 190
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

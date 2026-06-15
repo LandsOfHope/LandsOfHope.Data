@@ -4,6 +4,9 @@
 	"baseValue": 4300,
 	"id": "tenth-defender-helmet",
 	"image": "5055",
+	"level": {
+		"min": 930
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

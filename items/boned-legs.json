@@ -4,6 +4,9 @@
 	"baseValue": 18,
 	"id": "boned-legs",
 	"image": "514",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -4,6 +4,9 @@
 	"baseValue": 709,
 	"id": "tanned-chestplate",
 	"image": "501",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

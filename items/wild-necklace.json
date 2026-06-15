@@ -4,6 +4,9 @@
 	"baseValue": 4500,
 	"id": "wild-necklace",
 	"image": "6038",
+	"level": {
+		"min": 60
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

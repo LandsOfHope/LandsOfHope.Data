@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "sacred-deathscarab-patch",
 	"image": "gmsadepa",
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "battered-chest",
 	"image": "sc1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "special-chest"

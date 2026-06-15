@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "death-star",
 	"image": "6417",
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1,

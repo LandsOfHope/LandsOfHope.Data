@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "grim-mace",
 	"image": "nmc",
+	"level": {
+		"min": 60
+	},
 	"material": "gem",
 	"properties": {
 		"STRENGTH": 1

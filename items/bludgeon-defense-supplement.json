@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "bludgeon-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 530
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

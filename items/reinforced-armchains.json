@@ -4,6 +4,9 @@
 	"baseValue": 3513,
 	"id": "reinforced-armchains",
 	"image": "2734",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

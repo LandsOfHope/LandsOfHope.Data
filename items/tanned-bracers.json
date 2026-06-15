@@ -4,6 +4,9 @@
 	"baseValue": 226,
 	"id": "tanned-bracers",
 	"image": "500",
+	"level": {
+		"min": 30
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

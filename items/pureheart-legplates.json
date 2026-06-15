@@ -6,6 +6,9 @@
 	"id": "pureheart-legplates",
 	"image": "4736",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

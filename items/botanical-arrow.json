@@ -4,6 +4,9 @@
 	"dpr": 48,
 	"id": "botanical-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 466
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

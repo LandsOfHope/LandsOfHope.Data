@@ -4,6 +4,9 @@
 	"baseValue": 714,
 	"id": "ornate-bracelet",
 	"image": "gmorbr",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

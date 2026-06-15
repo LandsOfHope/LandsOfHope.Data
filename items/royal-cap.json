@@ -4,6 +4,9 @@
 	"baseValue": 6659,
 	"id": "royal-cap",
 	"image": "3174",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

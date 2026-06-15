@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "elven-shortbow",
 	"image": "bw2",
+	"level": {
+		"min": 25
+	},
 	"material": "wood",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -4,6 +4,9 @@
 	"baseValue": 720,
 	"id": "follower-handwarmers",
 	"image": "3147",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

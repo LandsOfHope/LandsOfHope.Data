@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "lawmakers-ring",
 	"image": "6562",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

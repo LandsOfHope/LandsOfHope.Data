@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ashen-bullet",
 	"image": "zuasbu",
+	"level": {
+		"min": 301
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

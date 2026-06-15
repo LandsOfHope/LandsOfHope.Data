@@ -3,6 +3,9 @@
 	"baseValue": 851,
 	"id": "ring-of-bashing",
 	"image": "rg5",
+	"level": {
+		"min": 120
+	},
 	"material": "gem",
 	"skills": {
 		"maces": 1,

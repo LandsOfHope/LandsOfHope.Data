@@ -4,6 +4,9 @@
 	"dpr": 27,
 	"id": "chilling-bullet",
 	"image": "zuchbu2",
+	"level": {
+		"min": 256
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

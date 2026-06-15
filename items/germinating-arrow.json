@@ -4,6 +4,9 @@
 	"dpr": 39,
 	"id": "germinating-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 376
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

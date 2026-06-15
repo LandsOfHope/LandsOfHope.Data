@@ -3,6 +3,9 @@
 	"baseValue": 121,
 	"id": "baked-rice",
 	"image": "bdr",
+	"level": {
+		"min": 240
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

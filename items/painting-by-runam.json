@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "painting-by-runam",
 	"image": "zupabyru",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "stolen-item-hard"
 }

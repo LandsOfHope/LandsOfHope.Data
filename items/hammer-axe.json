@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "hammer-axe",
 	"image": "hk",
+	"level": {
+		"min": 65
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

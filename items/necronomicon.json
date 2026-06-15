@@ -4,6 +4,9 @@
 	"baseValue": 30,
 	"id": "necronomicon",
 	"image": "xne",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

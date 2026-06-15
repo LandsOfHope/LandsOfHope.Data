@@ -4,6 +4,9 @@
 	"baseValue": 5612,
 	"id": "darkness-moccasins",
 	"image": "2868",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

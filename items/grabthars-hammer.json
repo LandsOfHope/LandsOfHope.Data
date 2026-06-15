@@ -4,6 +4,9 @@
 	"baseValue": 20,
 	"id": "grabthars-hammer",
 	"image": "sle",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1

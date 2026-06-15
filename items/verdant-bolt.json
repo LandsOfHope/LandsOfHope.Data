@@ -4,6 +4,9 @@
 	"dpr": 45,
 	"id": "verdant-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 436
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

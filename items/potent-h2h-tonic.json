@@ -3,6 +3,9 @@
 	"baseValue": 201,
 	"id": "potent-h2h-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 400
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "witches-bangle",
 	"image": "6173",
+	"level": {
+		"min": 15
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "wrist-jewelry"

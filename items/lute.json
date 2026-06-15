@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "lute",
 	"image": "le1",
+	"level": {
+		"min": 20
+	},
 	"material": "wood",
 	"properties": {
 		"SPEED": 1

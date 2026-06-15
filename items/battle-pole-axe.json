@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-pole-axe",
 	"image": "ahd",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

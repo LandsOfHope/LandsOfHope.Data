@@ -3,6 +3,9 @@
 	"baseValue": 21,
 	"id": "small-stove",
 	"image": "zusmst",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "cooking",
 	"skills": {

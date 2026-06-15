@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "nightsky-band-of-earth",
 	"image": "4963",
+	"level": {
+		"min": 325
+	},
 	"material": "metal",
 	"properties": {
 		"MAXMANA": 1

@@ -4,6 +4,9 @@
 	"baseValue": 20,
 	"id": "medal-of-quickness",
 	"image": "1856",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

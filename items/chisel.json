@@ -3,6 +3,9 @@
 	"baseValue": 15,
 	"id": "chisel",
 	"image": "cla",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "stonemasonry",
 	"skills": {

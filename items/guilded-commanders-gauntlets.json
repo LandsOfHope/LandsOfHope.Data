@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-commanders-gauntlets",
 	"image": "3692",
+	"level": {
+		"min": 960
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

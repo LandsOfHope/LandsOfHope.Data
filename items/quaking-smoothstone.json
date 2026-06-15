@@ -4,6 +4,9 @@
 	"dpr": 96,
 	"id": "quaking-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 946
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

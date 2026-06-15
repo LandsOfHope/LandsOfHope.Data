@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-bow",
 	"image": "bw",
+	"level": {
+		"min": 400
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

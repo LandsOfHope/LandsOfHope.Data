@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "heavy-infamous-mace",
 	"image": "bm",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

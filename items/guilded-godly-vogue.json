@@ -4,6 +4,9 @@
 	"dpr": 98,
 	"id": "guilded-godly-vogue",
 	"image": "hal",
+	"level": {
+		"min": 960
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

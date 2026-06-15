@@ -4,6 +4,9 @@
 	"dpr": 44,
 	"id": "earthen-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 421
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-shaped-bow",
 	"image": "bw",
+	"level": {
+		"min": 410
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

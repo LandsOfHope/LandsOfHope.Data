@@ -3,6 +3,9 @@
 	"baseValue": 2810,
 	"id": "tannery",
 	"image": "rt",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

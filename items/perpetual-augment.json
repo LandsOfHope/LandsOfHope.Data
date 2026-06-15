@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "perpetual-augment",
 	"image": "6875",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"stamina-regen": 0.5

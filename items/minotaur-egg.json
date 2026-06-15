@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "minotaur-egg",
 	"image": "zumieg",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skill": "myzan-defenders",
 	"stackLimit": 1,

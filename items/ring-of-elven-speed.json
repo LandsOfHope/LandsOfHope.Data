@@ -3,6 +3,9 @@
 	"baseValue": 1285,
 	"id": "ring-of-elven-speed",
 	"image": "rgd",
+	"level": {
+		"min": 180
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1,

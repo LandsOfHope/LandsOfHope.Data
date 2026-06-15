@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-cudgel",
 	"image": "bm",
+	"level": {
+		"min": 410
+	},
 	"material": "metal",
 	"skill": "maces",
 	"skills": {

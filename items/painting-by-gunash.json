@@ -3,6 +3,9 @@
 	"baseValue": 15,
 	"id": "painting-by-gunash",
 	"image": "zupabygu",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "stolen-item-hard"
 }

@@ -4,6 +4,9 @@
 	"dpr": 24,
 	"id": "dribbling-dart",
 	"image": "drt",
+	"level": {
+		"min": 226
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

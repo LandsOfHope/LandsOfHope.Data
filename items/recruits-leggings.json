@@ -4,6 +4,9 @@
 	"baseValue": 309,
 	"id": "recruits-leggings",
 	"image": "2518",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

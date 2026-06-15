@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-shaped-crossbow",
 	"image": "xw2",
+	"level": {
+		"min": 410
+	},
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {

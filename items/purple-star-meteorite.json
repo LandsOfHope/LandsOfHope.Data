@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "purple-star-meteorite",
 	"image": "5994",
+	"level": {
+		"min": 600
+	},
 	"stackLimit": 1000,
 	"type": "star-metal"
 }

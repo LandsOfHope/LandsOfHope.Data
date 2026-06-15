@@ -4,6 +4,9 @@
 	"dpr": 21,
 	"id": "dribbling-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 196
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

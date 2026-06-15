@@ -4,6 +4,9 @@
 	"baseValue": 719,
 	"id": "ravaged-breastchain",
 	"image": "2554",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

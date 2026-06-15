@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "northern-crystal-formation",
 	"image": "6982",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "crystal-formation"

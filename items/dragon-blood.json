@@ -3,6 +3,9 @@
 	"baseValue": 501,
 	"id": "dragon-blood",
 	"image": "pr4",
+	"level": {
+		"min": 1000
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 1,

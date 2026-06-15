@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "dart",
 	"image": "drt",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "propelled",
 	"skills": {

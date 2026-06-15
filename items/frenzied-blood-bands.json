@@ -3,6 +3,9 @@
 	"baseValue": 1071,
 	"id": "frenzied-blood-bands",
 	"image": "zufrbl",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,

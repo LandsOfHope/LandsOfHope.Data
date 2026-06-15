@@ -4,6 +4,9 @@
 	"baseValue": 444,
 	"id": "cracked-voidic-legs",
 	"image": "682",
+	"level": {
+		"min": 62
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

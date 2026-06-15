@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "ancient-spear",
 	"image": "acs",
+	"level": {
+		"min": 25
+	},
 	"material": "metal",
 	"skill": "thrown-weapons",
 	"skills": {

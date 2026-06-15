@@ -3,6 +3,9 @@
 	"baseValue": 18,
 	"id": "soaked-bandage",
 	"image": "be1",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "quest-item"

@@ -3,6 +3,9 @@
 	"baseValue": 126,
 	"id": "baked-pasta",
 	"image": "zubapa",
+	"level": {
+		"min": 250
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

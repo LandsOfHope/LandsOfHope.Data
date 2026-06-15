@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-short-axe",
 	"image": "ham",
+	"level": {
+		"min": 410
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

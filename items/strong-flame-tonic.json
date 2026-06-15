@@ -3,6 +3,9 @@
 	"baseValue": 286,
 	"id": "strong-flame-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 570
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

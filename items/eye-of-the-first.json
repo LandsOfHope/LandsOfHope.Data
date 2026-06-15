@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "eye-of-the-first",
 	"image": "4831",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

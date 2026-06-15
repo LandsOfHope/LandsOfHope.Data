@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "dark-hollow-blood",
 	"image": "zudahobl",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "battle-falcon",
 	"image": "6672",
+	"level": {
+		"min": 1
+	},
 	"skill": "gods-favor",
 	"stackLimit": 1,
 	"type": "creature"

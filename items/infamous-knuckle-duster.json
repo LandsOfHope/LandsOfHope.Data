@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-knuckle-duster",
 	"image": "nft",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

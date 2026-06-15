@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "stavros-flower",
 	"image": "5748",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

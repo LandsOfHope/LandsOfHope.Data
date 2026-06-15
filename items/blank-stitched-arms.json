@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "blank-stitched-arms",
 	"image": "6852",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 0.75

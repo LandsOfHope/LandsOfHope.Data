@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "crones-ring",
 	"image": "6162",
+	"level": {
+		"min": 150
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "ring"

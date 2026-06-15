@@ -4,6 +4,9 @@
 	"dpr": 45,
 	"id": "tremorous-potion",
 	"image": "pe5",
+	"level": {
+		"min": 435
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

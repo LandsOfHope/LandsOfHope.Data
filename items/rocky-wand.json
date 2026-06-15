@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "rocky-wand",
 	"image": "wand10",
+	"level": {
+		"min": 706
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

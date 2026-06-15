@@ -4,6 +4,9 @@
 	"baseValue": 2114,
 	"id": "adventurer-vest",
 	"image": "2831",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

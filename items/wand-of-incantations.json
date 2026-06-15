@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "wand-of-incantations",
 	"image": "wand01",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

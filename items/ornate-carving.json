@@ -3,6 +3,9 @@
 	"baseValue": 3978,
 	"id": "ornate-carving",
 	"image": "brk",
+	"level": {
+		"min": 565
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1,

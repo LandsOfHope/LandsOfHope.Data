@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "hide",
 	"image": "he1",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "hide"

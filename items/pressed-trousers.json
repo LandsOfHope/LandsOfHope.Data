@@ -4,6 +4,9 @@
 	"baseValue": 5400,
 	"id": "pressed-trousers",
 	"image": "4521",
+	"level": {
+		"min": 760
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1

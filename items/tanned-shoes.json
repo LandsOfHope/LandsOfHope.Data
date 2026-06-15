@@ -4,6 +4,9 @@
 	"baseValue": 20,
 	"id": "tanned-shoes",
 	"image": "2848",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

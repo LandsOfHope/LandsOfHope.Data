@@ -3,6 +3,9 @@
 	"baseValue": 32,
 	"id": "water-trough",
 	"image": "280",
+	"level": {
+		"min": 2
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "other"

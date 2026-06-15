@@ -4,6 +4,9 @@
 	"baseValue": 2814,
 	"id": "battlehardened-link-gloves",
 	"image": "2634",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

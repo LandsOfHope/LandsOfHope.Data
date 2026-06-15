@@ -4,6 +4,9 @@
 	"dpr": 84,
 	"id": "stoney-wand",
 	"image": "wand08",
+	"level": {
+		"min": 826
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

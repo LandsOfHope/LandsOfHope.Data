@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "dirk-of-lifetaking",
 	"image": "todili",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

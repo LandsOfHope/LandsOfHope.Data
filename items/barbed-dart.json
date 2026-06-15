@@ -4,6 +4,9 @@
 	"dpr": 12,
 	"id": "barbed-dart",
 	"image": "drt",
+	"level": {
+		"min": 106
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-orchid-keyhole",
 	"image": "6459",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "item-use-door"
 }

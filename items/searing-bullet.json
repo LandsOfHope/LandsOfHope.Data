@@ -4,6 +4,9 @@
 	"dpr": 26,
 	"id": "searing-bullet",
 	"image": "4147",
+	"level": {
+		"min": 241
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

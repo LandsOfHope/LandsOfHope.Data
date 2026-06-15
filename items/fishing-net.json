@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "fishing-net",
 	"image": "fin",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "fishing",
 	"skills": {

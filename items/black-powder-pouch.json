@@ -3,6 +3,9 @@
 	"baseValue": 721,
 	"id": "black-powder-pouch",
 	"image": "5547",
+	"level": {
+		"min": 15
+	},
 	"material": "cloth",
 	"skills": {
 		"arcane-resistance": 1

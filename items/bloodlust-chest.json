@@ -4,6 +4,9 @@
 	"baseValue": 709,
 	"id": "bloodlust-chest",
 	"image": "6508",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

@@ -4,6 +4,9 @@
 	"dpr": 95,
 	"id": "iced-wand",
 	"image": "wand08",
+	"level": {
+		"min": 931
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

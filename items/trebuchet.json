@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "trebuchet",
 	"image": "ss1",
+	"level": {
+		"min": 50
+	},
 	"material": "wood",
 	"skill": "siege-weapons",
 	"skills": {

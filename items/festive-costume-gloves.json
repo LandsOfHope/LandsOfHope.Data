@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "festive-costume-gloves",
 	"image": "sgloves",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"set": "festive-costume",
 	"stackLimit": 1,

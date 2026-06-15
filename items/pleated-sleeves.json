@@ -4,6 +4,9 @@
 	"baseValue": 367,
 	"id": "pleated-sleeves",
 	"image": "3216",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "arm-armour"

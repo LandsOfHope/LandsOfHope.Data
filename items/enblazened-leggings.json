@@ -4,6 +4,9 @@
 	"baseValue": 2814,
 	"id": "enblazened-leggings",
 	"image": "3060",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

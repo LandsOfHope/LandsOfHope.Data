@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "shadow-augment",
 	"image": "6874",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"stealth": 1.1

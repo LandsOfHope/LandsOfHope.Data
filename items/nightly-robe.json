@@ -4,6 +4,9 @@
 	"baseValue": 2120,
 	"id": "nightly-robe",
 	"image": "rb5",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

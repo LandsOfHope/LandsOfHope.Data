@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "the-strangers-key",
 	"image": "tskey1",
+	"level": {
+		"min": 150
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "portal"

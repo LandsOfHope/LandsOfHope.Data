@@ -4,6 +4,9 @@
 	"baseValue": 291,
 	"id": "coral-chestplate",
 	"image": "1567",
+	"level": {
+		"min": 40
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

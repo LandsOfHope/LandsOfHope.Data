@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "weeping-potion",
 	"image": "pe5",
+	"level": {
+		"min": 603
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

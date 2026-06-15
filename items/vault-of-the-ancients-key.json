@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "vault-of-the-ancients-key",
 	"image": "ky3",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "key"

@@ -4,6 +4,9 @@
 	"baseValue": 726,
 	"id": "ravaged-coif",
 	"image": "2642",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

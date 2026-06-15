@@ -4,6 +4,9 @@
 	"dpr": 101,
 	"id": "thermal-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 991
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

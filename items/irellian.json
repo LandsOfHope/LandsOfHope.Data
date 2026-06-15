@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "irellian",
 	"image": "5947",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

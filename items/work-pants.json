@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "work-pants",
 	"image": "awtro",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "artisan",
 	"stackLimit": 1,

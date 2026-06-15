@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "sabretooth-jerkin",
 	"image": "cp2",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

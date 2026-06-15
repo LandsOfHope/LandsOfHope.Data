@@ -4,6 +4,9 @@
 	"baseValue": 308,
 	"id": "recruits-breastchain",
 	"image": "2551",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

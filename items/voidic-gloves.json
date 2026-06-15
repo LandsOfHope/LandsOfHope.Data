@@ -4,6 +4,9 @@
 	"baseValue": 1067,
 	"id": "voidic-gloves",
 	"image": "gmvogl",
+	"level": {
+		"min": 150
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

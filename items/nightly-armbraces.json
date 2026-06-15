@@ -4,6 +4,9 @@
 	"baseValue": 2110,
 	"id": "nightly-armbraces",
 	"image": "3229",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

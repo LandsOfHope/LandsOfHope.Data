@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "cerulean-paper",
 	"image": "pcerulean",
+	"level": {
+		"min": 815
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

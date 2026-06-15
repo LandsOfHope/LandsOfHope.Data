@@ -4,6 +4,9 @@
 	"dpr": 92,
 	"id": "rippling-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 901
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

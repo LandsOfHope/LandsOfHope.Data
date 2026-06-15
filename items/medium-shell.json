@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "medium-shell",
 	"image": "2424",
+	"level": {
+		"min": 25
+	},
 	"material": "stone",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 396,
 	"id": "glowing-drain-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 790
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

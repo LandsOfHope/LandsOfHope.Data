@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-razor-axe",
 	"image": "aba",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

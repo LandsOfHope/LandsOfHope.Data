@@ -4,6 +4,9 @@
 	"baseValue": 718,
 	"id": "ravaged-armbraces",
 	"image": "2719",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

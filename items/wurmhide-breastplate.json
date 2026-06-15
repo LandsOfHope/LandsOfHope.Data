@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "wurmhide-breastplate",
 	"image": "5826",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

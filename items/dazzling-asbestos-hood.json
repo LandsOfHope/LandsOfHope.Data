@@ -4,6 +4,9 @@
 	"baseValue": 2260,
 	"id": "dazzling-asbestos-hood",
 	"image": "1129",
+	"level": {
+		"min": 320
+	},
 	"material": "cloth",
 	"properties": {
 		"STRENGTH": 1

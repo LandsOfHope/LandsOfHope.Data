@@ -4,6 +4,9 @@
 	"baseValue": 19,
 	"id": "halloween-gift-box",
 	"image": "2139",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "present-box"

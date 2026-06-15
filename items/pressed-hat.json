@@ -4,6 +4,9 @@
 	"baseValue": 5100,
 	"id": "pressed-hat",
 	"image": "4522",
+	"level": {
+		"min": 710
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1

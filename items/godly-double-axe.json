@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-double-axe",
 	"image": "ax12",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

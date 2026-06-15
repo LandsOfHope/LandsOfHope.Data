@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "balanced-short-staff",
 	"image": "st1",
+	"level": {
+		"min": 10
+	},
 	"material": "stone",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "large-blade-hilt",
 	"image": "it",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "new-crafting-resource"

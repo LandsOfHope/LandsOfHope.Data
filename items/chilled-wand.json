@@ -4,6 +4,9 @@
 	"dpr": 89,
 	"id": "chilled-wand",
 	"image": "wand12",
+	"level": {
+		"min": 871
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

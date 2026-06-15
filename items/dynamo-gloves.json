@@ -4,6 +4,9 @@
 	"baseValue": 80,
 	"id": "dynamo-gloves",
 	"image": "1111",
+	"level": {
+		"min": 10
+	},
 	"material": "hide",
 	"skills": {
 		"tinkering": 1

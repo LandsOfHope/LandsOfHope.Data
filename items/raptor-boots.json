@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "raptor-boots",
 	"image": "5153",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

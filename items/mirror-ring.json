@@ -3,6 +3,9 @@
 	"baseValue": 499,
 	"id": "mirror-ring",
 	"image": "rgf",
+	"level": {
+		"min": 70
+	},
 	"material": "gem",
 	"skills": {
 		"arcane-resistance": 1,

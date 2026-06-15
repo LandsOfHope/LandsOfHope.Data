@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "raider-boots",
 	"image": "5237",
+	"level": {
+		"min": 350
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "expert-pistol",
 	"image": "pl1",
+	"level": {
+		"min": 10
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 545,
 	"id": "footman-coif",
 	"image": "2641",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

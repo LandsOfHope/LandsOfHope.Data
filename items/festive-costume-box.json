@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "festive-costume-box",
 	"image": "619",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "costume-box"

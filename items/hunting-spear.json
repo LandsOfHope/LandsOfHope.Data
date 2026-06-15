@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "hunting-spear",
 	"image": "acs",
+	"level": {
+		"min": 10
+	},
 	"material": "wood",
 	"properties": {
 		"SPEED": 1

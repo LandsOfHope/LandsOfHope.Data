@@ -4,6 +4,9 @@
 	"dpr": 98,
 	"id": "torrential-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 961
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

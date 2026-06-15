@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "goblin-costume-gloves",
 	"image": "goglv",
+	"level": {
+		"min": 350
+	},
 	"material": "cloth",
 	"set": "goblin-costume",
 	"skill": "artisan",

@@ -3,6 +3,9 @@
 	"baseValue": 444,
 	"id": "great-bull-ring",
 	"image": "rgf",
+	"level": {
+		"min": 60
+	},
 	"material": "gem",
 	"properties": {
 		"SPEED": 1

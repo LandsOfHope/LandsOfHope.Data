@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "praying-mantis",
 	"image": "6079",
+	"level": {
+		"min": 1
+	},
 	"skill": "ancient-guardians",
 	"stackLimit": 1,
 	"type": "special-creature"

@@ -4,6 +4,9 @@
 	"baseValue": 1423,
 	"id": "stary-feetwarmers",
 	"image": "3108",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 31,
 	"id": "moccasins",
 	"image": "220",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

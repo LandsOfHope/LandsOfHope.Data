@@ -4,6 +4,9 @@
 	"baseValue": 5612,
 	"id": "regal-cap",
 	"image": "3173",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

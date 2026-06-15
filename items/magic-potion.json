@@ -3,6 +3,9 @@
 	"baseValue": 101,
 	"id": "magic-potion",
 	"image": "pb2",
+	"level": {
+		"min": 200
+	},
 	"material": "gem",
 	"properties": {
 		"MANA": 2

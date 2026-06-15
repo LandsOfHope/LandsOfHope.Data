@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "hammer",
 	"image": "hmr",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skills": {
 		"siege-weapons": 1

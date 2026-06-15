@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "coldtoes-frosted-cake",
 	"image": "zucofrca",
+	"level": {
+		"min": 700
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

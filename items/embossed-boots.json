@@ -4,6 +4,9 @@
 	"baseValue": 1420,
 	"id": "embossed-boots",
 	"image": "2841",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

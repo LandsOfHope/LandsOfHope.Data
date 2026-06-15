@@ -4,6 +4,9 @@
 	"baseValue": 29,
 	"id": "simple-gloves",
 	"image": "3125",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

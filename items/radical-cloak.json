@@ -4,6 +4,9 @@
 	"baseValue": 5900,
 	"id": "radical-cloak",
 	"image": "pclo12",
+	"level": {
+		"min": 830
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -5,6 +5,9 @@
 	"id": "blank-tinman-chestpiece",
 	"image": "6944",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"set": "tinman-set",
 	"skill": "bolts-over-brains",

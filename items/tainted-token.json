@@ -3,6 +3,9 @@
 	"baseValue": 2294,
 	"id": "tainted-token",
 	"image": "ttt",
+	"level": {
+		"min": 325
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

@@ -3,6 +3,9 @@
 	"baseValue": 68,
 	"id": "soup",
 	"image": "sou",
+	"level": {
+		"min": 135
+	},
 	"material": "hide",
 	"properties": {
 		"STAMINA": 1

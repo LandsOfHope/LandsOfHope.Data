@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-mace",
 	"image": "bm",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "maces",
 	"skills": {

@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "ninja-tools",
 	"image": "6401",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "parlor-tricks",
 	"skills": {

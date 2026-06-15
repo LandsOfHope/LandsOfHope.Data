@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "pool-of-sulphur",
 	"image": "zuposu",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "special-pirate-resource"
 }

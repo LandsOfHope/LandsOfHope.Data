@@ -3,6 +3,9 @@
 	"baseValue": 3162,
 	"id": "enchanted-well",
 	"image": "ar",
+	"level": {
+		"min": 450
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

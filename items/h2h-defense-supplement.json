@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "h2h-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 590
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

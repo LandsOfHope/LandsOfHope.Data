@@ -3,6 +3,9 @@
 	"baseValue": 180,
 	"id": "belt-of-the-ox",
 	"image": "pbelt8",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

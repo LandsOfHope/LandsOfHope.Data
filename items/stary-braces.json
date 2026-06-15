@@ -4,6 +4,9 @@
 	"baseValue": 1410,
 	"id": "stary-braces",
 	"image": "3238",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

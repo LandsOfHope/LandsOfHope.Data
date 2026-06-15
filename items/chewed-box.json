@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "chewed-box",
 	"image": "gmchbo",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "pet-chest"

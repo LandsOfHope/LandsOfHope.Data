@@ -4,6 +4,9 @@
 	"baseValue": 2051,
 	"id": "special-locket",
 	"image": "zusplo",
+	"level": {
+		"min": 290
+	},
 	"material": "metal",
 	"skills": {
 		"begging": 1,

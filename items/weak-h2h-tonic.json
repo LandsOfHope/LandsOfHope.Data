@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "weak-h2h-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 60
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

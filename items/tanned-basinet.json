@@ -4,6 +4,9 @@
 	"baseValue": 198,
 	"id": "tanned-basinet",
 	"image": "498",
+	"level": {
+		"min": 25
+	},
 	"material": "hide",
 	"properties": {
 		"SPEED": 1

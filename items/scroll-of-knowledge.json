@@ -3,6 +3,9 @@
 	"baseValue": 305,
 	"id": "scroll-of-knowledge",
 	"image": "4858",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "teaching-aid"

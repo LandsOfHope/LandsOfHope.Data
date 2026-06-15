@@ -4,6 +4,9 @@
 	"baseValue": 51,
 	"id": "boned-helmet",
 	"image": "515",
+	"level": {
+		"min": 5
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -4,6 +4,9 @@
 	"baseValue": 280,
 	"id": "travellers-cloak",
 	"image": "cl7",
+	"level": {
+		"min": 60
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "head-knocker",
 	"image": "st1",
+	"level": {
+		"min": 55
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

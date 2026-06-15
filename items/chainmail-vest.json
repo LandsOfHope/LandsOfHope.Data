@@ -4,6 +4,9 @@
 	"baseValue": 10,
 	"id": "chainmail-vest",
 	"image": "4467",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

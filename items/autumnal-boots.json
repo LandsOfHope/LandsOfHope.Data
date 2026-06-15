@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "autumnal-boots",
 	"image": "jwadb",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skills": {
 		"armor": 1

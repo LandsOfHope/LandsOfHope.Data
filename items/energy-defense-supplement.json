@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "energy-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 290
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

@@ -3,6 +3,9 @@
 	"baseValue": 291,
 	"id": "strong-decay-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 580
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

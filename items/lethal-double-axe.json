@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "lethal-double-axe",
 	"image": "ax12",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

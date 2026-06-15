@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "gladiator",
 	"image": "na",
+	"level": {
+		"min": 1
+	},
 	"skill": "gods-favor",
 	"stackLimit": 1,
 	"type": "creature"

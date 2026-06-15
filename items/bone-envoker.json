@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "bone-envoker",
 	"image": "mn3",
+	"level": {
+		"min": 1
+	},
 	"material": "undead",
 	"skill": "necromancy",
 	"stackLimit": 1000,

@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "guardian-warrior-compendium",
 	"image": "6372",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

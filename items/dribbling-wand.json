@@ -4,6 +4,9 @@
 	"dpr": 24,
 	"id": "dribbling-wand",
 	"image": "wand06",
+	"level": {
+		"min": 226
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

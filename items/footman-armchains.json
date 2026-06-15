@@ -4,6 +4,9 @@
 	"baseValue": 537,
 	"id": "footman-armchains",
 	"image": "2729",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "arm-armour"

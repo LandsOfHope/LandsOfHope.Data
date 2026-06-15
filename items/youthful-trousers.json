@@ -4,6 +4,9 @@
 	"baseValue": 6800,
 	"id": "youthful-trousers",
 	"image": "4529",
+	"level": {
+		"min": 960
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

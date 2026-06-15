@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "long-bloody-staff",
 	"image": "staff03",
+	"level": {
+		"min": 500
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

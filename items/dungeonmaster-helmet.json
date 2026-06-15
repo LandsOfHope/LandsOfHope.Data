@@ -4,6 +4,9 @@
 	"baseValue": 539,
 	"id": "dungeonmaster-helmet",
 	"image": "cvh",
+	"level": {
+		"min": 350
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

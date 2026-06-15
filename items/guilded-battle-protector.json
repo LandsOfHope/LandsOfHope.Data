@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-protector",
 	"image": "sd7",
+	"level": {
+		"min": 410
+	},
 	"material": "wood",
 	"properties": {
 		"STRENGTH": 1

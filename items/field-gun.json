@@ -4,6 +4,9 @@
 	"dpr": 60,
 	"id": "field-gun",
 	"image": "4633",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "heavy-munitions",
 	"skills": {

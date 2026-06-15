@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "glowing-shield",
 	"image": "zugs",
+	"level": {
+		"min": 40
+	},
 	"material": "gem",
 	"properties": {
 		"STRENGTH": 1

@@ -4,6 +4,9 @@
 	"dpr": 20,
 	"id": "frigid-bullet",
 	"image": "zufrbu1",
+	"level": {
+		"min": 181
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

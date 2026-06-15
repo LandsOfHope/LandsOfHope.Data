@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "chute",
 	"image": "bck",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "siege-weapons",
 	"skills": {

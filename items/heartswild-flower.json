@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "heartswild-flower",
 	"image": "5774",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

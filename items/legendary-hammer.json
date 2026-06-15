@@ -5,6 +5,9 @@
 	"id": "legendary-hammer",
 	"image": "sle",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1,

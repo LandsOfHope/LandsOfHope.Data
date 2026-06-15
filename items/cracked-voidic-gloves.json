@@ -4,6 +4,9 @@
 	"baseValue": 1914,
 	"id": "cracked-voidic-gloves",
 	"image": "680",
+	"level": {
+		"min": 270
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

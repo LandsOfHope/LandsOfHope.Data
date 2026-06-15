@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "royal-drake-egg",
 	"image": "zurodreg",
+	"level": {
+		"min": 960
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "monster-spawner"

@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "blank-stitched-face",
 	"image": "6854",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 0.75

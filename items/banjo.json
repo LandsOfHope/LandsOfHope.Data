@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "banjo",
 	"image": "5983",
+	"level": {
+		"min": 50
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1,

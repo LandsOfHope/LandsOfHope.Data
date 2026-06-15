@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "vogue",
 	"image": "1592",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

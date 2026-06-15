@@ -4,6 +4,9 @@
 	"baseValue": 29,
 	"id": "badge-of-destiny",
 	"image": "5733",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,

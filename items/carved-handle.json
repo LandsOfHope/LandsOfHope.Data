@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "carved-handle",
 	"image": "fecaha",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "new-crafting-resource"

@@ -3,6 +3,9 @@
 	"baseValue": 1110,
 	"id": "toy-goggles",
 	"image": "6211",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

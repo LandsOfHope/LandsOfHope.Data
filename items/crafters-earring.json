@@ -3,6 +3,9 @@
 	"baseValue": 14,
 	"id": "crafters-earring",
 	"image": "zucrea",
+	"level": {
+		"min": 850
+	},
 	"material": "gem",
 	"skill": "artisan",
 	"stackLimit": 1,

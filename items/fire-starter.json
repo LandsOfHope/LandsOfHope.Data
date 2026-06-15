@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "fire-starter",
 	"image": "st1",
+	"level": {
+		"min": 60
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

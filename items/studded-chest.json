@@ -4,6 +4,9 @@
 	"baseValue": 2669,
 	"id": "studded-chest",
 	"image": "l5",
+	"level": {
+		"min": 380
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

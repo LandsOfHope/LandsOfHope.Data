@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "hammer-of-building",
 	"image": "fehabu",
+	"level": {
+		"min": 85
+	},
 	"material": "metal",
 	"skill": "construction",
 	"skills": {

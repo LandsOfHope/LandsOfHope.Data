@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "bomb-bay",
 	"image": "bbk",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "siege-weapons",
 	"skills": {

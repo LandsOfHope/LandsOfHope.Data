@@ -3,6 +3,9 @@
 	"baseValue": 151,
 	"id": "neutralising-potion",
 	"image": "pf3",
+	"level": {
+		"min": 300
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

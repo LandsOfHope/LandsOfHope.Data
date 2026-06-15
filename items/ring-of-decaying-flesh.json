@@ -3,6 +3,9 @@
 	"baseValue": 1104,
 	"id": "ring-of-decaying-flesh",
 	"image": "rgb",
+	"level": {
+		"min": 155
+	},
 	"material": "gem",
 	"skills": {
 		"invoking-resistance": 1,

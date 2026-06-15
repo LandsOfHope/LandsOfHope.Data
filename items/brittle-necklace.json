@@ -4,6 +4,9 @@
 	"baseValue": 681,
 	"id": "brittle-necklace",
 	"image": "btn",
+	"level": {
+		"min": 95
+	},
 	"material": "gem",
 	"skills": {
 		"arcane-resistance": 1,

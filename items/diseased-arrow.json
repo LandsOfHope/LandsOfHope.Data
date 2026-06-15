@@ -4,6 +4,9 @@
 	"dpr": 11,
 	"id": "diseased-arrow",
 	"image": "643",
+	"level": {
+		"min": 91
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "prepared-hide",
 	"image": "he2",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-tailoring"

@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "deadly-skewer",
 	"image": "sta",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

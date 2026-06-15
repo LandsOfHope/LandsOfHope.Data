@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "scarab-boots",
 	"image": "5177",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

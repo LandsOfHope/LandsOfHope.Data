@@ -4,6 +4,9 @@
 	"baseValue": 158,
 	"id": "dungeonseeker-hat",
 	"image": "4950",
+	"level": {
+		"min": 6
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

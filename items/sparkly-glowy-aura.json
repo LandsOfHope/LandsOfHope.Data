@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "sparkly-glowy-aura",
 	"image": "7010",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 2

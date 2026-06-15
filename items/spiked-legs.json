@@ -4,6 +4,9 @@
 	"baseValue": 441,
 	"id": "spiked-legs",
 	"image": "1847",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "hoe",
 	"image": "hoe",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "foraging",
 	"skills": {

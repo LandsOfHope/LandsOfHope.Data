@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "life-remnant",
 	"image": "zuspba",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "event-spawner"

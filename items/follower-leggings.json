@@ -4,6 +4,9 @@
 	"baseValue": 718,
 	"id": "follower-leggings",
 	"image": "3057",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

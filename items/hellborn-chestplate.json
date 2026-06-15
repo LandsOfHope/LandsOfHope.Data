@@ -4,6 +4,9 @@
 	"baseValue": 4576,
 	"id": "hellborn-chestplate",
 	"image": "l3",
+	"level": {
+		"min": 650
+	},
 	"material": "hide",
 	"properties": {
 		"SPEED": 1

@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "guilded-bloody-protector",
 	"image": "sd7",
+	"level": {
+		"min": 510
+	},
 	"material": "wood",
 	"properties": {
 		"MAXHITPOINTS": 1

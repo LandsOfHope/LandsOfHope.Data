@@ -4,6 +4,9 @@
 	"baseValue": 2109,
 	"id": "adventurer-tunic",
 	"image": "2776",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

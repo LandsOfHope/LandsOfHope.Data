@@ -4,6 +4,9 @@
 	"dpr": 84,
 	"id": "nova-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 826
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

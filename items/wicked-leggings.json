@@ -4,6 +4,9 @@
 	"baseValue": 4214,
 	"id": "wicked-leggings",
 	"image": "2526",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

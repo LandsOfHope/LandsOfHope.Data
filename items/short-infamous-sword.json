@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "short-infamous-sword",
 	"image": "sw1",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

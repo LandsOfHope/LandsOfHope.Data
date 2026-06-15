@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "ice-dart",
 	"image": "drt",
+	"level": {
+		"min": 61
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

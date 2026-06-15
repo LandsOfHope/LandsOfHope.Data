@@ -3,6 +3,9 @@
 	"baseValue": 37,
 	"id": "torch",
 	"image": "th1",
+	"level": {
+		"min": 3
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

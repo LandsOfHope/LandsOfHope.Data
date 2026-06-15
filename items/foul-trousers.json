@@ -4,6 +4,9 @@
 	"baseValue": 927,
 	"id": "foul-trousers",
 	"image": "1808",
+	"level": {
+		"min": 130
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

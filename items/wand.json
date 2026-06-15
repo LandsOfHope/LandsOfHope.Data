@@ -4,6 +4,9 @@
 	"dpr": 13,
 	"id": "wand",
 	"image": "wand14",
+	"level": {
+		"min": 110
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

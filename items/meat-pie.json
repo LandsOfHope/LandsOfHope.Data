@@ -3,6 +3,9 @@
 	"baseValue": 461,
 	"id": "meat-pie",
 	"image": "zumepi",
+	"level": {
+		"min": 920
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 3,

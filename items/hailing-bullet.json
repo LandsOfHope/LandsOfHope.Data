@@ -4,6 +4,9 @@
 	"dpr": 77,
 	"id": "hailing-bullet",
 	"image": "zuhabu",
+	"level": {
+		"min": 751
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

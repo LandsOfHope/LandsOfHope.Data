@@ -4,6 +4,9 @@
 	"dpr": 75,
 	"id": "magma-dart",
 	"image": "drt",
+	"level": {
+		"min": 736
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

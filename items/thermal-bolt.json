@@ -4,6 +4,9 @@
 	"dpr": 96,
 	"id": "thermal-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 946
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

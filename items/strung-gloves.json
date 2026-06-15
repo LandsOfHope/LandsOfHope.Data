@@ -4,6 +4,9 @@
 	"baseValue": 551,
 	"id": "strung-gloves",
 	"image": "2872",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "hand-armour"

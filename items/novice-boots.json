@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "novice-boots",
 	"image": "anbot",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"skill": "artisan",
 	"stackLimit": 1,

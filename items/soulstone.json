@@ -3,6 +3,9 @@
 	"baseValue": 5,
 	"id": "soulstone",
 	"image": "6243",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "stone-masonry-result"

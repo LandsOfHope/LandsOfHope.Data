@@ -4,6 +4,9 @@
 	"baseValue": 1650,
 	"id": "haggard-hat",
 	"image": "what2",
+	"level": {
+		"min": 210
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

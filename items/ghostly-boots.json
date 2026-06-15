@@ -4,6 +4,9 @@
 	"baseValue": 4225,
 	"id": "ghostly-boots",
 	"image": "2845",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

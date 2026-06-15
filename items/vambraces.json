@@ -4,6 +4,9 @@
 	"baseValue": 397,
 	"id": "vambraces",
 	"image": "1177",
+	"level": {
+		"min": 55
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

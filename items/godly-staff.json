@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-staff",
 	"image": "st1",
+	"level": {
+		"min": 900
+	},
 	"material": "wood",
 	"skill": "staves",
 	"skills": {

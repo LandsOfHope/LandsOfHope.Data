@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "drakos-brand",
 	"image": "drako",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -4,6 +4,9 @@
 	"baseValue": 1035,
 	"id": "feather-trousers",
 	"image": "608",
+	"level": {
+		"min": 145
+	},
 	"material": "bird",
 	"properties": {
 		"SPEED": 1

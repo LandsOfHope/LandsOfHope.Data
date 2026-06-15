@@ -4,6 +4,9 @@
 	"dpr": 36,
 	"id": "pollinating-dart",
 	"image": "drt",
+	"level": {
+		"min": 346
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

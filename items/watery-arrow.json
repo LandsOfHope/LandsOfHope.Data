@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "watery-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 301
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

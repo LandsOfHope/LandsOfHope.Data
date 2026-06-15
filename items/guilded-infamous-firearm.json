@@ -4,6 +4,9 @@
 	"dpr": 83,
 	"id": "guilded-infamous-firearm",
 	"image": "pl1",
+	"level": {
+		"min": 810
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

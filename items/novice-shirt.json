@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "novice-shirt",
 	"image": "ansit",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"skill": "artisan",
 	"stackLimit": 1,

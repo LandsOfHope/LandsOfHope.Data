@@ -3,6 +3,9 @@
 	"baseValue": 146,
 	"id": "average-debuff-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 290
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

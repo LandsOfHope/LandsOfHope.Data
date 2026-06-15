@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "message-board",
 	"image": "sig",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "message-board"

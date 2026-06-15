@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "web-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 31
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

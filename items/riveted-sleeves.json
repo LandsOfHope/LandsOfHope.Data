@@ -4,6 +4,9 @@
 	"baseValue": 3400,
 	"id": "riveted-sleeves",
 	"image": "css",
+	"level": {
+		"min": 550
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

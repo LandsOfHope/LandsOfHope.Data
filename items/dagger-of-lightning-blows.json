@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "dagger-of-lightning-blows",
 	"image": "zudalibl",
+	"level": {
+		"min": 25
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1,

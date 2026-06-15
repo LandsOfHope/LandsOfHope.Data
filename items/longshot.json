@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "longshot",
 	"image": "4989",
+	"level": {
+		"min": 65
+	},
 	"material": "metal",
 	"skill": "bows",
 	"skills": {

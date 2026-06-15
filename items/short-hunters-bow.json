@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "short-hunters-bow",
 	"image": "bw",
+	"level": {
+		"min": 200
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

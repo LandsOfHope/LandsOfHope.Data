@@ -4,6 +4,9 @@
 	"baseValue": 5800,
 	"id": "bridged-leggings",
 	"image": "cls",
+	"level": {
+		"min": 880
+	},
 	"material": "metal",
 	"properties": {
 		"MAXMANA": 1

@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "diseased-bullet",
 	"image": "zudibu",
+	"level": {
+		"min": 76
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

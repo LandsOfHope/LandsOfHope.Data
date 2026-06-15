@@ -3,6 +3,9 @@
 	"baseValue": 305,
 	"id": "scarab",
 	"image": "scb",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

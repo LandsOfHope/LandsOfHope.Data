@@ -4,6 +4,9 @@
 	"dpr": 30,
 	"id": "watery-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 286
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

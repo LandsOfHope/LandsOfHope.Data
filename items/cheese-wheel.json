@@ -3,6 +3,9 @@
 	"baseValue": 201,
 	"id": "cheese-wheel",
 	"image": "ch3",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 2

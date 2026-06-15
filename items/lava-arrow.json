@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "lava-arrow",
 	"image": "zulaar",
+	"level": {
+		"min": 31
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

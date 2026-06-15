@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-bracelet",
 	"image": "6478",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "wrist-jewelry"

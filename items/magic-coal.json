@@ -4,6 +4,9 @@
 	"baseValue": 19,
 	"id": "magic-coal",
 	"image": "coal",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1,
 	"type": "trinket"

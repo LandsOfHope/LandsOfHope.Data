@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "ankt-flower",
 	"image": "5778",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

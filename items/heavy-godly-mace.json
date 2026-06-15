@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "heavy-godly-mace",
 	"image": "bm",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 444,
 	"id": "voidic-sleeves",
 	"image": "gmvosl",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

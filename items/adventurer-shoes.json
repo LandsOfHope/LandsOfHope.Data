@@ -4,6 +4,9 @@
 	"baseValue": 2121,
 	"id": "adventurer-shoes",
 	"image": "2853",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

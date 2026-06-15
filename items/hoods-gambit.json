@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "hoods-gambit",
 	"image": "4988",
+	"level": {
+		"min": 65
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

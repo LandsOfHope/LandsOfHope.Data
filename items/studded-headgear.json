@@ -4,6 +4,9 @@
 	"baseValue": 710,
 	"id": "studded-headgear",
 	"image": "2928",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

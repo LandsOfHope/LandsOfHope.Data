@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "honeybunn-flower",
 	"image": "5739",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

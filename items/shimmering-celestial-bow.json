@@ -4,6 +4,9 @@
 	"dpr": 97,
 	"id": "shimmering-celestial-bow",
 	"image": "6034",
+	"level": {
+		"min": 950
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

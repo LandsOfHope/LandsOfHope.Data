@@ -4,6 +4,9 @@
 	"baseValue": 2816,
 	"id": "battlehardened-link-boots",
 	"image": "2601",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

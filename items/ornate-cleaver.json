@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-cleaver",
 	"image": "aba",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

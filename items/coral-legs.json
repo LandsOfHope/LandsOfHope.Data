@@ -4,6 +4,9 @@
 	"baseValue": 194,
 	"id": "coral-legs",
 	"image": "1565",
+	"level": {
+		"min": 25
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

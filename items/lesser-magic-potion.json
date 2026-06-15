@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "lesser-magic-potion",
 	"image": "pb1",
+	"level": {
+		"min": 100
+	},
 	"material": "gem",
 	"properties": {
 		"MANA": 1.5

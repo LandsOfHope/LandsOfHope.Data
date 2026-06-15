@@ -4,6 +4,9 @@
 	"baseValue": 1625,
 	"id": "mantle",
 	"image": "mle",
+	"level": {
+		"min": 230
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2899,
 	"id": "splintmail-coif",
 	"image": "ccs",
+	"level": {
+		"min": 430
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

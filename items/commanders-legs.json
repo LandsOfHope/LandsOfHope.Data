@@ -4,6 +4,9 @@
 	"baseValue": 6672,
 	"id": "commanders-legs",
 	"image": "2264",
+	"level": {
+		"min": 950
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

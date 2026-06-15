@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "the-flame-quencher",
 	"image": "sdd",
+	"level": {
+		"min": 10
+	},
 	"material": "gem",
 	"skill": "shields",
 	"skills": {

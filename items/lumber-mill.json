@@ -3,6 +3,9 @@
 	"baseValue": 3521,
 	"id": "lumber-mill",
 	"image": "rlm",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

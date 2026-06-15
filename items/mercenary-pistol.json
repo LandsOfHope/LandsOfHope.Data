@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "mercenary-pistol",
 	"image": "6660",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

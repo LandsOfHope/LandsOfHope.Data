@@ -4,6 +4,9 @@
 	"baseValue": 713,
 	"id": "studded-sleeves",
 	"image": "2972",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "weeping-willow",
 	"image": "st1",
+	"level": {
+		"min": 75
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

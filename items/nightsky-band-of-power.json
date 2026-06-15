@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "nightsky-band-of-power",
 	"image": "4965",
+	"level": {
+		"min": 325
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

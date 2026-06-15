@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "tingly-glowy-aura",
 	"image": "7011",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 2.2

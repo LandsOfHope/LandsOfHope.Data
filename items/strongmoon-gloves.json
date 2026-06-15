@@ -6,6 +6,9 @@
 	"id": "strongmoon-gloves",
 	"image": "4696",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1,

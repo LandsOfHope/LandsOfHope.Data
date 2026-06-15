@@ -4,6 +4,9 @@
 	"baseValue": 4211,
 	"id": "ghostly-sleeves",
 	"image": "2977",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

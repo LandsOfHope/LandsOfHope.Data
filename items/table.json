@@ -3,6 +3,9 @@
 	"baseValue": 6,
 	"id": "table",
 	"image": "tae1",
+	"level": {
+		"min": 10
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "storage-box"

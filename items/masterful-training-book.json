@@ -3,6 +3,9 @@
 	"baseValue": 32,
 	"id": "masterful-training-book",
 	"image": "bk1",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "knowledge-aid-styles"

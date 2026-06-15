@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "gold-sash",
 	"image": "5855",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "sunstone-flight",
 	"stackLimit": 1,

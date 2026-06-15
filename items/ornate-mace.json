@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-mace",
 	"image": "bm",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skill": "maces",
 	"skills": {

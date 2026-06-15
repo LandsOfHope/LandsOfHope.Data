@@ -4,6 +4,9 @@
 	"baseValue": 312,
 	"id": "chain-vest",
 	"image": "cv1",
+	"level": {
+		"min": 45
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

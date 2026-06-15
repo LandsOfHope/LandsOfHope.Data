@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "siluk-pod-gun",
 	"image": "na",
+	"level": {
+		"min": 35
+	},
 	"material": "wood",
 	"skill": "two-handed-guns",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 752,
 	"id": "ring-of-arcane-knowledge",
 	"image": "rg3",
+	"level": {
+		"min": 105
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

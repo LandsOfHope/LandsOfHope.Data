@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "cow-costume-head",
 	"image": "arhed",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"set": "cow-costume",
 	"skill": "artisan",

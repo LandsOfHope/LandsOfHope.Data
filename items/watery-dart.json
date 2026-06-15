@@ -4,6 +4,9 @@
 	"dpr": 30,
 	"id": "watery-dart",
 	"image": "drt",
+	"level": {
+		"min": 286
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

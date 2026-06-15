@@ -3,6 +3,9 @@
 	"baseValue": 241,
 	"id": "sponge-cake",
 	"image": "zuspca",
+	"level": {
+		"min": 480
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 2

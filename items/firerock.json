@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "firerock",
 	"image": "fl2",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "quest-item"

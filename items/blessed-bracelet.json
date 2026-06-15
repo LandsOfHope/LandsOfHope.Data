@@ -4,6 +4,9 @@
 	"baseValue": 1416,
 	"id": "blessed-bracelet",
 	"image": "gmblbr",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

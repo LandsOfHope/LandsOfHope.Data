@@ -4,6 +4,9 @@
 	"dpr": 68,
 	"id": "crying-bullet",
 	"image": "zucrbu1",
+	"level": {
+		"min": 661
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

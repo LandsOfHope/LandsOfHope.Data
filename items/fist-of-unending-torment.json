@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "fist-of-unending-torment",
 	"image": "ft3",
+	"level": {
+		"min": 20
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

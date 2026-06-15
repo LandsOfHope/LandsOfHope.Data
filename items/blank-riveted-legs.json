@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "blank-riveted-legs",
 	"image": "6850",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"set": "inventor-riveted-set",
 	"skill": "bolts-over-brains",

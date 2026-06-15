@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "rotting-arm",
 	"image": "bds",
+	"level": {
+		"min": 55
+	},
 	"material": "hide",
 	"skill": "two-handed-maces",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "ring-of-the-night",
 	"image": "6166",
+	"level": {
+		"min": 300
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1

@@ -4,6 +4,9 @@
 	"baseValue": 3200,
 	"id": "prepared-shirt",
 	"image": "pshi8",
+	"level": {
+		"min": 450
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXMANA": 1

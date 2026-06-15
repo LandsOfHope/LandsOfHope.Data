@@ -4,6 +4,9 @@
 	"baseValue": 1415,
 	"id": "death-shroud",
 	"image": "cl6",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"poison-magic": 1,

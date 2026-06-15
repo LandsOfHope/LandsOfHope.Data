@@ -4,6 +4,9 @@
 	"baseValue": 534,
 	"id": "strung-shoulders",
 	"image": "3004",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "shoulders"

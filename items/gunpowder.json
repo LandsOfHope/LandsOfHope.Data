@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "gunpowder",
 	"image": "zugure",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "explosive-component"
 }

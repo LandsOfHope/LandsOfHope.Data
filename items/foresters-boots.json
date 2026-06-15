@@ -4,6 +4,9 @@
 	"baseValue": 2823,
 	"id": "foresters-boots",
 	"image": "2843",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

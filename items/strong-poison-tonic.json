@@ -3,6 +3,9 @@
 	"baseValue": 331,
 	"id": "strong-poison-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 660
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

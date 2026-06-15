@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-fists",
 	"image": "ft2",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

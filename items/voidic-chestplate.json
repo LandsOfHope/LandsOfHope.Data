@@ -4,6 +4,9 @@
 	"baseValue": 2892,
 	"id": "voidic-chestplate",
 	"image": "gmvoch",
+	"level": {
+		"min": 410
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

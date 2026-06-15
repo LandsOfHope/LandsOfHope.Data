@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "aura-of-the-fast",
 	"image": "6693",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,

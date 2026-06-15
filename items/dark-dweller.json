@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "dark-dweller",
 	"image": "6263",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

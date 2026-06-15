@@ -4,6 +4,9 @@
 	"dpr": 92,
 	"id": "golden-celestial-bow",
 	"image": "6033",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

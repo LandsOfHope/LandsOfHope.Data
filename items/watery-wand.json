@@ -4,6 +4,9 @@
 	"dpr": 30,
 	"id": "watery-wand",
 	"image": "wand15",
+	"level": {
+		"min": 286
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"dpr": 63,
 	"id": "guilded-lethal-knuckle-basher",
 	"image": "nft",
+	"level": {
+		"min": 610
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

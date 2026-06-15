@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "fishing-rod",
 	"image": "fgd",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "fishing",
 	"skills": {

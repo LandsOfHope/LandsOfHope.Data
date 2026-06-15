@@ -3,6 +3,9 @@
 	"baseValue": 351,
 	"id": "strong-ice-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 700
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

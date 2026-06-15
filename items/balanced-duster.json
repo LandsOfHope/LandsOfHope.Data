@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "balanced-duster",
 	"image": "nft",
+	"level": {
+		"min": 20
+	},
 	"material": "stone",
 	"properties": {
 		"MAXSTAMINA": 1

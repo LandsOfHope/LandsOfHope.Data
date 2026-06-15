@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "dwarven-battle-hammer",
 	"image": "bh2",
+	"level": {
+		"min": 40
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

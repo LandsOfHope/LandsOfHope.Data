@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "vine-bullet",
 	"image": "bl",
+	"level": {
+		"min": 211
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

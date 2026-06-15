@@ -4,6 +4,9 @@
 	"baseValue": 306,
 	"id": "belt-of-the-blessed",
 	"image": "zubebl",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

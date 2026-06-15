@@ -3,6 +3,9 @@
 	"baseValue": 1974,
 	"id": "ring-of-summoning",
 	"image": "rgn",
+	"level": {
+		"min": 280
+	},
 	"material": "hide",
 	"skill": "summoning",
 	"skills": {

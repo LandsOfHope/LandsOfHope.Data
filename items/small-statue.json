@@ -3,6 +3,9 @@
 	"baseValue": 42,
 	"id": "small-statue",
 	"image": "ans",
+	"level": {
+		"min": 3
+	},
 	"material": "stone",
 	"stackLimit": 1,
 	"type": "stone-masonry-result"

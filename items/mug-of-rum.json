@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "mug-of-rum",
 	"image": "gmmuru",
+	"level": {
+		"min": 225
+	},
 	"material": "wood",
 	"properties": {
 		"HITPOINTS": 1,

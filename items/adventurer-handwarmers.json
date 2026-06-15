@@ -4,6 +4,9 @@
 	"baseValue": 2118,
 	"id": "adventurer-handwarmers",
 	"image": "2897",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 59,
 	"id": "icy-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 571
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

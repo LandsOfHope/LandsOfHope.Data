@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "demon-juice",
 	"image": "6080",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skill": "brothers-of-sakure",
 	"stackLimit": 1,

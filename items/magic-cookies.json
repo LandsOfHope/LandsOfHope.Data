@@ -4,6 +4,9 @@
 	"baseValue": 19,
 	"id": "magic-cookies",
 	"image": "c1k",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "trinket"

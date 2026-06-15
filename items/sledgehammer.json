@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "sledgehammer",
 	"image": "sle",
+	"level": {
+		"min": 70
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

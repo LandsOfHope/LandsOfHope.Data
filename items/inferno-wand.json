@@ -4,6 +4,9 @@
 	"dpr": 93,
 	"id": "inferno-wand",
 	"image": "wand10",
+	"level": {
+		"min": 916
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

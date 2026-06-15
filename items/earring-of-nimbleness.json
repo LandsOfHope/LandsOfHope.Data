@@ -4,6 +4,9 @@
 	"baseValue": 13,
 	"id": "earring-of-nimbleness",
 	"image": "863",
+	"level": {
+		"min": 750
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1,

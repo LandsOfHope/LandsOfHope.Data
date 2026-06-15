@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "blowstopper",
 	"image": "sdd",
+	"level": {
+		"min": 50
+	},
 	"material": "gem",
 	"skill": "two-handed-shields",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "nunchuck",
 	"image": "ft5",
+	"level": {
+		"min": 10
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

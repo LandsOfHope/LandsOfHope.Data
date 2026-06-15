@@ -4,6 +4,9 @@
 	"baseValue": 5614,
 	"id": "regal-tunic",
 	"image": "3043",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

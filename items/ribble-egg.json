@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "ribble-egg",
 	"image": "egg",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "monster-spawner"

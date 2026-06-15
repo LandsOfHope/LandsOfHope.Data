@@ -4,6 +4,9 @@
 	"dpr": 63,
 	"id": "blistering-bullet",
 	"image": "zublbu",
+	"level": {
+		"min": 616
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

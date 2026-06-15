@@ -4,6 +4,9 @@
 	"baseValue": 93,
 	"id": "coral-gloves",
 	"image": "1568",
+	"level": {
+		"min": 10
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

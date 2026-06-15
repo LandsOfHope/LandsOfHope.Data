@@ -3,6 +3,9 @@
 	"baseValue": 280,
 	"id": "scratched-plaque",
 	"image": "906",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

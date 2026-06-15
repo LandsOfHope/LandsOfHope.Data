@@ -4,6 +4,9 @@
 	"baseValue": 364,
 	"id": "pleated-armbraces",
 	"image": "3226",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "arm-armour"

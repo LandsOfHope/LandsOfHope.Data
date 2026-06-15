@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "purple-ninja-star",
 	"image": "6406",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

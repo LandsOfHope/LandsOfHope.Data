@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "advertising-poster",
 	"image": "6400",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "advertising-poster"

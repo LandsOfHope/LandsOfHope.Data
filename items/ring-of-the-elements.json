@@ -4,6 +4,9 @@
 	"baseValue": 20,
 	"id": "ring-of-the-elements",
 	"image": "rgk",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"air-survival": 1,

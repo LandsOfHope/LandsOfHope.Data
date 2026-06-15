@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-knuckle-duster",
 	"image": "nft",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

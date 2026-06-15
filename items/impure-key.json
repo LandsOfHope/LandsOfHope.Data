@@ -3,6 +3,9 @@
 	"baseValue": 270,
 	"id": "impure-key",
 	"image": "imk",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

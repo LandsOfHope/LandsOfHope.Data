@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "executioners-axe",
 	"image": "exa",
+	"level": {
+		"min": 15
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

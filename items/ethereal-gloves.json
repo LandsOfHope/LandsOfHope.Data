@@ -4,6 +4,9 @@
 	"baseValue": 3518,
 	"id": "ethereal-gloves",
 	"image": "3131",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

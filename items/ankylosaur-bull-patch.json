@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "ankylosaur-bull-patch",
 	"image": "gmanbupa",
+	"level": {
+		"min": 900
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-halberd",
 	"image": "hal",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

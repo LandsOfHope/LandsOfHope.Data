@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "balacks-instrument",
 	"image": "5040",
+	"level": {
+		"min": 910
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

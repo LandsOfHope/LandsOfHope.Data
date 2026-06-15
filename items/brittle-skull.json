@@ -3,6 +3,9 @@
 	"baseValue": 310,
 	"id": "brittle-skull",
 	"image": "sl",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

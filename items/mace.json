@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "mace",
 	"image": "bm",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

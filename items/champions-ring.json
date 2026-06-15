@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "champions-ring",
 	"image": "6680",
+	"level": {
+		"min": 600
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,

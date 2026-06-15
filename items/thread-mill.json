@@ -3,6 +3,9 @@
 	"baseValue": 6461,
 	"id": "thread-mill",
 	"image": "4841",
+	"level": {
+		"min": 920
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

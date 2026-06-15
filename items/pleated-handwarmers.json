@@ -4,6 +4,9 @@
 	"baseValue": 363,
 	"id": "pleated-handwarmers",
 	"image": "3146",
+	"level": {
+		"min": 50
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "hand-armour"

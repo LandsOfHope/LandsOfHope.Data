@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "vessel-flag",
 	"image": "5606",
+	"level": {
+		"min": 1
+	},
 	"material": "color",
 	"stackLimit": 1,
 	"type": "crafted-vessel-flag"

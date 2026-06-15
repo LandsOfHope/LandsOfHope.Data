@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "scarab-gloves",
 	"image": "5179",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

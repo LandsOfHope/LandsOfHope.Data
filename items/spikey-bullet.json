@@ -4,6 +4,9 @@
 	"dpr": 80,
 	"id": "spikey-bullet",
 	"image": "zuspbu",
+	"level": {
+		"min": 781
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

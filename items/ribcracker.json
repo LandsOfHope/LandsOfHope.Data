@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "ribcracker",
 	"image": "ft5",
+	"level": {
+		"min": 45
+	},
 	"material": "stone",
 	"properties": {
 		"MAXHITPOINTS": 1

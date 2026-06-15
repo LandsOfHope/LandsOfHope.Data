@@ -4,6 +4,9 @@
 	"baseValue": 1842,
 	"id": "cape-of-the-implementor",
 	"image": "cl4",
+	"level": {
+		"min": 260
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1

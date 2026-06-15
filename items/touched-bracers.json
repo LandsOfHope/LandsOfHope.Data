@@ -4,6 +4,9 @@
 	"baseValue": 6383,
 	"id": "touched-bracers",
 	"image": "cbs",
+	"level": {
+		"min": 910
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

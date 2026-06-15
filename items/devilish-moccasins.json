@@ -4,6 +4,9 @@
 	"baseValue": 6665,
 	"id": "devilish-moccasins",
 	"image": "2869",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

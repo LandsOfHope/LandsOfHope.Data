@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-bow",
 	"image": "bw",
+	"level": {
+		"min": 800
+	},
 	"material": "wood",
 	"skill": "bows",
 	"skills": {

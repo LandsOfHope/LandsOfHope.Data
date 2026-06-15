@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "bloody-half-axe",
 	"image": "ham",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

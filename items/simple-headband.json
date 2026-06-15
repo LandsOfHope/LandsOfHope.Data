@@ -4,6 +4,9 @@
 	"baseValue": 17,
 	"id": "simple-headband",
 	"image": "3175",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

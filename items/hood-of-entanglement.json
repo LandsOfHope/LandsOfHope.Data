@@ -4,6 +4,9 @@
 	"baseValue": 2406,
 	"id": "hood-of-entanglement",
 	"image": "1141",
+	"level": {
+		"min": 340
+	},
 	"material": "cloth",
 	"skills": {
 		"spirit-magic": 1

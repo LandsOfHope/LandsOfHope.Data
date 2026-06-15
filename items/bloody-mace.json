@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "bloody-mace",
 	"image": "bm",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "maces",
 	"skills": {

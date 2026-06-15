@@ -4,6 +4,9 @@
 	"baseValue": 5627,
 	"id": "savage-shoulderchains",
 	"image": "2747",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

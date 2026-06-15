@@ -3,6 +3,9 @@
 	"baseValue": 170,
 	"id": "mildewed-thigh-bone",
 	"image": "970",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

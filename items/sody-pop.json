@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "sody-pop",
 	"image": "6571",
+	"level": {
+		"min": 1
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

@@ -4,6 +4,9 @@
 	"baseValue": 18,
 	"id": "tanned-hat",
 	"image": "2903",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

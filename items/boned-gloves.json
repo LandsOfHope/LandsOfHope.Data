@@ -4,6 +4,9 @@
 	"baseValue": 29,
 	"id": "boned-gloves",
 	"image": "512",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

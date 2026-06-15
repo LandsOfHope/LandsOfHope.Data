@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "short-bloody-staff",
 	"image": "st1",
+	"level": {
+		"min": 500
+	},
 	"material": "wood",
 	"skill": "staves",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 69,
 	"id": "smoldering-potion",
 	"image": "pe5",
+	"level": {
+		"min": 673
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

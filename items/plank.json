@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "plank",
 	"image": "plk",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "resource-woodworking"

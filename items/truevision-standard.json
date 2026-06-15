@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "truevision-standard",
 	"image": "zsgc3",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"HITPOINTS": 1,

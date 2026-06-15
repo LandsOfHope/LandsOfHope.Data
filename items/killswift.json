@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "killswift",
 	"image": "4993",
+	"level": {
+		"min": 75
+	},
 	"material": "gem",
 	"properties": {
 		"SPEED": 1

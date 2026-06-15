@@ -4,6 +4,9 @@
 	"baseValue": 1426,
 	"id": "stary-leggings",
 	"image": "3058",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

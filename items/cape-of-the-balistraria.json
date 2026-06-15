@@ -4,6 +4,9 @@
 	"baseValue": 1696,
 	"id": "cape-of-the-balistraria",
 	"image": "cob",
+	"level": {
+		"min": 240
+	},
 	"material": "cloth",
 	"skills": {
 		"attack-power": 1

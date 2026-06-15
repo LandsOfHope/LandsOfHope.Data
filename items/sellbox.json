@@ -3,6 +3,9 @@
 	"baseValue": 678,
 	"id": "sellbox",
 	"image": "1798",
+	"level": {
+		"min": 95
+	},
 	"material": "stone",
 	"stackLimit": 1,
 	"type": "trash-can"

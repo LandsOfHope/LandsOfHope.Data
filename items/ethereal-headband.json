@@ -4,6 +4,9 @@
 	"baseValue": 3520,
 	"id": "ethereal-headband",
 	"image": "3181",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

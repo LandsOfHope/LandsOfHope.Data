@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "blank-stitched-feet",
 	"image": "6856",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 0.75

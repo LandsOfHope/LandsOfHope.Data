@@ -4,6 +4,9 @@
 	"dpr": 120,
 	"id": "melody",
 	"image": "gmmeeo",
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1,

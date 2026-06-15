@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "cyan-star-meteorite",
 	"image": "5992",
+	"level": {
+		"min": 400
+	},
 	"stackLimit": 1000,
 	"type": "star-metal"
 }

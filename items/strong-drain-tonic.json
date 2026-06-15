@@ -3,6 +3,9 @@
 	"baseValue": 336,
 	"id": "strong-drain-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 670
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

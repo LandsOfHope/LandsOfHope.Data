@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "bloodrush-augment",
 	"image": "6870",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1.4,

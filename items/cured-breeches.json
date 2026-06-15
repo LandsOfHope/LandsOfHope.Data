@@ -4,6 +4,9 @@
 	"baseValue": 371,
 	"id": "cured-breeches",
 	"image": "2805",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "leg-armour"

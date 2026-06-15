@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "genie-breath",
 	"image": "5950",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1,
 	"type": "trinket"

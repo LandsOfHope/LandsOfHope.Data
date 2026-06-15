@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "guilded-bloody-broad-axe",
 	"image": "ax12",
+	"level": {
+		"min": 510
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

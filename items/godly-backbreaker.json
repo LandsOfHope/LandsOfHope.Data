@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-backbreaker",
 	"image": "cb",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

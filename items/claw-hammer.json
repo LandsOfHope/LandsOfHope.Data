@@ -3,6 +3,9 @@
 	"baseValue": 26,
 	"id": "claw-hammer",
 	"image": "zuclha",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "construction",
 	"skills": {

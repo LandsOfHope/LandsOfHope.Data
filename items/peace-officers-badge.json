@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "peace-officers-badge",
 	"image": "5961",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1,

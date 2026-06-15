@@ -4,6 +4,9 @@
 	"baseValue": 25,
 	"id": "genie-lamp",
 	"image": "xgl",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"appraisal": 1

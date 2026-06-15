@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "lethal-axe",
 	"image": "ham",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

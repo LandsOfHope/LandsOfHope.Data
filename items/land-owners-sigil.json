@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "land-owners-sigil",
 	"image": "5891",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1,

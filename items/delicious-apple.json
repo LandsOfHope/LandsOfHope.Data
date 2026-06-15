@@ -4,6 +4,9 @@
 	"expansion": "the-afterlife",
 	"id": "delicious-apple",
 	"image": "6171",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 1

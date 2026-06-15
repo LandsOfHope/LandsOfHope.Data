@@ -4,6 +4,9 @@
 	"baseValue": 2123,
 	"id": "adventurer-shoulder-guards",
 	"image": "3029",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

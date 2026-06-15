@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "dart-tip",
 	"image": "fedati",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

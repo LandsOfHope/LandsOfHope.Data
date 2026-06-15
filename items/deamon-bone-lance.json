@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "deamon-bone-lance",
 	"image": "zudebola",
+	"level": {
+		"min": 45
+	},
 	"material": "metal",
 	"skill": "two-handed-staves",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 1272,
 	"id": "dark-chestplate",
 	"image": "1557",
+	"level": {
+		"min": 180
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

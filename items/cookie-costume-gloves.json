@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "cookie-costume-gloves",
 	"image": "cmglv",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"set": "cookie-costume",
 	"skill": "artisan",

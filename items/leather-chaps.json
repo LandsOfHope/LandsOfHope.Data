@@ -4,6 +4,9 @@
 	"baseValue": 68,
 	"id": "leather-chaps",
 	"image": "gir",
+	"level": {
+		"min": 6
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

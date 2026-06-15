@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "artisan-tool",
 	"image": "hr2",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "artisan",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 340,
 	"id": "rotting-claws",
 	"image": "rcw",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-blessed-coif",
 	"image": "3774",
+	"level": {
+		"min": 210
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

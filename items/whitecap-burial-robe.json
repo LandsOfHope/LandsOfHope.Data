@@ -4,6 +4,9 @@
 	"baseValue": 709,
 	"id": "whitecap-burial-robe",
 	"image": "5018",
+	"level": {
+		"min": 715
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "hood",
 	"image": "hd3",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

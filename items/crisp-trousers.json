@@ -4,6 +4,9 @@
 	"baseValue": 4700,
 	"id": "crisp-trousers",
 	"image": "ptro8",
+	"level": {
+		"min": 660
+	},
 	"material": "cloth",
 	"properties": {
 		"SPEED": 1

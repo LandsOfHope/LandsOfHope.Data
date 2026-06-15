@@ -3,6 +3,9 @@
 	"baseValue": 5095,
 	"id": "charm-of-the-electrics",
 	"image": "zuchel",
+	"level": {
+		"min": 725
+	},
 	"material": "wood",
 	"skills": {
 		"energy-magic": 1

@@ -4,6 +4,9 @@
 	"baseValue": 1412,
 	"id": "embossed-breeches",
 	"image": "2808",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

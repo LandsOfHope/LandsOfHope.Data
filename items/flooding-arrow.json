@@ -4,6 +4,9 @@
 	"dpr": 87,
 	"id": "flooding-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 856
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

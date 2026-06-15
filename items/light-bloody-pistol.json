@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "light-bloody-pistol",
 	"image": "pl1",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

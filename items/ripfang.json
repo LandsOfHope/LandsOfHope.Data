@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "ripfang",
 	"image": "1673",
+	"level": {
+		"min": 30
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

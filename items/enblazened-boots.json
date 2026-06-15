@@ -4,6 +4,9 @@
 	"baseValue": 2826,
 	"id": "enblazened-boots",
 	"image": "3100",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

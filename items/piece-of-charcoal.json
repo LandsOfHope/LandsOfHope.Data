@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "piece-of-charcoal",
 	"image": "zpc01",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "special-pirate-resource"
 }

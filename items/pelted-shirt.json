@@ -4,6 +4,9 @@
 	"baseValue": 860,
 	"id": "pelted-shirt",
 	"image": "pshi10",
+	"level": {
+		"min": 120
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

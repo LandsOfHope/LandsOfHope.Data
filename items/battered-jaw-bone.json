@@ -3,6 +3,9 @@
 	"baseValue": 330,
 	"id": "battered-jaw-bone",
 	"image": "b1",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

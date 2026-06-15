@@ -4,6 +4,9 @@
 	"baseValue": 1,
 	"id": "bloody-heart",
 	"image": "831",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "trophy"

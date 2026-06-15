@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "flag-stand",
 	"image": "999",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "flag-stand"

@@ -4,6 +4,9 @@
 	"baseValue": 2822,
 	"id": "foresters-hat",
 	"image": "2909",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

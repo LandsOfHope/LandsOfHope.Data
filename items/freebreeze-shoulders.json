@@ -6,6 +6,9 @@
 	"id": "freebreeze-shoulders",
 	"image": "4686",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

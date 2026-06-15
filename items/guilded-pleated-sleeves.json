@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-pleated-sleeves",
 	"image": "3941",
+	"level": {
+		"min": 60
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "arm-armour"

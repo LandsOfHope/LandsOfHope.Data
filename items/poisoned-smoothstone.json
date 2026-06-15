@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "poisoned-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 46
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

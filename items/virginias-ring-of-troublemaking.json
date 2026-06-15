@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "virginias-ring-of-troublemaking",
 	"image": "6799",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 2,

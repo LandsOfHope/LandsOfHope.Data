@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "red-star-meteorite",
 	"image": "5988",
+	"level": {
+		"min": 0
+	},
 	"stackLimit": 1000,
 	"type": "star-metal"
 }

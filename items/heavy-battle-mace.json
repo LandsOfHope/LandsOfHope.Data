@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "heavy-battle-mace",
 	"image": "bm",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 714,
 	"id": "studded-vest",
 	"image": "2829",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

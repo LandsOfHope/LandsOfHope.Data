@@ -4,6 +4,9 @@
 	"dpr": 90,
 	"id": "sharded-bullet",
 	"image": "zushbu",
+	"level": {
+		"min": 886
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 718,
 	"id": "ravaged-chestplate",
 	"image": "gmrach",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

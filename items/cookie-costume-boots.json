@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "cookie-costume-boots",
 	"image": "cmbot",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"set": "cookie-costume",
 	"skill": "artisan",

@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "flaming-arrow",
 	"image": "arrf",
+	"level": {
+		"min": 16
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

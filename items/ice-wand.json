@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "ice-wand",
 	"image": "wand07",
+	"level": {
+		"min": 61
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

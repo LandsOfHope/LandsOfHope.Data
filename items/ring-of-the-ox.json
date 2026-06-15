@@ -3,6 +3,9 @@
 	"baseValue": 572,
 	"id": "ring-of-the-ox",
 	"image": "rgf",
+	"level": {
+		"min": 80
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,

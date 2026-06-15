@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "weak-lava-potion",
 	"image": "pe5",
+	"level": {
+		"min": 57
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

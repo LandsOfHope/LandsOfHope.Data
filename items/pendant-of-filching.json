@@ -3,6 +3,9 @@
 	"baseValue": 1145,
 	"id": "pendant-of-filching",
 	"image": "pdt",
+	"level": {
+		"min": 160
+	},
 	"material": "gem",
 	"skill": "stealing",
 	"skills": {

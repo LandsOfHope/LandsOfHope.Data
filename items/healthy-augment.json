@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "healthy-augment",
 	"image": "6820",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

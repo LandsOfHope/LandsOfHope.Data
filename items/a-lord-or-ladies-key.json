@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "a-lord-or-ladies-key",
 	"image": "ky2",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "parlor-tricks",
 	"stackLimit": 1,

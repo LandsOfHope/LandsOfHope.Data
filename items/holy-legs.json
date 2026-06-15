@@ -4,6 +4,9 @@
 	"baseValue": 468,
 	"id": "holy-legs",
 	"image": "gmhole",
+	"level": {
+		"min": 65
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

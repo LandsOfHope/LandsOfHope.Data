@@ -4,6 +4,9 @@
 	"baseValue": 644,
 	"id": "pelted-skirt",
 	"image": "cskirt3",
+	"level": {
+		"min": 90
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

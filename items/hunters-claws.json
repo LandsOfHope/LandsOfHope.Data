@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "hunters-claws",
 	"image": "ft2",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

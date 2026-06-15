@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "mercenary-vase",
 	"image": "6663",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1

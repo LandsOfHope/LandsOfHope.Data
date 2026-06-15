@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "grenade",
 	"image": "6575",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "heavy-munitions",
 	"stackLimit": 1000,

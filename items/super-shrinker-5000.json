@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "super-shrinker-5000",
 	"image": "6567",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "relic-trigger"

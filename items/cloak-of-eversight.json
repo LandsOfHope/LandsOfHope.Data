@@ -4,6 +4,9 @@
 	"expansion": "jurassic-wars",
 	"id": "cloak-of-eversight",
 	"image": "cl6",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

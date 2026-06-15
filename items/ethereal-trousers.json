@@ -4,6 +4,9 @@
 	"baseValue": 3509,
 	"id": "ethereal-trousers",
 	"image": "3071",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

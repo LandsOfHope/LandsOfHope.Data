@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "lime-celestial-staff",
 	"image": "6020",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "celestial-weapons",
 	"skills": {

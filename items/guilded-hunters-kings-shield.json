@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "guilded-hunters-kings-shield",
 	"image": "sda",
+	"level": {
+		"min": 210
+	},
 	"material": "wood",
 	"skill": "two-handed-shields",
 	"skills": {

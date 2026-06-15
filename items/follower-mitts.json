@@ -4,6 +4,9 @@
 	"baseValue": 713,
 	"id": "follower-mitts",
 	"image": "3137",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

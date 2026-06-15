@@ -3,6 +3,9 @@
 	"baseValue": 721,
 	"id": "ring-of-blind-loyalty",
 	"image": "zurob",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"skills": {
 		"damage-absorption": 1

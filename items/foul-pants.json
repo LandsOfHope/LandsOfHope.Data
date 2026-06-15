@@ -4,6 +4,9 @@
 	"baseValue": 989,
 	"id": "foul-pants",
 	"image": "1812",
+	"level": {
+		"min": 140
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

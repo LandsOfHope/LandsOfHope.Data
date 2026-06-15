@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "side-of-meat",
 	"image": "zusime",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "rawfood"

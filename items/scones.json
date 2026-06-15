@@ -3,6 +3,9 @@
 	"baseValue": 271,
 	"id": "scones",
 	"image": "zuscsn",
+	"level": {
+		"min": 540
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 2

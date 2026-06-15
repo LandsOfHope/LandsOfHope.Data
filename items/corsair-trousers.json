@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "corsair-trousers",
 	"image": "5244",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1,

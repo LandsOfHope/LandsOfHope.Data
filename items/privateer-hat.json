@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "privateer-hat",
 	"image": "5221",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

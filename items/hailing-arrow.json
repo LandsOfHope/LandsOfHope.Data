@@ -4,6 +4,9 @@
 	"dpr": 78,
 	"id": "hailing-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 766
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

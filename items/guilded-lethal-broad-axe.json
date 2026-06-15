@@ -4,6 +4,9 @@
 	"dpr": 63,
 	"id": "guilded-lethal-broad-axe",
 	"image": "ax12",
+	"level": {
+		"min": 610
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

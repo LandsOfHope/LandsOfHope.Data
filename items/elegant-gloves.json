@@ -4,6 +4,9 @@
 	"baseValue": 4211,
 	"id": "elegant-gloves",
 	"image": "3132",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

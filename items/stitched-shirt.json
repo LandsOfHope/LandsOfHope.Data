@@ -4,6 +4,9 @@
 	"baseValue": 2464,
 	"id": "stitched-shirt",
 	"image": "pshi5",
+	"level": {
+		"min": 350
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

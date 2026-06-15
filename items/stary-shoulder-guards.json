@@ -4,6 +4,9 @@
 	"baseValue": 1423,
 	"id": "stary-shoulder-guards",
 	"image": "3268",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

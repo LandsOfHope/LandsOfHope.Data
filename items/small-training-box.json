@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "small-training-box",
 	"image": "sc1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "training-aid-box"

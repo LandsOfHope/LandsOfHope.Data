@@ -4,6 +4,9 @@
 	"baseValue": 19,
 	"id": "5th-anniversary-box",
 	"image": "6878",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "present-box"

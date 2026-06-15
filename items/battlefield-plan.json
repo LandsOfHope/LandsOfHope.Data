@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "battlefield-plan",
 	"image": "6555",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

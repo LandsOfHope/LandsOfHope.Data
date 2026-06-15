@@ -4,6 +4,9 @@
 	"baseValue": 2824,
 	"id": "foresters-pants",
 	"image": "2788",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

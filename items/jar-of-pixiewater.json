@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "jar-of-pixiewater",
 	"image": "bx",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

@@ -4,6 +4,9 @@
 	"dpr": 99,
 	"id": "thermal-wand",
 	"image": "wand10",
+	"level": {
+		"min": 976
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"id": "makers-footwear",
 	"image": "6392",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"set": "makers-set",
 	"skill": "artisan",

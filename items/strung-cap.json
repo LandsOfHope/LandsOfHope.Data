@@ -4,6 +4,9 @@
 	"baseValue": 549,
 	"id": "strung-cap",
 	"image": "2916",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "head-armour"

@@ -3,6 +3,9 @@
 	"baseValue": 206,
 	"id": "potent-pole-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 410
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

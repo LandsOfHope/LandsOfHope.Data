@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "grinder",
 	"image": "zugrnd",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "cooking",
 	"skills": {

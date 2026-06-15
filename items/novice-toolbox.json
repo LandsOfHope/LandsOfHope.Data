@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "novice-toolbox",
 	"image": "bx5",
+	"level": {
+		"min": 50
+	},
 	"material": "wood",
 	"skill": "artisan",
 	"skills": {

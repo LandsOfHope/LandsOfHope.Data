@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-double-axe",
 	"image": "ax12",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

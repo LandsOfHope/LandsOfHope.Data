@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "butter",
 	"image": "br1",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 1

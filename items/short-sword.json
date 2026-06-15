@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "short-sword",
 	"image": "feshsw",
+	"level": {
+		"min": 30
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

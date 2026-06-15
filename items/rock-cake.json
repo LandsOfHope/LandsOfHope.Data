@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "rock-cake",
 	"image": "ce3",
+	"level": {
+		"min": 15
+	},
 	"material": "berry",
 	"skill": "maces",
 	"skills": {

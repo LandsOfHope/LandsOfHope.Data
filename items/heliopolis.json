@@ -4,6 +4,9 @@
 	"dpr": 13,
 	"id": "heliopolis",
 	"image": "ss5",
+	"level": {
+		"min": 100
+	},
 	"material": "wood",
 	"skill": "siege-weapons",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "aura-of-the-nimble",
 	"image": "6694",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1,

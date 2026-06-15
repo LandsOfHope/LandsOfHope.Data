@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "compass",
 	"image": "cs",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "scavenger-compass"

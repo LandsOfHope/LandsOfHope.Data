@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "good-book",
 	"image": "6713",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "creature"
 }

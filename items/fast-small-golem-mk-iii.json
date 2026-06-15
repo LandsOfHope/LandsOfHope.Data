@@ -3,6 +3,9 @@
 	"baseValue": 15,
 	"id": "fast-small-golem-mk-iii",
 	"image": "2683",
+	"level": {
+		"min": 105
+	},
 	"material": "stone",
 	"skills": {
 		"armor": 1

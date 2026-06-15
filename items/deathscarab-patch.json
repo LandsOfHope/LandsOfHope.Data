@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "deathscarab-patch",
 	"image": "gmdepa",
+	"level": {
+		"min": 700
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

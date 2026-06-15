@@ -4,6 +4,9 @@
 	"baseValue": 711,
 	"id": "studded-braces",
 	"image": "2994",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

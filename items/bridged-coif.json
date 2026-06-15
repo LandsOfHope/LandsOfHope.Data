@@ -4,6 +4,9 @@
 	"baseValue": 5600,
 	"id": "bridged-coif",
 	"image": "ccs",
+	"level": {
+		"min": 830
+	},
 	"material": "metal",
 	"properties": {
 		"MAXMANA": 1

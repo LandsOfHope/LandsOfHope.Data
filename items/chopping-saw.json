@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "chopping-saw",
 	"image": "1386",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "log-chopping-tool"

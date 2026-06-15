@@ -4,6 +4,9 @@
 	"baseValue": 1800,
 	"id": "ringmail-sleeves",
 	"image": "css",
+	"level": {
+		"min": 250
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

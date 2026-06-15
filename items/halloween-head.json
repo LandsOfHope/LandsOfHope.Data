@@ -3,6 +3,9 @@
 	"baseValue": 3376,
 	"id": "halloween-head",
 	"image": "2156",
+	"level": {
+		"min": 480
+	},
 	"material": "vegetable",
 	"stackLimit": 1,
 	"type": "head-armour"

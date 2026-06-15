@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "falchion",
 	"image": "fal",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

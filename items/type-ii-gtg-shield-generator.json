@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "type-ii-gtg-shield-generator",
 	"image": "6735",
+	"level": {
+		"min": 250
+	},
 	"material": "gem",
 	"skills": {
 		"damage-absorption": 1

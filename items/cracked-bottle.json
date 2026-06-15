@@ -3,6 +3,9 @@
 	"baseValue": 135,
 	"id": "cracked-bottle",
 	"image": "5593",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

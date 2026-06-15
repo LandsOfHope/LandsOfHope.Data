@@ -3,6 +3,9 @@
 	"baseValue": 111,
 	"id": "beer",
 	"image": "febebe",
+	"level": {
+		"min": 220
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

@@ -4,6 +4,9 @@
 	"dpr": 57,
 	"id": "flaring-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 556
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

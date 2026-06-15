@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "the-sword",
 	"image": "6757",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "trophy"
 }

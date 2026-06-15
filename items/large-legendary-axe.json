@@ -5,6 +5,9 @@
 	"id": "large-legendary-axe",
 	"image": "ax13",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

@@ -4,6 +4,9 @@
 	"baseValue": 17,
 	"id": "vigors-aura",
 	"image": "6180",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 2

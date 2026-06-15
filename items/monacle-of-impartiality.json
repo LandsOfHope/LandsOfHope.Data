@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "monacle-of-impartiality",
 	"image": "gmmoimx",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

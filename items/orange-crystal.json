@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "orange-crystal",
 	"image": "yoc",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "alchemy-ingredient"
 }

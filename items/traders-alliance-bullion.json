@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "traders-alliance-bullion",
 	"image": "ing2",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "quest-item"

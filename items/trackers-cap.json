@@ -4,6 +4,9 @@
 	"baseValue": 3515,
 	"id": "trackers-cap",
 	"image": "2921",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

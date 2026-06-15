@@ -4,6 +4,9 @@
 	"baseValue": 2109,
 	"id": "nightly-trousers",
 	"image": "3069",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

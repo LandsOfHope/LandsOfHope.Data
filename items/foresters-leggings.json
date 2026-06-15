@@ -4,6 +4,9 @@
 	"baseValue": 2816,
 	"id": "foresters-leggings",
 	"image": "2799",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 43,
 	"id": "guilded-battle-firearm",
 	"image": "pl1",
+	"level": {
+		"min": 410
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

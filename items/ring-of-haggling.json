@@ -3,6 +3,9 @@
 	"baseValue": 1456,
 	"id": "ring-of-haggling",
 	"image": "ring16",
+	"level": {
+		"min": 205
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,

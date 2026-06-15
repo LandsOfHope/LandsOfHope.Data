@@ -3,6 +3,9 @@
 	"baseValue": 371,
 	"id": "apple-pie",
 	"image": "ap1",
+	"level": {
+		"min": 740
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 2

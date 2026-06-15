@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "shard",
 	"image": "dg3",
+	"level": {
+		"min": 10
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "watery-potion",
 	"image": "pe5",
+	"level": {
+		"min": 309
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

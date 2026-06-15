@@ -4,6 +4,9 @@
 	"baseValue": 1410,
 	"id": "embossed-gloves",
 	"image": "2874",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

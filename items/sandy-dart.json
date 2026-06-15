@@ -4,6 +4,9 @@
 	"dpr": 21,
 	"id": "sandy-dart",
 	"image": "drt",
+	"level": {
+		"min": 196
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

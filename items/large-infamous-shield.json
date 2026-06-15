@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "large-infamous-shield",
 	"image": "sda",
+	"level": {
+		"min": 800
+	},
 	"material": "wood",
 	"skill": "two-handed-shields",
 	"skills": {

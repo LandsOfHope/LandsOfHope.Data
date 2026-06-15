@@ -4,6 +4,9 @@
 	"dpr": 66,
 	"id": "crushing-potion",
 	"image": "pe5",
+	"level": {
+		"min": 645
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

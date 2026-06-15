@@ -3,6 +3,9 @@
 	"baseValue": 721,
 	"id": "maerns-knapsack",
 	"image": "imps",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"cold-resistance": 1

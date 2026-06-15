@@ -3,6 +3,9 @@
 	"baseValue": 93,
 	"id": "spinning-wheel",
 	"image": "wheel",
+	"level": {
+		"min": 12
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "tailoring-thread-maker"

@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "weathered-rope",
 	"image": "zuwero",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "rope-ship-resource"
 }

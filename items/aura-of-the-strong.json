@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "aura-of-the-strong",
 	"image": "6695",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,

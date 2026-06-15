@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "pole-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 650
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

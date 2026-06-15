@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "pegasus",
 	"image": "gmpega",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

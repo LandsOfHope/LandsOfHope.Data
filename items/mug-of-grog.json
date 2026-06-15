@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "mug-of-grog",
 	"image": "gmmugr",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"properties": {
 		"HITPOINTS": 1

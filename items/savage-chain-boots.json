@@ -4,6 +4,9 @@
 	"baseValue": 5608,
 	"id": "savage-chain-boots",
 	"image": "2582",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

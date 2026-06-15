@@ -4,6 +4,9 @@
 	"baseValue": 539,
 	"id": "footman-chain-coif",
 	"image": "2663",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

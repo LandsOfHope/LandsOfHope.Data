@@ -3,6 +3,9 @@
 	"baseValue": 6000,
 	"id": "lime-prizehunter-goggles",
 	"image": "6257",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1,

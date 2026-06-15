@@ -4,6 +4,9 @@
 	"baseValue": 362,
 	"id": "cured-leggings",
 	"image": "2794",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "leg-armour"

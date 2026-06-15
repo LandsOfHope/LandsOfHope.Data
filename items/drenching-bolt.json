@@ -4,6 +4,9 @@
 	"dpr": 78,
 	"id": "drenching-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 766
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

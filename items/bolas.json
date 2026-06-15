@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "bolas",
 	"image": "bos",
+	"level": {
+		"min": 45
+	},
 	"material": "wood",
 	"properties": {
 		"MAXHITPOINTS": 1

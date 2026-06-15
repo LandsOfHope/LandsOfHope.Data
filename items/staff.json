@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "staff",
 	"image": "staff06",
+	"level": {
+		"min": 5
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

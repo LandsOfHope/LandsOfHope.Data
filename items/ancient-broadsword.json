@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "ancient-broadsword",
 	"image": "zuanbr",
+	"level": {
+		"min": 10
+	},
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {

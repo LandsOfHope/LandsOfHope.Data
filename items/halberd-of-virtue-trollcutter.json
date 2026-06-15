@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "halberd-of-virtue-trollcutter",
 	"image": "1623",
+	"level": {
+		"min": 20
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "tweaked-augment",
 	"image": "6871",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1.3,

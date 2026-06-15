@@ -4,6 +4,9 @@
 	"baseValue": 2817,
 	"id": "battlehardened-chestplate",
 	"image": "2249",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

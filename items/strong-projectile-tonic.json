@@ -3,6 +3,9 @@
 	"baseValue": 321,
 	"id": "strong-projectile-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 640
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

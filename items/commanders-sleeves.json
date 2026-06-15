@@ -4,6 +4,9 @@
 	"baseValue": 6675,
 	"id": "commanders-sleeves",
 	"image": "2715",
+	"level": {
+		"min": 950
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

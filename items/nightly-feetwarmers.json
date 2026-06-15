@@ -4,6 +4,9 @@
 	"baseValue": 2119,
 	"id": "nightly-feetwarmers",
 	"image": "3109",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

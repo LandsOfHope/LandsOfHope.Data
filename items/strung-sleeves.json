@@ -4,6 +4,9 @@
 	"baseValue": 548,
 	"id": "strung-sleeves",
 	"image": "2971",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "arm-armour"

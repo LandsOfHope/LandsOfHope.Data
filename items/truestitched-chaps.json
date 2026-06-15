@@ -4,6 +4,9 @@
 	"baseValue": 1076,
 	"id": "truestitched-chaps",
 	"image": "4456",
+	"level": {
+		"min": 150
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

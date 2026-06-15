@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "black-bag",
 	"image": "5871",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"air-resistance": 1,

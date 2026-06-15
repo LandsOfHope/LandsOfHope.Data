@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "shady-box",
 	"image": "sc1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "rogue-training-device"

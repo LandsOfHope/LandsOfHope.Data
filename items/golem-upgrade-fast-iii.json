@@ -3,6 +3,9 @@
 	"baseValue": 5,
 	"id": "golem-upgrade-fast-iii",
 	"image": "2694",
+	"level": {
+		"min": 15
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "golem-parts"

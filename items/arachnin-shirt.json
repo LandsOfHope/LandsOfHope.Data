@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "arachnin-shirt",
 	"image": "5139",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 48,
 	"id": "botanical-potion",
 	"image": "pe5",
+	"level": {
+		"min": 463
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

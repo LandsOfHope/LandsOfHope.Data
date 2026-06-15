@@ -4,6 +4,9 @@
 	"baseValue": 336,
 	"id": "cracked-sleeves",
 	"image": "c1s",
+	"level": {
+		"min": 45
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

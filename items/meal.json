@@ -3,6 +3,9 @@
 	"baseValue": 451,
 	"id": "meal",
 	"image": "zumeea",
+	"level": {
+		"min": 900
+	},
 	"material": "hide",
 	"properties": {
 		"STAMINA": 3

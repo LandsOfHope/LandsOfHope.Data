@@ -3,6 +3,9 @@
 	"baseValue": 2117,
 	"id": "orchard",
 	"image": "1531",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

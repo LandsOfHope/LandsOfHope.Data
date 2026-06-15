@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "barrel-of-port",
 	"image": "gmbapo",
+	"level": {
+		"min": 151
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "consumable-container"

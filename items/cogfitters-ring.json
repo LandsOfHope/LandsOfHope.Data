@@ -3,6 +3,9 @@
 	"baseValue": 228,
 	"id": "cogfitters-ring",
 	"image": "c3g",
+	"level": {
+		"min": 30
+	},
 	"material": "metal",
 	"skills": {
 		"tinkering": 1

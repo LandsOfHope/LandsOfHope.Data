@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "blossoming-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 406
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

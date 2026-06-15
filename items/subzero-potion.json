@@ -4,6 +4,9 @@
 	"dpr": 70,
 	"id": "subzero-potion",
 	"image": "pe5",
+	"level": {
+		"min": 687
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

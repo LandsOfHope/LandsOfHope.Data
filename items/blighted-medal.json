@@ -3,6 +3,9 @@
 	"baseValue": 230,
 	"id": "blighted-medal",
 	"image": "973",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "blank-riveted-cuffs",
 	"image": "6845",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"set": "inventor-riveted-set",
 	"skill": "bolts-over-brains",

@@ -4,6 +4,9 @@
 	"dpr": 35,
 	"id": "germinating-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 331
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

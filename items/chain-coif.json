@@ -4,6 +4,9 @@
 	"baseValue": 295,
 	"id": "chain-coif",
 	"image": "ccs",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

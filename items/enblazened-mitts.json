@@ -4,6 +4,9 @@
 	"baseValue": 2809,
 	"id": "enblazened-mitts",
 	"image": "3140",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

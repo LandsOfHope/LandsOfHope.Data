@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "singing-valera-sword",
 	"image": "sw6",
+	"level": {
+		"min": 65
+	},
 	"material": "metal",
 	"skill": "two-handed-swords",
 	"skills": {

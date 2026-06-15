@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "cloth",
 	"image": "cl1",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1000,
 	"type": "resource-tailoring"

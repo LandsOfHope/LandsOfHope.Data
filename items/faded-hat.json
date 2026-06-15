@@ -4,6 +4,9 @@
 	"baseValue": 3700,
 	"id": "faded-hat",
 	"image": "what8",
+	"level": {
+		"min": 510
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1

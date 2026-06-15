@@ -4,6 +4,9 @@
 	"baseValue": 534,
 	"id": "footman-gauntlets",
 	"image": "2355",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

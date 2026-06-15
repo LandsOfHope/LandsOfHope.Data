@@ -4,6 +4,9 @@
 	"baseValue": 85,
 	"id": "coral-helmet",
 	"image": "1566",
+	"level": {
+		"min": 10
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

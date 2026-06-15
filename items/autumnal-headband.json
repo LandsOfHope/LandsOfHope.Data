@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "autumnal-headband",
 	"image": "jwadh2",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skills": {
 		"armor": 1

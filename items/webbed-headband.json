@@ -4,6 +4,9 @@
 	"baseValue": 1761,
 	"id": "webbed-headband",
 	"image": "2082",
+	"level": {
+		"min": 250
+	},
 	"material": "spider",
 	"properties": {
 		"INTELLIGENCE": 1

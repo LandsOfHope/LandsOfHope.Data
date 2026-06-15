@@ -4,6 +4,9 @@
 	"baseValue": 6666,
 	"id": "commanders-shoulderchains",
 	"image": "2748",
+	"level": {
+		"min": 950
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "court-coin",
 	"image": "5853",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "barter-items"
 }

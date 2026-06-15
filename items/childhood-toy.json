@@ -3,6 +3,9 @@
 	"baseValue": 104,
 	"id": "childhood-toy",
 	"image": "5590",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

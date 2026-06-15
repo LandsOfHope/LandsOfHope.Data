@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "dark-hard-teal-paper",
 	"image": "pdarkhardte",
+	"level": {
+		"min": 720
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

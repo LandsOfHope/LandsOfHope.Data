@@ -4,6 +4,9 @@
 	"baseValue": 26,
 	"id": "tanned-leggings",
 	"image": "2793",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

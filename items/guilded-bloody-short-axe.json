@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "guilded-bloody-short-axe",
 	"image": "ham",
+	"level": {
+		"min": 510
+	},
 	"material": "metal",
 	"skill": "axes",
 	"skills": {

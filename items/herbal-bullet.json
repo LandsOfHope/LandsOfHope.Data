@@ -4,6 +4,9 @@
 	"dpr": 39,
 	"id": "herbal-bullet",
 	"image": "4156",
+	"level": {
+		"min": 376
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

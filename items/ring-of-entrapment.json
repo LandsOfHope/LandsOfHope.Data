@@ -3,6 +3,9 @@
 	"baseValue": 1412,
 	"id": "ring-of-entrapment",
 	"image": "ring17",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skills": {
 		"spirit-magic": 1

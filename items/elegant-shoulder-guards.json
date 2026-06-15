@@ -4,6 +4,9 @@
 	"baseValue": 4225,
 	"id": "elegant-shoulder-guards",
 	"image": "3272",
+	"level": {
+		"min": 600
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

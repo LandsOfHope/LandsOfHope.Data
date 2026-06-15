@@ -4,6 +4,9 @@
 	"dpr": 77,
 	"id": "numbing-potion",
 	"image": "pe5",
+	"level": {
+		"min": 757
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

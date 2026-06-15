@@ -4,6 +4,9 @@
 	"dpr": 83,
 	"id": "nova-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 811
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 683,
 	"id": "pelted-pants",
 	"image": "ptro11",
+	"level": {
+		"min": 95
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

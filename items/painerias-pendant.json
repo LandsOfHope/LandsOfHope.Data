@@ -3,6 +3,9 @@
 	"baseValue": 3000,
 	"id": "painerias-pendant",
 	"image": "5042",
+	"level": {
+		"min": 925
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

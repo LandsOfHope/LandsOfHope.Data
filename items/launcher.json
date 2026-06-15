@@ -4,6 +4,9 @@
 	"dpr": 70,
 	"id": "launcher",
 	"image": "4634",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

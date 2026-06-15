@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "spear",
 	"image": "fesppa",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "thrown-weapons",
 	"skills": {

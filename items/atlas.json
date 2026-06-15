@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "atlas",
 	"image": "6611",
+	"level": {
+		"min": 99
+	},
 	"stackLimit": 1000,
 	"type": "item-use-door"
 }

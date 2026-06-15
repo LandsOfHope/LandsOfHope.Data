@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "warmaker-spider",
 	"image": "6746",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "creature"
 }

@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "primeval-potion",
 	"image": "pe5",
+	"level": {
+		"min": 505
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2811,
 	"id": "foresters-shoulder-guards",
 	"image": "3030",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

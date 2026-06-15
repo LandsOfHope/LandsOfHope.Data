@@ -4,6 +4,9 @@
 	"baseValue": 365,
 	"id": "cracked-legs",
 	"image": "ccl",
+	"level": {
+		"min": 49
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1

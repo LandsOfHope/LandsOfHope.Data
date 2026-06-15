@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "galvanic-dynamo",
 	"image": "st1",
+	"level": {
+		"min": 80
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

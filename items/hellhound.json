@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "hellhound",
 	"image": "gmheuo",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

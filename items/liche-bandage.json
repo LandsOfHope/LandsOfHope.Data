@@ -3,6 +3,9 @@
 	"baseValue": 309,
 	"id": "liche-bandage",
 	"image": "lban1",
+	"level": {
+		"min": 41
+	},
 	"material": "hide",
 	"skills": {
 		"acid-resistance": 1,

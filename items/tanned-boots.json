@@ -4,6 +4,9 @@
 	"baseValue": 31,
 	"id": "tanned-boots",
 	"image": "2837",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2810,
 	"id": "enblazened-doublet",
 	"image": "3080",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

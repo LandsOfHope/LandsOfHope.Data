@@ -4,6 +4,9 @@
 	"baseValue": 3522,
 	"id": "ethereal-boots",
 	"image": "3101",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

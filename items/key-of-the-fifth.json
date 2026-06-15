@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "key-of-the-fifth",
 	"image": "gmkefi",
+	"level": {
+		"min": 1000
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "portal"

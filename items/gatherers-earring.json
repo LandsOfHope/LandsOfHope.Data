@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "gatherers-earring",
 	"image": "eas",
+	"level": {
+		"min": 200
+	},
 	"material": "gem",
 	"skill": "artisan",
 	"stackLimit": 1,

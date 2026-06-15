@@ -4,6 +4,9 @@
 	"dpr": 36,
 	"id": "pollinating-wand",
 	"image": "wand06",
+	"level": {
+		"min": 346
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

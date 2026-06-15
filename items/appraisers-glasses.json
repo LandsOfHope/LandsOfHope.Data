@@ -4,6 +4,9 @@
 	"baseValue": 9,
 	"id": "appraisers-glasses",
 	"image": "843",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skills": {
 		"appraisal": 1

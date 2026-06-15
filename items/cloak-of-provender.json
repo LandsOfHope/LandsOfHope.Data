@@ -4,6 +4,9 @@
 	"baseValue": 1979,
 	"id": "cloak-of-provender",
 	"image": "c3p",
+	"level": {
+		"min": 280
+	},
 	"material": "cloth",
 	"skills": {
 		"cooking": 1,

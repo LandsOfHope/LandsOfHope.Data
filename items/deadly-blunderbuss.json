@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "deadly-blunderbuss",
 	"image": "re2",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "two-handed-guns",
 	"skills": {

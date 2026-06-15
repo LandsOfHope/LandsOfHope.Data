@@ -4,6 +4,9 @@
 	"dpr": 84,
 	"id": "stoney-dart",
 	"image": "drt",
+	"level": {
+		"min": 826
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 22,
 	"id": "charred-cloak",
 	"image": "cl8",
+	"level": {
+		"min": 350
+	},
 	"material": "hide",
 	"skills": {
 		"arcane-resistance": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "mark-of-volcanoss",
 	"image": "gmmavo",
+	"level": {
+		"min": 725
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "key"

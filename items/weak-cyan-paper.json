@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "weak-cyan-paper",
 	"image": "pweakcyan",
+	"level": {
+		"min": 120
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

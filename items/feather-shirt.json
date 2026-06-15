@@ -4,6 +4,9 @@
 	"baseValue": 1270,
 	"id": "feather-shirt",
 	"image": "609",
+	"level": {
+		"min": 180
+	},
 	"material": "bird",
 	"properties": {
 		"DEXTERITY": 1

@@ -3,6 +3,9 @@
 	"baseValue": 80,
 	"id": "fast-gigantic-golem-mk-i",
 	"image": "2965",
+	"level": {
+		"min": 605
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "golem"

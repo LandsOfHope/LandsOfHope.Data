@@ -4,6 +4,9 @@
 	"dpr": 69,
 	"id": "smoldering-wand",
 	"image": "wand04",
+	"level": {
+		"min": 676
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

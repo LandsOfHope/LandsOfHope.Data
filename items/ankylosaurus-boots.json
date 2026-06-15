@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "ankylosaurus-boots",
 	"image": "5165",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

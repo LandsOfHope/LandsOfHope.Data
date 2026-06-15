@@ -4,6 +4,9 @@
 	"dpr": 140,
 	"id": "exquisite-torment",
 	"image": "6624",
+	"level": {
+		"min": 1000
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1,

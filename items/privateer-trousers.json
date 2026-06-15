@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "privateer-trousers",
 	"image": "5219",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1

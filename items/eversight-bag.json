@@ -3,6 +3,9 @@
 	"baseValue": 721,
 	"id": "eversight-bag",
 	"image": "esb1",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"detect-hidden": 1

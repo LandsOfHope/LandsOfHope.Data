@@ -4,6 +4,9 @@
 	"baseValue": 441,
 	"id": "rusty-mask",
 	"image": "zuruma",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

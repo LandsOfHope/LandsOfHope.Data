@@ -4,6 +4,9 @@
 	"dpr": 59,
 	"id": "icy-potion",
 	"image": "pe5",
+	"level": {
+		"min": 575
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

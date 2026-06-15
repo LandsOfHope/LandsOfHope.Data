@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "kings-shield",
 	"image": "sd2",
+	"level": {
+		"min": 5
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

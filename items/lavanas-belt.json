@@ -4,6 +4,9 @@
 	"baseValue": 50,
 	"id": "lavanas-belt",
 	"image": "gmlabe",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

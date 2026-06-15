@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "mystic-eye",
 	"image": "ob",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"mana-draining": 1

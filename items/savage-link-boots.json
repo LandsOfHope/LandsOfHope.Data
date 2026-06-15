@@ -4,6 +4,9 @@
 	"baseValue": 5612,
 	"id": "savage-link-boots",
 	"image": "2604",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 3521,
 	"id": "trackers-headgear",
 	"image": "2932",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

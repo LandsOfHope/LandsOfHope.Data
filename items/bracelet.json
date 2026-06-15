@@ -3,6 +3,9 @@
 	"baseValue": 21,
 	"id": "bracelet",
 	"image": "bt1",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

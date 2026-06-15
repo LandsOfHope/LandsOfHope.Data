@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "battle-stake",
 	"image": "sed",
+	"level": {
+		"min": 5
+	},
 	"material": "wood",
 	"skill": "staves",
 	"skills": {

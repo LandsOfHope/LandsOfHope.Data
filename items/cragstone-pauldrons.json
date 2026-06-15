@@ -6,6 +6,9 @@
 	"id": "cragstone-pauldrons",
 	"image": "4724",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1,

@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-shield",
 	"image": "sd5",
+	"level": {
+		"min": 300
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

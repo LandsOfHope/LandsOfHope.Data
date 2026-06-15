@@ -3,6 +3,9 @@
 	"baseValue": 45,
 	"id": "fast-medium-golem-mk-ii",
 	"image": "2938",
+	"level": {
+		"min": 275
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "golem"

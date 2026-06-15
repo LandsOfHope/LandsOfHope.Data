@@ -4,6 +4,9 @@
 	"baseValue": 431,
 	"id": "holy-gauntlets",
 	"image": "gmhoga",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

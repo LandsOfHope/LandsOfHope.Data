@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "pale-ivory-paper",
 	"image": "ppaleivory",
+	"level": {
+		"min": 525
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

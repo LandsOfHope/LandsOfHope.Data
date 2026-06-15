@@ -1,0 +1,12 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 20,
+	"id": "clay",
+	"image": "dri",
+	"level": {
+		"min": 1
+	},
+	"material": "hide",
+	"stackLimit": 1,
+	"type": "quest-item"
+}

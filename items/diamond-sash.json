@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "diamond-sash",
 	"image": "5857",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "diamond-flight",
 	"stackLimit": 1,

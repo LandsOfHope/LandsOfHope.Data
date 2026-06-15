@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "a-celestial-key",
 	"image": "ky2",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "celestial-magic",
 	"stackLimit": 1,

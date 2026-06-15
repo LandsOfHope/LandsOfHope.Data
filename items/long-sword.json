@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "long-sword",
 	"image": "ls2",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

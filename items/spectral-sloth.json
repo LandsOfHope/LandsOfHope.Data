@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "spectral-sloth",
 	"image": "6778",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

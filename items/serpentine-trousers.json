@@ -4,6 +4,9 @@
 	"baseValue": 403,
 	"id": "serpentine-trousers",
 	"image": "2099",
+	"level": {
+		"min": 55
+	},
 	"material": "snake",
 	"properties": {
 		"DEXTERITY": 1

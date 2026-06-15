@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "firebelly-chili-rolls",
 	"image": "302",
+	"level": {
+		"min": 500
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

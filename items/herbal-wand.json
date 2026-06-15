@@ -4,6 +4,9 @@
 	"dpr": 39,
 	"id": "herbal-wand",
 	"image": "wand06",
+	"level": {
+		"min": 376
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

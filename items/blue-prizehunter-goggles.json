@@ -3,6 +3,9 @@
 	"baseValue": 6000,
 	"id": "blue-prizehunter-goggles",
 	"image": "6253",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

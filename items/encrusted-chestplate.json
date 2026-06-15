@@ -4,6 +4,9 @@
 	"baseValue": 1629,
 	"id": "encrusted-chestplate",
 	"image": "727",
+	"level": {
+		"min": 230
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

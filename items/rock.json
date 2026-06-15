@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "rock",
 	"image": "rck",
+	"level": {
+		"min": 15
+	},
 	"material": "stone",
 	"skill": "thrown-weapons",
 	"skills": {

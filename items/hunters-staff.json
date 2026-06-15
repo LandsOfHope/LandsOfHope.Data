@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "hunters-staff",
 	"image": "st1",
+	"level": {
+		"min": 200
+	},
 	"material": "wood",
 	"skill": "staves",
 	"skills": {

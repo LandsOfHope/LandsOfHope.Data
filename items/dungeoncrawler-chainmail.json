@@ -4,6 +4,9 @@
 	"baseValue": 2464,
 	"id": "dungeoncrawler-chainmail",
 	"image": "cv9",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

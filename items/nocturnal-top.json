@@ -4,6 +4,9 @@
 	"baseValue": 709,
 	"id": "nocturnal-top",
 	"image": "6751",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

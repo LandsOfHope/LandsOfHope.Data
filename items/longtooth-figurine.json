@@ -3,6 +3,9 @@
 	"baseValue": 8000,
 	"id": "longtooth-figurine",
 	"image": "relic8",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

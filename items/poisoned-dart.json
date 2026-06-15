@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "poisoned-dart",
 	"image": "drt",
+	"level": {
+		"min": 46
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

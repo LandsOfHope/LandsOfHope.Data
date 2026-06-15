@@ -3,6 +3,9 @@
 	"baseValue": 136,
 	"id": "average-ice-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 270
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

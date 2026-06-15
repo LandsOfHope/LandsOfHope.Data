@@ -4,6 +4,9 @@
 	"baseValue": 1356,
 	"id": "truestitched-bracers",
 	"image": "4458",
+	"level": {
+		"min": 190
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

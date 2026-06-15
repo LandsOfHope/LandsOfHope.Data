@@ -3,6 +3,9 @@
 	"baseValue": 101,
 	"id": "bread-roll",
 	"image": "bd3",
+	"level": {
+		"min": 200
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

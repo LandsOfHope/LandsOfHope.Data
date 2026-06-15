@@ -4,6 +4,9 @@
 	"baseValue": 6667,
 	"id": "royal-gloves",
 	"image": "3134",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-recruits-legchain",
 	"image": "3737",
+	"level": {
+		"min": 11
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

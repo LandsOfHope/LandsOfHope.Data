@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "magic-carpet",
 	"image": "6554",
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"skills": {
 		"air-magic": 1,

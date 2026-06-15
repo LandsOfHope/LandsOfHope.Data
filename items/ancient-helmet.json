@@ -5,6 +5,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-helmet",
 	"image": "6474",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "head-armour"

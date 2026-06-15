@@ -4,6 +4,9 @@
 	"baseValue": 433,
 	"id": "linkmail-chest",
 	"image": "132",
+	"level": {
+		"min": 140
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

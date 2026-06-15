@@ -6,6 +6,9 @@
 	"id": "freebreeze-shoes",
 	"image": "4687",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1,

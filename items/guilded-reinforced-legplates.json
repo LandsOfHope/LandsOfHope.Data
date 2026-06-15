@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-reinforced-legplates",
 	"image": "3656",
+	"level": {
+		"min": 510
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

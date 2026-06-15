@@ -4,6 +4,9 @@
 	"baseValue": 95,
 	"id": "depraved-legs",
 	"image": "1815",
+	"level": {
+		"min": 10
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

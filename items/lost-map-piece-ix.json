@@ -3,6 +3,9 @@
 	"baseValue": 16,
 	"id": "lost-map-piece-ix",
 	"image": "mp2",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "quest-item"

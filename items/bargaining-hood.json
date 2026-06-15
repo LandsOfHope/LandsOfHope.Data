@@ -4,6 +4,9 @@
 	"baseValue": 1548,
 	"id": "bargaining-hood",
 	"image": "bh",
+	"level": {
+		"min": 220
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1

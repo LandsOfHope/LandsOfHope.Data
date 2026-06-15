@@ -3,6 +3,9 @@
 	"baseValue": 3000,
 	"id": "wrists-of-the-glutton",
 	"image": "455",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

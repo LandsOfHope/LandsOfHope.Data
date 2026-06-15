@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "round-shield",
 	"image": "sd6",
+	"level": {
+		"min": 20
+	},
 	"material": "metal",
 	"skill": "shields",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-pleated-shoes",
 	"image": "3901",
+	"level": {
+		"min": 60
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "foot-armour"

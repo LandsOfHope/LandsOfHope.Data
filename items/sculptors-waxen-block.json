@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "sculptors-waxen-block",
 	"image": "3191",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

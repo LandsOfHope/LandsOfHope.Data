@@ -4,6 +4,9 @@
 	"baseValue": 6600,
 	"id": "youthful-cloak",
 	"image": "pclo11",
+	"level": {
+		"min": 930
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

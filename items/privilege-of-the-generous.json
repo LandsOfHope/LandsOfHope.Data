@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "privilege-of-the-generous",
 	"image": "6289",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,

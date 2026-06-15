@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "sucker",
 	"image": "was",
+	"level": {
+		"min": 65
+	},
 	"material": "hide",
 	"skill": "fists",
 	"skills": {

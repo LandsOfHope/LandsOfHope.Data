@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "dastardly-key-bag",
 	"image": "6518",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "key-chain"

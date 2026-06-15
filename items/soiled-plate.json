@@ -3,6 +3,9 @@
 	"baseValue": 160,
 	"id": "soiled-plate",
 	"image": "975",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

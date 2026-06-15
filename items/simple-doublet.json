@@ -4,6 +4,9 @@
 	"baseValue": 21,
 	"id": "simple-doublet",
 	"image": "3075",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

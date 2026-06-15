@@ -4,6 +4,9 @@
 	"dpr": 14,
 	"id": "charred-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 121
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

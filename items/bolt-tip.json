@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "bolt-tip",
 	"image": "feboti",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"HITPOINTS": 1

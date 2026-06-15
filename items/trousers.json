@@ -4,6 +4,9 @@
 	"baseValue": 34,
 	"id": "trousers",
 	"image": "14",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

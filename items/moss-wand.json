@@ -4,6 +4,9 @@
 	"dpr": 18,
 	"id": "moss-wand",
 	"image": "wand14",
+	"level": {
+		"min": 166
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

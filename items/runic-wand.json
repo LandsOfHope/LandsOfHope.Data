@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "runic-wand",
 	"image": "wand01",
+	"level": {
+		"min": 30
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 3523,
 	"id": "elegant-bracelet",
 	"image": "gmelbr",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

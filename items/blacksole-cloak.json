@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "blacksole-cloak",
 	"image": "cl10",
+	"level": {
+		"min": 215
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

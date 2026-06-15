@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "sabretooth-gloves",
 	"image": "5149",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

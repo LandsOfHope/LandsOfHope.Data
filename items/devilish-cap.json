@@ -4,6 +4,9 @@
 	"baseValue": 6670,
 	"id": "devilish-cap",
 	"image": "2924",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

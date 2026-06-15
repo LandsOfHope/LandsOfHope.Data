@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-headbreaker",
 	"image": "lsf",
+	"level": {
+		"min": 800
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

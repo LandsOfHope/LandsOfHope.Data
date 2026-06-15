@@ -3,6 +3,9 @@
 	"baseValue": 296,
 	"id": "mini-pbm",
 	"image": "7015",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1,
 	"type": "tile-claim"

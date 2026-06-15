@@ -4,6 +4,9 @@
 	"dpr": 77,
 	"id": "hailing-dart",
 	"image": "drt",
+	"level": {
+		"min": 751
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

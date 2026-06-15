@@ -4,6 +4,9 @@
 	"baseValue": 1415,
 	"id": "stary-boots",
 	"image": "3098",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

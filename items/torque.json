@@ -4,6 +4,9 @@
 	"baseValue": 407,
 	"id": "torque",
 	"image": "265",
+	"level": {
+		"min": 55
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

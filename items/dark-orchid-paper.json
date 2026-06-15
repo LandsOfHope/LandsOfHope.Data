@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "dark-orchid-paper",
 	"image": "pdarkorchid",
+	"level": {
+		"min": 735
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

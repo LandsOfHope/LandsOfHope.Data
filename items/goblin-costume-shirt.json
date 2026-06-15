@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "goblin-costume-shirt",
 	"image": "gosit",
+	"level": {
+		"min": 350
+	},
 	"material": "hide",
 	"set": "goblin-costume",
 	"skill": "artisan",

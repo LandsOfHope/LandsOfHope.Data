@@ -4,6 +4,9 @@
 	"dpr": 39,
 	"id": "herbal-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 376
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

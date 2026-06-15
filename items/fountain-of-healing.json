@@ -3,6 +3,9 @@
 	"baseValue": 2401,
 	"id": "fountain-of-healing",
 	"image": "foun",
+	"level": {
+		"min": 340
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

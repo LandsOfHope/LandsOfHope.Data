@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "treasure-clue-iv",
 	"image": "mp",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "treasure-clue"

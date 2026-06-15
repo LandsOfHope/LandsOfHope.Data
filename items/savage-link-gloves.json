@@ -4,6 +4,9 @@
 	"baseValue": 5622,
 	"id": "savage-link-gloves",
 	"image": "2637",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

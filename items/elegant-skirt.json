@@ -4,6 +4,9 @@
 	"baseValue": 1174,
 	"id": "elegant-skirt",
 	"image": "cskirt1",
+	"level": {
+		"min": 165
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

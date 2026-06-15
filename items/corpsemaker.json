@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "corpsemaker",
 	"image": "zucoma",
+	"level": {
+		"min": 30
+	},
 	"material": "gem",
 	"skill": "daggers",
 	"skills": {

@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "ladybird-boots",
 	"image": "5171",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

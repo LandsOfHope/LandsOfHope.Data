@@ -3,6 +3,9 @@
 	"baseValue": 2820,
 	"id": "tentacle-ring",
 	"image": "rgf",
+	"level": {
+		"min": 400
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

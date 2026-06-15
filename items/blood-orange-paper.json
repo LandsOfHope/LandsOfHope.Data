@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "blood-orange-paper",
 	"image": "pbloodorang",
+	"level": {
+		"min": 790
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

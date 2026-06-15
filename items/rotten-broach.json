@@ -3,6 +3,9 @@
 	"baseValue": 330,
 	"id": "rotten-broach",
 	"image": "rbh",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

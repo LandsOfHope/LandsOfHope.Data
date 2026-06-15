@@ -3,6 +3,9 @@
 	"baseValue": 853,
 	"id": "wayfarer-choker",
 	"image": "1991",
+	"level": {
+		"min": 120
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1

@@ -3,6 +3,9 @@
 	"baseValue": 464,
 	"id": "large-carving",
 	"image": "brk",
+	"level": {
+		"min": 65
+	},
 	"material": "wood",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "ooozie",
 	"image": "pl2",
+	"level": {
+		"min": 65
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

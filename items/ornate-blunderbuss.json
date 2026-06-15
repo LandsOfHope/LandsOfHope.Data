@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-blunderbuss",
 	"image": "re2",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skill": "two-handed-guns",
 	"skills": {

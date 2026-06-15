@@ -3,6 +3,9 @@
 	"baseValue": 120,
 	"id": "warbringers-cloak",
 	"image": "6889",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "neck-clothing"

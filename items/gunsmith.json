@@ -3,6 +3,9 @@
 	"baseValue": 5827,
 	"id": "gunsmith",
 	"image": "1077",
+	"level": {
+		"min": 830
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

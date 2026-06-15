@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "winter-elf-whistle",
 	"image": "zuwielwh",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "monster-spawner"

@@ -4,6 +4,9 @@
 	"dpr": 26,
 	"id": "searing-dart",
 	"image": "drt",
+	"level": {
+		"min": 241
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

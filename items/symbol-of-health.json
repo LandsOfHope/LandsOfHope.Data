@@ -4,6 +4,9 @@
 	"baseValue": 27,
 	"id": "symbol-of-health",
 	"image": "1900",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"HITPOINTS": 1,

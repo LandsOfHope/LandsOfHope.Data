@@ -4,6 +4,9 @@
 	"baseValue": 2819,
 	"id": "enblazened-gloves",
 	"image": "3130",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

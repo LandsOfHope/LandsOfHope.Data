@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "small-infamous-shield",
 	"image": "sd7",
+	"level": {
+		"min": 800
+	},
 	"material": "wood",
 	"skill": "shields",
 	"skills": {

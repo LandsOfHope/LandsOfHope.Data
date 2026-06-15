@@ -4,6 +4,9 @@
 	"dpr": 60,
 	"id": "stoning-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 586
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

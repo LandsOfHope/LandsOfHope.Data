@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "artifact-plan",
 	"image": "plan4",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "artifact-plan"

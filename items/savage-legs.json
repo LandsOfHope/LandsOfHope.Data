@@ -4,6 +4,9 @@
 	"baseValue": 5616,
 	"id": "savage-legs",
 	"image": "2263",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

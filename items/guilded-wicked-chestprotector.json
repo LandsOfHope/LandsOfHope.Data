@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-wicked-chestprotector",
 	"image": "3734",
+	"level": {
+		"min": 610
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

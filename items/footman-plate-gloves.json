@@ -4,6 +4,9 @@
 	"baseValue": 551,
 	"id": "footman-plate-gloves",
 	"image": "2366",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "hand-armour"

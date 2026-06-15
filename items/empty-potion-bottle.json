@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "empty-potion-bottle",
 	"image": "pe1",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

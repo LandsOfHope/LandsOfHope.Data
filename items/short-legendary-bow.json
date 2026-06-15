@@ -5,6 +5,9 @@
 	"id": "short-legendary-bow",
 	"image": "bw",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "wood",
 	"properties": {
 		"DEXTERITY": 1,

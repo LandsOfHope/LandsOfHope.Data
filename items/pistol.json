@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "pistol",
 	"image": "pl1",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

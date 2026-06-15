@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "sugar",
 	"image": "sr1",
+	"level": {
+		"min": 1
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

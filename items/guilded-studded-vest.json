@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-studded-vest",
 	"image": "3806",
+	"level": {
+		"min": 110
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

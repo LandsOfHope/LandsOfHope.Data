@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "ancient-halberd",
 	"image": "ahd",
+	"level": {
+		"min": 15
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

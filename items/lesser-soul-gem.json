@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "lesser-soul-gem",
 	"image": "sg1",
+	"level": {
+		"min": 1
+	},
 	"material": "creatures",
 	"skills": {
 		"mana-regen": 3

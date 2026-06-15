@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "joes-map-piece-ii",
 	"image": "mp2",
+	"level": {
+		"min": 1
+	},
 	"material": "color",
 	"stackLimit": 1,
 	"type": "pirate-puzzle"

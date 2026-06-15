@@ -4,6 +4,9 @@
 	"baseValue": 311,
 	"id": "arcanum-armor",
 	"image": "arc2",
+	"level": {
+		"min": 41
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

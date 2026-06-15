@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "emerald-sash",
 	"image": "5856",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "emerald-flight",
 	"stackLimit": 1,

@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "mint-blue-paper",
 	"image": "pmintblue",
+	"level": {
+		"min": 285
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "explosive-component"

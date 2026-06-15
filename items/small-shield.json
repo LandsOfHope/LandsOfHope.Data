@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "small-shield",
 	"image": "sd7",
+	"level": {
+		"min": 5
+	},
 	"material": "wood",
 	"properties": {
 		"MAXHITPOINTS": 1

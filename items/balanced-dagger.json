@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "balanced-dagger",
 	"image": "dg",
+	"level": {
+		"min": 5
+	},
 	"material": "stone",
 	"properties": {
 		"MAXSTAMINA": 1

@@ -4,6 +4,9 @@
 	"baseValue": 6661,
 	"id": "royal-feetwarmers",
 	"image": "3114",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

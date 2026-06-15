@@ -3,6 +3,9 @@
 	"baseValue": 41,
 	"id": "stoneskin-potion",
 	"image": "pe8",
+	"level": {
+		"min": 80
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

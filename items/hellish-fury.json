@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "hellish-fury",
 	"image": "ft3",
+	"level": {
+		"min": 85
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

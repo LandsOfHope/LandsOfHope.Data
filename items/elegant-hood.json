@@ -4,6 +4,9 @@
 	"baseValue": 158,
 	"id": "elegant-hood",
 	"image": "1844",
+	"level": {
+		"min": 20
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1,

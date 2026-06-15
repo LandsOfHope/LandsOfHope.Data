@@ -4,6 +4,9 @@
 	"baseValue": 535,
 	"id": "footman-breastplate",
 	"image": "2289",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 721,
 	"id": "vengeful-backpack",
 	"image": "5954",
+	"level": {
+		"min": 5
+	},
 	"material": "cloth",
 	"skills": {
 		"stealth": 1

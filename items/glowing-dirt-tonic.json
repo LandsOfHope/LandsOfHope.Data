@@ -3,6 +3,9 @@
 	"baseValue": 401,
 	"id": "glowing-dirt-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 800
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

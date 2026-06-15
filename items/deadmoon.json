@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "deadmoon",
 	"image": "zudeam",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

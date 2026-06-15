@@ -4,6 +4,9 @@
 	"baseValue": 2052,
 	"id": "molded-boots",
 	"image": "4417",
+	"level": {
+		"min": 290
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

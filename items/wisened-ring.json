@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "wisened-ring",
 	"image": "gmwiri",
+	"level": {
+		"min": 5
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

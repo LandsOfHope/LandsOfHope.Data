@@ -4,6 +4,9 @@
 	"dpr": 86,
 	"id": "flooding-bullet",
 	"image": "zuflbu",
+	"level": {
+		"min": 841
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

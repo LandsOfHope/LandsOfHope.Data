@@ -3,6 +3,9 @@
 	"baseValue": 1899,
 	"id": "cross-of-sanctity",
 	"image": "zucos",
+	"level": {
+		"min": 270
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

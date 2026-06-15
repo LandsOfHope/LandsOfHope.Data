@@ -3,6 +3,9 @@
 	"baseValue": 27,
 	"id": "captain-neomis-chest",
 	"image": "sc1",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "quest-item"

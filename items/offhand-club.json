@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "offhand-club",
 	"image": "ohc",
+	"level": {
+		"min": 20
+	},
 	"material": "wood",
 	"skill": "maces",
 	"skills": {

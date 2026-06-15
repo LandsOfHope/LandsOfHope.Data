@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "5year-gift-plant",
 	"image": "6879",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "anniversary-gift"
 }

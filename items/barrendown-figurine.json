@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "barrendown-figurine",
 	"image": "relic1",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1,

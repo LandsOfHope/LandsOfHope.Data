@@ -4,6 +4,9 @@
 	"baseValue": 467,
 	"id": "dwarven-helmet",
 	"image": "486",
+	"level": {
+		"min": 65
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

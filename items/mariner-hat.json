@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "mariner-hat",
 	"image": "5271",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 1619,
 	"id": "truestitched-chestplate",
 	"image": "4460",
+	"level": {
+		"min": 230
+	},
 	"material": "hide",
 	"properties": {
 		"SPEED": 1

@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "round-infamous-shield",
 	"image": "sd6",
+	"level": {
+		"min": 800
+	},
 	"material": "wood",
 	"skill": "shields",
 	"skills": {

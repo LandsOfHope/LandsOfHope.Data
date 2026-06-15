@@ -4,6 +4,9 @@
 	"baseValue": 5621,
 	"id": "regal-shoulder-pads",
 	"image": "3263",
+	"level": {
+		"min": 800
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

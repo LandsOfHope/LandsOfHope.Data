@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-savage-legplates",
 	"image": "3658",
+	"level": {
+		"min": 810
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

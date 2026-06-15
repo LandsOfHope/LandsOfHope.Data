@@ -4,6 +4,9 @@
 	"baseValue": 20,
 	"id": "crown-of-blood",
 	"image": "zucrbl",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

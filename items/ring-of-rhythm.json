@@ -3,6 +3,9 @@
 	"baseValue": 1911,
 	"id": "ring-of-rhythm",
 	"image": "torirh",
+	"level": {
+		"min": 270
+	},
 	"material": "gem",
 	"skills": {
 		"instruments": 1,

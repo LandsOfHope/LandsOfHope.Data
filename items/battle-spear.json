@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "battle-spear",
 	"image": "acs",
+	"level": {
+		"min": 20
+	},
 	"material": "wood",
 	"properties": {
 		"MAXSTAMINA": 1

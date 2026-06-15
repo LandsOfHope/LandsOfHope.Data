@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "old-relic-storage",
 	"image": "6566",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "relic-trigger"

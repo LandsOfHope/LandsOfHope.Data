@@ -3,6 +3,9 @@
 	"baseValue": 34,
 	"id": "fake-library-book-plan",
 	"image": "1859",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "plan-or-spell-or-style-i"

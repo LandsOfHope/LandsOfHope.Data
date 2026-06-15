@@ -4,6 +4,9 @@
 	"dpr": 45,
 	"id": "blazing-dart",
 	"image": "drt",
+	"level": {
+		"min": 436
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

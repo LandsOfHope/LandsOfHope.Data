@@ -4,6 +4,9 @@
 	"baseValue": 539,
 	"id": "dungeoncrawler-helmet",
 	"image": "cvh",
+	"level": {
+		"min": 80
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

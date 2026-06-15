@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "joke",
 	"image": "3193",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "joke"

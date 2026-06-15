@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "well-wishes-flower-arrangement",
 	"image": "5804",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

@@ -4,6 +4,9 @@
 	"dpr": 65,
 	"id": "frozen-wand",
 	"image": "wand15",
+	"level": {
+		"min": 631
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

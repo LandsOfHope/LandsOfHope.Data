@@ -3,6 +3,9 @@
 	"baseValue": 220,
 	"id": "reeking-pile-of-bones",
 	"image": "rpb",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

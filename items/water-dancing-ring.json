@@ -3,6 +3,9 @@
 	"baseValue": 2645,
 	"id": "water-dancing-ring",
 	"image": "rgf",
+	"level": {
+		"min": 375
+	},
 	"material": "gem",
 	"skills": {
 		"water-survival": 1

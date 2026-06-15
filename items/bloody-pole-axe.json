@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "bloody-pole-axe",
 	"image": "ahd",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

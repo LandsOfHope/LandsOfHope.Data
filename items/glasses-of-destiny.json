@@ -4,6 +4,9 @@
 	"baseValue": 29,
 	"id": "glasses-of-destiny",
 	"image": "5734",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

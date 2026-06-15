@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "mallet",
 	"image": "569",
+	"level": {
+		"min": 25
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

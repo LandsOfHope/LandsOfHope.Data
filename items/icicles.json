@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "icicles",
 	"image": "zuicie",
+	"level": {
+		"min": 45
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

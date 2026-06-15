@@ -3,6 +3,9 @@
 	"baseValue": 1061,
 	"id": "arcane-robe",
 	"image": "rb3",
+	"level": {
+		"min": 150
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

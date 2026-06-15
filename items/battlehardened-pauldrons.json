@@ -4,6 +4,9 @@
 	"baseValue": 2824,
 	"id": "battlehardened-pauldrons",
 	"image": "2480",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

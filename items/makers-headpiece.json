@@ -4,6 +4,9 @@
 	"id": "makers-headpiece",
 	"image": "6395",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"set": "makers-set",
 	"skill": "artisan",

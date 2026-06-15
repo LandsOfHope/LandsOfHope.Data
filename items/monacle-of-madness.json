@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "monacle-of-madness",
 	"image": "zumoma",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"debuff-resistance": 1,

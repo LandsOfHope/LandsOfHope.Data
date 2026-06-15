@@ -3,6 +3,9 @@
 	"baseValue": 60,
 	"id": "strong-large-golem-mk-i",
 	"image": "2948",
+	"level": {
+		"min": 425
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "golem"

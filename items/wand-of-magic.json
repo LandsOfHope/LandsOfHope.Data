@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "wand-of-magic",
 	"image": "wand02",
+	"level": {
+		"min": 55
+	},
 	"material": "wood",
 	"properties": {
 		"MAXMANA": 1,

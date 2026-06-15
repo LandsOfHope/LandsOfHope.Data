@@ -3,6 +3,9 @@
 	"baseValue": 337,
 	"id": "parrot-post",
 	"image": "uwpp",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "pirate-post"

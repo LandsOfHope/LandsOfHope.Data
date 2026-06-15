@@ -4,6 +4,9 @@
 	"dpr": 50,
 	"id": "freezing-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 481
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 123,
 	"id": "whitecap-burial-crown",
 	"image": "5017",
+	"level": {
+		"min": 710
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

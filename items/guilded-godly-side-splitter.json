@@ -4,6 +4,9 @@
 	"dpr": 98,
 	"id": "guilded-godly-side-splitter",
 	"image": "dg",
+	"level": {
+		"min": 960
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

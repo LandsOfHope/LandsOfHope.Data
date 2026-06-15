@@ -4,6 +4,9 @@
 	"baseValue": 4400,
 	"id": "crisp-hat",
 	"image": "what4",
+	"level": {
+		"min": 610
+	},
 	"material": "cloth",
 	"properties": {
 		"SPEED": 1

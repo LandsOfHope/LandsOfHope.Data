@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ashen-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 301
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

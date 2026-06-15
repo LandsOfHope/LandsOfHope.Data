@@ -3,6 +3,9 @@
 	"baseValue": 451,
 	"id": "dark-purple-potion",
 	"image": "pdp",
+	"level": {
+		"min": 900
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 3.5,

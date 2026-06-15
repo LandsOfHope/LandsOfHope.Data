@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "lighter-than-air-cookies",
 	"image": "c2k",
+	"level": {
+		"min": 150
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

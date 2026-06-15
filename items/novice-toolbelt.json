@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "novice-toolbelt",
 	"image": "anbet",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"skill": "artisan",
 	"stackLimit": 1,

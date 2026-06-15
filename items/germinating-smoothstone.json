@@ -4,6 +4,9 @@
 	"dpr": 38,
 	"id": "germinating-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 361
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

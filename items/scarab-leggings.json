@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "scarab-leggings",
 	"image": "5176",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

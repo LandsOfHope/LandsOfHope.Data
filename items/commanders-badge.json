@@ -3,6 +3,9 @@
 	"baseValue": 6663,
 	"id": "commanders-badge",
 	"image": "6558",
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

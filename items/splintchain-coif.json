@@ -4,6 +4,9 @@
 	"baseValue": 5800,
 	"id": "splintchain-coif",
 	"image": "ccs",
+	"level": {
+		"min": 930
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

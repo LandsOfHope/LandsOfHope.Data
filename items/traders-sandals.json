@@ -4,6 +4,9 @@
 	"baseValue": 726,
 	"id": "traders-sandals",
 	"image": "sds",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

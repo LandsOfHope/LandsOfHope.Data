@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "young-raptor-patch",
 	"image": "gmyorapa",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

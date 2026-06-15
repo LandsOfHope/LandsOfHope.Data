@@ -4,6 +4,9 @@
 	"dpr": 48,
 	"id": "verdant-bullet",
 	"image": "zuvebu",
+	"level": {
+		"min": 466
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

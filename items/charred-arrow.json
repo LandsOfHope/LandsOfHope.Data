@@ -4,6 +4,9 @@
 	"dpr": 18,
 	"id": "charred-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 166
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

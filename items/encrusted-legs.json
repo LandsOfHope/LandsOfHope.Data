@@ -4,6 +4,9 @@
 	"baseValue": 432,
 	"id": "encrusted-legs",
 	"image": "724",
+	"level": {
+		"min": 60
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

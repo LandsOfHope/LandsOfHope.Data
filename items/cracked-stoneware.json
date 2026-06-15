@@ -3,6 +3,9 @@
 	"baseValue": 320,
 	"id": "cracked-stoneware",
 	"image": "csa",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

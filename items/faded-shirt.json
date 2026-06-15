@@ -4,6 +4,9 @@
 	"baseValue": 3900,
 	"id": "faded-shirt",
 	"image": "pshi10",
+	"level": {
+		"min": 550
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1

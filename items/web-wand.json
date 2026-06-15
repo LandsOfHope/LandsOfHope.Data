@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "web-wand",
 	"image": "wand15",
+	"level": {
+		"min": 31
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

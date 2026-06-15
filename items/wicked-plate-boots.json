@@ -4,6 +4,9 @@
 	"baseValue": 4224,
 	"id": "wicked-plate-boots",
 	"image": "2317",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

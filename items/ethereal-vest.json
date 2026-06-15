@@ -4,6 +4,9 @@
 	"baseValue": 3512,
 	"id": "ethereal-vest",
 	"image": "3091",
+	"level": {
+		"min": 500
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

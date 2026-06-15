@@ -3,6 +3,9 @@
 	"baseValue": 200,
 	"id": "fury-augment",
 	"image": "6872",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"frenzy": 1

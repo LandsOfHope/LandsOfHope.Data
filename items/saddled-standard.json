@@ -3,6 +3,9 @@
 	"baseValue": 23,
 	"id": "saddled-standard",
 	"image": "zsgc9",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"HITPOINTS": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 21,
 	"id": "biscuit",
 	"image": "bis",
+	"level": {
+		"min": 40
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 1

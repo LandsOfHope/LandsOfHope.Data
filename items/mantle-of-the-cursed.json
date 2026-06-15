@@ -4,6 +4,9 @@
 	"baseValue": 16,
 	"id": "mantle-of-the-cursed",
 	"image": "zumacu",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1,

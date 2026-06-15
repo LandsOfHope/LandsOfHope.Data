@@ -4,6 +4,9 @@
 	"dpr": 30,
 	"id": "dirty-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 286
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

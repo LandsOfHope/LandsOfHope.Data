@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "gloombringer",
 	"image": "ft3",
+	"level": {
+		"min": 80
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

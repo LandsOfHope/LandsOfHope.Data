@@ -3,6 +3,9 @@
 	"baseValue": 280,
 	"id": "weathered-tablet",
 	"image": "gmweta",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

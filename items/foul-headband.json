@@ -4,6 +4,9 @@
 	"baseValue": 2824,
 	"id": "foul-headband",
 	"image": "1807",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

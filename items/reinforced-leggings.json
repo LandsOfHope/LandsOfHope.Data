@@ -4,6 +4,9 @@
 	"baseValue": 3516,
 	"id": "reinforced-leggings",
 	"image": "2525",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 13,
 	"id": "large-bed",
 	"image": "bed1",
+	"level": {
+		"min": 25
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "bed"

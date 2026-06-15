@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "blackhearts-sash",
 	"image": "lban2",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

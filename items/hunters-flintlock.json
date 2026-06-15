@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "hunters-flintlock",
 	"image": "pl1",
+	"level": {
+		"min": 200
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

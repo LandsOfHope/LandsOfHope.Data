@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "recoil-spring",
 	"image": "796",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "siege-weapons",
 	"stackLimit": 1000,

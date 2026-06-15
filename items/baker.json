@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "baker",
 	"image": "zubare",
+	"level": {
+		"min": 60
+	},
 	"material": "vegetable",
 	"properties": {
 		"HITPOINTS": 1

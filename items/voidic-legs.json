@@ -4,6 +4,9 @@
 	"baseValue": 529,
 	"id": "voidic-legs",
 	"image": "gmxlegv1",
+	"level": {
+		"min": 72
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "spiked-hammer",
 	"image": "shr",
+	"level": {
+		"min": 80
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

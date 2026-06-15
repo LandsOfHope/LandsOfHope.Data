@@ -3,6 +3,9 @@
 	"baseValue": 9,
 	"id": "crafters-headband",
 	"image": "zuhoh",
+	"level": {
+		"min": 550
+	},
 	"material": "cloth",
 	"skill": "artisan",
 	"stackLimit": 1,

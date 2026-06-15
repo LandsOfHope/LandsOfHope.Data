@@ -4,6 +4,9 @@
 	"expansion": "jurassic-wars",
 	"id": "bloodfunnel",
 	"image": "musr26",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "jurassic-resource"
 }

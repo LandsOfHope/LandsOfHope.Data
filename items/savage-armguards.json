@@ -4,6 +4,9 @@
 	"baseValue": 5608,
 	"id": "savage-armguards",
 	"image": "2472",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

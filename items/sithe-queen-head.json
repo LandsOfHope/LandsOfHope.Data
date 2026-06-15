@@ -3,6 +3,9 @@
 	"baseValue": 24,
 	"id": "sithe-queen-head",
 	"image": "na",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "quest-item"

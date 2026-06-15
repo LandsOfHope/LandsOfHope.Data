@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "long-handle",
 	"image": "feloha",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "new-crafting-resource"

@@ -4,6 +4,9 @@
 	"baseValue": 5620,
 	"id": "darkness-shoulder-guards",
 	"image": "3033",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

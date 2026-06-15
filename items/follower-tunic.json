@@ -4,6 +4,9 @@
 	"baseValue": 710,
 	"id": "follower-tunic",
 	"image": "3037",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

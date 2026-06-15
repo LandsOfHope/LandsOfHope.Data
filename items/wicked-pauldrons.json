@@ -4,6 +4,9 @@
 	"baseValue": 4226,
 	"id": "wicked-pauldrons",
 	"image": "2482",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

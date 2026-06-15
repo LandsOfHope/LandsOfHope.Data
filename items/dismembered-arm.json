@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "dismembered-arm",
 	"image": "arm",
+	"level": {
+		"min": 30
+	},
 	"material": "hide",
 	"skill": "two-handed-maces",
 	"skills": {

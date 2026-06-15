@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "pliers",
 	"image": "pls",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "blacksmithing",
 	"skills": {

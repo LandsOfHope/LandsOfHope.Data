@@ -4,6 +4,9 @@
 	"baseValue": 723,
 	"id": "ravaged-legplates",
 	"image": "gmxleg2",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

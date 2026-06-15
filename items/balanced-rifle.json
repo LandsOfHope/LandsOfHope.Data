@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "balanced-rifle",
 	"image": "re4",
+	"level": {
+		"min": 10
+	},
 	"material": "stone",
 	"properties": {
 		"MAXSTAMINA": 1

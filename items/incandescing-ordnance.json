@@ -4,6 +4,9 @@
 	"dpr": 97,
 	"id": "incandescing-ordnance",
 	"image": "ss6",
+	"level": {
+		"min": 950
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

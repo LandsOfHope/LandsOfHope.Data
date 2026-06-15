@@ -4,6 +4,9 @@
 	"baseValue": 4600,
 	"id": "joined-sleeves",
 	"image": "css",
+	"level": {
+		"min": 750
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

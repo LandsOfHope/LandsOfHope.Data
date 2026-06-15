@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "flaming-potion",
 	"image": "pf1",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "pet-weapon-box",
 	"image": "6485",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "pet-weapon-box"

@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "small-mace",
 	"image": "bm",
+	"level": {
+		"min": 5
+	},
 	"material": "metal",
 	"skill": "maces",
 	"skills": {

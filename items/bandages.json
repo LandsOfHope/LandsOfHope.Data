@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "bandages",
 	"image": "be1",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1000,
 	"type": "healing-resource"

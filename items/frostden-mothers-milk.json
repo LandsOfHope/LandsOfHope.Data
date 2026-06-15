@@ -3,6 +3,9 @@
 	"baseValue": 111,
 	"id": "frostden-mothers-milk",
 	"image": "5009",
+	"level": {
+		"min": 680
+	},
 	"material": "crop",
 	"stackLimit": 1,
 	"type": "monster-spawner"

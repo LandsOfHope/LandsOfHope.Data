@@ -4,6 +4,9 @@
 	"baseValue": 360,
 	"id": "necklace",
 	"image": "ann",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

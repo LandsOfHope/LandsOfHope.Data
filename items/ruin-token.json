@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "ruin-token",
 	"image": "6790",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

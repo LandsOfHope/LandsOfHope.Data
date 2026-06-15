@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "sharpened-dragon-claw",
 	"image": "dg4",
+	"level": {
+		"min": 15
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1

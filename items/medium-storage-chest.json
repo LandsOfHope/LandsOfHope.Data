@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "medium-storage-chest",
 	"image": "zumestch",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "storage-box"

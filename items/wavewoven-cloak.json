@@ -4,6 +4,9 @@
 	"baseValue": 306,
 	"id": "wavewoven-cloak",
 	"image": "zuwacl",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"arcane-resistance": 1,

@@ -4,6 +4,9 @@
 	"expansion": "uncharted-waters",
 	"id": "box-of-shoes",
 	"image": "gmbosh",
+	"level": {
+		"min": 1
+	},
 	"material": "color",
 	"stackLimit": 1000,
 	"type": "quest-item"

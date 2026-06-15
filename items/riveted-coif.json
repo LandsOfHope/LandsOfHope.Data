@@ -4,6 +4,9 @@
 	"baseValue": 3200,
 	"id": "riveted-coif",
 	"image": "ccs",
+	"level": {
+		"min": 530
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

@@ -3,6 +3,9 @@
 	"baseValue": 306,
 	"id": "time-worn-mask",
 	"image": "zutima",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1

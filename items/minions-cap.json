@@ -4,6 +4,9 @@
 	"baseValue": 4000,
 	"id": "minions-cap",
 	"image": "5921",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

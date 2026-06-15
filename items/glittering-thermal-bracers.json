@@ -4,6 +4,9 @@
 	"baseValue": 502,
 	"id": "glittering-thermal-bracers",
 	"image": "bcs",
+	"level": {
+		"min": 70
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

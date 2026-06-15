@@ -4,6 +4,9 @@
 	"baseValue": 720,
 	"id": "follower-hat",
 	"image": "3157",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

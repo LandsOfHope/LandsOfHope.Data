@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "diseased-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 76
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 6673,
 	"id": "devilish-shoulders",
 	"image": "3012",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

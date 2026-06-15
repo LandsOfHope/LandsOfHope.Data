@@ -4,6 +4,9 @@
 	"baseValue": 471,
 	"id": "withered-hat",
 	"image": "1575",
+	"level": {
+		"min": 65
+	},
 	"material": "wood",
 	"properties": {
 		"MAXMANA": 1

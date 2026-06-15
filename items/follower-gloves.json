@@ -4,6 +4,9 @@
 	"baseValue": 725,
 	"id": "follower-gloves",
 	"image": "3127",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

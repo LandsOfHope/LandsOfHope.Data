@@ -4,6 +4,9 @@
 	"dpr": 46,
 	"id": "blazing-potion",
 	"image": "pe5",
+	"level": {
+		"min": 449
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

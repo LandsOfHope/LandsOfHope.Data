@@ -3,6 +3,9 @@
 	"baseValue": 17,
 	"id": "painting-by-leo-nodo",
 	"image": "zupabyle",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "stolen-item-hard"
 }

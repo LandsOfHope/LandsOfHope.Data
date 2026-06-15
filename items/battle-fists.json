@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-fists",
 	"image": "3517",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

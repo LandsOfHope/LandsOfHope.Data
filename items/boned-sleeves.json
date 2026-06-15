@@ -4,6 +4,9 @@
 	"baseValue": 49,
 	"id": "boned-sleeves",
 	"image": "513",
+	"level": {
+		"min": 5
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

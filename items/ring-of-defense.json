@@ -3,6 +3,9 @@
 	"baseValue": 1131,
 	"id": "ring-of-defense",
 	"image": "rgf",
+	"level": {
+		"min": 160
+	},
 	"material": "gem",
 	"skills": {
 		"armor": 1

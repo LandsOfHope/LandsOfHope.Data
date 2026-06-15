@@ -4,6 +4,9 @@
 	"baseValue": 5610,
 	"id": "darkness-breeches",
 	"image": "2813",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

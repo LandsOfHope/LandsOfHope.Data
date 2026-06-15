@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "barbed-fist",
 	"image": "ft5",
+	"level": {
+		"min": 15
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

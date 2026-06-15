@@ -4,6 +4,9 @@
 	"dpr": 60,
 	"id": "stoning-wand",
 	"image": "wand09",
+	"level": {
+		"min": 586
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

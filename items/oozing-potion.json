@@ -4,6 +4,9 @@
 	"dpr": 18,
 	"id": "oozing-potion",
 	"image": "pe5",
+	"level": {
+		"min": 169
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

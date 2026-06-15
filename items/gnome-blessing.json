@@ -4,6 +4,9 @@
 	"baseValue": 19,
 	"id": "gnome-blessing",
 	"image": "6273",
+	"level": {
+		"min": 1000
+	},
 	"material": "stone",
 	"skills": {
 		"acid-resistance": 1,

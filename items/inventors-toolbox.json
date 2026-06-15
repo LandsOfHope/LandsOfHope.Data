@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "inventors-toolbox",
 	"image": "6890",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skill": "augmenting",
 	"skills": {

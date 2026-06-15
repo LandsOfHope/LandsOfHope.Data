@@ -4,6 +4,9 @@
 	"dpr": 54,
 	"id": "shaking-bullet",
 	"image": "zushbu1",
+	"level": {
+		"min": 526
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

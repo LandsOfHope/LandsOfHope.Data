@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "sabretooth-shoulders",
 	"image": "shp",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

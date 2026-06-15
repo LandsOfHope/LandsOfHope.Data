@@ -3,6 +3,9 @@
 	"baseValue": 50,
 	"id": "mcdoons-goggles",
 	"image": "6077",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

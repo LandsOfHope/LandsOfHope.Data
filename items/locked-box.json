@@ -3,6 +3,9 @@
 	"baseValue": 27,
 	"id": "locked-box",
 	"image": "bx",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "world-lockpick-spawn"

@@ -4,6 +4,9 @@
 	"baseValue": 541,
 	"id": "strung-leggings",
 	"image": "2795",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "leg-armour"

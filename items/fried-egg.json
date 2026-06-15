@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "fried-egg",
 	"image": "fre",
+	"level": {
+		"min": 1
+	},
 	"material": "bird",
 	"properties": {
 		"HITPOINTS": 1

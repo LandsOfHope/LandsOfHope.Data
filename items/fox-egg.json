@@ -3,6 +3,9 @@
 	"baseValue": 18,
 	"id": "fox-egg",
 	"image": "zufoeg",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"skill": "myzan-defenders",
 	"stackLimit": 1,

@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "black-rat-droppings",
 	"image": "5898",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "quest-marker"
 }

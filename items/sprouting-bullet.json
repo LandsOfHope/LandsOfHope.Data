@@ -4,6 +4,9 @@
 	"dpr": 33,
 	"id": "sprouting-bullet",
 	"image": "4152",
+	"level": {
+		"min": 316
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

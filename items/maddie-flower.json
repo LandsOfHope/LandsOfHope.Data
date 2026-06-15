@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "maddie-flower",
 	"image": "5786",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

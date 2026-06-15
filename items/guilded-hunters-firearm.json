@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "guilded-hunters-firearm",
 	"image": "pl1",
+	"level": {
+		"min": 210
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 69,
 	"id": "smoldering-bullet",
 	"image": "zusmbu",
+	"level": {
+		"min": 676
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

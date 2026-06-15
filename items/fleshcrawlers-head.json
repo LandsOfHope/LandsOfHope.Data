@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "fleshcrawlers-head",
 	"image": "4907",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "quest-item"

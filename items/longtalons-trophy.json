@@ -3,6 +3,9 @@
 	"baseValue": 300,
 	"id": "longtalons-trophy",
 	"image": "5698",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "boss-trophy"

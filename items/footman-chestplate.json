@@ -4,6 +4,9 @@
 	"baseValue": 537,
 	"id": "footman-chestplate",
 	"image": "2245",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "chest-armour"

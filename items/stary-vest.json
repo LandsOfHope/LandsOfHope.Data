@@ -4,6 +4,9 @@
 	"baseValue": 1419,
 	"id": "stary-vest",
 	"image": "3088",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 80,
 	"id": "nimble-gigantic-golem-mk-i",
 	"image": "2968",
+	"level": {
+		"min": 620
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "golem"

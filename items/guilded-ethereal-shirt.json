@@ -4,6 +4,9 @@
 	"baseValue": 0,
 	"id": "guilded-ethereal-shirt",
 	"image": "3896",
+	"level": {
+		"min": 510
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

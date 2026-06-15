@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "belt-loops",
 	"image": "5582",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

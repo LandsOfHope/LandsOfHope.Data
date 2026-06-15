@@ -3,6 +3,9 @@
 	"baseValue": 10000,
 	"id": "aura-of-nobility",
 	"image": "6899",
+	"level": {
+		"min": 1000
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1.5

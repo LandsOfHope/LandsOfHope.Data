@@ -4,6 +4,9 @@
 	"baseValue": 1,
 	"id": "frankensteins-skull",
 	"image": "6348",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

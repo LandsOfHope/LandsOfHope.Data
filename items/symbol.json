@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "symbol",
 	"image": "na",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1,
 	"type": "quest-item"

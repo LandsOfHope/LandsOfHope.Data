@@ -3,6 +3,9 @@
 	"baseValue": 6597,
 	"id": "butchery",
 	"image": "rl3",
+	"level": {
+		"min": 940
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "resource-harvester"

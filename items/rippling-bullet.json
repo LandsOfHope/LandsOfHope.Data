@@ -4,6 +4,9 @@
 	"dpr": 92,
 	"id": "rippling-bullet",
 	"image": "zuribu",
+	"level": {
+		"min": 901
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

@@ -4,6 +4,9 @@
 	"baseValue": 4223,
 	"id": "ghostly-braces",
 	"image": "2999",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

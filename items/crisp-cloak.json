@@ -4,6 +4,9 @@
 	"baseValue": 4500,
 	"id": "crisp-cloak",
 	"image": "pclo13",
+	"level": {
+		"min": 630
+	},
 	"material": "cloth",
 	"properties": {
 		"SPEED": 1

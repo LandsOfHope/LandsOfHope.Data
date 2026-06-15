@@ -4,6 +4,9 @@
 	"baseValue": 2569,
 	"id": "loopmail-vest",
 	"image": "cv1",
+	"level": {
+		"min": 390
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

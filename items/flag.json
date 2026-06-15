@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "flag",
 	"image": "fl3",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "fort-capture-flag"

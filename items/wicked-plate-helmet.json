@@ -4,6 +4,9 @@
 	"baseValue": 4222,
 	"id": "wicked-plate-helmet",
 	"image": "2405",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

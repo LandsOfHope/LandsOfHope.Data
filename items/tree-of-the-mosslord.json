@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "tree-of-the-mosslord",
 	"image": "2yri4",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "paintings"
 }

@@ -4,6 +4,9 @@
 	"baseValue": 2124,
 	"id": "adventurer-breeches",
 	"image": "2809",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 569,
 	"id": "choker",
 	"image": "chk",
+	"level": {
+		"min": 80
+	},
 	"material": "gem",
 	"skills": {
 		"appraisal": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 715,
 	"id": "ravaged-chain-gloves",
 	"image": "2620",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

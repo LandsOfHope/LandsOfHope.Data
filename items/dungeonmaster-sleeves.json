@@ -4,6 +4,9 @@
 	"baseValue": 365,
 	"id": "dungeonmaster-sleeves",
 	"image": "cvs",
+	"level": {
+		"min": 410
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

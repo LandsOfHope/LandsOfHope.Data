@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "a-dazzling-key",
 	"image": "6175",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "artisan",
 	"stackLimit": 1,

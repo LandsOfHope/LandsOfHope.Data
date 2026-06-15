@@ -3,6 +3,9 @@
 	"baseValue": 426,
 	"id": "glowing-acid-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 850
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

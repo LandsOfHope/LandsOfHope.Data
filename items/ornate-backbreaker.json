@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-backbreaker",
 	"image": "cb",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

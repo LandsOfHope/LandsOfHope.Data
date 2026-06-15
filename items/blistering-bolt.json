@@ -4,6 +4,9 @@
 	"dpr": 60,
 	"id": "blistering-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 586
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

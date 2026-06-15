@@ -4,6 +4,9 @@
 	"baseValue": 544,
 	"id": "strung-handwarmers",
 	"image": "2894",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "hand-armour"

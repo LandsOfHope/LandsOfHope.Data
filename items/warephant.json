@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "warephant",
 	"image": "6320",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

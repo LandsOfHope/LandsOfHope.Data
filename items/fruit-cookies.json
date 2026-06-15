@@ -3,6 +3,9 @@
 	"baseValue": 341,
 	"id": "fruit-cookies",
 	"image": "c1k",
+	"level": {
+		"min": 680
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 2

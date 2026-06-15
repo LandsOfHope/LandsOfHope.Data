@@ -4,6 +4,9 @@
 	"baseValue": 1058,
 	"id": "dungeonseeker-blouse",
 	"image": "4948",
+	"level": {
+		"min": 10
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

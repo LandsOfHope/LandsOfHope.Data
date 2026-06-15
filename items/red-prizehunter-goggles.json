@@ -3,6 +3,9 @@
 	"baseValue": 6000,
 	"id": "red-prizehunter-goggles",
 	"image": "6252",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

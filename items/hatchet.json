@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "hatchet",
 	"image": "ax7",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "lumberjacking",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-skewer",
 	"image": "sta",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

@@ -4,6 +4,9 @@
 	"baseValue": 5622,
 	"id": "darkness-armbraces",
 	"image": "2989",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

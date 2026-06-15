@@ -4,6 +4,9 @@
 	"baseValue": 5622,
 	"id": "darkness-cap",
 	"image": "2923",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

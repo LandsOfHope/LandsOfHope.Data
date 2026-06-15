@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "deadly-pistol",
 	"image": "pl1",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

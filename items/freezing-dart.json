@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "freezing-dart",
 	"image": "drt",
+	"level": {
+		"min": 511
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

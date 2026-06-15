@@ -3,6 +3,9 @@
 	"baseValue": 27,
 	"id": "gem-bag",
 	"image": "ba2",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "targeted-containers"

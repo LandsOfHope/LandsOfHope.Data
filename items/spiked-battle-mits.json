@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "spiked-battle-mits",
 	"image": "na",
+	"level": {
+		"min": 55
+	},
 	"material": "hide",
 	"skill": "fists",
 	"skills": {

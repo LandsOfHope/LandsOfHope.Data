@@ -3,6 +3,9 @@
 	"baseValue": 3481,
 	"id": "soiled-carving",
 	"image": "974",
+	"level": {
+		"min": 495
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

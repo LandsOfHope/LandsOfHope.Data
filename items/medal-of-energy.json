@@ -4,6 +4,9 @@
 	"baseValue": 21,
 	"id": "medal-of-energy",
 	"image": "1896",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"MANA": 1,

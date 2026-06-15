@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "chipped-battle-mace",
 	"image": "bm",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "maces",
 	"skills": {

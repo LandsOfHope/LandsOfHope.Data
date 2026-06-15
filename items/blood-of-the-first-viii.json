@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "blood-of-the-first-viii",
 	"image": "bod",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "quest-item"

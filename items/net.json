@@ -4,6 +4,9 @@
 	"dpr": 90,
 	"id": "net",
 	"image": "fin",
+	"level": {
+		"min": 900
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1

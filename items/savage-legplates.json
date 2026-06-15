@@ -4,6 +4,9 @@
 	"baseValue": 5621,
 	"id": "savage-legplates",
 	"image": "2285",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

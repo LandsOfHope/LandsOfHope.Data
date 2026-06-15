@@ -4,6 +4,9 @@
 	"baseValue": 30,
 	"id": "medal-of-health",
 	"image": "1902",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"HITPOINTS": 1,

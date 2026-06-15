@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "bloody-kidney",
 	"image": "6340",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "trophy"

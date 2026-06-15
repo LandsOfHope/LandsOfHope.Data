@@ -4,6 +4,9 @@
 	"baseValue": 1481,
 	"id": "dwarven-chestplate",
 	"image": "482",
+	"level": {
+		"min": 210
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 160,
 	"id": "gloves-of-improved-healing",
 	"image": "feglimhe",
+	"level": {
+		"min": 20
+	},
 	"material": "hide",
 	"skill": "healing-magic",
 	"skills": {

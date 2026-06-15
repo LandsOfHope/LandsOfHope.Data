@@ -3,6 +3,9 @@
 	"baseValue": 6663,
 	"id": "ancient-wisdom",
 	"image": "gmanwi",
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "demonstones"

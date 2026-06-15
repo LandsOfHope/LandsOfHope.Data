@@ -4,6 +4,9 @@
 	"baseValue": 296,
 	"id": "recruits-link-boots",
 	"image": "2595",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

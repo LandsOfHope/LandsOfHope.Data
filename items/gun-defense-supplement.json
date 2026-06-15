@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "gun-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 680
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

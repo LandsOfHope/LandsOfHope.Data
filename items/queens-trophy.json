@@ -3,6 +3,9 @@
 	"baseValue": 300,
 	"id": "queens-trophy",
 	"image": "5701",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "boss-trophy"

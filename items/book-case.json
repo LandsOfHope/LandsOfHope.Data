@@ -3,6 +3,9 @@
 	"baseValue": 78,
 	"id": "book-case",
 	"image": "bc",
+	"level": {
+		"min": 155
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "storage-box"

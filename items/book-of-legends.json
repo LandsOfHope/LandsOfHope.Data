@@ -4,6 +4,9 @@
 	"baseValue": 20,
 	"id": "book-of-legends",
 	"image": "3203",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

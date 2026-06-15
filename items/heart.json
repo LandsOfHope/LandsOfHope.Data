@@ -4,6 +4,9 @@
 	"baseValue": 1,
 	"id": "heart",
 	"image": "4461",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

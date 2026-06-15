@@ -4,6 +4,9 @@
 	"baseValue": 933,
 	"id": "ancient-necklace",
 	"image": "anl",
+	"level": {
+		"min": 130
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

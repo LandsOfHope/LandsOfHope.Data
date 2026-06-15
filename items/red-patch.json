@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "red-patch",
 	"image": "6887",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

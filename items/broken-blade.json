@@ -3,6 +3,9 @@
 	"baseValue": 220,
 	"id": "broken-blade",
 	"image": "be5",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

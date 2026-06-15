@@ -4,6 +4,9 @@
 	"dpr": 64,
 	"id": "guilded-lethal-protector",
 	"image": "sd7",
+	"level": {
+		"min": 610
+	},
 	"material": "wood",
 	"skill": "shields",
 	"skills": {

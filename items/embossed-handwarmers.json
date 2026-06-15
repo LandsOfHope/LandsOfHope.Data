@@ -4,6 +4,9 @@
 	"baseValue": 1416,
 	"id": "embossed-handwarmers",
 	"image": "2896",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

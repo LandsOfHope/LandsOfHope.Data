@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "deadly-pole-axe",
 	"image": "ahd",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "pole-weapons",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 79,
 	"id": "spikey-potion",
 	"image": "pe5",
+	"level": {
+		"min": 771
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

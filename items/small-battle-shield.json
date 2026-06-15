@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "small-battle-shield",
 	"image": "sd7",
+	"level": {
+		"min": 400
+	},
 	"material": "wood",
 	"properties": {
 		"STRENGTH": 1

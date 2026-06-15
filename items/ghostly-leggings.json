@@ -4,6 +4,9 @@
 	"baseValue": 4223,
 	"id": "ghostly-leggings",
 	"image": "2801",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

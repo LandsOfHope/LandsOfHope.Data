@@ -4,6 +4,9 @@
 	"baseValue": 2121,
 	"id": "adventurer-mitts",
 	"image": "2886",
+	"level": {
+		"min": 300
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

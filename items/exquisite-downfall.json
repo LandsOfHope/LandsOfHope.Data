@@ -4,6 +4,9 @@
 	"dpr": 140,
 	"id": "exquisite-downfall",
 	"image": "6637",
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"INTELLIGENCE": 1,

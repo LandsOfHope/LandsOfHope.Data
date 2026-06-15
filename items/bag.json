@@ -3,6 +3,9 @@
 	"baseValue": 1409,
 	"id": "bag",
 	"image": "ba",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"stackLimit": 1,
 	"type": "spawner"

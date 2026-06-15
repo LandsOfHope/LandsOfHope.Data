@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "magical-water",
 	"image": "soil",
+	"level": {
+		"min": 1
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "quest-item"

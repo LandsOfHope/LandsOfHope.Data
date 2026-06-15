@@ -4,6 +4,9 @@
 	"baseValue": 3515,
 	"id": "reinforced-helmet",
 	"image": "2382",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

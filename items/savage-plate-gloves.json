@@ -4,6 +4,9 @@
 	"baseValue": 5609,
 	"id": "savage-plate-gloves",
 	"image": "2373",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

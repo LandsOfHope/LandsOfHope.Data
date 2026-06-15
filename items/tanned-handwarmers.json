@@ -4,6 +4,9 @@
 	"baseValue": 18,
 	"id": "tanned-handwarmers",
 	"image": "2892",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"baseValue": 715,
 	"id": "studded-shoulders",
 	"image": "3005",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

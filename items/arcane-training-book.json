@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "arcane-training-book",
 	"image": "bk1",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "knowledge-aid-styles"

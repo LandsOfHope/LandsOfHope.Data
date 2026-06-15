@@ -4,6 +4,9 @@
 	"dpr": 75,
 	"id": "dreadite-dagger",
 	"image": "zudrda",
+	"level": {
+		"min": 750
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "long-godly-sword",
 	"image": "ls2",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

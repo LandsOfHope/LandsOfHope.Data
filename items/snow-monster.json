@@ -3,6 +3,9 @@
 	"baseValue": 22,
 	"id": "snow-monster",
 	"image": "gmsnmo",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

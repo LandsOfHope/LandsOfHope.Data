@@ -4,6 +4,9 @@
 	"baseValue": 574,
 	"id": "hide-shirt",
 	"image": "271",
+	"level": {
+		"min": 80
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

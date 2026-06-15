@@ -4,6 +4,9 @@
 	"dpr": 15,
 	"id": "oozing-wand",
 	"image": "wand04",
+	"level": {
+		"min": 136
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

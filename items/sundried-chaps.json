@@ -4,6 +4,9 @@
 	"baseValue": 3308,
 	"id": "sundried-chaps",
 	"image": "cgh",
+	"level": {
+		"min": 470
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"dpr": 92,
 	"id": "thermic-ordnance",
 	"image": "ss6",
+	"level": {
+		"min": 900
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

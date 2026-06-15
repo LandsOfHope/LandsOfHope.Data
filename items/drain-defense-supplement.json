@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "drain-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 770
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

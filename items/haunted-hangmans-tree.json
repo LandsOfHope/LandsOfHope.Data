@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "haunted-hangmans-tree",
 	"image": "zushhh.asp",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "halloween-2007"
 }

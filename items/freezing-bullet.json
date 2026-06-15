@@ -4,6 +4,9 @@
 	"dpr": 53,
 	"id": "freezing-bullet",
 	"image": "zufrbu2",
+	"level": {
+		"min": 511
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

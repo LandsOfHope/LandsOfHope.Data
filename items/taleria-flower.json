@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "taleria-flower",
 	"image": "5754",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

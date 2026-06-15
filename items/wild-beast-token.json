@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "wild-beast-token",
 	"image": "6788",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

@@ -4,6 +4,9 @@
 	"dpr": 92,
 	"id": "frozen-celestial-kiri",
 	"image": "6031",
+	"level": {
+		"min": 900
+	},
 	"material": "metal",
 	"properties": {
 		"SPEED": 1

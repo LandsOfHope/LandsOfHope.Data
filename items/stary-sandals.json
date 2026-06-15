@@ -4,6 +4,9 @@
 	"baseValue": 1420,
 	"id": "stary-sandals",
 	"image": "3118",
+	"level": {
+		"min": 200
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

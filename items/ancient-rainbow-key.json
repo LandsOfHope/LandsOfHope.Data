@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-rainbow-key",
 	"image": "6525",
+	"level": {
+		"min": 40
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "portal"

@@ -4,6 +4,9 @@
 	"baseValue": 362,
 	"id": "linkmail-leggings",
 	"image": "133",
+	"level": {
+		"min": 120
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

@@ -3,6 +3,9 @@
 	"baseValue": 365,
 	"id": "cracked-tiara",
 	"image": "cta",
+	"level": {
+		"min": 50
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1,

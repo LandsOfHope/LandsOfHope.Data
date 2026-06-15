@@ -4,6 +4,9 @@
 	"dpr": 8,
 	"id": "mace-of-peacebringing",
 	"image": "nmc",
+	"level": {
+		"min": 65
+	},
 	"material": "stone",
 	"skill": "maces",
 	"skills": {

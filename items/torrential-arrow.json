@@ -4,6 +4,9 @@
 	"dpr": 99,
 	"id": "torrential-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 976
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

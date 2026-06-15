@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "room-blueprint",
 	"image": "1936",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "rennovation-deeds"

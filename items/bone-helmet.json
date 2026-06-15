@@ -4,6 +4,9 @@
 	"baseValue": 549,
 	"id": "bone-helmet",
 	"image": "hl2",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

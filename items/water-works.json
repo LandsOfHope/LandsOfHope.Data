@@ -3,6 +3,9 @@
 	"baseValue": 40,
 	"id": "water-works",
 	"image": "6428",
+	"level": {
+		"min": 1
+	},
 	"skill": "lordship",
 	"stackLimit": 1000,
 	"type": "lordship-improvements"

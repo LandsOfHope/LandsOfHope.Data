@@ -4,6 +4,9 @@
 	"baseValue": 4212,
 	"id": "ghostly-headgear",
 	"image": "2933",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "defiling-solution",
 	"image": "pe5",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

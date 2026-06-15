@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "frozen-north-key",
 	"image": "6921",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "key"

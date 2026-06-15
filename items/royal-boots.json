@@ -4,6 +4,9 @@
 	"baseValue": 6667,
 	"id": "royal-boots",
 	"image": "3104",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

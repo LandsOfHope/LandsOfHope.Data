@@ -3,6 +3,9 @@
 	"baseValue": 3522,
 	"id": "large-kiln",
 	"image": "fg2",
+	"level": {
+		"min": 500
+	},
 	"material": "stone",
 	"stackLimit": 1,
 	"type": "centauran-tool"

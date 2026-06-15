@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "lesser-stegosaurus-patch",
 	"image": "gmlestpa",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

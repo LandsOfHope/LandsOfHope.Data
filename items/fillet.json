@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "fillet",
 	"image": "zufitt",
+	"level": {
+		"min": 1
+	},
 	"material": "fish",
 	"properties": {
 		"HITPOINTS": 1

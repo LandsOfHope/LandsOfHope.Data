@@ -5,6 +5,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-legs",
 	"image": "6473",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "leg-armour"

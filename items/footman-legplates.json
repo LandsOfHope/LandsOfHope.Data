@@ -4,6 +4,9 @@
 	"baseValue": 543,
 	"id": "footman-legplates",
 	"image": "2278",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 74,
 	"id": "stormy-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 721
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

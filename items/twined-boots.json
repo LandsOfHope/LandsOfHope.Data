@@ -4,6 +4,9 @@
 	"baseValue": 5546,
 	"id": "twined-boots",
 	"image": "cbt",
+	"level": {
+		"min": 790
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

@@ -4,6 +4,9 @@
 	"dpr": 92,
 	"id": "hooked-net",
 	"image": "fin",
+	"level": {
+		"min": 920
+	},
 	"material": "metal",
 	"skill": "exotic-weapons",
 	"skills": {

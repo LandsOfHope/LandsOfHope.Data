@@ -4,6 +4,9 @@
 	"baseValue": 6662,
 	"id": "royal-robe",
 	"image": "rb13",
+	"level": {
+		"min": 950
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

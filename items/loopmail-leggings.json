@@ -4,6 +4,9 @@
 	"baseValue": 2669,
 	"id": "loopmail-leggings",
 	"image": "cls",
+	"level": {
+		"min": 380
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1

@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "icey-hand-art",
 	"image": "6230",
+	"level": {
+		"min": 700
+	},
 	"material": "color",
 	"skill": "martial-arts",
 	"skills": {

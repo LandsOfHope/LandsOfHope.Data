@@ -4,6 +4,9 @@
 	"baseValue": 712,
 	"id": "studded-cap",
 	"image": "2917",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

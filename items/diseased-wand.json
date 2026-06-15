@@ -4,6 +4,9 @@
 	"dpr": 9,
 	"id": "diseased-wand",
 	"image": "wand04",
+	"level": {
+		"min": 76
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

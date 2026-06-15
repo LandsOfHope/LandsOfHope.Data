@@ -4,6 +4,9 @@
 	"baseValue": 3512,
 	"id": "reinforced-chestplate",
 	"image": "2250",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

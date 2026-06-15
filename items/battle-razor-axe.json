@@ -4,6 +4,9 @@
 	"dpr": 42,
 	"id": "battle-razor-axe",
 	"image": "aba",
+	"level": {
+		"min": 400
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

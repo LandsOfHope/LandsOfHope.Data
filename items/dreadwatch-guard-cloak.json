@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "dreadwatch-guard-cloak",
 	"image": "4983",
+	"level": {
+		"min": 470
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1,

@@ -4,6 +4,9 @@
 	"dpr": 20,
 	"id": "frigid-wand",
 	"image": "wand12",
+	"level": {
+		"min": 181
+	},
 	"material": "stone",
 	"properties": {
 		"INTELLIGENCE": 1

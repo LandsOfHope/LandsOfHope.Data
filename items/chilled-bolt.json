@@ -4,6 +4,9 @@
 	"dpr": 86,
 	"id": "chilled-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 841
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

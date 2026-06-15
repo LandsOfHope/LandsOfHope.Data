@@ -3,6 +3,9 @@
 	"baseValue": 150,
 	"id": "belt-of-wisdom",
 	"image": "pbelt5",
+	"level": {
+		"min": 250
+	},
 	"material": "hide",
 	"properties": {
 		"INTELLIGENCE": 1

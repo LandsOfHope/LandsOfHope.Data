@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "shuriken",
 	"image": "shk",
+	"level": {
+		"min": 10
+	},
 	"material": "metal",
 	"skill": "thrown-weapons",
 	"skills": {

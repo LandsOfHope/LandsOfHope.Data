@@ -4,6 +4,9 @@
 	"baseValue": 4400,
 	"id": "chinked-leggings",
 	"image": "cls",
+	"level": {
+		"min": 680
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1,

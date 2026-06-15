@@ -4,6 +4,9 @@
 	"baseValue": 829,
 	"id": "putrified-shroud",
 	"image": "998",
+	"level": {
+		"min": 115
+	},
 	"material": "cloth",
 	"skills": {
 		"earth-resistance": 1,

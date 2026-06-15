@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "scary-costume-gloves",
 	"image": "tgloves2",
+	"level": {
+		"min": 150
+	},
 	"material": "cloth",
 	"set": "halloween-costume",
 	"skills": {

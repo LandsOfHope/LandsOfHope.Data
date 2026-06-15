@@ -4,6 +4,9 @@
 	"dpr": 10,
 	"id": "lightning-hands",
 	"image": "6332",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skill": "martial-arts",
 	"skills": {

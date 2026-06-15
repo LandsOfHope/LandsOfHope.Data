@@ -4,6 +4,9 @@
 	"baseValue": 4432,
 	"id": "hellborn-basinet",
 	"image": "cse",
+	"level": {
+		"min": 630
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

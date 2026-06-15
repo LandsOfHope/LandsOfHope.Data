@@ -6,6 +6,9 @@
 	"id": "strongmoon-wristband",
 	"image": "4697",
 	"legendary": true,
+	"level": {
+		"min": 1000
+	},
 	"material": "cloth",
 	"properties": {
 		"DEXTERITY": 1,

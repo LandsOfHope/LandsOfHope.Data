@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "element",
 	"image": "6358",
+	"level": {
+		"min": 1
+	},
 	"material": "element",
 	"stackLimit": 1000,
 	"type": "trophy"

@@ -4,6 +4,9 @@
 	"dpr": 22,
 	"id": "small-hunters-shield",
 	"image": "sd7",
+	"level": {
+		"min": 200
+	},
 	"material": "wood",
 	"skill": "shields",
 	"skills": {

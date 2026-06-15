@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "sabre",
 	"image": "na",
+	"level": {
+		"min": 40
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

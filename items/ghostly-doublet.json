@@ -4,6 +4,9 @@
 	"baseValue": 4216,
 	"id": "ghostly-doublet",
 	"image": "2823",
+	"level": {
+		"min": 600
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

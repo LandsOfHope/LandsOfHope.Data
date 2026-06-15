@@ -4,6 +4,9 @@
 	"baseValue": 499,
 	"id": "sparkling-crown",
 	"image": "na",
+	"level": {
+		"min": 70
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

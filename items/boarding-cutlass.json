@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "boarding-cutlass",
 	"image": "gmbocu",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

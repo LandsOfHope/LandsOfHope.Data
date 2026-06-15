@@ -4,6 +4,9 @@
 	"baseValue": 1235,
 	"id": "worn-black-belt",
 	"image": "bet",
+	"level": {
+		"min": 175
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1

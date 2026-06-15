@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "small-earth-shop-deed",
 	"image": "1070",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "house-deeds"

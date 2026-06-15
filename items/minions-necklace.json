@@ -3,6 +3,9 @@
 	"baseValue": 4500,
 	"id": "minions-necklace",
 	"image": "5930",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"health-regen": 1

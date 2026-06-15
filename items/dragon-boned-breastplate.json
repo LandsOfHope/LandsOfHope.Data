@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "dragon-boned-breastplate",
 	"image": "5809",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1,

@@ -4,6 +4,9 @@
 	"baseValue": 5573,
 	"id": "wooden-helmet",
 	"image": "hm1",
+	"level": {
+		"min": 795
+	},
 	"material": "wood",
 	"skills": {
 		"armor": 1,

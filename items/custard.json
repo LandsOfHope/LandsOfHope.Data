@@ -3,6 +3,9 @@
 	"baseValue": 126,
 	"id": "custard",
 	"image": "zucucs",
+	"level": {
+		"min": 250
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "food"

@@ -4,6 +4,9 @@
 	"baseValue": 4227,
 	"id": "regal-bracelet",
 	"image": "gmrebr",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

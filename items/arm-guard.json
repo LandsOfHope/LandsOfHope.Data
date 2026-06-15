@@ -4,6 +4,9 @@
 	"baseValue": 435,
 	"id": "arm-guard",
 	"image": "amg",
+	"level": {
+		"min": 60
+	},
 	"material": "wood",
 	"skills": {
 		"armor": 1

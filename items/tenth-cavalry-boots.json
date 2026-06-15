@@ -4,6 +4,9 @@
 	"baseValue": 4300,
 	"id": "tenth-cavalry-boots",
 	"image": "5047",
+	"level": {
+		"min": 930
+	},
 	"material": "hide",
 	"properties": {
 		"SPEED": 1

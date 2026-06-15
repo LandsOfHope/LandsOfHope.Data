@@ -3,6 +3,9 @@
 	"baseValue": 4500,
 	"id": "minions-belt",
 	"image": "5927",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"stamina-regen": 1

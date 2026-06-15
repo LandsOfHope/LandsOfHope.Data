@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "squishy-slug-patch",
 	"image": "gmsqslpa",
+	"level": {
+		"min": 150
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

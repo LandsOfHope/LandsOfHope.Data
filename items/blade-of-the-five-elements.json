@@ -4,6 +4,9 @@
 	"dpr": 140,
 	"id": "blade-of-the-five-elements",
 	"image": "6730",
+	"level": {
+		"min": 1000
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1,

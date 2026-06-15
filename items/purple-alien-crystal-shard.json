@@ -3,6 +3,9 @@
 	"baseValue": 500,
 	"id": "purple-alien-crystal-shard",
 	"image": "7004",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1.5,

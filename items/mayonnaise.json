@@ -3,6 +3,9 @@
 	"baseValue": 41,
 	"id": "mayonnaise",
 	"image": "zumaae",
+	"level": {
+		"min": 80
+	},
 	"material": "vegetable",
 	"properties": {
 		"HITPOINTS": 1

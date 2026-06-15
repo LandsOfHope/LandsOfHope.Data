@@ -3,6 +3,9 @@
 	"baseValue": 12,
 	"id": "medley",
 	"image": "zumedl",
+	"level": {
+		"min": 23
+	},
 	"material": "berry",
 	"properties": {
 		"MANA": 1

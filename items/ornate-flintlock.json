@@ -4,6 +4,9 @@
 	"dpr": 32,
 	"id": "ornate-flintlock",
 	"image": "pl1",
+	"level": {
+		"min": 300
+	},
 	"material": "metal",
 	"skill": "hand-guns",
 	"skills": {

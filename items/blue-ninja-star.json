@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "blue-ninja-star",
 	"image": "6405",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "thrown-weapons",
 	"skills": {

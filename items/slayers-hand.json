@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "slayers-hand",
 	"image": "1691",
+	"level": {
+		"min": 50
+	},
 	"material": "metal",
 	"properties": {
 		"MAXMANA": 1,

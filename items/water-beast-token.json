@@ -3,6 +3,9 @@
 	"baseValue": 10,
 	"id": "water-beast-token",
 	"image": "6789",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

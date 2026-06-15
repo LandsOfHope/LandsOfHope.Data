@@ -3,6 +3,9 @@
 	"baseValue": 2985,
 	"id": "charm-of-the-water",
 	"image": "zuchwa",
+	"level": {
+		"min": 425
+	},
 	"material": "wood",
 	"skills": {
 		"water-magic": 1

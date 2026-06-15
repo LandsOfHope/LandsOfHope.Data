@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "tongs",
 	"image": "ts1",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "geology",
 	"skills": {

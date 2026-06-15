@@ -4,6 +4,9 @@
 	"baseValue": 10,
 	"id": "explorers-glasses",
 	"image": "850",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skills": {
 		"exploration": 1

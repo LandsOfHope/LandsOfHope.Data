@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "discharging-ordnance",
 	"image": "ss6",
+	"level": {
+		"min": 800
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

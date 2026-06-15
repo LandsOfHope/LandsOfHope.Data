@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "guilded-hunters-fine-blade",
 	"image": "sw1",
+	"level": {
+		"min": 210
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

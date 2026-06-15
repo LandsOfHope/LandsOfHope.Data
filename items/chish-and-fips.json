@@ -3,6 +3,9 @@
 	"baseValue": 0,
 	"id": "chish-and-fips",
 	"image": "6573",
+	"level": {
+		"min": 1
+	},
 	"material": "fish",
 	"properties": {
 		"STAMINA": 1

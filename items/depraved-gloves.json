@@ -4,6 +4,9 @@
 	"baseValue": 165,
 	"id": "depraved-gloves",
 	"image": "1818",
+	"level": {
+		"min": 20
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1

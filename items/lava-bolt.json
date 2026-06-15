@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "lava-bolt",
 	"image": "arr1",
+	"level": {
+		"min": 706
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

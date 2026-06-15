@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "dual-small-golem",
 	"image": "2688",
+	"level": {
+		"min": 15
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "golem"

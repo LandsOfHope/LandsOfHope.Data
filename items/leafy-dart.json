@@ -4,6 +4,9 @@
 	"dpr": 35,
 	"id": "leafy-dart",
 	"image": "drt",
+	"level": {
+		"min": 331
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

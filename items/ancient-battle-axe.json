@@ -4,6 +4,9 @@
 	"dpr": 3,
 	"id": "ancient-battle-axe",
 	"image": "aba",
+	"level": {
+		"min": 10
+	},
 	"material": "metal",
 	"skill": "two-handed-axes",
 	"skills": {

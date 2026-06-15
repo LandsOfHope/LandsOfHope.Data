@@ -4,6 +4,9 @@
 	"dpr": 93,
 	"id": "inferno-bullet",
 	"image": "zuinbu",
+	"level": {
+		"min": 916
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

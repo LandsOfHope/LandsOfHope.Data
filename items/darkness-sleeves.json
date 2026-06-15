@@ -4,6 +4,9 @@
 	"baseValue": 5608,
 	"id": "darkness-sleeves",
 	"image": "2978",
+	"level": {
+		"min": 800
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

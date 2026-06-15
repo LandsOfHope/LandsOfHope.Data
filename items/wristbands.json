@@ -3,6 +3,9 @@
 	"baseValue": 184,
 	"id": "wristbands",
 	"image": "bt1",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"skills": {
 		"armor": 1

@@ -4,6 +4,9 @@
 	"dpr": 94,
 	"id": "godly-heavy-crossbow",
 	"image": "xw2",
+	"level": {
+		"min": 900
+	},
 	"material": "wood",
 	"skill": "crossbows",
 	"skills": {

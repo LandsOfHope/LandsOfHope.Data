@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "long-lethal-sword",
 	"image": "ls2",
+	"level": {
+		"min": 600
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

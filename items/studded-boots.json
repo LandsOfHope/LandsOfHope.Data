@@ -4,6 +4,9 @@
 	"baseValue": 723,
 	"id": "studded-boots",
 	"image": "2840",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

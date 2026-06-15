@@ -4,6 +4,9 @@
 	"dpr": 98,
 	"id": "ancient-potion",
 	"image": "pe5",
+	"level": {
+		"min": 967
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

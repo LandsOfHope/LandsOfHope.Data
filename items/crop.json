@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "crop",
 	"image": "cro",
+	"level": {
+		"min": 1
+	},
 	"material": "crop",
 	"properties": {
 		"HITPOINTS": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2809,
 	"id": "enblazened-vest",
 	"image": "3090",
+	"level": {
+		"min": 400
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

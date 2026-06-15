@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "sasha-flower",
 	"image": "5746",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

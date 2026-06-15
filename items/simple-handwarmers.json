@@ -4,6 +4,9 @@
 	"baseValue": 15,
 	"id": "simple-handwarmers",
 	"image": "3145",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

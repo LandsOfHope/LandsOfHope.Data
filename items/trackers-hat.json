@@ -4,6 +4,9 @@
 	"baseValue": 3523,
 	"id": "trackers-hat",
 	"image": "2910",
+	"level": {
+		"min": 500
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

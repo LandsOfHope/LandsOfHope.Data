@@ -4,6 +4,9 @@
 	"baseValue": 376,
 	"id": "dwarven-legs",
 	"image": "485",
+	"level": {
+		"min": 52
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

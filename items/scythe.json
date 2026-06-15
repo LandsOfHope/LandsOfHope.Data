@@ -4,6 +4,9 @@
 	"dpr": 2,
 	"id": "scythe",
 	"image": "hs1",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"skill": "farming",
 	"skills": {

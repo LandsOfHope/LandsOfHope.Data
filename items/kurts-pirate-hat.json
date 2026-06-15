@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "kurts-pirate-hat",
 	"image": "gmkupiha",
+	"level": {
+		"min": 1000
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1,

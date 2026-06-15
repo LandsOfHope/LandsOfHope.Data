@@ -4,6 +4,9 @@
 	"baseValue": 6676,
 	"id": "commanders-shoulders",
 	"image": "2770",
+	"level": {
+		"min": 950
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

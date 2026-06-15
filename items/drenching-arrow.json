@@ -4,6 +4,9 @@
 	"dpr": 83,
 	"id": "drenching-arrow",
 	"image": "arr1",
+	"level": {
+		"min": 811
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

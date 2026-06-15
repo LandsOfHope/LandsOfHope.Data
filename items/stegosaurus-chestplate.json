@@ -5,6 +5,9 @@
 	"expansion": "jurassic-wars",
 	"id": "stegosaurus-chestplate",
 	"image": "5157",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

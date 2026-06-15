@@ -3,6 +3,9 @@
 	"baseValue": 116,
 	"id": "average-decay-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 230
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

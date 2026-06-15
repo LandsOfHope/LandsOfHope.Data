@@ -4,6 +4,9 @@
 	"baseValue": 2811,
 	"id": "foresters-cap",
 	"image": "2920",
+	"level": {
+		"min": 400
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

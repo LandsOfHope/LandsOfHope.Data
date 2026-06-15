@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "hook",
 	"image": "bbh",
+	"level": {
+		"min": 30
+	},
 	"material": "metal",
 	"skill": "fists",
 	"skills": {

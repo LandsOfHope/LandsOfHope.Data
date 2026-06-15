@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "ghostly-strung-bow",
 	"image": "zughstbo",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"skill": "bows",
 	"skills": {

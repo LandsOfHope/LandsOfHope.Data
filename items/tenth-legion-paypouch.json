@@ -3,6 +3,9 @@
 	"baseValue": 1000,
 	"id": "tenth-legion-paypouch",
 	"image": "zutelepa",
+	"level": {
+		"min": 101
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "bag"

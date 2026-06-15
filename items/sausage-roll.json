@@ -3,6 +3,9 @@
 	"baseValue": 471,
 	"id": "sausage-roll",
 	"image": "zusaro",
+	"level": {
+		"min": 940
+	},
 	"material": "hide",
 	"properties": {
 		"HITPOINTS": 3

@@ -4,6 +4,9 @@
 	"baseValue": 365,
 	"id": "dungeoncreeper-sleeves",
 	"image": "4943",
+	"level": {
+		"min": 5
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

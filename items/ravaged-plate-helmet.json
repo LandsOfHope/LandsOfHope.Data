@@ -4,6 +4,9 @@
 	"baseValue": 726,
 	"id": "ravaged-plate-helmet",
 	"image": "gmraplhe",
+	"level": {
+		"min": 100
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

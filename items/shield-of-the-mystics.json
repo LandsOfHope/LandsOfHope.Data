@@ -4,6 +4,9 @@
 	"dpr": 5,
 	"id": "shield-of-the-mystics",
 	"image": "sdd",
+	"level": {
+		"min": 30
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -4,6 +4,9 @@
 	"baseValue": 2464,
 	"id": "dungeonmaster-chestplate",
 	"image": "cvc",
+	"level": {
+		"min": 430
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

@@ -4,6 +4,9 @@
 	"baseValue": 301,
 	"id": "sabatons",
 	"image": "171",
+	"level": {
+		"min": 41
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

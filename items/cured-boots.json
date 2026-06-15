@@ -4,6 +4,9 @@
 	"baseValue": 298,
 	"id": "cured-boots",
 	"image": "494",
+	"level": {
+		"min": 40
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

@@ -4,6 +4,9 @@
 	"baseValue": 3219,
 	"id": "splintmail-leggings",
 	"image": "cls",
+	"level": {
+		"min": 480
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

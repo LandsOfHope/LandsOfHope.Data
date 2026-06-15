@@ -4,6 +4,9 @@
 	"dpr": 18,
 	"id": "moss-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 166
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

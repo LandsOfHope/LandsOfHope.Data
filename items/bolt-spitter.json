@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "bolt-spitter",
 	"image": "xw2",
+	"level": {
+		"min": 45
+	},
 	"material": "wood",
 	"properties": {
 		"STRENGTH": 1

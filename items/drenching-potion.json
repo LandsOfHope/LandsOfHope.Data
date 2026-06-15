@@ -4,6 +4,9 @@
 	"dpr": 80,
 	"id": "drenching-potion",
 	"image": "pe5",
+	"level": {
+		"min": 785
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

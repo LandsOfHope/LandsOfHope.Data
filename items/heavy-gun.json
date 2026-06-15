@@ -4,6 +4,9 @@
 	"dpr": 80,
 	"id": "heavy-gun",
 	"image": "4635",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

@@ -3,6 +3,9 @@
 	"baseValue": 438,
 	"id": "glowing-ice-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 875
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

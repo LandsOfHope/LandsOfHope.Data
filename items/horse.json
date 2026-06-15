@@ -3,6 +3,9 @@
 	"baseValue": 30,
 	"id": "horse",
 	"image": "na",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "creature"
 }

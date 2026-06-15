@@ -4,6 +4,9 @@
 	"baseValue": 4000,
 	"id": "faded-trousers",
 	"image": "ptro11",
+	"level": {
+		"min": 560
+	},
 	"material": "cloth",
 	"properties": {
 		"INTELLIGENCE": 1

@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "key-of-the-third",
 	"image": "gmketh",
+	"level": {
+		"min": 1000
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "portal"

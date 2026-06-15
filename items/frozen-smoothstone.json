@@ -4,6 +4,9 @@
 	"dpr": 65,
 	"id": "frozen-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 631
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

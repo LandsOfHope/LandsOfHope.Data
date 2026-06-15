@@ -4,6 +4,9 @@
 	"baseValue": 1355,
 	"id": "foul-blouse",
 	"image": "1811",
+	"level": {
+		"min": 190
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1,

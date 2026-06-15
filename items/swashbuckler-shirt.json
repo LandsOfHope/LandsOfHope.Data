@@ -5,6 +5,9 @@
 	"expansion": "uncharted-waters",
 	"id": "swashbuckler-shirt",
 	"image": "5260",
+	"level": {
+		"min": 350
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

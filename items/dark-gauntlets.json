@@ -4,6 +4,9 @@
 	"baseValue": 1701,
 	"id": "dark-gauntlets",
 	"image": "1558",
+	"level": {
+		"min": 240
+	},
 	"material": "metal",
 	"properties": {
 		"MAXSTAMINA": 1

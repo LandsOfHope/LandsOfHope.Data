@@ -4,6 +4,9 @@
 	"dpr": 6,
 	"id": "razorblade-sword",
 	"image": "sw4",
+	"level": {
+		"min": 45
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

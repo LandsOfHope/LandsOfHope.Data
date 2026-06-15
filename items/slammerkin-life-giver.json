@@ -3,6 +3,9 @@
 	"baseValue": 18,
 	"id": "slammerkin-life-giver",
 	"image": "na",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "quest-item"

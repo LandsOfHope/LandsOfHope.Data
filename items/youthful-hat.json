@@ -4,6 +4,9 @@
 	"baseValue": 6500,
 	"id": "youthful-hat",
 	"image": "4530",
+	"level": {
+		"min": 910
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXSTAMINA": 1

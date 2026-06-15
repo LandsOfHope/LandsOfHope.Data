@@ -4,6 +4,9 @@
 	"baseValue": 5625,
 	"id": "savage-armbraces",
 	"image": "2725",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "campfire",
 	"image": "2419",
+	"level": {
+		"min": 41
+	},
 	"material": "wood",
 	"stackLimit": 1000,
 	"type": "fire-furniture"

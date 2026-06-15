@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "tiger-juice",
 	"image": "5896",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "magic-potion-other"
 }

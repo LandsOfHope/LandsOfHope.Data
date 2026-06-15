@@ -4,6 +4,9 @@
 	"dpr": 65,
 	"id": "icandrias-icicle",
 	"image": "zuicic",
+	"level": {
+		"min": 630
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

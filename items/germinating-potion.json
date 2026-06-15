@@ -4,6 +4,9 @@
 	"dpr": 39,
 	"id": "germinating-potion",
 	"image": "pe5",
+	"level": {
+		"min": 379
+	},
 	"material": "gem",
 	"skills": {
 		"attack-power": 1

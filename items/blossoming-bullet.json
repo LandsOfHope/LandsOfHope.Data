@@ -4,6 +4,9 @@
 	"dpr": 41,
 	"id": "blossoming-bullet",
 	"image": "zublbu2",
+	"level": {
+		"min": 391
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

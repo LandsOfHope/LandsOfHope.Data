@@ -4,6 +4,9 @@
 	"baseValue": 710,
 	"id": "follower-braces",
 	"image": "3237",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

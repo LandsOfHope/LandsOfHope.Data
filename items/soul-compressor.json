@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "soul-compressor",
 	"image": "na",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1,
 	"type": "quest-item"

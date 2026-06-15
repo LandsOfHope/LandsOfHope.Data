@@ -3,6 +3,9 @@
 	"baseValue": 1809,
 	"id": "ring-of-ravaging",
 	"image": "rgj",
+	"level": {
+		"min": 255
+	},
 	"material": "gem",
 	"properties": {
 		"MAXSTAMINA": 1,

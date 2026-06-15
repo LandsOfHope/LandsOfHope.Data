@@ -4,6 +4,9 @@
 	"baseValue": 441,
 	"id": "dungeoncreeper-pants",
 	"image": "4945",
+	"level": {
+		"min": 7
+	},
 	"material": "hide",
 	"properties": {
 		"DEXTERITY": 1

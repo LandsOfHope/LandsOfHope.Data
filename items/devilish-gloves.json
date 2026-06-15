@@ -4,6 +4,9 @@
 	"baseValue": 6661,
 	"id": "devilish-gloves",
 	"image": "2880",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

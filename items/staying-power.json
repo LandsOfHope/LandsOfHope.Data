@@ -3,6 +3,9 @@
 	"baseValue": 6663,
 	"id": "staying-power",
 	"image": "gmstpo",
+	"level": {
+		"min": 1000
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "demonstones"

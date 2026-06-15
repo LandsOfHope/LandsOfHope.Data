@@ -4,6 +4,9 @@
 	"dpr": 80,
 	"id": "razor-hook",
 	"image": "bbh",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"properties": {
 		"STRENGTH": 1

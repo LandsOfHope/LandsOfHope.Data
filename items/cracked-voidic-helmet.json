@@ -4,6 +4,9 @@
 	"baseValue": 3352,
 	"id": "cracked-voidic-helmet",
 	"image": "683",
+	"level": {
+		"min": 475
+	},
 	"material": "metal",
 	"properties": {
 		"MAXHITPOINTS": 1

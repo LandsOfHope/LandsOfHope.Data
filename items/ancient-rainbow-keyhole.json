@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-rainbow-keyhole",
 	"image": "6524",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "item-use-door"
 }

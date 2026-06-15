@@ -3,6 +3,9 @@
 	"baseValue": 397,
 	"id": "frenzied-blood-ring",
 	"image": "rgf",
+	"level": {
+		"min": 55
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 1,

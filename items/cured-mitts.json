@@ -4,6 +4,9 @@
 	"baseValue": 366,
 	"id": "cured-mitts",
 	"image": "2882",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "hand-armour"

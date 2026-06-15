@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "allegiance-message-board",
 	"image": "sig",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"stackLimit": 1,
 	"type": "message-board"

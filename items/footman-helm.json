@@ -4,6 +4,9 @@
 	"baseValue": 541,
 	"id": "footman-helm",
 	"image": "2652",
+	"level": {
+		"min": 75
+	},
 	"material": "metal",
 	"skills": {
 		"armor": 1

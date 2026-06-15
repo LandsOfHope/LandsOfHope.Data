@@ -4,6 +4,9 @@
 	"baseValue": 708,
 	"id": "cloak-of-hiding",
 	"image": "cl7",
+	"level": {
+		"min": 100
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1,

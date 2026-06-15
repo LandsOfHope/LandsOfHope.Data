@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "dark-depths-backup-key",
 	"image": "6531",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "portal"

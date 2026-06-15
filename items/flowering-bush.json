@@ -3,6 +3,9 @@
 	"baseValue": 15,
 	"id": "flowering-bush",
 	"image": "zaber1",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "flower-respawner"
 }

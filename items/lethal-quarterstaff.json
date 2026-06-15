@@ -4,6 +4,9 @@
 	"dpr": 62,
 	"id": "lethal-quarterstaff",
 	"image": "qsf",
+	"level": {
+		"min": 600
+	},
 	"material": "wood",
 	"skill": "staves",
 	"skills": {

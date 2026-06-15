@@ -4,6 +4,9 @@
 	"baseValue": 1410,
 	"id": "embossed-armbraces",
 	"image": "2984",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

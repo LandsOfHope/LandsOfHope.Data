@@ -4,6 +4,9 @@
 	"dpr": 24,
 	"id": "dribbling-smoothstone",
 	"image": "sms",
+	"level": {
+		"min": 226
+	},
 	"material": "stone",
 	"skills": {
 		"attack-power": 1

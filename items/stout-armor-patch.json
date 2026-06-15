@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "stout-armor-patch",
 	"image": "gmstarpa",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"stackLimit": 1000,
 	"type": "item-patch"

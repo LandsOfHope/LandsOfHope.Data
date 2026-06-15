@@ -4,6 +4,9 @@
 	"baseValue": 6670,
 	"id": "devilish-handwarmers",
 	"image": "2902",
+	"level": {
+		"min": 950
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

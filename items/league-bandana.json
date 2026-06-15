@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "league-bandana",
 	"image": "1005",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"properties": {
 		"MAXHITPOINTS": 1

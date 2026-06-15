@@ -4,6 +4,9 @@
 	"dpr": 52,
 	"id": "long-bloody-sword",
 	"image": "ls2",
+	"level": {
+		"min": 500
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

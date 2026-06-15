@@ -4,6 +4,9 @@
 	"dpr": 51,
 	"id": "primeval-bullet",
 	"image": "zuprbu",
+	"level": {
+		"min": 496
+	},
 	"material": "metal",
 	"skills": {
 		"attack-power": 1

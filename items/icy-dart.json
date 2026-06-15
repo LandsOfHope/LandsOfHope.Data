@@ -4,6 +4,9 @@
 	"dpr": 59,
 	"id": "icy-dart",
 	"image": "drt",
+	"level": {
+		"min": 571
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

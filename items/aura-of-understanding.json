@@ -4,6 +4,9 @@
 	"baseValue": 17,
 	"id": "aura-of-understanding",
 	"image": "6181",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

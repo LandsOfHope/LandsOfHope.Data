@@ -4,6 +4,9 @@
 	"baseValue": 16,
 	"id": "symbol-of-respect",
 	"image": "4657",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"properties": {
 		"DEXTERITY": 1,

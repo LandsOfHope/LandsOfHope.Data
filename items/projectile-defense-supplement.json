@@ -3,6 +3,9 @@
 	"baseValue": 28,
 	"id": "projectile-defense-supplement",
 	"image": "c2k",
+	"level": {
+		"min": 500
+	},
 	"material": "crop",
 	"stackLimit": 1000,
 	"type": "food"

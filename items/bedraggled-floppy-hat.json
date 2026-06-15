@@ -4,6 +4,9 @@
 	"baseValue": 3488,
 	"id": "bedraggled-floppy-hat",
 	"image": "bfh",
+	"level": {
+		"min": 495
+	},
 	"material": "cloth",
 	"skills": {
 		"cold-resistance": 1,

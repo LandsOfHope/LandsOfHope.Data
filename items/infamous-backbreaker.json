@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-backbreaker",
 	"image": "cb",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

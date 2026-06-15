@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "balista-ammo",
 	"image": "ss6",
+	"level": {
+		"min": 1
+	},
 	"material": "wood",
 	"skill": "siege-weapons",
 	"stackLimit": 1000,

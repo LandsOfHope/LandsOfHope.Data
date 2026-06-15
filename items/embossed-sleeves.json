@@ -4,6 +4,9 @@
 	"baseValue": 1413,
 	"id": "embossed-sleeves",
 	"image": "2973",
+	"level": {
+		"min": 200
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

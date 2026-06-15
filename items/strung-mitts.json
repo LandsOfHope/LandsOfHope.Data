@@ -4,6 +4,9 @@
 	"baseValue": 534,
 	"id": "strung-mitts",
 	"image": "2883",
+	"level": {
+		"min": 75
+	},
 	"material": "hide",
 	"stackLimit": 1,
 	"type": "hand-armour"

@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "blood-red-dragon-potion",
 	"image": "5863",
+	"level": {
+		"min": 300
+	},
 	"material": "gem",
 	"properties": {
 		"HITPOINTS": 1.5

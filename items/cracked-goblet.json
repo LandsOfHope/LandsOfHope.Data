@@ -3,6 +3,9 @@
 	"baseValue": 320,
 	"id": "cracked-goblet",
 	"image": "ccg",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

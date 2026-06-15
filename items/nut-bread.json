@@ -3,6 +3,9 @@
 	"baseValue": 311,
 	"id": "nut-bread",
 	"image": "nub",
+	"level": {
+		"min": 620
+	},
 	"material": "berry",
 	"properties": {
 		"STAMINA": 2

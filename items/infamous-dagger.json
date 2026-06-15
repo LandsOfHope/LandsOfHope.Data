@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "infamous-dagger",
 	"image": "dg",
+	"level": {
+		"min": 800
+	},
 	"material": "metal",
 	"skill": "daggers",
 	"skills": {

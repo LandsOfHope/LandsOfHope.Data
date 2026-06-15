@@ -4,6 +4,9 @@
 	"dpr": 99,
 	"id": "thermal-dart",
 	"image": "drt",
+	"level": {
+		"min": 976
+	},
 	"material": "wood",
 	"skills": {
 		"attack-power": 1

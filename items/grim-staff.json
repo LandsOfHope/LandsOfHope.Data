@@ -4,6 +4,9 @@
 	"dpr": 7,
 	"id": "grim-staff",
 	"image": "bas",
+	"level": {
+		"min": 50
+	},
 	"material": "gem",
 	"skill": "two-handed-staves",
 	"skills": {

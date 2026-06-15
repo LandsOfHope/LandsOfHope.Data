@@ -4,6 +4,9 @@
 	"expansion": "dark-depths",
 	"id": "ancient-bloodshot-powder",
 	"image": "6432",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "trophy"
 }

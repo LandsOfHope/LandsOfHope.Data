@@ -4,6 +4,9 @@
 	"baseValue": 194,
 	"id": "sylvan-bracers",
 	"image": "bcs",
+	"level": {
+		"min": 25
+	},
 	"material": "hide",
 	"properties": {
 		"STRENGTH": 1

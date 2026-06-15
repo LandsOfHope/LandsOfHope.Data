@@ -4,6 +4,9 @@
 	"baseValue": 302,
 	"id": "arcanus-robe",
 	"image": "rb2",
+	"level": {
+		"min": 41
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

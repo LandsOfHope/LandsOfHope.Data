@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "guilded-hunters-long-staff",
 	"image": "sf",
+	"level": {
+		"min": 210
+	},
 	"material": "wood",
 	"skill": "two-handed-staves",
 	"skills": {

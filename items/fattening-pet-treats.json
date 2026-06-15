@@ -3,6 +3,9 @@
 	"baseValue": 29,
 	"id": "fattening-pet-treats",
 	"image": "5737",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXHITPOINTS": 1,

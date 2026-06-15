@@ -3,6 +3,9 @@
 	"baseValue": 1,
 	"id": "mirithana-flower",
 	"image": "5742",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1000,
 	"type": "flower"
 }

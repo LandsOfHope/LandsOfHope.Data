@@ -3,6 +3,9 @@
 	"baseValue": 31,
 	"id": "puppet",
 	"image": "na",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "monster-spawner"
 }

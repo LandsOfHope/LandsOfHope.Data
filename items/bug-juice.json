@@ -3,6 +3,9 @@
 	"baseValue": 19,
 	"id": "bug-juice",
 	"image": "6081",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"skill": "ancient-guardians",
 	"stackLimit": 1,

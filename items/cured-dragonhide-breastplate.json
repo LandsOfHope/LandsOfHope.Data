@@ -5,6 +5,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "cured-dragonhide-breastplate",
 	"image": "5821",
+	"level": {
+		"min": 1
+	},
 	"material": "hide",
 	"properties": {
 		"MAXSTAMINA": 1,

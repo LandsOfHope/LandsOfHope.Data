@@ -3,6 +3,9 @@
 	"baseValue": 193,
 	"id": "nimble-earring",
 	"image": "266",
+	"level": {
+		"min": 25
+	},
 	"material": "gem",
 	"properties": {
 		"DEXTERITY": 1

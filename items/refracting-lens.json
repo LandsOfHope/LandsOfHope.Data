@@ -3,6 +3,9 @@
 	"baseValue": 32,
 	"id": "refracting-lens",
 	"image": "1202",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

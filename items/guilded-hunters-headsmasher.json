@@ -4,6 +4,9 @@
 	"dpr": 23,
 	"id": "guilded-hunters-headsmasher",
 	"image": "bm",
+	"level": {
+		"min": 210
+	},
 	"material": "metal",
 	"skill": "two-handed-maces",
 	"skills": {

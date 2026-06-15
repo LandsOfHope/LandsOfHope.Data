@@ -3,6 +3,9 @@
 	"baseValue": 61,
 	"id": "spicy-sauce",
 	"image": "zuspsa2",
+	"level": {
+		"min": 120
+	},
 	"material": "vegetable",
 	"properties": {
 		"HITPOINTS": 1

@@ -3,6 +3,9 @@
 	"baseValue": 1633,
 	"id": "ring-of-melody",
 	"image": "ring15",
+	"level": {
+		"min": 230
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1

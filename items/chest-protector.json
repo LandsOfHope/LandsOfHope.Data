@@ -4,6 +4,9 @@
 	"baseValue": 511,
 	"id": "chest-protector",
 	"image": "l1",
+	"level": {
+		"min": 70
+	},
 	"material": "wood",
 	"skills": {
 		"armor": 1,

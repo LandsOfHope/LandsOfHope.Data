@@ -4,6 +4,9 @@
 	"baseValue": 2118,
 	"id": "nightly-cap",
 	"image": "3169",
+	"level": {
+		"min": 300
+	},
 	"material": "cloth",
 	"skills": {
 		"armor": 1

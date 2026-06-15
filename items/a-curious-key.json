@@ -3,6 +3,9 @@
 	"baseValue": 100,
 	"id": "a-curious-key",
 	"image": "6208",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1,
 	"type": "portal"

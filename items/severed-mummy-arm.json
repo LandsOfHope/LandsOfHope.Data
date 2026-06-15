@@ -3,6 +3,9 @@
 	"baseValue": 20,
 	"id": "severed-mummy-arm",
 	"image": "zushsma",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "halloween-2007"
 }

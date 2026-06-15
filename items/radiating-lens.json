@@ -3,6 +3,9 @@
 	"baseValue": 25,
 	"id": "radiating-lens",
 	"image": "torale",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"MAXMANA": 1

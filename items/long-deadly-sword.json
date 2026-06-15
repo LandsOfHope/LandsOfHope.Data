@@ -4,6 +4,9 @@
 	"dpr": 72,
 	"id": "long-deadly-sword",
 	"image": "ls2",
+	"level": {
+		"min": 700
+	},
 	"material": "metal",
 	"skill": "swords",
 	"skills": {

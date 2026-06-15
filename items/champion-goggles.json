@@ -3,6 +3,9 @@
 	"baseValue": 1110,
 	"id": "champion-goggles",
 	"image": "ces",
+	"level": {
+		"min": 150
+	},
 	"material": "gem",
 	"properties": {
 		"MAXHITPOINTS": 1

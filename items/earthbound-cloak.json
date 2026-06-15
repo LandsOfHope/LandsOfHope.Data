@@ -4,6 +4,9 @@
 	"baseValue": 298,
 	"id": "earthbound-cloak",
 	"image": "cl8",
+	"level": {
+		"min": 550
+	},
 	"material": "hide",
 	"skills": {
 		"arcane-resistance": 1,

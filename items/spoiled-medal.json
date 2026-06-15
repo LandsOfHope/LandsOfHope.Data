@@ -3,6 +3,9 @@
 	"baseValue": 170,
 	"id": "spoiled-medal",
 	"image": "1012",
+	"level": {
+		"min": 1
+	},
 	"material": "metal",
 	"stackLimit": 1000,
 	"type": "stealing-loot"

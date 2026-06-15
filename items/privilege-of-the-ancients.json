@@ -4,6 +4,9 @@
 	"expansion": "dragons-of-the-east",
 	"id": "privilege-of-the-ancients",
 	"image": "5888",
+	"level": {
+		"min": 1
+	},
 	"material": "gem",
 	"properties": {
 		"INTELLIGENCE": 1,

@@ -4,6 +4,9 @@
 	"dpr": 77,
 	"id": "leeching-hand-art",
 	"image": "6231",
+	"level": {
+		"min": 750
+	},
 	"material": "color",
 	"skill": "martial-arts",
 	"skills": {

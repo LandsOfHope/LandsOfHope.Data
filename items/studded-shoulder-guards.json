@@ -4,6 +4,9 @@
 	"baseValue": 724,
 	"id": "studded-shoulder-guards",
 	"image": "3027",
+	"level": {
+		"min": 100
+	},
 	"material": "hide",
 	"skills": {
 		"armor": 1

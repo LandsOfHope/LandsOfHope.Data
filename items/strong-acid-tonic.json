@@ -3,6 +3,9 @@
 	"baseValue": 356,
 	"id": "strong-acid-tonic",
 	"image": "pe8",
+	"level": {
+		"min": 710
+	},
 	"material": "gem",
 	"stackLimit": 1000,
 	"type": "magic-potion-other"

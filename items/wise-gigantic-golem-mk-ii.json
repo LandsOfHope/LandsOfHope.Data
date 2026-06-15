@@ -3,6 +3,9 @@
 	"baseValue": 85,
 	"id": "wise-gigantic-golem-mk-ii",
 	"image": "3188",
+	"level": {
+		"min": 695
+	},
 	"material": "stone",
 	"stackLimit": 1000,
 	"type": "golem"

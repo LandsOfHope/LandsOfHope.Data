@@ -4,6 +4,9 @@
 	"dpr": 4,
 	"id": "shark-tooth-axe",
 	"image": "1672",
+	"level": {
+		"min": 25
+	},
 	"material": "hide",
 	"skill": "axes",
 	"skills": {

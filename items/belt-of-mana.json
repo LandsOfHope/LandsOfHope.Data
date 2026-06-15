@@ -3,6 +3,9 @@
 	"baseValue": 120,
 	"id": "belt-of-mana",
 	"image": "pbelt2",
+	"level": {
+		"min": 50
+	},
 	"material": "hide",
 	"properties": {
 		"MAXMANA": 1

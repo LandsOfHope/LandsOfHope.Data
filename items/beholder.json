@@ -3,6 +3,9 @@
 	"baseValue": 33,
 	"id": "beholder",
 	"image": "6285",
+	"level": {
+		"min": 1
+	},
 	"stackLimit": 1,
 	"type": "special-creature"
 }

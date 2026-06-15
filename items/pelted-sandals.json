@@ -4,6 +4,9 @@
 	"baseValue": 330,
 	"id": "pelted-sandals",
 	"image": "sds",
+	"level": {
+		"min": 70
+	},
 	"material": "cloth",
 	"properties": {
 		"SPEED": 1

@@ -4,6 +4,9 @@
 	"dpr": 82,
 	"id": "cross-of-redemption",
 	"image": "cso",
+	"level": {
+		"min": 800
+	},
 	"material": "wood",
 	"skill": "maces",
 	"skills": {
