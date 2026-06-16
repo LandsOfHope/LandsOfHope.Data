@@ -1,0 +1,12 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 31,
+	"id": "cargo-crate-2",
+	"image": "bx",
+	"level": {
+		"min": 1
+	},
+	"material": "wood",
+	"stackLimit": 1,
+	"type": "quest-item"
+}

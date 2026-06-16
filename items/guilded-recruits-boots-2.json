@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "mail",
+	"baseValue": 0,
+	"id": "guilded-recruits-boots-2",
+	"image": "3748",
+	"level": {
+		"min": 11
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "foot-armour"
+}

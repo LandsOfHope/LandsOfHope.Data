@@ -1,0 +1,17 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 3516,
+	"dpr": 52,
+	"id": "bloody-staff-2",
+	"image": "staff03",
+	"level": {
+		"min": 500
+	},
+	"material": "wood",
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"stackLimit": 1,
+	"type": "1-handed-equipment"
+}

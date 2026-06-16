@@ -1,0 +1,13 @@
+{
+	"$type": "/v1/item",
+	"armorType": "plate",
+	"baseValue": 550,
+	"id": "footman-gloves-2",
+	"image": "2344",
+	"level": {
+		"min": 75
+	},
+	"material": "metal",
+	"stackLimit": 1,
+	"type": "hand-armour"
+}

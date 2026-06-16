@@ -1,0 +1,13 @@
+{
+	"$type": "/v1/item",
+	"armorType": "cloth",
+	"baseValue": 19,
+	"id": "wintersvale-cookie-3",
+	"image": "c1k",
+	"level": {
+		"min": 1
+	},
+	"material": "hide",
+	"stackLimit": 1000,
+	"type": "food"
+}

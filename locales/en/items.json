@@ -320,6 +320,9 @@
 	"amputate": {
 		"name": "Amputate"
 	},
+	"amputate-card": {
+		"name": "Amputate"
+	},
 	"amulet": {
 		"name": "amulet"
 	},
@@ -1146,6 +1149,9 @@
 	"barrage": {
 		"name": "Barrage"
 	},
+	"barrage-card": {
+		"name": "Barrage"
+	},
 	"barrel": {
 		"desc": "A barrel full of sharp bits.  Can be equipped to the Ammo slot via the Inventory > Equipment screen.  Used as Ammo for Catapults.",
 		"name": "barrel"
@@ -1200,6 +1206,9 @@
 		"name": "Barrendown vest"
 	},
 	"barricade": {
+		"name": "Barricade"
+	},
+	"barricade-card": {
 		"name": "Barricade"
 	},
 	"basement-blueprint": {
@@ -1385,12 +1394,18 @@
 		"name": "battle spear"
 	},
 	"battle-staff": {
+		"name": "battle staff"
+	},
+	"battle-staff-2": {
 		"name": "Battle staff"
 	},
 	"battle-stake": {
 		"name": "battle stake"
 	},
 	"battle-sword": {
+		"name": "Battle sword"
+	},
+	"battle-sword-2": {
 		"name": "Battle sword"
 	},
 	"battle-tiger": {
@@ -1408,6 +1423,9 @@
 	"battlehardened-armbraces": {
 		"name": "Battlehardened armbraces"
 	},
+	"battlehardened-armbraces-2": {
+		"name": "Battlehardened armbraces"
+	},
 	"battlehardened-armchains": {
 		"name": "Battlehardened armchains"
 	},
@@ -1415,6 +1433,9 @@
 		"name": "Battlehardened armguards"
 	},
 	"battlehardened-boots": {
+		"name": "Battlehardened boots"
+	},
+	"battlehardened-boots-2": {
 		"name": "Battlehardened boots"
 	},
 	"battlehardened-breastchain": {
@@ -1447,10 +1468,16 @@
 	"battlehardened-gloves": {
 		"name": "Battlehardened gloves"
 	},
+	"battlehardened-gloves-2": {
+		"name": "Battlehardened gloves"
+	},
 	"battlehardened-greaves": {
 		"name": "Battlehardened greaves"
 	},
 	"battlehardened-helm": {
+		"name": "Battlehardened helm"
+	},
+	"battlehardened-helm-2": {
 		"name": "Battlehardened helm"
 	},
 	"battlehardened-helmet": {
@@ -1463,6 +1490,9 @@
 		"name": "Battlehardened leggings"
 	},
 	"battlehardened-legguards": {
+		"name": "Battlehardened legguards"
+	},
+	"battlehardened-legguards-2": {
 		"name": "Battlehardened legguards"
 	},
 	"battlehardened-legplates": {
@@ -1495,13 +1525,22 @@
 	"battlehardened-shoulder-pads": {
 		"name": "Battlehardened shoulder pads"
 	},
+	"battlehardened-shoulder-pads-2": {
+		"name": "Battlehardened shoulder pads"
+	},
 	"battlehardened-shoulderchains": {
 		"name": "Battlehardened shoulderchains"
 	},
 	"battlehardened-shoulders": {
 		"name": "Battlehardened shoulders"
 	},
+	"battlehardened-shoulders-2": {
+		"name": "Battlehardened shoulders"
+	},
 	"battlehardened-sleeves": {
+		"name": "Battlehardened sleeves"
+	},
+	"battlehardened-sleeves-2": {
 		"name": "Battlehardened sleeves"
 	},
 	"battlehardened-vest": {
@@ -1514,6 +1553,18 @@
 		"name": "Battleready headband"
 	},
 	"beached-wreckage": {
+		"name": "beached wreckage"
+	},
+	"beached-wreckage-2": {
+		"name": "beached wreckage"
+	},
+	"beached-wreckage-3": {
+		"name": "beached wreckage"
+	},
+	"beached-wreckage-4": {
+		"name": "beached wreckage"
+	},
+	"beached-wreckage-5": {
 		"name": "beached wreckage"
 	},
 	"bedazzled-ring": {
@@ -1546,6 +1597,9 @@
 	"bejewelled-armbraces": {
 		"name": "Bejewelled armbraces"
 	},
+	"bejewelled-armbraces-2": {
+		"name": "Bejewelled armbraces"
+	},
 	"bejewelled-armchains": {
 		"name": "Bejewelled armchains"
 	},
@@ -1553,6 +1607,9 @@
 		"name": "Bejewelled armguards"
 	},
 	"bejewelled-boots": {
+		"name": "Bejewelled boots"
+	},
+	"bejewelled-boots-2": {
 		"name": "Bejewelled boots"
 	},
 	"bejewelled-breastchain": {
@@ -1585,10 +1642,16 @@
 	"bejewelled-gloves": {
 		"name": "Bejewelled gloves"
 	},
+	"bejewelled-gloves-2": {
+		"name": "Bejewelled gloves"
+	},
 	"bejewelled-greaves": {
 		"name": "Bejewelled greaves"
 	},
 	"bejewelled-helm": {
+		"name": "Bejewelled helm"
+	},
+	"bejewelled-helm-2": {
 		"name": "Bejewelled helm"
 	},
 	"bejewelled-helmet": {
@@ -1601,6 +1664,9 @@
 		"name": "Bejewelled leggings"
 	},
 	"bejewelled-legguards": {
+		"name": "Bejewelled legguards"
+	},
+	"bejewelled-legguards-2": {
 		"name": "Bejewelled legguards"
 	},
 	"bejewelled-legplates": {
@@ -1633,13 +1699,22 @@
 	"bejewelled-shoulder-pads": {
 		"name": "Bejewelled shoulder pads"
 	},
+	"bejewelled-shoulder-pads-2": {
+		"name": "Bejewelled shoulder pads"
+	},
 	"bejewelled-shoulderchains": {
 		"name": "Bejewelled shoulderchains"
 	},
 	"bejewelled-shoulders": {
 		"name": "Bejewelled shoulders"
 	},
+	"bejewelled-shoulders-2": {
+		"name": "Bejewelled shoulders"
+	},
 	"bejewelled-sleeves": {
+		"name": "Bejewelled sleeves"
+	},
+	"bejewelled-sleeves-2": {
 		"name": "Bejewelled sleeves"
 	},
 	"bejewelled-vest": {
@@ -1793,7 +1868,7 @@
 		"desc": "This hilt is used in the construction of bladed items.",
 		"name": "Blade Hilt"
 	},
-	"blade-of-the-4-winds": {
+	"blade-of-the-4-winds-card": {
 		"name": "Blade of the 4 Winds"
 	},
 	"blade-of-the-fallen": {
@@ -2017,6 +2092,9 @@
 	"blessed-armbraces": {
 		"name": "Blessed armbraces"
 	},
+	"blessed-armbraces-2": {
+		"name": "Blessed armbraces"
+	},
 	"blessed-armchains": {
 		"name": "Blessed armchains"
 	},
@@ -2024,6 +2102,9 @@
 		"name": "Blessed armguards"
 	},
 	"blessed-boots": {
+		"name": "Blessed boots"
+	},
+	"blessed-boots-2": {
 		"name": "Blessed boots"
 	},
 	"blessed-bracelet": {
@@ -2062,6 +2143,9 @@
 	"blessed-gloves": {
 		"name": "Blessed gloves"
 	},
+	"blessed-gloves-2": {
+		"name": "Blessed gloves"
+	},
 	"blessed-greaves": {
 		"name": "Blessed greaves"
 	},
@@ -2069,6 +2153,9 @@
 		"name": "Blessed healing potion"
 	},
 	"blessed-helm": {
+		"name": "Blessed helm"
+	},
+	"blessed-helm-2": {
 		"name": "Blessed helm"
 	},
 	"blessed-helmet": {
@@ -2081,6 +2168,9 @@
 		"name": "Blessed leggings"
 	},
 	"blessed-legguards": {
+		"name": "Blessed legguards"
+	},
+	"blessed-legguards-2": {
 		"name": "Blessed legguards"
 	},
 	"blessed-legplates": {
@@ -2116,13 +2206,22 @@
 	"blessed-shoulder-pads": {
 		"name": "Blessed shoulder pads"
 	},
+	"blessed-shoulder-pads-2": {
+		"name": "Blessed shoulder pads"
+	},
 	"blessed-shoulderchains": {
 		"name": "Blessed shoulderchains"
 	},
 	"blessed-shoulders": {
 		"name": "Blessed shoulders"
 	},
+	"blessed-shoulders-2": {
+		"name": "Blessed shoulders"
+	},
 	"blessed-sleeves": {
+		"name": "Blessed sleeves"
+	},
+	"blessed-sleeves-2": {
 		"name": "Blessed sleeves"
 	},
 	"blessed-tenth-headdress": {
@@ -2425,10 +2524,16 @@
 	"bloody-staff": {
 		"name": "Bloody staff"
 	},
+	"bloody-staff-2": {
+		"name": "Bloody staff"
+	},
 	"bloody-staff-of-souls": {
 		"name": "Bloody Staff of Souls"
 	},
 	"bloody-sword": {
+		"name": "Bloody sword"
+	},
+	"bloody-sword-2": {
 		"name": "Bloody sword"
 	},
 	"bloody-tower-shield": {
@@ -2591,6 +2696,9 @@
 	"bombardment": {
 		"name": "Bombardment"
 	},
+	"bombardment-card": {
+		"name": "Bombardment"
+	},
 	"bone-charm": {
 		"name": "bone charm"
 	},
@@ -2667,6 +2775,9 @@
 		"name": "Boss Room blueprint"
 	},
 	"boss-trophy": {
+		"name": "Boss Trophy"
+	},
+	"boss-trophy-2": {
 		"name": "Boss Trophy"
 	},
 	"botanical-arrow": {
@@ -3097,6 +3208,9 @@
 	"cadet-armbraces": {
 		"name": "Cadet armbraces"
 	},
+	"cadet-armbraces-2": {
+		"name": "Cadet armbraces"
+	},
 	"cadet-armchains": {
 		"name": "Cadet armchains"
 	},
@@ -3104,6 +3218,9 @@
 		"name": "Cadet armguards"
 	},
 	"cadet-boots": {
+		"name": "Cadet boots"
+	},
+	"cadet-boots-2": {
 		"name": "Cadet boots"
 	},
 	"cadet-breastchain": {
@@ -3136,10 +3253,16 @@
 	"cadet-gloves": {
 		"name": "Cadet gloves"
 	},
+	"cadet-gloves-2": {
+		"name": "Cadet gloves"
+	},
 	"cadet-greaves": {
 		"name": "Cadet greaves"
 	},
 	"cadet-helm": {
+		"name": "Cadet helm"
+	},
+	"cadet-helm-2": {
 		"name": "Cadet helm"
 	},
 	"cadet-helmet": {
@@ -3152,6 +3275,9 @@
 		"name": "Cadet leggings"
 	},
 	"cadet-legguards": {
+		"name": "Cadet legguards"
+	},
+	"cadet-legguards-2": {
 		"name": "Cadet legguards"
 	},
 	"cadet-legplates": {
@@ -3184,13 +3310,22 @@
 	"cadet-shoulder-pads": {
 		"name": "Cadet shoulder pads"
 	},
+	"cadet-shoulder-pads-2": {
+		"name": "Cadet shoulder pads"
+	},
 	"cadet-shoulderchains": {
 		"name": "Cadet shoulderchains"
 	},
 	"cadet-shoulders": {
 		"name": "Cadet shoulders"
 	},
+	"cadet-shoulders-2": {
+		"name": "Cadet shoulders"
+	},
 	"cadet-sleeves": {
+		"name": "Cadet sleeves"
+	},
+	"cadet-sleeves-2": {
 		"name": "Cadet sleeves"
 	},
 	"cadet-vest": {
@@ -3262,6 +3397,12 @@
 	"cargo-crate": {
 		"name": "Cargo Crate"
 	},
+	"cargo-crate-2": {
+		"name": "Cargo Crate"
+	},
+	"cargo-crate-3": {
+		"name": "Cargo Crate"
+	},
 	"carinya-flower": {
 		"name": "Carinya flower"
 	},
@@ -3297,6 +3438,9 @@
 		"name": "Celestial chest"
 	},
 	"celestial-defense-supplement": {
+		"name": "Celestial defense supplement"
+	},
+	"celestial-defense-supplement-2": {
 		"name": "Celestial defense supplement"
 	},
 	"celestial-star-dust": {
@@ -3727,6 +3871,9 @@
 	"commanders-armbraces": {
 		"name": "Commanders armbraces"
 	},
+	"commanders-armbraces-2": {
+		"name": "Commanders armbraces"
+	},
 	"commanders-armchains": {
 		"name": "Commanders armchains"
 	},
@@ -3737,6 +3884,9 @@
 		"name": "Commanders badge"
 	},
 	"commanders-boots": {
+		"name": "Commanders boots"
+	},
+	"commanders-boots-2": {
 		"name": "Commanders boots"
 	},
 	"commanders-breastchain": {
@@ -3769,10 +3919,16 @@
 	"commanders-gloves": {
 		"name": "Commanders gloves"
 	},
+	"commanders-gloves-2": {
+		"name": "Commanders gloves"
+	},
 	"commanders-greaves": {
 		"name": "Commanders greaves"
 	},
 	"commanders-helm": {
+		"name": "Commanders helm"
+	},
+	"commanders-helm-2": {
 		"name": "Commanders helm"
 	},
 	"commanders-helmet": {
@@ -3785,6 +3941,9 @@
 		"name": "Commanders leggings"
 	},
 	"commanders-legguards": {
+		"name": "Commanders legguards"
+	},
+	"commanders-legguards-2": {
 		"name": "Commanders legguards"
 	},
 	"commanders-legplates": {
@@ -3817,19 +3976,31 @@
 	"commanders-shoulder-pads": {
 		"name": "Commanders shoulder pads"
 	},
+	"commanders-shoulder-pads-2": {
+		"name": "Commanders shoulder pads"
+	},
 	"commanders-shoulderchains": {
 		"name": "Commanders shoulderchains"
 	},
 	"commanders-shoulders": {
 		"name": "Commanders shoulders"
 	},
+	"commanders-shoulders-2": {
+		"name": "Commanders shoulders"
+	},
 	"commanders-sleeves": {
+		"name": "Commanders sleeves"
+	},
+	"commanders-sleeves-2": {
 		"name": "Commanders sleeves"
 	},
 	"commanders-vest": {
 		"name": "Commanders vest"
 	},
 	"compass": {
+		"name": "Compass"
+	},
+	"compass-2": {
 		"name": "Compass"
 	},
 	"compound-bow": {
@@ -4149,6 +4320,9 @@
 		"name": "crossbow"
 	},
 	"crossfire": {
+		"name": "Crossfire"
+	},
+	"crossfire-card": {
 		"name": "Crossfire"
 	},
 	"crown": {
@@ -4528,6 +4702,9 @@
 	"darkness-cap": {
 		"name": "Darkness cap"
 	},
+	"darkness-card": {
+		"name": "Darkness"
+	},
 	"darkness-doublet": {
 		"name": "Darkness doublet"
 	},
@@ -4715,7 +4892,13 @@
 	"deadly-staff": {
 		"name": "Deadly staff"
 	},
+	"deadly-staff-2": {
+		"name": "Deadly staff"
+	},
 	"deadly-sword": {
+		"name": "Deadly sword"
+	},
+	"deadly-sword-2": {
 		"name": "Deadly sword"
 	},
 	"deadly-tower-shield": {
@@ -4734,6 +4917,9 @@
 		"name": "Death Shroud"
 	},
 	"death-star": {
+		"name": "Death Star"
+	},
+	"death-star-card": {
 		"name": "Death Star"
 	},
 	"deathcrawler-blessing": {
@@ -4787,6 +4973,9 @@
 		"name": "decaying spearhead"
 	},
 	"decimate": {
+		"name": "Decimate"
+	},
+	"decimate-card": {
 		"name": "Decimate"
 	},
 	"decorated-snowy-tree": {
@@ -4898,6 +5087,9 @@
 		"name": "Destiny`s Key"
 	},
 	"destruction": {
+		"name": "Destruction"
+	},
+	"destruction-card": {
 		"name": "Destruction"
 	},
 	"detailed-maps": {
@@ -5063,6 +5255,9 @@
 	"discharge": {
 		"name": "Discharge"
 	},
+	"discharge-card": {
+		"name": "Discharge"
+	},
 	"discharging-ordnance": {
 		"name": "discharging ordnance"
 	},
@@ -5131,6 +5326,9 @@
 		"name": "dough"
 	},
 	"downfall": {
+		"name": "Downfall"
+	},
+	"downfall-card": {
 		"name": "Downfall"
 	},
 	"dr-filberts-apron": {
@@ -5707,7 +5905,7 @@
 	"elemental-staff": {
 		"name": "elemental staff"
 	},
-	"elementaria": {
+	"elementaria-card": {
 		"name": "Elementaria"
 	},
 	"elfpetal-plant": {
@@ -6211,7 +6409,13 @@
 	"extinction": {
 		"name": "Extinction"
 	},
+	"extinction-card": {
+		"name": "Extinction"
+	},
 	"eye": {
+		"name": "eye"
+	},
+	"eye-2": {
 		"name": "eye"
 	},
 	"eye-of-icandria": {
@@ -6267,6 +6471,9 @@
 		"name": "fairy dust"
 	},
 	"faith": {
+		"name": "Faith"
+	},
+	"faith-card": {
 		"name": "Faith"
 	},
 	"fake-library-book": {
@@ -6336,6 +6543,9 @@
 		"name": "Fast small golem mk III"
 	},
 	"fatality": {
+		"name": "Fatality"
+	},
+	"fatality-card": {
 		"name": "Fatality"
 	},
 	"fattening-pet-treats": {
@@ -6770,6 +6980,9 @@
 	"footman-armbraces": {
 		"name": "Footman armbraces"
 	},
+	"footman-armbraces-2": {
+		"name": "Footman armbraces"
+	},
 	"footman-armchains": {
 		"name": "Footman armchains"
 	},
@@ -6777,6 +6990,9 @@
 		"name": "Footman armguards"
 	},
 	"footman-boots": {
+		"name": "Footman boots"
+	},
+	"footman-boots-2": {
 		"name": "Footman boots"
 	},
 	"footman-breastchain": {
@@ -6809,10 +7025,16 @@
 	"footman-gloves": {
 		"name": "Footman gloves"
 	},
+	"footman-gloves-2": {
+		"name": "Footman gloves"
+	},
 	"footman-greaves": {
 		"name": "Footman greaves"
 	},
 	"footman-helm": {
+		"name": "Footman helm"
+	},
+	"footman-helm-2": {
 		"name": "Footman helm"
 	},
 	"footman-helmet": {
@@ -6825,6 +7047,9 @@
 		"name": "Footman leggings"
 	},
 	"footman-legguards": {
+		"name": "Footman legguards"
+	},
+	"footman-legguards-2": {
 		"name": "Footman legguards"
 	},
 	"footman-legplates": {
@@ -6857,13 +7082,22 @@
 	"footman-shoulder-pads": {
 		"name": "Footman shoulder pads"
 	},
+	"footman-shoulder-pads-2": {
+		"name": "Footman shoulder pads"
+	},
 	"footman-shoulderchains": {
 		"name": "Footman shoulderchains"
 	},
 	"footman-shoulders": {
 		"name": "Footman shoulders"
 	},
+	"footman-shoulders-2": {
+		"name": "Footman shoulders"
+	},
 	"footman-sleeves": {
+		"name": "Footman sleeves"
+	},
+	"footman-sleeves-2": {
 		"name": "Footman sleeves"
 	},
 	"footman-vest": {
@@ -7335,6 +7569,9 @@
 	"gash": {
 		"name": "Gash"
 	},
+	"gash-card": {
+		"name": "Gash"
+	},
 	"gatherers-earring": {
 		"name": "Gatherers earring"
 	},
@@ -7351,6 +7588,9 @@
 		"name": "gem"
 	},
 	"gem-bag": {
+		"name": "gem bag"
+	},
+	"gem-bag-2": {
 		"name": "gem bag"
 	},
 	"gem-face": {
@@ -7815,10 +8055,16 @@
 	"godly-staff": {
 		"name": "Godly staff"
 	},
+	"godly-staff-2": {
+		"name": "Godly staff"
+	},
 	"godly-strength-potion": {
 		"name": "godly strength potion"
 	},
 	"godly-sword": {
+		"name": "Godly sword"
+	},
+	"godly-sword-2": {
 		"name": "Godly sword"
 	},
 	"godly-tower-shield": {
@@ -8035,6 +8281,9 @@
 		"name": "Green Control Box"
 	},
 	"green-crystal": {
+		"name": "Green crystal"
+	},
+	"green-crystal-2": {
 		"name": "Green Crystal"
 	},
 	"green-dark-depths-control-crystal": {
@@ -8091,6 +8340,9 @@
 		"name": "grey potion"
 	},
 	"grief": {
+		"name": "Grief"
+	},
+	"grief-card": {
 		"name": "Grief"
 	},
 	"grim-cannon": {
@@ -8254,6 +8506,9 @@
 	"guilded-battlehardened-boots": {
 		"name": "Guilded Battlehardened boots"
 	},
+	"guilded-battlehardened-boots-2": {
+		"name": "Guilded Battlehardened boots"
+	},
 	"guilded-battlehardened-breastplate": {
 		"name": "Guilded Battlehardened breastplate"
 	},
@@ -8281,10 +8536,19 @@
 	"guilded-battlehardened-pauldrons": {
 		"name": "Guilded Battlehardened pauldrons"
 	},
+	"guilded-battlehardened-pauldrons-2": {
+		"name": "Guilded Battlehardened pauldrons"
+	},
 	"guilded-battlehardened-sleeves": {
 		"name": "Guilded Battlehardened sleeves"
 	},
+	"guilded-battlehardened-sleeves-2": {
+		"name": "Guilded Battlehardened sleeves"
+	},
 	"guilded-bejewelled-boots": {
+		"name": "Guilded Bejewelled boots"
+	},
+	"guilded-bejewelled-boots-2": {
 		"name": "Guilded Bejewelled boots"
 	},
 	"guilded-bejewelled-breastplate": {
@@ -8314,10 +8578,19 @@
 	"guilded-bejewelled-pauldrons": {
 		"name": "Guilded Bejewelled pauldrons"
 	},
+	"guilded-bejewelled-pauldrons-2": {
+		"name": "Guilded Bejewelled pauldrons"
+	},
 	"guilded-bejewelled-sleeves": {
 		"name": "Guilded Bejewelled sleeves"
 	},
+	"guilded-bejewelled-sleeves-2": {
+		"name": "Guilded Bejewelled sleeves"
+	},
 	"guilded-blessed-boots": {
+		"name": "Guilded Blessed boots"
+	},
+	"guilded-blessed-boots-2": {
 		"name": "Guilded Blessed boots"
 	},
 	"guilded-blessed-breastplate": {
@@ -8347,7 +8620,13 @@
 	"guilded-blessed-pauldrons": {
 		"name": "Guilded Blessed pauldrons"
 	},
+	"guilded-blessed-pauldrons-2": {
+		"name": "Guilded Blessed pauldrons"
+	},
 	"guilded-blessed-sleeves": {
+		"name": "Guilded Blessed sleeves"
+	},
+	"guilded-blessed-sleeves-2": {
 		"name": "Guilded Blessed sleeves"
 	},
 	"guilded-bloody-broad-axe": {
@@ -8402,6 +8681,9 @@
 		"name": "Guilded Bloody vogue"
 	},
 	"guilded-cadet-boots": {
+		"name": "Guilded Cadet boots"
+	},
+	"guilded-cadet-boots-2": {
 		"name": "Guilded Cadet Boots"
 	},
 	"guilded-cadet-breastplate": {
@@ -8431,10 +8713,19 @@
 	"guilded-cadet-pauldrons": {
 		"name": "Guilded Cadet pauldrons"
 	},
+	"guilded-cadet-pauldrons-2": {
+		"name": "Guilded Cadet pauldrons"
+	},
 	"guilded-cadet-sleeves": {
 		"name": "Guilded Cadet sleeves"
 	},
+	"guilded-cadet-sleeves-2": {
+		"name": "Guilded Cadet sleeves"
+	},
 	"guilded-commanders-boots": {
+		"name": "Guilded Commanders boots"
+	},
+	"guilded-commanders-boots-2": {
 		"name": "Guilded Commanders boots"
 	},
 	"guilded-commanders-breastplate": {
@@ -8464,7 +8755,13 @@
 	"guilded-commanders-pauldrons": {
 		"name": "Guilded Commanders pauldrons"
 	},
+	"guilded-commanders-pauldrons-2": {
+		"name": "Guilded Commanders pauldrons"
+	},
 	"guilded-commanders-sleeves": {
+		"name": "Guilded Commanders sleeves"
+	},
+	"guilded-commanders-sleeves-2": {
 		"name": "Guilded Commanders sleeves"
 	},
 	"guilded-cured-boots": {
@@ -8701,6 +8998,9 @@
 	"guilded-footman-boots": {
 		"name": "Guilded Footman boots"
 	},
+	"guilded-footman-boots-2": {
+		"name": "Guilded Footman boots"
+	},
 	"guilded-footman-breastplate": {
 		"name": "Guilded Footman breastplate"
 	},
@@ -8728,7 +9028,13 @@
 	"guilded-footman-pauldrons": {
 		"name": "Guilded Footman pauldrons"
 	},
+	"guilded-footman-pauldrons-2": {
+		"name": "Guilded Footman pauldrons"
+	},
 	"guilded-footman-sleeves": {
+		"name": "Guilded Footman sleeves"
+	},
+	"guilded-footman-sleeves-2": {
 		"name": "Guilded Footman sleeves"
 	},
 	"guilded-foresters-boots": {
@@ -9028,6 +9334,9 @@
 	"guilded-ravaged-boots": {
 		"name": "Guilded Ravaged boots"
 	},
+	"guilded-ravaged-boots-2": {
+		"name": "Guilded Ravaged boots"
+	},
 	"guilded-ravaged-breastplate": {
 		"name": "Guilded Ravaged breastplate"
 	},
@@ -9055,10 +9364,19 @@
 	"guilded-ravaged-pauldrons": {
 		"name": "Guilded Ravaged pauldrons"
 	},
+	"guilded-ravaged-pauldrons-2": {
+		"name": "Guilded Ravaged pauldrons"
+	},
 	"guilded-ravaged-sleeves": {
 		"name": "Guilded Ravaged sleeves"
 	},
+	"guilded-ravaged-sleeves-2": {
+		"name": "Guilded Ravaged sleeves"
+	},
 	"guilded-recruits-boots": {
+		"name": "Guilded Recruits boots"
+	},
+	"guilded-recruits-boots-2": {
 		"name": "Guilded Recruits boots"
 	},
 	"guilded-recruits-breastplate": {
@@ -9088,7 +9406,13 @@
 	"guilded-recruits-pauldrons": {
 		"name": "Guilded Recruits pauldrons"
 	},
+	"guilded-recruits-pauldrons-2": {
+		"name": "Guilded Recruits pauldrons"
+	},
 	"guilded-recruits-sleeves": {
+		"name": "Guilded Recruits sleeves"
+	},
+	"guilded-recruits-sleeves-2": {
 		"name": "Guilded Recruits sleeves"
 	},
 	"guilded-regal-cap": {
@@ -9118,6 +9442,9 @@
 	"guilded-reinforced-boots": {
 		"name": "Guilded Reinforced boots"
 	},
+	"guilded-reinforced-boots-2": {
+		"name": "Guilded Reinforced boots"
+	},
 	"guilded-reinforced-breastplate": {
 		"name": "Guilded Reinforced breastplate"
 	},
@@ -9145,7 +9472,13 @@
 	"guilded-reinforced-pauldrons": {
 		"name": "Guilded Reinforced pauldrons"
 	},
+	"guilded-reinforced-pauldrons-2": {
+		"name": "Guilded Reinforced pauldrons"
+	},
 	"guilded-reinforced-sleeves": {
+		"name": "Guilded Reinforced sleeves"
+	},
+	"guilded-reinforced-sleeves-2": {
 		"name": "Guilded Reinforced sleeves"
 	},
 	"guilded-royal-cap": {
@@ -9175,6 +9508,9 @@
 	"guilded-savage-boots": {
 		"name": "Guilded Savage boots"
 	},
+	"guilded-savage-boots-2": {
+		"name": "Guilded Savage boots"
+	},
 	"guilded-savage-breastplate": {
 		"name": "Guilded Savage breastplate"
 	},
@@ -9202,7 +9538,13 @@
 	"guilded-savage-pauldrons": {
 		"name": "Guilded Savage pauldrons"
 	},
+	"guilded-savage-pauldrons-2": {
+		"name": "Guilded Savage pauldrons"
+	},
 	"guilded-savage-sleeves": {
+		"name": "Guilded Savage sleeves"
+	},
+	"guilded-savage-sleeves-2": {
 		"name": "Guilded Savage sleeves"
 	},
 	"guilded-simple-cap": {
@@ -9340,6 +9682,9 @@
 	"guilded-wicked-boots": {
 		"name": "Guilded Wicked boots"
 	},
+	"guilded-wicked-boots-2": {
+		"name": "Guilded Wicked boots"
+	},
 	"guilded-wicked-breastplate": {
 		"name": "Guilded Wicked breastplate"
 	},
@@ -9367,7 +9712,13 @@
 	"guilded-wicked-pauldrons": {
 		"name": "Guilded Wicked pauldrons"
 	},
+	"guilded-wicked-pauldrons-2": {
+		"name": "Guilded Wicked pauldrons"
+	},
 	"guilded-wicked-sleeves": {
+		"name": "Guilded Wicked sleeves"
+	},
+	"guilded-wicked-sleeves-2": {
 		"name": "Guilded Wicked sleeves"
 	},
 	"gun-defense-supplement": {
@@ -9477,6 +9828,9 @@
 	"harm": {
 		"name": "Harm"
 	},
+	"harm-card": {
+		"name": "Harm"
+	},
 	"harp": {
 		"name": "harp"
 	},
@@ -9559,6 +9913,9 @@
 		"name": "heater shield"
 	},
 	"heather-blue-paper": {
+		"name": "Heather blue paper"
+	},
+	"heather-blue-paper-2": {
 		"name": "Heather blue paper"
 	},
 	"heavy-battle-mace": {
@@ -9751,6 +10108,9 @@
 	"honor": {
 		"name": "Honor"
 	},
+	"honor-card": {
+		"name": "Honor"
+	},
 	"hood": {
 		"name": "hood"
 	},
@@ -9800,6 +10160,9 @@
 		"name": "Hunters blunderbuss"
 	},
 	"hunters-bow": {
+		"name": "hunters bow"
+	},
+	"hunters-bow-2": {
 		"name": "Hunters bow"
 	},
 	"hunters-broadsword": {
@@ -9898,7 +10261,13 @@
 	"hunters-staff": {
 		"name": "Hunters staff"
 	},
+	"hunters-staff-2": {
+		"name": "Hunters staff"
+	},
 	"hunters-sword": {
+		"name": "Hunters sword"
+	},
+	"hunters-sword-2": {
 		"name": "Hunters sword"
 	},
 	"hunters-tower-shield": {
@@ -10040,7 +10409,7 @@
 		"desc": "This smoothstone is used as ammunition for slings.",
 		"name": "icy wand"
 	},
-	"ilandria": {
+	"ilandria-card": {
 		"name": "Ilandria"
 	},
 	"ilhazooms-trophy": {
@@ -10172,7 +10541,13 @@
 	"infamous-staff": {
 		"name": "Infamous staff"
 	},
+	"infamous-staff-2": {
+		"name": "Infamous staff"
+	},
 	"infamous-sword": {
+		"name": "Infamous sword"
+	},
+	"infamous-sword-2": {
 		"name": "Infamous sword"
 	},
 	"infamous-tower-shield": {
@@ -10212,6 +10587,9 @@
 	"infliction": {
 		"name": "Infliction"
 	},
+	"infliction-card": {
+		"name": "Infliction"
+	},
 	"infused-healing-potion": {
 		"name": "Infused healing potion"
 	},
@@ -10228,6 +10606,9 @@
 		"name": "Inner Eye of Ilhazoom"
 	},
 	"insight": {
+		"name": "Insight"
+	},
+	"insight-card": {
 		"name": "Insight"
 	},
 	"intact-blue-crystal": {
@@ -10324,6 +10705,9 @@
 		"name": "Jewel Encrusted Earring"
 	},
 	"jewel-of-the-barons": {
+		"name": "Jewel of the Barons"
+	},
+	"jewel-of-the-barons-2": {
 		"name": "Jewel of the Barons"
 	},
 	"jewel-of-the-delta": {
@@ -10480,6 +10864,9 @@
 		"name": "Killswift"
 	},
 	"king-arthur": {
+		"name": "King Arthur"
+	},
+	"king-arthur-card": {
 		"name": "King Arthur"
 	},
 	"kings-broth": {
@@ -10788,6 +11175,9 @@
 	"learning-device": {
 		"name": "learning device"
 	},
+	"learning-device-2": {
+		"name": "learning device"
+	},
 	"leather-chaps": {
 		"name": "leather chaps"
 	},
@@ -10951,10 +11341,17 @@
 		"name": "Legendary smitey stick"
 	},
 	"legendary-staff": {
+		"name": "Legendary staff"
+	},
+	"legendary-staff-2": {
 		"desc": "A Legendary Staff, It requires the STAVES skill to equip. It gives bonuses to Attack power and Strength which raises melee damage as well as Stamina which gives a passive boost to Hit Points as well as allowing you to do more damage via styles.",
 		"name": "Legendary staff"
 	},
 	"legendary-sword": {
+		"desc": "A Legendary sword, It requires the SWORDS skill to equip. It gives bonuses to Attack power and Strength which raises melee damage and Stamina which gives a passive boost to Hit Points as well as allowing you to cause more damage via styles.",
+		"name": "Legendary sword"
+	},
+	"legendary-sword-2": {
 		"name": "Legendary sword"
 	},
 	"legendary-throwing-knife": {
@@ -11126,7 +11523,13 @@
 	"lethal-staff": {
 		"name": "Lethal staff"
 	},
+	"lethal-staff-2": {
+		"name": "Lethal staff"
+	},
 	"lethal-sword": {
+		"name": "Lethal sword"
+	},
+	"lethal-sword-2": {
 		"name": "Lethal sword"
 	},
 	"lethal-tower-shield": {
@@ -11816,6 +12219,9 @@
 	"matrix-crystal": {
 		"name": "Matrix crystal"
 	},
+	"matrix-crystal-2": {
+		"name": "Matrix crystal"
+	},
 	"mayonnaise": {
 		"name": "mayonnaise"
 	},
@@ -11867,6 +12273,9 @@
 	"medal-of-valor": {
 		"name": "Medal of Valor"
 	},
+	"medal-of-valor-2": {
+		"name": "Medal of Valor"
+	},
 	"medical-supplies": {
 		"name": "Medical supplies"
 	},
@@ -11895,6 +12304,9 @@
 		"name": "medley"
 	},
 	"melody": {
+		"name": "Melody"
+	},
+	"melody-card": {
 		"name": "Melody"
 	},
 	"memorial": {
@@ -11945,6 +12357,9 @@
 	"merlin": {
 		"name": "Merlin"
 	},
+	"merlin-card": {
+		"name": "Merlin"
+	},
 	"merlins-necklace": {
 		"name": "Merlin`s necklace"
 	},
@@ -11962,6 +12377,12 @@
 	},
 	"metal-dragon": {
 		"name": "Metal Dragon"
+	},
+	"metallic-bow": {
+		"name": "metallic bow"
+	},
+	"metallic-long-bow": {
+		"name": "metallic long bow"
 	},
 	"meteorite-magnet": {
 		"name": "Meteorite magnet"
@@ -12221,6 +12642,9 @@
 	"morgana": {
 		"name": "Morgana"
 	},
+	"morgana-card": {
+		"name": "Morgana"
+	},
 	"morganas-compendium": {
 		"name": "Morgana`s compendium"
 	},
@@ -12310,6 +12734,9 @@
 		"name": "Mundle Plant"
 	},
 	"murkeye": {
+		"name": "Murkeye"
+	},
+	"murkeye-card": {
 		"name": "Murkeye"
 	},
 	"murkeyes-trophy": {
@@ -12611,7 +13038,7 @@
 	"ninth-key": {
 		"name": "Ninth Key"
 	},
-	"nioxis-the-corruptor": {
+	"nioxis-the-corruptor-card": {
 		"name": "Nioxis the Corruptor"
 	},
 	"noble-bag-of-strength": {
@@ -12737,6 +13164,9 @@
 	"oblivion": {
 		"name": "Oblivion"
 	},
+	"oblivion-card": {
+		"name": "Oblivion"
+	},
 	"obscure-smudged-tattoo": {
 		"name": "Obscure smudged tattoo"
 	},
@@ -12747,6 +13177,9 @@
 		"name": "Observatory deed"
 	},
 	"obstruction": {
+		"name": "Obstruction"
+	},
+	"obstruction-card": {
 		"name": "Obstruction"
 	},
 	"ocarina": {
@@ -13018,7 +13451,13 @@
 	"ornate-staff": {
 		"name": "Ornate staff"
 	},
+	"ornate-staff-2": {
+		"name": "Ornate staff"
+	},
 	"ornate-sword": {
+		"name": "Ornate sword"
+	},
+	"ornate-sword-2": {
 		"name": "Ornate sword"
 	},
 	"ornate-tower-shield": {
@@ -13055,6 +13494,9 @@
 		"name": "Oyster"
 	},
 	"pack-rat": {
+		"name": "Pack Rat"
+	},
+	"pack-rat-2": {
 		"name": "Pack rat"
 	},
 	"pail-of-water": {
@@ -13136,6 +13578,9 @@
 		"name": "Pale violet paper"
 	},
 	"pale-weak-cyan-paper": {
+		"name": "Pale Weak Cyan paper"
+	},
+	"pale-weak-cyan-paper-2": {
 		"name": "Pale Weak Cyan paper"
 	},
 	"pancake": {
@@ -13350,6 +13795,9 @@
 		"name": "Pirate Box"
 	},
 	"pirate-chest": {
+		"name": "Pirate Chest"
+	},
+	"pirate-chest-2": {
 		"name": "Pirate Chest"
 	},
 	"pirate-map-piece-1": {
@@ -13740,6 +14188,9 @@
 	"portal": {
 		"name": "Portal"
 	},
+	"portal-2": {
+		"name": "Portal"
+	},
 	"portal-room-blueprint": {
 		"name": "Portal Room blueprint"
 	},
@@ -13939,6 +14390,9 @@
 	"prized-gem": {
 		"name": "Prized Gem"
 	},
+	"prized-gem-2": {
+		"name": "Prized Gem"
+	},
 	"prized-orcish-worship-idol": {
 		"name": "Prized Orcish Worship Idol"
 	},
@@ -14122,6 +14576,12 @@
 		"name": "putrified shroud"
 	},
 	"puzzle": {
+		"name": "puzzle"
+	},
+	"puzzle-2": {
+		"name": "Puzzle"
+	},
+	"puzzle-3": {
 		"name": "Puzzle"
 	},
 	"puzzle-box": {
@@ -14317,6 +14777,9 @@
 	"ravaged-armbraces": {
 		"name": "Ravaged armbraces"
 	},
+	"ravaged-armbraces-2": {
+		"name": "Ravaged armbraces"
+	},
 	"ravaged-armchains": {
 		"name": "Ravaged armchains"
 	},
@@ -14324,6 +14787,9 @@
 		"name": "Ravaged armguards"
 	},
 	"ravaged-boots": {
+		"name": "Ravaged boots"
+	},
+	"ravaged-boots-2": {
 		"name": "Ravaged boots"
 	},
 	"ravaged-breastchain": {
@@ -14356,10 +14822,16 @@
 	"ravaged-gloves": {
 		"name": "Ravaged gloves"
 	},
+	"ravaged-gloves-2": {
+		"name": "Ravaged gloves"
+	},
 	"ravaged-greaves": {
 		"name": "Ravaged greaves"
 	},
 	"ravaged-helm": {
+		"name": "Ravaged helm"
+	},
+	"ravaged-helm-2": {
 		"name": "Ravaged helm"
 	},
 	"ravaged-helmet": {
@@ -14375,6 +14847,9 @@
 		"name": "Ravaged leggings"
 	},
 	"ravaged-legguards": {
+		"name": "Ravaged legguards"
+	},
+	"ravaged-legguards-2": {
 		"name": "Ravaged legguards"
 	},
 	"ravaged-legplates": {
@@ -14407,13 +14882,22 @@
 	"ravaged-shoulder-pads": {
 		"name": "Ravaged shoulder pads"
 	},
+	"ravaged-shoulder-pads-2": {
+		"name": "Ravaged shoulder pads"
+	},
 	"ravaged-shoulderchains": {
 		"name": "Ravaged shoulderchains"
 	},
 	"ravaged-shoulders": {
 		"name": "Ravaged shoulders"
 	},
+	"ravaged-shoulders-2": {
+		"name": "Ravaged shoulders"
+	},
 	"ravaged-sleeves": {
+		"name": "Ravaged sleeves"
+	},
+	"ravaged-sleeves-2": {
 		"name": "Ravaged sleeves"
 	},
 	"ravaged-vest": {
@@ -14455,6 +14939,9 @@
 	"recruits-armbraces": {
 		"name": "Recruits armbraces"
 	},
+	"recruits-armbraces-2": {
+		"name": "Recruits armbraces"
+	},
 	"recruits-armchains": {
 		"name": "Recruits armchains"
 	},
@@ -14462,6 +14949,9 @@
 		"name": "Recruits armguards"
 	},
 	"recruits-boots": {
+		"name": "Recruits boots"
+	},
+	"recruits-boots-2": {
 		"name": "Recruits boots"
 	},
 	"recruits-breastchain": {
@@ -14494,10 +14984,16 @@
 	"recruits-gloves": {
 		"name": "Recruits gloves"
 	},
+	"recruits-gloves-2": {
+		"name": "Recruits gloves"
+	},
 	"recruits-greaves": {
 		"name": "Recruits greaves"
 	},
 	"recruits-helm": {
+		"name": "Recruits helm"
+	},
+	"recruits-helm-2": {
 		"name": "Recruits helm"
 	},
 	"recruits-helmet": {
@@ -14510,6 +15006,9 @@
 		"name": "Recruits leggings"
 	},
 	"recruits-legguards": {
+		"name": "Recruits legguards"
+	},
+	"recruits-legguards-2": {
 		"name": "Recruits legguards"
 	},
 	"recruits-legplates": {
@@ -14542,13 +15041,22 @@
 	"recruits-shoulder-pads": {
 		"name": "Recruits shoulder pads"
 	},
+	"recruits-shoulder-pads-2": {
+		"name": "Recruits shoulder pads"
+	},
 	"recruits-shoulderchains": {
 		"name": "Recruits shoulderchains"
 	},
 	"recruits-shoulders": {
 		"name": "Recruits shoulders"
 	},
+	"recruits-shoulders-2": {
+		"name": "Recruits shoulders"
+	},
 	"recruits-sleeves": {
+		"name": "Recruits sleeves"
+	},
+	"recruits-sleeves-2": {
 		"name": "Recruits sleeves"
 	},
 	"recruits-vest": {
@@ -14653,7 +15161,7 @@
 	"redcap-spore": {
 		"name": "redcap spore"
 	},
-	"redfang-firemane": {
+	"redfang-firemane-card": {
 		"name": "Redfang Firemane"
 	},
 	"redhat": {
@@ -14743,6 +15251,9 @@
 	"reinforced-armbraces": {
 		"name": "Reinforced armbraces"
 	},
+	"reinforced-armbraces-2": {
+		"name": "Reinforced armbraces"
+	},
 	"reinforced-armchains": {
 		"name": "Reinforced armchains"
 	},
@@ -14753,6 +15264,9 @@
 		"name": "Reinforced battle bow"
 	},
 	"reinforced-boots": {
+		"name": "Reinforced boots"
+	},
+	"reinforced-boots-2": {
 		"name": "Reinforced boots"
 	},
 	"reinforced-breastchain": {
@@ -14788,10 +15302,16 @@
 	"reinforced-gloves": {
 		"name": "Reinforced gloves"
 	},
+	"reinforced-gloves-2": {
+		"name": "Reinforced gloves"
+	},
 	"reinforced-greaves": {
 		"name": "Reinforced greaves"
 	},
 	"reinforced-helm": {
+		"name": "Reinforced helm"
+	},
+	"reinforced-helm-2": {
 		"name": "Reinforced helm"
 	},
 	"reinforced-helmet": {
@@ -14804,6 +15324,9 @@
 		"name": "Reinforced leggings"
 	},
 	"reinforced-legguards": {
+		"name": "Reinforced legguards"
+	},
+	"reinforced-legguards-2": {
 		"name": "Reinforced legguards"
 	},
 	"reinforced-legplates": {
@@ -14839,13 +15362,22 @@
 	"reinforced-shoulder-pads": {
 		"name": "Reinforced shoulder pads"
 	},
+	"reinforced-shoulder-pads-2": {
+		"name": "Reinforced shoulder pads"
+	},
 	"reinforced-shoulderchains": {
 		"name": "Reinforced shoulderchains"
 	},
 	"reinforced-shoulders": {
 		"name": "Reinforced shoulders"
 	},
+	"reinforced-shoulders-2": {
+		"name": "Reinforced shoulders"
+	},
 	"reinforced-sleeves": {
+		"name": "Reinforced sleeves"
+	},
+	"reinforced-sleeves-2": {
 		"name": "Reinforced sleeves"
 	},
 	"reinforced-vest": {
@@ -14879,6 +15411,9 @@
 		"name": "Relocation Permit"
 	},
 	"rend": {
+		"name": "Rend"
+	},
+	"rend-card": {
 		"name": "Rend"
 	},
 	"rest-chamber-blueprint": {
@@ -15387,6 +15922,9 @@
 	"ruination": {
 		"name": "Ruination"
 	},
+	"ruination-card": {
+		"name": "Ruination"
+	},
 	"runic-wand": {
 		"name": "Runic wand"
 	},
@@ -15484,6 +16022,9 @@
 	"sakure": {
 		"name": "Sakure"
 	},
+	"sakure-card": {
+		"name": "Sakure"
+	},
 	"salad": {
 		"name": "salad"
 	},
@@ -15554,6 +16095,9 @@
 	"savage-armbraces": {
 		"name": "Savage armbraces"
 	},
+	"savage-armbraces-2": {
+		"name": "Savage armbraces"
+	},
 	"savage-armchains": {
 		"name": "Savage armchains"
 	},
@@ -15561,6 +16105,9 @@
 		"name": "Savage armguards"
 	},
 	"savage-boots": {
+		"name": "Savage boots"
+	},
+	"savage-boots-2": {
 		"name": "Savage boots"
 	},
 	"savage-bracelet": {
@@ -15596,10 +16143,16 @@
 	"savage-gloves": {
 		"name": "Savage gloves"
 	},
+	"savage-gloves-2": {
+		"name": "Savage gloves"
+	},
 	"savage-greaves": {
 		"name": "Savage greaves"
 	},
 	"savage-helm": {
+		"name": "Savage helm"
+	},
+	"savage-helm-2": {
 		"name": "Savage helm"
 	},
 	"savage-helmet": {
@@ -15612,6 +16165,9 @@
 		"name": "Savage leggings"
 	},
 	"savage-legguards": {
+		"name": "Savage legguards"
+	},
+	"savage-legguards-2": {
 		"name": "Savage legguards"
 	},
 	"savage-legplates": {
@@ -15644,13 +16200,22 @@
 	"savage-shoulder-pads": {
 		"name": "Savage shoulder pads"
 	},
+	"savage-shoulder-pads-2": {
+		"name": "Savage shoulder pads"
+	},
 	"savage-shoulderchains": {
 		"name": "Savage shoulderchains"
 	},
 	"savage-shoulders": {
 		"name": "Savage shoulders"
 	},
+	"savage-shoulders-2": {
+		"name": "Savage shoulders"
+	},
 	"savage-sleeves": {
+		"name": "Savage sleeves"
+	},
+	"savage-sleeves-2": {
 		"name": "Savage sleeves"
 	},
 	"savage-vest": {
@@ -15674,7 +16239,7 @@
 	"scalpel": {
 		"name": "scalpel"
 	},
-	"scar": {
+	"scar-card": {
 		"name": "Scar"
 	},
 	"scarab": {
@@ -15702,6 +16267,9 @@
 		"name": "Scarab shoulders"
 	},
 	"scarecrow": {
+		"name": "Scarecrow"
+	},
+	"scarecrow-2": {
 		"name": "Scarecrow"
 	},
 	"scarlet-paper": {
@@ -16376,6 +16944,9 @@
 	"slash": {
 		"name": "Slash"
 	},
+	"slash-card": {
+		"name": "Slash"
+	},
 	"slayers-hand": {
 		"name": "Slayers Hand"
 	},
@@ -16413,6 +16984,9 @@
 		"name": "Small Axe Handle"
 	},
 	"small-bag": {
+		"name": "small bag"
+	},
+	"small-bag-2": {
 		"name": "Small Bag"
 	},
 	"small-battle-shield": {
@@ -17147,6 +17721,9 @@
 	"staff": {
 		"name": "staff"
 	},
+	"staff-2": {
+		"name": "staff"
+	},
 	"staff-of-might": {
 		"name": "staff of might"
 	},
@@ -17507,6 +18084,9 @@
 	"store-room-blueprint": {
 		"name": "Store Room blueprint"
 	},
+	"store-room-blueprint-2": {
+		"name": "Store Room blueprint"
+	},
 	"storms-trophy": {
 		"name": "Storm`s Trophy"
 	},
@@ -17786,6 +18366,9 @@
 		"name": "Studded headgear"
 	},
 	"studded-leggings": {
+		"name": "Studded leggings"
+	},
+	"studded-leggings-2": {
 		"name": "studded leggings"
 	},
 	"studded-mitts": {
@@ -17916,10 +18499,22 @@
 	"supernova": {
 		"name": "Supernova"
 	},
+	"supernova-card": {
+		"name": "Supernova"
+	},
 	"supply-crate": {
+		"name": "Supply Crate"
+	},
+	"supply-crate-2": {
 		"name": "supply crate"
 	},
 	"supply-request-note": {
+		"name": "Supply Request Note"
+	},
+	"supply-request-note-2": {
+		"name": "Supply Request Note"
+	},
+	"supply-request-note-3": {
 		"name": "Supply Request Note"
 	},
 	"surge-protector": {
@@ -18058,6 +18653,9 @@
 		"name": "tanned basinet"
 	},
 	"tanned-boots": {
+		"name": "tanned boots"
+	},
+	"tanned-boots-2": {
 		"name": "Tanned boots"
 	},
 	"tanned-bracers": {
@@ -18287,6 +18885,15 @@
 	"the-strangers-key": {
 		"name": "The Strangers Key"
 	},
+	"the-strangers-key-2": {
+		"name": "The Strangers Key"
+	},
+	"the-strangers-key-3": {
+		"name": "The Strangers Key"
+	},
+	"the-strangers-key-4": {
+		"name": "The Strangers Key"
+	},
 	"the-sword": {
 		"name": "The sword"
 	},
@@ -18421,6 +19028,9 @@
 		"name": "Tomb blueprint"
 	},
 	"tombstone": {
+		"name": "tombstone"
+	},
+	"tombstone-2": {
 		"name": "Tombstone"
 	},
 	"tome": {
@@ -18464,6 +19074,9 @@
 		"name": "torch"
 	},
 	"torment": {
+		"name": "Torment"
+	},
+	"torment-card": {
 		"name": "Torment"
 	},
 	"torn-sailcloth": {
@@ -18655,6 +19268,9 @@
 		"name": "Training Badge X"
 	},
 	"training-box": {
+		"name": "Training Box"
+	},
+	"training-box-2": {
 		"name": "Training Box"
 	},
 	"trap": {
@@ -19017,6 +19633,9 @@
 	"vial-of-blood": {
 		"name": "vial of blood"
 	},
+	"vial-of-blood-2": {
+		"name": "vial of blood"
+	},
 	"vial-of-snake-venom": {
 		"name": "Vial of Snake Venom"
 	},
@@ -19131,6 +19750,9 @@
 		"name": "Volcanoss`s Trophy"
 	},
 	"volley": {
+		"name": "Volley"
+	},
+	"volley-card": {
 		"name": "Volley"
 	},
 	"volleymasters-bracers": {
@@ -19531,10 +20153,13 @@
 	"whitefang": {
 		"name": "Whitefang"
 	},
-	"whitefang-deathguard": {
+	"whitefang-deathguard-card": {
 		"name": "Whitefang Deathguard"
 	},
 	"wicked-armbraces": {
+		"name": "Wicked armbraces"
+	},
+	"wicked-armbraces-2": {
 		"name": "Wicked armbraces"
 	},
 	"wicked-armchains": {
@@ -19544,6 +20169,9 @@
 		"name": "Wicked armguards"
 	},
 	"wicked-boots": {
+		"name": "Wicked boots"
+	},
+	"wicked-boots-2": {
 		"name": "Wicked boots"
 	},
 	"wicked-breastchain": {
@@ -19576,10 +20204,16 @@
 	"wicked-gloves": {
 		"name": "Wicked gloves"
 	},
+	"wicked-gloves-2": {
+		"name": "Wicked gloves"
+	},
 	"wicked-greaves": {
 		"name": "Wicked greaves"
 	},
 	"wicked-helm": {
+		"name": "Wicked helm"
+	},
+	"wicked-helm-2": {
 		"name": "Wicked helm"
 	},
 	"wicked-helmet": {
@@ -19592,6 +20226,9 @@
 		"name": "Wicked leggings"
 	},
 	"wicked-legguards": {
+		"name": "Wicked legguards"
+	},
+	"wicked-legguards-2": {
 		"name": "Wicked legguards"
 	},
 	"wicked-legplates": {
@@ -19624,13 +20261,22 @@
 	"wicked-shoulder-pads": {
 		"name": "Wicked shoulder pads"
 	},
+	"wicked-shoulder-pads-2": {
+		"name": "Wicked shoulder pads"
+	},
 	"wicked-shoulderchains": {
 		"name": "Wicked shoulderchains"
 	},
 	"wicked-shoulders": {
 		"name": "Wicked shoulders"
 	},
+	"wicked-shoulders-2": {
+		"name": "Wicked shoulders"
+	},
 	"wicked-sleeves": {
+		"name": "Wicked sleeves"
+	},
+	"wicked-sleeves-2": {
 		"name": "Wicked sleeves"
 	},
 	"wicked-vest": {
@@ -19685,6 +20331,12 @@
 		"name": "Wintersvale bracelet"
 	},
 	"wintersvale-cookie": {
+		"name": "Wintersvale Cookie"
+	},
+	"wintersvale-cookie-2": {
+		"name": "Wintersvale Cookie"
+	},
+	"wintersvale-cookie-3": {
 		"name": "Wintersvale Cookie"
 	},
 	"wintersvale-deluxe-gift-box": {

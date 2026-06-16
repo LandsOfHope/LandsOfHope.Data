@@ -1,9 +1,9 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
-	"baseValue": 305,
+	"armorType": "plate",
+	"baseValue": 303,
 	"id": "recruits-helm",
-	"image": "2650",
+	"image": "gmrehe",
 	"level": {
 		"min": 41
 	},

@@ -1,0 +1,11 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 50,
+	"id": "pack-rat-2",
+	"image": "6066",
+	"level": {
+		"min": 1
+	},
+	"stackLimit": 1,
+	"type": "pack-rat"
+}

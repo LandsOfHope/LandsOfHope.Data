@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
 	"armorType": "leather",
-	"baseValue": 31,
+	"baseValue": 368,
 	"id": "tanned-boots",
-	"image": "2837",
+	"image": "499",
 	"level": {
-		"min": 1
+		"min": 50
 	},
 	"material": "hide",
 	"skills": {

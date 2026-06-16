@@ -1,0 +1,12 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 31,
+	"id": "the-strangers-key-3",
+	"image": "tskey2",
+	"level": {
+		"min": 150
+	},
+	"material": "wood",
+	"stackLimit": 1,
+	"type": "portal"
+}

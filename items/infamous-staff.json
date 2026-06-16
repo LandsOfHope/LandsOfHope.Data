@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 5611,
+	"baseValue": 5622,
 	"dpr": 82,
 	"id": "infamous-staff",
-	"image": "st1",
+	"image": "sf",
 	"level": {
 		"min": 800
 	},
 	"material": "wood",
-	"skill": "staves",
+	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1
 	},
 	"stackLimit": 1,
-	"type": "1-handed-equipment"
+	"type": "2-handed-equipment"
 }

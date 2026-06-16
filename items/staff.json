@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 43,
+	"baseValue": 32,
 	"dpr": 2,
 	"id": "staff",
-	"image": "staff06",
+	"image": "staff05",
 	"level": {
-		"min": 5
+		"min": 1
 	},
-	"material": "wood",
+	"material": "metal",
 	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1

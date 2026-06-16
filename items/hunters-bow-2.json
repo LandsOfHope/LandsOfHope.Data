@@ -1,0 +1,17 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 1419,
+	"dpr": 22,
+	"id": "hunters-bow-2",
+	"image": "bw",
+	"level": {
+		"min": 200
+	},
+	"material": "wood",
+	"skill": "bows",
+	"skills": {
+		"attack-power": 1
+	},
+	"stackLimit": 1,
+	"type": "ranged-weapon"
+}

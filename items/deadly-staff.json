@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 4920,
+	"baseValue": 4910,
 	"dpr": 72,
 	"id": "deadly-staff",
-	"image": "st1",
+	"image": "sf",
 	"level": {
 		"min": 700
 	},
 	"material": "wood",
-	"skill": "staves",
+	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1
 	},
 	"stackLimit": 1,
-	"type": "1-handed-equipment"
+	"type": "2-handed-equipment"
 }

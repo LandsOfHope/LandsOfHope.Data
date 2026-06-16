@@ -1,0 +1,13 @@
+{
+	"$type": "/v1/item",
+	"armorType": "mail",
+	"baseValue": 546,
+	"id": "footman-shoulder-pads-2",
+	"image": "2751",
+	"level": {
+		"min": 75
+	},
+	"material": "metal",
+	"stackLimit": 1,
+	"type": "shoulders"
+}

@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 16,
+	"baseValue": 25,
 	"id": "puzzle",
-	"image": "si1",
+	"image": "1351",
 	"level": {
 		"min": 1
 	},
-	"material": "wood",
+	"material": "hide",
 	"stackLimit": 1,
-	"type": "puzzle"
+	"type": "quest-item"
 }

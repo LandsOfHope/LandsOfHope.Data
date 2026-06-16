@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "mail",
+	"baseValue": 0,
+	"id": "guilded-savage-boots-2",
+	"image": "3757",
+	"level": {
+		"min": 810
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "foot-armour"
+}

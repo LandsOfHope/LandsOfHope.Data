@@ -1,11 +1,12 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 27,
+	"baseValue": 5,
 	"id": "tombstone",
-	"image": "zusht",
+	"image": "1053",
 	"level": {
 		"min": 1
 	},
-	"stackLimit": 1,
-	"type": "halloween-2007"
+	"material": "stone",
+	"stackLimit": 1000,
+	"type": "stone-masonry-result"
 }

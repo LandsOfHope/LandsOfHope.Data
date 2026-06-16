@@ -1,0 +1,17 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 2811,
+	"dpr": 42,
+	"id": "battle-sword-2",
+	"image": "sw9",
+	"level": {
+		"min": 400
+	},
+	"material": "metal",
+	"skill": "two-handed-swords",
+	"skills": {
+		"attack-power": 1
+	},
+	"stackLimit": 1,
+	"type": "2-handed-equipment"
+}

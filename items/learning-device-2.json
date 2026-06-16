@@ -1,0 +1,12 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 28,
+	"id": "learning-device-2",
+	"image": "6334",
+	"level": {
+		"min": 1
+	},
+	"material": "hide",
+	"stackLimit": 1,
+	"type": "uncommon-plan"
+}

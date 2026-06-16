@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "plate",
+	"baseValue": 308,
+	"id": "recruits-gloves-2",
+	"image": "gmregl",
+	"level": {
+		"min": 41
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "hand-armour"
+}

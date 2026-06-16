@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "plate",
+	"baseValue": 0,
+	"id": "guilded-ravaged-sleeves-2",
+	"image": "3707",
+	"level": {
+		"min": 110
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "arm-armour"
+}

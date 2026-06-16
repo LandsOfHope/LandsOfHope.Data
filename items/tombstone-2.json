@@ -1,0 +1,11 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 27,
+	"id": "tombstone-2",
+	"image": "zusht",
+	"level": {
+		"min": 1
+	},
+	"stackLimit": 1,
+	"type": "halloween-2007"
+}

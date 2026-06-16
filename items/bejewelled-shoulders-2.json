@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "mail",
+	"baseValue": 2116,
+	"id": "bejewelled-shoulders-2",
+	"image": "2765",
+	"level": {
+		"min": 300
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "shoulders"
+}

@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "mail",
+	"baseValue": 5625,
+	"id": "savage-armbraces-2",
+	"image": "2725",
+	"level": {
+		"min": 800
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "arm-armour"
+}

@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "mail",
+	"baseValue": 311,
+	"id": "recruits-boots-2",
+	"image": "2584",
+	"level": {
+		"min": 41
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "foot-armour"
+}

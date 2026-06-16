@@ -1,13 +1,16 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
-	"baseValue": 546,
+	"armorType": "plate",
+	"baseValue": 536,
 	"id": "footman-boots",
-	"image": "2586",
+	"image": "2322",
 	"level": {
 		"min": 75
 	},
 	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
 	"stackLimit": 1,
 	"type": "foot-armour"
 }

@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "mail",
+	"baseValue": 314,
+	"id": "recruits-armbraces-2",
+	"image": "2716",
+	"level": {
+		"min": 41
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "arm-armour"
+}

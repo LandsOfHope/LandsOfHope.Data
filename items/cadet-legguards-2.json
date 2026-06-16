@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "mail",
+	"baseValue": 371,
+	"id": "cadet-legguards-2",
+	"image": "2530",
+	"level": {
+		"min": 50
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "leg-armour"
+}

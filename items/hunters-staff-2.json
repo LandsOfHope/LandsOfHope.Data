@@ -1,0 +1,17 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 1423,
+	"dpr": 22,
+	"id": "hunters-staff-2",
+	"image": "st1",
+	"level": {
+		"min": 200
+	},
+	"material": "wood",
+	"skill": "staves",
+	"skills": {
+		"attack-power": 1
+	},
+	"stackLimit": 1,
+	"type": "1-handed-equipment"
+}

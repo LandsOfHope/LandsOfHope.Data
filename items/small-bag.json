@@ -1,10 +1,12 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 31,
+	"baseValue": 16,
 	"id": "small-bag",
-	"image": "bg3",
-	"level": 1,
+	"image": "ba2",
+	"level": {
+		"min": 1
+	},
 	"material": "cloth",
 	"stackLimit": 1,
-	"type": "bag"
+	"type": "spawner"
 }

@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "mail",
+	"baseValue": 4225,
+	"id": "wicked-helm-2",
+	"image": "2658",
+	"level": {
+		"min": 600
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "head-armour"
+}

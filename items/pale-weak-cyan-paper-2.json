@@ -1,0 +1,13 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 1,
+	"expansion": "uncharted-waters",
+	"id": "pale-weak-cyan-paper-2",
+	"image": "pchartreuse",
+	"level": {
+		"min": 105
+	},
+	"material": "color",
+	"stackLimit": 1000,
+	"type": "explosive-component"
+}

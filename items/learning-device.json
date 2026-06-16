@@ -2,11 +2,11 @@
 	"$type": "/v1/item",
 	"baseValue": 28,
 	"id": "learning-device",
-	"image": "6334",
+	"image": "manual",
 	"level": {
 		"min": 1
 	},
 	"material": "hide",
 	"stackLimit": 1,
-	"type": "uncommon-plan"
+	"type": "plan-or-spell-or-style-ii"
 }

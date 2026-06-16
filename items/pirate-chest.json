@@ -1,13 +1,12 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 23,
-	"expansion": "uncharted-waters",
+	"baseValue": 22,
 	"id": "pirate-chest",
-	"image": "zupich",
+	"image": "zupich2",
 	"level": {
 		"min": 1
 	},
 	"material": "wood",
 	"stackLimit": 1,
-	"type": "pirate-chest"
+	"type": "rare-spawner"
 }

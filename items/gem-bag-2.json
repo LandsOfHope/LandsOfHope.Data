@@ -1,0 +1,12 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 27,
+	"id": "gem-bag-2",
+	"image": "ba2",
+	"level": {
+		"min": 1
+	},
+	"material": "cloth",
+	"stackLimit": 1,
+	"type": "targeted-containers"
+}

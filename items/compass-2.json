@@ -1,0 +1,12 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 0,
+	"id": "compass-2",
+	"image": "cs",
+	"level": {
+		"min": 1
+	},
+	"material": "gem",
+	"stackLimit": 1,
+	"type": "scavenger-compass"
+}

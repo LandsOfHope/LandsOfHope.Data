@@ -1,16 +1,11 @@
 {
 	"$type": "/v1/item",
-	"adjustable": true,
-	"baseValue": 15,
+	"baseValue": 10,
 	"id": "medal-of-valor",
-	"image": "2210",
+	"image": "6895",
 	"level": {
 		"min": 1
 	},
-	"material": "metal",
-	"properties": {
-		"STAMINA": 1
-	},
-	"stackLimit": 1,
-	"type": "society-symbol"
+	"stackLimit": 1000,
+	"type": "trophy"
 }

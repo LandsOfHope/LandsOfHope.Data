@@ -1,0 +1,17 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 4926,
+	"dpr": 72,
+	"id": "deadly-sword-2",
+	"image": "sw9",
+	"level": {
+		"min": 700
+	},
+	"material": "metal",
+	"skill": "two-handed-swords",
+	"skills": {
+		"attack-power": 1
+	},
+	"stackLimit": 1,
+	"type": "2-handed-equipment"
+}

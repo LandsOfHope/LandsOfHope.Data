@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
-	"armorType": "plate",
-	"baseValue": 299,
+	"armorType": "leather",
+	"baseValue": 709,
 	"id": "studded-leggings",
-	"image": "na",
+	"image": "2796",
 	"level": {
-		"min": 41
+		"min": 100
 	},
-	"material": "metal",
+	"material": "hide",
 	"skills": {
 		"armor": 1
 	},

@@ -1,17 +1,20 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 2809,
-	"dpr": 42,
+	"baseValue": 229,
+	"dpr": 5,
 	"id": "battle-staff",
-	"image": "st1",
+	"image": "bas",
 	"level": {
-		"min": 400
+		"min": 30
 	},
-	"material": "wood",
-	"skill": "staves",
+	"material": "gem",
+	"properties": {
+		"STRENGTH": 1
+	},
+	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1
 	},
 	"stackLimit": 1,
-	"type": "1-handed-equipment"
+	"type": "2-handed-equipment"
 }

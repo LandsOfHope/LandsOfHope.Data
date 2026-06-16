@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 6671,
+	"baseValue": 6667,
 	"dpr": 94,
 	"id": "godly-sword",
-	"image": "sw9",
+	"image": "sw1",
 	"level": {
 		"min": 900
 	},
 	"material": "metal",
-	"skill": "two-handed-swords",
+	"skill": "swords",
 	"skills": {
 		"attack-power": 1
 	},
 	"stackLimit": 1,
-	"type": "2-handed-equipment"
+	"type": "1-handed-equipment"
 }

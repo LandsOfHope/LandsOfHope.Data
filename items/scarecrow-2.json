@@ -1,0 +1,11 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 20,
+	"id": "scarecrow-2",
+	"image": "e4",
+	"level": {
+		"min": 1
+	},
+	"stackLimit": 1,
+	"type": "special-creature"
+}

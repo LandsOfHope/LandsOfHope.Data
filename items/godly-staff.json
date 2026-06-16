@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 6672,
+	"baseValue": 6671,
 	"dpr": 94,
 	"id": "godly-staff",
-	"image": "st1",
+	"image": "sf",
 	"level": {
 		"min": 900
 	},
 	"material": "wood",
-	"skill": "staves",
+	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1
 	},
 	"stackLimit": 1,
-	"type": "1-handed-equipment"
+	"type": "2-handed-equipment"
 }

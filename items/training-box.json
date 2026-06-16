@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 31,
+	"baseValue": 16,
 	"id": "training-box",
-	"image": "sc1",
+	"image": "bx",
 	"level": {
 		"min": 1
 	},
 	"material": "wood",
 	"stackLimit": 1,
-	"type": "training-aid-box"
+	"type": "rogue-training-device"
 }

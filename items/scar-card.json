@@ -1,0 +1,10 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 10000,
+	"id": "scar-card",
+	"image": "ti3",
+	"level": 1,
+	"material": "hide",
+	"stackLimit": 1,
+	"type": "trading-card"
+}

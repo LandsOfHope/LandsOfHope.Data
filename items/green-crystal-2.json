@@ -1,0 +1,11 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 1,
+	"id": "green-crystal-2",
+	"image": "ygc",
+	"level": {
+		"min": 1
+	},
+	"stackLimit": 1000,
+	"type": "alchemy-ingredient"
+}

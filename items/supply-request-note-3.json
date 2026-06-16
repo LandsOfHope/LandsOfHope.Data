@@ -1,0 +1,12 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 30,
+	"id": "supply-request-note-3",
+	"image": "fesureno",
+	"level": {
+		"min": 1
+	},
+	"material": "hide",
+	"stackLimit": 1,
+	"type": "quest-item"
+}

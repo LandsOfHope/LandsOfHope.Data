@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 31,
+	"baseValue": 18,
 	"id": "prized-gem",
 	"image": "fl3",
 	"level": {
 		"min": 1
 	},
 	"stackLimit": 1,
-	"type": "stolen-item-hard"
+	"type": "stolen-item-medium"
 }

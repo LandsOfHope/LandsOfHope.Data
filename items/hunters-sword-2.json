@@ -1,0 +1,17 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 1411,
+	"dpr": 22,
+	"id": "hunters-sword-2",
+	"image": "sw9",
+	"level": {
+		"min": 200
+	},
+	"material": "metal",
+	"skill": "two-handed-swords",
+	"skills": {
+		"attack-power": 1
+	},
+	"stackLimit": 1,
+	"type": "2-handed-equipment"
+}

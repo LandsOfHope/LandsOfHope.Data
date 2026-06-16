@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "plate",
+	"baseValue": 375,
+	"id": "cadet-gloves-2",
+	"image": "2343",
+	"level": {
+		"min": 50
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "hand-armour"
+}

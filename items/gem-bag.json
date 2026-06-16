@@ -1,12 +1,12 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 27,
+	"baseValue": 24,
 	"id": "gem-bag",
-	"image": "ba2",
+	"image": "ba",
 	"level": {
 		"min": 1
 	},
 	"material": "cloth",
 	"stackLimit": 1,
-	"type": "targeted-containers"
+	"type": "good-spawner"
 }

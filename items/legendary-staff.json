@@ -1,9 +1,9 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 6672,
+	"baseValue": 6671,
 	"dpr": 120,
 	"id": "legendary-staff",
-	"image": "staff01",
+	"image": "staff04",
 	"legendary": true,
 	"level": {
 		"min": 1000
@@ -13,10 +13,10 @@
 		"MAXSTAMINA": 1,
 		"STRENGTH": 1
 	},
-	"skill": "staves",
+	"skill": "two-handed-staves",
 	"skills": {
 		"attack-power": 1
 	},
 	"stackLimit": 1,
-	"type": "1-handed-equipment"
+	"type": "2-handed-equipment"
 }

@@ -1,0 +1,12 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 28,
+	"id": "celestial-defense-supplement-2",
+	"image": "c2k",
+	"level": {
+		"min": 470
+	},
+	"material": "crop",
+	"stackLimit": 1000,
+	"type": "food"
+}

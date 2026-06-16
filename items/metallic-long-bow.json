@@ -1,0 +1,17 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 55,
+	"dpr": 2,
+	"id": "metallic-long-bow",
+	"image": "lob",
+	"level": {
+		"min": 5
+	},
+	"material": "metal",
+	"skill": "bows",
+	"skills": {
+		"attack-power": 1
+	},
+	"stackLimit": 1,
+	"type": "ranged-weapon"
+}

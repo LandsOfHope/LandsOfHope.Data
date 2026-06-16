@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "plate",
+	"baseValue": 4213,
+	"id": "wicked-gloves-2",
+	"image": "2350",
+	"level": {
+		"min": 600
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "hand-armour"
+}

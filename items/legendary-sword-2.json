@@ -1,0 +1,22 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 6671,
+	"dpr": 120,
+	"id": "legendary-sword-2",
+	"image": "zulesw",
+	"legendary": true,
+	"level": {
+		"min": 1000
+	},
+	"material": "metal",
+	"properties": {
+		"DEXTERITY": 1,
+		"STRENGTH": 1
+	},
+	"skill": "two-handed-swords",
+	"skills": {
+		"attack-power": 1
+	},
+	"stackLimit": 1,
+	"type": "2-handed-equipment"
+}

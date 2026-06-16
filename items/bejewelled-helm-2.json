@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "mail",
+	"baseValue": 2115,
+	"id": "bejewelled-helm-2",
+	"image": "2655",
+	"level": {
+		"min": 300
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "head-armour"
+}

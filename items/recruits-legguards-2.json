@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "mail",
+	"baseValue": 305,
+	"id": "recruits-legguards-2",
+	"image": "2529",
+	"level": {
+		"min": 41
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "leg-armour"
+}

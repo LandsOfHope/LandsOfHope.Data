@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 82,
-	"dpr": 3,
+	"baseValue": 28,
+	"dpr": 2,
 	"id": "short-bow",
 	"image": "shb",
 	"level": {
-		"min": 10
+		"min": 1
 	},
-	"material": "metal",
+	"material": "wood",
 	"skill": "bows",
 	"skills": {
 		"attack-power": 1

@@ -2,9 +2,14 @@
 	"$type": "/v1/item",
 	"baseValue": 1,
 	"id": "vial-of-blood",
-	"image": "zuvibl",
-	"level": 1,
-	"material": "hide",
+	"image": "bod",
+	"level": {
+		"min": 1
+	},
+	"material": "gem",
+	"properties": {
+		"HITPOINTS": 1
+	},
 	"stackLimit": 1000,
-	"type": "challenge-trophy"
+	"type": "vampire-potions"
 }

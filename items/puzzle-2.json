@@ -1,0 +1,12 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 32,
+	"id": "puzzle-2",
+	"image": "si1",
+	"level": {
+		"min": 1
+	},
+	"material": "wood",
+	"stackLimit": 1,
+	"type": "puzzle"
+}

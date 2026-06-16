@@ -1,0 +1,12 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 29,
+	"id": "beached-wreckage-4",
+	"image": "wreck1",
+	"level": {
+		"min": 1
+	},
+	"material": "cloth",
+	"stackLimit": 1,
+	"type": "marine-tool"
+}

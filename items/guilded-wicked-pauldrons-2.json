@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "plate",
+	"baseValue": 0,
+	"id": "guilded-wicked-pauldrons-2",
+	"image": "3723",
+	"level": {
+		"min": 610
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "shoulders"
+}

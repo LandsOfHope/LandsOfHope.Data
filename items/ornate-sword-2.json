@@ -1,0 +1,17 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 2122,
+	"dpr": 32,
+	"id": "ornate-sword-2",
+	"image": "sw9",
+	"level": {
+		"min": 300
+	},
+	"material": "metal",
+	"skill": "two-handed-swords",
+	"skills": {
+		"attack-power": 1
+	},
+	"stackLimit": 1,
+	"type": "2-handed-equipment"
+}

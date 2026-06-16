@@ -1,0 +1,17 @@
+{
+	"$type": "/v1/item",
+	"baseValue": 82,
+	"dpr": 3,
+	"id": "metallic-bow",
+	"image": "shb",
+	"level": {
+		"min": 10
+	},
+	"material": "metal",
+	"skill": "bows",
+	"skills": {
+		"attack-power": 1
+	},
+	"stackLimit": 1,
+	"type": "ranged-weapon"
+}

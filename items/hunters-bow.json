@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 1419,
-	"dpr": 22,
+	"baseValue": 152,
+	"dpr": 4,
 	"id": "hunters-bow",
-	"image": "bw",
+	"image": "bw2",
 	"level": {
-		"min": 200
+		"min": 20
 	},
 	"material": "wood",
 	"skill": "bows",

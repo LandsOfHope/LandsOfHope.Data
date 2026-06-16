@@ -1,0 +1,16 @@
+{
+	"$type": "/v1/item",
+	"armorType": "plate",
+	"baseValue": 719,
+	"id": "ravaged-gloves-2",
+	"image": "gmragl",
+	"level": {
+		"min": 100
+	},
+	"material": "metal",
+	"skills": {
+		"armor": 1
+	},
+	"stackLimit": 1,
+	"type": "hand-armour"
+}

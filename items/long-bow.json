@@ -1,13 +1,13 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 55,
-	"dpr": 2,
+	"baseValue": 123,
+	"dpr": 3,
 	"id": "long-bow",
-	"image": "lob",
+	"image": "bw",
 	"level": {
-		"min": 5
+		"min": 15
 	},
-	"material": "metal",
+	"material": "wood",
 	"skill": "bows",
 	"skills": {
 		"attack-power": 1
