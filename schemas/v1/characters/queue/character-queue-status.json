@@ -1,0 +1,57 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-status.json",
+	"additionalProperties": false,
+	"properties": {
+        "$type": {
+            "const": "/v1/characters/queue/character-queue-status"
+        },
+        "bonus": {
+            "type": "object",
+            "properties": {
+                "items": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 100
+                },
+                "size": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 100
+                },
+                "time": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 3
+                }
+            },
+            "additionalProperties": false,
+            "required": ["items", "size", "time"],
+            "title": "CharacterQueueBonus"
+        },
+        "capacity": {
+            "type": "object",
+            "properties": {
+                "current": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 120
+                },
+                "max": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 120
+                }
+            },
+            "additionalProperties": false,
+            "required": ["current", "max"],
+            "title": "CharacterQueueCapacity"
+        }
+	},
+	"required": [
+        "$type",
+        "bonus",
+        "capacity"
+	],
+	"title": "CharacterQueueStatus",
+	"type": "object"
+}
