@@ -81,7 +81,7 @@
           publish = pkgs.writeShellApplication {
             name = "publish-landsofhope-cdn-data";
             runtimeInputs = [
-              pkgs.s3cmd
+              pkgs.awscli
             ];
             text = ''
               #!/usr/bin/env bash
@@ -97,17 +97,12 @@
               shift
 
               cd ${landsofhope-cdn-data}
-              s3cmd sync --no-mime-magic --guess-mime-type \
-                --access_key="$AWS_ACCESS_KEY_ID" \
-                --secret_key="$AWS_SECRET_ACCESS_KEY" \
-                --host="$AWS_ENDPOINT_URL" \
-                --host-bucket="$AWS_ENDPOINT_URL" \
-                --bucket-location=auto \
-                --delete-removed \
-                --delete-after \
-                --no-preserve \
-                --recursive --rexclude-from=/dev/null \
-                ./ "s3://$BUCKET_NAME"
+              AWS_ACCESS_KEY_ID="$AWS_ACCESS_KEY_ID" \
+              AWS_SECRET_ACCESS_KEY="$AWS_SECRET_ACCESS_KEY" \
+              AWS_ENDPOINT_URL="$AWS_ENDPOINT_URL" \
+                aws s3 sync . "s3://$BUCKET_NAME" \
+                  --exact-timestamps --delete \
+                  --region=auto
             '';
           };
 
