@@ -2,56 +2,55 @@
 	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/character-queue-status.json",
 	"additionalProperties": false,
 	"properties": {
-        "$type": {
-            "const": "/v1/characters/queue/character-queue-status"
-        },
-        "bonus": {
-            "type": "object",
-            "properties": {
-                "items": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 100
-                },
-                "size": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 100
-                },
-                "time": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                }
-            },
-            "additionalProperties": false,
-            "required": ["items", "size", "time"],
-            "title": "CharacterQueueBonus"
-        },
-        "capacity": {
-            "type": "object",
-            "properties": {
-                "current": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 120
-                },
-                "max": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 120
-                }
-            },
-            "additionalProperties": false,
-            "required": ["current", "max"],
-            "title": "CharacterQueueCapacity"
-        }
+		"$type": {
+			"const": "/v1/characters/queue/character-queue-status"
+		},
+		"bonus": {
+			"additionalProperties": false,
+			"properties": {
+				"items": {
+					"maximum": 100,
+					"minimum": 0,
+					"type": "integer"
+				},
+				"size": {
+					"maximum": 100,
+					"minimum": 0,
+					"type": "integer"
+				},
+				"time": {
+					"maximum": 3,
+					"minimum": 0,
+					"type": "integer"
+				}
+			},
+			"required": ["items", "size", "time"],
+			"title": "CharacterQueueBonus",
+			"type": "object"
+		},
+		"capacity": {
+			"additionalProperties": false,
+			"properties": {
+				"current": {
+					"maximum": 120,
+					"minimum": 0,
+					"type": "integer"
+				},
+				"max": {
+					"maximum": 120,
+					"minimum": 0,
+					"type": "integer"
+				}
+			},
+			"required": ["current", "max"],
+			"title": "CharacterQueueCapacity",
+			"type": "object"
+		},
+		"finished": {
+			"$ref": "/schemas/v0/datetime.json"
+		}
 	},
-	"required": [
-        "$type",
-        "bonus",
-        "capacity"
-	],
+	"required": ["$type", "bonus", "capacity", "finished"],
 	"title": "CharacterQueueStatus",
 	"type": "object"
 }
