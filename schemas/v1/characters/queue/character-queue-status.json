@@ -47,7 +47,14 @@
 			"type": "object"
 		},
 		"finished": {
-			"$ref": "/schemas/v0/datetime.json"
+			"oneOf": [
+				{
+					"type": "null"
+				},
+				{
+					"$ref": "/schemas/v0/datetime.json"
+				}
+			]
 		}
 	},
 	"required": ["$type", "bonus", "capacity", "finished"],
