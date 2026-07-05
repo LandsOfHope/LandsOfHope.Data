@@ -272,6 +272,8 @@ const checkMappingsAreValidMap = async (mappingFile) => {
 
 const main = async () =>
 	await Promise.all([
+		validateTestData("v0/duration"),
+		validateNegativeTestData("v0/duration"),
 		validateAll(
 			"schemas/v0/items/extra-item.json",
 			"items/extras/!(*.gen).json",
