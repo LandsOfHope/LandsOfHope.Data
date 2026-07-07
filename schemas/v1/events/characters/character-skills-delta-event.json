@@ -1,0 +1,18 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/events/characters/character-skills-delta-event.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/events/characters/character-skills-delta-event"
+		},
+		"character": {
+			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"delta": {
+			"$ref": "/schemas/v1/characters/deltas/character-skills-delta.json"
+		}
+	},
+	"required": ["$type", "character", "delta"],
+	"title": "CharacterSkillsDeltaEvent",
+	"type": "object"
+}

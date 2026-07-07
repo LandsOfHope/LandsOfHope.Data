@@ -5,19 +5,25 @@
 			"$ref": "/schemas/v1/events/characters/character-appearance-profile-updated-event.json"
 		},
 		{
+			"$ref": "/schemas/v1/events/characters/character-emoted-event.json"
+		},
+		{
 			"$ref": "/schemas/v1/events/characters/characters-delta-event.json"
 		},
 		{
 			"$ref": "/schemas/v1/events/characters/inventory/inventory-items-delta-event.json"
 		},
 		{
-			"$ref": "/schemas/v1/events/characters/character-settings-updated-event.json"
-		},
-		{
-			"$ref": "/schemas/v1/events/characters/character-emoted-event.json"
+			"$ref": "/schemas/v1/events/characters/character-settings-delta-event.json"
 		},
 		{
 			"$ref": "/schemas/v1/events/characters/character-queue-delta-event.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/characters/character-recipes-delta-event.json"
+		},
+		{
+			"$ref": "/schemas/v1/events/characters/character-skills-delta-event.json"
 		}
 	],
 	"title": "CharacterClientEvent",
