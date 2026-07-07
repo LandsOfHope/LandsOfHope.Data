@@ -7,23 +7,13 @@
 			"const": "/v1/characters/deltas/character-recipes-delta"
 		},
 		"added": {
-			"items": {
-				"$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
-			},
-			"minItems": 1,
-			"type": "array",
-			"uniqueItems": true
+			"$ref": "/schemas/v1/skills/crafting/recipes-id-set.json"
 		},
 		"removed": {
-			"items": {
-				"$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
-			},
-			"minItems": 1,
-			"type": "array",
-			"uniqueItems": true
+			"$ref": "/schemas/v1/skills/crafting/recipes-id-set.json"
 		}
 	},
-	"required": ["$type", "added", "removed"],
+	"required": ["$type"],
 	"title": "CharacterRecipesDelta",
 	"type": "object"
 }

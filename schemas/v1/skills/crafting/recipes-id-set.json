@@ -1,0 +1,10 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/skills/crafting/recipes-id-set.json",
+	"items": {
+		"$ref": "/schemas/v1/skills-crafting-recipes-id.gen.json"
+	},
+	"minItems": 1,
+	"title": "SkillsCraftingRecipesIdSet",
+	"type": "array",
+	"uniqueItems": true
+}
