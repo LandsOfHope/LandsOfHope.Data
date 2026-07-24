@@ -2,7 +2,7 @@
   description = "LandsOfHope.Data";
 
   inputs = {
-    nixpkgs.url = "github:etinquis/nixpkgs/nixos-26.05";
+    nixpkgs.url = "github:synackdoche/nixpkgs/nixos-26.05";
 
     bun2nix = {
       url = "github:nix-community/bun2nix";
