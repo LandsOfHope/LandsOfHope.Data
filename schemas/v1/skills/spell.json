@@ -146,7 +146,7 @@
 			"type": "object"
 		},
 		"id": {
-			"type": "string"
+			"$ref": "/schemas/v1/skills-spells-id.gen.json"
 		},
 		"requirements": {
 			"additionalProperties": false,
