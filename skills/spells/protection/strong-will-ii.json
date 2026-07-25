@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/skills/spell",
-	"duration": 4,
+	"duration": "PT4M",
 	"effects": {
 		"damage": 1492,
 		"skills": {
@@ -11,5 +11,8 @@
 	"requirements": {
 		"mana": 2110,
 		"skill": 2110
+	},
+	"target": {
+		"mode": "self"
 	}
 }

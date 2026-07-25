@@ -1,0 +1,6 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/skills/spell-target-mode.json",
+	"enum": ["self", "not-self", "single", "group", "golem"],
+	"title": "SpellTargetMode",
+	"type": "string"
+}

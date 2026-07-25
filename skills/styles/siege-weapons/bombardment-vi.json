@@ -7,5 +7,8 @@
 	"requirements": {
 		"skill": 3400,
 		"stamina": 1150
+	},
+	"target": {
+		"mode": "single"
 	}
 }

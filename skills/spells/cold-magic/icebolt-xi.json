@@ -7,5 +7,8 @@
 	"requirements": {
 		"mana": 443,
 		"skill": 443
+	},
+	"target": {
+		"mode": "single"
 	}
 }

@@ -10,5 +10,8 @@
 	"requirements": {
 		"level": 100,
 		"mana": 10
+	},
+	"target": {
+		"mode": "single"
 	}
 }

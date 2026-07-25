@@ -11,5 +11,8 @@
 		"level": 1000,
 		"mana": 1,
 		"skill": 1
+	},
+	"target": {
+		"mode": "not-self"
 	}
 }

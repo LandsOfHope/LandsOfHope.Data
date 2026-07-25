@@ -36,6 +36,16 @@
 			},
 			"required": ["stamina"],
 			"type": "object"
+		},
+		"target": {
+			"additionalProperties": false,
+			"properties": {
+				"mode": {
+					"$ref": "/schemas/v1/skills/spell-target-mode.json"
+				}
+			},
+			"required": ["mode"],
+			"type": "object"
 		}
 	},
 	"required": ["$type", "id", "requirements", "effects"],

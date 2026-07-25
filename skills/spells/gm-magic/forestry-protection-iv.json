@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/skills/spell",
-	"duration": 10,
+	"duration": "PT10M",
 	"effects": {
 		"skills": {
 			"damage-absorption": 400
@@ -10,5 +10,8 @@
 	"requirements": {
 		"mana": 981,
 		"skill": 981
+	},
+	"target": {
+		"mode": "single"
 	}
 }

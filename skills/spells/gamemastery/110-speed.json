@@ -11,5 +11,8 @@
 		"level": 220,
 		"mana": 22,
 		"skill": 1100
+	},
+	"target": {
+		"mode": "single"
 	}
 }

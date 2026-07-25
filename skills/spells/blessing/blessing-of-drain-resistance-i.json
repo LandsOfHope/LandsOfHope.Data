@@ -10,5 +10,8 @@
 	"requirements": {
 		"mana": 3090,
 		"skill": 3090
+	},
+	"target": {
+		"mode": "single"
 	}
 }

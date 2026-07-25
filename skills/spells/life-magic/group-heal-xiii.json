@@ -8,5 +8,8 @@
 	"requirements": {
 		"mana": 3140,
 		"skill": 3140
+	},
+	"target": {
+		"mode": "group"
 	}
 }

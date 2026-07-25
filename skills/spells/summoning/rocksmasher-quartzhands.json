@@ -10,5 +10,8 @@
 	"requirements": {
 		"mana": 2878,
 		"skill": 2878
+	},
+	"target": {
+		"mode": "self"
 	}
 }

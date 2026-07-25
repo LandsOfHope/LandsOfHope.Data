@@ -9,5 +9,8 @@
 	"requirements": {
 		"mana": 1682,
 		"skill": 1682
+	},
+	"target": {
+		"mode": "self"
 	}
 }

@@ -10,5 +10,8 @@
 	"requirements": {
 		"mana": 2400,
 		"skill": 3400
+	},
+	"target": {
+		"mode": "golem"
 	}
 }

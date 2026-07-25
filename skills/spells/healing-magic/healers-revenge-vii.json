@@ -11,5 +11,8 @@
 	"requirements": {
 		"mana": 4501,
 		"skill": 4501
+	},
+	"target": {
+		"mode": "not-self"
 	}
 }

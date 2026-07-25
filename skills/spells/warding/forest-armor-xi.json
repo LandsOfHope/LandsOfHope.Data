@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/skills/spell",
-	"duration": 3,
+	"duration": "PT3M",
 	"effects": {
 		"damage": 3340,
 		"skills": {
@@ -11,5 +11,8 @@
 	"requirements": {
 		"mana": 4676,
 		"skill": 4755
+	},
+	"target": {
+		"mode": "self"
 	}
 }

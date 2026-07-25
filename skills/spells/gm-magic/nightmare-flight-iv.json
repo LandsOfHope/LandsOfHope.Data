@@ -10,5 +10,8 @@
 	"requirements": {
 		"mana": 806,
 		"skill": 806
+	},
+	"target": {
+		"mode": "single"
 	}
 }

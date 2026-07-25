@@ -2,7 +2,7 @@
 	"$type": "/v1/skills/spell",
 	"effects": {
 		"summon-pet": {
-			"profession": "cook",
+			"profession": "chef",
 			"race": "human"
 		}
 	},
@@ -10,5 +10,8 @@
 	"requirements": {
 		"mana": 1222,
 		"skill": 1222
+	},
+	"target": {
+		"mode": "self"
 	}
 }

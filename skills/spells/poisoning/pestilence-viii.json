@@ -1,6 +1,6 @@
 {
 	"$type": "/v1/skills/spell",
-	"duration": 2,
+	"duration": "PT2M",
 	"effects": {
 		"damage": 1455
 	},
@@ -9,5 +9,8 @@
 		"level": 4800,
 		"mana": 14,
 		"skill": 4800
+	},
+	"target": {
+		"mode": "single"
 	}
 }

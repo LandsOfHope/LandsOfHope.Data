@@ -13,5 +13,8 @@
 	"requirements": {
 		"mana": 466,
 		"skill": 466
+	},
+	"target": {
+		"mode": "single"
 	}
 }
