@@ -12,7 +12,8 @@
 		"enabled": true
 	},
 	"files": {
-		"includes": ["**/*.js", "**/*.ts", "!node_modules", "**/*.json"]
+		"includes": ["**/*.js", "**/*.ts", "!node_modules", "**/*.json"],
+		"maxSize": 2000000
 	},
 	"formatter": {
 		"enabled": true,
