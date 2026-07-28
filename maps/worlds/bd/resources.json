@@ -2,6 +2,7 @@
 	[
 		[1, 31],
 		{
+			"id": 14177,
 			"level": 355,
 			"quantity": 25,
 			"resource": "crop",
@@ -11,6 +12,7 @@
 	[
 		[1, 34],
 		{
+			"id": 14178,
 			"level": 340,
 			"quantity": 25,
 			"resource": "cloth",
@@ -20,6 +22,7 @@
 	[
 		[1, 36],
 		{
+			"id": 14179,
 			"level": 345,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -29,6 +32,7 @@
 	[
 		[1, 42],
 		{
+			"id": 14180,
 			"level": 350,
 			"quantity": 25,
 			"resource": "crop",
@@ -38,6 +42,7 @@
 	[
 		[1, 43],
 		{
+			"id": 14181,
 			"level": 340,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -47,6 +52,7 @@
 	[
 		[1, 45],
 		{
+			"id": 14182,
 			"level": 350,
 			"quantity": 25,
 			"resource": "crop",
@@ -56,6 +62,7 @@
 	[
 		[1, 46],
 		{
+			"id": 14183,
 			"level": 345,
 			"quantity": 25,
 			"resource": "crop",
@@ -65,6 +72,7 @@
 	[
 		[1, 54],
 		{
+			"id": 14184,
 			"level": 300,
 			"quantity": 25,
 			"resource": "fish",
@@ -74,6 +82,7 @@
 	[
 		[1, 56],
 		{
+			"id": 14185,
 			"level": 300,
 			"quantity": 25,
 			"resource": "fish",
@@ -83,6 +92,7 @@
 	[
 		[1, 58],
 		{
+			"id": 14186,
 			"level": 300,
 			"quantity": 25,
 			"resource": "crop",
@@ -92,6 +102,7 @@
 	[
 		[1, 59],
 		{
+			"id": 14187,
 			"level": 305,
 			"quantity": 25,
 			"resource": "crop",
@@ -101,15 +112,7 @@
 	[
 		[1, 60],
 		{
-			"level": 300,
-			"quantity": 25,
-			"resource": "crop",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[1, 60],
-		{
+			"id": 14188,
 			"level": 295,
 			"quantity": 25,
 			"resource": "cloth",
@@ -117,8 +120,19 @@
 		}
 	],
 	[
+		[1, 60],
+		{
+			"id": 14189,
+			"level": 300,
+			"quantity": 25,
+			"resource": "crop",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[1, 61],
 		{
+			"id": 14190,
 			"level": 295,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -128,6 +142,7 @@
 	[
 		[1, 63],
 		{
+			"id": 14191,
 			"level": 305,
 			"quantity": 25,
 			"resource": "crop",
@@ -137,6 +152,7 @@
 	[
 		[2, 3],
 		{
+			"id": 14192,
 			"level": 395,
 			"quantity": 25,
 			"resource": "ore",
@@ -146,6 +162,7 @@
 	[
 		[2, 20],
 		{
+			"id": 14193,
 			"level": 375,
 			"quantity": 25,
 			"resource": "ore",
@@ -155,15 +172,7 @@
 	[
 		[2, 23],
 		{
-			"level": 375,
-			"quantity": 25,
-			"resource": "ore",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[2, 23],
-		{
+			"id": 14194,
 			"level": 370,
 			"quantity": 25,
 			"resource": "gem",
@@ -171,8 +180,19 @@
 		}
 	],
 	[
+		[2, 23],
+		{
+			"id": 14195,
+			"level": 375,
+			"quantity": 25,
+			"resource": "ore",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[2, 25],
 		{
+			"id": 14196,
 			"level": 375,
 			"quantity": 25,
 			"resource": "ore",
@@ -182,6 +202,7 @@
 	[
 		[2, 32],
 		{
+			"id": 14197,
 			"level": 350,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -191,6 +212,7 @@
 	[
 		[2, 34],
 		{
+			"id": 14198,
 			"level": 355,
 			"quantity": 25,
 			"resource": "crop",
@@ -200,6 +222,7 @@
 	[
 		[2, 37],
 		{
+			"id": 14199,
 			"level": 355,
 			"quantity": 25,
 			"resource": "crop",
@@ -209,6 +232,7 @@
 	[
 		[2, 38],
 		{
+			"id": 14200,
 			"level": 345,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -218,6 +242,7 @@
 	[
 		[2, 40],
 		{
+			"id": 14201,
 			"level": 350,
 			"quantity": 25,
 			"resource": "crop",
@@ -227,6 +252,7 @@
 	[
 		[2, 41],
 		{
+			"id": 14202,
 			"level": 340,
 			"quantity": 25,
 			"resource": "cloth",
@@ -236,6 +262,7 @@
 	[
 		[2, 42],
 		{
+			"id": 14203,
 			"level": 340,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -245,6 +272,7 @@
 	[
 		[2, 43],
 		{
+			"id": 14204,
 			"level": 335,
 			"quantity": 25,
 			"resource": "cloth",
@@ -254,6 +282,7 @@
 	[
 		[2, 44],
 		{
+			"id": 14205,
 			"level": 340,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -263,6 +292,7 @@
 	[
 		[2, 45],
 		{
+			"id": 14206,
 			"level": 335,
 			"quantity": 25,
 			"resource": "cloth",
@@ -272,15 +302,7 @@
 	[
 		[2, 48],
 		{
-			"level": 330,
-			"quantity": 25,
-			"resource": "cloth",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[2, 48],
-		{
+			"id": 14209,
 			"level": 335,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -290,6 +312,17 @@
 	[
 		[2, 48],
 		{
+			"id": 14207,
+			"level": 330,
+			"quantity": 25,
+			"resource": "cloth",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[2, 48],
+		{
+			"id": 14208,
 			"level": 345,
 			"quantity": 25,
 			"resource": "crop",
@@ -299,6 +332,7 @@
 	[
 		[2, 50],
 		{
+			"id": 14210,
 			"level": 345,
 			"quantity": 25,
 			"resource": "crop",
@@ -308,6 +342,7 @@
 	[
 		[2, 51],
 		{
+			"id": 14211,
 			"level": 330,
 			"quantity": 25,
 			"resource": "cloth",
@@ -317,6 +352,7 @@
 	[
 		[2, 54],
 		{
+			"id": 14212,
 			"level": 300,
 			"quantity": 25,
 			"resource": "fish",
@@ -326,6 +362,7 @@
 	[
 		[2, 58],
 		{
+			"id": 14213,
 			"level": 305,
 			"quantity": 25,
 			"resource": "berry",
@@ -335,6 +372,7 @@
 	[
 		[2, 58],
 		{
+			"id": 14214,
 			"level": 305,
 			"quantity": 25,
 			"resource": "cloth",
@@ -344,6 +382,7 @@
 	[
 		[2, 59],
 		{
+			"id": 14215,
 			"level": 300,
 			"quantity": 25,
 			"resource": "berry",
@@ -353,6 +392,17 @@
 	[
 		[2, 59],
 		{
+			"id": 14216,
+			"level": 305,
+			"quantity": 25,
+			"resource": "cloth",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[2, 59],
+		{
+			"id": 14217,
 			"level": 305,
 			"quantity": 25,
 			"resource": "log",
@@ -360,26 +410,9 @@
 		}
 	],
 	[
-		[2, 59],
-		{
-			"level": 305,
-			"quantity": 25,
-			"resource": "cloth",
-			"respawn": "PT2M"
-		}
-	],
-	[
 		[2, 60],
 		{
-			"level": 295,
-			"quantity": 25,
-			"resource": "vegetable",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[2, 60],
-		{
+			"id": 14218,
 			"level": 300,
 			"quantity": 25,
 			"resource": "berry",
@@ -387,26 +420,9 @@
 		}
 	],
 	[
-		[2, 61],
+		[2, 60],
 		{
-			"level": 305,
-			"quantity": 25,
-			"resource": "crop",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[2, 61],
-		{
-			"level": 295,
-			"quantity": 25,
-			"resource": "cloth",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[2, 62],
-		{
+			"id": 14219,
 			"level": 295,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -414,8 +430,29 @@
 		}
 	],
 	[
+		[2, 61],
+		{
+			"id": 14220,
+			"level": 295,
+			"quantity": 25,
+			"resource": "cloth",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[2, 61],
+		{
+			"id": 14221,
+			"level": 305,
+			"quantity": 25,
+			"resource": "crop",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[2, 62],
 		{
+			"id": 14222,
 			"level": 300,
 			"quantity": 25,
 			"resource": "crop",
@@ -423,8 +460,19 @@
 		}
 	],
 	[
+		[2, 62],
+		{
+			"id": 14223,
+			"level": 295,
+			"quantity": 25,
+			"resource": "vegetable",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[2, 69],
 		{
+			"id": 14224,
 			"level": 300,
 			"quantity": 25,
 			"resource": "stone",
@@ -434,6 +482,7 @@
 	[
 		[3, 9],
 		{
+			"id": 14225,
 			"level": 390,
 			"quantity": 25,
 			"resource": "gem",
@@ -443,6 +492,7 @@
 	[
 		[3, 13],
 		{
+			"id": 14226,
 			"level": 390,
 			"quantity": 25,
 			"resource": "gem",
@@ -452,6 +502,7 @@
 	[
 		[3, 16],
 		{
+			"id": 14227,
 			"level": 380,
 			"quantity": 25,
 			"resource": "ore",
@@ -461,6 +512,7 @@
 	[
 		[3, 19],
 		{
+			"id": 14228,
 			"level": 370,
 			"quantity": 25,
 			"resource": "gem",
@@ -470,6 +522,7 @@
 	[
 		[3, 32],
 		{
+			"id": 14229,
 			"level": 355,
 			"quantity": 25,
 			"resource": "crop",
@@ -479,6 +532,7 @@
 	[
 		[3, 36],
 		{
+			"id": 14230,
 			"level": 355,
 			"quantity": 25,
 			"resource": "crop",
@@ -488,6 +542,7 @@
 	[
 		[3, 37],
 		{
+			"id": 14231,
 			"level": 340,
 			"quantity": 25,
 			"resource": "cloth",
@@ -497,6 +552,7 @@
 	[
 		[3, 43],
 		{
+			"id": 14232,
 			"level": 350,
 			"quantity": 25,
 			"resource": "crop",
@@ -506,6 +562,7 @@
 	[
 		[3, 44],
 		{
+			"id": 14233,
 			"level": 350,
 			"quantity": 25,
 			"resource": "crop",
@@ -515,6 +572,7 @@
 	[
 		[3, 46],
 		{
+			"id": 14234,
 			"level": 335,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -524,6 +582,7 @@
 	[
 		[3, 47],
 		{
+			"id": 14235,
 			"level": 335,
 			"quantity": 25,
 			"resource": "cloth",
@@ -533,6 +592,7 @@
 	[
 		[3, 47],
 		{
+			"id": 14236,
 			"level": 345,
 			"quantity": 25,
 			"resource": "crop",
@@ -542,6 +602,7 @@
 	[
 		[3, 51],
 		{
+			"id": 14237,
 			"level": 335,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -551,15 +612,7 @@
 	[
 		[3, 57],
 		{
-			"level": 305,
-			"quantity": 25,
-			"resource": "cloth",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[3, 57],
-		{
+			"id": 14238,
 			"level": 305,
 			"quantity": 25,
 			"resource": "berry",
@@ -567,17 +620,19 @@
 		}
 	],
 	[
-		[3, 58],
+		[3, 57],
 		{
+			"id": 14239,
 			"level": 305,
 			"quantity": 25,
-			"resource": "log",
+			"resource": "cloth",
 			"respawn": "PT2M"
 		}
 	],
 	[
 		[3, 58],
 		{
+			"id": 14240,
 			"level": 300,
 			"quantity": 25,
 			"resource": "berry",
@@ -585,8 +640,29 @@
 		}
 	],
 	[
+		[3, 58],
+		{
+			"id": 14241,
+			"level": 305,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[3, 59],
 		{
+			"id": 14242,
+			"level": 305,
+			"quantity": 25,
+			"resource": "berry",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[3, 59],
+		{
+			"id": 14243,
 			"level": 305,
 			"quantity": 25,
 			"resource": "cloth",
@@ -594,9 +670,10 @@
 		}
 	],
 	[
-		[3, 59],
+		[3, 60],
 		{
-			"level": 305,
+			"id": 14244,
+			"level": 300,
 			"quantity": 25,
 			"resource": "berry",
 			"respawn": "PT2M"
@@ -605,6 +682,7 @@
 	[
 		[3, 60],
 		{
+			"id": 14245,
 			"level": 295,
 			"quantity": 25,
 			"resource": "cloth",
@@ -614,24 +692,17 @@
 	[
 		[3, 60],
 		{
-			"level": 300,
-			"quantity": 25,
-			"resource": "berry",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[3, 60],
-		{
+			"id": 14246,
 			"level": 305,
 			"quantity": 25,
-			"resource": "log",
+			"resource": "cloth",
 			"respawn": "PT2M"
 		}
 	],
 	[
 		[3, 60],
 		{
+			"id": 14247,
 			"level": 305,
 			"quantity": 25,
 			"resource": "crop",
@@ -641,15 +712,17 @@
 	[
 		[3, 60],
 		{
+			"id": 14248,
 			"level": 305,
 			"quantity": 25,
-			"resource": "cloth",
+			"resource": "log",
 			"respawn": "PT2M"
 		}
 	],
 	[
 		[3, 61],
 		{
+			"id": 14249,
 			"level": 295,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -659,6 +732,7 @@
 	[
 		[3, 62],
 		{
+			"id": 14250,
 			"level": 295,
 			"quantity": 25,
 			"resource": "cloth",
@@ -668,6 +742,7 @@
 	[
 		[3, 65],
 		{
+			"id": 14251,
 			"level": 300,
 			"quantity": 25,
 			"resource": "stone",
@@ -677,6 +752,7 @@
 	[
 		[4, 9],
 		{
+			"id": 14252,
 			"level": 395,
 			"quantity": 25,
 			"resource": "ore",
@@ -686,6 +762,7 @@
 	[
 		[4, 12],
 		{
+			"id": 14253,
 			"level": 380,
 			"quantity": 25,
 			"resource": "ore",
@@ -695,6 +772,7 @@
 	[
 		[4, 17],
 		{
+			"id": 14254,
 			"level": 390,
 			"quantity": 25,
 			"resource": "gem",
@@ -704,6 +782,7 @@
 	[
 		[4, 24],
 		{
+			"id": 14255,
 			"level": 370,
 			"quantity": 25,
 			"resource": "ore",
@@ -713,6 +792,7 @@
 	[
 		[4, 25],
 		{
+			"id": 14256,
 			"level": 370,
 			"quantity": 25,
 			"resource": "ore",
@@ -722,6 +802,7 @@
 	[
 		[4, 26],
 		{
+			"id": 14257,
 			"level": 370,
 			"quantity": 25,
 			"resource": "gem",
@@ -731,6 +812,7 @@
 	[
 		[4, 30],
 		{
+			"id": 14258,
 			"level": 355,
 			"quantity": 25,
 			"resource": "crop",
@@ -740,6 +822,7 @@
 	[
 		[4, 35],
 		{
+			"id": 14259,
 			"level": 340,
 			"quantity": 25,
 			"resource": "cloth",
@@ -749,6 +832,7 @@
 	[
 		[4, 35],
 		{
+			"id": 14260,
 			"level": 345,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -758,6 +842,7 @@
 	[
 		[4, 37],
 		{
+			"id": 14261,
 			"level": 345,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -767,6 +852,7 @@
 	[
 		[4, 38],
 		{
+			"id": 14262,
 			"level": 350,
 			"quantity": 25,
 			"resource": "crop",
@@ -776,6 +862,7 @@
 	[
 		[4, 39],
 		{
+			"id": 14263,
 			"level": 345,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -785,6 +872,7 @@
 	[
 		[4, 40],
 		{
+			"id": 14264,
 			"level": 340,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -794,6 +882,7 @@
 	[
 		[4, 42],
 		{
+			"id": 14265,
 			"level": 350,
 			"quantity": 25,
 			"resource": "crop",
@@ -803,6 +892,7 @@
 	[
 		[4, 43],
 		{
+			"id": 14266,
 			"level": 340,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -812,6 +902,7 @@
 	[
 		[4, 45],
 		{
+			"id": 14267,
 			"level": 335,
 			"quantity": 25,
 			"resource": "cloth",
@@ -821,6 +912,7 @@
 	[
 		[4, 46],
 		{
+			"id": 14268,
 			"level": 345,
 			"quantity": 25,
 			"resource": "crop",
@@ -830,6 +922,7 @@
 	[
 		[4, 49],
 		{
+			"id": 14269,
 			"level": 335,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -839,6 +932,7 @@
 	[
 		[4, 50],
 		{
+			"id": 14270,
 			"level": 330,
 			"quantity": 25,
 			"resource": "cloth",
@@ -848,6 +942,7 @@
 	[
 		[4, 54],
 		{
+			"id": 14271,
 			"level": 300,
 			"quantity": 25,
 			"resource": "fish",
@@ -857,15 +952,7 @@
 	[
 		[4, 57],
 		{
-			"level": 305,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[4, 57],
-		{
+			"id": 14272,
 			"level": 305,
 			"quantity": 25,
 			"resource": "berry",
@@ -873,8 +960,19 @@
 		}
 	],
 	[
+		[4, 57],
+		{
+			"id": 14273,
+			"level": 305,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[4, 58],
 		{
+			"id": 14274,
 			"level": 300,
 			"quantity": 25,
 			"resource": "berry",
@@ -884,6 +982,7 @@
 	[
 		[4, 60],
 		{
+			"id": 14275,
 			"level": 305,
 			"quantity": 25,
 			"resource": "log",
@@ -893,15 +992,7 @@
 	[
 		[4, 61],
 		{
-			"level": 305,
-			"quantity": 25,
-			"resource": "cloth",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[4, 61],
-		{
+			"id": 14276,
 			"level": 300,
 			"quantity": 25,
 			"resource": "berry",
@@ -909,8 +1000,19 @@
 		}
 	],
 	[
+		[4, 61],
+		{
+			"id": 14277,
+			"level": 305,
+			"quantity": 25,
+			"resource": "cloth",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[4, 67],
 		{
+			"id": 14278,
 			"level": 300,
 			"quantity": 25,
 			"resource": "stone",
@@ -920,6 +1022,7 @@
 	[
 		[4, 71],
 		{
+			"id": 14279,
 			"level": 300,
 			"quantity": 25,
 			"resource": "stone",
@@ -929,6 +1032,7 @@
 	[
 		[5, 5],
 		{
+			"id": 14280,
 			"level": 395,
 			"quantity": 25,
 			"resource": "ore",
@@ -938,6 +1042,7 @@
 	[
 		[5, 22],
 		{
+			"id": 14281,
 			"level": 375,
 			"quantity": 25,
 			"resource": "ore",
@@ -947,6 +1052,7 @@
 	[
 		[5, 23],
 		{
+			"id": 14282,
 			"level": 370,
 			"quantity": 25,
 			"resource": "gem",
@@ -956,6 +1062,7 @@
 	[
 		[5, 31],
 		{
+			"id": 14283,
 			"level": 350,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -965,6 +1072,7 @@
 	[
 		[5, 43],
 		{
+			"id": 14284,
 			"level": 335,
 			"quantity": 25,
 			"resource": "cloth",
@@ -974,6 +1082,7 @@
 	[
 		[5, 46],
 		{
+			"id": 14285,
 			"level": 335,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -983,6 +1092,7 @@
 	[
 		[5, 52],
 		{
+			"id": 14286,
 			"level": 300,
 			"quantity": 25,
 			"resource": "fish",
@@ -992,6 +1102,7 @@
 	[
 		[5, 53],
 		{
+			"id": 14287,
 			"level": 300,
 			"quantity": 25,
 			"resource": "fish",
@@ -1001,6 +1112,7 @@
 	[
 		[5, 56],
 		{
+			"id": 14288,
 			"level": 305,
 			"quantity": 25,
 			"resource": "berry",
@@ -1010,6 +1122,7 @@
 	[
 		[5, 57],
 		{
+			"id": 14289,
 			"level": 300,
 			"quantity": 25,
 			"resource": "berry",
@@ -1019,15 +1132,7 @@
 	[
 		[5, 57],
 		{
-			"level": 305,
-			"quantity": 25,
-			"resource": "crop",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[5, 57],
-		{
+			"id": 14290,
 			"level": 305,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1035,8 +1140,19 @@
 		}
 	],
 	[
+		[5, 57],
+		{
+			"id": 14291,
+			"level": 305,
+			"quantity": 25,
+			"resource": "crop",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[5, 58],
 		{
+			"id": 14292,
 			"level": 305,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -1046,6 +1162,7 @@
 	[
 		[5, 59],
 		{
+			"id": 14293,
 			"level": 305,
 			"quantity": 25,
 			"resource": "crop",
@@ -1055,6 +1172,7 @@
 	[
 		[5, 60],
 		{
+			"id": 14295,
 			"level": 295,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -1064,6 +1182,7 @@
 	[
 		[5, 60],
 		{
+			"id": 14294,
 			"level": 300,
 			"quantity": 25,
 			"resource": "crop",
@@ -1073,15 +1192,7 @@
 	[
 		[5, 61],
 		{
-			"level": 295,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[5, 61],
-		{
+			"id": 14296,
 			"level": 305,
 			"quantity": 25,
 			"resource": "berry",
@@ -1089,8 +1200,19 @@
 		}
 	],
 	[
+		[5, 61],
+		{
+			"id": 14297,
+			"level": 295,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[5, 62],
 		{
+			"id": 14298,
 			"level": 305,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1100,6 +1222,7 @@
 	[
 		[6, 5],
 		{
+			"id": 14299,
 			"level": 390,
 			"quantity": 25,
 			"resource": "gem",
@@ -1109,6 +1232,7 @@
 	[
 		[6, 14],
 		{
+			"id": 14300,
 			"level": 390,
 			"quantity": 25,
 			"resource": "gem",
@@ -1118,6 +1242,7 @@
 	[
 		[6, 31],
 		{
+			"id": 14301,
 			"level": 360,
 			"quantity": 25,
 			"resource": "crop",
@@ -1127,15 +1252,7 @@
 	[
 		[6, 34],
 		{
-			"level": 350,
-			"quantity": 25,
-			"resource": "vegetable",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[6, 34],
-		{
+			"id": 14302,
 			"level": 355,
 			"quantity": 25,
 			"resource": "crop",
@@ -1143,8 +1260,19 @@
 		}
 	],
 	[
+		[6, 34],
+		{
+			"id": 14303,
+			"level": 350,
+			"quantity": 25,
+			"resource": "vegetable",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[6, 37],
 		{
+			"id": 14304,
 			"level": 340,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1154,6 +1282,7 @@
 	[
 		[6, 39],
 		{
+			"id": 14305,
 			"level": 350,
 			"quantity": 25,
 			"resource": "log",
@@ -1163,6 +1292,7 @@
 	[
 		[6, 40],
 		{
+			"id": 14306,
 			"level": 340,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1172,6 +1302,7 @@
 	[
 		[6, 48],
 		{
+			"id": 14307,
 			"level": 345,
 			"quantity": 25,
 			"resource": "crop",
@@ -1181,6 +1312,7 @@
 	[
 		[6, 55],
 		{
+			"id": 14308,
 			"level": 300,
 			"quantity": 25,
 			"resource": "fish",
@@ -1190,6 +1322,7 @@
 	[
 		[6, 56],
 		{
+			"id": 14309,
 			"level": 310,
 			"quantity": 25,
 			"resource": "berry",
@@ -1199,24 +1332,7 @@
 	[
 		[6, 57],
 		{
-			"level": 305,
-			"quantity": 25,
-			"resource": "vegetable",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[6, 57],
-		{
-			"level": 310,
-			"quantity": 25,
-			"resource": "cloth",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[6, 57],
-		{
+			"id": 14310,
 			"level": 320,
 			"quantity": 25,
 			"resource": "berry",
@@ -1224,8 +1340,29 @@
 		}
 	],
 	[
+		[6, 57],
+		{
+			"id": 14311,
+			"level": 310,
+			"quantity": 25,
+			"resource": "cloth",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[6, 57],
+		{
+			"id": 14312,
+			"level": 305,
+			"quantity": 25,
+			"resource": "vegetable",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[6, 58],
 		{
+			"id": 14313,
 			"level": 310,
 			"quantity": 25,
 			"resource": "berry",
@@ -1235,15 +1372,17 @@
 	[
 		[6, 59],
 		{
+			"id": 14314,
 			"level": 305,
 			"quantity": 25,
-			"resource": "log",
+			"resource": "berry",
 			"respawn": "PT2M"
 		}
 	],
 	[
 		[6, 59],
 		{
+			"id": 14315,
 			"level": 305,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1253,15 +1392,17 @@
 	[
 		[6, 59],
 		{
+			"id": 14316,
 			"level": 305,
 			"quantity": 25,
-			"resource": "berry",
+			"resource": "log",
 			"respawn": "PT2M"
 		}
 	],
 	[
 		[6, 61],
 		{
+			"id": 14317,
 			"level": 300,
 			"quantity": 25,
 			"resource": "berry",
@@ -1271,6 +1412,7 @@
 	[
 		[6, 61],
 		{
+			"id": 14318,
 			"level": 305,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1280,6 +1422,7 @@
 	[
 		[6, 62],
 		{
+			"id": 14319,
 			"level": 300,
 			"quantity": 25,
 			"resource": "crop",
@@ -1289,6 +1432,7 @@
 	[
 		[7, 11],
 		{
+			"id": 14320,
 			"level": 390,
 			"quantity": 25,
 			"resource": "gem",
@@ -1298,6 +1442,7 @@
 	[
 		[7, 16],
 		{
+			"id": 14321,
 			"level": 380,
 			"quantity": 25,
 			"resource": "ore",
@@ -1307,6 +1452,7 @@
 	[
 		[7, 19],
 		{
+			"id": 14322,
 			"level": 375,
 			"quantity": 25,
 			"resource": "ore",
@@ -1316,6 +1462,7 @@
 	[
 		[7, 23],
 		{
+			"id": 14323,
 			"level": 370,
 			"quantity": 25,
 			"resource": "ore",
@@ -1325,6 +1472,7 @@
 	[
 		[7, 25],
 		{
+			"id": 14324,
 			"level": 370,
 			"quantity": 25,
 			"resource": "ore",
@@ -1334,6 +1482,7 @@
 	[
 		[7, 27],
 		{
+			"id": 14325,
 			"level": 370,
 			"quantity": 25,
 			"resource": "ore",
@@ -1343,6 +1492,7 @@
 	[
 		[7, 33],
 		{
+			"id": 14326,
 			"level": 340,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1352,6 +1502,7 @@
 	[
 		[7, 37],
 		{
+			"id": 14327,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -1361,6 +1512,7 @@
 	[
 		[7, 39],
 		{
+			"id": 14328,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -1370,6 +1522,7 @@
 	[
 		[7, 46],
 		{
+			"id": 14329,
 			"level": 330,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1379,6 +1532,7 @@
 	[
 		[7, 47],
 		{
+			"id": 14330,
 			"level": 345,
 			"quantity": 25,
 			"resource": "crop",
@@ -1388,6 +1542,7 @@
 	[
 		[7, 52],
 		{
+			"id": 14331,
 			"level": 300,
 			"quantity": 25,
 			"resource": "fish",
@@ -1397,6 +1552,7 @@
 	[
 		[7, 54],
 		{
+			"id": 14332,
 			"level": 300,
 			"quantity": 25,
 			"resource": "fish",
@@ -1406,6 +1562,7 @@
 	[
 		[7, 56],
 		{
+			"id": 14333,
 			"level": 320,
 			"quantity": 25,
 			"resource": "berry",
@@ -1415,6 +1572,7 @@
 	[
 		[7, 57],
 		{
+			"id": 14334,
 			"level": 310,
 			"quantity": 25,
 			"resource": "berry",
@@ -1424,6 +1582,7 @@
 	[
 		[7, 58],
 		{
+			"id": 14335,
 			"level": 310,
 			"quantity": 25,
 			"resource": "berry",
@@ -1433,6 +1592,7 @@
 	[
 		[7, 58],
 		{
+			"id": 14336,
 			"level": 310,
 			"quantity": 25,
 			"resource": "log",
@@ -1442,6 +1602,7 @@
 	[
 		[7, 59],
 		{
+			"id": 14337,
 			"level": 310,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1451,15 +1612,7 @@
 	[
 		[7, 59],
 		{
-			"level": 305,
-			"quantity": 25,
-			"resource": "vegetable",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[7, 59],
-		{
+			"id": 14338,
 			"level": 300,
 			"quantity": 25,
 			"resource": "crop",
@@ -1467,17 +1620,19 @@
 		}
 	],
 	[
-		[7, 61],
+		[7, 59],
 		{
-			"level": 310,
+			"id": 14339,
+			"level": 305,
 			"quantity": 25,
-			"resource": "log",
+			"resource": "vegetable",
 			"respawn": "PT2M"
 		}
 	],
 	[
 		[7, 61],
 		{
+			"id": 14340,
 			"level": 310,
 			"quantity": 25,
 			"resource": "berry",
@@ -1485,8 +1640,19 @@
 		}
 	],
 	[
+		[7, 61],
+		{
+			"id": 14341,
+			"level": 310,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[7, 62],
 		{
+			"id": 14342,
 			"level": 305,
 			"quantity": 25,
 			"resource": "crop",
@@ -1496,6 +1662,7 @@
 	[
 		[7, 64],
 		{
+			"id": 14343,
 			"level": 300,
 			"quantity": 25,
 			"resource": "stone",
@@ -1505,6 +1672,7 @@
 	[
 		[8, 7],
 		{
+			"id": 14344,
 			"level": 395,
 			"quantity": 25,
 			"resource": "ore",
@@ -1514,6 +1682,7 @@
 	[
 		[8, 20],
 		{
+			"id": 14345,
 			"level": 375,
 			"quantity": 25,
 			"resource": "gem",
@@ -1523,6 +1692,7 @@
 	[
 		[8, 21],
 		{
+			"id": 14346,
 			"level": 375,
 			"quantity": 25,
 			"resource": "ore",
@@ -1532,6 +1702,7 @@
 	[
 		[8, 23],
 		{
+			"id": 14347,
 			"level": 370,
 			"quantity": 25,
 			"resource": "ore",
@@ -1541,6 +1712,7 @@
 	[
 		[8, 26],
 		{
+			"id": 14348,
 			"level": 365,
 			"quantity": 25,
 			"resource": "gem",
@@ -1550,6 +1722,7 @@
 	[
 		[8, 34],
 		{
+			"id": 14349,
 			"level": 360,
 			"quantity": 25,
 			"resource": "crop",
@@ -1559,6 +1732,7 @@
 	[
 		[8, 39],
 		{
+			"id": 14350,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -1568,6 +1742,7 @@
 	[
 		[8, 41],
 		{
+			"id": 14351,
 			"level": 340,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1577,6 +1752,7 @@
 	[
 		[8, 45],
 		{
+			"id": 14352,
 			"level": 335,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1586,6 +1762,7 @@
 	[
 		[8, 48],
 		{
+			"id": 14353,
 			"level": 330,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1595,6 +1772,7 @@
 	[
 		[8, 49],
 		{
+			"id": 14354,
 			"level": 330,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1604,6 +1782,7 @@
 	[
 		[8, 51],
 		{
+			"id": 14355,
 			"level": 310,
 			"quantity": 25,
 			"resource": "fish",
@@ -1613,6 +1792,7 @@
 	[
 		[8, 57],
 		{
+			"id": 14356,
 			"level": 310,
 			"quantity": 25,
 			"resource": "berry",
@@ -1622,6 +1802,7 @@
 	[
 		[8, 58],
 		{
+			"id": 14357,
 			"level": 310,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1631,6 +1812,7 @@
 	[
 		[8, 58],
 		{
+			"id": 14358,
 			"level": 305,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -1640,6 +1822,7 @@
 	[
 		[8, 60],
 		{
+			"id": 14359,
 			"level": 310,
 			"quantity": 25,
 			"resource": "crop",
@@ -1649,6 +1832,7 @@
 	[
 		[8, 60],
 		{
+			"id": 14360,
 			"level": 305,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -1658,15 +1842,7 @@
 	[
 		[8, 61],
 		{
-			"level": 315,
-			"quantity": 25,
-			"resource": "berry",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[8, 61],
-		{
+			"id": 14362,
 			"level": 305,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1674,8 +1850,19 @@
 		}
 	],
 	[
+		[8, 61],
+		{
+			"id": 14361,
+			"level": 315,
+			"quantity": 25,
+			"resource": "berry",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[8, 62],
 		{
+			"id": 14363,
 			"level": 310,
 			"quantity": 25,
 			"resource": "berry",
@@ -1685,6 +1872,7 @@
 	[
 		[8, 62],
 		{
+			"id": 14364,
 			"level": 295,
 			"quantity": 25,
 			"resource": "log",
@@ -1694,6 +1882,7 @@
 	[
 		[8, 66],
 		{
+			"id": 14365,
 			"level": 305,
 			"quantity": 25,
 			"resource": "stone",
@@ -1703,6 +1892,7 @@
 	[
 		[8, 71],
 		{
+			"id": 14366,
 			"level": 305,
 			"quantity": 25,
 			"resource": "stone",
@@ -1712,6 +1902,7 @@
 	[
 		[9, 3],
 		{
+			"id": 14367,
 			"level": 395,
 			"quantity": 25,
 			"resource": "ore",
@@ -1721,6 +1912,7 @@
 	[
 		[9, 5],
 		{
+			"id": 14368,
 			"level": 395,
 			"quantity": 25,
 			"resource": "gem",
@@ -1730,6 +1922,7 @@
 	[
 		[9, 9],
 		{
+			"id": 14369,
 			"level": 395,
 			"quantity": 25,
 			"resource": "ore",
@@ -1739,6 +1932,7 @@
 	[
 		[9, 13],
 		{
+			"id": 14370,
 			"level": 380,
 			"quantity": 25,
 			"resource": "ore",
@@ -1748,6 +1942,7 @@
 	[
 		[9, 35],
 		{
+			"id": 14371,
 			"level": 345,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1757,6 +1952,7 @@
 	[
 		[9, 35],
 		{
+			"id": 14372,
 			"level": 350,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -1766,6 +1962,7 @@
 	[
 		[9, 37],
 		{
+			"id": 14373,
 			"level": 350,
 			"quantity": 25,
 			"resource": "log",
@@ -1775,6 +1972,7 @@
 	[
 		[9, 38],
 		{
+			"id": 14374,
 			"level": 340,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1784,6 +1982,7 @@
 	[
 		[9, 41],
 		{
+			"id": 14375,
 			"level": 350,
 			"quantity": 25,
 			"resource": "log",
@@ -1793,6 +1992,7 @@
 	[
 		[9, 42],
 		{
+			"id": 14376,
 			"level": 360,
 			"quantity": 25,
 			"resource": "berry",
@@ -1802,6 +2002,7 @@
 	[
 		[9, 45],
 		{
+			"id": 14377,
 			"level": 345,
 			"quantity": 25,
 			"resource": "crop",
@@ -1811,15 +2012,7 @@
 	[
 		[9, 53],
 		{
-			"level": 315,
-			"quantity": 25,
-			"resource": "crop",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[9, 53],
-		{
+			"id": 14378,
 			"level": 320,
 			"quantity": 25,
 			"resource": "berry",
@@ -1827,8 +2020,19 @@
 		}
 	],
 	[
+		[9, 53],
+		{
+			"id": 14379,
+			"level": 315,
+			"quantity": 25,
+			"resource": "crop",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[9, 54],
 		{
+			"id": 14380,
 			"level": 335,
 			"quantity": 25,
 			"resource": "fish",
@@ -1838,6 +2042,7 @@
 	[
 		[9, 55],
 		{
+			"id": 14381,
 			"level": 335,
 			"quantity": 25,
 			"resource": "fish",
@@ -1847,6 +2052,7 @@
 	[
 		[9, 57],
 		{
+			"id": 14382,
 			"level": 320,
 			"quantity": 25,
 			"resource": "berry",
@@ -1856,6 +2062,7 @@
 	[
 		[9, 58],
 		{
+			"id": 14383,
 			"level": 310,
 			"quantity": 25,
 			"resource": "crop",
@@ -1865,6 +2072,7 @@
 	[
 		[9, 60],
 		{
+			"id": 14384,
 			"level": 310,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1874,6 +2082,7 @@
 	[
 		[9, 61],
 		{
+			"id": 14385,
 			"level": 315,
 			"quantity": 25,
 			"resource": "berry",
@@ -1883,6 +2092,7 @@
 	[
 		[9, 61],
 		{
+			"id": 14386,
 			"level": 295,
 			"quantity": 25,
 			"resource": "log",
@@ -1892,6 +2102,7 @@
 	[
 		[9, 62],
 		{
+			"id": 14387,
 			"level": 315,
 			"quantity": 25,
 			"resource": "berry",
@@ -1901,6 +2112,7 @@
 	[
 		[9, 70],
 		{
+			"id": 14388,
 			"level": 300,
 			"quantity": 25,
 			"resource": "stone",
@@ -1910,6 +2122,7 @@
 	[
 		[10, 22],
 		{
+			"id": 14389,
 			"level": 370,
 			"quantity": 25,
 			"resource": "gem",
@@ -1919,6 +2132,7 @@
 	[
 		[10, 25],
 		{
+			"id": 14390,
 			"level": 365,
 			"quantity": 25,
 			"resource": "gem",
@@ -1928,6 +2142,7 @@
 	[
 		[10, 31],
 		{
+			"id": 14391,
 			"level": 350,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -1937,6 +2152,7 @@
 	[
 		[10, 32],
 		{
+			"id": 14392,
 			"level": 360,
 			"quantity": 25,
 			"resource": "crop",
@@ -1946,6 +2162,7 @@
 	[
 		[10, 41],
 		{
+			"id": 14393,
 			"level": 360,
 			"quantity": 25,
 			"resource": "berry",
@@ -1955,6 +2172,7 @@
 	[
 		[10, 43],
 		{
+			"id": 14394,
 			"level": 360,
 			"quantity": 25,
 			"resource": "berry",
@@ -1964,6 +2182,7 @@
 	[
 		[10, 44],
 		{
+			"id": 14395,
 			"level": 335,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1973,6 +2192,7 @@
 	[
 		[10, 46],
 		{
+			"id": 14396,
 			"level": 340,
 			"quantity": 25,
 			"resource": "crop",
@@ -1982,6 +2202,7 @@
 	[
 		[10, 47],
 		{
+			"id": 14397,
 			"level": 330,
 			"quantity": 25,
 			"resource": "cloth",
@@ -1991,6 +2212,7 @@
 	[
 		[10, 50],
 		{
+			"id": 14398,
 			"level": 310,
 			"quantity": 25,
 			"resource": "fish",
@@ -2000,6 +2222,7 @@
 	[
 		[10, 57],
 		{
+			"id": 14399,
 			"level": 315,
 			"quantity": 25,
 			"resource": "berry",
@@ -2009,6 +2232,17 @@
 	[
 		[10, 58],
 		{
+			"id": 14400,
+			"level": 315,
+			"quantity": 25,
+			"resource": "berry",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[10, 58],
+		{
+			"id": 14401,
 			"level": 310,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2016,17 +2250,9 @@
 		}
 	],
 	[
-		[10, 58],
-		{
-			"level": 315,
-			"quantity": 25,
-			"resource": "berry",
-			"respawn": "PT2M"
-		}
-	],
-	[
 		[10, 60],
 		{
+			"id": 14402,
 			"level": 315,
 			"quantity": 25,
 			"resource": "berry",
@@ -2036,6 +2262,7 @@
 	[
 		[10, 61],
 		{
+			"id": 14403,
 			"level": 315,
 			"quantity": 25,
 			"resource": "berry",
@@ -2045,6 +2272,7 @@
 	[
 		[10, 62],
 		{
+			"id": 14404,
 			"level": 310,
 			"quantity": 25,
 			"resource": "crop",
@@ -2054,6 +2282,7 @@
 	[
 		[10, 73],
 		{
+			"id": 14405,
 			"level": 305,
 			"quantity": 25,
 			"resource": "stone",
@@ -2063,6 +2292,7 @@
 	[
 		[11, 8],
 		{
+			"id": 14406,
 			"level": 390,
 			"quantity": 25,
 			"resource": "gem",
@@ -2072,6 +2302,7 @@
 	[
 		[11, 14],
 		{
+			"id": 14407,
 			"level": 385,
 			"quantity": 25,
 			"resource": "gem",
@@ -2081,6 +2312,7 @@
 	[
 		[11, 22],
 		{
+			"id": 14408,
 			"level": 370,
 			"quantity": 25,
 			"resource": "ore",
@@ -2090,6 +2322,7 @@
 	[
 		[11, 26],
 		{
+			"id": 14409,
 			"level": 365,
 			"quantity": 25,
 			"resource": "ore",
@@ -2099,6 +2332,7 @@
 	[
 		[11, 32],
 		{
+			"id": 14410,
 			"level": 345,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2108,6 +2342,7 @@
 	[
 		[11, 35],
 		{
+			"id": 14411,
 			"level": 360,
 			"quantity": 25,
 			"resource": "crop",
@@ -2117,6 +2352,7 @@
 	[
 		[11, 44],
 		{
+			"id": 14412,
 			"level": 360,
 			"quantity": 25,
 			"resource": "berry",
@@ -2126,6 +2362,7 @@
 	[
 		[11, 49],
 		{
+			"id": 14413,
 			"level": 310,
 			"quantity": 25,
 			"resource": "fish",
@@ -2135,6 +2372,7 @@
 	[
 		[11, 52],
 		{
+			"id": 14414,
 			"level": 315,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -2144,15 +2382,7 @@
 	[
 		[11, 53],
 		{
-			"level": 320,
-			"quantity": 25,
-			"resource": "cloth",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[11, 53],
-		{
+			"id": 14416,
 			"level": 315,
 			"quantity": 25,
 			"resource": "crop",
@@ -2160,8 +2390,19 @@
 		}
 	],
 	[
+		[11, 53],
+		{
+			"id": 14415,
+			"level": 320,
+			"quantity": 25,
+			"resource": "cloth",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[11, 54],
 		{
+			"id": 14417,
 			"level": 320,
 			"quantity": 25,
 			"resource": "berry",
@@ -2171,24 +2412,27 @@
 	[
 		[11, 57],
 		{
+			"id": 14418,
+			"level": 320,
+			"quantity": 25,
+			"resource": "berry",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[11, 57],
+		{
+			"id": 14419,
 			"level": 310,
 			"quantity": 25,
 			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[11, 57],
-		{
-			"level": 320,
-			"quantity": 25,
-			"resource": "berry",
 			"respawn": "PT2M"
 		}
 	],
 	[
 		[11, 58],
 		{
+			"id": 14420,
 			"level": 315,
 			"quantity": 25,
 			"resource": "berry",
@@ -2198,6 +2442,7 @@
 	[
 		[11, 59],
 		{
+			"id": 14421,
 			"level": 315,
 			"quantity": 25,
 			"resource": "berry",
@@ -2207,6 +2452,7 @@
 	[
 		[11, 59],
 		{
+			"id": 14422,
 			"level": 310,
 			"quantity": 25,
 			"resource": "log",
@@ -2216,6 +2462,7 @@
 	[
 		[11, 60],
 		{
+			"id": 14423,
 			"level": 320,
 			"quantity": 25,
 			"resource": "berry",
@@ -2225,15 +2472,7 @@
 	[
 		[11, 60],
 		{
-			"level": 310,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[11, 60],
-		{
+			"id": 14424,
 			"level": 315,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2241,8 +2480,19 @@
 		}
 	],
 	[
+		[11, 60],
+		{
+			"id": 14425,
+			"level": 310,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[11, 61],
 		{
+			"id": 14426,
 			"level": 310,
 			"quantity": 25,
 			"resource": "crop",
@@ -2252,6 +2502,7 @@
 	[
 		[11, 62],
 		{
+			"id": 14427,
 			"level": 310,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2261,6 +2512,7 @@
 	[
 		[11, 70],
 		{
+			"id": 14428,
 			"level": 305,
 			"quantity": 25,
 			"resource": "stone",
@@ -2270,6 +2522,7 @@
 	[
 		[12, 6],
 		{
+			"id": 14429,
 			"level": 395,
 			"quantity": 25,
 			"resource": "ore",
@@ -2279,6 +2532,7 @@
 	[
 		[12, 10],
 		{
+			"id": 14430,
 			"level": 390,
 			"quantity": 25,
 			"resource": "ore",
@@ -2288,6 +2542,7 @@
 	[
 		[12, 19],
 		{
+			"id": 14431,
 			"level": 375,
 			"quantity": 25,
 			"resource": "gem",
@@ -2297,6 +2552,7 @@
 	[
 		[12, 23],
 		{
+			"id": 14432,
 			"level": 365,
 			"quantity": 25,
 			"resource": "ore",
@@ -2306,6 +2562,7 @@
 	[
 		[12, 26],
 		{
+			"id": 14433,
 			"level": 365,
 			"quantity": 25,
 			"resource": "gem",
@@ -2315,15 +2572,7 @@
 	[
 		[12, 37],
 		{
-			"level": 345,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[12, 37],
-		{
+			"id": 14434,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -2331,8 +2580,19 @@
 		}
 	],
 	[
+		[12, 37],
+		{
+			"id": 14435,
+			"level": 345,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[12, 40],
 		{
+			"id": 14436,
 			"level": 360,
 			"quantity": 25,
 			"resource": "berry",
@@ -2342,6 +2602,7 @@
 	[
 		[12, 42],
 		{
+			"id": 14437,
 			"level": 335,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2351,6 +2612,7 @@
 	[
 		[12, 44],
 		{
+			"id": 14438,
 			"level": 340,
 			"quantity": 25,
 			"resource": "crop",
@@ -2360,6 +2622,7 @@
 	[
 		[12, 47],
 		{
+			"id": 14439,
 			"level": 340,
 			"quantity": 25,
 			"resource": "crop",
@@ -2369,6 +2632,7 @@
 	[
 		[12, 50],
 		{
+			"id": 14440,
 			"level": 310,
 			"quantity": 25,
 			"resource": "fish",
@@ -2378,6 +2642,7 @@
 	[
 		[12, 52],
 		{
+			"id": 14441,
 			"level": 315,
 			"quantity": 25,
 			"resource": "crop",
@@ -2387,6 +2652,7 @@
 	[
 		[12, 54],
 		{
+			"id": 14442,
 			"level": 315,
 			"quantity": 25,
 			"resource": "crop",
@@ -2396,6 +2662,7 @@
 	[
 		[12, 56],
 		{
+			"id": 14443,
 			"level": 335,
 			"quantity": 25,
 			"resource": "fish",
@@ -2405,6 +2672,7 @@
 	[
 		[12, 57],
 		{
+			"id": 14444,
 			"level": 315,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2414,6 +2682,7 @@
 	[
 		[12, 58],
 		{
+			"id": 14445,
 			"level": 310,
 			"quantity": 25,
 			"resource": "crop",
@@ -2423,6 +2692,7 @@
 	[
 		[12, 59],
 		{
+			"id": 14446,
 			"level": 315,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2432,15 +2702,7 @@
 	[
 		[12, 60],
 		{
-			"level": 310,
-			"quantity": 25,
-			"resource": "crop",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[12, 60],
-		{
+			"id": 14448,
 			"level": 310,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -2448,8 +2710,19 @@
 		}
 	],
 	[
+		[12, 60],
+		{
+			"id": 14447,
+			"level": 310,
+			"quantity": 25,
+			"resource": "crop",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[12, 61],
 		{
+			"id": 14449,
 			"level": 310,
 			"quantity": 25,
 			"resource": "crop",
@@ -2459,6 +2732,7 @@
 	[
 		[12, 62],
 		{
+			"id": 14450,
 			"level": 315,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2468,6 +2742,7 @@
 	[
 		[13, 15],
 		{
+			"id": 14451,
 			"level": 380,
 			"quantity": 25,
 			"resource": "ore",
@@ -2477,6 +2752,7 @@
 	[
 		[13, 22],
 		{
+			"id": 14452,
 			"level": 365,
 			"quantity": 25,
 			"resource": "gem",
@@ -2486,6 +2762,7 @@
 	[
 		[13, 26],
 		{
+			"id": 14453,
 			"level": 360,
 			"quantity": 25,
 			"resource": "ore",
@@ -2495,6 +2772,7 @@
 	[
 		[13, 29],
 		{
+			"id": 14454,
 			"level": 365,
 			"quantity": 25,
 			"resource": "ore",
@@ -2504,6 +2782,7 @@
 	[
 		[13, 32],
 		{
+			"id": 14455,
 			"level": 360,
 			"quantity": 25,
 			"resource": "crop",
@@ -2513,6 +2792,7 @@
 	[
 		[13, 34],
 		{
+			"id": 14456,
 			"level": 345,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2522,6 +2802,7 @@
 	[
 		[13, 35],
 		{
+			"id": 14457,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -2531,6 +2812,7 @@
 	[
 		[13, 36],
 		{
+			"id": 14458,
 			"level": 350,
 			"quantity": 25,
 			"resource": "log",
@@ -2540,6 +2822,7 @@
 	[
 		[13, 39],
 		{
+			"id": 14459,
 			"level": 345,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2549,6 +2832,7 @@
 	[
 		[13, 40],
 		{
+			"id": 14460,
 			"level": 345,
 			"quantity": 25,
 			"resource": "log",
@@ -2558,6 +2842,7 @@
 	[
 		[13, 45],
 		{
+			"id": 14461,
 			"level": 335,
 			"quantity": 25,
 			"resource": "log",
@@ -2567,6 +2852,7 @@
 	[
 		[13, 48],
 		{
+			"id": 14462,
 			"level": 310,
 			"quantity": 25,
 			"resource": "fish",
@@ -2576,6 +2862,7 @@
 	[
 		[13, 51],
 		{
+			"id": 14463,
 			"level": 315,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -2585,6 +2872,7 @@
 	[
 		[13, 52],
 		{
+			"id": 14464,
 			"level": 320,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2594,6 +2882,7 @@
 	[
 		[13, 53],
 		{
+			"id": 14465,
 			"level": 315,
 			"quantity": 25,
 			"resource": "crop",
@@ -2603,6 +2892,7 @@
 	[
 		[13, 53],
 		{
+			"id": 14466,
 			"level": 315,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -2612,6 +2902,7 @@
 	[
 		[13, 54],
 		{
+			"id": 14467,
 			"level": 315,
 			"quantity": 25,
 			"resource": "crop",
@@ -2621,6 +2912,7 @@
 	[
 		[13, 55],
 		{
+			"id": 14468,
 			"level": 335,
 			"quantity": 25,
 			"resource": "fish",
@@ -2630,6 +2922,7 @@
 	[
 		[13, 58],
 		{
+			"id": 14469,
 			"level": 320,
 			"quantity": 25,
 			"resource": "berry",
@@ -2639,6 +2932,7 @@
 	[
 		[13, 58],
 		{
+			"id": 14470,
 			"level": 310,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -2648,6 +2942,7 @@
 	[
 		[13, 61],
 		{
+			"id": 14471,
 			"level": 315,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2657,6 +2952,7 @@
 	[
 		[13, 62],
 		{
+			"id": 14472,
 			"level": 310,
 			"quantity": 25,
 			"resource": "crop",
@@ -2666,6 +2962,7 @@
 	[
 		[13, 66],
 		{
+			"id": 14473,
 			"level": 305,
 			"quantity": 25,
 			"resource": "stone",
@@ -2675,6 +2972,7 @@
 	[
 		[13, 70],
 		{
+			"id": 14474,
 			"level": 305,
 			"quantity": 25,
 			"resource": "stone",
@@ -2684,6 +2982,7 @@
 	[
 		[13, 75],
 		{
+			"id": 14475,
 			"level": 310,
 			"quantity": 25,
 			"resource": "stone",
@@ -2693,6 +2992,7 @@
 	[
 		[14, 11],
 		{
+			"id": 14476,
 			"level": 380,
 			"quantity": 25,
 			"resource": "ore",
@@ -2702,6 +3002,7 @@
 	[
 		[14, 12],
 		{
+			"id": 14477,
 			"level": 385,
 			"quantity": 25,
 			"resource": "gem",
@@ -2711,6 +3012,7 @@
 	[
 		[14, 17],
 		{
+			"id": 14478,
 			"level": 385,
 			"quantity": 25,
 			"resource": "gem",
@@ -2720,6 +3022,7 @@
 	[
 		[14, 25],
 		{
+			"id": 14479,
 			"level": 375,
 			"quantity": 25,
 			"resource": "gem",
@@ -2729,6 +3032,7 @@
 	[
 		[14, 34],
 		{
+			"id": 14480,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -2738,6 +3042,7 @@
 	[
 		[14, 38],
 		{
+			"id": 14481,
 			"level": 345,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2747,6 +3052,7 @@
 	[
 		[14, 41],
 		{
+			"id": 14482,
 			"level": 360,
 			"quantity": 25,
 			"resource": "berry",
@@ -2756,6 +3062,7 @@
 	[
 		[14, 43],
 		{
+			"id": 14483,
 			"level": 340,
 			"quantity": 25,
 			"resource": "crop",
@@ -2765,6 +3072,7 @@
 	[
 		[14, 45],
 		{
+			"id": 14484,
 			"level": 340,
 			"quantity": 25,
 			"resource": "crop",
@@ -2774,6 +3082,7 @@
 	[
 		[14, 46],
 		{
+			"id": 14485,
 			"level": 340,
 			"quantity": 25,
 			"resource": "crop",
@@ -2783,15 +3092,7 @@
 	[
 		[14, 51],
 		{
-			"level": 320,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[14, 51],
-		{
+			"id": 14487,
 			"level": 325,
 			"quantity": 25,
 			"resource": "crop",
@@ -2801,6 +3102,17 @@
 	[
 		[14, 51],
 		{
+			"id": 14488,
+			"level": 320,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[14, 51],
+		{
+			"id": 14486,
 			"level": 325,
 			"quantity": 25,
 			"resource": "berry",
@@ -2810,6 +3122,7 @@
 	[
 		[14, 52],
 		{
+			"id": 14489,
 			"level": 325,
 			"quantity": 25,
 			"resource": "berry",
@@ -2819,6 +3132,7 @@
 	[
 		[14, 52],
 		{
+			"id": 14490,
 			"level": 315,
 			"quantity": 25,
 			"resource": "log",
@@ -2828,6 +3142,7 @@
 	[
 		[14, 53],
 		{
+			"id": 14491,
 			"level": 325,
 			"quantity": 25,
 			"resource": "berry",
@@ -2837,6 +3152,7 @@
 	[
 		[14, 53],
 		{
+			"id": 14492,
 			"level": 325,
 			"quantity": 25,
 			"resource": "crop",
@@ -2846,6 +3162,7 @@
 	[
 		[14, 54],
 		{
+			"id": 14493,
 			"level": 310,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -2855,6 +3172,7 @@
 	[
 		[14, 56],
 		{
+			"id": 14494,
 			"level": 335,
 			"quantity": 25,
 			"resource": "fish",
@@ -2864,6 +3182,7 @@
 	[
 		[14, 65],
 		{
+			"id": 14495,
 			"level": 315,
 			"quantity": 25,
 			"resource": "stone",
@@ -2873,6 +3192,7 @@
 	[
 		[15, 3],
 		{
+			"id": 14496,
 			"level": 395,
 			"quantity": 25,
 			"resource": "gem",
@@ -2882,6 +3202,7 @@
 	[
 		[15, 5],
 		{
+			"id": 14497,
 			"level": 395,
 			"quantity": 25,
 			"resource": "ore",
@@ -2891,6 +3212,7 @@
 	[
 		[15, 8],
 		{
+			"id": 14498,
 			"level": 390,
 			"quantity": 25,
 			"resource": "ore",
@@ -2900,6 +3222,7 @@
 	[
 		[15, 24],
 		{
+			"id": 14499,
 			"level": 360,
 			"quantity": 25,
 			"resource": "ore",
@@ -2909,6 +3232,7 @@
 	[
 		[15, 27],
 		{
+			"id": 14500,
 			"level": 360,
 			"quantity": 25,
 			"resource": "ore",
@@ -2918,6 +3242,7 @@
 	[
 		[15, 33],
 		{
+			"id": 14501,
 			"level": 345,
 			"quantity": 25,
 			"resource": "cloth",
@@ -2927,6 +3252,7 @@
 	[
 		[15, 35],
 		{
+			"id": 14502,
 			"level": 350,
 			"quantity": 25,
 			"resource": "log",
@@ -2936,6 +3262,7 @@
 	[
 		[15, 45],
 		{
+			"id": 14503,
 			"level": 360,
 			"quantity": 25,
 			"resource": "berry",
@@ -2945,6 +3272,7 @@
 	[
 		[15, 48],
 		{
+			"id": 14504,
 			"level": 310,
 			"quantity": 25,
 			"resource": "fish",
@@ -2954,6 +3282,7 @@
 	[
 		[15, 49],
 		{
+			"id": 14505,
 			"level": 315,
 			"quantity": 25,
 			"resource": "fish",
@@ -2963,6 +3292,7 @@
 	[
 		[15, 50],
 		{
+			"id": 14506,
 			"level": 315,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -2972,6 +3302,7 @@
 	[
 		[15, 51],
 		{
+			"id": 14507,
 			"level": 325,
 			"quantity": 25,
 			"resource": "berry",
@@ -2981,6 +3312,7 @@
 	[
 		[15, 51],
 		{
+			"id": 14508,
 			"level": 315,
 			"quantity": 25,
 			"resource": "crop",
@@ -2990,6 +3322,7 @@
 	[
 		[15, 53],
 		{
+			"id": 14509,
 			"level": 325,
 			"quantity": 25,
 			"resource": "berry",
@@ -2999,6 +3332,7 @@
 	[
 		[15, 53],
 		{
+			"id": 14510,
 			"level": 315,
 			"quantity": 25,
 			"resource": "log",
@@ -3008,6 +3342,7 @@
 	[
 		[15, 54],
 		{
+			"id": 14511,
 			"level": 325,
 			"quantity": 25,
 			"resource": "berry",
@@ -3017,15 +3352,7 @@
 	[
 		[15, 54],
 		{
-			"level": 325,
-			"quantity": 25,
-			"resource": "crop",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[15, 54],
-		{
+			"id": 14512,
 			"level": 320,
 			"quantity": 25,
 			"resource": "cloth",
@@ -3035,6 +3362,17 @@
 	[
 		[15, 54],
 		{
+			"id": 14513,
+			"level": 325,
+			"quantity": 25,
+			"resource": "crop",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[15, 54],
+		{
+			"id": 14514,
 			"level": 315,
 			"quantity": 25,
 			"resource": "log",
@@ -3044,6 +3382,7 @@
 	[
 		[15, 57],
 		{
+			"id": 14515,
 			"level": 335,
 			"quantity": 25,
 			"resource": "fish",
@@ -3053,6 +3392,7 @@
 	[
 		[15, 59],
 		{
+			"id": 14516,
 			"level": 310,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -3062,6 +3402,7 @@
 	[
 		[15, 66],
 		{
+			"id": 14517,
 			"level": 310,
 			"quantity": 25,
 			"resource": "stone",
@@ -3071,6 +3412,7 @@
 	[
 		[15, 74],
 		{
+			"id": 14518,
 			"level": 310,
 			"quantity": 25,
 			"resource": "stone",
@@ -3080,6 +3422,7 @@
 	[
 		[16, 11],
 		{
+			"id": 14519,
 			"level": 390,
 			"quantity": 25,
 			"resource": "ore",
@@ -3089,6 +3432,7 @@
 	[
 		[16, 12],
 		{
+			"id": 14520,
 			"level": 390,
 			"quantity": 25,
 			"resource": "ore",
@@ -3098,6 +3442,7 @@
 	[
 		[16, 18],
 		{
+			"id": 14521,
 			"level": 375,
 			"quantity": 25,
 			"resource": "gem",
@@ -3107,6 +3452,7 @@
 	[
 		[16, 20],
 		{
+			"id": 14522,
 			"level": 380,
 			"quantity": 25,
 			"resource": "ore",
@@ -3116,6 +3462,7 @@
 	[
 		[16, 21],
 		{
+			"id": 14523,
 			"level": 375,
 			"quantity": 25,
 			"resource": "gem",
@@ -3125,6 +3472,7 @@
 	[
 		[16, 22],
 		{
+			"id": 14524,
 			"level": 350,
 			"quantity": 25,
 			"resource": "ore",
@@ -3134,6 +3482,7 @@
 	[
 		[16, 29],
 		{
+			"id": 14525,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -3143,6 +3492,7 @@
 	[
 		[16, 33],
 		{
+			"id": 14526,
 			"level": 360,
 			"quantity": 25,
 			"resource": "crop",
@@ -3152,6 +3502,7 @@
 	[
 		[16, 35],
 		{
+			"id": 14527,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -3161,6 +3512,7 @@
 	[
 		[16, 39],
 		{
+			"id": 14528,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -3170,6 +3522,7 @@
 	[
 		[16, 44],
 		{
+			"id": 14529,
 			"level": 340,
 			"quantity": 25,
 			"resource": "crop",
@@ -3179,6 +3532,7 @@
 	[
 		[16, 45],
 		{
+			"id": 14530,
 			"level": 335,
 			"quantity": 25,
 			"resource": "log",
@@ -3188,6 +3542,7 @@
 	[
 		[16, 46],
 		{
+			"id": 14531,
 			"level": 330,
 			"quantity": 25,
 			"resource": "cloth",
@@ -3197,15 +3552,7 @@
 	[
 		[16, 51],
 		{
-			"level": 315,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[16, 51],
-		{
+			"id": 14532,
 			"level": 330,
 			"quantity": 25,
 			"resource": "berry",
@@ -3213,8 +3560,19 @@
 		}
 	],
 	[
+		[16, 51],
+		{
+			"id": 14533,
+			"level": 315,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[16, 53],
 		{
+			"id": 14534,
 			"level": 320,
 			"quantity": 25,
 			"resource": "cloth",
@@ -3224,6 +3582,17 @@
 	[
 		[16, 54],
 		{
+			"id": 14537,
+			"level": 320,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[16, 54],
+		{
+			"id": 14535,
 			"level": 325,
 			"quantity": 25,
 			"resource": "berry",
@@ -3233,15 +3602,7 @@
 	[
 		[16, 54],
 		{
-			"level": 320,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[16, 54],
-		{
+			"id": 14536,
 			"level": 330,
 			"quantity": 25,
 			"resource": "berry",
@@ -3251,6 +3612,7 @@
 	[
 		[16, 55],
 		{
+			"id": 14538,
 			"level": 320,
 			"quantity": 25,
 			"resource": "cloth",
@@ -3260,6 +3622,7 @@
 	[
 		[16, 56],
 		{
+			"id": 14539,
 			"level": 325,
 			"quantity": 25,
 			"resource": "crop",
@@ -3269,6 +3632,7 @@
 	[
 		[16, 58],
 		{
+			"id": 14540,
 			"level": 335,
 			"quantity": 25,
 			"resource": "fish",
@@ -3278,6 +3642,7 @@
 	[
 		[16, 63],
 		{
+			"id": 14541,
 			"level": 315,
 			"quantity": 25,
 			"resource": "stone",
@@ -3287,6 +3652,7 @@
 	[
 		[16, 71],
 		{
+			"id": 14542,
 			"level": 310,
 			"quantity": 25,
 			"resource": "stone",
@@ -3296,6 +3662,7 @@
 	[
 		[17, 7],
 		{
+			"id": 14543,
 			"level": 395,
 			"quantity": 25,
 			"resource": "gem",
@@ -3305,6 +3672,7 @@
 	[
 		[17, 9],
 		{
+			"id": 14544,
 			"level": 385,
 			"quantity": 25,
 			"resource": "gem",
@@ -3314,6 +3682,7 @@
 	[
 		[17, 14],
 		{
+			"id": 14545,
 			"level": 385,
 			"quantity": 25,
 			"resource": "gem",
@@ -3323,6 +3692,7 @@
 	[
 		[17, 14],
 		{
+			"id": 14546,
 			"level": 385,
 			"quantity": 25,
 			"resource": "ore",
@@ -3332,6 +3702,7 @@
 	[
 		[17, 25],
 		{
+			"id": 14547,
 			"level": 360,
 			"quantity": 25,
 			"resource": "gem",
@@ -3341,6 +3712,7 @@
 	[
 		[17, 25],
 		{
+			"id": 14548,
 			"level": 350,
 			"quantity": 25,
 			"resource": "ore",
@@ -3350,6 +3722,7 @@
 	[
 		[17, 29],
 		{
+			"id": 14549,
 			"level": 360,
 			"quantity": 25,
 			"resource": "gem",
@@ -3359,6 +3732,7 @@
 	[
 		[17, 38],
 		{
+			"id": 14550,
 			"level": 345,
 			"quantity": 25,
 			"resource": "log",
@@ -3368,6 +3742,7 @@
 	[
 		[17, 40],
 		{
+			"id": 14551,
 			"level": 345,
 			"quantity": 25,
 			"resource": "log",
@@ -3377,15 +3752,7 @@
 	[
 		[17, 43],
 		{
-			"level": 335,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[17, 43],
-		{
+			"id": 14552,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -3393,8 +3760,19 @@
 		}
 	],
 	[
+		[17, 43],
+		{
+			"id": 14553,
+			"level": 335,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[17, 46],
 		{
+			"id": 14554,
 			"level": 335,
 			"quantity": 25,
 			"resource": "crop",
@@ -3404,6 +3782,7 @@
 	[
 		[17, 47],
 		{
+			"id": 14555,
 			"level": 330,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -3413,6 +3792,7 @@
 	[
 		[17, 48],
 		{
+			"id": 14556,
 			"level": 315,
 			"quantity": 25,
 			"resource": "fish",
@@ -3422,6 +3802,7 @@
 	[
 		[17, 51],
 		{
+			"id": 14557,
 			"level": 320,
 			"quantity": 25,
 			"resource": "cloth",
@@ -3431,6 +3812,7 @@
 	[
 		[17, 53],
 		{
+			"id": 14558,
 			"level": 325,
 			"quantity": 25,
 			"resource": "crop",
@@ -3440,6 +3822,7 @@
 	[
 		[17, 54],
 		{
+			"id": 14559,
 			"level": 330,
 			"quantity": 25,
 			"resource": "berry",
@@ -3449,6 +3832,7 @@
 	[
 		[17, 54],
 		{
+			"id": 14560,
 			"level": 315,
 			"quantity": 25,
 			"resource": "log",
@@ -3458,6 +3842,7 @@
 	[
 		[17, 55],
 		{
+			"id": 14561,
 			"level": 310,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -3467,6 +3852,7 @@
 	[
 		[18, 5],
 		{
+			"id": 14562,
 			"level": 395,
 			"quantity": 25,
 			"resource": "gem",
@@ -3476,6 +3862,7 @@
 	[
 		[18, 9],
 		{
+			"id": 14563,
 			"level": 390,
 			"quantity": 25,
 			"resource": "ore",
@@ -3485,6 +3872,7 @@
 	[
 		[18, 16],
 		{
+			"id": 14564,
 			"level": 385,
 			"quantity": 25,
 			"resource": "ore",
@@ -3494,6 +3882,7 @@
 	[
 		[18, 20],
 		{
+			"id": 14565,
 			"level": 380,
 			"quantity": 25,
 			"resource": "gem",
@@ -3503,6 +3892,7 @@
 	[
 		[18, 22],
 		{
+			"id": 14566,
 			"level": 365,
 			"quantity": 25,
 			"resource": "ore",
@@ -3512,6 +3902,7 @@
 	[
 		[18, 23],
 		{
+			"id": 14567,
 			"level": 365,
 			"quantity": 25,
 			"resource": "gem",
@@ -3521,6 +3912,7 @@
 	[
 		[18, 27],
 		{
+			"id": 14568,
 			"level": 355,
 			"quantity": 25,
 			"resource": "gem",
@@ -3530,6 +3922,7 @@
 	[
 		[18, 36],
 		{
+			"id": 14569,
 			"level": 345,
 			"quantity": 25,
 			"resource": "cloth",
@@ -3539,6 +3932,7 @@
 	[
 		[18, 40],
 		{
+			"id": 14570,
 			"level": 345,
 			"quantity": 25,
 			"resource": "cloth",
@@ -3548,6 +3942,7 @@
 	[
 		[18, 43],
 		{
+			"id": 14571,
 			"level": 335,
 			"quantity": 25,
 			"resource": "crop",
@@ -3557,6 +3952,7 @@
 	[
 		[18, 43],
 		{
+			"id": 14572,
 			"level": 330,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -3566,6 +3962,7 @@
 	[
 		[18, 44],
 		{
+			"id": 14573,
 			"level": 335,
 			"quantity": 25,
 			"resource": "log",
@@ -3575,6 +3972,7 @@
 	[
 		[18, 45],
 		{
+			"id": 14574,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -3584,6 +3982,7 @@
 	[
 		[18, 51],
 		{
+			"id": 14575,
 			"level": 325,
 			"quantity": 25,
 			"resource": "crop",
@@ -3593,6 +3992,7 @@
 	[
 		[18, 52],
 		{
+			"id": 14576,
 			"level": 315,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -3602,6 +4002,7 @@
 	[
 		[18, 53],
 		{
+			"id": 14577,
 			"level": 325,
 			"quantity": 25,
 			"resource": "berry",
@@ -3611,15 +4012,7 @@
 	[
 		[18, 53],
 		{
-			"level": 315,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[18, 53],
-		{
+			"id": 14578,
 			"level": 330,
 			"quantity": 25,
 			"resource": "berry",
@@ -3627,8 +4020,19 @@
 		}
 	],
 	[
+		[18, 53],
+		{
+			"id": 14579,
+			"level": 315,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[18, 54],
 		{
+			"id": 14580,
 			"level": 330,
 			"quantity": 25,
 			"resource": "berry",
@@ -3638,6 +4042,7 @@
 	[
 		[18, 55],
 		{
+			"id": 14581,
 			"level": 330,
 			"quantity": 25,
 			"resource": "berry",
@@ -3647,6 +4052,7 @@
 	[
 		[18, 57],
 		{
+			"id": 14582,
 			"level": 340,
 			"quantity": 25,
 			"resource": "fish",
@@ -3656,6 +4062,7 @@
 	[
 		[18, 62],
 		{
+			"id": 14583,
 			"level": 315,
 			"quantity": 25,
 			"resource": "stone",
@@ -3665,6 +4072,7 @@
 	[
 		[18, 69],
 		{
+			"id": 14584,
 			"level": 310,
 			"quantity": 25,
 			"resource": "stone",
@@ -3674,6 +4082,7 @@
 	[
 		[19, 3],
 		{
+			"id": 14585,
 			"level": 395,
 			"quantity": 25,
 			"resource": "gem",
@@ -3683,6 +4092,7 @@
 	[
 		[19, 11],
 		{
+			"id": 14586,
 			"level": 385,
 			"quantity": 25,
 			"resource": "ore",
@@ -3692,6 +4102,7 @@
 	[
 		[19, 16],
 		{
+			"id": 14587,
 			"level": 380,
 			"quantity": 25,
 			"resource": "gem",
@@ -3701,6 +4112,7 @@
 	[
 		[19, 18],
 		{
+			"id": 14588,
 			"level": 365,
 			"quantity": 25,
 			"resource": "ore",
@@ -3710,6 +4122,7 @@
 	[
 		[19, 27],
 		{
+			"id": 14589,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -3719,6 +4132,7 @@
 	[
 		[19, 30],
 		{
+			"id": 14590,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -3728,6 +4142,7 @@
 	[
 		[19, 35],
 		{
+			"id": 14591,
 			"level": 360,
 			"quantity": 25,
 			"resource": "berry",
@@ -3737,6 +4152,7 @@
 	[
 		[19, 38],
 		{
+			"id": 14592,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -3746,6 +4162,7 @@
 	[
 		[19, 44],
 		{
+			"id": 14593,
 			"level": 350,
 			"quantity": 25,
 			"resource": "cloth",
@@ -3755,6 +4172,7 @@
 	[
 		[19, 44],
 		{
+			"id": 14594,
 			"level": 330,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -3764,6 +4182,7 @@
 	[
 		[19, 45],
 		{
+			"id": 14595,
 			"level": 335,
 			"quantity": 25,
 			"resource": "crop",
@@ -3773,6 +4192,7 @@
 	[
 		[19, 48],
 		{
+			"id": 14596,
 			"level": 315,
 			"quantity": 25,
 			"resource": "fish",
@@ -3782,6 +4202,7 @@
 	[
 		[19, 51],
 		{
+			"id": 14597,
 			"level": 340,
 			"quantity": 25,
 			"resource": "berry",
@@ -3791,15 +4212,7 @@
 	[
 		[19, 53],
 		{
-			"level": 320,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[19, 53],
-		{
+			"id": 14598,
 			"level": 330,
 			"quantity": 25,
 			"resource": "berry",
@@ -3807,8 +4220,19 @@
 		}
 	],
 	[
+		[19, 53],
+		{
+			"id": 14599,
+			"level": 320,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[19, 54],
 		{
+			"id": 14600,
 			"level": 325,
 			"quantity": 25,
 			"resource": "crop",
@@ -3818,6 +4242,7 @@
 	[
 		[19, 55],
 		{
+			"id": 14601,
 			"level": 320,
 			"quantity": 25,
 			"resource": "cloth",
@@ -3827,6 +4252,7 @@
 	[
 		[19, 61],
 		{
+			"id": 14602,
 			"level": 315,
 			"quantity": 25,
 			"resource": "stone",
@@ -3836,6 +4262,7 @@
 	[
 		[20, 6],
 		{
+			"id": 14603,
 			"level": 390,
 			"quantity": 25,
 			"resource": "ore",
@@ -3845,6 +4272,7 @@
 	[
 		[20, 9],
 		{
+			"id": 14604,
 			"level": 395,
 			"quantity": 25,
 			"resource": "gem",
@@ -3854,6 +4282,7 @@
 	[
 		[20, 21],
 		{
+			"id": 14605,
 			"level": 360,
 			"quantity": 25,
 			"resource": "ore",
@@ -3863,6 +4292,7 @@
 	[
 		[20, 23],
 		{
+			"id": 14606,
 			"level": 350,
 			"quantity": 25,
 			"resource": "ore",
@@ -3872,6 +4302,7 @@
 	[
 		[20, 24],
 		{
+			"id": 14607,
 			"level": 355,
 			"quantity": 25,
 			"resource": "gem",
@@ -3881,6 +4312,7 @@
 	[
 		[20, 27],
 		{
+			"id": 14608,
 			"level": 360,
 			"quantity": 25,
 			"resource": "gem",
@@ -3890,6 +4322,7 @@
 	[
 		[20, 29],
 		{
+			"id": 14609,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -3899,6 +4332,7 @@
 	[
 		[20, 30],
 		{
+			"id": 14610,
 			"level": 360,
 			"quantity": 25,
 			"resource": "gem",
@@ -3908,6 +4342,7 @@
 	[
 		[20, 36],
 		{
+			"id": 14611,
 			"level": 350,
 			"quantity": 25,
 			"resource": "cloth",
@@ -3917,6 +4352,7 @@
 	[
 		[20, 41],
 		{
+			"id": 14612,
 			"level": 345,
 			"quantity": 25,
 			"resource": "log",
@@ -3926,6 +4362,7 @@
 	[
 		[20, 42],
 		{
+			"id": 14613,
 			"level": 335,
 			"quantity": 25,
 			"resource": "crop",
@@ -3935,6 +4372,7 @@
 	[
 		[20, 42],
 		{
+			"id": 14614,
 			"level": 330,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -3944,6 +4382,7 @@
 	[
 		[20, 44],
 		{
+			"id": 14615,
 			"level": 335,
 			"quantity": 25,
 			"resource": "log",
@@ -3953,6 +4392,7 @@
 	[
 		[20, 45],
 		{
+			"id": 14616,
 			"level": 330,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -3962,6 +4402,7 @@
 	[
 		[20, 47],
 		{
+			"id": 14617,
 			"level": 335,
 			"quantity": 25,
 			"resource": "crop",
@@ -3971,6 +4412,7 @@
 	[
 		[20, 49],
 		{
+			"id": 14618,
 			"level": 315,
 			"quantity": 25,
 			"resource": "fish",
@@ -3980,6 +4422,7 @@
 	[
 		[20, 51],
 		{
+			"id": 14619,
 			"level": 340,
 			"quantity": 25,
 			"resource": "berry",
@@ -3989,6 +4432,7 @@
 	[
 		[20, 51],
 		{
+			"id": 14620,
 			"level": 320,
 			"quantity": 25,
 			"resource": "log",
@@ -3998,15 +4442,7 @@
 	[
 		[20, 52],
 		{
-			"level": 340,
-			"quantity": 25,
-			"resource": "berry",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[20, 52],
-		{
+			"id": 14622,
 			"level": 320,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4014,8 +4450,19 @@
 		}
 	],
 	[
+		[20, 52],
+		{
+			"id": 14621,
+			"level": 340,
+			"quantity": 25,
+			"resource": "berry",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[20, 53],
 		{
+			"id": 14623,
 			"level": 320,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -4025,6 +4472,7 @@
 	[
 		[20, 58],
 		{
+			"id": 14624,
 			"level": 320,
 			"quantity": 25,
 			"resource": "stone",
@@ -4034,6 +4482,7 @@
 	[
 		[20, 66],
 		{
+			"id": 14625,
 			"level": 315,
 			"quantity": 25,
 			"resource": "stone",
@@ -4043,6 +4492,7 @@
 	[
 		[21, 7],
 		{
+			"id": 14626,
 			"level": 395,
 			"quantity": 25,
 			"resource": "gem",
@@ -4052,6 +4502,7 @@
 	[
 		[21, 13],
 		{
+			"id": 14627,
 			"level": 385,
 			"quantity": 25,
 			"resource": "ore",
@@ -4061,6 +4512,7 @@
 	[
 		[21, 18],
 		{
+			"id": 14628,
 			"level": 380,
 			"quantity": 25,
 			"resource": "gem",
@@ -4070,6 +4522,7 @@
 	[
 		[21, 22],
 		{
+			"id": 14629,
 			"level": 350,
 			"quantity": 25,
 			"resource": "ore",
@@ -4079,6 +4532,7 @@
 	[
 		[21, 27],
 		{
+			"id": 14630,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -4088,6 +4542,7 @@
 	[
 		[21, 36],
 		{
+			"id": 14631,
 			"level": 350,
 			"quantity": 25,
 			"resource": "log",
@@ -4097,6 +4552,17 @@
 	[
 		[21, 41],
 		{
+			"id": 14632,
+			"level": 370,
+			"quantity": 25,
+			"resource": "berry",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[21, 41],
+		{
+			"id": 14633,
 			"level": 350,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4104,8 +4570,9 @@
 		}
 	],
 	[
-		[21, 41],
+		[21, 43],
 		{
+			"id": 14634,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -4115,6 +4582,7 @@
 	[
 		[21, 43],
 		{
+			"id": 14635,
 			"level": 340,
 			"quantity": 25,
 			"resource": "log",
@@ -4122,17 +4590,9 @@
 		}
 	],
 	[
-		[21, 43],
-		{
-			"level": 370,
-			"quantity": 25,
-			"resource": "berry",
-			"respawn": "PT2M"
-		}
-	],
-	[
 		[21, 49],
 		{
+			"id": 14636,
 			"level": 315,
 			"quantity": 25,
 			"resource": "fish",
@@ -4142,6 +4602,7 @@
 	[
 		[21, 50],
 		{
+			"id": 14637,
 			"level": 340,
 			"quantity": 25,
 			"resource": "berry",
@@ -4151,6 +4612,7 @@
 	[
 		[21, 51],
 		{
+			"id": 14638,
 			"level": 340,
 			"quantity": 25,
 			"resource": "berry",
@@ -4160,6 +4622,7 @@
 	[
 		[21, 52],
 		{
+			"id": 14639,
 			"level": 330,
 			"quantity": 25,
 			"resource": "crop",
@@ -4169,6 +4632,7 @@
 	[
 		[21, 53],
 		{
+			"id": 14640,
 			"level": 325,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4178,6 +4642,7 @@
 	[
 		[21, 64],
 		{
+			"id": 14641,
 			"level": 315,
 			"quantity": 25,
 			"resource": "stone",
@@ -4187,6 +4652,7 @@
 	[
 		[22, 9],
 		{
+			"id": 14642,
 			"level": 385,
 			"quantity": 25,
 			"resource": "ore",
@@ -4196,6 +4662,7 @@
 	[
 		[22, 12],
 		{
+			"id": 14643,
 			"level": 385,
 			"quantity": 25,
 			"resource": "gem",
@@ -4205,6 +4672,7 @@
 	[
 		[22, 16],
 		{
+			"id": 14644,
 			"level": 365,
 			"quantity": 25,
 			"resource": "ore",
@@ -4214,6 +4682,7 @@
 	[
 		[22, 19],
 		{
+			"id": 14645,
 			"level": 360,
 			"quantity": 25,
 			"resource": "ore",
@@ -4223,6 +4692,7 @@
 	[
 		[22, 21],
 		{
+			"id": 14646,
 			"level": 380,
 			"quantity": 25,
 			"resource": "gem",
@@ -4232,6 +4702,7 @@
 	[
 		[22, 24],
 		{
+			"id": 14647,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -4241,6 +4712,7 @@
 	[
 		[22, 26],
 		{
+			"id": 14648,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -4250,6 +4722,7 @@
 	[
 		[22, 27],
 		{
+			"id": 14649,
 			"level": 355,
 			"quantity": 25,
 			"resource": "gem",
@@ -4259,6 +4732,7 @@
 	[
 		[22, 30],
 		{
+			"id": 14650,
 			"level": 340,
 			"quantity": 25,
 			"resource": "ore",
@@ -4268,6 +4742,7 @@
 	[
 		[22, 32],
 		{
+			"id": 14651,
 			"level": 360,
 			"quantity": 25,
 			"resource": "gem",
@@ -4277,6 +4752,7 @@
 	[
 		[22, 32],
 		{
+			"id": 14652,
 			"level": 340,
 			"quantity": 25,
 			"resource": "ore",
@@ -4286,6 +4762,7 @@
 	[
 		[22, 39],
 		{
+			"id": 14653,
 			"level": 360,
 			"quantity": 25,
 			"resource": "berry",
@@ -4295,6 +4772,7 @@
 	[
 		[22, 42],
 		{
+			"id": 14654,
 			"level": 340,
 			"quantity": 25,
 			"resource": "log",
@@ -4304,6 +4782,7 @@
 	[
 		[22, 44],
 		{
+			"id": 14655,
 			"level": 335,
 			"quantity": 25,
 			"resource": "crop",
@@ -4313,6 +4792,7 @@
 	[
 		[22, 50],
 		{
+			"id": 14656,
 			"level": 330,
 			"quantity": 25,
 			"resource": "crop",
@@ -4322,6 +4802,7 @@
 	[
 		[22, 51],
 		{
+			"id": 14657,
 			"level": 325,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4331,6 +4812,7 @@
 	[
 		[22, 51],
 		{
+			"id": 14658,
 			"level": 320,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -4340,6 +4822,7 @@
 	[
 		[22, 52],
 		{
+			"id": 14659,
 			"level": 340,
 			"quantity": 25,
 			"resource": "berry",
@@ -4349,6 +4832,7 @@
 	[
 		[22, 56],
 		{
+			"id": 14660,
 			"level": 320,
 			"quantity": 25,
 			"resource": "stone",
@@ -4358,6 +4842,7 @@
 	[
 		[23, 16],
 		{
+			"id": 14661,
 			"level": 380,
 			"quantity": 25,
 			"resource": "gem",
@@ -4367,6 +4852,7 @@
 	[
 		[23, 20],
 		{
+			"id": 14662,
 			"level": 350,
 			"quantity": 25,
 			"resource": "ore",
@@ -4376,6 +4862,7 @@
 	[
 		[23, 30],
 		{
+			"id": 14663,
 			"level": 355,
 			"quantity": 25,
 			"resource": "gem",
@@ -4385,6 +4872,7 @@
 	[
 		[23, 38],
 		{
+			"id": 14664,
 			"level": 350,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4394,15 +4882,7 @@
 	[
 		[23, 41],
 		{
-			"level": 370,
-			"quantity": 25,
-			"resource": "berry",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[23, 41],
-		{
+			"id": 14666,
 			"level": 340,
 			"quantity": 25,
 			"resource": "log",
@@ -4410,8 +4890,19 @@
 		}
 	],
 	[
+		[23, 41],
+		{
+			"id": 14665,
+			"level": 370,
+			"quantity": 25,
+			"resource": "berry",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[23, 48],
 		{
+			"id": 14667,
 			"level": 315,
 			"quantity": 25,
 			"resource": "fish",
@@ -4421,6 +4912,7 @@
 	[
 		[23, 49],
 		{
+			"id": 14668,
 			"level": 315,
 			"quantity": 25,
 			"resource": "fish",
@@ -4430,6 +4922,7 @@
 	[
 		[23, 51],
 		{
+			"id": 14669,
 			"level": 320,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -4439,6 +4932,7 @@
 	[
 		[23, 59],
 		{
+			"id": 14670,
 			"level": 340,
 			"quantity": 25,
 			"resource": "fish",
@@ -4448,6 +4942,7 @@
 	[
 		[23, 62],
 		{
+			"id": 14671,
 			"level": 340,
 			"quantity": 25,
 			"resource": "fish",
@@ -4457,6 +4952,7 @@
 	[
 		[23, 65],
 		{
+			"id": 14672,
 			"level": 320,
 			"quantity": 25,
 			"resource": "stone",
@@ -4466,6 +4962,7 @@
 	[
 		[24, 24],
 		{
+			"id": 14673,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -4475,6 +4972,7 @@
 	[
 		[24, 28],
 		{
+			"id": 14674,
 			"level": 340,
 			"quantity": 25,
 			"resource": "ore",
@@ -4484,6 +4982,7 @@
 	[
 		[24, 38],
 		{
+			"id": 14675,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -4493,6 +4992,7 @@
 	[
 		[24, 49],
 		{
+			"id": 14676,
 			"level": 320,
 			"quantity": 25,
 			"resource": "fish",
@@ -4502,6 +5002,7 @@
 	[
 		[24, 50],
 		{
+			"id": 14677,
 			"level": 325,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4511,6 +5012,7 @@
 	[
 		[24, 54],
 		{
+			"id": 14678,
 			"level": 325,
 			"quantity": 25,
 			"resource": "stone",
@@ -4520,6 +5022,7 @@
 	[
 		[24, 56],
 		{
+			"id": 14679,
 			"level": 325,
 			"quantity": 25,
 			"resource": "stone",
@@ -4529,6 +5032,7 @@
 	[
 		[24, 60],
 		{
+			"id": 14680,
 			"level": 340,
 			"quantity": 25,
 			"resource": "fish",
@@ -4538,6 +5042,7 @@
 	[
 		[25, 18],
 		{
+			"id": 14681,
 			"level": 350,
 			"quantity": 25,
 			"resource": "ore",
@@ -4547,6 +5052,7 @@
 	[
 		[25, 21],
 		{
+			"id": 14682,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -4556,6 +5062,7 @@
 	[
 		[25, 24],
 		{
+			"id": 14683,
 			"level": 355,
 			"quantity": 25,
 			"resource": "gem",
@@ -4565,6 +5072,7 @@
 	[
 		[25, 31],
 		{
+			"id": 14684,
 			"level": 335,
 			"quantity": 25,
 			"resource": "ore",
@@ -4574,6 +5082,7 @@
 	[
 		[25, 37],
 		{
+			"id": 14685,
 			"level": 350,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4583,6 +5092,7 @@
 	[
 		[25, 42],
 		{
+			"id": 14686,
 			"level": 350,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4592,6 +5102,7 @@
 	[
 		[25, 43],
 		{
+			"id": 14687,
 			"level": 340,
 			"quantity": 25,
 			"resource": "log",
@@ -4601,6 +5112,7 @@
 	[
 		[25, 49],
 		{
+			"id": 14688,
 			"level": 320,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -4610,6 +5122,7 @@
 	[
 		[25, 51],
 		{
+			"id": 14689,
 			"level": 330,
 			"quantity": 25,
 			"resource": "crop",
@@ -4619,6 +5132,7 @@
 	[
 		[25, 65],
 		{
+			"id": 14690,
 			"level": 320,
 			"quantity": 25,
 			"resource": "stone",
@@ -4628,6 +5142,7 @@
 	[
 		[26, 23],
 		{
+			"id": 14691,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -4637,6 +5152,7 @@
 	[
 		[26, 29],
 		{
+			"id": 14692,
 			"level": 350,
 			"quantity": 25,
 			"resource": "gem",
@@ -4646,6 +5162,7 @@
 	[
 		[26, 30],
 		{
+			"id": 14693,
 			"level": 350,
 			"quantity": 25,
 			"resource": "gem",
@@ -4655,6 +5172,7 @@
 	[
 		[26, 42],
 		{
+			"id": 14694,
 			"level": 340,
 			"quantity": 25,
 			"resource": "log",
@@ -4664,6 +5182,7 @@
 	[
 		[26, 47],
 		{
+			"id": 14695,
 			"level": 320,
 			"quantity": 25,
 			"resource": "fish",
@@ -4673,6 +5192,7 @@
 	[
 		[26, 50],
 		{
+			"id": 14697,
 			"level": 320,
 			"quantity": 25,
 			"resource": "log",
@@ -4682,6 +5202,7 @@
 	[
 		[26, 50],
 		{
+			"id": 14696,
 			"level": 345,
 			"quantity": 25,
 			"resource": "berry",
@@ -4691,6 +5212,7 @@
 	[
 		[26, 51],
 		{
+			"id": 14698,
 			"level": 325,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4700,6 +5222,7 @@
 	[
 		[26, 55],
 		{
+			"id": 14699,
 			"level": 325,
 			"quantity": 25,
 			"resource": "stone",
@@ -4709,6 +5232,7 @@
 	[
 		[26, 60],
 		{
+			"id": 14700,
 			"level": 340,
 			"quantity": 25,
 			"resource": "fish",
@@ -4718,6 +5242,7 @@
 	[
 		[26, 61],
 		{
+			"id": 14701,
 			"level": 340,
 			"quantity": 25,
 			"resource": "fish",
@@ -4727,6 +5252,7 @@
 	[
 		[26, 64],
 		{
+			"id": 14702,
 			"level": 320,
 			"quantity": 25,
 			"resource": "stone",
@@ -4736,6 +5262,7 @@
 	[
 		[27, 25],
 		{
+			"id": 14703,
 			"level": 340,
 			"quantity": 25,
 			"resource": "ore",
@@ -4745,6 +5272,7 @@
 	[
 		[27, 27],
 		{
+			"id": 14704,
 			"level": 340,
 			"quantity": 25,
 			"resource": "ore",
@@ -4754,6 +5282,7 @@
 	[
 		[27, 31],
 		{
+			"id": 14705,
 			"level": 335,
 			"quantity": 25,
 			"resource": "ore",
@@ -4763,6 +5292,7 @@
 	[
 		[27, 34],
 		{
+			"id": 14706,
 			"level": 335,
 			"quantity": 25,
 			"resource": "ore",
@@ -4772,6 +5302,7 @@
 	[
 		[27, 39],
 		{
+			"id": 14707,
 			"level": 350,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4781,6 +5312,7 @@
 	[
 		[27, 46],
 		{
+			"id": 14708,
 			"level": 320,
 			"quantity": 25,
 			"resource": "fish",
@@ -4790,6 +5322,7 @@
 	[
 		[27, 49],
 		{
+			"id": 14709,
 			"level": 330,
 			"quantity": 25,
 			"resource": "crop",
@@ -4799,6 +5332,7 @@
 	[
 		[27, 50],
 		{
+			"id": 14710,
 			"level": 345,
 			"quantity": 25,
 			"resource": "berry",
@@ -4808,6 +5342,7 @@
 	[
 		[27, 59],
 		{
+			"id": 14711,
 			"level": 340,
 			"quantity": 25,
 			"resource": "fish",
@@ -4817,6 +5352,7 @@
 	[
 		[27, 63],
 		{
+			"id": 14712,
 			"level": 320,
 			"quantity": 25,
 			"resource": "stone",
@@ -4826,6 +5362,7 @@
 	[
 		[28, 9],
 		{
+			"id": 14713,
 			"level": 385,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4835,6 +5372,7 @@
 	[
 		[28, 29],
 		{
+			"id": 14714,
 			"level": 335,
 			"quantity": 25,
 			"resource": "ore",
@@ -4844,6 +5382,7 @@
 	[
 		[28, 34],
 		{
+			"id": 14715,
 			"level": 335,
 			"quantity": 25,
 			"resource": "gem",
@@ -4853,6 +5392,7 @@
 	[
 		[28, 45],
 		{
+			"id": 14716,
 			"level": 320,
 			"quantity": 25,
 			"resource": "fish",
@@ -4862,6 +5402,7 @@
 	[
 		[28, 48],
 		{
+			"id": 14717,
 			"level": 320,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -4871,6 +5412,7 @@
 	[
 		[28, 49],
 		{
+			"id": 14719,
 			"level": 325,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4880,6 +5422,7 @@
 	[
 		[28, 49],
 		{
+			"id": 14718,
 			"level": 345,
 			"quantity": 25,
 			"resource": "berry",
@@ -4889,15 +5432,7 @@
 	[
 		[28, 50],
 		{
-			"level": 325,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[28, 50],
-		{
+			"id": 14720,
 			"level": 350,
 			"quantity": 25,
 			"resource": "berry",
@@ -4905,8 +5440,19 @@
 		}
 	],
 	[
+		[28, 50],
+		{
+			"id": 14721,
+			"level": 325,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[28, 54],
 		{
+			"id": 14722,
 			"level": 325,
 			"quantity": 25,
 			"resource": "stone",
@@ -4916,6 +5462,7 @@
 	[
 		[29, 3],
 		{
+			"id": 14723,
 			"level": 390,
 			"quantity": 25,
 			"resource": "cloth",
@@ -4925,6 +5472,7 @@
 	[
 		[29, 19],
 		{
+			"id": 14724,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -4934,6 +5482,7 @@
 	[
 		[29, 21],
 		{
+			"id": 14725,
 			"level": 345,
 			"quantity": 25,
 			"resource": "ore",
@@ -4943,6 +5492,7 @@
 	[
 		[29, 24],
 		{
+			"id": 14726,
 			"level": 340,
 			"quantity": 25,
 			"resource": "ore",
@@ -4952,6 +5502,7 @@
 	[
 		[29, 25],
 		{
+			"id": 14727,
 			"level": 350,
 			"quantity": 25,
 			"resource": "gem",
@@ -4961,6 +5512,7 @@
 	[
 		[29, 26],
 		{
+			"id": 14728,
 			"level": 335,
 			"quantity": 25,
 			"resource": "ore",
@@ -4970,6 +5522,7 @@
 	[
 		[29, 27],
 		{
+			"id": 14729,
 			"level": 350,
 			"quantity": 25,
 			"resource": "gem",
@@ -4979,6 +5532,7 @@
 	[
 		[29, 44],
 		{
+			"id": 14730,
 			"level": 325,
 			"quantity": 25,
 			"resource": "fish",
@@ -4988,6 +5542,7 @@
 	[
 		[29, 46],
 		{
+			"id": 14731,
 			"level": 320,
 			"quantity": 25,
 			"resource": "fish",
@@ -4997,6 +5552,7 @@
 	[
 		[29, 48],
 		{
+			"id": 14733,
 			"level": 330,
 			"quantity": 25,
 			"resource": "crop",
@@ -5006,6 +5562,7 @@
 	[
 		[29, 48],
 		{
+			"id": 14732,
 			"level": 325,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5015,6 +5572,7 @@
 	[
 		[29, 49],
 		{
+			"id": 14734,
 			"level": 350,
 			"quantity": 25,
 			"resource": "berry",
@@ -5024,6 +5582,7 @@
 	[
 		[29, 50],
 		{
+			"id": 14735,
 			"level": 345,
 			"quantity": 25,
 			"resource": "berry",
@@ -5033,6 +5592,7 @@
 	[
 		[29, 56],
 		{
+			"id": 14736,
 			"level": 325,
 			"quantity": 25,
 			"resource": "stone",
@@ -5042,6 +5602,7 @@
 	[
 		[29, 57],
 		{
+			"id": 14737,
 			"level": 325,
 			"quantity": 25,
 			"resource": "stone",
@@ -5051,6 +5612,7 @@
 	[
 		[29, 66],
 		{
+			"id": 14738,
 			"level": 345,
 			"quantity": 25,
 			"resource": "fish",
@@ -5060,6 +5622,7 @@
 	[
 		[30, 30],
 		{
+			"id": 14739,
 			"level": 330,
 			"quantity": 25,
 			"resource": "gem",
@@ -5069,6 +5632,7 @@
 	[
 		[30, 32],
 		{
+			"id": 14740,
 			"level": 335,
 			"quantity": 25,
 			"resource": "gem",
@@ -5078,6 +5642,7 @@
 	[
 		[30, 33],
 		{
+			"id": 14741,
 			"level": 330,
 			"quantity": 25,
 			"resource": "ore",
@@ -5087,6 +5652,7 @@
 	[
 		[30, 45],
 		{
+			"id": 14742,
 			"level": 325,
 			"quantity": 25,
 			"resource": "fish",
@@ -5096,6 +5662,7 @@
 	[
 		[30, 48],
 		{
+			"id": 14743,
 			"level": 345,
 			"quantity": 25,
 			"resource": "berry",
@@ -5105,6 +5672,7 @@
 	[
 		[30, 48],
 		{
+			"id": 14744,
 			"level": 325,
 			"quantity": 25,
 			"resource": "log",
@@ -5114,6 +5682,7 @@
 	[
 		[30, 49],
 		{
+			"id": 14745,
 			"level": 345,
 			"quantity": 25,
 			"resource": "berry",
@@ -5123,6 +5692,7 @@
 	[
 		[30, 49],
 		{
+			"id": 14746,
 			"level": 325,
 			"quantity": 25,
 			"resource": "log",
@@ -5132,6 +5702,7 @@
 	[
 		[30, 67],
 		{
+			"id": 14747,
 			"level": 345,
 			"quantity": 25,
 			"resource": "fish",
@@ -5141,6 +5712,7 @@
 	[
 		[31, 9],
 		{
+			"id": 14748,
 			"level": 390,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5150,6 +5722,7 @@
 	[
 		[31, 15],
 		{
+			"id": 14749,
 			"level": 385,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5159,6 +5732,7 @@
 	[
 		[31, 23],
 		{
+			"id": 14750,
 			"level": 350,
 			"quantity": 25,
 			"resource": "gem",
@@ -5168,6 +5742,7 @@
 	[
 		[31, 26],
 		{
+			"id": 14751,
 			"level": 335,
 			"quantity": 25,
 			"resource": "ore",
@@ -5177,6 +5752,7 @@
 	[
 		[31, 31],
 		{
+			"id": 14752,
 			"level": 330,
 			"quantity": 25,
 			"resource": "ore",
@@ -5186,6 +5762,7 @@
 	[
 		[31, 33],
 		{
+			"id": 14753,
 			"level": 330,
 			"quantity": 25,
 			"resource": "gem",
@@ -5195,15 +5772,7 @@
 	[
 		[31, 35],
 		{
-			"level": 330,
-			"quantity": 25,
-			"resource": "ore",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[31, 35],
-		{
+			"id": 14754,
 			"level": 335,
 			"quantity": 25,
 			"resource": "gem",
@@ -5211,8 +5780,19 @@
 		}
 	],
 	[
+		[31, 35],
+		{
+			"id": 14755,
+			"level": 330,
+			"quantity": 25,
+			"resource": "ore",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[31, 43],
 		{
+			"id": 14756,
 			"level": 325,
 			"quantity": 25,
 			"resource": "fish",
@@ -5222,6 +5802,7 @@
 	[
 		[31, 47],
 		{
+			"id": 14757,
 			"level": 325,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5231,15 +5812,7 @@
 	[
 		[31, 47],
 		{
-			"level": 325,
-			"quantity": 25,
-			"resource": "vegetable",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[31, 47],
-		{
+			"id": 14758,
 			"level": 330,
 			"quantity": 25,
 			"resource": "crop",
@@ -5247,8 +5820,19 @@
 		}
 	],
 	[
+		[31, 47],
+		{
+			"id": 14759,
+			"level": 325,
+			"quantity": 25,
+			"resource": "vegetable",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[31, 48],
 		{
+			"id": 14760,
 			"level": 350,
 			"quantity": 25,
 			"resource": "berry",
@@ -5258,6 +5842,7 @@
 	[
 		[31, 50],
 		{
+			"id": 14761,
 			"level": 325,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5267,6 +5852,7 @@
 	[
 		[31, 52],
 		{
+			"id": 14762,
 			"level": 330,
 			"quantity": 25,
 			"resource": "stone",
@@ -5276,6 +5862,7 @@
 	[
 		[31, 62],
 		{
+			"id": 14763,
 			"level": 330,
 			"quantity": 25,
 			"resource": "stone",
@@ -5285,6 +5872,7 @@
 	[
 		[31, 67],
 		{
+			"id": 14764,
 			"level": 345,
 			"quantity": 25,
 			"resource": "fish",
@@ -5294,6 +5882,7 @@
 	[
 		[31, 68],
 		{
+			"id": 14765,
 			"level": 345,
 			"quantity": 25,
 			"resource": "fish",
@@ -5303,6 +5892,7 @@
 	[
 		[32, 7],
 		{
+			"id": 14766,
 			"level": 385,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5312,6 +5902,7 @@
 	[
 		[32, 12],
 		{
+			"id": 14767,
 			"level": 385,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5321,6 +5912,7 @@
 	[
 		[32, 28],
 		{
+			"id": 14768,
 			"level": 345,
 			"quantity": 25,
 			"resource": "gem",
@@ -5330,6 +5922,7 @@
 	[
 		[32, 36],
 		{
+			"id": 14769,
 			"level": 325,
 			"quantity": 25,
 			"resource": "gem",
@@ -5339,6 +5932,7 @@
 	[
 		[32, 42],
 		{
+			"id": 14770,
 			"level": 325,
 			"quantity": 25,
 			"resource": "fish",
@@ -5348,6 +5942,7 @@
 	[
 		[32, 47],
 		{
+			"id": 14771,
 			"level": 350,
 			"quantity": 25,
 			"resource": "berry",
@@ -5357,6 +5952,7 @@
 	[
 		[32, 48],
 		{
+			"id": 14772,
 			"level": 325,
 			"quantity": 25,
 			"resource": "log",
@@ -5366,6 +5962,7 @@
 	[
 		[32, 58],
 		{
+			"id": 14773,
 			"level": 330,
 			"quantity": 25,
 			"resource": "stone",
@@ -5375,6 +5972,7 @@
 	[
 		[32, 70],
 		{
+			"id": 14774,
 			"level": 345,
 			"quantity": 25,
 			"resource": "fish",
@@ -5384,6 +5982,7 @@
 	[
 		[33, 5],
 		{
+			"id": 14775,
 			"level": 385,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5393,6 +5992,7 @@
 	[
 		[33, 6],
 		{
+			"id": 14776,
 			"level": 390,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5402,6 +6002,7 @@
 	[
 		[33, 11],
 		{
+			"id": 14777,
 			"level": 395,
 			"quantity": 25,
 			"resource": "log",
@@ -5411,6 +6012,7 @@
 	[
 		[33, 15],
 		{
+			"id": 14778,
 			"level": 380,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5420,6 +6022,7 @@
 	[
 		[33, 18],
 		{
+			"id": 14779,
 			"level": 380,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5429,6 +6032,7 @@
 	[
 		[33, 23],
 		{
+			"id": 14780,
 			"level": 340,
 			"quantity": 25,
 			"resource": "ore",
@@ -5438,6 +6042,7 @@
 	[
 		[33, 31],
 		{
+			"id": 14781,
 			"level": 335,
 			"quantity": 25,
 			"resource": "gem",
@@ -5447,6 +6052,7 @@
 	[
 		[33, 34],
 		{
+			"id": 14783,
 			"level": 325,
 			"quantity": 25,
 			"resource": "ore",
@@ -5456,6 +6062,7 @@
 	[
 		[33, 34],
 		{
+			"id": 14782,
 			"level": 335,
 			"quantity": 25,
 			"resource": "gem",
@@ -5465,6 +6072,7 @@
 	[
 		[33, 43],
 		{
+			"id": 14784,
 			"level": 325,
 			"quantity": 25,
 			"resource": "fish",
@@ -5474,6 +6082,7 @@
 	[
 		[33, 44],
 		{
+			"id": 14785,
 			"level": 325,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -5483,15 +6092,7 @@
 	[
 		[33, 47],
 		{
-			"level": 325,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[33, 47],
-		{
+			"id": 14786,
 			"level": 350,
 			"quantity": 25,
 			"resource": "berry",
@@ -5499,8 +6100,19 @@
 		}
 	],
 	[
+		[33, 47],
+		{
+			"id": 14787,
+			"level": 325,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[33, 48],
 		{
+			"id": 14788,
 			"level": 350,
 			"quantity": 25,
 			"resource": "berry",
@@ -5510,6 +6122,7 @@
 	[
 		[33, 69],
 		{
+			"id": 14789,
 			"level": 345,
 			"quantity": 25,
 			"resource": "fish",
@@ -5519,15 +6132,7 @@
 	[
 		[34, 9],
 		{
-			"level": 395,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[34, 9],
-		{
+			"id": 14790,
 			"level": 385,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5535,8 +6140,19 @@
 		}
 	],
 	[
+		[34, 9],
+		{
+			"id": 14791,
+			"level": 395,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[34, 11],
 		{
+			"id": 14792,
 			"level": 395,
 			"quantity": 25,
 			"resource": "log",
@@ -5546,6 +6162,7 @@
 	[
 		[34, 25],
 		{
+			"id": 14793,
 			"level": 345,
 			"quantity": 25,
 			"resource": "gem",
@@ -5555,6 +6172,7 @@
 	[
 		[34, 25],
 		{
+			"id": 14794,
 			"level": 335,
 			"quantity": 25,
 			"resource": "ore",
@@ -5564,6 +6182,7 @@
 	[
 		[34, 28],
 		{
+			"id": 14795,
 			"level": 330,
 			"quantity": 25,
 			"resource": "ore",
@@ -5573,6 +6192,7 @@
 	[
 		[34, 31],
 		{
+			"id": 14796,
 			"level": 330,
 			"quantity": 25,
 			"resource": "ore",
@@ -5582,6 +6202,7 @@
 	[
 		[34, 41],
 		{
+			"id": 14797,
 			"level": 330,
 			"quantity": 25,
 			"resource": "fish",
@@ -5591,6 +6212,7 @@
 	[
 		[34, 42],
 		{
+			"id": 14798,
 			"level": 330,
 			"quantity": 25,
 			"resource": "fish",
@@ -5600,6 +6222,7 @@
 	[
 		[34, 46],
 		{
+			"id": 14799,
 			"level": 325,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -5609,6 +6232,7 @@
 	[
 		[34, 54],
 		{
+			"id": 14800,
 			"level": 335,
 			"quantity": 25,
 			"resource": "stone",
@@ -5618,6 +6242,7 @@
 	[
 		[34, 56],
 		{
+			"id": 14801,
 			"level": 330,
 			"quantity": 25,
 			"resource": "stone",
@@ -5627,6 +6252,7 @@
 	[
 		[34, 61],
 		{
+			"id": 14802,
 			"level": 330,
 			"quantity": 25,
 			"resource": "stone",
@@ -5636,6 +6262,7 @@
 	[
 		[34, 69],
 		{
+			"id": 14803,
 			"level": 355,
 			"quantity": 25,
 			"resource": "fish",
@@ -5645,6 +6272,7 @@
 	[
 		[34, 70],
 		{
+			"id": 14804,
 			"level": 355,
 			"quantity": 25,
 			"resource": "fish",
@@ -5654,6 +6282,7 @@
 	[
 		[34, 71],
 		{
+			"id": 14805,
 			"level": 355,
 			"quantity": 25,
 			"resource": "fish",
@@ -5663,6 +6292,7 @@
 	[
 		[35, 10],
 		{
+			"id": 14806,
 			"level": 385,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5672,6 +6302,7 @@
 	[
 		[35, 13],
 		{
+			"id": 14807,
 			"level": 385,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5681,6 +6312,7 @@
 	[
 		[35, 17],
 		{
+			"id": 14808,
 			"level": 385,
 			"quantity": 25,
 			"resource": "log",
@@ -5690,6 +6322,7 @@
 	[
 		[35, 27],
 		{
+			"id": 14809,
 			"level": 330,
 			"quantity": 25,
 			"resource": "ore",
@@ -5699,6 +6332,7 @@
 	[
 		[35, 28],
 		{
+			"id": 14810,
 			"level": 345,
 			"quantity": 25,
 			"resource": "gem",
@@ -5708,6 +6342,7 @@
 	[
 		[35, 30],
 		{
+			"id": 14811,
 			"level": 330,
 			"quantity": 25,
 			"resource": "gem",
@@ -5717,6 +6352,7 @@
 	[
 		[35, 34],
 		{
+			"id": 14812,
 			"level": 325,
 			"quantity": 25,
 			"resource": "ore",
@@ -5726,6 +6362,7 @@
 	[
 		[35, 41],
 		{
+			"id": 14813,
 			"level": 330,
 			"quantity": 25,
 			"resource": "fish",
@@ -5735,6 +6372,7 @@
 	[
 		[35, 46],
 		{
+			"id": 14814,
 			"level": 330,
 			"quantity": 25,
 			"resource": "log",
@@ -5744,6 +6382,7 @@
 	[
 		[35, 47],
 		{
+			"id": 14815,
 			"level": 325,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -5753,6 +6392,7 @@
 	[
 		[35, 51],
 		{
+			"id": 14816,
 			"level": 335,
 			"quantity": 25,
 			"resource": "stone",
@@ -5762,6 +6402,7 @@
 	[
 		[35, 70],
 		{
+			"id": 14817,
 			"level": 355,
 			"quantity": 25,
 			"resource": "fish",
@@ -5771,6 +6412,7 @@
 	[
 		[36, 2],
 		{
+			"id": 14818,
 			"level": 390,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5780,6 +6422,7 @@
 	[
 		[36, 8],
 		{
+			"id": 14819,
 			"level": 395,
 			"quantity": 25,
 			"resource": "log",
@@ -5789,6 +6432,7 @@
 	[
 		[36, 15],
 		{
+			"id": 14820,
 			"level": 385,
 			"quantity": 25,
 			"resource": "log",
@@ -5798,6 +6442,7 @@
 	[
 		[36, 19],
 		{
+			"id": 14821,
 			"level": 385,
 			"quantity": 25,
 			"resource": "log",
@@ -5807,6 +6452,7 @@
 	[
 		[36, 33],
 		{
+			"id": 14822,
 			"level": 325,
 			"quantity": 25,
 			"resource": "gem",
@@ -5816,6 +6462,7 @@
 	[
 		[36, 35],
 		{
+			"id": 14823,
 			"level": 325,
 			"quantity": 25,
 			"resource": "gem",
@@ -5825,15 +6472,7 @@
 	[
 		[36, 44],
 		{
-			"level": 330,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[36, 44],
-		{
+			"id": 14824,
 			"level": 355,
 			"quantity": 25,
 			"resource": "berry",
@@ -5841,8 +6480,19 @@
 		}
 	],
 	[
+		[36, 44],
+		{
+			"id": 14825,
+			"level": 330,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[36, 45],
 		{
+			"id": 14826,
 			"level": 330,
 			"quantity": 25,
 			"resource": "log",
@@ -5852,6 +6502,7 @@
 	[
 		[36, 49],
 		{
+			"id": 14827,
 			"level": 325,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -5861,6 +6512,7 @@
 	[
 		[36, 72],
 		{
+			"id": 14828,
 			"level": 355,
 			"quantity": 25,
 			"resource": "fish",
@@ -5870,6 +6522,7 @@
 	[
 		[37, 8],
 		{
+			"id": 14829,
 			"level": 385,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5879,6 +6532,7 @@
 	[
 		[37, 18],
 		{
+			"id": 14830,
 			"level": 380,
 			"quantity": 25,
 			"resource": "cloth",
@@ -5888,6 +6542,7 @@
 	[
 		[37, 24],
 		{
+			"id": 14831,
 			"level": 345,
 			"quantity": 25,
 			"resource": "gem",
@@ -5897,6 +6552,7 @@
 	[
 		[37, 26],
 		{
+			"id": 14832,
 			"level": 345,
 			"quantity": 25,
 			"resource": "gem",
@@ -5906,6 +6562,7 @@
 	[
 		[37, 27],
 		{
+			"id": 14833,
 			"level": 330,
 			"quantity": 25,
 			"resource": "ore",
@@ -5915,6 +6572,7 @@
 	[
 		[37, 29],
 		{
+			"id": 14834,
 			"level": 330,
 			"quantity": 25,
 			"resource": "gem",
@@ -5924,6 +6582,7 @@
 	[
 		[37, 30],
 		{
+			"id": 14835,
 			"level": 325,
 			"quantity": 25,
 			"resource": "ore",
@@ -5933,6 +6592,7 @@
 	[
 		[37, 32],
 		{
+			"id": 14836,
 			"level": 325,
 			"quantity": 25,
 			"resource": "ore",
@@ -5942,6 +6602,7 @@
 	[
 		[37, 34],
 		{
+			"id": 14837,
 			"level": 320,
 			"quantity": 25,
 			"resource": "ore",
@@ -5951,6 +6612,7 @@
 	[
 		[37, 40],
 		{
+			"id": 14838,
 			"level": 330,
 			"quantity": 25,
 			"resource": "fish",
@@ -5960,6 +6622,7 @@
 	[
 		[37, 44],
 		{
+			"id": 14839,
 			"level": 355,
 			"quantity": 25,
 			"resource": "berry",
@@ -5969,6 +6632,7 @@
 	[
 		[37, 54],
 		{
+			"id": 14840,
 			"level": 330,
 			"quantity": 25,
 			"resource": "stone",
@@ -5978,6 +6642,7 @@
 	[
 		[37, 58],
 		{
+			"id": 14841,
 			"level": 330,
 			"quantity": 25,
 			"resource": "stone",
@@ -5987,6 +6652,7 @@
 	[
 		[37, 73],
 		{
+			"id": 14842,
 			"level": 355,
 			"quantity": 25,
 			"resource": "fish",
@@ -5996,6 +6662,7 @@
 	[
 		[38, 4],
 		{
+			"id": 14843,
 			"level": 390,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6005,6 +6672,7 @@
 	[
 		[38, 13],
 		{
+			"id": 14844,
 			"level": 380,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6014,6 +6682,7 @@
 	[
 		[38, 16],
 		{
+			"id": 14845,
 			"level": 380,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6023,6 +6692,7 @@
 	[
 		[38, 16],
 		{
+			"id": 14846,
 			"level": 385,
 			"quantity": 25,
 			"resource": "log",
@@ -6032,6 +6702,7 @@
 	[
 		[38, 31],
 		{
+			"id": 14847,
 			"level": 325,
 			"quantity": 25,
 			"resource": "gem",
@@ -6041,6 +6712,7 @@
 	[
 		[38, 35],
 		{
+			"id": 14848,
 			"level": 320,
 			"quantity": 25,
 			"resource": "gem",
@@ -6050,6 +6722,7 @@
 	[
 		[38, 36],
 		{
+			"id": 14849,
 			"level": 320,
 			"quantity": 25,
 			"resource": "ore",
@@ -6059,6 +6732,7 @@
 	[
 		[38, 39],
 		{
+			"id": 14850,
 			"level": 330,
 			"quantity": 25,
 			"resource": "fish",
@@ -6068,6 +6742,7 @@
 	[
 		[38, 44],
 		{
+			"id": 14851,
 			"level": 330,
 			"quantity": 25,
 			"resource": "log",
@@ -6077,6 +6752,7 @@
 	[
 		[38, 45],
 		{
+			"id": 14852,
 			"level": 355,
 			"quantity": 25,
 			"resource": "berry",
@@ -6086,15 +6762,7 @@
 	[
 		[38, 46],
 		{
-			"level": 355,
-			"quantity": 25,
-			"resource": "berry",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[38, 46],
-		{
+			"id": 14854,
 			"level": 330,
 			"quantity": 25,
 			"resource": "log",
@@ -6102,8 +6770,19 @@
 		}
 	],
 	[
+		[38, 46],
+		{
+			"id": 14853,
+			"level": 355,
+			"quantity": 25,
+			"resource": "berry",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[38, 73],
 		{
+			"id": 14855,
 			"level": 360,
 			"quantity": 25,
 			"resource": "fish",
@@ -6113,6 +6792,7 @@
 	[
 		[38, 74],
 		{
+			"id": 14856,
 			"level": 355,
 			"quantity": 25,
 			"resource": "fish",
@@ -6122,6 +6802,7 @@
 	[
 		[38, 75],
 		{
+			"id": 14857,
 			"level": 360,
 			"quantity": 25,
 			"resource": "fish",
@@ -6131,6 +6812,7 @@
 	[
 		[38, 93],
 		{
+			"id": 14858,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -6140,6 +6822,7 @@
 	[
 		[39, 7],
 		{
+			"id": 14859,
 			"level": 390,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6149,6 +6832,7 @@
 	[
 		[39, 10],
 		{
+			"id": 14860,
 			"level": 395,
 			"quantity": 25,
 			"resource": "berry",
@@ -6158,6 +6842,7 @@
 	[
 		[39, 11],
 		{
+			"id": 14861,
 			"level": 390,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6167,6 +6852,7 @@
 	[
 		[39, 11],
 		{
+			"id": 14862,
 			"level": 395,
 			"quantity": 25,
 			"resource": "log",
@@ -6176,6 +6862,7 @@
 	[
 		[39, 21],
 		{
+			"id": 14863,
 			"level": 385,
 			"quantity": 25,
 			"resource": "log",
@@ -6185,6 +6872,7 @@
 	[
 		[39, 31],
 		{
+			"id": 14864,
 			"level": 325,
 			"quantity": 25,
 			"resource": "ore",
@@ -6194,6 +6882,7 @@
 	[
 		[39, 56],
 		{
+			"id": 14865,
 			"level": 335,
 			"quantity": 25,
 			"resource": "stone",
@@ -6203,6 +6892,7 @@
 	[
 		[39, 73],
 		{
+			"id": 14866,
 			"level": 360,
 			"quantity": 25,
 			"resource": "fish",
@@ -6212,6 +6902,7 @@
 	[
 		[39, 74],
 		{
+			"id": 14867,
 			"level": 360,
 			"quantity": 25,
 			"resource": "fish",
@@ -6221,6 +6912,7 @@
 	[
 		[40, 2],
 		{
+			"id": 14868,
 			"level": 390,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6230,6 +6922,7 @@
 	[
 		[40, 5],
 		{
+			"id": 14869,
 			"level": 390,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6239,6 +6932,7 @@
 	[
 		[40, 13],
 		{
+			"id": 14870,
 			"level": 390,
 			"quantity": 25,
 			"resource": "log",
@@ -6248,6 +6942,7 @@
 	[
 		[40, 14],
 		{
+			"id": 14871,
 			"level": 395,
 			"quantity": 25,
 			"resource": "berry",
@@ -6257,6 +6952,7 @@
 	[
 		[40, 22],
 		{
+			"id": 14872,
 			"level": 380,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6266,6 +6962,7 @@
 	[
 		[40, 27],
 		{
+			"id": 14873,
 			"level": 330,
 			"quantity": 25,
 			"resource": "gem",
@@ -6275,6 +6972,7 @@
 	[
 		[40, 33],
 		{
+			"id": 14874,
 			"level": 320,
 			"quantity": 25,
 			"resource": "gem",
@@ -6284,6 +6982,7 @@
 	[
 		[40, 35],
 		{
+			"id": 14875,
 			"level": 320,
 			"quantity": 25,
 			"resource": "ore",
@@ -6293,6 +6992,7 @@
 	[
 		[40, 36],
 		{
+			"id": 14876,
 			"level": 320,
 			"quantity": 25,
 			"resource": "gem",
@@ -6302,6 +7002,7 @@
 	[
 		[40, 39],
 		{
+			"id": 14877,
 			"level": 300,
 			"quantity": 25,
 			"resource": "gem",
@@ -6311,6 +7012,7 @@
 	[
 		[40, 52],
 		{
+			"id": 14878,
 			"level": 335,
 			"quantity": 25,
 			"resource": "stone",
@@ -6320,6 +7022,7 @@
 	[
 		[40, 75],
 		{
+			"id": 14879,
 			"level": 360,
 			"quantity": 25,
 			"resource": "fish",
@@ -6329,6 +7032,7 @@
 	[
 		[40, 91],
 		{
+			"id": 14880,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -6338,6 +7042,7 @@
 	[
 		[41, 10],
 		{
+			"id": 14881,
 			"level": 385,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6347,6 +7052,7 @@
 	[
 		[41, 13],
 		{
+			"id": 14882,
 			"level": 395,
 			"quantity": 25,
 			"resource": "berry",
@@ -6356,6 +7062,7 @@
 	[
 		[41, 15],
 		{
+			"id": 14883,
 			"level": 380,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6365,6 +7072,7 @@
 	[
 		[41, 29],
 		{
+			"id": 14884,
 			"level": 325,
 			"quantity": 25,
 			"resource": "gem",
@@ -6374,6 +7082,7 @@
 	[
 		[41, 32],
 		{
+			"id": 14885,
 			"level": 320,
 			"quantity": 25,
 			"resource": "gem",
@@ -6383,6 +7092,7 @@
 	[
 		[41, 33],
 		{
+			"id": 14886,
 			"level": 320,
 			"quantity": 25,
 			"resource": "ore",
@@ -6392,6 +7102,7 @@
 	[
 		[41, 34],
 		{
+			"id": 14887,
 			"level": 320,
 			"quantity": 25,
 			"resource": "gem",
@@ -6401,6 +7112,7 @@
 	[
 		[41, 37],
 		{
+			"id": 14888,
 			"level": 305,
 			"quantity": 25,
 			"resource": "ore",
@@ -6410,6 +7122,7 @@
 	[
 		[41, 39],
 		{
+			"id": 14889,
 			"level": 305,
 			"quantity": 25,
 			"resource": "ore",
@@ -6419,6 +7132,7 @@
 	[
 		[41, 74],
 		{
+			"id": 14890,
 			"level": 360,
 			"quantity": 25,
 			"resource": "fish",
@@ -6428,6 +7142,7 @@
 	[
 		[41, 75],
 		{
+			"id": 14891,
 			"level": 365,
 			"quantity": 25,
 			"resource": "fish",
@@ -6437,6 +7152,7 @@
 	[
 		[41, 89],
 		{
+			"id": 14892,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -6446,6 +7162,7 @@
 	[
 		[42, 14],
 		{
+			"id": 14893,
 			"level": 390,
 			"quantity": 25,
 			"resource": "log",
@@ -6455,6 +7172,7 @@
 	[
 		[42, 17],
 		{
+			"id": 14894,
 			"level": 380,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6464,6 +7182,7 @@
 	[
 		[42, 25],
 		{
+			"id": 14895,
 			"level": 355,
 			"quantity": 25,
 			"resource": "fish",
@@ -6473,6 +7192,7 @@
 	[
 		[42, 29],
 		{
+			"id": 14896,
 			"level": 325,
 			"quantity": 25,
 			"resource": "ore",
@@ -6482,6 +7202,7 @@
 	[
 		[42, 38],
 		{
+			"id": 14897,
 			"level": 300,
 			"quantity": 25,
 			"resource": "gem",
@@ -6491,6 +7212,7 @@
 	[
 		[42, 40],
 		{
+			"id": 14898,
 			"level": 300,
 			"quantity": 25,
 			"resource": "gem",
@@ -6500,6 +7222,7 @@
 	[
 		[42, 49],
 		{
+			"id": 14899,
 			"level": 335,
 			"quantity": 25,
 			"resource": "stone",
@@ -6509,6 +7232,7 @@
 	[
 		[42, 76],
 		{
+			"id": 14900,
 			"level": 365,
 			"quantity": 25,
 			"resource": "fish",
@@ -6518,6 +7242,7 @@
 	[
 		[43, 3],
 		{
+			"id": 14901,
 			"level": 395,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6527,6 +7252,7 @@
 	[
 		[43, 7],
 		{
+			"id": 14902,
 			"level": 390,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6536,6 +7262,7 @@
 	[
 		[43, 17],
 		{
+			"id": 14903,
 			"level": 390,
 			"quantity": 25,
 			"resource": "log",
@@ -6545,6 +7272,7 @@
 	[
 		[43, 32],
 		{
+			"id": 14904,
 			"level": 320,
 			"quantity": 25,
 			"resource": "gem",
@@ -6554,6 +7282,7 @@
 	[
 		[43, 35],
 		{
+			"id": 14905,
 			"level": 315,
 			"quantity": 25,
 			"resource": "gem",
@@ -6563,6 +7292,7 @@
 	[
 		[43, 35],
 		{
+			"id": 14906,
 			"level": 315,
 			"quantity": 25,
 			"resource": "ore",
@@ -6572,6 +7302,7 @@
 	[
 		[43, 37],
 		{
+			"id": 14907,
 			"level": 315,
 			"quantity": 25,
 			"resource": "ore",
@@ -6581,15 +7312,7 @@
 	[
 		[43, 39],
 		{
-			"level": 295,
-			"quantity": 25,
-			"resource": "ore",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[43, 39],
-		{
+			"id": 14908,
 			"level": 300,
 			"quantity": 25,
 			"resource": "gem",
@@ -6597,8 +7320,19 @@
 		}
 	],
 	[
+		[43, 39],
+		{
+			"id": 14909,
+			"level": 295,
+			"quantity": 25,
+			"resource": "ore",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[43, 41],
 		{
+			"id": 14910,
 			"level": 305,
 			"quantity": 25,
 			"resource": "ore",
@@ -6608,6 +7342,7 @@
 	[
 		[43, 53],
 		{
+			"id": 14911,
 			"level": 335,
 			"quantity": 25,
 			"resource": "stone",
@@ -6617,6 +7352,7 @@
 	[
 		[43, 77],
 		{
+			"id": 14912,
 			"level": 365,
 			"quantity": 25,
 			"resource": "fish",
@@ -6626,6 +7362,7 @@
 	[
 		[43, 78],
 		{
+			"id": 14913,
 			"level": 365,
 			"quantity": 25,
 			"resource": "fish",
@@ -6635,6 +7372,7 @@
 	[
 		[43, 88],
 		{
+			"id": 14914,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -6644,6 +7382,7 @@
 	[
 		[44, 12],
 		{
+			"id": 14915,
 			"level": 390,
 			"quantity": 25,
 			"resource": "log",
@@ -6653,6 +7392,7 @@
 	[
 		[44, 13],
 		{
+			"id": 14916,
 			"level": 380,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6662,6 +7402,7 @@
 	[
 		[44, 21],
 		{
+			"id": 14917,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6671,6 +7412,7 @@
 	[
 		[44, 23],
 		{
+			"id": 14918,
 			"level": 355,
 			"quantity": 25,
 			"resource": "fish",
@@ -6680,6 +7422,7 @@
 	[
 		[44, 27],
 		{
+			"id": 14919,
 			"level": 365,
 			"quantity": 25,
 			"resource": "crop",
@@ -6689,6 +7432,7 @@
 	[
 		[44, 33],
 		{
+			"id": 14920,
 			"level": 315,
 			"quantity": 25,
 			"resource": "gem",
@@ -6698,6 +7442,7 @@
 	[
 		[44, 36],
 		{
+			"id": 14921,
 			"level": 315,
 			"quantity": 25,
 			"resource": "gem",
@@ -6707,6 +7452,7 @@
 	[
 		[44, 40],
 		{
+			"id": 14922,
 			"level": 295,
 			"quantity": 25,
 			"resource": "ore",
@@ -6716,6 +7462,7 @@
 	[
 		[44, 87],
 		{
+			"id": 14923,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -6725,6 +7472,7 @@
 	[
 		[45, 11],
 		{
+			"id": 14924,
 			"level": 395,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6734,6 +7482,7 @@
 	[
 		[45, 17],
 		{
+			"id": 14925,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6743,6 +7492,7 @@
 	[
 		[45, 28],
 		{
+			"id": 14926,
 			"level": 360,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -6752,6 +7502,7 @@
 	[
 		[45, 31],
 		{
+			"id": 14927,
 			"level": 320,
 			"quantity": 25,
 			"resource": "gem",
@@ -6761,6 +7512,7 @@
 	[
 		[45, 31],
 		{
+			"id": 14928,
 			"level": 320,
 			"quantity": 25,
 			"resource": "ore",
@@ -6770,6 +7522,7 @@
 	[
 		[45, 37],
 		{
+			"id": 14929,
 			"level": 295,
 			"quantity": 25,
 			"resource": "ore",
@@ -6779,6 +7532,7 @@
 	[
 		[45, 38],
 		{
+			"id": 14930,
 			"level": 300,
 			"quantity": 25,
 			"resource": "gem",
@@ -6788,6 +7542,7 @@
 	[
 		[45, 41],
 		{
+			"id": 14931,
 			"level": 300,
 			"quantity": 25,
 			"resource": "gem",
@@ -6797,6 +7552,7 @@
 	[
 		[45, 77],
 		{
+			"id": 14932,
 			"level": 365,
 			"quantity": 25,
 			"resource": "fish",
@@ -6806,6 +7562,7 @@
 	[
 		[45, 85],
 		{
+			"id": 14933,
 			"level": 370,
 			"quantity": 25,
 			"resource": "fish",
@@ -6815,6 +7572,7 @@
 	[
 		[46, 7],
 		{
+			"id": 14934,
 			"level": 395,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6824,6 +7582,7 @@
 	[
 		[46, 10],
 		{
+			"id": 14935,
 			"level": 395,
 			"quantity": 25,
 			"resource": "berry",
@@ -6833,6 +7592,7 @@
 	[
 		[46, 19],
 		{
+			"id": 14936,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6842,6 +7602,7 @@
 	[
 		[46, 20],
 		{
+			"id": 14937,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6851,6 +7612,7 @@
 	[
 		[46, 26],
 		{
+			"id": 14938,
 			"level": 365,
 			"quantity": 25,
 			"resource": "crop",
@@ -6860,6 +7622,7 @@
 	[
 		[46, 28],
 		{
+			"id": 14939,
 			"level": 360,
 			"quantity": 25,
 			"resource": "cloth",
@@ -6869,6 +7632,7 @@
 	[
 		[46, 28],
 		{
+			"id": 14940,
 			"level": 365,
 			"quantity": 25,
 			"resource": "crop",
@@ -6878,6 +7642,7 @@
 	[
 		[46, 35],
 		{
+			"id": 14941,
 			"level": 315,
 			"quantity": 25,
 			"resource": "gem",
@@ -6887,6 +7652,7 @@
 	[
 		[46, 38],
 		{
+			"id": 14942,
 			"level": 310,
 			"quantity": 25,
 			"resource": "gem",
@@ -6896,6 +7662,7 @@
 	[
 		[46, 51],
 		{
+			"id": 14943,
 			"level": 345,
 			"quantity": 25,
 			"resource": "stone",
@@ -6905,6 +7672,7 @@
 	[
 		[46, 84],
 		{
+			"id": 14944,
 			"level": 370,
 			"quantity": 25,
 			"resource": "fish",
@@ -6914,6 +7682,7 @@
 	[
 		[47, 7],
 		{
+			"id": 14945,
 			"level": 395,
 			"quantity": 25,
 			"resource": "berry",
@@ -6923,6 +7692,7 @@
 	[
 		[47, 27],
 		{
+			"id": 14946,
 			"level": 365,
 			"quantity": 25,
 			"resource": "crop",
@@ -6932,6 +7702,7 @@
 	[
 		[47, 36],
 		{
+			"id": 14947,
 			"level": 315,
 			"quantity": 25,
 			"resource": "ore",
@@ -6941,24 +7712,17 @@
 	[
 		[47, 39],
 		{
-			"level": 295,
+			"id": 14948,
+			"level": 305,
 			"quantity": 25,
-			"resource": "ore",
+			"resource": "gem",
 			"respawn": "PT2M"
 		}
 	],
 	[
 		[47, 39],
 		{
-			"level": 305,
-			"quantity": 25,
-			"resource": "gem",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[47, 42],
-		{
+			"id": 14949,
 			"level": 295,
 			"quantity": 25,
 			"resource": "ore",
@@ -6968,6 +7732,7 @@
 	[
 		[47, 42],
 		{
+			"id": 14950,
 			"level": 305,
 			"quantity": 25,
 			"resource": "gem",
@@ -6975,8 +7740,19 @@
 		}
 	],
 	[
+		[47, 42],
+		{
+			"id": 14951,
+			"level": 295,
+			"quantity": 25,
+			"resource": "ore",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[47, 78],
 		{
+			"id": 14952,
 			"level": 370,
 			"quantity": 25,
 			"resource": "fish",
@@ -6986,6 +7762,7 @@
 	[
 		[47, 82],
 		{
+			"id": 14953,
 			"level": 370,
 			"quantity": 25,
 			"resource": "fish",
@@ -6995,6 +7772,7 @@
 	[
 		[48, 3],
 		{
+			"id": 14954,
 			"level": 395,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7004,6 +7782,7 @@
 	[
 		[48, 13],
 		{
+			"id": 14955,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7013,6 +7792,7 @@
 	[
 		[48, 22],
 		{
+			"id": 14956,
 			"level": 355,
 			"quantity": 25,
 			"resource": "fish",
@@ -7022,6 +7802,7 @@
 	[
 		[48, 25],
 		{
+			"id": 14957,
 			"level": 365,
 			"quantity": 25,
 			"resource": "crop",
@@ -7031,6 +7812,7 @@
 	[
 		[48, 26],
 		{
+			"id": 14958,
 			"level": 360,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7040,6 +7822,7 @@
 	[
 		[48, 27],
 		{
+			"id": 14959,
 			"level": 360,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7049,6 +7832,7 @@
 	[
 		[48, 33],
 		{
+			"id": 14960,
 			"level": 315,
 			"quantity": 25,
 			"resource": "gem",
@@ -7058,6 +7842,7 @@
 	[
 		[48, 34],
 		{
+			"id": 14961,
 			"level": 315,
 			"quantity": 25,
 			"resource": "ore",
@@ -7067,6 +7852,7 @@
 	[
 		[48, 40],
 		{
+			"id": 14962,
 			"level": 305,
 			"quantity": 25,
 			"resource": "ore",
@@ -7076,6 +7862,7 @@
 	[
 		[49, 11],
 		{
+			"id": 14963,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7085,6 +7872,7 @@
 	[
 		[49, 14],
 		{
+			"id": 14964,
 			"level": 390,
 			"quantity": 25,
 			"resource": "log",
@@ -7094,6 +7882,7 @@
 	[
 		[49, 16],
 		{
+			"id": 14965,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7103,6 +7892,7 @@
 	[
 		[49, 27],
 		{
+			"id": 14966,
 			"level": 365,
 			"quantity": 25,
 			"resource": "crop",
@@ -7112,15 +7902,17 @@
 	[
 		[49, 29],
 		{
-			"level": 360,
+			"id": 14968,
+			"level": 365,
 			"quantity": 25,
-			"resource": "cloth",
+			"resource": "crop",
 			"respawn": "PT2M"
 		}
 	],
 	[
 		[49, 29],
 		{
+			"id": 14969,
 			"level": 360,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7130,15 +7922,17 @@
 	[
 		[49, 29],
 		{
-			"level": 365,
+			"id": 14967,
+			"level": 360,
 			"quantity": 25,
-			"resource": "crop",
+			"resource": "cloth",
 			"respawn": "PT2M"
 		}
 	],
 	[
 		[49, 35],
 		{
+			"id": 14970,
 			"level": 310,
 			"quantity": 25,
 			"resource": "gem",
@@ -7148,6 +7942,7 @@
 	[
 		[49, 37],
 		{
+			"id": 14971,
 			"level": 305,
 			"quantity": 25,
 			"resource": "gem",
@@ -7157,6 +7952,7 @@
 	[
 		[49, 38],
 		{
+			"id": 14972,
 			"level": 305,
 			"quantity": 25,
 			"resource": "ore",
@@ -7166,6 +7962,7 @@
 	[
 		[49, 40],
 		{
+			"id": 14973,
 			"level": 305,
 			"quantity": 25,
 			"resource": "gem",
@@ -7175,6 +7972,7 @@
 	[
 		[49, 52],
 		{
+			"id": 14974,
 			"level": 345,
 			"quantity": 25,
 			"resource": "stone",
@@ -7184,6 +7982,7 @@
 	[
 		[49, 79],
 		{
+			"id": 14975,
 			"level": 370,
 			"quantity": 25,
 			"resource": "fish",
@@ -7193,6 +7992,7 @@
 	[
 		[49, 80],
 		{
+			"id": 14976,
 			"level": 370,
 			"quantity": 25,
 			"resource": "fish",
@@ -7202,6 +8002,7 @@
 	[
 		[50, 24],
 		{
+			"id": 14977,
 			"level": 360,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7211,15 +8012,7 @@
 	[
 		[50, 26],
 		{
-			"level": 365,
-			"quantity": 25,
-			"resource": "vegetable",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[50, 26],
-		{
+			"id": 14978,
 			"level": 365,
 			"quantity": 25,
 			"resource": "crop",
@@ -7227,8 +8020,19 @@
 		}
 	],
 	[
+		[50, 26],
+		{
+			"id": 14979,
+			"level": 365,
+			"quantity": 25,
+			"resource": "vegetable",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[50, 27],
 		{
+			"id": 14980,
 			"level": 365,
 			"quantity": 25,
 			"resource": "crop",
@@ -7238,6 +8042,7 @@
 	[
 		[50, 28],
 		{
+			"id": 14981,
 			"level": 365,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7247,6 +8052,7 @@
 	[
 		[50, 31],
 		{
+			"id": 14982,
 			"level": 315,
 			"quantity": 25,
 			"resource": "gem",
@@ -7256,6 +8062,7 @@
 	[
 		[50, 36],
 		{
+			"id": 14983,
 			"level": 310,
 			"quantity": 25,
 			"resource": "ore",
@@ -7265,6 +8072,7 @@
 	[
 		[50, 42],
 		{
+			"id": 14984,
 			"level": 305,
 			"quantity": 25,
 			"resource": "gem",
@@ -7274,6 +8082,7 @@
 	[
 		[50, 46],
 		{
+			"id": 14985,
 			"level": 345,
 			"quantity": 25,
 			"resource": "stone",
@@ -7283,6 +8092,7 @@
 	[
 		[50, 48],
 		{
+			"id": 14986,
 			"level": 345,
 			"quantity": 25,
 			"resource": "stone",
@@ -7292,6 +8102,7 @@
 	[
 		[51, 6],
 		{
+			"id": 14987,
 			"level": 395,
 			"quantity": 25,
 			"resource": "berry",
@@ -7301,6 +8112,7 @@
 	[
 		[51, 12],
 		{
+			"id": 14988,
 			"level": 395,
 			"quantity": 25,
 			"resource": "berry",
@@ -7310,6 +8122,7 @@
 	[
 		[51, 16],
 		{
+			"id": 14989,
 			"level": 390,
 			"quantity": 25,
 			"resource": "crop",
@@ -7319,6 +8132,7 @@
 	[
 		[51, 26],
 		{
+			"id": 14990,
 			"level": 360,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7328,6 +8142,7 @@
 	[
 		[51, 27],
 		{
+			"id": 14991,
 			"level": 360,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7337,6 +8152,7 @@
 	[
 		[51, 28],
 		{
+			"id": 14992,
 			"level": 360,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7346,6 +8162,7 @@
 	[
 		[51, 33],
 		{
+			"id": 14993,
 			"level": 315,
 			"quantity": 25,
 			"resource": "ore",
@@ -7355,6 +8172,7 @@
 	[
 		[51, 35],
 		{
+			"id": 14994,
 			"level": 310,
 			"quantity": 25,
 			"resource": "gem",
@@ -7364,6 +8182,7 @@
 	[
 		[51, 38],
 		{
+			"id": 14995,
 			"level": 305,
 			"quantity": 25,
 			"resource": "gem",
@@ -7373,6 +8192,7 @@
 	[
 		[51, 40],
 		{
+			"id": 14996,
 			"level": 310,
 			"quantity": 25,
 			"resource": "ore",
@@ -7382,6 +8202,7 @@
 	[
 		[51, 41],
 		{
+			"id": 14997,
 			"level": 305,
 			"quantity": 25,
 			"resource": "gem",
@@ -7391,6 +8212,7 @@
 	[
 		[52, 9],
 		{
+			"id": 14998,
 			"level": 395,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7400,6 +8222,7 @@
 	[
 		[52, 17],
 		{
+			"id": 14999,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7409,6 +8232,7 @@
 	[
 		[52, 20],
 		{
+			"id": 15000,
 			"level": 355,
 			"quantity": 25,
 			"resource": "fish",
@@ -7418,6 +8242,7 @@
 	[
 		[52, 24],
 		{
+			"id": 15001,
 			"level": 365,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7427,15 +8252,7 @@
 	[
 		[52, 26],
 		{
-			"level": 360,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[52, 26],
-		{
+			"id": 15002,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -7443,8 +8260,19 @@
 		}
 	],
 	[
+		[52, 26],
+		{
+			"id": 15003,
+			"level": 360,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[52, 36],
 		{
+			"id": 15004,
 			"level": 310,
 			"quantity": 25,
 			"resource": "gem",
@@ -7454,6 +8282,7 @@
 	[
 		[52, 38],
 		{
+			"id": 15005,
 			"level": 310,
 			"quantity": 25,
 			"resource": "ore",
@@ -7463,6 +8292,7 @@
 	[
 		[52, 50],
 		{
+			"id": 15006,
 			"level": 345,
 			"quantity": 25,
 			"resource": "stone",
@@ -7472,6 +8302,7 @@
 	[
 		[53, 7],
 		{
+			"id": 15007,
 			"level": 395,
 			"quantity": 25,
 			"resource": "berry",
@@ -7481,6 +8312,7 @@
 	[
 		[53, 11],
 		{
+			"id": 15008,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7490,6 +8322,7 @@
 	[
 		[53, 13],
 		{
+			"id": 15009,
 			"level": 390,
 			"quantity": 25,
 			"resource": "crop",
@@ -7499,6 +8332,7 @@
 	[
 		[53, 24],
 		{
+			"id": 15010,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -7508,6 +8342,7 @@
 	[
 		[53, 25],
 		{
+			"id": 15011,
 			"level": 360,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7517,6 +8352,7 @@
 	[
 		[53, 27],
 		{
+			"id": 15012,
 			"level": 360,
 			"quantity": 25,
 			"resource": "log",
@@ -7526,6 +8362,7 @@
 	[
 		[53, 28],
 		{
+			"id": 15013,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -7535,6 +8372,7 @@
 	[
 		[53, 28],
 		{
+			"id": 15014,
 			"level": 365,
 			"quantity": 25,
 			"resource": "crop",
@@ -7544,6 +8382,7 @@
 	[
 		[53, 33],
 		{
+			"id": 15015,
 			"level": 310,
 			"quantity": 25,
 			"resource": "gem",
@@ -7553,6 +8392,7 @@
 	[
 		[53, 36],
 		{
+			"id": 15016,
 			"level": 310,
 			"quantity": 25,
 			"resource": "ore",
@@ -7562,6 +8402,7 @@
 	[
 		[53, 38],
 		{
+			"id": 15017,
 			"level": 305,
 			"quantity": 25,
 			"resource": "gem",
@@ -7571,6 +8412,7 @@
 	[
 		[53, 39],
 		{
+			"id": 15018,
 			"level": 310,
 			"quantity": 25,
 			"resource": "ore",
@@ -7580,6 +8422,7 @@
 	[
 		[53, 80],
 		{
+			"id": 15019,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -7589,6 +8432,7 @@
 	[
 		[54, 11],
 		{
+			"id": 15020,
 			"level": 390,
 			"quantity": 25,
 			"resource": "crop",
@@ -7598,6 +8442,7 @@
 	[
 		[54, 16],
 		{
+			"id": 15021,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7607,6 +8452,7 @@
 	[
 		[54, 19],
 		{
+			"id": 15022,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -7616,6 +8462,7 @@
 	[
 		[54, 23],
 		{
+			"id": 15023,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -7625,6 +8472,7 @@
 	[
 		[54, 24],
 		{
+			"id": 15024,
 			"level": 375,
 			"quantity": 25,
 			"resource": "log",
@@ -7634,6 +8482,7 @@
 	[
 		[54, 26],
 		{
+			"id": 15025,
 			"level": 375,
 			"quantity": 25,
 			"resource": "crop",
@@ -7643,6 +8492,7 @@
 	[
 		[54, 26],
 		{
+			"id": 15026,
 			"level": 365,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7652,6 +8502,7 @@
 	[
 		[54, 28],
 		{
+			"id": 15027,
 			"level": 360,
 			"quantity": 25,
 			"resource": "log",
@@ -7661,6 +8512,7 @@
 	[
 		[54, 29],
 		{
+			"id": 15028,
 			"level": 360,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7670,6 +8522,7 @@
 	[
 		[54, 30],
 		{
+			"id": 15029,
 			"level": 360,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7679,6 +8532,7 @@
 	[
 		[54, 30],
 		{
+			"id": 15030,
 			"level": 365,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7688,6 +8542,7 @@
 	[
 		[54, 37],
 		{
+			"id": 15031,
 			"level": 310,
 			"quantity": 25,
 			"resource": "gem",
@@ -7697,6 +8552,7 @@
 	[
 		[55, 2],
 		{
+			"id": 15032,
 			"level": 395,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7706,6 +8562,7 @@
 	[
 		[55, 4],
 		{
+			"id": 15033,
 			"level": 395,
 			"quantity": 25,
 			"resource": "berry",
@@ -7715,6 +8572,17 @@
 	[
 		[55, 6],
 		{
+			"id": 15034,
+			"level": 395,
+			"quantity": 25,
+			"resource": "berry",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[55, 6],
+		{
+			"id": 15035,
 			"level": 395,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7722,17 +8590,9 @@
 		}
 	],
 	[
-		[55, 6],
-		{
-			"level": 395,
-			"quantity": 25,
-			"resource": "berry",
-			"respawn": "PT2M"
-		}
-	],
-	[
 		[55, 8],
 		{
+			"id": 15036,
 			"level": 395,
 			"quantity": 25,
 			"resource": "berry",
@@ -7742,6 +8602,7 @@
 	[
 		[55, 25],
 		{
+			"id": 15037,
 			"level": 365,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7751,6 +8612,7 @@
 	[
 		[55, 25],
 		{
+			"id": 15038,
 			"level": 370,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7760,6 +8622,7 @@
 	[
 		[55, 29],
 		{
+			"id": 15039,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -7769,6 +8632,7 @@
 	[
 		[55, 30],
 		{
+			"id": 15040,
 			"level": 365,
 			"quantity": 25,
 			"resource": "crop",
@@ -7778,6 +8642,7 @@
 	[
 		[55, 31],
 		{
+			"id": 15041,
 			"level": 365,
 			"quantity": 25,
 			"resource": "crop",
@@ -7787,6 +8652,7 @@
 	[
 		[55, 81],
 		{
+			"id": 15042,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -7796,6 +8662,7 @@
 	[
 		[56, 8],
 		{
+			"id": 15043,
 			"level": 390,
 			"quantity": 25,
 			"resource": "crop",
@@ -7805,6 +8672,7 @@
 	[
 		[56, 10],
 		{
+			"id": 15044,
 			"level": 390,
 			"quantity": 25,
 			"resource": "crop",
@@ -7814,6 +8682,7 @@
 	[
 		[56, 13],
 		{
+			"id": 15045,
 			"level": 390,
 			"quantity": 25,
 			"resource": "crop",
@@ -7823,6 +8692,7 @@
 	[
 		[56, 23],
 		{
+			"id": 15046,
 			"level": 370,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7832,6 +8702,7 @@
 	[
 		[56, 26],
 		{
+			"id": 15047,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -7841,6 +8712,7 @@
 	[
 		[56, 26],
 		{
+			"id": 15048,
 			"level": 375,
 			"quantity": 25,
 			"resource": "log",
@@ -7850,6 +8722,7 @@
 	[
 		[56, 27],
 		{
+			"id": 15049,
 			"level": 365,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7859,6 +8732,7 @@
 	[
 		[56, 28],
 		{
+			"id": 15050,
 			"level": 375,
 			"quantity": 25,
 			"resource": "crop",
@@ -7868,6 +8742,7 @@
 	[
 		[56, 29],
 		{
+			"id": 15051,
 			"level": 375,
 			"quantity": 25,
 			"resource": "log",
@@ -7877,6 +8752,7 @@
 	[
 		[56, 31],
 		{
+			"id": 15053,
 			"level": 370,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7886,6 +8762,7 @@
 	[
 		[56, 31],
 		{
+			"id": 15052,
 			"level": 360,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7895,6 +8772,7 @@
 	[
 		[56, 34],
 		{
+			"id": 15054,
 			"level": 370,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -7904,6 +8782,7 @@
 	[
 		[56, 43],
 		{
+			"id": 15055,
 			"level": 350,
 			"quantity": 25,
 			"resource": "stone",
@@ -7913,6 +8792,7 @@
 	[
 		[56, 46],
 		{
+			"id": 15056,
 			"level": 350,
 			"quantity": 25,
 			"resource": "stone",
@@ -7922,6 +8802,7 @@
 	[
 		[56, 82],
 		{
+			"id": 15057,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -7931,6 +8812,7 @@
 	[
 		[56, 83],
 		{
+			"id": 15058,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -7940,6 +8822,7 @@
 	[
 		[57, 3],
 		{
+			"id": 15059,
 			"level": 395,
 			"quantity": 25,
 			"resource": "crop",
@@ -7949,6 +8832,7 @@
 	[
 		[57, 6],
 		{
+			"id": 15060,
 			"level": 395,
 			"quantity": 25,
 			"resource": "crop",
@@ -7958,6 +8842,7 @@
 	[
 		[57, 16],
 		{
+			"id": 15061,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -7967,6 +8852,7 @@
 	[
 		[57, 17],
 		{
+			"id": 15062,
 			"level": 360,
 			"quantity": 25,
 			"resource": "fish",
@@ -7976,6 +8862,7 @@
 	[
 		[57, 21],
 		{
+			"id": 15063,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -7985,15 +8872,7 @@
 	[
 		[57, 22],
 		{
-			"level": 375,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[57, 22],
-		{
+			"id": 15064,
 			"level": 375,
 			"quantity": 25,
 			"resource": "berry",
@@ -8001,8 +8880,19 @@
 		}
 	],
 	[
+		[57, 22],
+		{
+			"id": 15065,
+			"level": 375,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[57, 23],
 		{
+			"id": 15066,
 			"level": 365,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8012,6 +8902,7 @@
 	[
 		[57, 24],
 		{
+			"id": 15067,
 			"level": 375,
 			"quantity": 25,
 			"resource": "berry",
@@ -8021,6 +8912,7 @@
 	[
 		[57, 24],
 		{
+			"id": 15068,
 			"level": 375,
 			"quantity": 25,
 			"resource": "log",
@@ -8030,6 +8922,7 @@
 	[
 		[57, 26],
 		{
+			"id": 15069,
 			"level": 375,
 			"quantity": 25,
 			"resource": "crop",
@@ -8039,6 +8932,7 @@
 	[
 		[57, 27],
 		{
+			"id": 15070,
 			"level": 360,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8048,6 +8942,7 @@
 	[
 		[57, 31],
 		{
+			"id": 15071,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -8057,6 +8952,7 @@
 	[
 		[57, 31],
 		{
+			"id": 15072,
 			"level": 360,
 			"quantity": 25,
 			"resource": "log",
@@ -8066,15 +8962,7 @@
 	[
 		[57, 33],
 		{
-			"level": 360,
-			"quantity": 25,
-			"resource": "cloth",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[57, 33],
-		{
+			"id": 15074,
 			"level": 375,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8082,8 +8970,19 @@
 		}
 	],
 	[
+		[57, 33],
+		{
+			"id": 15073,
+			"level": 360,
+			"quantity": 25,
+			"resource": "cloth",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[58, 9],
 		{
+			"id": 15075,
 			"level": 390,
 			"quantity": 25,
 			"resource": "crop",
@@ -8093,6 +8992,7 @@
 	[
 		[58, 13],
 		{
+			"id": 15076,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -8102,6 +9002,7 @@
 	[
 		[58, 15],
 		{
+			"id": 15077,
 			"level": 365,
 			"quantity": 25,
 			"resource": "fish",
@@ -8111,6 +9012,7 @@
 	[
 		[58, 25],
 		{
+			"id": 15078,
 			"level": 375,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8120,6 +9022,7 @@
 	[
 		[58, 26],
 		{
+			"id": 15079,
 			"level": 375,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8129,6 +9032,7 @@
 	[
 		[58, 27],
 		{
+			"id": 15080,
 			"level": 370,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8138,6 +9042,7 @@
 	[
 		[58, 29],
 		{
+			"id": 15081,
 			"level": 370,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8147,6 +9052,7 @@
 	[
 		[58, 32],
 		{
+			"id": 15082,
 			"level": 365,
 			"quantity": 25,
 			"resource": "log",
@@ -8156,6 +9062,7 @@
 	[
 		[58, 33],
 		{
+			"id": 15083,
 			"level": 365,
 			"quantity": 25,
 			"resource": "berry",
@@ -8165,6 +9072,7 @@
 	[
 		[58, 40],
 		{
+			"id": 15084,
 			"level": 355,
 			"quantity": 25,
 			"resource": "stone",
@@ -8174,6 +9082,7 @@
 	[
 		[58, 84],
 		{
+			"id": 15085,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -8183,6 +9092,7 @@
 	[
 		[59, 1],
 		{
+			"id": 15086,
 			"level": 395,
 			"quantity": 25,
 			"resource": "crop",
@@ -8192,6 +9102,7 @@
 	[
 		[59, 5],
 		{
+			"id": 15087,
 			"level": 395,
 			"quantity": 25,
 			"resource": "crop",
@@ -8201,6 +9112,7 @@
 	[
 		[59, 10],
 		{
+			"id": 15088,
 			"level": 370,
 			"quantity": 25,
 			"resource": "fish",
@@ -8210,6 +9122,7 @@
 	[
 		[59, 12],
 		{
+			"id": 15089,
 			"level": 365,
 			"quantity": 25,
 			"resource": "fish",
@@ -8219,6 +9132,7 @@
 	[
 		[59, 21],
 		{
+			"id": 15090,
 			"level": 365,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8228,6 +9142,7 @@
 	[
 		[59, 26],
 		{
+			"id": 15091,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -8237,6 +9152,7 @@
 	[
 		[59, 26],
 		{
+			"id": 15092,
 			"level": 370,
 			"quantity": 25,
 			"resource": "log",
@@ -8246,6 +9162,7 @@
 	[
 		[59, 30],
 		{
+			"id": 15093,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -8255,6 +9172,7 @@
 	[
 		[59, 30],
 		{
+			"id": 15094,
 			"level": 365,
 			"quantity": 25,
 			"resource": "log",
@@ -8264,6 +9182,7 @@
 	[
 		[59, 31],
 		{
+			"id": 15095,
 			"level": 375,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8273,6 +9192,7 @@
 	[
 		[59, 32],
 		{
+			"id": 15096,
 			"level": 360,
 			"quantity": 25,
 			"resource": "log",
@@ -8282,6 +9202,7 @@
 	[
 		[59, 33],
 		{
+			"id": 15097,
 			"level": 360,
 			"quantity": 25,
 			"resource": "log",
@@ -8291,6 +9212,7 @@
 	[
 		[59, 48],
 		{
+			"id": 15098,
 			"level": 350,
 			"quantity": 25,
 			"resource": "stone",
@@ -8300,6 +9222,7 @@
 	[
 		[60, 3],
 		{
+			"id": 15099,
 			"level": 395,
 			"quantity": 25,
 			"resource": "crop",
@@ -8309,6 +9232,7 @@
 	[
 		[60, 8],
 		{
+			"id": 15100,
 			"level": 370,
 			"quantity": 25,
 			"resource": "fish",
@@ -8318,6 +9242,7 @@
 	[
 		[60, 11],
 		{
+			"id": 15101,
 			"level": 365,
 			"quantity": 25,
 			"resource": "fish",
@@ -8327,6 +9252,7 @@
 	[
 		[60, 22],
 		{
+			"id": 15102,
 			"level": 375,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8336,6 +9262,7 @@
 	[
 		[60, 23],
 		{
+			"id": 15103,
 			"level": 375,
 			"quantity": 25,
 			"resource": "crop",
@@ -8345,15 +9272,7 @@
 	[
 		[60, 28],
 		{
-			"level": 370,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[60, 28],
-		{
+			"id": 15104,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -8361,8 +9280,19 @@
 		}
 	],
 	[
+		[60, 28],
+		{
+			"id": 15105,
+			"level": 370,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[60, 29],
 		{
+			"id": 15106,
 			"level": 375,
 			"quantity": 25,
 			"resource": "crop",
@@ -8372,6 +9302,7 @@
 	[
 		[60, 30],
 		{
+			"id": 15107,
 			"level": 375,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8381,6 +9312,7 @@
 	[
 		[60, 31],
 		{
+			"id": 15108,
 			"level": 360,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8390,6 +9322,7 @@
 	[
 		[60, 83],
 		{
+			"id": 15109,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -8399,6 +9332,7 @@
 	[
 		[61, 4],
 		{
+			"id": 15110,
 			"level": 395,
 			"quantity": 25,
 			"resource": "crop",
@@ -8408,6 +9342,7 @@
 	[
 		[61, 19],
 		{
+			"id": 15111,
 			"level": 360,
 			"quantity": 25,
 			"resource": "fish",
@@ -8417,15 +9352,7 @@
 	[
 		[61, 22],
 		{
-			"level": 380,
-			"quantity": 25,
-			"resource": "vegetable",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[61, 22],
-		{
+			"id": 15112,
 			"level": 375,
 			"quantity": 25,
 			"resource": "crop",
@@ -8433,8 +9360,19 @@
 		}
 	],
 	[
+		[61, 22],
+		{
+			"id": 15113,
+			"level": 380,
+			"quantity": 25,
+			"resource": "vegetable",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[61, 23],
 		{
+			"id": 15114,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8444,6 +9382,7 @@
 	[
 		[61, 24],
 		{
+			"id": 15115,
 			"level": 365,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8453,15 +9392,7 @@
 	[
 		[61, 25],
 		{
-			"level": 370,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[61, 25],
-		{
+			"id": 15116,
 			"level": 375,
 			"quantity": 25,
 			"resource": "berry",
@@ -8469,8 +9400,19 @@
 		}
 	],
 	[
+		[61, 25],
+		{
+			"id": 15117,
+			"level": 370,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[61, 27],
 		{
+			"id": 15118,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -8480,6 +9422,7 @@
 	[
 		[61, 29],
 		{
+			"id": 15119,
 			"level": 360,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8489,6 +9432,7 @@
 	[
 		[61, 29],
 		{
+			"id": 15120,
 			"level": 375,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8498,6 +9442,7 @@
 	[
 		[61, 30],
 		{
+			"id": 15121,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -8507,6 +9452,7 @@
 	[
 		[61, 37],
 		{
+			"id": 15122,
 			"level": 355,
 			"quantity": 25,
 			"resource": "stone",
@@ -8516,6 +9462,7 @@
 	[
 		[61, 39],
 		{
+			"id": 15123,
 			"level": 350,
 			"quantity": 25,
 			"resource": "stone",
@@ -8525,6 +9472,7 @@
 	[
 		[61, 42],
 		{
+			"id": 15124,
 			"level": 355,
 			"quantity": 25,
 			"resource": "stone",
@@ -8534,6 +9482,7 @@
 	[
 		[62, 2],
 		{
+			"id": 15125,
 			"level": 395,
 			"quantity": 25,
 			"resource": "crop",
@@ -8543,6 +9492,7 @@
 	[
 		[62, 7],
 		{
+			"id": 15126,
 			"level": 370,
 			"quantity": 25,
 			"resource": "fish",
@@ -8552,6 +9502,7 @@
 	[
 		[62, 17],
 		{
+			"id": 15127,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8561,15 +9512,7 @@
 	[
 		[62, 25],
 		{
-			"level": 370,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[62, 25],
-		{
+			"id": 15128,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -8577,8 +9520,19 @@
 		}
 	],
 	[
+		[62, 25],
+		{
+			"id": 15129,
+			"level": 370,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[62, 27],
 		{
+			"id": 15130,
 			"level": 365,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8588,6 +9542,7 @@
 	[
 		[62, 30],
 		{
+			"id": 15131,
 			"level": 365,
 			"quantity": 25,
 			"resource": "log",
@@ -8597,6 +9552,7 @@
 	[
 		[62, 44],
 		{
+			"id": 15132,
 			"level": 350,
 			"quantity": 25,
 			"resource": "stone",
@@ -8606,6 +9562,7 @@
 	[
 		[62, 85],
 		{
+			"id": 15133,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -8615,6 +9572,7 @@
 	[
 		[63, 6],
 		{
+			"id": 15134,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -8624,6 +9582,7 @@
 	[
 		[63, 14],
 		{
+			"id": 15135,
 			"level": 385,
 			"quantity": 25,
 			"resource": "berry",
@@ -8633,6 +9592,7 @@
 	[
 		[63, 17],
 		{
+			"id": 15136,
 			"level": 380,
 			"quantity": 25,
 			"resource": "crop",
@@ -8642,15 +9602,7 @@
 	[
 		[63, 23],
 		{
-			"level": 365,
-			"quantity": 25,
-			"resource": "cloth",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[63, 23],
-		{
+			"id": 15138,
 			"level": 375,
 			"quantity": 25,
 			"resource": "crop",
@@ -8658,8 +9610,19 @@
 		}
 	],
 	[
+		[63, 23],
+		{
+			"id": 15137,
+			"level": 365,
+			"quantity": 25,
+			"resource": "cloth",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[63, 28],
 		{
+			"id": 15139,
 			"level": 380,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8669,15 +9632,7 @@
 	[
 		[63, 29],
 		{
-			"level": 365,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[63, 29],
-		{
+			"id": 15140,
 			"level": 370,
 			"quantity": 25,
 			"resource": "berry",
@@ -8687,6 +9642,17 @@
 	[
 		[63, 29],
 		{
+			"id": 15141,
+			"level": 365,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
+		[63, 29],
+		{
+			"id": 15142,
 			"level": 380,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8696,6 +9662,7 @@
 	[
 		[63, 31],
 		{
+			"id": 15143,
 			"level": 365,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8705,6 +9672,7 @@
 	[
 		[63, 35],
 		{
+			"id": 15144,
 			"level": 360,
 			"quantity": 25,
 			"resource": "stone",
@@ -8714,6 +9682,7 @@
 	[
 		[63, 41],
 		{
+			"id": 15145,
 			"level": 360,
 			"quantity": 25,
 			"resource": "stone",
@@ -8723,6 +9692,7 @@
 	[
 		[63, 46],
 		{
+			"id": 15146,
 			"level": 350,
 			"quantity": 25,
 			"resource": "stone",
@@ -8732,6 +9702,7 @@
 	[
 		[63, 84],
 		{
+			"id": 15147,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -8741,6 +9712,7 @@
 	[
 		[64, 6],
 		{
+			"id": 15148,
 			"level": 370,
 			"quantity": 25,
 			"resource": "fish",
@@ -8750,6 +9722,7 @@
 	[
 		[64, 12],
 		{
+			"id": 15149,
 			"level": 385,
 			"quantity": 25,
 			"resource": "berry",
@@ -8759,6 +9732,7 @@
 	[
 		[64, 16],
 		{
+			"id": 15150,
 			"level": 385,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8768,6 +9742,7 @@
 	[
 		[64, 21],
 		{
+			"id": 15151,
 			"level": 360,
 			"quantity": 25,
 			"resource": "fish",
@@ -8777,15 +9752,7 @@
 	[
 		[64, 26],
 		{
-			"level": 380,
-			"quantity": 25,
-			"resource": "vegetable",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[64, 26],
-		{
+			"id": 15152,
 			"level": 365,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8793,8 +9760,9 @@
 		}
 	],
 	[
-		[64, 27],
+		[64, 26],
 		{
+			"id": 15153,
 			"level": 380,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8804,6 +9772,7 @@
 	[
 		[64, 27],
 		{
+			"id": 15154,
 			"level": 365,
 			"quantity": 25,
 			"resource": "log",
@@ -8811,8 +9780,19 @@
 		}
 	],
 	[
+		[64, 27],
+		{
+			"id": 15155,
+			"level": 380,
+			"quantity": 25,
+			"resource": "vegetable",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[64, 40],
 		{
+			"id": 15156,
 			"level": 355,
 			"quantity": 25,
 			"resource": "stone",
@@ -8822,6 +9802,7 @@
 	[
 		[64, 44],
 		{
+			"id": 15157,
 			"level": 360,
 			"quantity": 25,
 			"resource": "stone",
@@ -8831,6 +9812,7 @@
 	[
 		[65, 4],
 		{
+			"id": 15158,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -8840,6 +9822,7 @@
 	[
 		[65, 11],
 		{
+			"id": 15159,
 			"level": 380,
 			"quantity": 25,
 			"resource": "crop",
@@ -8849,6 +9832,7 @@
 	[
 		[65, 14],
 		{
+			"id": 15160,
 			"level": 385,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8858,6 +9842,7 @@
 	[
 		[65, 18],
 		{
+			"id": 15161,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8867,6 +9852,7 @@
 	[
 		[65, 25],
 		{
+			"id": 15162,
 			"level": 375,
 			"quantity": 25,
 			"resource": "crop",
@@ -8876,6 +9862,7 @@
 	[
 		[65, 27],
 		{
+			"id": 15163,
 			"level": 370,
 			"quantity": 25,
 			"resource": "log",
@@ -8885,6 +9872,7 @@
 	[
 		[65, 29],
 		{
+			"id": 15164,
 			"level": 365,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8894,6 +9882,7 @@
 	[
 		[65, 34],
 		{
+			"id": 15165,
 			"level": 355,
 			"quantity": 25,
 			"resource": "stone",
@@ -8903,6 +9892,7 @@
 	[
 		[65, 38],
 		{
+			"id": 15166,
 			"level": 360,
 			"quantity": 25,
 			"resource": "stone",
@@ -8912,6 +9902,7 @@
 	[
 		[65, 46],
 		{
+			"id": 15167,
 			"level": 360,
 			"quantity": 25,
 			"resource": "stone",
@@ -8921,6 +9912,7 @@
 	[
 		[65, 47],
 		{
+			"id": 15168,
 			"level": 360,
 			"quantity": 25,
 			"resource": "stone",
@@ -8930,6 +9922,7 @@
 	[
 		[66, 3],
 		{
+			"id": 15169,
 			"level": 385,
 			"quantity": 25,
 			"resource": "fish",
@@ -8939,6 +9932,7 @@
 	[
 		[66, 15],
 		{
+			"id": 15170,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -8948,6 +9942,7 @@
 	[
 		[66, 16],
 		{
+			"id": 15171,
 			"level": 375,
 			"quantity": 25,
 			"resource": "log",
@@ -8957,15 +9952,7 @@
 	[
 		[66, 18],
 		{
-			"level": 385,
-			"quantity": 25,
-			"resource": "vegetable",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[66, 18],
-		{
+			"id": 15172,
 			"level": 375,
 			"quantity": 25,
 			"resource": "crop",
@@ -8973,8 +9960,19 @@
 		}
 	],
 	[
+		[66, 18],
+		{
+			"id": 15173,
+			"level": 385,
+			"quantity": 25,
+			"resource": "vegetable",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[66, 25],
 		{
+			"id": 15174,
 			"level": 380,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -8984,6 +9982,7 @@
 	[
 		[66, 28],
 		{
+			"id": 15175,
 			"level": 375,
 			"quantity": 25,
 			"resource": "berry",
@@ -8993,6 +9992,7 @@
 	[
 		[66, 29],
 		{
+			"id": 15176,
 			"level": 375,
 			"quantity": 25,
 			"resource": "berry",
@@ -9002,6 +10002,7 @@
 	[
 		[66, 36],
 		{
+			"id": 15177,
 			"level": 365,
 			"quantity": 25,
 			"resource": "stone",
@@ -9011,15 +10012,7 @@
 	[
 		[67, 11],
 		{
-			"level": 370,
-			"quantity": 25,
-			"resource": "cloth",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[67, 11],
-		{
+			"id": 15178,
 			"level": 390,
 			"quantity": 25,
 			"resource": "berry",
@@ -9027,8 +10020,19 @@
 		}
 	],
 	[
+		[67, 11],
+		{
+			"id": 15179,
+			"level": 370,
+			"quantity": 25,
+			"resource": "cloth",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[67, 13],
 		{
+			"id": 15180,
 			"level": 375,
 			"quantity": 25,
 			"resource": "log",
@@ -9038,6 +10042,7 @@
 	[
 		[67, 15],
 		{
+			"id": 15181,
 			"level": 385,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9047,6 +10052,7 @@
 	[
 		[67, 23],
 		{
+			"id": 15182,
 			"level": 360,
 			"quantity": 25,
 			"resource": "fish",
@@ -9056,6 +10062,7 @@
 	[
 		[67, 27],
 		{
+			"id": 15183,
 			"level": 375,
 			"quantity": 25,
 			"resource": "berry",
@@ -9065,6 +10072,7 @@
 	[
 		[67, 34],
 		{
+			"id": 15184,
 			"level": 365,
 			"quantity": 25,
 			"resource": "stone",
@@ -9074,6 +10082,7 @@
 	[
 		[67, 40],
 		{
+			"id": 15185,
 			"level": 365,
 			"quantity": 25,
 			"resource": "stone",
@@ -9083,6 +10092,7 @@
 	[
 		[67, 42],
 		{
+			"id": 15186,
 			"level": 360,
 			"quantity": 25,
 			"resource": "stone",
@@ -9092,6 +10102,7 @@
 	[
 		[68, 1],
 		{
+			"id": 15187,
 			"level": 385,
 			"quantity": 25,
 			"resource": "fish",
@@ -9101,15 +10112,7 @@
 	[
 		[68, 11],
 		{
-			"level": 375,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[68, 11],
-		{
+			"id": 15188,
 			"level": 385,
 			"quantity": 25,
 			"resource": "crop",
@@ -9117,8 +10120,19 @@
 		}
 	],
 	[
+		[68, 11],
+		{
+			"id": 15189,
+			"level": 375,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[68, 13],
 		{
+			"id": 15190,
 			"level": 385,
 			"quantity": 25,
 			"resource": "berry",
@@ -9128,6 +10142,7 @@
 	[
 		[68, 14],
 		{
+			"id": 15191,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9137,15 +10152,7 @@
 	[
 		[68, 17],
 		{
-			"level": 380,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[68, 17],
-		{
+			"id": 15192,
 			"level": 375,
 			"quantity": 25,
 			"resource": "berry",
@@ -9153,8 +10160,19 @@
 		}
 	],
 	[
+		[68, 17],
+		{
+			"id": 15193,
+			"level": 380,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[68, 19],
 		{
+			"id": 15194,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9164,6 +10182,7 @@
 	[
 		[68, 20],
 		{
+			"id": 15195,
 			"level": 380,
 			"quantity": 25,
 			"resource": "crop",
@@ -9173,6 +10192,7 @@
 	[
 		[68, 21],
 		{
+			"id": 15196,
 			"level": 380,
 			"quantity": 25,
 			"resource": "crop",
@@ -9182,6 +10202,7 @@
 	[
 		[68, 27],
 		{
+			"id": 15197,
 			"level": 375,
 			"quantity": 25,
 			"resource": "crop",
@@ -9191,6 +10212,7 @@
 	[
 		[68, 37],
 		{
+			"id": 15198,
 			"level": 360,
 			"quantity": 25,
 			"resource": "stone",
@@ -9200,6 +10222,7 @@
 	[
 		[69, 9],
 		{
+			"id": 15199,
 			"level": 385,
 			"quantity": 25,
 			"resource": "berry",
@@ -9209,6 +10232,7 @@
 	[
 		[69, 10],
 		{
+			"id": 15200,
 			"level": 385,
 			"quantity": 25,
 			"resource": "berry",
@@ -9218,6 +10242,7 @@
 	[
 		[69, 12],
 		{
+			"id": 15201,
 			"level": 395,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9227,6 +10252,7 @@
 	[
 		[69, 13],
 		{
+			"id": 15202,
 			"level": 375,
 			"quantity": 25,
 			"resource": "log",
@@ -9236,6 +10262,7 @@
 	[
 		[69, 15],
 		{
+			"id": 15203,
 			"level": 385,
 			"quantity": 25,
 			"resource": "berry",
@@ -9245,6 +10272,7 @@
 	[
 		[69, 15],
 		{
+			"id": 15204,
 			"level": 380,
 			"quantity": 25,
 			"resource": "crop",
@@ -9254,6 +10282,7 @@
 	[
 		[69, 17],
 		{
+			"id": 15205,
 			"level": 385,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9263,6 +10292,7 @@
 	[
 		[69, 18],
 		{
+			"id": 15206,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9272,6 +10302,7 @@
 	[
 		[69, 20],
 		{
+			"id": 15207,
 			"level": 385,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9281,6 +10312,7 @@
 	[
 		[69, 33],
 		{
+			"id": 15208,
 			"level": 365,
 			"quantity": 25,
 			"resource": "stone",
@@ -9290,6 +10322,7 @@
 	[
 		[69, 81],
 		{
+			"id": 15209,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -9299,6 +10332,7 @@
 	[
 		[69, 83],
 		{
+			"id": 15210,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -9308,6 +10342,7 @@
 	[
 		[69, 85],
 		{
+			"id": 15211,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -9317,6 +10352,7 @@
 	[
 		[69, 86],
 		{
+			"id": 15212,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -9326,6 +10362,7 @@
 	[
 		[70, 7],
 		{
+			"id": 15213,
 			"level": 390,
 			"quantity": 25,
 			"resource": "berry",
@@ -9335,6 +10372,7 @@
 	[
 		[70, 7],
 		{
+			"id": 15214,
 			"level": 380,
 			"quantity": 25,
 			"resource": "log",
@@ -9344,6 +10382,7 @@
 	[
 		[70, 10],
 		{
+			"id": 15215,
 			"level": 380,
 			"quantity": 25,
 			"resource": "log",
@@ -9353,6 +10392,7 @@
 	[
 		[70, 16],
 		{
+			"id": 15216,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9362,6 +10402,7 @@
 	[
 		[70, 18],
 		{
+			"id": 15217,
 			"level": 375,
 			"quantity": 25,
 			"resource": "berry",
@@ -9371,6 +10412,7 @@
 	[
 		[70, 19],
 		{
+			"id": 15218,
 			"level": 380,
 			"quantity": 25,
 			"resource": "log",
@@ -9380,6 +10422,7 @@
 	[
 		[70, 21],
 		{
+			"id": 15219,
 			"level": 375,
 			"quantity": 25,
 			"resource": "berry",
@@ -9389,6 +10432,7 @@
 	[
 		[70, 21],
 		{
+			"id": 15220,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9398,6 +10442,7 @@
 	[
 		[70, 26],
 		{
+			"id": 15221,
 			"level": 360,
 			"quantity": 25,
 			"resource": "fish",
@@ -9407,6 +10452,7 @@
 	[
 		[71, 4],
 		{
+			"id": 15222,
 			"level": 390,
 			"quantity": 25,
 			"resource": "berry",
@@ -9416,6 +10462,7 @@
 	[
 		[71, 6],
 		{
+			"id": 15223,
 			"level": 390,
 			"quantity": 25,
 			"resource": "berry",
@@ -9425,6 +10472,7 @@
 	[
 		[71, 6],
 		{
+			"id": 15224,
 			"level": 395,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9434,6 +10482,7 @@
 	[
 		[71, 12],
 		{
+			"id": 15225,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9443,6 +10492,7 @@
 	[
 		[71, 12],
 		{
+			"id": 15226,
 			"level": 385,
 			"quantity": 25,
 			"resource": "crop",
@@ -9452,6 +10502,7 @@
 	[
 		[71, 13],
 		{
+			"id": 15227,
 			"level": 380,
 			"quantity": 25,
 			"resource": "crop",
@@ -9461,6 +10512,7 @@
 	[
 		[71, 14],
 		{
+			"id": 15228,
 			"level": 375,
 			"quantity": 25,
 			"resource": "log",
@@ -9470,6 +10522,7 @@
 	[
 		[71, 21],
 		{
+			"id": 15229,
 			"level": 380,
 			"quantity": 25,
 			"resource": "log",
@@ -9479,6 +10532,7 @@
 	[
 		[71, 32],
 		{
+			"id": 15230,
 			"level": 365,
 			"quantity": 25,
 			"resource": "stone",
@@ -9488,6 +10542,7 @@
 	[
 		[71, 79],
 		{
+			"id": 15231,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -9497,6 +10552,7 @@
 	[
 		[71, 81],
 		{
+			"id": 15232,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -9506,6 +10562,7 @@
 	[
 		[71, 84],
 		{
+			"id": 15233,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -9515,6 +10572,7 @@
 	[
 		[71, 87],
 		{
+			"id": 15234,
 			"level": 375,
 			"quantity": 25,
 			"resource": "fish",
@@ -9524,6 +10582,7 @@
 	[
 		[71, 88],
 		{
+			"id": 15235,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -9533,6 +10592,7 @@
 	[
 		[72, 3],
 		{
+			"id": 15236,
 			"level": 395,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9542,6 +10602,7 @@
 	[
 		[72, 6],
 		{
+			"id": 15237,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9551,6 +10612,7 @@
 	[
 		[72, 7],
 		{
+			"id": 15238,
 			"level": 385,
 			"quantity": 25,
 			"resource": "crop",
@@ -9560,6 +10622,7 @@
 	[
 		[72, 10],
 		{
+			"id": 15239,
 			"level": 385,
 			"quantity": 25,
 			"resource": "crop",
@@ -9569,6 +10632,7 @@
 	[
 		[72, 10],
 		{
+			"id": 15240,
 			"level": 395,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9578,6 +10642,7 @@
 	[
 		[72, 11],
 		{
+			"id": 15241,
 			"level": 380,
 			"quantity": 25,
 			"resource": "log",
@@ -9587,15 +10652,7 @@
 	[
 		[72, 16],
 		{
-			"level": 370,
-			"quantity": 25,
-			"resource": "cloth",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[72, 16],
-		{
+			"id": 15242,
 			"level": 385,
 			"quantity": 25,
 			"resource": "berry",
@@ -9603,8 +10660,19 @@
 		}
 	],
 	[
+		[72, 16],
+		{
+			"id": 15243,
+			"level": 370,
+			"quantity": 25,
+			"resource": "cloth",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[72, 18],
 		{
+			"id": 15244,
 			"level": 390,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9614,6 +10682,7 @@
 	[
 		[72, 20],
 		{
+			"id": 15245,
 			"level": 380,
 			"quantity": 25,
 			"resource": "crop",
@@ -9623,6 +10692,7 @@
 	[
 		[72, 20],
 		{
+			"id": 15246,
 			"level": 390,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9632,6 +10702,7 @@
 	[
 		[72, 21],
 		{
+			"id": 15247,
 			"level": 375,
 			"quantity": 25,
 			"resource": "berry",
@@ -9641,15 +10712,7 @@
 	[
 		[72, 22],
 		{
-			"level": 380,
-			"quantity": 25,
-			"resource": "log",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[72, 22],
-		{
+			"id": 15248,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9657,8 +10720,19 @@
 		}
 	],
 	[
+		[72, 22],
+		{
+			"id": 15249,
+			"level": 380,
+			"quantity": 25,
+			"resource": "log",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[72, 37],
 		{
+			"id": 15251,
 			"level": 365,
 			"quantity": 25,
 			"resource": "stone",
@@ -9668,6 +10742,7 @@
 	[
 		[73, 2],
 		{
+			"id": 15252,
 			"level": 390,
 			"quantity": 25,
 			"resource": "berry",
@@ -9677,6 +10752,7 @@
 	[
 		[73, 4],
 		{
+			"id": 15253,
 			"level": 385,
 			"quantity": 25,
 			"resource": "crop",
@@ -9686,6 +10762,7 @@
 	[
 		[73, 6],
 		{
+			"id": 15254,
 			"level": 390,
 			"quantity": 25,
 			"resource": "berry",
@@ -9695,6 +10772,7 @@
 	[
 		[73, 8],
 		{
+			"id": 15255,
 			"level": 395,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9704,6 +10782,7 @@
 	[
 		[73, 9],
 		{
+			"id": 15256,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9713,6 +10792,7 @@
 	[
 		[73, 12],
 		{
+			"id": 15257,
 			"level": 385,
 			"quantity": 25,
 			"resource": "berry",
@@ -9722,6 +10802,7 @@
 	[
 		[73, 13],
 		{
+			"id": 15258,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9731,6 +10812,7 @@
 	[
 		[73, 14],
 		{
+			"id": 15259,
 			"level": 380,
 			"quantity": 25,
 			"resource": "crop",
@@ -9740,6 +10822,7 @@
 	[
 		[73, 16],
 		{
+			"id": 15260,
 			"level": 390,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9749,6 +10832,7 @@
 	[
 		[73, 18],
 		{
+			"id": 15261,
 			"level": 380,
 			"quantity": 25,
 			"resource": "crop",
@@ -9758,6 +10842,7 @@
 	[
 		[73, 29],
 		{
+			"id": 15262,
 			"level": 370,
 			"quantity": 25,
 			"resource": "stone",
@@ -9767,6 +10852,7 @@
 	[
 		[73, 34],
 		{
+			"id": 15263,
 			"level": 370,
 			"quantity": 25,
 			"resource": "stone",
@@ -9776,6 +10862,7 @@
 	[
 		[73, 77],
 		{
+			"id": 15264,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -9785,6 +10872,7 @@
 	[
 		[73, 87],
 		{
+			"id": 15265,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -9794,6 +10882,7 @@
 	[
 		[73, 90],
 		{
+			"id": 15266,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -9803,6 +10892,7 @@
 	[
 		[74, 5],
 		{
+			"id": 15267,
 			"level": 395,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9812,6 +10902,7 @@
 	[
 		[74, 6],
 		{
+			"id": 15268,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9821,6 +10912,7 @@
 	[
 		[74, 7],
 		{
+			"id": 15269,
 			"level": 395,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9830,6 +10922,7 @@
 	[
 		[74, 13],
 		{
+			"id": 15270,
 			"level": 390,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9839,6 +10932,7 @@
 	[
 		[74, 20],
 		{
+			"id": 15271,
 			"level": 380,
 			"quantity": 25,
 			"resource": "log",
@@ -9848,6 +10942,7 @@
 	[
 		[74, 22],
 		{
+			"id": 15272,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9857,6 +10952,7 @@
 	[
 		[75, 6],
 		{
+			"id": 15273,
 			"level": 395,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9866,6 +10962,7 @@
 	[
 		[75, 12],
 		{
+			"id": 15274,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9875,6 +10972,7 @@
 	[
 		[75, 12],
 		{
+			"id": 15275,
 			"level": 380,
 			"quantity": 25,
 			"resource": "log",
@@ -9884,6 +10982,7 @@
 	[
 		[75, 19],
 		{
+			"id": 15276,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9893,6 +10992,7 @@
 	[
 		[75, 29],
 		{
+			"id": 15277,
 			"level": 370,
 			"quantity": 25,
 			"resource": "stone",
@@ -9902,6 +11002,7 @@
 	[
 		[75, 32],
 		{
+			"id": 15278,
 			"level": 370,
 			"quantity": 25,
 			"resource": "stone",
@@ -9911,6 +11012,7 @@
 	[
 		[75, 33],
 		{
+			"id": 15279,
 			"level": 370,
 			"quantity": 25,
 			"resource": "stone",
@@ -9920,6 +11022,7 @@
 	[
 		[75, 75],
 		{
+			"id": 15280,
 			"level": 390,
 			"quantity": 25,
 			"resource": "fish",
@@ -9929,6 +11032,7 @@
 	[
 		[75, 84],
 		{
+			"id": 15281,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -9938,6 +11042,7 @@
 	[
 		[75, 86],
 		{
+			"id": 15282,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -9947,6 +11052,7 @@
 	[
 		[76, 2],
 		{
+			"id": 15283,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9956,6 +11062,7 @@
 	[
 		[76, 6],
 		{
+			"id": 15284,
 			"level": 385,
 			"quantity": 25,
 			"resource": "crop",
@@ -9965,6 +11072,7 @@
 	[
 		[76, 15],
 		{
+			"id": 15285,
 			"level": 385,
 			"quantity": 25,
 			"resource": "berry",
@@ -9974,6 +11082,7 @@
 	[
 		[76, 16],
 		{
+			"id": 15286,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -9983,6 +11092,7 @@
 	[
 		[76, 17],
 		{
+			"id": 15287,
 			"level": 390,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -9992,6 +11102,7 @@
 	[
 		[76, 19],
 		{
+			"id": 15288,
 			"level": 390,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -10001,6 +11112,7 @@
 	[
 		[76, 20],
 		{
+			"id": 15289,
 			"level": 385,
 			"quantity": 25,
 			"resource": "crop",
@@ -10010,6 +11122,7 @@
 	[
 		[76, 36],
 		{
+			"id": 15290,
 			"level": 370,
 			"quantity": 25,
 			"resource": "stone",
@@ -10019,6 +11132,7 @@
 	[
 		[76, 90],
 		{
+			"id": 15291,
 			"level": 380,
 			"quantity": 25,
 			"resource": "fish",
@@ -10028,6 +11142,7 @@
 	[
 		[77, 5],
 		{
+			"id": 15292,
 			"level": 390,
 			"quantity": 25,
 			"resource": "berry",
@@ -10037,15 +11152,7 @@
 	[
 		[77, 10],
 		{
-			"level": 385,
-			"quantity": 25,
-			"resource": "crop",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[77, 10],
-		{
+			"id": 15293,
 			"level": 370,
 			"quantity": 25,
 			"resource": "cloth",
@@ -10053,8 +11160,19 @@
 		}
 	],
 	[
+		[77, 10],
+		{
+			"id": 15294,
+			"level": 385,
+			"quantity": 25,
+			"resource": "crop",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[77, 13],
 		{
+			"id": 15295,
 			"level": 385,
 			"quantity": 25,
 			"resource": "berry",
@@ -10064,6 +11182,7 @@
 	[
 		[78, 6],
 		{
+			"id": 15296,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -10073,15 +11192,7 @@
 	[
 		[78, 15],
 		{
-			"level": 390,
-			"quantity": 25,
-			"resource": "vegetable",
-			"respawn": "PT2M"
-		}
-	],
-	[
-		[78, 15],
-		{
+			"id": 15297,
 			"level": 385,
 			"quantity": 25,
 			"resource": "crop",
@@ -10089,8 +11200,19 @@
 		}
 	],
 	[
+		[78, 15],
+		{
+			"id": 15298,
+			"level": 390,
+			"quantity": 25,
+			"resource": "vegetable",
+			"respawn": "PT2M"
+		}
+	],
+	[
 		[78, 26],
 		{
+			"id": 15299,
 			"level": 375,
 			"quantity": 25,
 			"resource": "stone",
@@ -10100,6 +11222,7 @@
 	[
 		[78, 79],
 		{
+			"id": 15300,
 			"level": 395,
 			"quantity": 25,
 			"resource": "fish",
@@ -10109,6 +11232,7 @@
 	[
 		[79, 5],
 		{
+			"id": 15301,
 			"level": 395,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -10118,6 +11242,7 @@
 	[
 		[79, 32],
 		{
+			"id": 15302,
 			"level": 370,
 			"quantity": 25,
 			"resource": "stone",
@@ -10127,6 +11252,7 @@
 	[
 		[79, 78],
 		{
+			"id": 15303,
 			"level": 395,
 			"quantity": 25,
 			"resource": "fish",
@@ -10136,6 +11262,7 @@
 	[
 		[80, 9],
 		{
+			"id": 15304,
 			"level": 385,
 			"quantity": 25,
 			"resource": "crop",
@@ -10145,6 +11272,7 @@
 	[
 		[80, 10],
 		{
+			"id": 15305,
 			"level": 375,
 			"quantity": 25,
 			"resource": "cloth",
@@ -10154,6 +11282,7 @@
 	[
 		[80, 22],
 		{
+			"id": 15306,
 			"level": 380,
 			"quantity": 25,
 			"resource": "stone",
@@ -10163,6 +11292,7 @@
 	[
 		[80, 29],
 		{
+			"id": 15307,
 			"level": 375,
 			"quantity": 25,
 			"resource": "stone",
@@ -10172,6 +11302,7 @@
 	[
 		[80, 80],
 		{
+			"id": 15308,
 			"level": 395,
 			"quantity": 25,
 			"resource": "fish",
@@ -10181,6 +11312,7 @@
 	[
 		[80, 91],
 		{
+			"id": 15309,
 			"level": 385,
 			"quantity": 25,
 			"resource": "fish",
@@ -10190,6 +11322,7 @@
 	[
 		[81, 3],
 		{
+			"id": 15310,
 			"level": 395,
 			"quantity": 25,
 			"resource": "vegetable",
@@ -10199,6 +11332,7 @@
 	[
 		[81, 26],
 		{
+			"id": 15311,
 			"level": 380,
 			"quantity": 25,
 			"resource": "stone",
@@ -10208,6 +11342,7 @@
 	[
 		[81, 74],
 		{
+			"id": 15312,
 			"level": 390,
 			"quantity": 25,
 			"resource": "fish",
@@ -10217,6 +11352,7 @@
 	[
 		[82, 18],
 		{
+			"id": 15313,
 			"level": 385,
 			"quantity": 25,
 			"resource": "stone",
@@ -10226,6 +11362,7 @@
 	[
 		[82, 20],
 		{
+			"id": 15314,
 			"level": 380,
 			"quantity": 25,
 			"resource": "stone",
@@ -10235,6 +11372,7 @@
 	[
 		[82, 24],
 		{
+			"id": 15315,
 			"level": 375,
 			"quantity": 25,
 			"resource": "stone",
@@ -10244,6 +11382,7 @@
 	[
 		[82, 31],
 		{
+			"id": 15316,
 			"level": 375,
 			"quantity": 25,
 			"resource": "stone",
@@ -10253,6 +11392,7 @@
 	[
 		[82, 82],
 		{
+			"id": 15317,
 			"level": 395,
 			"quantity": 25,
 			"resource": "fish",
@@ -10262,6 +11402,7 @@
 	[
 		[82, 92],
 		{
+			"id": 15318,
 			"level": 385,
 			"quantity": 25,
 			"resource": "fish",
@@ -10271,6 +11412,7 @@
 	[
 		[84, 14],
 		{
+			"id": 15319,
 			"level": 385,
 			"quantity": 25,
 			"resource": "stone",
@@ -10280,6 +11422,7 @@
 	[
 		[84, 83],
 		{
+			"id": 15320,
 			"level": 395,
 			"quantity": 25,
 			"resource": "fish",
@@ -10289,6 +11432,7 @@
 	[
 		[85, 8],
 		{
+			"id": 15321,
 			"level": 395,
 			"quantity": 25,
 			"resource": "stone",
@@ -10298,6 +11442,7 @@
 	[
 		[85, 17],
 		{
+			"id": 15322,
 			"level": 380,
 			"quantity": 25,
 			"resource": "stone",
@@ -10307,6 +11452,7 @@
 	[
 		[85, 20],
 		{
+			"id": 15323,
 			"level": 385,
 			"quantity": 25,
 			"resource": "stone",
@@ -10316,6 +11462,7 @@
 	[
 		[85, 29],
 		{
+			"id": 15324,
 			"level": 375,
 			"quantity": 25,
 			"resource": "stone",
@@ -10325,6 +11472,7 @@
 	[
 		[86, 27],
 		{
+			"id": 15325,
 			"level": 375,
 			"quantity": 25,
 			"resource": "stone",
@@ -10334,6 +11482,7 @@
 	[
 		[86, 72],
 		{
+			"id": 15326,
 			"level": 385,
 			"quantity": 25,
 			"resource": "fish",
@@ -10343,6 +11492,7 @@
 	[
 		[86, 86],
 		{
+			"id": 15327,
 			"level": 395,
 			"quantity": 25,
 			"resource": "fish",
@@ -10352,6 +11502,7 @@
 	[
 		[86, 90],
 		{
+			"id": 15328,
 			"level": 385,
 			"quantity": 25,
 			"resource": "fish",
@@ -10361,6 +11512,7 @@
 	[
 		[86, 91],
 		{
+			"id": 15329,
 			"level": 385,
 			"quantity": 25,
 			"resource": "fish",
@@ -10370,6 +11522,7 @@
 	[
 		[87, 11],
 		{
+			"id": 15330,
 			"level": 395,
 			"quantity": 25,
 			"resource": "stone",
@@ -10379,6 +11532,7 @@
 	[
 		[87, 12],
 		{
+			"id": 15331,
 			"level": 385,
 			"quantity": 25,
 			"resource": "stone",
@@ -10388,6 +11542,7 @@
 	[
 		[87, 22],
 		{
+			"id": 15332,
 			"level": 380,
 			"quantity": 25,
 			"resource": "stone",
@@ -10397,6 +11552,7 @@
 	[
 		[87, 73],
 		{
+			"id": 15333,
 			"level": 390,
 			"quantity": 25,
 			"resource": "fish",
@@ -10406,6 +11562,7 @@
 	[
 		[87, 89],
 		{
+			"id": 15334,
 			"level": 385,
 			"quantity": 25,
 			"resource": "fish",
@@ -10415,6 +11572,7 @@
 	[
 		[88, 5],
 		{
+			"id": 15335,
 			"level": 395,
 			"quantity": 25,
 			"resource": "stone",
@@ -10424,6 +11582,7 @@
 	[
 		[89, 17],
 		{
+			"id": 15336,
 			"level": 385,
 			"quantity": 25,
 			"resource": "stone",
@@ -10433,6 +11592,7 @@
 	[
 		[90, 10],
 		{
+			"id": 15337,
 			"level": 390,
 			"quantity": 25,
 			"resource": "stone",
@@ -10442,6 +11602,7 @@
 	[
 		[90, 13],
 		{
+			"id": 15338,
 			"level": 395,
 			"quantity": 25,
 			"resource": "stone",
@@ -10451,6 +11612,7 @@
 	[
 		[90, 22],
 		{
+			"id": 15339,
 			"level": 385,
 			"quantity": 25,
 			"resource": "stone",
@@ -10460,6 +11622,7 @@
 	[
 		[90, 26],
 		{
+			"id": 15340,
 			"level": 380,
 			"quantity": 25,
 			"resource": "stone",
@@ -10469,6 +11632,7 @@
 	[
 		[90, 73],
 		{
+			"id": 15341,
 			"level": 385,
 			"quantity": 25,
 			"resource": "fish",
@@ -10478,6 +11642,7 @@
 	[
 		[90, 87],
 		{
+			"id": 15342,
 			"level": 385,
 			"quantity": 25,
 			"resource": "fish",
@@ -10487,6 +11652,7 @@
 	[
 		[91, 18],
 		{
+			"id": 15343,
 			"level": 385,
 			"quantity": 25,
 			"resource": "stone",
@@ -10496,6 +11662,7 @@
 	[
 		[91, 76],
 		{
+			"id": 15344,
 			"level": 390,
 			"quantity": 25,
 			"resource": "fish",
@@ -10505,6 +11672,7 @@
 	[
 		[92, 7],
 		{
+			"id": 15345,
 			"level": 395,
 			"quantity": 25,
 			"resource": "stone",
@@ -10514,6 +11682,7 @@
 	[
 		[92, 79],
 		{
+			"id": 15346,
 			"level": 390,
 			"quantity": 25,
 			"resource": "fish",
@@ -10523,6 +11692,7 @@
 	[
 		[92, 84],
 		{
+			"id": 15347,
 			"level": 385,
 			"quantity": 25,
 			"resource": "fish",
@@ -10532,6 +11702,7 @@
 	[
 		[92, 86],
 		{
+			"id": 15348,
 			"level": 390,
 			"quantity": 25,
 			"resource": "fish",
@@ -10541,6 +11712,7 @@
 	[
 		[93, 3],
 		{
+			"id": 15349,
 			"level": 395,
 			"quantity": 25,
 			"resource": "stone",
@@ -10550,6 +11722,7 @@
 	[
 		[94, 14],
 		{
+			"id": 15350,
 			"level": 390,
 			"quantity": 25,
 			"resource": "stone",
@@ -10559,6 +11732,7 @@
 	[
 		[94, 17],
 		{
+			"id": 15351,
 			"level": 390,
 			"quantity": 25,
 			"resource": "stone",
@@ -10568,6 +11742,7 @@
 	[
 		[94, 80],
 		{
+			"id": 15352,
 			"level": 390,
 			"quantity": 25,
 			"resource": "fish",
@@ -10577,6 +11752,7 @@
 	[
 		[94, 83],
 		{
+			"id": 15353,
 			"level": 390,
 			"quantity": 25,
 			"resource": "fish",
@@ -10586,6 +11762,7 @@
 	[
 		[95, 11],
 		{
+			"id": 15354,
 			"level": 390,
 			"quantity": 25,
 			"resource": "stone",
@@ -10595,6 +11772,7 @@
 	[
 		[96, 7],
 		{
+			"id": 15355,
 			"level": 395,
 			"quantity": 25,
 			"resource": "stone",
@@ -10604,6 +11782,7 @@
 	[
 		[98, 10],
 		{
+			"id": 15356,
 			"level": 390,
 			"quantity": 25,
 			"resource": "stone",
@@ -10613,6 +11792,7 @@
 	[
 		[98, 14],
 		{
+			"id": 15357,
 			"level": 390,
 			"quantity": 25,
 			"resource": "stone",
