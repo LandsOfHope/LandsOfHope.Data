@@ -2,6 +2,9 @@
 	"$id": "https://data.landsofhope.com/schemas/v1/maps/map-resource.json",
 	"additionalProperties": false,
 	"properties": {
+		"id": {
+			"type": "integer"
+		},
 		"level": {
 			"type": "integer"
 		},
@@ -15,7 +18,7 @@
 			"$ref": "/schemas/v0/duration.json"
 		}
 	},
-	"required": ["resource", "respawn", "level", "quantity"],
+	"required": ["id", "resource", "respawn", "level", "quantity"],
 	"title": "MapResource",
 	"type": "object"
 }
