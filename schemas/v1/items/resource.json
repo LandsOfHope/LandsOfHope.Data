@@ -30,9 +30,6 @@
 			"minItems": 1,
 			"type": "array"
 		},
-		"material": {
-			"$ref": "/schemas/v1/items-materials-id.gen.json"
-		},
 		"skill": {
 			"$ref": "/schemas/v1/skills-id.gen.json"
 		},
@@ -44,7 +41,7 @@
 			"type": "array"
 		}
 	},
-	"required": ["$type", "id", "skill", "tools", "items", "material", "image"],
+	"required": ["$type", "id", "skill", "tools", "items", "image"],
 	"title": "Resource",
 	"type": "object"
 }

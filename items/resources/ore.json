@@ -10,7 +10,6 @@
 	"id": "ore",
 	"image": "ore",
 	"items": ["ore"],
-	"material": "metal",
 	"skill": "mining",
 	"tools": ["pickaxe", "razarks-pickaxe"]
 }
