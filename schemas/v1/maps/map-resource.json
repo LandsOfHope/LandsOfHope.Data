@@ -12,7 +12,14 @@
 			"type": "integer"
 		},
 		"resource": {
-			"$ref": "/schemas/v1/items-resources-id.gen.json"
+			"oneOf": [
+				{
+					"$ref": "/schemas/v1/items-resources-id.gen.json"
+				},
+				{
+					"$ref": "/schemas/v1/items/resource.json"
+				}
+			]
 		},
 		"respawn": {
 			"$ref": "/schemas/v0/duration.json"
