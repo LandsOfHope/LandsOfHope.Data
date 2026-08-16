@@ -6,6 +6,9 @@
 		"$type": {
 			"const": "/v1/characters/queue/deltas/character-queue-delta"
 		},
+		"status": {
+			"$ref": "/schemas/v1/characters/queue/character-queue-status.json"
+		},
 		"added": {
 			"items": {
 				"$ref": "/schemas/v1/characters/queue/character-queue-item.json"
@@ -38,7 +41,7 @@
 			"type": "array"
 		}
 	},
-	"required": ["$type"],
+	"required": ["$type", "status"],
 	"title": "CharacterQueueDelta",
 	"type": "object"
 }

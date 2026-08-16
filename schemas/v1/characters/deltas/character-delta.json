@@ -20,6 +20,9 @@
 		},
 		"skills": {
 			"$ref": "/schemas/v1/characters/deltas/character-skills-delta.json"
+		},
+		"queue": {
+			"$ref": "/schemas/v1/characters/queue/deltas/character-queue-delta.json"
 		}
 	},
 	"required": ["$type"],
