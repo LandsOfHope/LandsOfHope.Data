@@ -3,6 +3,8 @@
 		"$type": "/v1/characters/character-skill",
 		"bonus": {
 			"item": 1,
+			"profession": 0,
+			"race": 0,
 			"spell": 1
 		},
 		"limit": 5,

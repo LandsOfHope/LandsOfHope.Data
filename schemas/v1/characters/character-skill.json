@@ -11,11 +11,17 @@
 				"item": {
 					"type": "number"
 				},
+				"profession": {
+					"type": "number"
+				},
+				"race": {
+					"type": "number"
+				},
 				"spell": {
 					"type": "number"
 				}
 			},
-			"required": ["item", "spell"],
+			"required": ["item", "spell", "race", "profession"],
 			"type": "object"
 		},
 		"limit": {

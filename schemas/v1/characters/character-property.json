@@ -14,11 +14,17 @@
 				"modifier": {
 					"type": "number"
 				},
+				"profession": {
+					"type": "number"
+				},
+				"race": {
+					"type": "number"
+				},
 				"spell": {
 					"type": "number"
 				}
 			},
-			"required": ["item", "spell", "modifier"],
+			"required": ["item", "spell", "race", "profession", "modifier"],
 			"type": "object"
 		},
 		"limit": {
