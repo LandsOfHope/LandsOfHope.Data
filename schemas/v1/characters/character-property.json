@@ -34,9 +34,13 @@
 		},
 		"natural": {
 			"type": "integer"
+		},
+		"total": {
+			"minimum": 0,
+			"type": "integer"
 		}
 	},
-	"required": ["$type", "natural", "bonus", "limit"],
+	"required": ["$type", "natural", "bonus", "limit", "total"],
 	"title": "CharacterProperty",
 	"type": "object"
 }

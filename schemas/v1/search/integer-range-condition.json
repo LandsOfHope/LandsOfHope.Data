@@ -1,0 +1,22 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/search/integer-range-condition.json",
+	"oneOf": [
+		{
+			"additionalProperties": false,
+			"minProperties": 1,
+			"properties": {
+				"max": {
+					"type": "integer"
+				},
+				"min": {
+					"type": "integer"
+				}
+			},
+			"type": "object"
+		},
+		{
+			"type": "integer"
+		}
+	],
+	"title": "IntegerRangeCondition"
+}

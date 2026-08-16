@@ -1,0 +1,22 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-skills-condition.json",
+	"additionalProperties": false,
+	"properties": {
+		"skills": {
+			"additionalProperties": false,
+			"minProperties": 1,
+			"patternProperties": {
+				".*": {
+					"$ref": "/schemas/v1/characters/search/character-search-skill-condition.json"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/skills-id.gen.json"
+			},
+			"type": "object"
+		}
+	},
+	"required": ["skills"],
+	"title": "CharacterSearchSkillsCondition",
+	"type": "object"
+}

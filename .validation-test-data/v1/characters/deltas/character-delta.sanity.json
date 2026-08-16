@@ -50,7 +50,8 @@
 						"spell": 0
 					},
 					"limit": 5000,
-					"natural": 5
+					"natural": 5,
+					"total": 5
 				}
 			]
 		],
@@ -67,7 +68,8 @@
 							"spell": 0
 						},
 						"limit": 5000,
-						"natural": 5000
+						"natural": 5000,
+						"total": 5000
 					},
 					"old": {
 						"$type": "/v1/characters/character-skill",
@@ -76,7 +78,8 @@
 							"spell": 0
 						},
 						"limit": 5000,
-						"natural": 4999
+						"natural": 4999,
+						"total": 4999
 					}
 				}
 			]

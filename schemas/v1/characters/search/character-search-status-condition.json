@@ -1,0 +1,15 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-status-condition.json",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"properties": {
+		"dead": {
+			"type": "boolean"
+		},
+		"jailed": {
+			"type": "boolean"
+		}
+	},
+	"title": "CharacterSearchStatusCondition",
+	"type": "object"
+}

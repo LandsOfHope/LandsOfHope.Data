@@ -7,28 +7,10 @@
 			"$ref": "/schemas/v1/allegiances-id.gen.json"
 		},
 		"level": {
-			"oneOf": [
-				{
-					"maximum": 1000,
-					"minimum": 1,
-					"type": "integer"
-				},
-				{
-					"$ref": "/schemas/v1/characters/search/character-search-level-range-condition.json"
-				}
-			]
+			"$ref": "/schemas/v1/search/integer-range-condition.json"
 		},
 		"name": {
-			"additionalProperties": false,
-			"minProperties": 1,
-			"properties": {
-				"contains": {
-					"minLength": 3,
-					"type": "string"
-				}
-			},
-			"title": "CharacterSearchNameContainsCondition",
-			"type": "object"
+			"$ref": "/schemas/v1/search/string-match-condition.json"
 		},
 		"race": {
 			"$ref": "/schemas/v1/races-id.gen.json"

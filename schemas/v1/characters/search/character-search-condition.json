@@ -11,6 +11,12 @@
 			"$ref": "/schemas/v1/characters/search/character-search-is-player-character-condition.json"
 		},
 		{
+			"$ref": "/schemas/v1/characters/search/character-search-properties-condition.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/search/character-search-skills-condition.json"
+		},
+		{
 			"$ref": "/schemas/v1/characters/search/character-search-property-match-condition.json"
 		}
 	],

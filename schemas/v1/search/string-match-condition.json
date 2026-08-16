@@ -1,0 +1,24 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/search/string-match-condition.json",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"properties": {
+		"contains": {
+			"minLength": 3,
+			"type": "string"
+		},
+		"endsWith": {
+			"minLength": 3,
+			"type": "string"
+		},
+		"length": {
+			"$ref": "/schemas/v1/search/integer-range-condition.json"
+		},
+		"startsWith": {
+			"minLength": 3,
+			"type": "string"
+		}
+	},
+	"title": "SearchStringMatchCondition",
+	"type": "object"
+}

@@ -18,6 +18,9 @@
 		},
 		"id": {
 			"$ref": "/schemas/v1/characters/character-id.json"
+		},
+		"status": {
+			"$ref": "/schemas/v1/characters/search/character-search-status-condition.json"
 		}
 	},
 	"title": "CharacterSearchPropertyMatchCondition",

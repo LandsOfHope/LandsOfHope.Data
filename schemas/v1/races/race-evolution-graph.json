@@ -16,30 +16,10 @@
 						"$ref": "/schemas/v1/races-id.gen.json"
 					},
 					{
-						"additionalProperties": false,
-						"properties": {
-							"level": {
-								"minimum": 0,
-								"type": "integer"
-							},
-							"properties": {
-								"additionalProperties": false,
-								"patternProperties": {
-									".*": {
-										"minimum": 0,
-										"type": "integer"
-									}
-								},
-								"propertyNames": {
-									"$ref": "/schemas/v1/characters/character-property-name.json"
-								},
-								"type": "object"
-							}
-						},
-						"required": ["level"],
-						"type": "object"
+						"$ref": "/schemas/v1/characters/search/character-search-condition.json"
 					}
 				],
+				"maxItems": 3,
 				"minItems": 3,
 				"type": "array"
 			},

@@ -1,0 +1,22 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-properties-condition.json",
+	"additionalProperties": false,
+	"properties": {
+		"properties": {
+			"additionalProperties": false,
+			"minProperties": 1,
+			"patternProperties": {
+				".*": {
+					"$ref": "/schemas/v1/characters/search/character-search-property-condition.json"
+				}
+			},
+			"propertyNames": {
+				"$ref": "/schemas/v1/characters/character-property-name.json"
+			},
+			"type": "object"
+		}
+	},
+	"required": ["properties"],
+	"title": "CharacterSearchPropertiesCondition",
+	"type": "object"
+}

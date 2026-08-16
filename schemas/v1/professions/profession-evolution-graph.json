@@ -14,9 +14,13 @@
 					},
 					{
 						"$ref": "/schemas/v1/professions-id.gen.json"
+					},
+					{
+						"$ref": "/schemas/v1/characters/search/character-search-condition.json"
 					}
 				],
-				"minItems": 2,
+				"maxItems": 3,
+				"minItems": 3,
 				"type": "array"
 			},
 			"type": "array"

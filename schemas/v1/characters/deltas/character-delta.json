@@ -15,14 +15,14 @@
 		"experience": {
 			"$ref": "/schemas/v1/characters/deltas/character-experience-delta.json"
 		},
+		"queue": {
+			"$ref": "/schemas/v1/characters/queue/deltas/character-queue-delta.json"
+		},
 		"recipes": {
 			"$ref": "/schemas/v1/characters/deltas/character-recipes-delta.json"
 		},
 		"skills": {
 			"$ref": "/schemas/v1/characters/deltas/character-skills-delta.json"
-		},
-		"queue": {
-			"$ref": "/schemas/v1/characters/queue/deltas/character-queue-delta.json"
 		}
 	},
 	"required": ["$type"],

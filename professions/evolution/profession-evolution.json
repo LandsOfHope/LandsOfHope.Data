@@ -1,114 +1,1927 @@
 {
 	"$type": "/v1/professions/profession-evolution-graph",
 	"edges": [
-		["archer", "scout"],
-		["archer", "trooper"],
-		["archer", "tracker"],
-
-		["scout", "beastmaster"],
-		["beastmaster", "ranger"],
-
-		["trooper", "sharpshooter"],
-		["sharpshooter", "bombadier"],
-
-		["tracker", "hunter"],
-		["hunter", "beastlord"],
-
-		["caster", "invoker"],
-		["caster", "mage"],
-		["caster", "shaman"],
-
-		["invoker", "summoner"],
-		["summoner", "warlock"],
-
-		["mage", "elementalist"],
-		["elementalist", "wizard"],
-
-		["shaman", "necromancer"],
-		["necromancer", "dark-lord"],
-
-		["fighter", "squire"],
-		["fighter", "warrior"],
-		["fighter", "grunt"],
-
-		["squire", "knight"],
-		["knight", "paladin"],
-
-		["warrior", "berserker"],
-		["berserker", "warlord"],
-
-		["grunt", "soldier"],
-		["soldier", "veteran"],
-
-		["healer", "cleric"],
-		["healer", "friar"],
-		["healer", "protector"],
-
-		["cleric", "priest"],
-		["priest", "arch-priest"],
-
-		["friar", "monk"],
-		["monk", "abbot"],
-
-		["protector", "templar"],
-		["templar", "crusader"],
-
-		["rogue", "pickpocket"],
-		["rogue", "shadowstalker"],
-		["rogue", "trickster"],
-
-		["pickpocket", "thief"],
-		["thief", "crimelord"],
-
-		["shadowstalker", "assassin"],
-		["assassin", "killer"],
-
-		["trickster", "deceiver"],
-		["deceiver", "bard"],
-
-		["hermit", "diviner"],
-		["diviner", "warden"],
-		["warden", "druid"],
-
-		["salvager", "adventurer"],
-		["adventurer", "treasure-hunter"],
-		["treasure-hunter", "archaeologist"],
-
-		["hag", "enchantress"],
-		["enchantress", "temptress"],
-		["temptress", "witch"],
-
-		["rancher", "spy"],
-		["rancher", "conscript"],
-
-		["spy", "denshi"],
-		["denshi", "ninja"],
-
-		["conscript", "samurai"],
-		["samurai", "shogun"],
-
-		["stargazer", "stardreamer"],
-		["stardreamer", "starchaser"],
-		["starchaser", "star-catcher"],
-
-		["league-privateer", "buccaneer"],
-		["buccaneer", "raider"],
-		["raider", "pirate"],
-
-		["navy-privateer", "sailor"],
-		["sailor", "swashbuckler"],
-		["swashbuckler", "pirate-hunter"],
-
-		["apprentice", "novice"],
-		["novice", "adept"],
-		["adept", "master"],
-
-		["animator", "shaper"],
-		["shaper", "manipulator"],
-		["manipulator", "geomancer"],
-
-		["inventor", "junker"],
-		["junker", "clockwork"],
-		["clockwork", "war-machine"]
+		[
+			"adept",
+			"master",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"artisan": {
+								"total": {
+									"min": 3000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"adventurer",
+			"treasure-hunter",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"deconstruction": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"animator",
+			"shaper",
+			{
+				"appearance": {
+					"level": {
+						"min": 50
+					}
+				}
+			}
+		],
+		[
+			"apprentice",
+			"novice",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"artisan": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"archer",
+			"scout",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"bows": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"archer",
+			"tracker",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"bows": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"archer",
+			"trooper",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"bows": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"assassin",
+			"killer",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"shadow-strike": {
+								"total": {
+									"min": 3250
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"beastmaster",
+			"ranger",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"beastmastery": {
+								"total": {
+									"min": 3000
+								}
+							},
+							"bows": {
+								"total": {
+									"min": 2000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"berserker",
+			"warlord",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"two-handed-axes": {
+								"total": {
+									"min": 1500
+								}
+							},
+							"two-handed-maces": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"buccaneer",
+			"raider",
+			{
+				"appearance": {
+					"level": {
+						"min": 350
+					}
+				}
+			}
+		],
+		[
+			"caster",
+			"invoker",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"mystical-magic": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"caster",
+			"mage",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"mystical-magic": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"caster",
+			"shaman",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"mystical-magic": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"cleric",
+			"priest",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"healing-magic": {
+								"total": {
+									"min": 1000
+								}
+							},
+							"maces": {
+								"total": {
+									"min": 500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"clockwork",
+			"war-machine",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"bolts-over-brains": {
+								"total": {
+									"min": 3000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"conscript",
+			"samurai",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"swords": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"deceiver",
+			"bard",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"deception": {
+								"total": {
+									"min": 2000
+								}
+							},
+							"disguise": {
+								"total": {
+									"min": 2000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"denshi",
+			"ninja",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"swords": {
+								"total": {
+									"min": 3000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"diviner",
+			"warden",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"warding": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"elementalist",
+			"wizard",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"cold-magic": {
+								"total": {
+									"min": 2000
+								}
+							},
+							"fire-magic": {
+								"total": {
+									"min": 2000
+								}
+							},
+							"staves": {
+								"total": {
+									"min": 1000
+								}
+							},
+							"water-magic": {
+								"total": {
+									"min": 2000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"enchantress",
+			"temptress",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"enchanted-weapons": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"fighter",
+			"grunt",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"dual-wielding": {
+								"total": {
+									"min": 5
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"fighter",
+			"squire",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"swords": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"fighter",
+			"warrior",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"dual-wielding": {
+								"total": {
+									"min": 5
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"flesh-dealer",
+			"mutilator",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"blood-over-beauty": {
+								"total": {
+									"min": 3000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"friar",
+			"monk",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"healing-magic": {
+								"total": {
+									"min": 750
+								}
+							},
+							"two-handed-staves": {
+								"total": {
+									"min": 750
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"grunt",
+			"soldier",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"dual-wielding": {
+								"total": {
+									"min": 5
+								}
+							},
+							"hand-guns": {
+								"total": {
+									"min": 1000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"hag",
+			"enchantress",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"enchanted-weapons": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"healer",
+			"cleric",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"healing-magic": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"healer",
+			"friar",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"healing-magic": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"healer",
+			"protector",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"healing-magic": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"hermit",
+			"diviner",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"nature-magic": {
+								"total": {
+									"min": 250
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"hunter",
+			"beastlord",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"track-beasts": {
+								"total": {
+									"min": 3000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"inventor",
+			"junker",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"augmenting": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"inventor",
+			"stitchworker",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"augmenting": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"invoker",
+			"summoner",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"invocation": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"junker",
+			"clockwork",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"bolts-over-brains": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"knight",
+			"paladin",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"dual-wielding": {
+								"total": {
+									"min": 5
+								}
+							},
+							"shields": {
+								"total": {
+									"min": 2000
+								}
+							},
+							"swords": {
+								"total": {
+									"min": 2000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"league-privateer",
+			"buccaneer",
+			{
+				"appearance": {
+					"level": {
+						"min": 50
+					}
+				}
+			}
+		],
+		[
+			"mage",
+			"elementalist",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"defensive-magic": {
+								"total": {
+									"min": 750
+								}
+							},
+							"mystical-magic": {
+								"total": {
+									"min": 750
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"manipulator",
+			"geomancer",
+			{
+				"appearance": {
+					"level": {
+						"min": 650
+					}
+				}
+			}
+		],
+		[
+			"monk",
+			"abbot",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"two-handed-staves": {
+								"total": {
+									"min": 3000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"navy-privateer",
+			"sailor",
+			{
+				"appearance": {
+					"level": {
+						"min": 50
+					}
+				}
+			}
+		],
+		[
+			"necromancer",
+			"dark-lord",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"necromancy": {
+								"total": {
+									"min": 3250
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"novice",
+			"adept",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"artisan": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"pickpocket",
+			"thief",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"stealing": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"priest",
+			"arch-priest",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"healing-magic": {
+								"total": {
+									"min": 2000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"protector",
+			"templar",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"healing-magic": {
+								"total": {
+									"min": 750
+								}
+							},
+							"protection": {
+								"total": {
+									"min": 750
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"raider",
+			"pirate",
+			{
+				"appearance": {
+					"level": {
+						"min": 650
+					}
+				}
+			}
+		],
+		[
+			"rancher",
+			"conscript",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"farming": {
+								"total": {
+									"min": 250
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"rancher",
+			"spy",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"farming": {
+								"total": {
+									"min": 250
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"rogue",
+			"pickpocket",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"stealth": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"rogue",
+			"shadowstalker",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"stealth": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"rogue",
+			"trickster",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"stealth": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"sailor",
+			"swashbuckler",
+			{
+				"appearance": {
+					"level": {
+						"min": 350
+					}
+				}
+			}
+		],
+		[
+			"salvager",
+			"adventurer",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"deconstruction": {
+								"total": {
+									"min": 250
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"samurai",
+			"shogun",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"two-handed-swords": {
+								"total": {
+									"min": 3000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"scout",
+			"beastmaster",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"bows": {
+								"total": {
+									"min": 1500
+								}
+							},
+							"detect-hidden": {
+								"total": {
+									"min": 200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"shadowstalker",
+			"assassin",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"dual-wielding": {
+								"total": {
+									"min": 5
+								}
+							},
+							"stealth": {
+								"total": {
+									"min": 1000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"shaman",
+			"necromancer",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"spirit-magic": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"shaper",
+			"manipulator",
+			{
+				"appearance": {
+					"level": {
+						"min": 350
+					}
+				}
+			}
+		],
+		[
+			"sharpshooter",
+			"bombadier",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"two-handed-guns": {
+								"total": {
+									"min": 3250
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"soldier",
+			"veteran",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"dual-wielding": {
+								"total": {
+									"min": 5
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"spy",
+			"denshi",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"stealth": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"squire",
+			"knight",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"swords": {
+								"total": {
+									"min": 1000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"starchaser",
+			"star-catcher",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"celestial-magic": {
+								"total": {
+									"min": 2000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"stardreamer",
+			"starchaser",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"celestial-magic": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"stargazer",
+			"stardreamer",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 50
+							}
+						}
+					},
+					{
+						"skills": {
+							"celestial-magic": {
+								"total": {
+									"min": 225
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"stitchworker",
+			"flesh-dealer",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"blood-over-beauty": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"summoner",
+			"warlock",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"summoning": {
+								"total": {
+									"min": 3250
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"swashbuckler",
+			"pirate-hunter",
+			{
+				"appearance": {
+					"level": {
+						"min": 650
+					}
+				}
+			}
+		],
+		[
+			"templar",
+			"crusader",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"pole-weapons": {
+								"total": {
+									"min": 3000
+								}
+							},
+							"protection": {
+								"total": {
+									"min": 3000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"temptress",
+			"witch",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"enchanted-weapons": {
+								"total": {
+									"min": 3200
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"thief",
+			"crimelord",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"stealing": {
+								"total": {
+									"min": 3000
+								}
+							},
+							"stealth": {
+								"total": {
+									"min": 3000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"tracker",
+			"hunter",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"bows": {
+								"total": {
+									"min": 1500
+								}
+							},
+							"track-beasts": {
+								"total": {
+									"min": 1000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"treasure-hunter",
+			"archaeologist",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"deconstruction": {
+								"total": {
+									"min": 2500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"trickster",
+			"deceiver",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"deception": {
+								"total": {
+									"min": 1000
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"trooper",
+			"sharpshooter",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"hand-guns": {
+								"total": {
+									"min": 1500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"warden",
+			"druid",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 650
+							}
+						}
+					},
+					{
+						"skills": {
+							"botany": {
+								"total": {
+									"min": 2500
+								}
+							}
+						}
+					}
+				]
+			}
+		],
+		[
+			"warrior",
+			"berserker",
+			{
+				"and": [
+					{
+						"appearance": {
+							"level": {
+								"min": 350
+							}
+						}
+					},
+					{
+						"skills": {
+							"axes": {
+								"total": {
+									"min": 1000
+								}
+							},
+							"dual-wielding": {
+								"total": {
+									"min": 5
+								}
+							}
+						}
+					}
+				]
+			}
+		]
 	]
 }

@@ -1,0 +1,17 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/search/character-search-skill-condition.json",
+	"minProperties": 1,
+	"properties": {
+		"active": {
+			"type": "boolean"
+		},
+		"natural": {
+			"$ref": "/schemas/v1/search/integer-range-condition.json"
+		},
+		"total": {
+			"$ref": "/schemas/v1/search/integer-range-condition.json"
+		}
+	},
+	"title": "CharacterSearchSkillCondition",
+	"type": "object"
+}

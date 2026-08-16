@@ -6,9 +6,6 @@
 		"$type": {
 			"const": "/v1/characters/queue/deltas/character-queue-delta"
 		},
-		"status": {
-			"$ref": "/schemas/v1/characters/queue/character-queue-status.json"
-		},
 		"added": {
 			"items": {
 				"$ref": "/schemas/v1/characters/queue/character-queue-item.json"
@@ -22,6 +19,9 @@
 			},
 			"minItems": 1,
 			"type": "array"
+		},
+		"status": {
+			"$ref": "/schemas/v1/characters/queue/character-queue-status.json"
 		},
 		"updated": {
 			"items": {
