@@ -1,0 +1,47 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/deltas/character-properties-delta.json",
+	"additionalProperties": false,
+	"minProperties": 2,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/deltas/character-properties-delta"
+		},
+		"added": {
+			"items": {
+				"items": [
+					{
+						"$ref": "/schemas/v1/characters/character-property-name.json"
+					},
+					{
+						"$ref": "/schemas/v1/characters/character-property.json"
+					}
+				],
+				"maxItems": 2,
+				"minItems": 2,
+				"type": "array"
+			},
+			"minItems": 1,
+			"type": "array"
+		},
+		"updated": {
+			"items": {
+				"items": [
+					{
+						"$ref": "/schemas/v1/characters/character-property-name.json"
+					},
+					{
+						"$ref": "/schemas/v1/characters/deltas/character-property-delta.json"
+					}
+				],
+				"maxItems": 2,
+				"minItems": 2,
+				"type": "array"
+			},
+			"minItems": 1,
+			"type": "array"
+		}
+	},
+	"required": ["$type"],
+	"title": "CharacterPropertiesDelta",
+	"type": "object"
+}

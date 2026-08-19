@@ -1,0 +1,18 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/deltas/character-property-delta.json",
+	"additionalProperties": false,
+	"properties": {
+		"$type": {
+			"const": "/v1/characters/deltas/character-property-delta"
+		},
+		"new": {
+			"$ref": "/schemas/v1/characters/character-property.json"
+		},
+		"old": {
+			"$ref": "/schemas/v1/characters/character-property.json"
+		}
+	},
+	"required": ["$type", "new"],
+	"title": "CharacterPropertyDelta",
+	"type": "object"
+}

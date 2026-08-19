@@ -15,6 +15,9 @@
 		"experience": {
 			"$ref": "/schemas/v1/characters/deltas/character-experience-delta.json"
 		},
+		"properties": {
+			"$ref": "/schemas/v1/characters/deltas/character-properties-delta.json"
+		},
 		"queue": {
 			"$ref": "/schemas/v1/characters/queue/deltas/character-queue-delta.json"
 		},
