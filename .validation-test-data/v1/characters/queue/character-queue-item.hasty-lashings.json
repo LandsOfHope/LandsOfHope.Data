@@ -7,7 +7,7 @@
 	"id": 81812,
 	"level": 1,
 	"makes": {
-		"$type": "/v1/characters/queue/character-queue-product-recipe",
+		"$type": "/v1/characters/queue/products/character-queue-product-recipe",
 		"recipe": "seamanship/hasty-lashings"
 	},
 	"quantity": 1,

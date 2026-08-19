@@ -1,0 +1,18 @@
+{
+	"$id": "https://data.landsofhope.com/schemas/v1/characters/queue/products/character-queue-item-product.json",
+	"oneOf": [
+		{
+			"$ref": "/schemas/v1/characters/queue/products/character-queue-product-recipe.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/queue/products/character-queue-product-pet.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/queue/products/character-queue-product-deconstruction.json"
+		},
+		{
+			"$ref": "/schemas/v1/characters/queue/products/character-queue-product-item.json"
+		}
+	],
+	"title": "CharacterQueueItemProduct"
+}

@@ -24,21 +24,7 @@
 			"type": "integer"
 		},
 		"makes": {
-			"oneOf": [
-				{
-					"$ref": "/schemas/v1/characters/queue/character-queue-product-recipe.json"
-				},
-				{
-					"$ref": "/schemas/v1/characters/queue/character-queue-product-pet.json"
-				},
-				{
-					"$ref": "/schemas/v1/characters/queue/character-queue-product-deconstruction.json"
-				},
-				{
-					"$ref": "/schemas/v1/characters/queue/character-queue-product-item.json"
-				}
-			],
-			"title": "QueueItemProduct"
+			"$ref": "/schemas/v1/characters/queue/products/character-queue-item-product.json"
 		},
 		"quantity": {
 			"type": "integer"
