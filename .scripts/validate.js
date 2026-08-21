@@ -4,15 +4,23 @@ import { promisify } from 'node:util';
 const exec = promisify(execNonPromise);
 
 import {
+	mkdtemp as _mkdtemp,
 	readdir as _readdir,
 	readFile as _readFile,
+	rm as _rm,
 	existsSync,
+	writeFile as _writeFile,
 } from 'node:fs';
-import { basename, dirname } from 'node:path';
+import { basename, dirname, join } from 'node:path';
+import { tmpdir } from 'node:os';
 import { sync } from 'glob';
+import { applyPatch } from 'fast-json-patch';
 
 const readFile = promisify(_readFile);
 const readdir = promisify(_readdir);
+const mkdtemp = promisify(_mkdtemp);
+const rm = promisify(_rm);
+const writeFile = promisify(_writeFile);
 
 const schemas = sync('schemas/v*/**/*.json');
 const schemasWithOptionalTypeSpecifier = [
@@ -165,11 +173,53 @@ const validateTestData = (path) =>
 		`.validation-test-data/${path}.!(negative)*.json`,
 	);
 
-const validateNegativeTestData = (path) =>
-	failAll(
-		`schemas/${path}.json`,
-		`.validation-test-data/${path}.negative.*.json`,
-	);
+const validateNegativeTestData = async (path) => {
+	const schema = `schemas/${path}.json`;
+	const fileGlob = `.validation-test-data/${path}.negative.*.json`;
+	const tmpSchemas = schemas
+		.filter((value) => value !== schema)
+		.map(
+			(value) =>
+				`-r "${dirname(value)}/!(${basename(schema).replace('.json', '')}).json"`,
+		)
+		.filter((v, i, arr) => arr.indexOf(v) === i);
+	const files = sync(fileGlob).filter((f) => !f.endsWith('.patch.json'));
+	if (files.length === 0)
+		throw Error(`Could not find files matching glob ${fileGlob}`);
+
+	let exitCode = 0;
+	for (const file of files) {
+		const failResult = await exec(
+			`bun ${import.meta.dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${file}" ${tmpSchemas.join(' ')} --invalid`,
+		);
+		exitCode |= failResult.exitCode;
+
+		const patchFile = file.replace('.json', '.patch.json');
+		if (!existsSync(patchFile)) {
+			console.error(`Negative test ${file} is missing its patch file ${patchFile}`);
+			exitCode |= 1;
+		} else {
+			const testData = JSON.parse(await readFile(file, 'utf-8'));
+			const patchContent = JSON.parse(await readFile(patchFile, 'utf-8'));
+			const patchedResult = applyPatch(testData, patchContent).newDocument;
+			const tmpDir = await mkdtemp(join(tmpdir(), 'validate-'));
+			const tmpFile = join(tmpDir, 'patched.json');
+			await writeFile(tmpFile, JSON.stringify(patchedResult));
+			try {
+				await exec(
+					`bun ${import.meta.dirname}/node_modules/ajv-cli/dist test -c ./.scripts/schema-to-typescript-keywords.cjs -c ajv-formats -s "${schema}" -d "${tmpFile}" ${tmpSchemas.join(' ')} --valid`,
+				);
+			} catch (e) {
+				console.error(
+					`Patch for ${file} did not make the test case valid. The negative test case may be failing for an unexpected reason.\n${e.stderr}`,
+				);
+				exitCode |= 1;
+			}
+			await rm(tmpDir, { recursive: true, force: true });
+		}
+	}
+	return exitCode;
+};
 
 const readSchema = async (schema) => {
 	return [schema, await readFile(schema, { encoding: 'utf-8' })];

@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "",
+		"value": { "$type": "/v1/events/live/protocol/live-pong-event" }
+	}
+]

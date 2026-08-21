@@ -1,0 +1,11 @@
+[
+	{
+		"op": "add",
+		"path": "/additionalArgs",
+		"value": {
+			"$type": "/v1/characters/creation/stargazer-creation-args",
+			"constellation": "fox",
+			"skipTutorial": false
+		}
+	}
+]

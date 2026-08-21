@@ -1,7 +1,9 @@
 {
 	"or": [
 		{
-			"name": { "contains": "who" }
+			"appearance": {
+				"name": { "contains": "who" }
+			}
 		}
 	]
 }

@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "/bonus",
+		"value": { "item": 0, "profession": 0, "race": 0, "spell": 0 }
+	}
+]
