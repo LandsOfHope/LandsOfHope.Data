@@ -24,6 +24,9 @@
 		"recipes": {
 			"$ref": "/schemas/v1/characters/deltas/character-recipes-delta.json"
 		},
+		"inventory": {
+			"$ref": "/schemas/v1/characters/inventory/deltas/inventory-items-delta.json"
+		},
 		"skills": {
 			"$ref": "/schemas/v1/characters/deltas/character-skills-delta.json"
 		}
