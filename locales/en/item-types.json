@@ -335,7 +335,7 @@
 	},
 	"ear-jewelry": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Jewelry"
+		"name": "Jewelry - Ear"
 	},
 	"earring-upgrade": {
 		"desc": "This item can be fitted into a ear slot item to give that item the additional bonuses shown below.",
@@ -421,7 +421,7 @@
 	},
 	"forehead": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Clothing - Forehead"
+		"name": "Armour - Forehead"
 	},
 	"fort-capture-flag": {
 		"name": "Flag"
@@ -440,7 +440,7 @@
 	},
 	"glasses-shades": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Jewelry"
+		"name": "Jewelry - Eyes"
 	},
 	"goblin-gizmo": {
 		"desc": "A strange goblin invention.",
@@ -704,7 +704,7 @@
 	},
 	"neck-clothing": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Clothing - Neck"
+		"name": "Armour - Neck"
 	},
 	"necklace-upgrade": {
 		"desc": "This item can be fitted into a neck slot item to give that item the additional bonuses shown below.",
@@ -724,7 +724,7 @@
 	},
 	"ore": {
 		"desc": "Use this item from your Inventory screen to turn it into ingots (if you have Blacksmithing skill) or find a Forge.",
-		"name": "Raw Materials - Ore"
+		"name": "Raw Materials - Ores"
 	},
 	"other": {
 		"desc": "Use this item from the Inventory screen to see if it does anything.",
@@ -910,11 +910,11 @@
 	},
 	"resource-stone-masonry": {
 		"desc": "This item can be used in a tradeskill, use the relevant crafting screen and if you have enough skill this item will be available as an ingredient.",
-		"name": "Materials"
+		"name": "Raw Materials - Stonemasonry"
 	},
 	"resource-tailoring": {
 		"desc": "This item can be used in a tradeskill, use the relevant crafting screen and if you have enough skill this item will be available as an ingredient.",
-		"name": "Materials"
+		"name": "Raw Materials - Tailoring"
 	},
 	"resource-woodworking": {
 		"desc": "This item can be used in Carpentry, use the relevant crafting screen and if you have enough skill this item will be available as an ingredient.",
@@ -926,7 +926,7 @@
 	},
 	"ring": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Jewelry"
+		"name": "Jewelry - Finger"
 	},
 	"ring-upgrade": {
 		"desc": "This item can be fitted into a finger slot item to give that item the additional bonuses shown below.",
@@ -1035,7 +1035,7 @@
 		"name": "Special Creature"
 	},
 	"special-pirate-resource": {
-		"name": "Raw Resource"
+		"name": "Raw Materials - Pirate"
 	},
 	"special-slot": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
@@ -1093,7 +1093,7 @@
 	},
 	"stomach": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Stomach"
+		"name": "Arrmour - Stomach"
 	},
 	"stone-masonry-result": {
 		"name": "Materials"
@@ -1132,7 +1132,7 @@
 	},
 	"tailoring-thread-material": {
 		"desc": "This item can be used in a tradeskill, use the relevant crafting screen and if you have enough skill this item will be available as an ingredient.",
-		"name": "Materials - Tailoring"
+		"name": "Raw Materials - Tailoring"
 	},
 	"tar-ship-resource": {
 		"name": "Ship Resource - Tar"
@@ -1165,12 +1165,12 @@
 		"name": "Trading Card Folder"
 	},
 	"training-aid-box": {
-		"desc": "Use this item from your Inventory screen to receive some profession based rewards such as weapons, armor and clothing. The rewards you will receive will depend on your profession.",
+		"desc": "Use this item from your Inventory screen to receive some profession based rewards such as weapons, armour and clothing. The rewards you will receive will depend on your profession.",
 		"name": "Training Aid"
 	},
 	"training-aid-plan": {
 		"desc": "Use this item from your Inventory to learn the plan it contains.",
-		"name": "Training Aid"
+		"name": "Training Aid - Plan"
 	},
 	"training-aid-spells": {
 		"desc": "Use this item from your Inventory screen to learn a few spells. The spells you learn are random and based on your current magic skills and strength of the book.",
@@ -1320,6 +1320,6 @@
 	},
 	"wrist-jewelry": {
 		"desc": "Equip this item via the Inventory > Equipment screen. In addition if it has a spell on it you can activate the spell via the Inventory > Spells screen after you have equipped it.",
-		"name": "Jewelry"
+		"name": "Jewelry - Wrist"
 	}
 }
