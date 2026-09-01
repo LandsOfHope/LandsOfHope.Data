@@ -1,17 +1,17 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 3515,
+	"baseValue": 3524,
 	"dpr": 52,
 	"id": "bloody-sword",
-	"image": "sw1",
+	"image": "sw9",
 	"level": {
 		"min": 500
 	},
 	"material": "metal",
-	"skill": "swords",
+	"skill": "two-handed-swords",
 	"skills": {
 		"attack-power": 1
 	},
 	"stackLimit": 1,
-	"type": "1-handed-equipment"
+	"type": "2-handed-equipment"
 }

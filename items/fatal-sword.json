@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
-	"baseValue": 4221,
-	"dpr": 62,
-	"id": "lethal-sword-2",
+	"baseValue": 4926,
+	"dpr": 72,
+	"id": "fatal-sword",
 	"image": "sw9",
 	"level": {
-		"min": 600
+		"min": 700
 	},
 	"material": "metal",
 	"skill": "two-handed-swords",

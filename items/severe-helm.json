@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
-	"armorType": "plate",
-	"baseValue": 4221,
-	"id": "wicked-helmet",
-	"image": "2383",
+	"armorType": "mail",
+	"baseValue": 5623,
+	"id": "severe-helm",
+	"image": "2659",
 	"level": {
-		"min": 600
+		"min": 800
 	},
 	"material": "metal",
 	"skills": {

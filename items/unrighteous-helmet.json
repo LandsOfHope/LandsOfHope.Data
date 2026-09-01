@@ -1,11 +1,11 @@
 {
 	"$type": "/v1/item",
-	"armorType": "mail",
-	"baseValue": 5623,
-	"id": "savage-helm-2",
-	"image": "2659",
+	"armorType": "plate",
+	"baseValue": 4221,
+	"id": "unrighteous-helmet",
+	"image": "2383",
 	"level": {
-		"min": 800
+		"min": 600
 	},
 	"material": "metal",
 	"skills": {
